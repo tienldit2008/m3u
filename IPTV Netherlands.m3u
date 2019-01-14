@@ -1,117 +1,973 @@
 #EXTM3U
 #EXTINF:-1,NPO 1 HD
-http://5.254.66.128:8000/can/29082018/3109
+http://m-iptv.net:6204/ahannan/ahannan/9541
 #EXTINF:-1,NPO 2 HD
-http://5.254.66.128:8000/can/29082018/3110
+http://m-iptv.net:6204/ahannan/ahannan/9539
 #EXTINF:-1,NPO 3 HD
-http://5.254.66.128:8000/can/29082018/3111
-#EXTINF:-1,RTL 4
-http://5.254.66.128:8000/can/29082018/3112
-#EXTINF:-1,RTL 5
-http://5.254.66.128:8000/can/29082018/3113
-#EXTINF:-1,SBS 6
-http://5.254.66.128:8000/can/29082018/3114
-#EXTINF:-1,RTL 7
-http://5.254.66.128:8000/can/29082018/3115
-#EXTINF:-1,RTL 8
-http://5.254.66.128:8000/can/29082018/3116
-#EXTINF:-1,SBS 9 HD
-http://5.254.66.128:8000/can/29082018/3117
-#EXTINF:-1,Veronica Disney XD
-http://5.254.66.128:8000/can/29082018/3119
-#EXTINF:-1,Nickelodeon / Spike
-http://5.254.66.128:8000/can/29082018/3121
-#EXTINF:-1,Net 5
-http://5.254.66.128:8000/can/29082018/3118
-#EXTINF:-1,FOX
-http://5.254.66.128:8000/can/29082018/11905
-#EXTINF:-1,TLC
-http://5.254.66.128:8000/can/29082018/3144
-#EXTINF:-1,Comedy Central
-http://5.254.66.128:8000/can/29082018/3143
-#EXTINF:-1,Comedy Central Extra
-http://5.254.66.128:8000/can/29082018/18805
+http://m-iptv.net:6204/ahannan/ahannan/9538
+#EXTINF:-1,RTL 4 FHD
+http://m-iptv.net:6204/ahannan/ahannan/9534
+#EXTINF:-1,RTL 5 FHD
+http://m-iptv.net:6204/ahannan/ahannan/9533
+#EXTINF:-1,SBS6 HD
+http://m-iptv.net:6204/ahannan/ahannan/9526
+#EXTINF:-1,RTL 7 FHD
+http://m-iptv.net:6204/ahannan/ahannan/9532
+#EXTINF:-1,Veronica Disney XD Full HD
+http://m-iptv.net:6204/ahannan/ahannan/11191
+#EXTINF:-1,RTL 8 FHD
+http://m-iptv.net:6204/ahannan/ahannan/9531
+#EXTINF:-1,NET 5 HD
+http://m-iptv.net:6204/ahannan/ahannan/9545
+#EXTINF:-1,Fox Channel HD
+http://m-iptv.net:6204/ahannan/ahannan/9562
+#EXTINF:-1,SBS 9
+http://m-iptv.net:6204/ahannan/ahannan/9527
 #EXTINF:-1,RTL Z
-http://5.254.66.128:8000/can/29082018/6157
-#EXTINF:-1,RTL Crime
-http://5.254.66.128:8000/can/29082018/18801
-#EXTINF:-1,RTL Lounge
-http://5.254.66.128:8000/can/29082018/6152
-#EXTINF:-1,E!  HD
-http://5.254.66.128:8000/can/29082018/6159
-#EXTINF:-1,NPO Politiek
-http://5.254.66.128:8000/can/29082018/6151
-#EXTINF:-1,AT 5
-http://5.254.66.128:8000/can/29082018/3120
-#EXTINF:-1,ONS
-http://5.254.66.128:8000/can/29082018/18799
-#EXTINF:-1,NPO 3 Extra
-http://5.254.66.128:8000/can/29082018/18792
-#EXTINF:-1,Ede TV
-http://5.254.66.128:8000/can/29082018/18807
-#EXTINF:-1,L1 Limburg HD
-http://5.254.66.128:8000/can/29082018/6147
-#EXTINF:-1,Omroep Gelderland
-http://5.254.66.128:8000/can/29082018/18797
-#EXTINF:-1,Omroep Zeeland
-http://5.254.66.128:8000/can/29082018/18798
-#EXTINF:-1,RTV Drenthe
-http://5.254.66.128:8000/can/29082018/6146
-#EXTINF:-1,RTV Dordrecht
-http://5.254.66.128:8000/can/29082018/18802
-#EXTINF:-1,RTV Oost
-http://5.254.66.128:8000/can/29082018/18803
-#EXTINF:-1,Film 1 Action
-http://5.254.66.128:8000/can/29082018/3125
-#EXTINF:-1,Film 1 Premiere
-http://5.254.66.128:8000/can/29082018/3126
-#EXTINF:-1,Film 1 Drama
-http://5.254.66.128:8000/can/29082018/3127
-#EXTINF:-1,Film 1 Family
-http://5.254.66.128:8000/can/29082018/6163
-#EXTINF:-1,13TH STREET
-http://5.254.66.128:8000/can/29082018/6168
-#EXTINF:-1,Nat Geo
-http://5.254.66.128:8000/can/29082018/3140
-#EXTINF:-1,Nat Geo Wild
-http://5.254.66.128:8000/can/29082018/6139
-#EXTINF:-1,Discovery Channel
-http://5.254.66.128:8000/can/29082018/3141
-#EXTINF:-1,Discovery Showcase
-http://5.254.66.128:8000/can/29082018/6138
-#EXTINF:-1,History
-http://5.254.66.128:8000/can/29082018/3124
-#EXTINF:-1,Investigation Discovery
-http://5.254.66.128:8000/can/29082018/6137
-#EXTINF:-1,24Kitchen
-http://5.254.66.128:8000/can/29082018/6142
-#EXTINF:-1,Pebble TV
-http://5.254.66.128:8000/can/29082018/18800
-#EXTINF:-1,Baby TV
-http://5.254.66.128:8000/can/29082018/18793
-#EXTINF:-1,Disney Junior
-http://5.254.66.128:8000/can/29082018/18794
-#EXTINF:-1,Nick Jr HD
-http://5.254.66.128:8000/can/29082018/6144
-#EXTINF:-1,NickToons
-http://5.254.66.128:8000/can/29082018/18791
-#EXTINF:-1,JimJam
-http://5.254.66.128:8000/can/29082018/18808
+http://m-iptv.net:6204/ahannan/ahannan/9528
+#EXTINF:-1,Comedy Central HD
+http://m-iptv.net:6204/ahannan/ahannan/9577
+#EXTINF:-1,Discovery Showcase HD
+http://m-iptv.net:6204/ahannan/ahannan/9574
+#EXTINF:-1,National Geographic HD NL
+http://m-iptv.net:6204/ahannan/ahannan/11056
+#EXTINF:-1,Spike NL
+http://m-iptv.net:6204/ahannan/ahannan/11009
+#EXTINF:-1,Film1 Premiere HD
+http://m-iptv.net:6204/ahannan/ahannan/9565
+#EXTINF:-1,Film1 Family HD
+http://m-iptv.net:6204/ahannan/ahannan/9566
+#EXTINF:-1,Film1 Action HD
+http://m-iptv.net:6204/ahannan/ahannan/9567
+#EXTINF:-1,Film1 Drama HD
+http://m-iptv.net:6204/ahannan/ahannan/9564
+#EXTINF:-1,EuroSport 1 HD
+http://m-iptv.net:6204/ahannan/ahannan/9570
+#EXTINF:-1,EuroSport 2 HD
+http://m-iptv.net:6204/ahannan/ahannan/9569
+#EXTINF:-1,Fox Sport 1 HD
+http://m-iptv.net:6204/ahannan/ahannan/9561
+#EXTINF:-1,Fox Sport 2 HD
+http://m-iptv.net:6204/ahannan/ahannan/9560
+#EXTINF:-1,Fox Sport 4 HD
+http://m-iptv.net:6204/ahannan/ahannan/9558
+#EXTINF:-1,Ziggo Sport Select HD
+http://m-iptv.net:6204/ahannan/ahannan/9518
+#EXTINF:-1,Ziggo Sport Voetbal
+http://m-iptv.net:6204/ahannan/ahannan/9517
+#EXTINF:-1,Ziggo Sport Golf
+http://m-iptv.net:6204/ahannan/ahannan/9520
+#EXTINF:-1,EDGE Sport HD NL
+http://m-iptv.net:6204/ahannan/ahannan/11062
+#EXTINF:-1,Motors TV
+http://m-iptv.net:6204/ahannan/ahannan/9547
 #EXTINF:-1,Disney Channel
-http://5.254.66.128:8000/can/29082018/6153
+http://m-iptv.net:6204/ahannan/ahannan/9573
+#EXTINF:-1,Nick Toons
+http://m-iptv.net:6204/ahannan/ahannan/9543
+#EXTINF:-1,Nick JR.
+http://m-iptv.net:6204/ahannan/ahannan/9544
+#EXTINF:-1,Cartoon Network
+http://m-iptv.net:6204/ahannan/ahannan/9579
 #EXTINF:-1,Boomerang
-http://5.254.66.128:8000/can/29082018/6149
-#EXTINF:-1,Ketnet
-http://5.254.66.128:8000/can/29082018/6134
-#EXTINF:-1,RTL Telekids
-http://5.254.66.128:8000/can/29082018/6156
+http://m-iptv.net:6204/ahannan/ahannan/9580
+#EXTINF:-1,Discovery Channel
+http://m-iptv.net:6204/ahannan/ahannan/9575
+#EXTINF:-1,TLC
+http://m-iptv.net:6204/ahannan/ahannan/9525
+#EXTINF:-1,Nat Geo Wild HD
+http://m-iptv.net:6204/ahannan/ahannan/9546
+#EXTINF:-1,Animal Planet
+http://m-iptv.net:6204/ahannan/ahannan/9582
+#EXTINF:-1,History HD DUT
+http://m-iptv.net:6204/ahannan/ahannan/9552
+#EXTINF:-1,Investigation Discovery
+http://m-iptv.net:6204/ahannan/ahannan/9550
+#EXTINF:-1,RTL Crime HD
+http://m-iptv.net:6204/ahannan/ahannan/9530
+#EXTINF:-1,Stringray Djazz FHD NL
+http://m-iptv.net:6204/ahannan/ahannan/11039
+#EXTINF:-1,192TV
+http://m-iptv.net:6204/ahannan/ahannan/9584
+#EXTINF:-1,ONS NL
+http://m-iptv.net:6204/ahannan/ahannan/11013
+#EXTINF:-1,NPO Politiek
+http://m-iptv.net:6204/ahannan/ahannan/9536
+#EXTINF:-1,NPO Zapp Xtra/NPO Humor TV
+http://m-iptv.net:6204/ahannan/ahannan/9535
+#EXTINF:-1,E!
+http://m-iptv.net:6204/ahannan/ahannan/9571
+#EXTINF:-1,The Q You HD NL
+http://m-iptv.net:6204/ahannan/ahannan/11008
 #EXTINF:-1,Duck TV
-http://5.254.66.128:8000/can/29082018/18806
-#EXTINF:-1,192 TV
-http://5.254.66.128:8000/can/29082018/18809
-#EXTINF:-1,Xite
-http://5.254.66.128:8000/can/29082018/6143
+http://m-iptv.net:6204/ahannan/ahannan/9572
+#EXTINF:-1,Baby TV
+http://m-iptv.net:6204/ahannan/ahannan/9581
+#EXTINF:-1,RTL Telekids FHD
+http://m-iptv.net:6204/ahannan/ahannan/13531
+#EXTINF:-1,RTL Lounge
+http://m-iptv.net:6204/ahannan/ahannan/9529
+#EXTINF:-1,24 Kitchen HD
+http://m-iptv.net:6204/ahannan/ahannan/9583
+#EXTINF:-1,Ketnet HD
+http://m-iptv.net:6204/ahannan/ahannan/9548
+#EXTINF:-1,MTV NL
+http://m-iptv.net:6204/ahannan/ahannan/11057
+#EXTINF:-1,Omroep Brabant NL
+http://m-iptv.net:6204/ahannan/ahannan/11019
+#EXTINF:-1,Omroep Zeeland NL
+http://m-iptv.net:6204/ahannan/ahannan/11015
+#EXTINF:-1,AT 5 NL
+http://m-iptv.net:6204/ahannan/ahannan/11024
+#EXTINF:-1,Omroep Flevoland NL
+http://m-iptv.net:6204/ahannan/ahannan/11018
+#EXTINF:-1,Omroep Gelderland NL
+http://m-iptv.net:6204/ahannan/ahannan/11017
+#EXTINF:-1,RTV Drenthe NL
+http://m-iptv.net:6204/ahannan/ahannan/11012
+#EXTINF:-1,RTV Oost NL
+http://m-iptv.net:6204/ahannan/ahannan/11010
+#EXTINF:-1,RTV Noord NL
+http://m-iptv.net:6204/ahannan/ahannan/11011
+#EXTINF:-1,Omrop Fryslan NL
+http://m-iptv.net:6204/ahannan/ahannan/11014
+#EXTINF:-1,RTL Telekids HD
+http://m-iptv.net:6204/ahannan/ahannan/13530
+#EXTINF:-1,RTL Telekids
+http://m-iptv.net:6204/ahannan/ahannan/11051
+#EXTINF:-1,NPO 101
+http://m-iptv.net:6204/ahannan/ahannan/9540
+#EXTINF:-1,NPO HUMOR
+http://m-iptv.net:6204/ahannan/ahannan/9537
+#EXTINF:-1,NPO Best/Zapp Xtra NL
+http://m-iptv.net:6204/ahannan/ahannan/11055
+#EXTINF:-1,NPO Cultura NL
+http://m-iptv.net:6204/ahannan/ahannan/11054
+#EXTINF:-1,NPO Humor TV NL
+http://m-iptv.net:6204/ahannan/ahannan/11053
+#EXTINF:-1,NPO Politiek NL
+http://m-iptv.net:6204/ahannan/ahannan/11052
+#EXTINF:-1,Omroep West NL
+http://m-iptv.net:6204/ahannan/ahannan/11016
+#EXTINF:-1,RTV Dordrecht NL
+http://m-iptv.net:6204/ahannan/ahannan/11050
+#EXTINF:-1,RTV Purmerend NL
+http://m-iptv.net:6204/ahannan/ahannan/11049
+#EXTINF:-1,RTV Rijnmond NL
+http://m-iptv.net:6204/ahannan/ahannan/11048
+#EXTINF:-1,RTV Slingeland NL
+http://m-iptv.net:6204/ahannan/ahannan/11047
+#EXTINF:-1,RTV Slos NL
+http://m-iptv.net:6204/ahannan/ahannan/11046
+#EXTINF:-1,RTV Totaal NL
+http://m-iptv.net:6204/ahannan/ahannan/11045
+#EXTINF:-1,RTV Utrecht NL
+http://m-iptv.net:6204/ahannan/ahannan/11044
+#EXTINF:-1,MTV Hits NL
+http://m-iptv.net:6204/ahannan/ahannan/11059
+#EXTINF:-1,MTV Music 24 NL
+http://m-iptv.net:6204/ahannan/ahannan/11058
+#EXTINF:-1,iConcerts HD
+http://m-iptv.net:6204/ahannan/ahannan/9551
+#EXTINF:-1,Nick Music NL
+http://m-iptv.net:6204/ahannan/ahannan/11021
+#EXTINF:-1,Comedy Central Eextra
+http://m-iptv.net:6204/ahannan/ahannan/9578
+#EXTINF:-1,Crime & Investigation
+http://m-iptv.net:6204/ahannan/ahannan/9576
+#EXTINF:-1,Look TV
+http://m-iptv.net:6204/ahannan/ahannan/9553
+#EXTINF:-1,L1 TV NL
+http://m-iptv.net:6204/ahannan/ahannan/11022
+#EXTINF:-1,TV 538 NL
+http://m-iptv.net:6204/ahannan/ahannan/11007
+#EXTINF:-1,WOS NL
+http://m-iptv.net:6204/ahannan/ahannan/11006
+#EXTINF:-1,BBC Entertainment NL
+http://m-iptv.net:6204/ahannan/ahannan/11066
+#EXTINF:-1,EDE TV NL
+http://m-iptv.net:6204/ahannan/ahannan/11063
+#EXTINF:-1,Feel Good TV NL
+http://m-iptv.net:6204/ahannan/ahannan/11061
+#EXTINF:-1,Klipkar TV NL
+http://m-iptv.net:6204/ahannan/ahannan/11060
+#EXTINF:-1,Salto 1 NL
+http://m-iptv.net:6204/ahannan/ahannan/11043
+#EXTINF:-1,Salto 2 NL
+http://m-iptv.net:6204/ahannan/ahannan/11042
+#EXTINF:-1,Slam! NL
+http://m-iptv.net:6204/ahannan/ahannan/11041
+#EXTINF:-1,Slotstad RTV NL
+http://m-iptv.net:6204/ahannan/ahannan/11040
+#EXTINF:-1,Viceland HD NL
+http://m-iptv.net:6204/ahannan/ahannan/11038
+#EXTINF:-1,TV Oranje
+http://m-iptv.net:6204/ahannan/ahannan/9524
+#EXTINF:-1,JimJam
+http://m-iptv.net:6204/ahannan/ahannan/9549
+#EXTINF:-1,Disney Junior NL
+http://m-iptv.net:6204/ahannan/ahannan/11064
+#EXTINF:-1,Disney Channel NL
+http://m-iptv.net:6204/ahannan/ahannan/11065
+#EXTINF:-1,Veronica/DisneyXD
+http://m-iptv.net:6204/ahannan/ahannan/9523
+#EXTINF:-1,Nickenldeon HD / Spike Channel
+http://m-iptv.net:6204/ahannan/ahannan/9542
+#EXTINF:-1,Extreme Sports
+http://m-iptv.net:6204/ahannan/ahannan/9568
+#EXTINF:-1,Ziggo Sport Extra 1
+http://m-iptv.net:6204/ahannan/ahannan/9522
+#EXTINF:-1,Ziggo Sport Extra 2
+http://m-iptv.net:6204/ahannan/ahannan/9521
+#EXTINF:-1,Ziggo Sport Racing
+http://m-iptv.net:6204/ahannan/ahannan/9519
+#EXTINF:-1,Ziggo Sport Voetbal Backup
+http://m-iptv.net:6204/ahannan/ahannan/11192
+#EXTINF:-1,Ziggo Sport Select HD Backup
+http://m-iptv.net:6204/ahannan/ahannan/11193
+#EXTINF:-1,Ziggo Sport Golf Backup
+http://m-iptv.net:6204/ahannan/ahannan/11194
+#EXTINF:-1,Ziggo Sport Extra 1 Backup
+http://m-iptv.net:6204/ahannan/ahannan/11196
+#EXTINF:-1,Ziggo Sport Extra 2 Backup
+http://m-iptv.net:6204/ahannan/ahannan/11195
+#EXTINF:-1,Fox Sport 3 HD
+http://m-iptv.net:6204/ahannan/ahannan/9559
+#EXTINF:-1,Fox Sport 5 HD
+http://m-iptv.net:6204/ahannan/ahannan/9557
+#EXTINF:-1,Fox Sport 6 HD
+http://m-iptv.net:6204/ahannan/ahannan/9556
+#EXTINF:-1,Fox Sport 1 HD backup
+http://m-iptv.net:6204/ahannan/ahannan/11202
+#EXTINF:-1,Fox Sport 2 HD backup
+http://m-iptv.net:6204/ahannan/ahannan/11201
+#EXTINF:-1,Fox Sport 3 HD backup
+http://m-iptv.net:6204/ahannan/ahannan/11200
+#EXTINF:-1,Fox Sport 4 HD backup
+http://m-iptv.net:6204/ahannan/ahannan/11199
+#EXTINF:-1,Fox Sport 5 HD backup
+http://m-iptv.net:6204/ahannan/ahannan/11198
+#EXTINF:-1,Fox Sport 6 HD backup
+http://m-iptv.net:6204/ahannan/ahannan/11197
+#EXTINF:-1,FOX Sports 1 HD Backup2
+http://m-iptv.net:6204/ahannan/ahannan/13549
+#EXTINF:-1,FOX Sports 2 HD Backup2
+http://m-iptv.net:6204/ahannan/ahannan/13548
+#EXTINF:-1,FOX Sports 3 HD Backup2
+http://m-iptv.net:6204/ahannan/ahannan/13547
+#EXTINF:-1,FOX Sports 4 HD Backup2
+http://m-iptv.net:6204/ahannan/ahannan/13546
+#EXTINF:-1,FOX Sports 5 HD Backup2
+http://m-iptv.net:6204/ahannan/ahannan/13545
+#EXTINF:-1,FOX Sports 6 HD Backup2
+http://m-iptv.net:6204/ahannan/ahannan/13544
+#EXTINF:-1,RTL 4 FHD Backup
+http://m-iptv.net:6204/ahannan/ahannan/13537
+#EXTINF:-1,RTL 5 FHD Backup
+http://m-iptv.net:6204/ahannan/ahannan/13536
+#EXTINF:-1,RTL 7 FHD Backup
+http://m-iptv.net:6204/ahannan/ahannan/13535
+#EXTINF:-1,RTL 8 FHD Backup
+http://m-iptv.net:6204/ahannan/ahannan/13534
+#EXTINF:-1,RTL Crime HD Backup
+http://m-iptv.net:6204/ahannan/ahannan/13533
+#EXTINF:-1,RTL Lounge Backup
+http://m-iptv.net:6204/ahannan/ahannan/13532
+#EXTINF:-1,RTL Z Backup
+http://m-iptv.net:6204/ahannan/ahannan/13529
+#EXTINF:-1,NPO 1 HD Backup
+http://m-iptv.net:6204/ahannan/ahannan/13543
+#EXTINF:-1,NPO 2 HD Backup
+http://m-iptv.net:6204/ahannan/ahannan/13542
+#EXTINF:-1,NPO 3 Backup
+http://m-iptv.net:6204/ahannan/ahannan/13541
+#EXTINF:-1,NPO 3 Extra Backup
+http://m-iptv.net:6204/ahannan/ahannan/13540
+#EXTINF:-1,NPO Politiek Backup
+http://m-iptv.net:6204/ahannan/ahannan/13539
+#EXTINF:-1,NPO Zapp HD Backup
+http://m-iptv.net:6204/ahannan/ahannan/13538
+#EXTINF:-1,SBS 9 HD Backup
+http://m-iptv.net:6204/ahannan/ahannan/13551
+#EXTINF:-1,SBS6 HD Backup
+http://m-iptv.net:6204/ahannan/ahannan/13550
+#EXTINF:-1,Film1 Action HD Backup
+http://m-iptv.net:6204/ahannan/ahannan/13528
+#EXTINF:-1,Film1 Family HD Backup
+http://m-iptv.net:6204/ahannan/ahannan/13526
+#EXTINF:-1,Film1 Premiere HD Backup
+http://m-iptv.net:6204/ahannan/ahannan/13525
+#EXTINF:-1,Film1 Drama HD Backup
+http://m-iptv.net:6204/ahannan/ahannan/13527
+
+#EXTINF:-1,NPO 1 HD
+http://smart.itiptv.com:25461/Gazi/Gazi/585
+#EXTINF:-1,NPO 2 HD
+http://smart.itiptv.com:25461/Gazi/Gazi/584
+#EXTINF:-1,NPO 3 HD
+http://smart.itiptv.com:25461/Gazi/Gazi/583
+#EXTINF:-1,RTL 4 HD
+http://smart.itiptv.com:25461/Gazi/Gazi/582
+#EXTINF:-1,RTL 5 HD
+http://smart.itiptv.com:25461/Gazi/Gazi/581
+#EXTINF:-1,SBS 6 HD
+http://smart.itiptv.com:25461/Gazi/Gazi/580
+#EXTINF:-1,RTL 7 HD
+http://smart.itiptv.com:25461/Gazi/Gazi/579
+#EXTINF:-1,RTL 8 HD
+http://smart.itiptv.com:25461/Gazi/Gazi/578
+#EXTINF:-1,SBS 9
+http://smart.itiptv.com:25461/Gazi/Gazi/577
+#EXTINF:-1,Veronica HD /Disney XD
+http://smart.itiptv.com:25461/Gazi/Gazi/575
+#EXTINF:-1,Net 5 HD
+http://smart.itiptv.com:25461/Gazi/Gazi/574
+#EXTINF:-1,RTL Z HD
+http://smart.itiptv.com:25461/Gazi/Gazi/573
+#EXTINF:-1,RTL Crime
+http://smart.itiptv.com:25461/Gazi/Gazi/572
+#EXTINF:-1,RTL Lounge
+http://smart.itiptv.com:25461/Gazi/Gazi/571
+#EXTINF:-1,FOX HD
+http://smart.itiptv.com:25461/Gazi/Gazi/576
+#EXTINF:-1,Spike HD
+http://smart.itiptv.com:25461/Gazi/Gazi/569
+#EXTINF:-1,TLC HD
+http://smart.itiptv.com:25461/Gazi/Gazi/567
 #EXTINF:-1,Nick Music
-http://5.254.66.128:8000/can/29082018/11897
-#EXTINF:-1,MTV
-http://5.254.66.128:8000/can/29082018/3123
+http://smart.itiptv.com:25461/Gazi/Gazi/564
+#EXTINF:-1,Nick JR
+http://smart.itiptv.com:25461/Gazi/Gazi/563
+#EXTINF:-1,Nick Toons
+http://smart.itiptv.com:25461/Gazi/Gazi/562
+#EXTINF:-1,Nickelodeon / Spike Channel
+http://smart.itiptv.com:25461/Gazi/Gazi/565
+#EXTINF:-1,Comedy Central
+http://smart.itiptv.com:25461/Gazi/Gazi/561
+#EXTINF:-1,Comedy Central Extra
+http://smart.itiptv.com:25461/Gazi/Gazi/560
+#EXTINF:-1,Family 7
+http://smart.itiptv.com:25461/Gazi/Gazi/559
+#EXTINF:-1,Cartoon Network
+http://smart.itiptv.com:25461/Gazi/Gazi/558
+#EXTINF:-1,Disney Junior
+http://smart.itiptv.com:25461/Gazi/Gazi/556
+#EXTINF:-1,Disney Channel HD
+http://smart.itiptv.com:25461/Gazi/Gazi/557
+#EXTINF:-1,Boomerang
+http://smart.itiptv.com:25461/Gazi/Gazi/554
+#EXTINF:-1,RTL Telekids
+http://smart.itiptv.com:25461/Gazi/Gazi/553
+#EXTINF:-1,Baby TV
+http://smart.itiptv.com:25461/Gazi/Gazi/552
+#EXTINF:-1,Pebble TV
+http://smart.itiptv.com:25461/Gazi/Gazi/550
+#EXTINF:-1,Film1 Premiere HD
+http://smart.itiptv.com:25461/Gazi/Gazi/546
+#EXTINF:-1,Film1 Action HD
+http://smart.itiptv.com:25461/Gazi/Gazi/549
+#EXTINF:-1,Film1 Drama HD
+http://smart.itiptv.com:25461/Gazi/Gazi/548
+#EXTINF:-1,Film1 Family HD
+http://smart.itiptv.com:25461/Gazi/Gazi/547
+#EXTINF:-1,Ziggo Sport 1 Select HD
+http://smart.itiptv.com:25461/Gazi/Gazi/545
+#EXTINF:-1,Ziggo Sport 1 Voetbal HD
+http://smart.itiptv.com:25461/Gazi/Gazi/543
+#EXTINF:-1,Ziggo Sport 1 Racing HD
+http://smart.itiptv.com:25461/Gazi/Gazi/544
+#EXTINF:-1,Ziggo Sport1 Golf HD
+http://smart.itiptv.com:25461/Gazi/Gazi/542
+#EXTINF:-1,Sport 1 Extra 1
+http://smart.itiptv.com:25461/Gazi/Gazi/541
+#EXTINF:-1,Sport 1 Extra 2
+http://smart.itiptv.com:25461/Gazi/Gazi/540
+#EXTINF:-1,Eurosport HD
+http://smart.itiptv.com:25461/Gazi/Gazi/538
+#EXTINF:-1,Eurosport 2 HD
+http://smart.itiptv.com:25461/Gazi/Gazi/539
+#EXTINF:-1,Extreme Sports
+http://smart.itiptv.com:25461/Gazi/Gazi/537
+#EXTINF:-1,Motorsport TV HD
+http://smart.itiptv.com:25461/Gazi/Gazi/536
+#EXTINF:-1,Fox Sport 1 Eredivisie HD
+http://smart.itiptv.com:25461/Gazi/Gazi/535
+#EXTINF:-1,Fox Sport 2 International HD
+http://smart.itiptv.com:25461/Gazi/Gazi/534
+#EXTINF:-1,Fox Sport 3 Eredivisie HD
+http://smart.itiptv.com:25461/Gazi/Gazi/533
+#EXTINF:-1,Fox Sport 4 HD
+http://smart.itiptv.com:25461/Gazi/Gazi/532
+#EXTINF:-1,Fox Sport 5 Eredivisie HD
+http://smart.itiptv.com:25461/Gazi/Gazi/531
+#EXTINF:-1,Fox Sport 6 HD
+http://smart.itiptv.com:25461/Gazi/Gazi/530
+#EXTINF:-1,Discovery HD Showcase
+http://smart.itiptv.com:25461/Gazi/Gazi/529
+#EXTINF:-1,Discovery Science HD
+http://smart.itiptv.com:25461/Gazi/Gazi/528
+#EXTINF:-1,Discovery World
+http://smart.itiptv.com:25461/Gazi/Gazi/527
+#EXTINF:-1,Investigation Discovery HD
+http://smart.itiptv.com:25461/Gazi/Gazi/526
+#EXTINF:-1,Crime & Investigation
+http://smart.itiptv.com:25461/Gazi/Gazi/525
+#EXTINF:-1,HISTORY HD
+http://smart.itiptv.com:25461/Gazi/Gazi/524
+#EXTINF:-1,24Kitchen HD
+http://smart.itiptv.com:25461/Gazi/Gazi/523
+#EXTINF:-1,Food Network HD
+http://smart.itiptv.com:25461/Gazi/Gazi/522
+#EXTINF:-1,Animal Planet HD
+http://smart.itiptv.com:25461/Gazi/Gazi/521
+#EXTINF:-1,National Geographic HD
+http://smart.itiptv.com:25461/Gazi/Gazi/520
+#EXTINF:-1,National Geographic Wild HD
+http://smart.itiptv.com:25461/Gazi/Gazi/519
+
+#EXTINF:-1,RTL 4 FHD
+http://smart-hdip.com:6204/lava1/lava1/9534
+#EXTINF:-1,RTL 5 FHD
+http://smart-hdip.com:6204/lava1/lava1/9533
+#EXTINF:-1,RTL 7 FHD
+http://smart-hdip.com:6204/lava1/lava1/9532
+#EXTINF:-1,RTL 8 FHD
+http://smart-hdip.com:6204/lava1/lava1/9531
+#EXTINF:-1,RTL Crime HD
+http://smart-hdip.com:6204/lava1/lava1/9530
+#EXTINF:-1,RTL Lounge
+http://smart-hdip.com:6204/lava1/lava1/9529
+#EXTINF:-1,RTL Z
+http://smart-hdip.com:6204/lava1/lava1/9528
+#EXTINF:-1,RTL 4 FHD Backup
+http://smart-hdip.com:6204/lava1/lava1/13537
+#EXTINF:-1,RTL 5 FHD Backup
+http://smart-hdip.com:6204/lava1/lava1/13536
+#EXTINF:-1,RTL 7 FHD Backup
+http://smart-hdip.com:6204/lava1/lava1/13535
+#EXTINF:-1,RTL 8 FHD Backup
+http://smart-hdip.com:6204/lava1/lava1/13534
+#EXTINF:-1,RTL Crime HD Backup
+http://smart-hdip.com:6204/lava1/lava1/13533
+#EXTINF:-1,RTL Lounge Backup
+http://smart-hdip.com:6204/lava1/lava1/13532
+#EXTINF:-1,RTL Z Backup
+http://smart-hdip.com:6204/lava1/lava1/13529
+#EXTINF:-1,RTL Telekids FHD
+http://smart-hdip.com:6204/lava1/lava1/13531
+#EXTINF:-1,RTL Telekids HD
+http://smart-hdip.com:6204/lava1/lava1/13530
+#EXTINF:-1,RTL Telekids
+http://smart-hdip.com:6204/lava1/lava1/11051
+#EXTINF:-1,NPO 101
+http://smart-hdip.com:6204/lava1/lava1/9540
+#EXTINF:-1,NPO 1 HD
+http://smart-hdip.com:6204/lava1/lava1/9541
+#EXTINF:-1,NPO 2 HD
+http://smart-hdip.com:6204/lava1/lava1/9539
+#EXTINF:-1,NPO 3 HD
+http://smart-hdip.com:6204/lava1/lava1/9538
+#EXTINF:-1,NPO HUMOR
+http://smart-hdip.com:6204/lava1/lava1/9537
+#EXTINF:-1,NPO Politiek
+http://smart-hdip.com:6204/lava1/lava1/9536
+#EXTINF:-1,NPO Zapp Xtra/NPO Humor TV
+http://smart-hdip.com:6204/lava1/lava1/9535
+#EXTINF:-1,NPO Best/Zapp Xtra NL
+http://smart-hdip.com:6204/lava1/lava1/11055
+#EXTINF:-1,NPO Cultura NL
+http://smart-hdip.com:6204/lava1/lava1/11054
+#EXTINF:-1,NPO Humor TV NL
+http://smart-hdip.com:6204/lava1/lava1/11053
+#EXTINF:-1,NPO Politiek NL
+http://smart-hdip.com:6204/lava1/lava1/11052
+#EXTINF:-1,NPO 1 HD Backup
+http://smart-hdip.com:6204/lava1/lava1/13543
+#EXTINF:-1,NPO 2 HD Backup
+http://smart-hdip.com:6204/lava1/lava1/13542
+#EXTINF:-1,NPO 3 Backup
+http://smart-hdip.com:6204/lava1/lava1/13541
+#EXTINF:-1,NPO 3 Extra Backup
+http://smart-hdip.com:6204/lava1/lava1/13540
+#EXTINF:-1,NPO Politiek Backup
+http://smart-hdip.com:6204/lava1/lava1/13539
+#EXTINF:-1,NPO Zapp HD Backup
+http://smart-hdip.com:6204/lava1/lava1/13538
+#EXTINF:-1,SBS 9
+http://smart-hdip.com:6204/lava1/lava1/9527
+#EXTINF:-1,SBS6 HD
+http://smart-hdip.com:6204/lava1/lava1/9526
+#EXTINF:-1,SBS 9 HD Backup
+http://smart-hdip.com:6204/lava1/lava1/13551
+#EXTINF:-1,SBS6 HD Backup
+http://smart-hdip.com:6204/lava1/lava1/13550
+#EXTINF:-1,Film1 Action HD
+http://smart-hdip.com:6204/lava1/lava1/9567
+#EXTINF:-1,Film1 Family HD
+http://smart-hdip.com:6204/lava1/lava1/9566
+#EXTINF:-1,Film1 Premiere HD
+http://smart-hdip.com:6204/lava1/lava1/9565
+#EXTINF:-1,Film1 Drama HD
+http://smart-hdip.com:6204/lava1/lava1/9564
+#EXTINF:-1,Film1 Action HD Backup
+http://smart-hdip.com:6204/lava1/lava1/13528
+#EXTINF:-1,Film1 Family HD Backup
+http://smart-hdip.com:6204/lava1/lava1/13526
+#EXTINF:-1,Film1 Premiere HD Backup
+http://smart-hdip.com:6204/lava1/lava1/13525
+#EXTINF:-1,Film1 Drama HD Backup
+http://smart-hdip.com:6204/lava1/lava1/13527
+#EXTINF:-1,Look TV
+http://smart-hdip.com:6204/lava1/lava1/9553
+#EXTINF:-1,192TV
+http://smart-hdip.com:6204/lava1/lava1/9584
+#EXTINF:-1,24 Kitchen HD
+http://smart-hdip.com:6204/lava1/lava1/9583
+#EXTINF:-1,Comedy Central HD
+http://smart-hdip.com:6204/lava1/lava1/9577
+#EXTINF:-1,Crime & Investigation
+http://smart-hdip.com:6204/lava1/lava1/9576
+#EXTINF:-1,Comedy Central Eextra
+http://smart-hdip.com:6204/lava1/lava1/9578
+#EXTINF:-1,Duck TV
+http://smart-hdip.com:6204/lava1/lava1/9572
+#EXTINF:-1,E!
+http://smart-hdip.com:6204/lava1/lava1/9571
+#EXTINF:-1,iConcerts HD
+http://smart-hdip.com:6204/lava1/lava1/9551
+#EXTINF:-1,Ketnet HD
+http://smart-hdip.com:6204/lava1/lava1/9548
+#EXTINF:-1,NET 5 HD
+http://smart-hdip.com:6204/lava1/lava1/9545
+#EXTINF:-1,Omroep Brabant NL
+http://smart-hdip.com:6204/lava1/lava1/11019
+#EXTINF:-1,Omroep Flevoland NL
+http://smart-hdip.com:6204/lava1/lava1/11018
+#EXTINF:-1,Omroep Gelderland NL
+http://smart-hdip.com:6204/lava1/lava1/11017
+#EXTINF:-1,Omroep West NL
+http://smart-hdip.com:6204/lava1/lava1/11016
+#EXTINF:-1,Omroep Zeeland NL
+http://smart-hdip.com:6204/lava1/lava1/11015
+#EXTINF:-1,Omrop Fryslan NL
+http://smart-hdip.com:6204/lava1/lava1/11014
+#EXTINF:-1,RTV Drenthe NL
+http://smart-hdip.com:6204/lava1/lava1/11012
+#EXTINF:-1,RTV Noord NL
+http://smart-hdip.com:6204/lava1/lava1/11011
+#EXTINF:-1,RTV Oost NL
+http://smart-hdip.com:6204/lava1/lava1/11010
+#EXTINF:-1,RTV Dordrecht NL
+http://smart-hdip.com:6204/lava1/lava1/11050
+#EXTINF:-1,RTV Purmerend NL
+http://smart-hdip.com:6204/lava1/lava1/11049
+#EXTINF:-1,RTV Rijnmond NL
+http://smart-hdip.com:6204/lava1/lava1/11048
+#EXTINF:-1,RTV Slingeland NL
+http://smart-hdip.com:6204/lava1/lava1/11047
+#EXTINF:-1,RTV Slos NL
+http://smart-hdip.com:6204/lava1/lava1/11046
+#EXTINF:-1,RTV Totaal NL
+http://smart-hdip.com:6204/lava1/lava1/11045
+#EXTINF:-1,RTV Utrecht NL
+http://smart-hdip.com:6204/lava1/lava1/11044
+#EXTINF:-1,MTV NL
+http://smart-hdip.com:6204/lava1/lava1/11057
+#EXTINF:-1,MTV Hits NL
+http://smart-hdip.com:6204/lava1/lava1/11059
+#EXTINF:-1,MTV Music 24 NL
+http://smart-hdip.com:6204/lava1/lava1/11058
+#EXTINF:-1,AT 5 NL
+http://smart-hdip.com:6204/lava1/lava1/11024
+#EXTINF:-1,L1 TV NL
+http://smart-hdip.com:6204/lava1/lava1/11022
+#EXTINF:-1,Nick Music NL
+http://smart-hdip.com:6204/lava1/lava1/11021
+#EXTINF:-1,ONS NL
+http://smart-hdip.com:6204/lava1/lava1/11013
+#EXTINF:-1,Spike NL
+http://smart-hdip.com:6204/lava1/lava1/11009
+#EXTINF:-1,TV 538 NL
+http://smart-hdip.com:6204/lava1/lava1/11007
+#EXTINF:-1,WOS NL
+http://smart-hdip.com:6204/lava1/lava1/11006
+#EXTINF:-1,The Q You HD NL
+http://smart-hdip.com:6204/lava1/lava1/11008
+#EXTINF:-1,TLC
+http://smart-hdip.com:6204/lava1/lava1/9525
+#EXTINF:-1,TV Oranje
+http://smart-hdip.com:6204/lava1/lava1/9524
+#EXTINF:-1,Fox Channel HD
+http://smart-hdip.com:6204/lava1/lava1/9562
+#EXTINF:-1,BBC Entertainment NL
+http://smart-hdip.com:6204/lava1/lava1/11066
+#EXTINF:-1,EDE TV NL
+http://smart-hdip.com:6204/lava1/lava1/11063
+#EXTINF:-1,Feel Good TV NL
+http://smart-hdip.com:6204/lava1/lava1/11061
+#EXTINF:-1,Klipkar TV NL
+http://smart-hdip.com:6204/lava1/lava1/11060
+#EXTINF:-1,Salto 1 NL
+http://smart-hdip.com:6204/lava1/lava1/11043
+#EXTINF:-1,Salto 2 NL
+http://smart-hdip.com:6204/lava1/lava1/11042
+#EXTINF:-1,Slam! NL
+http://smart-hdip.com:6204/lava1/lava1/11041
+#EXTINF:-1,Slotstad RTV NL
+http://smart-hdip.com:6204/lava1/lava1/11040
+#EXTINF:-1,Stringray Djazz FHD NL
+http://smart-hdip.com:6204/lava1/lava1/11039
+#EXTINF:-1,Viceland HD NL
+http://smart-hdip.com:6204/lava1/lava1/11038
+#EXTINF:-1,Animal Planet
+http://smart-hdip.com:6204/lava1/lava1/9582
+#EXTINF:-1,Nat Geo Wild HD
+http://smart-hdip.com:6204/lava1/lava1/9546
+#EXTINF:-1,National Geographic HD NL
+http://smart-hdip.com:6204/lava1/lava1/11056
+#EXTINF:-1,History HD DUT
+http://smart-hdip.com:6204/lava1/lava1/9552
+#EXTINF:-1,Discovery Channel
+http://smart-hdip.com:6204/lava1/lava1/9575
+#EXTINF:-1,Discovery Showcase HD
+http://smart-hdip.com:6204/lava1/lava1/9574
+#EXTINF:-1,Investigation Discovery
+http://smart-hdip.com:6204/lava1/lava1/9550
+#EXTINF:-1,Baby TV
+http://smart-hdip.com:6204/lava1/lava1/9581
+#EXTINF:-1,Boomerang
+http://smart-hdip.com:6204/lava1/lava1/9580
+#EXTINF:-1,Cartoon Network
+http://smart-hdip.com:6204/lava1/lava1/9579
+#EXTINF:-1,Disney Channel
+http://smart-hdip.com:6204/lava1/lava1/9573
+#EXTINF:-1,Disney Channel NL
+http://smart-hdip.com:6204/lava1/lava1/11065
+#EXTINF:-1,Disney Junior NL
+http://smart-hdip.com:6204/lava1/lava1/11064
+#EXTINF:-1,Veronica Disney XD Full HD
+http://smart-hdip.com:6204/lava1/lava1/11191
+#EXTINF:-1,Veronica/DisneyXD
+http://smart-hdip.com:6204/lava1/lava1/9523
+#EXTINF:-1,JimJam
+http://smart-hdip.com:6204/lava1/lava1/9549
+#EXTINF:-1,Nick JR.
+http://smart-hdip.com:6204/lava1/lava1/9544
+#EXTINF:-1,Nick Toons
+http://smart-hdip.com:6204/lava1/lava1/9543
+#EXTINF:-1,Nickenldeon HD / Spike Channel
+http://smart-hdip.com:6204/lava1/lava1/9542
+#EXTINF:-1,Motors TV
+http://smart-hdip.com:6204/lava1/lava1/9547
+#EXTINF:-1,Extreme Sports
+http://smart-hdip.com:6204/lava1/lava1/9568
+#EXTINF:-1,EuroSport 1 HD
+http://smart-hdip.com:6204/lava1/lava1/9570
+#EXTINF:-1,EuroSport 2 HD
+http://smart-hdip.com:6204/lava1/lava1/9569
+#EXTINF:-1,EDGE Sport HD NL
+http://smart-hdip.com:6204/lava1/lava1/11062
+#EXTINF:-1,Ziggo Sport Voetbal
+http://smart-hdip.com:6204/lava1/lava1/9517
+#EXTINF:-1,Ziggo Sport Select HD
+http://smart-hdip.com:6204/lava1/lava1/9518
+#EXTINF:-1,Ziggo Sport Golf
+http://smart-hdip.com:6204/lava1/lava1/9520
+#EXTINF:-1,Ziggo Sport Racing
+http://smart-hdip.com:6204/lava1/lava1/9519
+#EXTINF:-1,Ziggo Sport Extra 1
+http://smart-hdip.com:6204/lava1/lava1/9522
+#EXTINF:-1,Ziggo Sport Extra 2
+http://smart-hdip.com:6204/lava1/lava1/9521
+#EXTINF:-1,Ziggo Sport Voetbal Backup
+http://smart-hdip.com:6204/lava1/lava1/11192
+#EXTINF:-1,Ziggo Sport Select HD Backup
+http://smart-hdip.com:6204/lava1/lava1/11193
+#EXTINF:-1,Ziggo Sport Golf Backup
+http://smart-hdip.com:6204/lava1/lava1/11194
+#EXTINF:-1,Ziggo Sport Extra 1 Backup
+http://smart-hdip.com:6204/lava1/lava1/11196
+#EXTINF:-1,Ziggo Sport Extra 2 Backup
+http://smart-hdip.com:6204/lava1/lava1/11195
+#EXTINF:-1,Fox Sport 1 HD
+http://smart-hdip.com:6204/lava1/lava1/9561
+#EXTINF:-1,Fox Sport 2 HD
+http://smart-hdip.com:6204/lava1/lava1/9560
+#EXTINF:-1,Fox Sport 3 HD
+http://smart-hdip.com:6204/lava1/lava1/9559
+#EXTINF:-1,Fox Sport 4 HD
+http://smart-hdip.com:6204/lava1/lava1/9558
+#EXTINF:-1,Fox Sport 5 HD
+http://smart-hdip.com:6204/lava1/lava1/9557
+#EXTINF:-1,Fox Sport 6 HD
+http://smart-hdip.com:6204/lava1/lava1/9556
+#EXTINF:-1,Fox Sport 1 HD backup
+http://smart-hdip.com:6204/lava1/lava1/11202
+#EXTINF:-1,Fox Sport 2 HD backup
+http://smart-hdip.com:6204/lava1/lava1/11201
+#EXTINF:-1,Fox Sport 3 HD backup
+http://smart-hdip.com:6204/lava1/lava1/11200
+#EXTINF:-1,Fox Sport 4 HD backup
+http://smart-hdip.com:6204/lava1/lava1/11199
+#EXTINF:-1,Fox Sport 5 HD backup
+http://smart-hdip.com:6204/lava1/lava1/11198
+#EXTINF:-1,Fox Sport 6 HD backup
+http://smart-hdip.com:6204/lava1/lava1/11197
+#EXTINF:-1,FOX Sports 1 HD Backup2
+http://smart-hdip.com:6204/lava1/lava1/13549
+#EXTINF:-1,FOX Sports 2 HD Backup2
+http://smart-hdip.com:6204/lava1/lava1/13548
+#EXTINF:-1,FOX Sports 3 HD Backup2
+http://smart-hdip.com:6204/lava1/lava1/13547
+#EXTINF:-1,FOX Sports 4 HD Backup2
+http://smart-hdip.com:6204/lava1/lava1/13546
+#EXTINF:-1,FOX Sports 5 HD Backup2
+http://smart-hdip.com:6204/lava1/lava1/13545
+#EXTINF:-1,FOX Sports 6 HD Backup2
+http://smart-hdip.com:6204/lava1/lava1/13544
+
+#EXTINF:-1,NL: Ziggo Sport Select FHD 1080
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/5452.m3u8
+#EXTINF:-1,NL: Veronica / Disney XD FHD 1080
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/5453.m3u8
+#EXTINF:-1,NL: Sport 1 Voetbal
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/150.m3u8
+#EXTINF:-1,NL: SBS 9
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/3899.m3u8
+#EXTINF:-1,NL: RTL 8 FHD 1080
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/5455.m3u8
+#EXTINF:-1,NL: RTL 7 FHD 1080
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/5454.m3u8
+#EXTINF:-1,NL: RTL 5 FHD 1080
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/5451.m3u8
+#EXTINF:-1,NL: RTL 4 FHD
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/5450.m3u8
+#EXTINF:-1,NL: NPO 3 FHD 1080
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/5449.m3u8
+#EXTINF:-1,NL: NPO 2 FHD 1080
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/5448.m3u8
+#EXTINF:-1,NL: NPO 1 HD
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/5447.m3u8
+#EXTINF:-1,NL: Fox Sports 6
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/152.m3u8
+#EXTINF:-1,NL: Fox Sports 5
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/153.m3u8
+#EXTINF:-1,NL: Fox Sports 4
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/154.m3u8
+#EXTINF:-1,NL: Fox Sports 3
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/155.m3u8
+#EXTINF:-1,NL: Fox Sports 2
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/156.m3u8
+#EXTINF:-1,NL: Fox Sports 1
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/157.m3u8
+#EXTINF:-1,NL: Eurosport 1 FHD 1080
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/5654.m3u8
+#EXTINF:-1,NL: Eurosport 2 HD
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/5655.m3u8
+#EXTINF:-1,NL: Film1 Premiere FHD 1080
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/5647.m3u8
+#EXTINF:-1,NL: FOX Sports 1 FHD 1080
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/5644.m3u8
+#EXTINF:-1,NL: FOX Sports 2 HD
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/5645.m3u8
+#EXTINF:-1,NL: Nat Geo Wild FHD 1080
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/5653.m3u8
+#EXTINF:-1,NL: National Geographic FHD 1080
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/5652.m3u8
+#EXTINF:-1,NL: Net 5 FHD 1080
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/5649.m3u8
+#EXTINF:-1,NL: SBS6 FHD 1080
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/5648.m3u8
+#EXTINF:-1,NL: Fox Sports 4 HD ( 1080P )
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/7475.m3u8
+#EXTINF:-1,NL: Fox Sports 5 HD ( 1080P )
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/7476.m3u8
+#EXTINF:-1,NL: FOX Sports 3 HD ( 1080P )
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/7474.m3u8
+#EXTINF:-1,NL : Ziggo Sport.Voetbal
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/3891.m3u8
+#EXTINF:-1,NL: Ziggo Sport Select HD
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/3892.m3u8
+#EXTINF:-1,NL: Ziggo Sport Racing
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/3890.m3u8
+#EXTINF:-1,NL : Ziggo Sport Golf
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/3893.m3u8
+#EXTINF:-1,NL : Ziggo Sport Extra2
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/3894.m3u8
+#EXTINF:-1,NL: Ziggo Sport Extra1
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/3895.m3u8
+#EXTINF:-1,NL : Veronica Disney XD
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/3896.m3u8
+#EXTINF:-1,NL: TLC
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/3897.m3u8
+#EXTINF:-1,NL : SYFY
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/3898.m3u8
+#EXTINF:-1,NL: SBS 6
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/3900.m3u8
+#EXTINF:-1,NL: RTL lounge
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/3901.m3u8
+#EXTINF:-1,NL : RTL 8
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/3902.m3u8
+#EXTINF:-1,NL : RTL 7
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/3903.m3u8
+#EXTINF:-1,NL : RTL 5
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/3904.m3u8
+#EXTINF:-1,NL: RTL 4
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/3905.m3u8
+#EXTINF:-1,NL: NPO 3
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/3907.m3u8
+#EXTINF:-1,NL : NPO 2
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/3908.m3u8
+#EXTINF:-1,NL : NPO 1
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/3909.m3u8
+#EXTINF:-1,NL: Nickelodeon
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/3911.m3u8
+#EXTINF:-1,NL: Nick Jr
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/3910.m3u8
+#EXTINF:-1,NL: National Geographic
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/3912.m3u8
+#EXTINF:-1,NL: NET 5
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/3913.m3u8
+#EXTINF:-1,NL: JimJam
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/3914.m3u8
+#EXTINF:-1,NL: Investigation Discovery
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/3915.m3u8
+#EXTINF:-1,NL : History
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/3916.m3u8
+#EXTINF:-1,NL: HBO2
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/3918.m3u8
+#EXTINF:-1,NL: HBO 3
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/3917.m3u8
+#EXTINF:-1,NL: HBO
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/3919.m3u8
+#EXTINF:-1,NL : FOX Channel
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/3920.m3u8
+#EXTINF:-1,NL: Film1 SUNDANCE
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/3921.m3u8
+#EXTINF:-1,NL : Film1 Spotlight
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/3922.m3u8
+#EXTINF:-1,NL: Film1 Premiere
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/3923.m3u8
+#EXTINF:-1,NL : Film1 Comedy & Kids
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/3924.m3u8
+#EXTINF:-1,NL: Film1 Action
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/3925.m3u8
+#EXTINF:-1,NL : Disney Channel
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/3926.m3u8
+#EXTINF:-1,NL : Discovery Channel
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/3927.m3u8
+#EXTINF:-1,NL : Comedy Central
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/3928.m3u8
+#EXTINF:-1,NL: Boomerang
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/3929.m3u8
+#EXTINF:-1,NL: Animal Planet
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/3930.m3u8
+#EXTINF:-1,NL: 13th
+http://premium-iptv.link:6969/live/buyiptvrestream108/jrl3HWsdddsk/3931.m3u8
+
+#EXTINF:-1,NL RTL 5
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8542
+#EXTINF:-1,NL: 24 KITCHEN.
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8565
+#EXTINF:-1,NL: ANIMAL PLANET.
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8564
+#EXTINF:-1,NL: BABY TV.
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8563
+#EXTINF:-1,NL: CARTOON NETWORK.
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8562
+#EXTINF:-1,NL: DISNEY JUNIOR.
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8561
+#EXTINF:-1,NL: Extreme Sports
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8541
+#EXTINF:-1,NL: Film 1 Action HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8540
+#EXTINF:-1,NL: Film 1 Comedy and Kids
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8539
+#EXTINF:-1,NL: Film 1 Premiere HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8538
+#EXTINF:-1,NL: FOX SPORTS 1 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8537
+#EXTINF:-1,NL: FOX SPORTS 2 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8536
+#EXTINF:-1,NL: FOX SPORTS 3 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8535
+#EXTINF:-1,NL: FOX SPORTS 4 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8534
+#EXTINF:-1,NL: FOX SPORTS 6 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8533
+#EXTINF:-1,NL: Golf_HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8532
+#EXTINF:-1,NL: HBO 2 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8531
+#EXTINF:-1,NL: HBO 3 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8530
+#EXTINF:-1,NL: HBO HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8529
+#EXTINF:-1,NL: MTV HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8528
+#EXTINF:-1,NL: National Geographic
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8527
+#EXTINF:-1,NL: NET 5 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8553
+#EXTINF:-1,NL: Nick Music
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8526
+#EXTINF:-1,NL: NICKELODEON.
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8560
+#EXTINF:-1,NL: NPO 1
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8525
+#EXTINF:-1,NL: NPO 1 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8552
+#EXTINF:-1,NL: NPO 2
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8524
+#EXTINF:-1,NL: NPO 2 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8551
+#EXTINF:-1,NL: NPO 3 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8550
+#EXTINF:-1,NL: NPO POLITIEK
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8559
+#EXTINF:-1,NL: NPO3
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8523
+#EXTINF:-1,NL: RTL 4 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8549
+#EXTINF:-1,NL: RTL 5 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8548
+#EXTINF:-1,NL: RTL 7 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8547
+#EXTINF:-1,NL: RTL 8 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8546
+#EXTINF:-1,NL: RTL TELEKIDS.
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8558
+#EXTINF:-1,NL: RTL4_HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8522
+#EXTINF:-1,NL: RTL7 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8521
+#EXTINF:-1,NL: SBS 6 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8545
+#EXTINF:-1,NL: SBS 9 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8544
+#EXTINF:-1,NL: SLAM TV
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8520
+#EXTINF:-1,NL: Sport1 Golf
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8557
+#EXTINF:-1,NL: Sport1 Racing
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8556
+#EXTINF:-1,NL: Sport1 Select
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8555
+#EXTINF:-1,NL: Sport1 Voetbal
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8554
+#EXTINF:-1,NL: TLC HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8543
+#EXTINF:-1,NL: XITE HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8519
+#EXTINF:-1,NL: Ziggo Sport Extra 1
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8518
+#EXTINF:-1,NL: Ziggo Sport Extra 2
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8517
+#EXTINF:-1,NL: Ziggo Sport Golf
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8516
+#EXTINF:-1,NL: Ziggo Sport Racing HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8515
+#EXTINF:-1,NL: Ziggo Sport Select HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8514
+#EXTINF:-1,NL: Ziggo Sport Voetbal HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8513
