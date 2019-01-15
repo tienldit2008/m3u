@@ -1,45 +1,115 @@
 #EXTM3U
-#EXTINF:-1,1 Music Channel
-http://194.88.107.101:6204/ahannan/ahannan/9057
-#EXTINF:-1,Acasa Gold
-http://194.88.107.101:6204/ahannan/ahannan/9056
-#EXTINF:-1,Acasa TV
-http://194.88.107.101:6204/ahannan/ahannan/5904
-#EXTINF:-1,Antena 1
-http://194.88.107.101:6204/ahannan/ahannan/9055
-#EXTINF:-1,Antena 3
-http://194.88.107.101:6204/ahannan/ahannan/9054
-#EXTINF:-1,Antena Stars
-http://194.88.107.101:6204/ahannan/ahannan/9053
-#EXTINF:-1,B1 TV
-http://194.88.107.101:6204/ahannan/ahannan/5798
-#EXTINF:-1,CBS Reality
-http://194.88.107.101:6204/ahannan/ahannan/9051
-#EXTINF:-1,Digi 24
-http://194.88.107.101:6204/ahannan/ahannan/9050
-#EXTINF:-1,Dolce Sport 1 HD
-http://194.88.107.101:6204/ahannan/ahannan/9049
-#EXTINF:-1,Dolce Sport 2 HD
-http://194.88.107.101:6204/ahannan/ahannan/9048
-#EXTINF:-1,HBO
-http://194.88.107.101:6204/ahannan/ahannan/9045
-#EXTINF:-1,Kanal D
-http://194.88.107.101:6204/ahannan/ahannan/9044
-#EXTINF:-1,Kiss TV
-http://194.88.107.101:6204/ahannan/ahannan/9043
-#EXTINF:-1,Na?ional TV
-http://194.88.107.101:6204/ahannan/ahannan/9041
-#EXTINF:-1,National Geographic Wild
-http://194.88.107.101:6204/ahannan/ahannan/9039
-#EXTINF:-1,Prima TV
-http://194.88.107.101:6204/ahannan/ahannan/9038
-#EXTINF:-1,Pro TV
-http://194.88.107.101:6204/ahannan/ahannan/9036
-#EXTINF:-1,Pro TV International
-http://194.88.107.101:6204/ahannan/ahannan/9035
-#EXTINF:-1,Realitatea TV
-http://194.88.107.101:6204/ahannan/ahannan/9034
-#EXTINF:-1,Romania TV
-http://194.88.107.101:6204/ahannan/ahannan/9033
-#EXTINF:-1,Taraf TV
-http://194.88.107.101:6204/ahannan/ahannan/9032
+#EXTINF:-1,NL: 192TV
+http://iptvizle.co:80/muzaffer/02032017/52558
+#EXTINF:-1,NL: 24 Kitchen
+http://iptvizle.co:80/muzaffer/02032017/52559
+#EXTINF:-1,NL: 24Kitchen
+http://iptvizle.co:80/muzaffer/02032017/52560
+#EXTINF:-1,NL: AT5
+http://iptvizle.co:80/muzaffer/02032017/52561
+#EXTINF:-1,NL: Baby Tv
+http://iptvizle.co:80/muzaffer/02032017/52562
+#EXTINF:-1,NL: Boomerang
+http://iptvizle.co:80/muzaffer/02032017/52563
+#EXTINF:-1,NL: Comedy Central
+http://iptvizle.co:80/muzaffer/02032017/52565
+#EXTINF:-1,NL: Discovery Channel
+http://iptvizle.co:80/muzaffer/02032017/52566
+#EXTINF:-1,NL: Disney Junior
+http://iptvizle.co:80/muzaffer/02032017/52567
+#EXTINF:-1,NL: DISNEY XD
+http://iptvizle.co:80/muzaffer/02032017/52568
+#EXTINF:-1,NL: DJAZZ TV
+http://iptvizle.co:80/muzaffer/02032017/52600
+#EXTINF:-1,NL: HBO 2 HD
+http://iptvizle.co:80/muzaffer/02032017/52632
+#EXTINF:-1,NL: HBO 3
+http://iptvizle.co:80/muzaffer/02032017/52576
+#EXTINF:-1,NL: History
+http://iptvizle.co:80/muzaffer/02032017/52592
+#EXTINF:-1,NL: Investigation Discovery
+http://iptvizle.co:80/muzaffer/02032017/52593
+#EXTINF:-1,NL: MTV
+http://iptvizle.co:80/muzaffer/02032017/52595
+#EXTINF:-1,NL: Nat Geo Wild HD
+http://iptvizle.co:80/muzaffer/02032017/52596
+#EXTINF:-1,NL: National Geographic FHD
+http://iptvizle.co:80/muzaffer/02032017/52597
+#EXTINF:-1,NL: Net 5 FHD 1080
+http://iptvizle.co:80/muzaffer/02032017/52598
+#EXTINF:-1,NL: NET 5 HD
+http://iptvizle.co:80/muzaffer/02032017/52599
+#EXTINF:-1,NL: Nick JR
+http://iptvizle.co:80/muzaffer/02032017/52601
+#EXTINF:-1,NL: Nickelodeon
+http://iptvizle.co:80/muzaffer/02032017/52602
+#EXTINF:-1,NL: Nicktoons
+http://iptvizle.co:80/muzaffer/02032017/52603
+#EXTINF:-1,NL: NPO 1
+http://iptvizle.co:80/muzaffer/02032017/52604
+#EXTINF:-1,NL: NPO 1 HD
+http://iptvizle.co:80/muzaffer/02032017/52605
+#EXTINF:-1,NL: NPO 2
+http://iptvizle.co:80/muzaffer/02032017/52606
+#EXTINF:-1,NL: NPO 2 HD
+http://iptvizle.co:80/muzaffer/02032017/52607
+#EXTINF:-1,NL: NPO 3
+http://iptvizle.co:80/muzaffer/02032017/52608
+#EXTINF:-1,NL: NPO 3 HD
+http://iptvizle.co:80/muzaffer/02032017/52609
+#EXTINF:-1,NL: NPO Best/Zapp Xtra
+http://iptvizle.co:80/muzaffer/02032017/52610
+#EXTINF:-1,NL: Omroep Brabant
+http://iptvizle.co:80/muzaffer/02032017/52611
+#EXTINF:-1,NL: Omroep Gelderland
+http://iptvizle.co:80/muzaffer/02032017/52594
+#EXTINF:-1,NL: Omroep Zeeland
+http://iptvizle.co:80/muzaffer/02032017/52612
+#EXTINF:-1,NL: Omrop Fryslân
+http://iptvizle.co:80/muzaffer/02032017/52613
+#EXTINF:-1,NL: ONS
+http://iptvizle.co:80/muzaffer/02032017/52614
+#EXTINF:-1,NL: RTL 4 FHD
+http://iptvizle.co:80/muzaffer/02032017/52615
+#EXTINF:-1,NL: RTL 4 HD
+http://iptvizle.co:80/muzaffer/02032017/52616
+#EXTINF:-1,NL: RTL 5 FHD
+http://iptvizle.co:80/muzaffer/02032017/52617
+#EXTINF:-1,NL: RTL 5 HD
+http://iptvizle.co:80/muzaffer/02032017/52618
+#EXTINF:-1,NL: RTL 7 FHD
+http://iptvizle.co:80/muzaffer/02032017/52619
+#EXTINF:-1,NL: RTL 7 HD
+http://iptvizle.co:80/muzaffer/02032017/52620
+#EXTINF:-1,NL: RTL 8 FHD
+http://iptvizle.co:80/muzaffer/02032017/52621
+#EXTINF:-1,NL: RTL 8 HD
+http://iptvizle.co:80/muzaffer/02032017/52622
+#EXTINF:-1,NL: RTL Crime Netherlands
+http://iptvizle.co:80/muzaffer/02032017/52623
+#EXTINF:-1,NL: RTL Lounge
+http://iptvizle.co:80/muzaffer/02032017/52624
+#EXTINF:-1,NL: RTL Z
+http://iptvizle.co:80/muzaffer/02032017/52625
+#EXTINF:-1,NL: SBS 6 FHD
+http://iptvizle.co:80/muzaffer/02032017/52626
+#EXTINF:-1,NL: SBS 6 HD
+http://iptvizle.co:80/muzaffer/02032017/52627
+#EXTINF:-1,NL: SBS 9
+http://iptvizle.co:80/muzaffer/02032017/52628
+#EXTINF:-1,NL: SBS9
+http://iptvizle.co:80/muzaffer/02032017/52629
+#EXTINF:-1,NL: Sport 1 Racing
+http://iptvizle.co:80/muzaffer/02032017/52630
+#EXTINF:-1,NL: Sport 1 Voetbal
+http://iptvizle.co:80/muzaffer/02032017/52631
+#EXTINF:-1,NL: TLC
+http://iptvizle.co:80/muzaffer/02032017/52633
+#EXTINF:-1,NL: TV Gelderland
+http://iptvizle.co:80/muzaffer/02032017/52634
+#EXTINF:-1,NL: TV Noord
+http://iptvizle.co:80/muzaffer/02032017/52635
+#EXTINF:-1,NL: TV Oost
+http://iptvizle.co:80/muzaffer/02032017/52636
+#EXTINF:-1,NL: Veronica/DisneyXD HD
+http://iptvizle.co:80/muzaffer/02032017/52637

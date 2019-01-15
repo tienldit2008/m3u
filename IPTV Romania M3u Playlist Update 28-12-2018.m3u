@@ -1,45 +1,73 @@
 #EXTM3U
 #EXTINF:-1,1 Music Channel
-http://194.88.107.101:6204/ahannan/ahannan/9057
-#EXTINF:-1,Acasa Gold
-http://194.88.107.101:6204/ahannan/ahannan/9056
+http://51.15.191.232:8000/katka/katka/27716
 #EXTINF:-1,Acasa TV
-http://194.88.107.101:6204/ahannan/ahannan/5904
-#EXTINF:-1,Antena 1
-http://194.88.107.101:6204/ahannan/ahannan/9055
-#EXTINF:-1,Antena 3
-http://194.88.107.101:6204/ahannan/ahannan/9054
-#EXTINF:-1,Antena Stars
-http://194.88.107.101:6204/ahannan/ahannan/9053
-#EXTINF:-1,B1 TV
-http://194.88.107.101:6204/ahannan/ahannan/5798
-#EXTINF:-1,CBS Reality
-http://194.88.107.101:6204/ahannan/ahannan/9051
-#EXTINF:-1,Digi 24
-http://194.88.107.101:6204/ahannan/ahannan/9050
-#EXTINF:-1,Dolce Sport 1 HD
-http://194.88.107.101:6204/ahannan/ahannan/9049
-#EXTINF:-1,Dolce Sport 2 HD
-http://194.88.107.101:6204/ahannan/ahannan/9048
-#EXTINF:-1,HBO
-http://194.88.107.101:6204/ahannan/ahannan/9045
+http://51.15.191.232:8000/katka/katka/27715
+#EXTINF:-1,Agro Tv
+http://51.15.191.232:8000/katka/katka/27714
+#EXTINF:-1,AXN
+http://51.15.191.232:8000/katka/katka/27682
+#EXTINF:-1,AXN Black
+http://51.15.191.232:8000/katka/katka/27681
+#EXTINF:-1,AXN Romania
+http://51.15.191.232:8000/katka/katka/27713
+#EXTINF:-1,AXN White
+http://51.15.191.232:8000/katka/katka/27712
+#EXTINF:-1,B1 Tv
+http://51.15.191.232:8000/katka/katka/27711
+#EXTINF:-1,Boomerang
+http://51.15.191.232:8000/katka/katka/27710
+#EXTINF:-1,Disney Junior
+http://51.15.191.232:8000/katka/katka/27731
+#EXTINF:-1,Happy Channel
+http://51.15.191.232:8000/katka/katka/27723
+#EXTINF:-1,HBO 2
+http://51.15.191.232:8000/katka/katka/27722
+#EXTINF:-1,HBO 3
+http://51.15.191.232:8000/katka/katka/27721
+#EXTINF:-1,History Channel
+http://51.15.191.232:8000/katka/katka/27720
 #EXTINF:-1,Kanal D
-http://194.88.107.101:6204/ahannan/ahannan/9044
-#EXTINF:-1,Kiss TV
-http://194.88.107.101:6204/ahannan/ahannan/9043
-#EXTINF:-1,Na?ional TV
-http://194.88.107.101:6204/ahannan/ahannan/9041
-#EXTINF:-1,National Geographic Wild
-http://194.88.107.101:6204/ahannan/ahannan/9039
-#EXTINF:-1,Prima TV
-http://194.88.107.101:6204/ahannan/ahannan/9038
-#EXTINF:-1,Pro TV
-http://194.88.107.101:6204/ahannan/ahannan/9036
-#EXTINF:-1,Pro TV International
-http://194.88.107.101:6204/ahannan/ahannan/9035
-#EXTINF:-1,Realitatea TV
-http://194.88.107.101:6204/ahannan/ahannan/9034
-#EXTINF:-1,Romania TV
-http://194.88.107.101:6204/ahannan/ahannan/9033
-#EXTINF:-1,Taraf TV
-http://194.88.107.101:6204/ahannan/ahannan/9032
+http://51.15.191.232:8000/katka/katka/27719
+#EXTINF:-1,Look Plus
+http://51.15.191.232:8000/katka/katka/27718
+#EXTINF:-1,Look Tv
+http://51.15.191.232:8000/katka/katka/27717
+#EXTINF:-1,Megamax
+http://51.15.191.232:8000/katka/katka/27703
+#EXTINF:-1,Music Channe hu
+http://51.15.191.232:8000/katka/katka/27701
+#EXTINF:-1,Nat Geo Wild
+http://51.15.191.232:8000/katka/katka/27700
+#EXTINF:-1,National Geographic
+http://51.15.191.232:8000/katka/katka/27699
+#EXTINF:-1,National TV
+http://51.15.191.232:8000/katka/katka/27698
+#EXTINF:-1,Nickelodeon
+http://51.15.191.232:8000/katka/katka/27697
+#EXTINF:-1,Paramount Channel
+http://51.15.191.232:8000/katka/katka/27696
+#EXTINF:-1,Prima Tv
+http://51.15.191.232:8000/katka/katka/27695
+#EXTINF:-1,ProTV HD
+http://51.15.191.232:8000/katka/katka/27694
+#EXTINF:-1,Realitatea Tv
+http://51.15.191.232:8000/katka/katka/27693
+#EXTINF:-1,Romania Tv
+http://51.15.191.232:8000/katka/katka/27692
+#EXTINF:-1,Sport.ro
+http://51.15.191.232:8000/katka/katka/27691
+#EXTINF:-1,Taraf Tv
+http://51.15.191.232:8000/katka/katka/27690
+#EXTINF:-1,TNT
+http://51.15.191.232:8000/katka/katka/27689
+#EXTINF:-1,Trinitas
+http://51.15.191.232:8000/katka/katka/27688
+#EXTINF:-1,TV5 MONDE
+http://51.15.191.232:8000/katka/katka/27687
+#EXTINF:-1,TVR 2
+http://51.15.191.232:8000/katka/katka/27686
+#EXTINF:-1,TVR 3
+http://51.15.191.232:8000/katka/katka/27678
+#EXTINF:-1,U TV
+http://51.15.191.232:8000/katka/katka/27685
