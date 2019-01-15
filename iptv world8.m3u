@@ -1,4 +1,508 @@
 #EXTM3U
+#EXTINF:-1,A&E
+http://lista.g5iptv.space:8080/123123/123123/10755
+#EXTINF:-1,A&E FHD (Br2)
+http://lista.g5iptv.space:8080/123123/123123/48031
+#EXTINF:-1,AGROCANAL
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/live.m3u8
+#EXTINF:-1,AMC
+http://lista.g5iptv.space:8080/123123/123123/10753
+#EXTINF:-1,AMC FHD (Br2)
+http://lista.g5iptv.space:8080/123123/123123/48026
+#EXTINF:-1,AMC SD (Br2)
+http://lista.g5iptv.space:8080/123123/123123/48023
+#EXTINF:-1,ANIMAL PLANET
+http://lista.g5iptv.space:8080/123123/123123/10752
+#EXTINF:-1,ANIMAL PLANET FHD (Br2)
+http://lista.g5iptv.space:8080/123123/123123/48022
+#EXTINF:-1,ARTE 1
+http://lista.g5iptv.space:8080/123123/123123/10750
+#EXTINF:-1,AUTO MOTO TV
+http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8
+#EXTINF:-1,AXN
+http://lista.g5iptv.space:8080/123123/123123/10748
+#EXTINF:-1,AXN FHD (Br2)
+http://lista.g5iptv.space:8080/123123/123123/48017
+#EXTINF:-1,BAND
+http://lista.g5iptv.space:8080/123123/123123/10745
+#EXTINF:-1,BAND NEWS
+http://lista.g5iptv.space:8080/123123/123123/10743
+#EXTINF:-1,BAND NORDESTE FHD (Br2)
+http://lista.g5iptv.space:8080/123123/123123/48009
+#EXTINF:-1,BAND RBS FHD (BR2)
+http://lista.g5iptv.space:8080/123123/123123/51186
+#EXTINF:-1,BAND SPORTS
+http://lista.g5iptv.space:8080/123123/123123/10741
+#EXTINF:-1,BBB 19 AQUECIMENTO FHD (BR2)
+http://lista.g5iptv.space:8080/123123/123123/51185
+#EXTINF:-1,BBB 19 HD AQUECIMENTO
+http://lista.g5iptv.space:8080/123123/123123/51184
+#EXTINF:-1,BIS
+http://lista.g5iptv.space:8080/123123/123123/10739
+#EXTINF:-1,BOOMERANG
+http://lista.g5iptv.space:8080/123123/123123/10737
+#EXTINF:-1,BOOMERANG  FHD
+http://lista.g5iptv.space:8080/123123/123123/46571
+#EXTINF:-1,BOOMERANG FHD (Br2)
+http://lista.g5iptv.space:8080/123123/123123/48000
+#EXTINF:-1,CANAL BRASIL
+http://lista.g5iptv.space:8080/123123/123123/10736
+#EXTINF:-1,Canal Ricos G5
+http://lista.g5iptv.space:8080/123123/123123/42250
+#EXTINF:-1,Canal Rural
+http://77149o.ha.azioncdn.net/hlslow/playlist.m3u8
+#EXTINF:-1,CANAL SONY
+http://lista.g5iptv.space:8080/123123/123123/10733
+#EXTINF:-1,CANÇÃO NOVA
+http://lista.g5iptv.space:8080/123123/123123/10731
+#EXTINF:-1,CARTOON FHD (Br2)
+http://lista.g5iptv.space:8080/123123/123123/47989
+#EXTINF:-1,CARTOON NETWORK
+http://lista.g5iptv.space:8080/123123/123123/10730
+#EXTINF:-1,CBN SP
+https://stream.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+#EXTINF:-1,CINE +
+http://189.86.89.116:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8?FORMIGAtv
+#EXTINF:-1,CINE CLARO
+https://593d7fe3c9b0d.streamlock.net/tvcariocanet/tvcariocanet/chunklist_w485056137.m3u8
+#EXTINF:-1,CINEMAX
+http://lista.g5iptv.space:8080/123123/123123/10728
+#EXTINF:-1,CINEMAX FHD (Br2)
+http://lista.g5iptv.space:8080/123123/123123/47980
+#EXTINF:-1,CNN International SD (Br2)
+http://lista.g5iptv.space:8080/123123/123123/47975
+#EXTINF:-1,COMBATE
+http://lista.g5iptv.space:8080/123123/123123/10726
+#EXTINF:-1,COMBATE FHD (Br2:4)
+http://lista.g5iptv.space:8080/123123/123123/47973
+#EXTINF:-1,COMEDY CENTRAL
+http://lista.g5iptv.space:8080/123123/123123/10724
+#EXTINF:-1,Curta!
+http://lista.g5iptv.space:8080/123123/123123/10722
+#EXTINF:-1,DISCOVERY CHANNEL
+http://lista.g5iptv.space:8080/123123/123123/10720
+#EXTINF:-1,DISCOVERY CIVILIZATION
+http://lista.g5iptv.space:8080/123123/123123/10718
+#EXTINF:-1,DISCOVERY FHD (Br2)
+http://lista.g5iptv.space:8080/123123/123123/47961
+#EXTINF:-1,DISCOVERY HOME & HEALTH
+http://lista.g5iptv.space:8080/123123/123123/10716
+#EXTINF:-1,DISCOVERY HOME & HEALTH FHD
+http://lista.g5iptv.space:8080/123123/123123/46581
+#EXTINF:-1,DISCOVERY KIDS
+http://lista.g5iptv.space:8080/123123/123123/10714
+#EXTINF:-1,DISCOVERY KIDS FHD (Br2)
+http://lista.g5iptv.space:8080/123123/123123/47957
+#EXTINF:-1,DISCOVERY SCIENCE
+http://lista.g5iptv.space:8080/123123/123123/10712
+#EXTINF:-1,DISCOVERY THEATER
+http://lista.g5iptv.space:8080/123123/123123/10710
+#EXTINF:-1,DISCOVERY TURBO
+http://lista.g5iptv.space:8080/123123/123123/10708
+#EXTINF:-1,DISCOVERY WORLD
+http://lista.g5iptv.space:8080/123123/123123/10706
+#EXTINF:-1,DISNEY CHANNEL
+http://lista.g5iptv.space:8080/123123/123123/10704
+#EXTINF:-1,DISNEY JR FHD (Br2)
+http://lista.g5iptv.space:8080/123123/123123/47944
+#EXTINF:-1,DISNEY JUNIOR
+http://lista.g5iptv.space:8080/123123/123123/10702
+#EXTINF:-1,DISNEY XD
+http://lista.g5iptv.space:8080/123123/123123/10701
+#EXTINF:-1,E!
+http://lista.g5iptv.space:8080/123123/123123/10700
+#EXTINF:-1,ESPN
+http://lista.g5iptv.space:8080/123123/123123/10698
+#EXTINF:-1,ESPN  FHD (Br2)
+http://lista.g5iptv.space:8080/123123/123123/47925
+#EXTINF:-1,ESPN BRASIL
+http://lista.g5iptv.space:8080/123123/123123/10696
+#EXTINF:-1,ESPN BRASIL FHD (Br2)
+http://lista.g5iptv.space:8080/123123/123123/47932
+#EXTINF:-1,ESPN EXTRA
+http://lista.g5iptv.space:8080/123123/123123/10694
+#EXTINF:-1,ESPN FHD (BR2)
+http://lista.g5iptv.space:8080/123123/123123/51183
+#EXTINF:-1,FISH TV
+http://lista.g5iptv.space:8080/123123/123123/10687
+#EXTINF:-1,FOOD NETWORK
+http://lista.g5iptv.space:8080/123123/123123/10686
+#EXTINF:-1,FOOD NETWORK FHD (Br2)
+http://lista.g5iptv.space:8080/123123/123123/47915
+#EXTINF:-1,FOX
+http://lista.g5iptv.space:8080/123123/123123/10684
+#EXTINF:-1,FOX FHD (Br2)
+http://lista.g5iptv.space:8080/123123/123123/47911
+#EXTINF:-1,FOX LIFE
+http://lista.g5iptv.space:8080/123123/123123/10682
+#EXTINF:-1,FOX LIFE FHD (BR2)
+http://lista.g5iptv.space:8080/123123/123123/51182
+#EXTINF:-1,FOX PREMIUM 1
+http://lista.g5iptv.space:8080/123123/123123/11903
+#EXTINF:-1,FOX PREMIUM 1 FHD (BR2)
+http://lista.g5iptv.space:8080/123123/123123/51181
+#EXTINF:-1,FOX PREMIUM 2
+http://lista.g5iptv.space:8080/123123/123123/11904
+#EXTINF:-1,FOX PREMIUM 2 FHD (BR2)
+http://lista.g5iptv.space:8080/123123/123123/51180
+#EXTINF:-1,FOX SPORTS
+http://lista.g5iptv.space:8080/123123/123123/10678
+#EXTINF:-1,FOX SPORTS 2
+http://lista.g5iptv.space:8080/123123/123123/10677
+#EXTINF:-1,FOX SPORTS 2 FHD (BR2)
+http://lista.g5iptv.space:8080/123123/123123/51179
+#EXTINF:-1,FUTURA
+http://lista.g5iptv.space:8080/123123/123123/10674
+#EXTINF:-1,FX
+http://lista.g5iptv.space:8080/123123/123123/10672
+#EXTINF:-1,GLOBO BAHIA FHD (JJ)
+http://lista.g5iptv.space:8080/123123/123123/51178
+#EXTINF:-1,GLOBO BRASILIA
+http://lista.g5iptv.space:8080/123123/123123/10670
+#EXTINF:-1,GLOBO EPTV CAMPINAS
+http://lista.g5iptv.space:8080/123123/123123/10669
+#EXTINF:-1,GLOBO EPTV RIBEIRÃO PRETO
+http://lista.g5iptv.space:8080/123123/123123/10666
+#EXTINF:-1,GLOBO INTER FHD (Br2)
+http://lista.g5iptv.space:8080/123123/123123/47883
+#EXTINF:-1,GLOBO JUAZEIRO-CE FHD (BR2)
+http://lista.g5iptv.space:8080/123123/123123/51177
+#EXTINF:-1,GLOBO MINAS
+http://lista.g5iptv.space:8080/123123/123123/10664
+#EXTINF:-1,GLOBO NEWS
+http://lista.g5iptv.space:8080/123123/123123/10662
+#EXTINF:-1,GLOBO NEWS FHD (BR2)
+http://lista.g5iptv.space:8080/123123/123123/51176
+#EXTINF:-1,GLOBO NORDESTE
+http://lista.g5iptv.space:8080/123123/123123/10660
+#EXTINF:-1,GLOBO NORDESTE FHD (Br2)
+http://lista.g5iptv.space:8080/123123/123123/47876
+#EXTINF:-1,GLOBO NSC TV FLORIANOPOLIS
+http://lista.g5iptv.space:8080/123123/123123/46563
+#EXTINF:-1,GLOBO RBS FHD (BR2)
+http://lista.g5iptv.space:8080/123123/123123/51175
+#EXTINF:-1,GLOBO RBS TV PORTO ALEGRE
+http://lista.g5iptv.space:8080/123123/123123/10657
+#EXTINF:-1,GLOBO RJ
+http://lista.g5iptv.space:8080/123123/123123/10655
+#EXTINF:-1,GLOBO RPC CURITIBA
+http://lista.g5iptv.space:8080/123123/123123/10653
+#EXTINF:-1,GLOBO RPC CURITIBA FHD
+http://lista.g5iptv.space:8080/123123/123123/46568
+#EXTINF:-1,GLOBO SP
+http://lista.g5iptv.space:8080/123123/123123/10652
+#EXTINF:-1,GLOBO TV ANHANGUERA
+http://lista.g5iptv.space:8080/123123/123123/10650
+#EXTINF:-1,GLOBO TV BAHIA
+http://lista.g5iptv.space:8080/123123/123123/10648
+#EXTINF:-1,GLOBO TV TEM BAURU
+http://lista.g5iptv.space:8080/123123/123123/10646
+#EXTINF:-1,GLOBO TV TEM S. J. DO RIO PRETO
+http://lista.g5iptv.space:8080/123123/123123/10644
+#EXTINF:-1,GLOBO TV TEM SOROCABA
+http://lista.g5iptv.space:8080/123123/123123/10643
+#EXTINF:-1,GLOOB
+http://lista.g5iptv.space:8080/123123/123123/10642
+#EXTINF:-1,GLOOB FHD (BR2)
+http://lista.g5iptv.space:8080/123123/123123/51174
+#EXTINF:-1,GLOOBINHO SD
+http://lista.g5iptv.space:8080/123123/123123/10639
+#EXTINF:-1,GNT
+http://lista.g5iptv.space:8080/123123/123123/10638
+#EXTINF:-1,GNT FHD (BR2)
+http://lista.g5iptv.space:8080/123123/123123/51173
+#EXTINF:-1,GOSPEL CARTOON TV
+http://lista.g5iptv.space:8080/123123/123123/28387
+#EXTINF:-1,GOSPEL MUSIC TV
+http://lista.g5iptv.space:8080/123123/123123/33522
+#EXTINF:-1,H2 SD
+http://lista.g5iptv.space:8080/123123/123123/10636
+#EXTINF:-1,HBO
+http://lista.g5iptv.space:8080/123123/123123/10634
+#EXTINF:-1,HBO 2
+http://lista.g5iptv.space:8080/123123/123123/10633
+#EXTINF:-1,HBO 2 FHD (Br2)
+http://lista.g5iptv.space:8080/123123/123123/47853
+#EXTINF:-1,HBO FAMILY
+http://lista.g5iptv.space:8080/123123/123123/10631
+#EXTINF:-1,HBO FHD (Br2)
+http://lista.g5iptv.space:8080/123123/123123/47845
+#EXTINF:-1,HBO PLUS
+http://lista.g5iptv.space:8080/123123/123123/10628
+#EXTINF:-1,HBO SIGNATURE
+http://lista.g5iptv.space:8080/123123/123123/10624
+#EXTINF:-1,HISTORY
+http://lista.g5iptv.space:8080/123123/123123/46560
+#EXTINF:-1,HISTORY FHD (Br2)
+http://lista.g5iptv.space:8080/123123/123123/47836
+#EXTINF:-1,ID FHD (BR2)
+http://lista.g5iptv.space:8080/123123/123123/51172
+#EXTINF:-1,INVESTIGATION DISCOVERY
+http://lista.g5iptv.space:8080/123123/123123/10619
+#EXTINF:-1,JOVEM PAN
+https://evpp.mm.uol.com.br/jovempan/jp-jornaldamanha.sdp/playlist.m3u8
+#EXTINF:-1,JOVEM PAN  3
+https://evpp.mm.uol.com.br/jovempan/jp-panico.sdp/playlist.m3u8
+#EXTINF:-1,JOVEM PAN 2
+https://evpp.mm.uol.com.br/jovempan/tv-jp.sdp/playlist.m3u8
+#EXTINF:-1,LIFETIME
+http://lista.g5iptv.space:8080/123123/123123/11905
+#EXTINF:-1,MAIS GLOBOSAT
+http://lista.g5iptv.space:8080/123123/123123/10616
+#EXTINF:-1,MAX
+http://lista.g5iptv.space:8080/123123/123123/10614
+#EXTINF:-1,MAX PRIME
+http://lista.g5iptv.space:8080/123123/123123/10612
+#EXTINF:-1,MAX UP
+http://lista.g5iptv.space:8080/123123/123123/10609
+#EXTINF:-1,MEGAPIX
+http://lista.g5iptv.space:8080/123123/123123/10607
+#EXTINF:-1,MTV
+http://lista.g5iptv.space:8080/123123/123123/10605
+#EXTINF:-1,MTV LIVE
+http://lista.g5iptv.space:8080/123123/123123/48657
+#EXTINF:-1,MULTISHOW
+http://lista.g5iptv.space:8080/123123/123123/10602
+#EXTINF:-1,MULTISHOW FHD (Br2)
+http://lista.g5iptv.space:8080/123123/123123/47814
+#EXTINF:-1,MUNDO AUTO
+https://593b04c4c5670.streamlock.net/8702/8702/chunklist_w393925018.m3u8
+#EXTINF:-1,MUSIC BOX BRASIL
+http://lista.g5iptv.space:8080/123123/123123/10600
+#EXTINF:-1,NAT GEO
+http://lista.g5iptv.space:8080/123123/123123/10599
+#EXTINF:-1,NAT GEO KIDS
+http://lista.g5iptv.space:8080/123123/123123/10597
+#EXTINF:-1,NAT GEO WILD FHD
+http://lista.g5iptv.space:8080/123123/123123/46570
+#EXTINF:-1,NATGEO FHD (Br2)
+http://lista.g5iptv.space:8080/123123/123123/47809
+#EXTINF:-1,NATGEO KIDS FHD (Br2)
+http://lista.g5iptv.space:8080/123123/123123/47808
+#EXTINF:-1,NATGEO WILD
+http://lista.g5iptv.space:8080/123123/123123/10594
+#EXTINF:-1,NICK JR
+http://lista.g5iptv.space:8080/123123/123123/10591
+#EXTINF:-1,NICK JR FHD (Br2)
+http://lista.g5iptv.space:8080/123123/123123/47798
+#EXTINF:-1,NICKELODEN
+http://lista.g5iptv.space:8080/123123/123123/10590
+#EXTINF:-1,NOVA NORDESTE FHD (Br2)
+http://lista.g5iptv.space:8080/123123/123123/47792
+#EXTINF:-1,OFF
+http://lista.g5iptv.space:8080/123123/123123/10589
+#EXTINF:-1,OFF FHD (Br2)
+http://lista.g5iptv.space:8080/123123/123123/47993
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://lista.g5iptv.space:8080/123123/123123/10587
+#EXTINF:-1,PLAYKIDS SD
+http://lista.g5iptv.space:8080/123123/123123/48647
+#EXTINF:-1,PREMIERE 2
+http://lista.g5iptv.space:8080/123123/123123/10585
+#EXTINF:-1,PREMIERE 3
+http://lista.g5iptv.space:8080/123123/123123/10583
+#EXTINF:-1,PREMIERE 3 FHD (Br2)
+http://lista.g5iptv.space:8080/123123/123123/47779
+#EXTINF:-1,PREMIERE 4
+http://lista.g5iptv.space:8080/123123/123123/10581
+#EXTINF:-1,PREMIERE 5
+http://lista.g5iptv.space:8080/123123/123123/10579
+#EXTINF:-1,PREMIERE 6
+http://lista.g5iptv.space:8080/123123/123123/10577
+#EXTINF:-1,PREMIERE 7
+http://lista.g5iptv.space:8080/123123/123123/10575
+#EXTINF:-1,PREMIERE CLUBE FHD (Br2)
+http://lista.g5iptv.space:8080/123123/123123/47766
+#EXTINF:-1,Premiere Clubes
+http://lista.g5iptv.space:8080/123123/123123/10573
+#EXTINF:-1,PREMIERE TABELA DE JOGOS
+http://lista.g5iptv.space:8080/123123/123123/33356
+#EXTINF:-1,PRIME BOX BRASIL
+http://lista.g5iptv.space:8080/123123/123123/10571
+#EXTINF:-1,Real Madrid Tv Online
+http://lista.g5iptv.space:8080/123123/123123/23782
+#EXTINF:-1,RECORD
+http://lista.g5iptv.space:8080/123123/123123/10570
+#EXTINF:-1,RECORD BAHIA FHD (BR2)
+http://lista.g5iptv.space:8080/123123/123123/51171
+#EXTINF:-1,RECORD INTERNACIONAL (SM)
+http://lista.g5iptv.space:8080/123123/123123/47759
+#EXTINF:-1,RECORD NEWS
+http://lista.g5iptv.space:8080/123123/123123/10568
+#EXTINF:-1,RECORD NEWS FHD (Br2)
+http://lista.g5iptv.space:8080/123123/123123/47758
+#EXTINF:-1,RECORD NORDESTE FHD (Br2)
+http://lista.g5iptv.space:8080/123123/123123/47755
+#EXTINF:-1,RECORD RBS FHD (BR2)
+http://lista.g5iptv.space:8080/123123/123123/51170
+#EXTINF:-1,RECORD SP
+http://lista.g5iptv.space:8080/123123/123123/10566
+#EXTINF:-1,RECORD TV VITOORIA SD (Br2)
+http://lista.g5iptv.space:8080/123123/123123/47847
+#EXTINF:-1,RECORD TV VITORIA SD (Br2)
+http://lista.g5iptv.space:8080/123123/123123/47752
+#EXTINF:-1,RECORDTV MG SD
+http://lista.g5iptv.space:8080/123123/123123/48649
+#EXTINF:-1,RECORDTV RIO SD
+http://lista.g5iptv.space:8080/123123/123123/48651
+#EXTINF:-1,Rede Gênesis
+http://lista.g5iptv.space:8080/123123/123123/6012
+#EXTINF:-1,REDE GOSPEL
+http://lista.g5iptv.space:8080/123123/123123/45130
+#EXTINF:-1,REDE GRAVA
+http://stmv2.euroti.com.br:1935/tvareado/tvareado/live.m3u8
+#EXTINF:-1,REDE METRÓPOLE DE COMUNICAÇÃO
+http://201.31.2.11:4918/live/tvmetropole.stream/livestream.m3u8
+#EXTINF:-1,REDE SECULO 21
+http://lista.g5iptv.space:8080/123123/123123/6004
+#EXTINF:-1,REDE SUPER
+http://lista.g5iptv.space:8080/123123/123123/45127
+#EXTINF:-1,REDE TV
+http://lista.g5iptv.space:8080/123123/123123/10563
+#EXTINF:-1,REDE TV RJ
+http://lista.g5iptv.space:8080/123123/123123/4908
+#EXTINF:-1,REDE TV SD (Br2)
+http://lista.g5iptv.space:8080/123123/123123/47748
+#EXTINF:-1,REDE VIDA
+http://lista.g5iptv.space:8080/123123/123123/10561
+#EXTINF:-1,SBT
+http://lista.g5iptv.space:8080/123123/123123/10560
+#EXTINF:-1,SBT NORDESTE FHD (Br2)
+http://lista.g5iptv.space:8080/123123/123123/47741
+#EXTINF:-1,SBT RBS FHD (BR2)
+http://lista.g5iptv.space:8080/123123/123123/51169
+#EXTINF:-1,SBT SP INTERIOR
+http://lista.g5iptv.space:8080/123123/123123/10558
+#EXTINF:-1,SESC TV
+http://lista.g5iptv.space:8080/123123/123123/49756
+#EXTINF:-1,SOBRENATURAL TV
+http://lista.g5iptv.space:8080/123123/123123/42252
+#EXTINF:-1,SONY FHD (Br2)
+http://lista.g5iptv.space:8080/123123/123123/47738
+#EXTINF:-1,SPACE
+http://lista.g5iptv.space:8080/123123/123123/10555
+#EXTINF:-1,SPACE FHD (Br2)
+http://lista.g5iptv.space:8080/123123/123123/47735
+#EXTINF:-1,SPORTV
+http://lista.g5iptv.space:8080/123123/123123/10553
+#EXTINF:-1,SPORTV 2
+http://lista.g5iptv.space:8080/123123/123123/10552
+#EXTINF:-1,SPORTV 2 FHD (Br2)
+http://lista.g5iptv.space:8080/123123/123123/47731
+#EXTINF:-1,SPORTV 3
+http://lista.g5iptv.space:8080/123123/123123/10550
+#EXTINF:-1,SPORTV FHD (Br2)
+http://lista.g5iptv.space:8080/123123/123123/47725
+#EXTINF:-1,STUDIO UNIVERSAL
+http://lista.g5iptv.space:8080/123123/123123/10547
+#EXTINF:-1,STUDIO UNIVERSAL FHD (Br2)
+http://lista.g5iptv.space:8080/123123/123123/47721
+#EXTINF:-1,STUDIO UNIVERSAL SD (Br2)
+http://lista.g5iptv.space:8080/123123/123123/47718
+#EXTINF:-1,SYFY
+http://lista.g5iptv.space:8080/123123/123123/10557
+#EXTINF:-1,SYFY FHD (Br2)
+http://lista.g5iptv.space:8080/123123/123123/47717
+#EXTINF:-1,Tabela Jogos Premiere
+http://lista.g5iptv.space:8080/123123/123123/46558
+#EXTINF:-1,TBS
+http://lista.g5iptv.space:8080/123123/123123/10543
+#EXTINF:-1,TCM
+http://lista.g5iptv.space:8080/123123/123123/10541
+#EXTINF:-1,TELECINE ACTION
+http://lista.g5iptv.space:8080/123123/123123/10540
+#EXTINF:-1,TELECINE ACTION FHD (Br2)
+http://lista.g5iptv.space:8080/123123/123123/47710
+#EXTINF:-1,TELECINE CULT
+http://lista.g5iptv.space:8080/123123/123123/10538
+#EXTINF:-1,TELECINE CULT FHD (Br2)
+http://lista.g5iptv.space:8080/123123/123123/47706
+#EXTINF:-1,TELECINE FUN
+http://lista.g5iptv.space:8080/123123/123123/10536
+#EXTINF:-1,TELECINE FUN FHD (Br2)
+http://lista.g5iptv.space:8080/123123/123123/47702
+#EXTINF:-1,TELECINE PIPOCA
+http://lista.g5iptv.space:8080/123123/123123/10534
+#EXTINF:-1,TELECINE PIPOCA FHD (Br2)
+http://lista.g5iptv.space:8080/123123/123123/47698
+#EXTINF:-1,TELECINE PREMIMUM FHD (Br2)
+http://lista.g5iptv.space:8080/123123/123123/47694
+#EXTINF:-1,TELECINE PREMIUM
+http://lista.g5iptv.space:8080/123123/123123/10532
+#EXTINF:-1,TELECINE TOUCH
+http://lista.g5iptv.space:8080/123123/123123/10530
+#EXTINF:-1,TELECINE TOUCH FHD (Br2)
+http://lista.g5iptv.space:8080/123123/123123/47690
+#EXTINF:-1,Terra Viva
+http://lista.g5iptv.space:8080/123123/123123/10528
+#EXTINF:-1,TLC
+http://lista.g5iptv.space:8080/123123/123123/10527
+#EXTINF:-1,TNT
+http://lista.g5iptv.space:8080/123123/123123/10525
+#EXTINF:-1,TNT SERIES
+http://lista.g5iptv.space:8080/123123/123123/10523
+#EXTINF:-1,TNT SERIES FHD (BR2)
+http://lista.g5iptv.space:8080/123123/123123/51168
+#EXTINF:-1,TRANSMAERICA POP FM
+http://transamerica.crossdigital.com.br:1935/transasp02edge/transasp02/playlist.m3u8
+#EXTINF:-1,TruTV
+http://lista.g5iptv.space:8080/123123/123123/48659
+#EXTINF:-1,TV ARATU BAHIA FHD (BR2)
+http://lista.g5iptv.space:8080/123123/123123/51167
+#EXTINF:-1,TV BRASIL FHD (Br2)
+http://lista.g5iptv.space:8080/123123/123123/47673
+#EXTINF:-1,TV BRASIL SD (Br2)
+http://lista.g5iptv.space:8080/123123/123123/47671
+#EXTINF:-1,TV Câmara
+http://lista.g5iptv.space:8080/123123/123123/10518
+#EXTINF:-1,TV CULTURA
+http://lista.g5iptv.space:8080/123123/123123/48655
+#EXTINF:-1,TV DIAARIO FORTALEZA SD (Br2)
+http://lista.g5iptv.space:8080/123123/123123/47670
+#EXTINF:-1,TV DIARIO FORTALEZA SD (Br2)
+http://lista.g5iptv.space:8080/123123/123123/47846
+#EXTINF:-1,TV Escola
+http://lista.g5iptv.space:8080/123123/123123/10517
+#EXTINF:-1,TV EVANGELIZAR
+http://lista.g5iptv.space:8080/123123/123123/23786
+#EXTINF:-1,TV EVANGELIZAR SD (Br2)
+http://lista.g5iptv.space:8080/123123/123123/47669
+#EXTINF:-1,TV GIDEÕES
+http://lista.g5iptv.space:8080/123123/123123/39535
+#EXTINF:-1,TV GRANDE RIO FHD (BR2)
+http://lista.g5iptv.space:8080/123123/123123/51166
+#EXTINF:-1,TV JANGADEIRO SBT FHD (BR2)
+http://lista.g5iptv.space:8080/123123/123123/51165
+#EXTINF:-1,TV JUSTICA
+http://lista.g5iptv.space:8080/123123/123123/48660
+#EXTINF:-1,TV MUNDO CATÓLICO
+http://lista.g5iptv.space:8080/123123/123123/50626
+#EXTINF:-1,TV MUNDO MAIOR
+https://youtu.be/ZzuAB1jsI40
+#EXTINF:-1,TV RA TIM BUM
+http://lista.g5iptv.space:8080/123123/123123/10515
+#EXTINF:-1,TV RIO PRETO
+http://186.227.165.118:1935/insatv/livestream/playlist.m3u8?wowzasessionid=918902642
+#EXTINF:-1,TV SAO FRANCISCO FHD (BR2)
+http://lista.g5iptv.space:8080/123123/123123/51164
+#EXTINF:-1,TV SENADO
+http://lista.g5iptv.space:8080/123123/123123/48661
+#EXTINF:-1,TV VERDE VALE FHD (BR2)
+http://lista.g5iptv.space:8080/123123/123123/51163
+#EXTINF:-1,UNIVERSAL CHANNEL
+http://lista.g5iptv.space:8080/123123/123123/10513
+#EXTINF:-1,VH1
+http://lista.g5iptv.space:8080/123123/123123/48658
+#EXTINF:-1,VIVA
+http://lista.g5iptv.space:8080/123123/123123/10509
+#EXTINF:-1,WARNER CHANNEL
+http://lista.g5iptv.space:8080/123123/123123/10507
+#EXTINF:-1,WEB TV LEÃO DE JUDÁ
+http://lista.g5iptv.space:8080/123123/123123/32552
+#EXTINF:-1,WOOHOO
+http://lista.g5iptv.space:8080/123123/123123/10505
+#EXTINF:-1,ZOOMOO SD (Br2)
+http://lista.g5iptv.space:8080/123123/123123/47648
 #EXTINF:-1,A&E HD
 http://185.152.66.67:25461/live/MA020/0706/231.ts
 #EXTINF:-1,A&E SD
