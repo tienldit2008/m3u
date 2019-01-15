@@ -1,135 +1,91 @@
 #EXTM3U
-#EXTINF:-1,Bein Sports
-http://194.88.107.101:6204/lava1/lava1/10646
-#EXTINF:-1,TSN 1 HD
-http://194.88.107.101:6204/lava1/lava1/10636
-#EXTINF:-1,TSN 2 HD
-http://194.88.107.101:6204/lava1/lava1/10635
-#EXTINF:-1,TSN 3 HD
-http://194.88.107.101:6204/lava1/lava1/10634
-#EXTINF:-1,TSN 4 HD
-http://194.88.107.101:6204/lava1/lava1/10633
-#EXTINF:-1,TSN 5 HD
-http://194.88.107.101:6204/lava1/lava1/10632
-#EXTINF:-1,PAC-12 Arizona HD
-http://194.88.107.101:6204/lava1/lava1/10642
-#EXTINF:-1,PAC-12 Bay Area HD
-http://194.88.107.101:6204/lava1/lava1/10641
-#EXTINF:-1,PAC-12 Los Angeles HD
-http://194.88.107.101:6204/lava1/lava1/10640
-#EXTINF:-1,PAC-12 Mountain HD-
-http://194.88.107.101:6204/lava1/lava1/10639
-#EXTINF:-1,PAC-12 Oregon HD
-http://194.88.107.101:6204/lava1/lava1/10638
-#EXTINF:-1,A&E  US
-http://194.88.107.101:6204/lava1/lava1/10441
-#EXTINF:-1,ABC US
-http://194.88.107.101:6204/lava1/lava1/10440
-#EXTINF:-1,CNBC US
-http://194.88.107.101:6204/lava1/lava1/10429
-#EXTINF:-1,CNN US HD
-http://194.88.107.101:6204/lava1/lava1/10428
-#EXTINF:-1,MTV HD US
-http://194.88.107.101:6204/lava1/lava1/10403
-#EXTINF:-1,Starz HD US
-http://194.88.107.101:6204/lava1/lava1/10390
-#EXTINF:-1,SyFy HD USA
-http://194.88.107.101:6204/lava1/lava1/10387
-#EXTINF:-1,TBS USA
-http://194.88.107.101:6204/lava1/lava1/10386
-#EXTINF:-1,TNT US
-http://194.88.107.101:6204/lava1/lava1/10384
-#EXTINF:-1,VH1 HD US
-http://194.88.107.101:6204/lava1/lava1/10380
-#EXTINF:-1,History HD US
-http://194.88.107.101:6204/lava1/lava1/10405
-#EXTINF:-1,Nat Geo Wild HD US
-http://194.88.107.101:6204/lava1/lava1/10402
-#EXTINF:-1,NatGeo HD USA
-http://194.88.107.101:6204/lava1/lava1/10401
-#EXTINF:-1,Discovery Channel US HD
-http://194.88.107.101:6204/lava1/lava1/10424
-#EXTINF:-1,Discovery Science US HD
-http://194.88.107.101:6204/lava1/lava1/10421
-#EXTINF:-1,Bloomberg US
-http://194.88.107.101:6204/lava1/lava1/10436
-#EXTINF:-1,Cartoon Network US
-http://194.88.107.101:6204/lava1/lava1/10434
-#EXTINF:-1,Disney Channel US
-http://194.88.107.101:6204/lava1/lava1/10420
-#EXTINF:-1,Disney Junior US
-http://194.88.107.101:6204/lava1/lava1/10419
-#EXTINF:-1,Nick Junior US
-http://194.88.107.101:6204/lava1/lava1/10397
-#EXTINF:-1,Nick Toons US
-http://194.88.107.101:6204/lava1/lava1/10396
-#EXTINF:-1,CBS Sport HD
-http://194.88.107.101:6204/lava1/lava1/10433
-#EXTINF:-1,CBS US
-http://194.88.107.101:6204/lava1/lava1/10432
-#EXTINF:-1,HBO Comedy HD
-http://194.88.107.101:6204/lava1/lava1/10411
-#EXTINF:-1,HBO Signature
-http://194.88.107.101:6204/lava1/lava1/10410
-#EXTINF:-1,HBO US HD
-http://194.88.107.101:6204/lava1/lava1/10409
-#EXTINF:-1,HBO ZONE HD
-http://194.88.107.101:6204/lava1/lava1/10408
-#EXTINF:-1,Animal Planet HD
-http://194.88.107.101:6204/lava1/lava1/10439
-#EXTINF:-1,BET HD
-http://194.88.107.101:6204/lava1/lava1/10645
-#EXTINF:-1,Bravo HD
-http://194.88.107.101:6204/lava1/lava1/10435
-#EXTINF:-1,CINEMAX HD
-http://194.88.107.101:6204/lava1/lava1/10431
-#EXTINF:-1,DISCOVERY FAMILY
-http://194.88.107.101:6204/lava1/lava1/10423
-#EXTINF:-1,Discovery Investigation
-http://194.88.107.101:6204/lava1/lava1/10422
-#EXTINF:-1,Fox sport 1 HD
-http://194.88.107.101:6204/lava1/lava1/10416
-#EXTINF:-1,Fox sport 2 HD
-http://194.88.107.101:6204/lava1/lava1/10415
-#EXTINF:-1,FX HD
-http://194.88.107.101:6204/lava1/lava1/10414
-#EXTINF:-1,GSN HD
-http://194.88.107.101:6204/lava1/lava1/10412
-#EXTINF:-1,HGTV HD
-http://194.88.107.101:6204/lava1/lava1/10407
-#EXTINF:-1,History
-http://194.88.107.101:6204/lava1/lava1/10406
-#EXTINF:-1,Life Time HD
-http://194.88.107.101:6204/lava1/lava1/10404
-#EXTINF:-1,NBA HD
-http://194.88.107.101:6204/lava1/lava1/10400
-#EXTINF:-1,NBC EAST HD
-http://194.88.107.101:6204/lava1/lava1/10399
-#EXTINF:-1,NBCSN HD
-http://194.88.107.101:6204/lava1/lava1/10398
-#EXTINF:-1,NEWS 12
-http://194.88.107.101:6204/lava1/lava1/10643
-#EXTINF:-1,OWN HD
-http://194.88.107.101:6204/lava1/lava1/10395
-#EXTINF:-1,SHOWTIME FAMILY ZONE
-http://194.88.107.101:6204/lava1/lava1/10393
-#EXTINF:-1,SLICE HD
-http://194.88.107.101:6204/lava1/lava1/10392
-#EXTINF:-1,Syfy HD
-http://194.88.107.101:6204/lava1/lava1/10388
-#EXTINF:-1,STARZ KIDS & Family HD
-http://194.88.107.101:6204/lava1/lava1/10389
+#EXTINF:-1,HBO
+http://51.15.191.232:8000/katka/katka/30065
+#EXTINF:-1,Tennis Channel HD
+http://51.15.191.232:8000/katka/katka/30042
+#EXTINF:-1,UFC Fight Pass
+http://51.15.191.232:8000/katka/katka/29617
+#EXTINF:-1,Food Network HD
+http://51.15.191.232:8000/katka/katka/29666
+#EXTINF:-1,WWE FHD
+http://51.15.191.232:8000/katka/katka/27446
+#EXTINF:-1,MSNBC
+http://51.15.191.232:8000/katka/katka/27915
+#EXTINF:-1,NHL Network
+http://51.15.191.232:8000/katka/katka/27909
+#EXTINF:-1,Sports Net 360
+http://51.15.191.232:8000/katka/katka/27897
+#EXTINF:-1,Willow Cricket
+http://51.15.191.232:8000/katka/katka/27887
 #EXTINF:-1,TLC HD
-http://194.88.107.101:6204/lava1/lava1/10385
-#EXTINF:-1,TRU TV HD
-http://194.88.107.101:6204/lava1/lava1/10383
-#EXTINF:-1,TV Land HD
-http://194.88.107.101:6204/lava1/lava1/10382
-#EXTINF:-1,Viceland TV
-http://194.88.107.101:6204/lava1/lava1/10379
-#EXTINF:-1,WE HD
-http://194.88.107.101:6204/lava1/lava1/10378
-#EXTINF:-1,Weather channel
-http://194.88.107.101:6204/lava1/lava1/10377
-#EXTINF:-1,WWE HD
-http://194.88.107.101:6204/lava1/lava1/10376
+http://51.15.191.232:8000/katka/katka/26625
+#EXTINF:-1,USA NETWORK
+http://51.15.191.232:8000/katka/katka/26533
+#EXTINF:-1,ABC News
+http://51.15.191.232:8000/katka/katka/27430
+#EXTINF:-1,Comedy Central
+http://51.15.191.232:8000/katka/katka/27487
+#EXTINF:-1,Food Network
+http://51.15.191.232:8000/katka/katka/27481
+#EXTINF:-1,HGTV
+http://51.15.191.232:8000/katka/katka/27474
+#EXTINF:-1,Disney HD
+http://51.15.191.232:8000/katka/katka/30073
+#EXTINF:-1,Viceland
+http://51.15.191.232:8000/katka/katka/27447
+#EXTINF:-1,Bloomberg
+http://51.15.191.232:8000/katka/katka/27949
+#EXTINF:-1,Animal Planet
+http://51.15.191.232:8000/katka/katka/26676
+#EXTINF:-1,Destination America
+http://51.15.191.232:8000/katka/katka/29674
+#EXTINF:-1,Crime Investigation Discovery HD
+http://51.15.191.232:8000/katka/katka/30077
+#EXTINF:-1,Discovery HD
+http://51.15.191.232:8000/katka/katka/30075
+#EXTINF:-1,Discovery Science HD
+http://51.15.191.232:8000/katka/katka/30074
+#EXTINF:-1,Discovery Velocity
+http://51.15.191.232:8000/katka/katka/27485
+#EXTINF:-1,Discovery Channel USA
+http://51.15.191.232:8000/katka/katka/26606
+#EXTINF:-1,National Geographic
+http://51.15.191.232:8000/katka/katka/26647
+#EXTINF:-1,National Geographic FHD
+http://51.15.191.232:8000/katka/katka/27468
+#EXTINF:-1,Science HD
+http://51.15.191.232:8000/katka/katka/26541
+#EXTINF:-1,5 Star Max
+http://51.15.191.232:8000/katka/katka/30085
+#EXTINF:-1,BET HD
+http://51.15.191.232:8000/katka/katka/30083
+#EXTINF:-1,Bravo FHD
+http://51.15.191.232:8000/katka/katka/30082
+#EXTINF:-1,History
+http://51.15.191.232:8000/katka/katka/30063
+#EXTINF:-1,Investigation Discovery
+http://51.15.191.232:8000/katka/katka/27918
+#EXTINF:-1,SHOWTIME SHOWCASE HD
+http://51.15.191.232:8000/katka/katka/29625
+#EXTINF:-1,COMEDY CENTRAL HD
+http://51.15.191.232:8000/katka/katka/29678
+#EXTINF:-1,E!
+http://51.15.191.232:8000/katka/katka/29670
+#EXTINF:-1,LIFETIME MOVIES
+http://51.15.191.232:8000/katka/katka/29648
+#EXTINF:-1,DIY Network
+http://51.15.191.232:8000/katka/katka/27935
+#EXTINF:-1,Paramount Network HD
+http://51.15.191.232:8000/katka/katka/30049
+#EXTINF:-1,FX
+http://51.15.191.232:8000/katka/katka/27922
+#EXTINF:-1,Lifetime
+http://51.15.191.232:8000/katka/katka/27917
+#EXTINF:-1,TRAVEL CHANNEL
+http://51.15.191.232:8000/katka/katka/29619
+#EXTINF:-1,Own
+http://51.15.191.232:8000/katka/katka/27908
+#EXTINF:-1,REDZONE
+http://51.15.191.232:8000/katka/katka/29613
+#EXTINF:-1,SPIKE WEST
+http://51.15.191.232:8000/katka/katka/29699
