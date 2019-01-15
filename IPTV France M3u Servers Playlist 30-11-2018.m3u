@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Chasse & peche
-http://smart-hdip.com:6204/lava1/lava1/7589
 #EXTINF:-1,Trek My
 http://smart-hdip.com:6204/lava1/lava1/7593
 #EXTINF:-1,Canal Décalé HD
@@ -1554,3 +1552,538 @@ http://freeiptvdaily.net:8000/live/0lO5garDjh/freeiptvdaily.tv/14.ts
 http://freeiptvdaily.net:8000/live/0lO5garDjh/freeiptvdaily.tv/15.ts
 #EXTINF:-1,beIN Sports 3 HD (FR)
 http://freeiptvdaily.net:8000/live/0lO5garDjh/freeiptvdaily.tv/16.ts
+
+#EXTINF:0,|FR|TF1 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/60
+#EXTINF:0,FR: TF1 FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/1058
+#EXTINF:0,FR: TF1 +1 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/5345
+#EXTINF:0,FR : FRANCE 2 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/199
+#EXTINF:0,FR: FRANCE 2 FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/3416
+#EXTINF:0,FR: France 3  HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/68
+#EXTINF:0,FR: FRANCE 3 ILE DE FRANCE FHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/3417
+#EXTINF:0,FR: France 4  HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/66
+#EXTINF:0,FR: FRANCE 4 FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/3418
+#EXTINF:0,FR: France 5 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/64
+#EXTINF:0,FR: FRANCE 5 FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/1858
+#EXTINF:0,FR: France O  HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/63
+#EXTINF:0,FR: FRANCE O FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/3420
+#EXTINF:0,FR: M6 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/61
+#EXTINF:0,FR: M6 FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/1059
+#EXTINF:0,FR: TMC HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/106
+#EXTINF:0,FR: TMC FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/1060
+#EXTINF:0,FR: TMC +1 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/5346
+#EXTINF:0,FR: 6TER HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/174
+#EXTINF:0,FR: 6TER FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/1063
+#EXTINF:0,FR: CHERIE 25 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/73
+#EXTINF:0,FR: CHERIE 25 FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/2109
+#EXTINF:0,FR: TF1 SERIES FILMS HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/209
+#EXTINF:0,FR: TF1 SERIES FILMS FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/2108
+#EXTINF:0,FR: C8 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/118
+#EXTINF:0,FR: C8 FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/2160
+#EXTINF:0,FR: CSTAR HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/110
+#EXTINF:0,FR: CSTAR FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/2164
+#EXTINF:0,FR: ARTE HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/375
+#EXTINF:0,FR: ARTE FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/1857
+#EXTINF:0,FR: FRANCE 24
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/409
+#EXTINF:0,FR: CNEWS HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/332
+#EXTINF:0,FR: CNEWS FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/2162
+#EXTINF:0,FR: LA CHAINE METEO FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/3615
+#EXTINF:0,FR: BFMTV HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/330
+#EXTINF:0,FR: BFMTV FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/2161
+#EXTINF:0,FR: BFM PARIS FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/3419
+#EXTINF:0,FR: BFM BUSINESS HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/396
+#EXTINF:0,FR: BFM SPORT HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/1532
+#EXTINF:0,FR: LCI HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/216
+#EXTINF:0,FR: LCP FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/1856
+#EXTINF:0,FR: FRANCE INFO FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/3421
+#EXTINF:0,FR: EURONEWS HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/335
+#EXTINF:0,FR: I24 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/1571
+#EXTINF:0,FR: WEO HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/371
+#EXTINF:0,FR: TV5 MONDE MAGHREB ORIENT
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/3470
+#EXTINF:0,FR: TV7
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/504
+#EXTINF:0,FR: KTO HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/372
+#EXTINF:0,FR: L'ENORME TV
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/333
+#EXTINF:0,http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/133
+#EXTINF:0,FR: CANAL+ HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/151
+#EXTINF:0,FR: CANAL+ SD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/2257
+#EXTINF:0,FR: CANAL+ FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/2062
+#EXTINF:0,FR: CANAL+  FAMILY HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/152
+#EXTINF:0,FR: CANAL+ FAMILY FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/2063
+#EXTINF:0,FR: CANAL+ SERIES HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/96
+#EXTINF:0,FR: CANAL+ SERIES FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/2250
+#EXTINF:0,FR: CANAL+ DECALE HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/168
+#EXTINF:0,FR: CANAL+ DECALE FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/2249
+#EXTINF:0,FR: CANAL+ SPORT HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/95
+#EXTINF:0,FR: CANAL+ SPORT FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/2039
+#EXTINF:0,FR: CANAL+ CINEMA HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/149
+#EXTINF:0,FR: CANAL+ CINEMA FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/2042
+#EXTINF:0,FR: CINE+ FRISSON HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/154
+#EXTINF:0,FR: CINE+  FRISSON FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/2158
+#EXTINF:0,FR: CINE+ PREMIER HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/85
+#EXTINF:0,FR: CINE+ PREMIER FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/2040
+#EXTINF:0,FR: CINE+ FAMIZ HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/153
+#EXTINF:0,FR: CINE+  FAMIZ FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/2157
+#EXTINF:0,FR: CINE+ EMOTION HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/92
+#EXTINF:0,FR: CINE+ EMOTION FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/2041
+#EXTINF:0,FR: CINE+ CLASSIC HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/150
+#EXTINF:0,FR: CINE+ CLUB HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/553
+#EXTINF:0,FR: CINE+ CLUB FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8892
+#EXTINF:0,FR: POLAR+ HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/3350
+#EXTINF:0,FR: POLAR+ FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/10237
+#EXTINF:0,FR: ALTICE STUDIO FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/2253
+#EXTINF:0,FR: WARNER TV FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/3463
+#EXTINF:0,FR: SUNDANCE TV FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/3575
+#EXTINF:0,FR: PARAMOUNT CHANNEL HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/340
+#EXTINF:0,FR: PARAMOUNT CHANNEL FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/3576
+#EXTINF:0,FR: PARAMOUNT DECALE FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/2254
+#EXTINF:0,FR: OCS CITY  HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8031
+#EXTINF:0,FR: OCS CITY FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/2112
+#EXTINF:0,FR: OCS MAX  HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8033
+#EXTINF:0,FR: OCS MAX FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/2114
+#EXTINF:0,FR: OCS CHOC  HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8032
+#EXTINF:0,FR: OCS CHOC FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/2111
+#EXTINF:0,FR: OCS GEANTS HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/116
+#EXTINF:0,FR: OCS GEANT  HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8034
+#EXTINF:0,FR: OCS GEANT FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/2113
+#EXTINF:0,FR: TCM CINEMA
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/355
+#EXTINF:0,FR: ACTION HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/122
+#EXTINF:0,FR: ACTION FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/4263
+#EXTINF:0,http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/135
+#EXTINF:0,FR: SYFY HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/3471
+#EXTINF:0,FR: SYFY FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/83
+#EXTINF:0,FR: NRJ12 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/113
+#EXTINF:0,FR: NRJ12 FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/1064
+#EXTINF:0,FR: 13EME RUE HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/391
+#EXTINF:0,FR: TFX HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/112
+#EXTINF:0,FR: TFX FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/1061
+#EXTINF:0,FR: RTL9 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/109
+#EXTINF:0,FR: RTL9 FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/3571
+#EXTINF:0,FR: W9 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/164
+#EXTINF:0,FR: W9 FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/1062
+#EXTINF:0,FR: SERIE CLUB HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/107
+#EXTINF:0,FR: SERIE CLUB FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/3466
+#EXTINF:0,FR: PARIS PREMIERE HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/184
+#EXTINF:0,FR: PARIS PREMIERE FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/3464
+#EXTINF:0,FR: NOVELAS FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/3467
+#EXTINF:0,FR: TV BREIZH HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/360
+#EXTINF:0,FR: TV BREIZH FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/1977
+#EXTINF:0,FR: TEVA HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/163
+#EXTINF:0,FR: TEVA FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/3570
+#EXTINF:0,FR: VIVOLTA HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/3573
+#EXTINF:0,FR: COMEDIE HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/337
+#EXTINF:0,FR: COMEDIE+ HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/10310
+#EXTINF:0,FR: COMEDY CENTRAL HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/10570
+#EXTINF:0,FR: RMC STORY HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/349
+#EXTINF:0,FR: RMC STORY FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/2105
+#EXTINF:0,FR: AB1 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/373
+#EXTINF:0,FR: BET HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/363
+#EXTINF:0,FR: AB3
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/342
+#EXTINF:0,FR: E!
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/366
+#EXTINF:0,FR: ELLE GIRL HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/1552
+#EXTINF:0,FR: NON STOP PEOPLE FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/570
+#EXTINF:0,FR: A+ HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/659
+#EXTINF:0,FR: NOLLYWOOD HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/1563
+#EXTINF:0,FR: GONG
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/98
+#EXTINF:0,FR: CRIME DISTRICT HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/1600
+#EXTINF:0,http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/136
+#EXTINF:0,FR: BEIN SPORTS 1 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/101
+#EXTINF:0,FR: BEIN SPORTS 1  HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/4055
+#EXTINF:0,FR: BEIN SPORTS 1 FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/2146
+#EXTINF:0,FR: BEIN SPORTS 2 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/78
+#EXTINF:0,FR: BEIN SPORTS 2 FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/2145
+#EXTINF:0,FR: BEIN SPORTS 3 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/77
+#EXTINF:0,FR: BEIN SPORTS 3 FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/2144
+#EXTINF:0,FR: BEIN SPORTS MAX 4 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/357
+#EXTINF:0,FR: BEIN SPORTS MAX 4 FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/3347
+#EXTINF:0,FR: BEIN SPORTS MAX 5 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/376
+#EXTINF:0,FR: BEIN SPORTS MAX 6 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/377
+#EXTINF:0,FR: BEIN SPORTS MAX 7 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/539
+#EXTINF:0,FR: BEIN SPORTS MAX 8 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/74
+#EXTINF:0,FR: BEIN SPORTS MAX 9 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/3479
+#EXTINF:0,FR: BEIN SPORTS MAX 10 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/3480
+#EXTINF:0,http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/156
+#EXTINF:0,FR: RMC SPORT 1 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/9996
+#EXTINF:0,FR: RMC SPORT 1 FHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/9995
+#EXTINF:0,FR: RMC SPORT 1 FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/1277
+#EXTINF:0,FR: RMC SPORT 2 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/9997
+#EXTINF:0,FR: RMC SPORT 2 FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/1238
+#EXTINF:0,FR: RMC SPORT 3 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/1326
+#EXTINF:0,FR: RMC SPORT 3 FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/10010
+#EXTINF:0,FR: RMC SPORT 4 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/7609
+#EXTINF:0,FR: RMC SPORT 4 FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/10011
+#EXTINF:0,FR: RMC SPORT ACCESS 1 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/10367
+#EXTINF:0,FR: RMC SPORT ACCESS 2 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/10366
+#EXTINF:0,FR: RMC SPORT ACCESS 3 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/10365
+#EXTINF:0,FR: RMC SPORT NEWS HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/10074
+#EXTINF:0,FR: RMC SPORT LIVE 5 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/10363
+#EXTINF:0,FR: RMC SPORT LIVE 6 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/10362
+#EXTINF:0,FR: RMC SPORT LIVE 7 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/10361
+#EXTINF:0,FR: RMC SPORT LIVE 8 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/10360
+#EXTINF:0,FR: RMC SPORT LIVE 9 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/10359
+#EXTINF:0,FR: RMC SPORT LIVE 10 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/10358
+#EXTINF:0,FR: RMC SPORT LIVE 11 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/10357
+#EXTINF:0,FR: RMC SPORT LIVE 12 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/10356
+#EXTINF:0,FR: RMC SPORT LIVE 13 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/10355
+#EXTINF:0,FR: RMC SPORT LIVE 14 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/10354
+#EXTINF:0,FR: RMC SPORT LIVE 15 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/10353
+#EXTINF:0,FR: RMC SPORT LIVE 16 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/10352
+#EXTINF:0,FR: MULTISPORTS 1 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/2168
+#EXTINF:0,FR: L'EQUIPE 21 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/175
+#EXTINF:0,FR: L'EQUIPE FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/2107
+#EXTINF:0,FR: FOOT+ 24/24 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/72
+#EXTINF:0,FR: FOOT+ 24/24 FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/2166
+#EXTINF:0,FR: ONZEO FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/2159
+#EXTINF:0,FR: OLTV FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/2167
+#EXTINF:0,FR: INFOSPORT HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/84
+#EXTINF:0,FR: AUTOMOTO LA CHAINE HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/329
+#EXTINF:0,FR: EUROSPORT 1 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/176
+#EXTINF:0,FR: EUROSPORT 1 FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/3345
+#EXTINF:0,FR: EUROSPORT 2 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/356
+#EXTINF:0,FR: GOLF + HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/575
+#EXTINF:0,FR: GOLF+ FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/2151
+#EXTINF:0,FR: GOLF CHANNEL HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/3572
+#EXTINF:0,FR: EQUIDIA LIVE HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/303
+#EXTINF:0,FR: EXTREME SPORTS
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/476
+#EXTINF:0,FR: EXTREME SPORTS FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/3462
+#EXTINF:0,FR: KOMBAT SPORT HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/120
+#EXTINF:0,FR: FIGHT SPORTS HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/2170
+#EXTINF:0,FR: LUCKY JACK HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/9389
+#EXTINF:0,http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/157
+#EXTINF:0,FR: VICELAND HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/2142
+#EXTINF:0,FR: MUSEUM FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/2152
+#EXTINF:0,FR: ROUGE TV
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/8035
+#EXTINF:0,FR: RMC  DECOUVERTE HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/80
+#EXTINF:0,FR: RMC DECOUVERTE FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/2106
+#EXTINF:0,FR: CHASSE ET PECHE HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/179
+#EXTINF:0,FR: CHASSE ET PECHE FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/9462
+#EXTINF:0,FR: ANIMAUX HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/93
+#EXTINF:0,FR: ANIMAUX FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/3558
+#EXTINF:0,FR: VOYAGE HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/358
+#EXTINF:0,FR: VOYAGE FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/3468
+#EXTINF:0,FR: NAT GEO WILD HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/87
+#EXTINF:0,FR: NATIONAL  GEOGRAPHIC HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/185
+#EXTINF:0,FR: NATIONAL GEOGRAPHIC FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/3543
+#EXTINF:0,FR: TOUTE L'HISTOIRE HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/328
+#EXTINF:0,FR: HISTOIRE HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/394
+#EXTINF:0,FR: MY CUISINE TV FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/2252
+#EXTINF:0,FR: MY ZEN FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/2251
+#EXTINF:0,FR: USHUAIA TV HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/123
+#EXTINF:0,FR: USHUAIA FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/5394
+#EXTINF:0,FR: PLANETE+ HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/475
+#EXTINF:0,FR: PLANETE + FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/3542
+#EXTINF:0,FR: PLANETE CI HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/361
+#EXTINF:0,FR: PLANETE+ A&E HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/408
+#EXTINF:0,FR: DISCOVERY HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/1622
+#EXTINF:0,FR: DISCOVERY FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/5392
+#EXTINF:0,FR: DISCOVERY SCIENCE HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/1621
+#EXTINF:0,FR: DISCOVERY SCIENCE FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/5390
+#EXTINF:0,FR: DISCOVERY INVESTIGATION HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/1901
+#EXTINF:0,FR: DISCOVERY INVESTIGATION  FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/5391
+#EXTINF:0,FR: DISCOVERY FAMILY HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/3343
+#EXTINF:0,FR: DISCOVERY FAMILY FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/5393
+#EXTINF:0,FR: TREK HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/374
+#EXTINF:0,FR: SCIENCE & VIE HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/362
+#EXTINF:0,FR: SCIENCE & VIE FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/3559
+#EXTINF:0,FR: SEASON HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/658
+#EXTINF:0,FR: GINX LIVE TV ESPORT
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/3626
+#EXTINF:0,FR: E-SPORT ES1 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/4265
+#EXTINF:0,http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/158
+#EXTINF:0,FR: LA CHAINE DU PERE NOEL HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/1560
+#EXTINF:0,FR: GULLI HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/169
+#EXTINF:0,FR: GULLI FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/2163
+#EXTINF:0,FR: TOONAMI FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/2110
+#EXTINF:0,FR: MANGAS HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/119
+#EXTINF:0,FR: MANGAS FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/3560
+#EXTINF:0,FR: DISNEY JUNIOR HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/193
+#EXTINF:0,FR: DISNEY JUNIOR FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/3568
+#EXTINF:0,FR:DISNEY CINEMA HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/331
+#EXTINF:0,FR: DISNEY CINEMA FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/3473
+#EXTINF:0,FR: DISNEY CHANNEL
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/334
+#EXTINF:0,FR: DISNEY CHANNEL FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/3544
+#EXTINF:0,FR: DISNEY CHANNEL+1 FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/3562
+#EXTINF:0,FR: DISNEY  XD HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/89
+#EXTINF:0,FR: BOING HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/327
+#EXTINF:0,FR: TIJI HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/393
+#EXTINF:0,FR: PIWI HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/392
+#EXTINF:0,FR: PIWI+ FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/3477
+#EXTINF:0,FR: BABY TV HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/3625
+#EXTINF:0,FR: CARTOON NETWORK
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/438
+#EXTINF:0,FR: CANAL J HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/94
+#EXTINF:0,FR: CANAL J FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/3478
+#EXTINF:0,FR: BOOMERANG HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/114
+#EXTINF:0,FR: TELETOON+ HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/102
+#EXTINF:0,FR: TELETOON+ FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/3567
+#EXTINF:0,FR: TELETOON +1 HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/4130
+#EXTINF:0,FR: TELETOON +1 FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/4131
+#EXTINF:0,FR: NICKELODEON HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/347
+#EXTINF:0,FR: NICKELODEON FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/3475
+#EXTINF:0,FR: NICKELODEON JUNIOR HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/348
+#EXTINF:0,FR: NICKELODEON JUNIOR FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/3563
+#EXTINF:0,FR: NICKELODEON  +1 FULLHD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/2143
+#EXTINF:0,FR: NICKELODEON 4TEEN
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/359
+#EXTINF:0,FR: GAME ONE HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/346
+#EXTINF:0,FR: J ONE HD
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/568
+#EXTINF:0,FR: ZOUZOU TV
+http://beopen.dyndns.tv:8000/n0ClLfTWca/xHYNJxm46y/442
