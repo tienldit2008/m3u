@@ -19,6 +19,8 @@ http://ws4.streamhls.huya.com/huyalive/30765679-2484192572-10669525853706125312-
 http://js.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://data1.ibtimes.co.in/cache-img-900-0-photo/en/full/63957/1492062294_fast-furious-8-upcoming-hollywood-action-film-directed-by-f-gary-gray-written-by-chris-morgan.jpg" group-title="TV TÀU", Fast and Furious
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Doraemon
+http://aldirect.hls.huya.com/huyalive/29169025-2686220742-11537230236726853632-3048959612-10057-A-1524131613-1_1200.m3u8
 #EXTINF:-1,Vikings S01 E09
 http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1811.mkv
 #EXTINF:-1,Vikings S01 E08
