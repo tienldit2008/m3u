@@ -13,14 +13,26 @@ http://alhls.cdn.zhanqi.tv/zqlive/37119_4ibXM.m3u8
 http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="http://images4.fanpop.com/image/photos/20600000/Walt-Disney-Characters-Wallpaper-walt-disney-characters-20639991-1440-900.jpg" group-title="TV TÀU", Disney
 http://aldirect.hls.huya.com/huyalive/29106097-2689406818-11550914328949424128-2789274560-10057-A-1525417691-1_1200.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://images.summitmedia-digital.com/spotph/images/files/2012/01/1326757737-Hollywood-Films_370.jpg" group-title="TV TÀU", Hollywood
-http://ws4.streamhls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-1521100607-1_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://media1.mensxp.com/media/content/2017/Sep/upcoming-hollywood-movies-you-shouldnt-miss-1400x653-1505901970_1100x513.jpg" group-title="TV TÀU", Infinity War
 http://js.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://data1.ibtimes.co.in/cache-img-900-0-photo/en/full/63957/1492062294_fast-furious-8-upcoming-hollywood-action-film-directed-by-f-gary-gray-written-by-chris-morgan.jpg" group-title="TV TÀU", Fast and Furious
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Doraemon
 http://aldirect.hls.huya.com/huyalive/29169025-2686220742-11537230236726853632-3048959612-10057-A-1524131613-1_1200.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.summitmedia-digital.com/spotph/images/files/2012/01/1326757737-Hollywood-Films_370.jpg",24/7 Hollywood Movies 6
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+#EXTINF:-1 tvg-logo="https://images.summitmedia-digital.com/spotph/images/files/2012/01/1326757737-Hollywood-Films_370.jpg",24/7 Hollywood Movies 7
+http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo="https://images.summitmedia-digital.com/spotph/images/files/2012/01/1326757737-Hollywood-Films_370.jpg",24/7 Hollywood Movies 11
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo="https://images.summitmedia-digital.com/spotph/images/files/2012/01/1326757737-Hollywood-Films_370.jpg",24/7 Hollywood Movies 4
+http://ws4.streamhls.huya.com:80/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1_1200/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.summitmedia-digital.com/spotph/images/files/2012/01/1326757737-Hollywood-Films_370.jpg",24/7 Hollywood Movies 5
+http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.summitmedia-digital.com/spotph/images/files/2012/01/1326757737-Hollywood-Films_370.jpg",24/7 Hollywood Movies 8
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+
 #EXTINF:-1,Vikings S01 E09
 http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1811.mkv
 #EXTINF:-1,Vikings S01 E08
