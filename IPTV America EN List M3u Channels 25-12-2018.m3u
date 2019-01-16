@@ -1,91 +1,255 @@
-#EXTM3U
-#EXTINF:-1,HBO
-http://51.15.191.232:8000/katka/katka/30065
-#EXTINF:-1,Tennis Channel HD
-http://51.15.191.232:8000/katka/katka/30042
-#EXTINF:-1,UFC Fight Pass
-http://51.15.191.232:8000/katka/katka/29617
-#EXTINF:-1,Food Network HD
-http://51.15.191.232:8000/katka/katka/29666
-#EXTINF:-1,WWE FHD
-http://51.15.191.232:8000/katka/katka/27446
-#EXTINF:-1,MSNBC
-http://51.15.191.232:8000/katka/katka/27915
-#EXTINF:-1,NHL Network
-http://51.15.191.232:8000/katka/katka/27909
-#EXTINF:-1,Sports Net 360
-http://51.15.191.232:8000/katka/katka/27897
-#EXTINF:-1,Willow Cricket
-http://51.15.191.232:8000/katka/katka/27887
-#EXTINF:-1,TLC HD
-http://51.15.191.232:8000/katka/katka/26625
-#EXTINF:-1,USA NETWORK
-http://51.15.191.232:8000/katka/katka/26533
-#EXTINF:-1,ABC News
-http://51.15.191.232:8000/katka/katka/27430
-#EXTINF:-1,Comedy Central
-http://51.15.191.232:8000/katka/katka/27487
-#EXTINF:-1,Food Network
-http://51.15.191.232:8000/katka/katka/27481
-#EXTINF:-1,HGTV
-http://51.15.191.232:8000/katka/katka/27474
-#EXTINF:-1,Disney HD
-http://51.15.191.232:8000/katka/katka/30073
-#EXTINF:-1,Viceland
-http://51.15.191.232:8000/katka/katka/27447
-#EXTINF:-1,Bloomberg
-http://51.15.191.232:8000/katka/katka/27949
-#EXTINF:-1,Animal Planet
-http://51.15.191.232:8000/katka/katka/26676
-#EXTINF:-1,Destination America
-http://51.15.191.232:8000/katka/katka/29674
-#EXTINF:-1,Crime Investigation Discovery HD
-http://51.15.191.232:8000/katka/katka/30077
-#EXTINF:-1,Discovery HD
-http://51.15.191.232:8000/katka/katka/30075
-#EXTINF:-1,Discovery Science HD
-http://51.15.191.232:8000/katka/katka/30074
-#EXTINF:-1,Discovery Velocity
-http://51.15.191.232:8000/katka/katka/27485
-#EXTINF:-1,Discovery Channel USA
-http://51.15.191.232:8000/katka/katka/26606
-#EXTINF:-1,National Geographic
-http://51.15.191.232:8000/katka/katka/26647
-#EXTINF:-1,National Geographic FHD
-http://51.15.191.232:8000/katka/katka/27468
-#EXTINF:-1,Science HD
-http://51.15.191.232:8000/katka/katka/26541
+#EXTINF:-1,ABC
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24147
+#EXTINF:-1,CBS HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24144
+#EXTINF:-1,USA Network
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24143
+#EXTINF:-1,|USA|******NEWS******|USA|
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24142
+#EXTINF:-1,CNN HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24141
+#EXTINF:-1,Fox News HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24140
+#EXTINF:-1,MSNBC FHD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24139
+#EXTINF:-1,ABC NEWS
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24138
+#EXTINF:-1,CNBC
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24137
+#EXTINF:-1,FOX BUSINESS FHD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24136
+#EXTINF:-1,BLOOMBERG TV
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24135
+#EXTINF:-1,ABC 7
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24134
+#EXTINF:-1,SPORT N
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24108
+#EXTINF:-1,ESPN 3
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24103
+#EXTINF:-1,The Weather Channel
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24133
+#EXTINF:-1,|USA|******MOVIES******|USA|
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24132
+#EXTINF:-1,SHOWTIME SHOWCASE
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24120
+#EXTINF:-1,Starz Cinema HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24118
+#EXTINF:-1,STARZ
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24119
+#EXTINF:-1,FX TV HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24125
+#EXTINF:-1,MoreMax HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24116
+#EXTINF:-1,Lifetime Movies HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24117
 #EXTINF:-1,5 Star Max
-http://51.15.191.232:8000/katka/katka/30085
-#EXTINF:-1,BET HD
-http://51.15.191.232:8000/katka/katka/30083
-#EXTINF:-1,Bravo FHD
-http://51.15.191.232:8000/katka/katka/30082
-#EXTINF:-1,History
-http://51.15.191.232:8000/katka/katka/30063
-#EXTINF:-1,Investigation Discovery
-http://51.15.191.232:8000/katka/katka/27918
-#EXTINF:-1,SHOWTIME SHOWCASE HD
-http://51.15.191.232:8000/katka/katka/29625
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24114
+#EXTINF:-1,ACTIONMAX HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24115
+#EXTINF:-1,AMC HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24122
+#EXTINF:-1,Cinemax East HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24113
+#EXTINF:-1,CINEMAX HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24112
+#EXTINF:-1,EL REY HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24111
+#EXTINF:-1,TNT HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24123
+#EXTINF:-1,HBO
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24131
+#EXTINF:-1,HBO COMEDY HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24130
+#EXTINF:-1,HBO FAMILY HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24129
+#EXTINF:-1,STARZ CINEMA
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24128
+#EXTINF:-1,HBO SIGNATURE HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24127
+#EXTINF:-1,HBO ZONE
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24126
+#EXTINF:-1,HALLMARK HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24124
+#EXTINF:-1,|USA|******SPORTS******|USA|
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24110
+#EXTINF:-1,SPORT US
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24109
+#EXTINF:-1,FOX SPORT 1HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24107
+#EXTINF:-1,FOX SPORT 2HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24106
+#EXTINF:-1,ESPN
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24105
+#EXTINF:-1,ESPN 2HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24104
+#EXTINF:-1,ESPN Deportes
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24102
+#EXTINF:-1,ESPNEWS
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24100
+#EXTINF:-1,ESPN U HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24101
+#EXTINF:-1,N
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24099
+#EXTINF:-1,CBS SPORTS NET
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24098
+#EXTINF:-1,NBC SPORTS Net HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24097
+#EXTINF:-1,NBC GOLF
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24096
+#EXTINF:-1,Tennis Channel HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24095
+#EXTINF:-1,FOX DEPORTES
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24094
+#EXTINF:-1,WWE HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24093
+#EXTINF:-1,MLB HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24092
+#EXTINF:-1,NBA
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24091
+#EXTINF:-1,NBA 1 MATCH EVENT
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24090
+#EXTINF:-1,NBA 2 MATCH EVENT
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24089
+#EXTINF:-1,NBA 3 MATCH EVENT
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24088
+#EXTINF:-1,NBA 4 MATCH EVENT
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24087
+#EXTINF:-1,NBA 5 MATCH EVENT
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24086
+#EXTINF:-1,NBA 6 MATCH EVENT
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24085
+#EXTINF:-1,NBA 7 MATCH EVENT
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24084
+#EXTINF:-1,NBA 8 MATCH EVENT
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24083
+#EXTINF:-1,NBA 9 MATCH EVENT
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24082
+#EXTINF:-1,NBA 10 MATCH EVENT
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24081
+#EXTINF:-1,NBA 11
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24080
+#EXTINF:-1,NHL HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24079
+#EXTINF:-1,NHL 1 MATCH EVENT
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24078
+#EXTINF:-1,NHL 2 MATCH EVENT
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24077
+#EXTINF:-1,NHL 3 MATCH EVENT
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24076
+#EXTINF:-1,NHL 4 MATCH EVENT
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24075
+#EXTINF:-1,NHL 5 MATCH EVENT
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24074
+#EXTINF:-1,NHL 6
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24073
+#EXTINF:-1,NHL 7
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24072
+#EXTINF:-1,NHL 8
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24071
+#EXTINF:-1,NHL 9
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24070
+#EXTINF:-1,NHL 10
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24069
+#EXTINF:-1,NHL 11
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24068
+#EXTINF:-1,NFL NETWORK HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24067
+#EXTINF:-1,NFL 705
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24066
+#EXTINF:-1,NFL 706
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24065
+#EXTINF:-1,NFL 707
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24064
+#EXTINF:-1,NFL 708
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24063
+#EXTINF:-1,NFL 709
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24062
+#EXTINF:-1,NFL 710
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24061
+#EXTINF:-1,NFL 711
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24060
+#EXTINF:-1,NFL 712
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24059
+#EXTINF:-1,NFL 713
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24058
+#EXTINF:-1,NFL 714
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24057
+#EXTINF:-1,NFL 715
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24056
+#EXTINF:-1,NFL 716
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24055
+#EXTINF:-1,NFL 717
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24054
+#EXTINF:-1,|USA|*****ENTRETAINMENT****|USA|
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24992
+#EXTINF:-1,BRAVO
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24052
+#EXTINF:-1,A&E
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24051
 #EXTINF:-1,COMEDY CENTRAL HD
-http://51.15.191.232:8000/katka/katka/29678
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24050
+#EXTINF:-1,HGTV
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24049
 #EXTINF:-1,E!
-http://51.15.191.232:8000/katka/katka/29670
-#EXTINF:-1,LIFETIME MOVIES
-http://51.15.191.232:8000/katka/katka/29648
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24048
+#EXTINF:-1,Fox HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24047
+#EXTINF:-1,FXX
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24046
+#EXTINF:-1,GSN FHD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24045
+#EXTINF:-1,SPIKE TV HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24044
+#EXTINF:-1,Syfy HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24043
+#EXTINF:-1,TLC HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24042
+#EXTINF:-1,Viceland
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24041
 #EXTINF:-1,DIY Network
-http://51.15.191.232:8000/katka/katka/27935
-#EXTINF:-1,Paramount Network HD
-http://51.15.191.232:8000/katka/katka/30049
-#EXTINF:-1,FX
-http://51.15.191.232:8000/katka/katka/27922
-#EXTINF:-1,Lifetime
-http://51.15.191.232:8000/katka/katka/27917
-#EXTINF:-1,TRAVEL CHANNEL
-http://51.15.191.232:8000/katka/katka/29619
-#EXTINF:-1,Own
-http://51.15.191.232:8000/katka/katka/27908
-#EXTINF:-1,REDZONE
-http://51.15.191.232:8000/katka/katka/29613
-#EXTINF:-1,SPIKE WEST
-http://51.15.191.232:8000/katka/katka/29699
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24040
+#EXTINF:-1,FREEFROM
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24039
+#EXTINF:-1,TBS
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24038
+#EXTINF:-1,SN
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24037
+#EXTINF:-1,|USA|*****LIFESTYLE*****|USA|
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24036
+#EXTINF:-1,ANIMAL PLANET HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24035
+#EXTINF:-1,NAT GEO WILD HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24034
+#EXTINF:-1,NAT GEO
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24033
+#EXTINF:-1,DISCOVERY HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24032
+#EXTINF:-1,DISCOVERY SC HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24031
+#EXTINF:-1,DISCOVERY ID HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24030
+#EXTINF:-1,HISTORY HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24029
+#EXTINF:-1,H2
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24028
+#EXTINF:-1,Travel Channel
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24027
+#EXTINF:-1,FOOD NETWORK
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24026
+#EXTINF:-1,|USA|*****KIDS AND FAMILY*****|USA|
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24025
+#EXTINF:-1,Cartoon Network
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24024
+#EXTINF:-1,Disney Channel FHD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24023
+#EXTINF:-1,Nick
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24022
+#EXTINF:-1,NICKTOONS
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24021
+#EXTINF:-1,|USA|*****MUSIC*****|USA|
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24020
+#EXTINF:-1,MTV
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24019
+#EXTINF:-1,VH1 FHD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24018
+
