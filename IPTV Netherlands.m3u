@@ -1,55 +1,177 @@
 #EXTM3U
-#EXTINF:-1,ANIMAL PLANET
-http://51.15.191.232:8000/katka/katka/24420
-#EXTINF:-1,BABY TV
-http://51.15.191.232:8000/katka/katka/24419
-#EXTINF:-1,BOOMERANG
-http://51.15.191.232:8000/katka/katka/24418
-#EXTINF:-1,CBS REALITY
-http://51.15.191.232:8000/katka/katka/24415
-#EXTINF:-1,COMEDY CENTRAL NEDERLAND
-http://51.15.191.232:8000/katka/katka/24413
-#EXTINF:-1,CRIME  INVESTIGATION NETWORK
-http://51.15.191.232:8000/katka/katka/24412
-#EXTINF:-1,FOX CHANNEL
-http://51.15.191.232:8000/katka/katka/24404
-#EXTINF:-1,HISTORY HD
-http://51.15.191.232:8000/katka/katka/24397
-#EXTINF:-1,INVESTIGATION DISCOVERY
-http://51.15.191.232:8000/katka/katka/24396
-#EXTINF:-1,NAT GEO WILD
-http://51.15.191.232:8000/katka/katka/24394
-#EXTINF:-1,NATIONAL GEO HD
-http://51.15.191.232:8000/katka/katka/24393
-#EXTINF:-1,NET 5 HD
-http://51.15.191.232:8000/katka/katka/24392
-#EXTINF:-1,NICKOLODEON
-http://51.15.191.232:8000/katka/katka/24417
-#EXTINF:-1,NPO 1 HD
-http://51.15.191.232:8000/katka/katka/24391
-#EXTINF:-1,NPO 2 HD
-http://51.15.191.232:8000/katka/katka/24390
-#EXTINF:-1,NPO 3 HD
-http://51.15.191.232:8000/katka/katka/24389
-#EXTINF:-1,NPO ZAPPELIN XTRA/HUMOR TV
-http://51.15.191.232:8000/katka/katka/24388
-#EXTINF:-1,RTL 4 HD
-http://51.15.191.232:8000/katka/katka/24387
-#EXTINF:-1,RTL 5 HD
-http://51.15.191.232:8000/katka/katka/24386
-#EXTINF:-1,RTL 7 HD
-http://51.15.191.232:8000/katka/katka/24385
-#EXTINF:-1,RTL 8 HD
-http://51.15.191.232:8000/katka/katka/24384
-#EXTINF:-1,RTL LOUNGE
-http://51.15.191.232:8000/katka/katka/24383
-#EXTINF:-1,RTL Z HD
-http://51.15.191.232:8000/katka/katka/24382
-#EXTINF:-1,SBS 6 HD
-http://51.15.191.232:8000/katka/katka/24381
+##EXTINF:-1,NPO 1
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/203
+#EXTINF:-1,NPO 2
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/204
+#EXTINF:-1,NPO 3
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/205
+#EXTINF:-1,RTL 4
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/206
+#EXTINF:-1,RTL 5
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/1811
+#EXTINF:-1,SBS 6
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/210
+#EXTINF:-1,RTL 7
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/207
+#EXTINF:-1,RTL 8
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/208
 #EXTINF:-1,SBS 9
-http://51.15.191.232:8000/katka/katka/24380
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/211
+#EXTINF:-1,NET 5
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/209
+#EXTINF:-1,Veronica/Disney XD
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/500
+#EXTINF:-1,Film1 Action
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/215
+#EXTINF:-1,Film1 Family
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/219
+#EXTINF:-1,Film1 Premiere HD
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/218
+#EXTINF:-1,Film1 Drama HD
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/2014
+#EXTINF:-1,Comedy Central Family
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/2778
+#EXTINF:-1,Ziggo Sport Select
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/1269
+#EXTINF:-1,Ziggo Sport Voetbal
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/228
+#EXTINF:-1,Ziggo Sport Extra 1
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/1794
+#EXTINF:-1,FOX Sports 1+
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/2747
+#EXTINF:-1,FOX Sports 1
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/225
+#EXTINF:-1,FOX Sports 2
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/224
+#EXTINF:-1,FOX Sports 3
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/223
+#EXTINF:-1,FOX Sports 4
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/222
+#EXTINF:-1,FOX Sports 5
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/221
+#EXTINF:-1,FOX Sports 6
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/220
+#EXTINF:-1,Edge Sport
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/1370
+#EXTINF:-1,Eurosport
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/1540
+#EXTINF:-1,Crime & Investigation
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/213
+#EXTINF:-1,RTL Telekids
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/1409
+#EXTINF:-1,RTL Crime
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/1407
+#EXTINF:-1,BVN TV
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/2448
+#EXTINF:-1,Fox
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/1383
 #EXTINF:-1,TLC
-http://51.15.191.232:8000/katka/katka/24379
-#EXTINF:-1,VERONICA . DISNEY XD
-http://51.15.191.232:8000/katka/katka/24378
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/1482
+#EXTINF:-1,TV Oranje
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/1484
+#EXTINF:-1,192 TV
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/1829
+#EXTINF:-1,NPO Nieuws
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/2505
+#EXTINF:-1,NPO Politiek
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/2506
+#EXTINF:-1,NPO Zappeline
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/1334
+#EXTINF:-1,Baby TV
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/1487
+#EXTINF:-1,nickjr
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/1272
+#EXTINF:-1,Jimjam
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/1551
+#EXTINF:-1,24 Kitchen HD
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/1371
+#EXTINF:-1,Boomerang
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/167
+#EXTINF:-1,Nickelodeon
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/1336
+#EXTINF:-1,Disney Junior
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/1271
+#EXTINF:-1,Disney Channel HD
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/1270
+#EXTINF:-1,Comedy Central
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/642
+#EXTINF:-1,Animal Planet
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/1372
+#EXTINF:-1,Nat Geo Wild
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/1541
+#EXTINF:-1,Natiol Geographic
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/238
+#EXTINF:-1,Discovery Channel HD
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/1408
+#EXTINF:-1,E! Entertainment
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/2782
+#EXTINF:-1,AT5
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/1926
+#EXTINF:-1,BNR
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/2450
+#EXTINF:-1,Breda Nu
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/1517
+#EXTINF:-1,L1 Limburg
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/1502
+#EXTINF:-1,MTV
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/2783
+#EXTINF:-1,Omroep West
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/1513
+#EXTINF:-1,ZuidWest TV
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/1521
+#EXTINF:-1,Omroep Gelderland
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/1499
+#EXTINF:-1,Omroep Brabant
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/1494
+#EXTINF:-1,Omroep Frysland
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/1495
+#EXTINF:-1,Omroep Flevoland
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/1527
+#EXTINF:-1,Omroep Venlo
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/1518
+#EXTINF:-1,Omroep Zeeland
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/1526
+#EXTINF:-1,Vier (BE)
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/2781
+#EXTINF:-1,Vijf (BE)
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/2780
+#EXTINF:-1,Vitaya (BE)
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/2779
+#EXTINF:-1,RTV Ustad
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/1530
+#EXTINF:-1,RTV Utrecht
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/1503
+#EXTINF:-1,RTV ATOS
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/1501
+#EXTINF:-1,RTV Dordrecht
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/1496
+#EXTINF:-1,RTV Purmerend
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/1498
+#EXTINF:-1,RTV Roermond
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/1500
+#EXTINF:-1,RTV Slingeland
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/1497
+#EXTINF:-1,RTV ijsselmond
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/1511
+#EXTINF:-1,RTV Baarn
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/1519
+#EXTINF:-1,RTV Bodegraven
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/1522
+#EXTINF:-1,RTV Drenthe
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/1524
+#EXTINF:-1,RTV Hoorn
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/1520
+#EXTINF:-1,RTV Rijnmond
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/1525
+#EXTINF:-1,RTV SLOS
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/1523
+#EXTINF:-1,RTV Hattem
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/1531
+#EXTINF:-1,RTV Noord
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/1529
+#EXTINF:-1,RTV Oost
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/1528
+#EXTINF:-1,Q music
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/1547
+#EXTINF:-1,Klipkar TV
+http://iso66-iptv.no-ip.biz:60606/sirer/sirer/2507
