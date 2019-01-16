@@ -1,115 +1,55 @@
 #EXTM3U
-#EXTINF:-1,192TV
-http://iptvizle.co:80/muzaffer/02032017/52558
-#EXTINF:-1,24 Kitchen
-http://iptvizle.co:80/muzaffer/02032017/52559
-#EXTINF:-1,24Kitchen
-http://iptvizle.co:80/muzaffer/02032017/52560
-#EXTINF:-1,AT5
-http://iptvizle.co:80/muzaffer/02032017/52561
-#EXTINF:-1,Baby Tv
-http://iptvizle.co:80/muzaffer/02032017/52562
-#EXTINF:-1,Boomerang
-http://iptvizle.co:80/muzaffer/02032017/52563
-#EXTINF:-1,Comedy Central
-http://iptvizle.co:80/muzaffer/02032017/52565
-#EXTINF:-1,Discovery Channel
-http://iptvizle.co:80/muzaffer/02032017/52566
-#EXTINF:-1,Disney Junior
-http://iptvizle.co:80/muzaffer/02032017/52567
-#EXTINF:-1,DISNEY XD
-http://iptvizle.co:80/muzaffer/02032017/52568
-#EXTINF:-1,DJAZZ TV
-http://iptvizle.co:80/muzaffer/02032017/52600
-#EXTINF:-1,HBO 2 HD
-http://iptvizle.co:80/muzaffer/02032017/52632
-#EXTINF:-1,HBO 3
-http://iptvizle.co:80/muzaffer/02032017/52576
-#EXTINF:-1,History
-http://iptvizle.co:80/muzaffer/02032017/52592
-#EXTINF:-1,Investigation Discovery
-http://iptvizle.co:80/muzaffer/02032017/52593
-#EXTINF:-1,MTV
-http://iptvizle.co:80/muzaffer/02032017/52595
-#EXTINF:-1,Nat Geo Wild HD
-http://iptvizle.co:80/muzaffer/02032017/52596
-#EXTINF:-1,National Geographic FHD
-http://iptvizle.co:80/muzaffer/02032017/52597
-#EXTINF:-1,Net 5 FHD 1080
-http://iptvizle.co:80/muzaffer/02032017/52598
+#EXTINF:-1,ANIMAL PLANET
+http://51.15.191.232:8000/katka/katka/24420
+#EXTINF:-1,BABY TV
+http://51.15.191.232:8000/katka/katka/24419
+#EXTINF:-1,BOOMERANG
+http://51.15.191.232:8000/katka/katka/24418
+#EXTINF:-1,CBS REALITY
+http://51.15.191.232:8000/katka/katka/24415
+#EXTINF:-1,COMEDY CENTRAL NEDERLAND
+http://51.15.191.232:8000/katka/katka/24413
+#EXTINF:-1,CRIME  INVESTIGATION NETWORK
+http://51.15.191.232:8000/katka/katka/24412
+#EXTINF:-1,FOX CHANNEL
+http://51.15.191.232:8000/katka/katka/24404
+#EXTINF:-1,HISTORY HD
+http://51.15.191.232:8000/katka/katka/24397
+#EXTINF:-1,INVESTIGATION DISCOVERY
+http://51.15.191.232:8000/katka/katka/24396
+#EXTINF:-1,NAT GEO WILD
+http://51.15.191.232:8000/katka/katka/24394
+#EXTINF:-1,NATIONAL GEO HD
+http://51.15.191.232:8000/katka/katka/24393
 #EXTINF:-1,NET 5 HD
-http://iptvizle.co:80/muzaffer/02032017/52599
-#EXTINF:-1,Nick JR
-http://iptvizle.co:80/muzaffer/02032017/52601
-#EXTINF:-1,Nickelodeon
-http://iptvizle.co:80/muzaffer/02032017/52602
-#EXTINF:-1,Nicktoons
-http://iptvizle.co:80/muzaffer/02032017/52603
-#EXTINF:-1,NPO 1
-http://iptvizle.co:80/muzaffer/02032017/52604
+http://51.15.191.232:8000/katka/katka/24392
+#EXTINF:-1,NICKOLODEON
+http://51.15.191.232:8000/katka/katka/24417
 #EXTINF:-1,NPO 1 HD
-http://iptvizle.co:80/muzaffer/02032017/52605
-#EXTINF:-1,NPO 2
-http://iptvizle.co:80/muzaffer/02032017/52606
+http://51.15.191.232:8000/katka/katka/24391
 #EXTINF:-1,NPO 2 HD
-http://iptvizle.co:80/muzaffer/02032017/52607
-#EXTINF:-1,NPO 3
-http://iptvizle.co:80/muzaffer/02032017/52608
+http://51.15.191.232:8000/katka/katka/24390
 #EXTINF:-1,NPO 3 HD
-http://iptvizle.co:80/muzaffer/02032017/52609
-#EXTINF:-1,NPO Best/Zapp Xtra
-http://iptvizle.co:80/muzaffer/02032017/52610
-#EXTINF:-1,Omroep Brabant
-http://iptvizle.co:80/muzaffer/02032017/52611
-#EXTINF:-1,Omroep Gelderland
-http://iptvizle.co:80/muzaffer/02032017/52594
-#EXTINF:-1,Omroep Zeeland
-http://iptvizle.co:80/muzaffer/02032017/52612
-#EXTINF:-1,Omrop Fryslân
-http://iptvizle.co:80/muzaffer/02032017/52613
-#EXTINF:-1,ONS
-http://iptvizle.co:80/muzaffer/02032017/52614
-#EXTINF:-1,RTL 4 FHD
-http://iptvizle.co:80/muzaffer/02032017/52615
+http://51.15.191.232:8000/katka/katka/24389
+#EXTINF:-1,NPO ZAPPELIN XTRA/HUMOR TV
+http://51.15.191.232:8000/katka/katka/24388
 #EXTINF:-1,RTL 4 HD
-http://iptvizle.co:80/muzaffer/02032017/52616
-#EXTINF:-1,RTL 5 FHD
-http://iptvizle.co:80/muzaffer/02032017/52617
+http://51.15.191.232:8000/katka/katka/24387
 #EXTINF:-1,RTL 5 HD
-http://iptvizle.co:80/muzaffer/02032017/52618
-#EXTINF:-1,RTL 7 FHD
-http://iptvizle.co:80/muzaffer/02032017/52619
+http://51.15.191.232:8000/katka/katka/24386
 #EXTINF:-1,RTL 7 HD
-http://iptvizle.co:80/muzaffer/02032017/52620
-#EXTINF:-1,RTL 8 FHD
-http://iptvizle.co:80/muzaffer/02032017/52621
+http://51.15.191.232:8000/katka/katka/24385
 #EXTINF:-1,RTL 8 HD
-http://iptvizle.co:80/muzaffer/02032017/52622
-#EXTINF:-1,RTL Crime Netherlands
-http://iptvizle.co:80/muzaffer/02032017/52623
-#EXTINF:-1,RTL Lounge
-http://iptvizle.co:80/muzaffer/02032017/52624
-#EXTINF:-1,RTL Z
-http://iptvizle.co:80/muzaffer/02032017/52625
-#EXTINF:-1,SBS 6 FHD
-http://iptvizle.co:80/muzaffer/02032017/52626
+http://51.15.191.232:8000/katka/katka/24384
+#EXTINF:-1,RTL LOUNGE
+http://51.15.191.232:8000/katka/katka/24383
+#EXTINF:-1,RTL Z HD
+http://51.15.191.232:8000/katka/katka/24382
 #EXTINF:-1,SBS 6 HD
-http://iptvizle.co:80/muzaffer/02032017/52627
+http://51.15.191.232:8000/katka/katka/24381
 #EXTINF:-1,SBS 9
-http://iptvizle.co:80/muzaffer/02032017/52628
-#EXTINF:-1,SBS9
-http://iptvizle.co:80/muzaffer/02032017/52629
-#EXTINF:-1,Sport 1 Racing
-http://iptvizle.co:80/muzaffer/02032017/52630
-#EXTINF:-1,Sport 1 Voetbal
-http://iptvizle.co:80/muzaffer/02032017/52631
+http://51.15.191.232:8000/katka/katka/24380
 #EXTINF:-1,TLC
-http://iptvizle.co:80/muzaffer/02032017/52633
-#EXTINF:-1,TV Gelderland
-http://iptvizle.co:80/muzaffer/02032017/52634
-#EXTINF:-1,TV Noord
-http://iptvizle.co:80/muzaffer/02032017/52635
-#EXTINF:-1,TV Oost
-http://iptvizle.co:80/muzaffer/02032017/52636
-#EXTINF:-1,Veronica/DisneyXD HD
-http://iptvizle.co:80/muzaffer/02032017/52637
+http://51.15.191.232:8000/katka/katka/24379
+#EXTINF:-1,VERONICA . DISNEY XD
+http://51.15.191.232:8000/katka/katka/24378
