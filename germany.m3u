@@ -1,127 +1,51 @@
 #EXTM3U
-#EXTINF:0,AXN
-http://cms.bossna-caffe.com:80/live?channelId=589&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,Arte
-http://cms.bossna-caffe.com:80/live?channelId=430&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,RTL
-http://cms.bossna-caffe.com:80/live?channelId=18&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,RTL 2 DE
-http://cms.bossna-caffe.com:80/live?channelId=259&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,RTL Passion DE
-http://cms.bossna-caffe.com:80/live?channelId=1007&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,RTL Living
-http://cms.bossna-caffe.com:80/live?channelId=1258&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,RTL Nitro DE
-http://cms.bossna-caffe.com:80/live?channelId=586&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,Super RTL DE
-http://cms.bossna-caffe.com:80/live?channelId=587&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,FOX
-http://cms.bossna-caffe.com:80/live?channelId=283&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,VOX DE
-http://cms.bossna-caffe.com:80/live?channelId=181&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,Das Erste
-http://cms.bossna-caffe.com:80/live?channelId=1015&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,DMAX
-http://cms.bossna-caffe.com:80/live?channelId=588&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,Discovery Channel
-http://cms.bossna-caffe.com:80/live?channelId=195&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,History Channel
-http://cms.bossna-caffe.com:80/live?channelId=584&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,National Geographic
-http://cms.bossna-caffe.com:80/live?channelId=16&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,National Geo Wild
-http://cms.bossna-caffe.com:80/live?channelId=583&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,ProSieben
-http://cms.bossna-caffe.com:80/live?channelId=270&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,PRO7 MAXX
-http://cms.bossna-caffe.com:80/live?channelId=1188&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,Phoenix
-http://cms.bossna-caffe.com:80/live?channelId=1018&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,3sat
-http://cms.bossna-caffe.com:80/live?channelId=1014&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,13th Street
-http://cms.bossna-caffe.com:80/live?channelId=338&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,Sixx
-http://cms.bossna-caffe.com:80/live?channelId=1017&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,Kinowelt TV
-http://cms.bossna-caffe.com:80/live?channelId=590&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,Sat 1
-http://cms.bossna-caffe.com:80/live?channelId=582&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,Kika
-http://cms.bossna-caffe.com:80/live?channelId=339&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,Kabel Eins
-http://cms.bossna-caffe.com:80/live?channelId=561&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,Universal
-http://cms.bossna-caffe.com:80/live?channelId=1006&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,Sky Emotion
-http://cms.bossna-caffe.com:80/live?channelId=1019&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,Sky Atlantic
-http://cms.bossna-caffe.com:80/live?channelId=1020&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,Sky Krimi
-http://cms.bossna-caffe.com:80/live?channelId=204&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,Sky Action
-http://cms.bossna-caffe.com:80/live?channelId=19&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,Sky Cinema +24
-http://cms.bossna-caffe.com:80/live?channelId=198&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,Sky Cinema
-http://cms.bossna-caffe.com:80/live?channelId=22&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,Sky Comedy
-http://cms.bossna-caffe.com:80/live?channelId=23&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,Sky Hits
-http://cms.bossna-caffe.com:80/live?channelId=261&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,TNT Film
-http://cms.bossna-caffe.com:80/live?channelId=196&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,TNT Serie
-http://cms.bossna-caffe.com:80/live?channelId=1021&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,N24
-http://cms.bossna-caffe.com:80/hls/1200.m3u8?channelId=1200&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,ORF Eins
-http://cms.bossna-caffe.com:80/live?channelId=260&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,ORF 2
-http://cms.bossna-caffe.com:80/live?channelId=134&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,ORF 3
-http://cms.bossna-caffe.com:80/live?channelId=1243&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,Sky Select 1
-http://cms.bossna-caffe.com:80/live?channelId=206&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,Sky Select 2
-http://cms.bossna-caffe.com:80/live?channelId=9&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,Sky Select 3
-http://cms.bossna-caffe.com:80/live?channelId=142&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,Sky Select 4
-http://cms.bossna-caffe.com:80/live?channelId=331&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,Sky Select 5
-http://cms.bossna-caffe.com:80/live?channelId=332&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,Sky Select 6
-http://cms.bossna-caffe.com:80/live?channelId=333&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,Sky Select 7
-http://cms.bossna-caffe.com:80/live?channelId=335&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,Sky Select 8
-http://cms.bossna-caffe.com:80/live?channelId=1023&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,Sky Fussball Bundesliga
-http://cms.bossna-caffe.com:80/live?channelId=21&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,Sky Bundesliga 2 DE (TEST-MatchOnly)
-http://cms.bossna-caffe.com:80/live?channelId=1238&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,Sky Bundesliga 3 DE (TEST-MatchOnly)
-http://cms.bossna-caffe.com:80/live?channelId=1239&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,Sky Bundesliga 4 DE (TEST-MatchOnly)
-http://cms.bossna-caffe.com:80/live?channelId=1240&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,Sky Bundesliga 5 DE (TEST-MatchOnly)
-http://cms.bossna-caffe.com:80/live?channelId=1241&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,Sky Bundesliga 6 DE (TEST-MatchOnly)
-http://cms.bossna-caffe.com:80/live?channelId=1242&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,Sky Sport News
-http://cms.bossna-caffe.com:80/live?channelId=1008&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,Sky Sport 1
-http://cms.bossna-caffe.com:80/live?channelId=7&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,Sky Sport 2
-http://cms.bossna-caffe.com:80/live?channelId=149&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,ZDF
-http://cms.bossna-caffe.com:80/live?channelId=1016&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,Syfy
-http://cms.bossna-caffe.com:80/live?channelId=1022&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,SRF 1
-http://cms.bossna-caffe.com:80/live?channelId=1175&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,Eurosport 1 DE
-http://cms.bossna-caffe.com:80/live?channelId=1256&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
-#EXTINF:0,Eurosport 2 DE
-http://cms.bossna-caffe.com:80/live?channelId=1257&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
+#EXTINF:-1,RTL 2
+http://51.15.191.232:8000/katka/katka/20825
+#EXTINF:-1,RTL Crime
+http://51.15.191.232:8000/katka/katka/20824
+#EXTINF:-1,VOX
+http://51.15.191.232:8000/katka/katka/20783
+#EXTINF:-1,ZDF
+http://51.15.191.232:8000/katka/katka/20782
+#EXTINF:-1,13TH_Street_HD
+http://51.15.191.232:8000/katka/katka/23457
+#EXTINF:-1,ARD das Erste 1 HD
+http://51.15.191.232:8000/katka/katka/23458
+#EXTINF:-1,ARTE_HD
+http://51.15.191.232:8000/katka/katka/23459
+#EXTINF:-1,DISCOVERY_HD
+http://51.15.191.232:8000/katka/katka/23460
+#EXTINF:-1,DISNEY_JUNIOR_HD
+http://51.15.191.232:8000/katka/katka/23496
+#EXTINF:-1,Dmax_HD
+http://51.15.191.232:8000/katka/katka/23463
+#EXTINF:-1,Fox HD
+http://51.15.191.232:8000/katka/katka/23465
+#EXTINF:-1,KABEL_1
+http://51.15.191.232:8000/katka/katka/23466
+#EXTINF:-1,Kika_HD
+http://51.15.191.232:8000/katka/katka/23467
+#EXTINF:-1,NATIONAL_GEOGRAPHIC_HD
+http://51.15.191.232:8000/katka/katka/23468
+#EXTINF:-1,ORF_2_HD
+http://51.15.191.232:8000/katka/katka/23469
+#EXTINF:-1,RTL_CRIME
+http://51.15.191.232:8000/katka/katka/23471
+#EXTINF:-1,RTL HD
+http://51.15.191.232:8000/katka/katka/23472
+#EXTINF:-1,RTL_LIVING
+http://51.15.191.232:8000/katka/katka/23473
+#EXTINF:-1,RTL_PASSION_HD
+http://51.15.191.232:8000/katka/katka/23474
+#EXTINF:-1,SAT_1
+http://51.15.191.232:8000/katka/katka/23475
+#EXTINF:-1,Sixx_HD
+http://51.15.191.232:8000/katka/katka/23476
+#EXTINF:-1,SRF_2HD
+http://51.15.191.232:8000/katka/katka/23492
+#EXTINF:-1,Syfy HD
+http://51.15.191.232:8000/katka/katka/23493
+#EXTINF:-1,ZDF_info_HD
+http://51.15.191.232:8000/katka/katka/23461
+#EXTINF:-1,ZDF_NEO_HD
+http://51.15.191.232:8000/katka/katka/23470
