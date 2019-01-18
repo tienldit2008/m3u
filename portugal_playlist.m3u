@@ -1,99 +1,527 @@
 #EXTM3U
-#EXTINF:-1,RTP 1
-http://51.15.191.232:8000/katka/katka/30393
-#EXTINF:-1,RTP 2
-http://51.15.191.232:8000/katka/katka/30392
-#EXTINF:-1,RTP 2 FHD
-http://51.15.191.232:8000/katka/katka/30008
-#EXTINF:-1,RTP 3
-http://51.15.191.232:8000/katka/katka/24512
-#EXTINF:-1,RTP 3 HD
-http://51.15.191.232:8000/katka/katka/30391
-#EXTINF:-1,RTP ?FRICA
-http://51.15.191.232:8000/katka/katka/30390
-#EXTINF:-1,RTP MEM
-http://51.15.191.232:8000/katka/katka/30389
-#EXTINF:-1,SIC
-http://51.15.191.232:8000/katka/katka/24517
-#EXTINF:-1,SIC K
-http://51.15.191.232:8000/katka/katka/24519
-#EXTINF:-1,SIC MULHER
-http://51.15.191.232:8000/katka/katka/24520
-#EXTINF:-1,SIC NOTICIAS
-http://51.15.191.232:8000/katka/katka/24521
-#EXTINF:-1,SIC CARAS
-http://51.15.191.232:8000/katka/katka/24518
-#EXTINF:-1,TLC
-http://51.15.191.232:8000/katka/katka/22953
-#EXTINF:-1,TOUROS TV
-http://51.15.191.232:8000/katka/katka/22954
-#EXTINF:-1,TVI
-http://51.15.191.232:8000/katka/katka/20245
-#EXTINF:-1,TVI FICCAO
-http://51.15.191.232:8000/katka/katka/22879
-#EXTINF:-1,TVI 24 HD
-http://51.15.191.232:8000/katka/katka/20243
-#EXTINF:-1,RTP A?ORES
-http://51.15.191.232:8000/katka/katka/24513
-#EXTINF:-1,RTP MADEIRA
-http://51.15.191.232:8000/katka/katka/24515
-#EXTINF:-1,RTP MEMORIA
-http://51.15.191.232:8000/katka/katka/24516
-#EXTINF:-1,RTP Africa
-http://51.15.191.232:8000/katka/katka/26930
-#EXTINF:-1,TV GLOBO
-http://51.15.191.232:8000/katka/katka/22960
-#EXTINF:-1,TV Globo Premium
-http://51.15.191.232:8000/katka/katka/22961
-#EXTINF:-1,A &amp; E
-http://51.15.191.232:8000/katka/katka/24472
-#EXTINF:-1,A BOLA
-http://51.15.191.232:8000/katka/katka/24473
-#EXTINF:-1,CA??VISION
-http://51.15.191.232:8000/katka/katka/24481
-#EXTINF:-1,CMTV
-http://51.15.191.232:8000/katka/katka/24487
-#EXTINF:-1,CM TV
-http://51.15.191.232:8000/katka/katka/27671
-#EXTINF:-1,E! ENTERTAINMENT
-http://51.15.191.232:8000/katka/katka/24491
-#EXTINF:-1,MCM POP
-http://51.15.191.232:8000/katka/katka/24503
-#EXTINF:-1,Toros Tv
-http://51.15.191.232:8000/katka/katka/20247
-#EXTINF:-1,MTV PORTUGAL
-http://51.15.191.232:8000/katka/katka/30382
-#EXTINF:-1,AFRO MUSIC
-http://51.15.191.232:8000/katka/katka/24474
-#EXTINF:-1,CAPELA DE FATIMA
-http://51.15.191.232:8000/katka/katka/24484
-#EXTINF:-1,BABY TV
-http://51.15.191.232:8000/katka/katka/24477
-#EXTINF:-1,Panda
-http://51.15.191.232:8000/katka/katka/24309
-#EXTINF:-1,JIM JAM
-http://51.15.191.232:8000/katka/katka/24502
-#EXTINF:-1,SIC Kids
-http://51.15.191.232:8000/katka/katka/27661
-#EXTINF:-1,DISNEY CHANNEL
-http://51.15.191.232:8000/katka/katka/24489
-#EXTINF:-1,NICKELODEON
-http://51.15.191.232:8000/katka/katka/24506
-#EXTINF:-1,CANAL HIST?RIA
-http://51.15.191.232:8000/katka/katka/24482
-#EXTINF:-1, CACA &amp; PESCA
-http://51.15.191.232:8000/katka/katka/22904
-#EXTINF:-1,CACA E PESCA
-http://51.15.191.232:8000/katka/katka/22890
-#EXTINF:-1,Ca?A E PESCA
-http://51.15.191.232:8000/katka/katka/24480
-#EXTINF:-1,NAT GEO WILD
-http://51.15.191.232:8000/katka/katka/24504
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://51.15.191.232:8000/katka/katka/24505
-#EXTINF:-1,DISCOVERY CHANNEL
-http://51.15.191.232:8000/katka/katka/24488
-#EXTINF:-1,24KITCHEN HD
-http://51.15.191.232:8000/katka/katka/27095
-#EXTINF:-1,CBS Reality
-http://51.15.191.232:8000/katka/katka/24325
+#EXTINF:0,RTP 1
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4097
+#EXTINF:0,RTP 2
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4098
+#EXTINF:0,SIC
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4099
+#EXTINF:0,TVI
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/46
+#EXTINF:0,RTP 1 HD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/1347
+#EXTINF:0,RTP 2 HD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/2487
+#EXTINF:0,SIC HD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/971
+#EXTINF:0,TVI HD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/1584
+#EXTINF:0,RTP 1 FHD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4158
+#EXTINF:0,SIC FHD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4159
+#EXTINF:0,TVI FHD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4111
+#EXTINF:0,RTP 1 LOW
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/43
+#EXTINF:0,RTP 2 LOW
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/44
+#EXTINF:0,SIC LOW
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/45
+#EXTINF:0,TVI LOW
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4157
+#EXTINF:0,RTP 1 HD LOW
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4161
+#EXTINF:0,RTP 2 HD LOW
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4162
+#EXTINF:0,SIC HD LOW
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4163
+#EXTINF:0,TVI HD LOW
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4160
+#EXTINF:0,----- INFORMA«√O  NACIONAL -----
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/2467
+#EXTINF:0,SIC NOTICIAS
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4101
+#EXTINF:0,SIC NOTICIAS HD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/1349
+#EXTINF:0,SIC NOTICIAS FHD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4165
+#EXTINF:0,SIC NOTICIAS LOW
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/47
+#EXTINF:0,SIC NOTICIAS HD LOW
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4164
+#EXTINF:0,CMTV
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4091
+#EXTINF:0,CMTV HD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/1346
+#EXTINF:0,TVI 24
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4178
+#EXTINF:0,TVI 24 LOW
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/55
+#EXTINF:0,TVI 24 HD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4184
+#EXTINF:0,RTP 3
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4100
+#EXTINF:0,RTP 3*
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/149
+#EXTINF:0,AR TV
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/2490
+#EXTINF:0,RTP MEMORIA
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/1506
+#EXTINF:0,RTP AFRICA
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/70
+#EXTINF:0,SIC MULHER HD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/67
+#EXTINF:0,SIC CARAS
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4096
+#EXTINF:0,TVI FIC«√O
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/69
+#EXTINF:0,TVI FIC«√O LOW
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4183
+#EXTINF:0,TVI FIC«√O HD LOW
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4167
+#EXTINF:0,TVI REALITY
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/62
+#EXTINF:0,TVI REALITY CAMARA 1
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/2908
+#EXTINF:0,TVI REALITY CAMARA 2
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/3906
+#EXTINF:0,TVI REALITY CAMARA 3
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/3905
+#EXTINF:0,TVI REALITY CAMARA 4
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/3904
+#EXTINF:0,TVI REALITY MOSAICO
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/3903
+#EXTINF:0,TPA
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/1588
+#EXTINF:0,SIC K
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/68
+#EXTINF:0,SIC RADICAL*
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4090
+#EXTINF:0,SIC RADICAL
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/3
+#EXTINF:0,PORTO CANAL
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4
+#EXTINF:0,PORTO CANAL*
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4095
+#EXTINF:0,CANAL Q
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/23
+#EXTINF:0,RTP MADEIRA
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/970
+#EXTINF:0,RTP A«ORES*
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/66
+#EXTINF:0,Localvisao TV HD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/1352
+#EXTINF:0,SANTUARIO DE FATIMA HD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/244
+#EXTINF:0,----- DESPORTO -----
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/2463
+#EXTINF:0,A BOLA TV
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/71
+#EXTINF:0,A BOLA TV*
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4180
+#EXTINF:0,SPORT TV +
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/61
+#EXTINF:0,SPORT TV + FHD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/690
+#EXTINF:0,SPORT TV 1
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/50
+#EXTINF:0,SPORT TV 1*
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/2480
+#EXTINF:0,SPORT TV 1**
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/3969
+#EXTINF:0,SPORT TV 1 HD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4313
+#EXTINF:0,SPORT TV 1 HD LOW
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/685
+#EXTINF:0,SPORT TV 1 LOW
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/2481
+#EXTINF:0,Sport TV 1 FHD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/1505
+#EXTINF:0,SPORT TV 1 FHD*
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4109
+#EXTINF:0,SPORT TV 1 FHD**
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4115
+#EXTINF:0,SPORT TV 2
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/51
+#EXTINF:0,SPORT TV 2**
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/3985
+#EXTINF:0,Sport TV 2 HD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/686
+#EXTINF:0,SPORT TV 2 FHD.
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4207
+#EXTINF:0,SPORT TV 2 FHD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4116
+#EXTINF:0,SPORT TV 3
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/52
+#EXTINF:0,Sport TV 3 HD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/687
+#EXTINF:0,SPORT TV 3 FHD.
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4208
+#EXTINF:0,SPORT TV 3 FHD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4171
+#EXTINF:0,Sport tv4
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/53
+#EXTINF:0,Sport TV 4 HD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/688
+#EXTINF:0,SPORT TV 4 FHD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4133
+#EXTINF:0,Sport TV 5
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/59
+#EXTINF:0,SPORT TV 5 FHD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4134
+#EXTINF:0,Sport TV 5 HD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/689
+#EXTINF:0,ELEVEN 1 FHD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4353
+#EXTINF:0,ELEVEN 1 HD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4359
+#EXTINF:0,ELEVEN 1 LOW
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4382
+#EXTINF:0,ELEVEN 1 SD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4376
+#EXTINF:0,ELEVEN 2 FHD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4354
+#EXTINF:0,ELEVEN 2 HD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4360
+#EXTINF:0,ELEVEN 2 LOW
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4383
+#EXTINF:0,ELEVEN 2 SD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4377
+#EXTINF:0,ELEVEN 3 FHD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4355
+#EXTINF:0,ELEVEN 3 HD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4361
+#EXTINF:0,ELEVEN 3 LOW
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4384
+#EXTINF:0,ELEVEN 3 SD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4378
+#EXTINF:0,ELEVEN 4 FHD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4356
+#EXTINF:0,ELEVEN 4 HD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4362
+#EXTINF:0,ELEVEN 4 LOW
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4385
+#EXTINF:0,ELEVEN 4 SD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4379
+#EXTINF:0,ELEVEN 5 FHD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4357
+#EXTINF:0,ELEVEN 5 HD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4363
+#EXTINF:0,ELEVEN 5 LOW
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4386
+#EXTINF:0,ELEVEN 5 SD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4380
+#EXTINF:0,ELEVEN 6 FHD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4358
+#EXTINF:0,ELEVEN 6 HD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4364
+#EXTINF:0,ELEVEN 6 LOW
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4387
+#EXTINF:0,PT:ELEVEN 6 SD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4381
+#EXTINF:0,BENFICA TV
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/3989
+#EXTINF:0,BENFICA TV FHD.
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4209
+#EXTINF:0,BENFICA TV FHD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/2488
+#EXTINF:0,BENFICA TV  LOW
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/48
+#EXTINF:0,BENFICA TV HD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/2482
+#EXTINF:0,Sporting TV
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/63
+#EXTINF:0,SPORTING TV FHD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4140
+#EXTINF:0,SPORTING TV LOW
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4175
+#EXTINF:0,PFC
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/25
+#EXTINF:0,PFC*
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4093
+#EXTINF:0,EUROSPORT 1
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/27
+#EXTINF:0,Eurosport 1 HD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/1348
+#EXTINF:0,EUROSPORT  1 FHD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4125
+#EXTINF:0,EUROSPORT 1 HD LOW
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4170
+#EXTINF:0,Eurosport 2
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/168
+#EXTINF:0,NBA
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4191
+#EXTINF:0,NBA HD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/72
+#EXTINF:0,BR: ALL SPORTS SD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/247
+#EXTINF:0,REAL MADRID TV
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/246
+#EXTINF:0,KOMBAT SPORT.
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4212
+#EXTINF:0,KOMBAT SPORT
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/75
+#EXTINF:0,Motorvision
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/150
+#EXTINF:0,Motorvision HD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/73
+#EXTINF:0,MOTORVISION FHD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4193
+#EXTINF:0,MOTORS TV
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/74
+#EXTINF:0,MCS LIFESTYLE
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/169
+#EXTINF:0,MCS EXTREME
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/170
+#EXTINF:0,Fuel TV
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/176
+#EXTINF:0,CA«A E PESCA
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/134
+#EXTINF:0,CA«AVISION
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/80
+#EXTINF:0,TOROS TV
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/58
+#EXTINF:0,TOROS TV HD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/2489
+#EXTINF:0,----- FILMES -----
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/2461
+#EXTINF:0,TVCine 1
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/76
+#EXTINF:0,TVCine 2
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/77
+#EXTINF:0,TVCINE 3
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/131
+#EXTINF:0,TVCINE 4
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/132
+#EXTINF:0,TV Cine 1 HD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/691
+#EXTINF:0,TVCINE 2 HD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/879
+#EXTINF:0,TVCINE 3 HD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/880
+#EXTINF:0,TVCINE 4 HD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/881
+#EXTINF:0,TVCINE 1 FHD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4136
+#EXTINF:0,TVCINE 2 FHD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4113
+#EXTINF:0,TVCINE 3 FHD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4114
+#EXTINF:0,TVCINE 4 FHD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4172
+#EXTINF:0,TVCINE 1 HD LOW
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4187
+#EXTINF:0,TVCINE 2 HD LOW
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4188
+#EXTINF:0,TVCINE 4 HD LOW
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4190
+#EXTINF:0,TVCINE3 HD LOW
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4189
+#EXTINF:0,HOLLYWOOD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/963
+#EXTINF:0,HOLLYWOOD FHD.
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4206
+#EXTINF:0,HOLLYWOOD FHD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4179
+#EXTINF:0,HOLLYWOOD*
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/54
+#EXTINF:0,CINEMUNDO
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/78
+#EXTINF:0,CINEMUNDO HD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/2909
+#EXTINF:0,FOX MOVIES
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/167
+#EXTINF:0,Fox Movies HD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/967
+#EXTINF:0,AMC
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/158
+#EXTINF:0,AMC FHD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4142
+#EXTINF:0,----- CULTURA -----
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/2464
+#EXTINF:0,24 KITCHEN
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/175
+#EXTINF:0,24 KITCHEN FHD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4221
+#EXTINF:0,24 KITCHEN FHD*
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/3228
+#EXTINF:0,MY CUISINE
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4205
+#EXTINF:0,A&E
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/159
+#EXTINF:0,CBS REALITY
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/177
+#EXTINF:0,DISCOVERY CHANNEL
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/151
+#EXTINF:0,DISCOVERY SHOWCASE
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/165
+#EXTINF:0,DISCOVERY SHOWCASE FHD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/3229
+#EXTINF:0,DISCOVERY SHOWCASE FHD*
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4137
+#EXTINF:0,DOG TV FHD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/2911
+#EXTINF:0,FOOD NETWORK
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/174
+#EXTINF:0,FUEL TV HD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/1583
+#EXTINF:0,HIST”RIA
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/99
+#EXTINF:0,LUXE TV FHD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/1351
+#EXTINF:0,NATIONAL GEOGRAPHIC
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/152
+#EXTINF:0,NATIONAL GEOGRAPHIC LOW
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/1201
+#EXTINF:0,NATIONAL GEOGRAPHIC HD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4173
+#EXTINF:0,NAT GEO WILD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/1
+#EXTINF:0,ODISSEIA
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/164
+#EXTINF:0,TLC
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/915
+#EXTINF:0,TRACE URBAN
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/884
+#EXTINF:0,TRAVEL CHANNEL
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/2912
+#EXTINF:0,TRAVEL CHANNEL FHD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4141
+#EXTINF:0,-----SERIES -----
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/2462
+#EXTINF:0,AXN
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/92
+#EXTINF:0,AXN FHD.
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4210
+#EXTINF:0,AXN FHD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4126
+#EXTINF:0,AXN LOW
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4181
+#EXTINF:0,AXN HD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/965
+#EXTINF:0,PT:_AXN_WHITE_HD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/966
+#EXTINF:0,AXN WHITE FHD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4128
+#EXTINF:0,AXN WHITE HD LOW
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4182
+#EXTINF:0,AXN BLACK FHD*
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/3232
+#EXTINF:0,AXN Black HD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/94
+#EXTINF:0,AXN BLACK FHD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4127
+#EXTINF:0,AXN BLACK LOW
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4200
+#EXTINF:0,FOX COMEDY
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/156
+#EXTINF:0,FOX COMEDY FHD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4129
+#EXTINF:0,FOX COMEDY HD LOW
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4201
+#EXTINF:0,FOX MOVIES HD LOW
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4195
+#EXTINF:0,Fox Crime
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/157
+#EXTINF:0,FOX CRIME HD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/968
+#EXTINF:0,FOX CRIME FHD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4130
+#EXTINF:0,Fox HD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/95
+#EXTINF:0,FOX HD (Alt.)
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/2824
+#EXTINF:0,FOX FHD.
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4211
+#EXTINF:0,FOX FHD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4194
+#EXTINF:0, FOX LIFE HD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/96
+#EXTINF:0,FOX LIFE HD*
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/969
+#EXTINF:0,FOX LIFE FHD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4131
+#EXTINF:0,Syfy
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/162
+#EXTINF:0,Syfy HD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/2910
+#EXTINF:0,SYFY FHD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4138
+#EXTINF:0,TV SERIES
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/133
+#EXTINF:0,TV SERIES HD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/882
+#EXTINF:0,TV SERIES FHD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4135
+#EXTINF:0,TV SERIES LOW
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4315
+#EXTINF:0,----- INFANTIL -----
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/2466
+#EXTINF:0,BABY TV
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/172
+#EXTINF:0,Baby First
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/1466
+#EXTINF:0,CARTOON NETWORK
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/2494
+#EXTINF:0,Canal Panda
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/49
+#EXTINF:0,DISNEY CHANNEL
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/155
+#EXTINF:0,DISNEY CHANNEL LOW
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4326
+#EXTINF:0,DISNEY JUNIOR
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/64
+#EXTINF:0,Jim Jam
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/154
+#EXTINF:0,NICKELODEON FHD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4124
+#EXTINF:0,NICKELODEON HD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4123
+#EXTINF:0,NICKELODEON LOW
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4328
+#EXTINF:0,Nickelodeon
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/153
+#EXTINF:0,----- INTERNACIONAIS -----
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/2469
+#EXTINF:0,GLOBO
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/90
+#EXTINF:0,GLOBO PREMIUM
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/173
+#EXTINF:0,GLOBO PREMIUM FHD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4122
+#EXTINF:0,TV RECORD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/56
+#EXTINF:0,TV RECORD HD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/1328
+#EXTINF:0,----- INFORMA«√O INTERNACIONAL -----
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/2468
+#EXTINF:0,CNN
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/2906
+#EXTINF:0,EURONEWS
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/245
+#EXTINF:0,Record News
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/2915
+#EXTINF:0,SKY NEWS
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/2907
+#EXTINF:0,CAN«√O NOVA
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/2913
+#EXTINF:0,CAN«√O NOVA HD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4154
+#EXTINF:0,Kuriakos TV FHD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/2914
+#EXTINF:0,AMC LOW
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4198
+#EXTINF:0,FUEL TV FHD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4192
+#EXTINF:0,LEIRIA
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4202
+#EXTINF:0,QURAN HIDAYAH
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4301
+#EXTINF:0,DISCOVERY CHANNEL LOW
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4327
+#EXTINF:0,FASHION TV
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4316
+#EXTINF:0,FINE LIVING NETWORK FHD
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4317
+#EXTINF:0,SYFY LOW
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4314

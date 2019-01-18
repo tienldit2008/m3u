@@ -1,51 +1,232 @@
-#EXTM3U
-#EXTINF:-1,RTL 2
-http://51.15.191.232:8000/katka/katka/20825
-#EXTINF:-1,RTL Crime
-http://51.15.191.232:8000/katka/katka/20824
-#EXTINF:-1,VOX
-http://51.15.191.232:8000/katka/katka/20783
-#EXTINF:-1,ZDF
-http://51.15.191.232:8000/katka/katka/20782
-#EXTINF:-1,13TH_Street_HD
-http://51.15.191.232:8000/katka/katka/23457
-#EXTINF:-1,ARD das Erste 1 HD
-http://51.15.191.232:8000/katka/katka/23458
-#EXTINF:-1,ARTE_HD
-http://51.15.191.232:8000/katka/katka/23459
-#EXTINF:-1,DISCOVERY_HD
-http://51.15.191.232:8000/katka/katka/23460
-#EXTINF:-1,DISNEY_JUNIOR_HD
-http://51.15.191.232:8000/katka/katka/23496
-#EXTINF:-1,Dmax_HD
-http://51.15.191.232:8000/katka/katka/23463
-#EXTINF:-1,Fox HD
-http://51.15.191.232:8000/katka/katka/23465
-#EXTINF:-1,KABEL_1
-http://51.15.191.232:8000/katka/katka/23466
-#EXTINF:-1,Kika_HD
-http://51.15.191.232:8000/katka/katka/23467
-#EXTINF:-1,NATIONAL_GEOGRAPHIC_HD
-http://51.15.191.232:8000/katka/katka/23468
-#EXTINF:-1,ORF_2_HD
-http://51.15.191.232:8000/katka/katka/23469
-#EXTINF:-1,RTL_CRIME
-http://51.15.191.232:8000/katka/katka/23471
-#EXTINF:-1,RTL HD
-http://51.15.191.232:8000/katka/katka/23472
-#EXTINF:-1,RTL_LIVING
-http://51.15.191.232:8000/katka/katka/23473
-#EXTINF:-1,RTL_PASSION_HD
-http://51.15.191.232:8000/katka/katka/23474
-#EXTINF:-1,SAT_1
-http://51.15.191.232:8000/katka/katka/23475
-#EXTINF:-1,Sixx_HD
-http://51.15.191.232:8000/katka/katka/23476
-#EXTINF:-1,SRF_2HD
-http://51.15.191.232:8000/katka/katka/23492
-#EXTINF:-1,Syfy HD
-http://51.15.191.232:8000/katka/katka/23493
-#EXTINF:-1,ZDF_info_HD
-http://51.15.191.232:8000/katka/katka/23461
-#EXTINF:-1,ZDF_NEO_HD
-http://51.15.191.232:8000/katka/katka/23470
+#EXTINF:-1, ARD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23778
+#EXTINF:-1, ZDF
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23777
+#EXTINF:-1, PROSIEBEN
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23776
+#EXTINF:-1, SAT 1 HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23775
+#EXTINF:-1, RTL HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23774
+#EXTINF:-1, RTL 2
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23773
+#EXTINF:-1, RTL Nitro
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23772
+#EXTINF:-1, RTL PLUS
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23771
+#EXTINF:-1, RTL2 HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23770
+#EXTINF:-1, SIXX HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23769
+#EXTINF:-1, ARTE TV
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23768
+#EXTINF:-1, KABEL EINS
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23767
+#EXTINF:-1, VOX
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23766
+#EXTINF:-1, SUPER RTL
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23765
+#EXTINF:-1, DAS ERSTE HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23764
+#EXTINF:-1, PRO 7 MAXX
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23763
+#EXTINF:-1, MUNCHEN TV
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23761
+#EXTINF:-1, AXN HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23760
+#EXTINF:-1, FOX-HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23759
+#EXTINF:-1, KINOWELT
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23758
+#EXTINF:-1, ANIXE
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23757
+#EXTINF:-1, N-TV
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23756
+#EXTINF:-1, ZDF INFO
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23755
+#EXTINF:-1,*****KINO*****
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23754
+#EXTINF:-1, CINEMA HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23753
+#EXTINF:-1, CINEMA
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23752
+#EXTINF:-1, CINEMA 24 HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23751
+#EXTINF:-1, CINEMA 1 HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23750
+#EXTINF:-1, ACTION HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23749
+#EXTINF:-1, COMEDY HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23746
+#EXTINF:-1, CINEMA FAMILY
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23745
+#EXTINF:-1, MGM
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23744
+#EXTINF:-1, EMOTION HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23743
+#EXTINF:-1, HITS
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23742
+#EXTINF:-1, HITS HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23741
+#EXTINF:-1, UNIVERSAL HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23740
+#EXTINF:-1, TNT FILM
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23739
+#EXTINF:-1, TNT COMEDY HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23738
+#EXTINF:-1, HEIMATKANAL
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23737
+#EXTINF:-1,*****PPV*****
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23736
+#EXTINF:-1, SELECT HD1
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23735
+#EXTINF:-1, SELECT HD2
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23734
+#EXTINF:-1, SELECT HD3
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23733
+#EXTINF:-1, SELECT HD4
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23732
+#EXTINF:-1, SELECT HD5
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23731
+#EXTINF:-1, SELECT HD6
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23730
+#EXTINF:-1, SELECT HD7
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23729
+#EXTINF:-1, SELECT HD8
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23728
+#EXTINF:-1, SELECT 9HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23727
+#EXTINF:-1, SELECT 10HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23726
+#EXTINF:-1,*****UNTERHALTUNG*****
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23725
+#EXTINF:-1, 1HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23724
+#EXTINF:-1, SYFY HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23723
+#EXTINF:-1, SYFY
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23722
+#EXTINF:-1, E!
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23721
+#EXTINF:-1, TLC
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23720
+#EXTINF:-1, ATLANTIC HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23719
+#EXTINF:-1, AXN
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23717
+#EXTINF:-1, KRIMI
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23716
+#EXTINF:-1, 13TH STREET
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23715
+#EXTINF:-1, 13TH STREET HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23714
+#EXTINF:-1, TNT SERIES
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23713
+#EXTINF:-1, SAT1 GOLD HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23712
+#EXTINF:-1, RTL PASSION
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23711
+#EXTINF:-1, RTL LIVING
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23710
+#EXTINF:-1, RTL CRIME HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23709
+#EXTINF:-1, ROMANCE TV
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23708
+#EXTINF:-1,|FR| MTV HITS FHD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/13845
+#EXTINF:-1,*****SPORT*****
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23707
+#EXTINF:-1, SPORT NEWS HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23706
+#EXTINF:-1, SPORT 1HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23705
+#EXTINF:-1, SPORT 2
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23702
+#EXTINF:-1, SPORT 3HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23701
+#EXTINF:-1, SPORT 4HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23700
+#EXTINF:-1, SPORT 5HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23699
+#EXTINF:-1, SPORT 6HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23698
+#EXTINF:-1, SPORT 7HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23697
+#EXTINF:-1, BUNDESLIGA 1HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23696
+#EXTINF:-1, BUNDESLIGA 2HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23695
+#EXTINF:-1, BUNDESLIGA 3HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23694
+#EXTINF:-1, BUNDESLIGA 4HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23693
+#EXTINF:-1, BUNDESLIGA 5HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23692
+#EXTINF:-1, BUNDESLIGA 6HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23691
+#EXTINF:-1, BUNDESLIGA 7HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23690
+#EXTINF:-1, EUROSPORT 1 HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23689
+#EXTINF:-1, EUROSPORT 2 HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23688
+#EXTINF:-1, SPORT 1
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23687
+#EXTINF:-1, SPORT 1 HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23686
+#EXTINF:-1, AUTO MOTOR SPORT
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23685
+#EXTINF:-1,*****KULTUR*****
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23684
+#EXTINF:-1, DISCOVERY HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23683
+#EXTINF:-1, NATIONAL GEOGRAPHIC HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23682
+#EXTINF:-1, ANIMAL PLANET HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23681
+#EXTINF:-1, NAT GEO WILD HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23680
+#EXTINF:-1, ARTS HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23679
+#EXTINF:-1,_Discovery
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23678
+#EXTINF:-1, DMAX HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23677
+#EXTINF:-1, HISTORY HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23676
+#EXTINF:-1, SPIEGEL GESCHICHTE
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23675
+#EXTINF:-1, SPIEGEL TV WISSEN
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23674
+#EXTINF:-1, A&E
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23673
+#EXTINF:-1,*****NIEUWS*****
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23672
+#EXTINF:-1,HSE24
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23671
+#EXTINF:-1, DW
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23670
+#EXTINF:-1, N24
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23669
+#EXTINF:-1,AUSTRIA 24 TV
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23668
+#EXTINF:-1,*****KINDER*****
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23667
+#EXTINF:-1, DISNEY CINEMAGIC
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23666
+#EXTINF:-1, DISNEY XD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23665
+#EXTINF:-1, JUNIOR
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23664
+#EXTINF:-1, Nickelodeon
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23663
+#EXTINF:-1, BOOMERANG
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23662
+#EXTINF:-1,Cartoon-Network
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23661
+#EXTINF:-1, DISNEY CHANNEL
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23660
+#EXTINF:-1, DISNEY JUNIOR
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23659
+#EXTINF:-1, KIKA HD
+http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23658
