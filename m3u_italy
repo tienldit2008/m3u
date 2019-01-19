@@ -151,55 +151,435 @@ http://178.33.229.111:1935/live/Videolina/livestream.m3u8
 http://wms.shared.streamshow.it:1935/videobrescia/videobrescia/live.m3u8
 #EXTINF:-1,Video Calabria
 http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8
-#EXTINF:-1,IT:NATGEO WILD HD
-http://5.254.66.128:8000/can/29082018/16243
-#EXTINF:-1,IT:Discovery Channel HD
-http://5.254.66.128:8000/can/29082018/16211
-#EXTINF:-1,IT:DISCOVERY SCIENCE HD
-http://5.254.66.128:8000/can/29082018/16244
-#EXTINF:-1,IT:Sky Axn HD
-http://5.254.66.128:8000/can/29082018/16228
-#EXTINF:-1,IT:Sky Atlantic HD
-http://5.254.66.128:8000/can/29082018/16210
-#EXTINF:-1,IT:Canale 5
-http://5.254.66.128:8000/can/29082018/16226
-#EXTINF:-1,IT:Italia 1
-http://5.254.66.128:8000/can/29082018/16225
-#EXTINF:-1,IT:Italia 2
-http://5.254.66.128:8000/can/29082018/16224
-#EXTINF:-1,IT:Rai 1
-http://5.254.66.128:8000/can/29082018/16235
-#EXTINF:-1,IT:Rai 2
-http://5.254.66.128:8000/can/29082018/16234
-#EXTINF:-1,IT:Rai 3
-http://5.254.66.128:8000/can/29082018/16233
-#EXTINF:-1,IT:Rai 4
-http://5.254.66.128:8000/can/29082018/16232
-#EXTINF:-1,IT:Rai 5 HD
-http://5.254.66.128:8000/can/29082018/16231
-#EXTINF:-1,IT:Rete 4
-http://5.254.66.128:8000/can/29082018/16227
-#EXTINF:-1,IT:Rai Premium
-http://5.254.66.128:8000/can/29082018/16229
-#EXTINF:-1,IT:RAI_SPORT+
-http://5.254.66.128:8000/can/29082018/16249
-#EXTINF:-1,IT:RSI La 2 HD
-http://5.254.66.128:8000/can/29082018/16208
-#EXTINF:-1,IT:BOING
-http://5.254.66.128:8000/can/29082018/16248
-#EXTINF:-1,IT:DISNEY XD
-http://5.254.66.128:8000/can/29082018/16246
-#EXTINF:-1,IT:CARTOONITO
-http://5.254.66.128:8000/can/29082018/16247
-#EXTINF:-1,IT:CARTOON NETWORK HD
-http://5.254.66.128:8000/can/29082018/16245
-#EXTINF:-1,IT:CIELO
-http://5.254.66.128:8000/can/29082018/16253
-#EXTINF:-1,IT:GAMBERO ROSSO
-http://5.254.66.128:8000/can/29082018/16254
-#EXTINF:-1,IT:FOX
-http://5.254.66.128:8000/can/29082018/16241
-#EXTINF:-1,IT:FOX COMEDY
-http://5.254.66.128:8000/can/29082018/16242
-#EXTINF:-1,IT:FOX_SPORTS
-http://5.254.66.128:8000/can/29082018/16250
+#EXTINF:-1,Animal Planet
+http://viphdpro.eu:8080/hakanbaba/babahakan/40167
+#EXTINF:-1,Boing
+http://viphdpro.eu:8080/hakanbaba/babahakan/40112
+#EXTINF:-1,Canal 5 HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40168
+#EXTINF:-1,Canale5 HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40114
+#EXTINF:-1,Cartoonito
+http://viphdpro.eu:8080/hakanbaba/babahakan/40169
+#EXTINF:-1,Cielo
+http://viphdpro.eu:8080/hakanbaba/babahakan/40170
+#EXTINF:-1,Discovery HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40171
+#EXTINF:-1,Discovery Science HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40172
+#EXTINF:-1,Discovery Travel&Living HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40173
+#EXTINF:-1,Dmax HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40115
+#EXTINF:-1,Eurosport 1 HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40116
+#EXTINF:-1,Eurosport 2 HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40117
+#EXTINF:-1,FISHING TV
+http://viphdpro.eu:8080/hakanbaba/babahakan/40111
+#EXTINF:-1,Fox Comedy HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40118
+#EXTINF:-1,Fox Crime HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40174
+#EXTINF:-1,Fox Crime HD(1)
+http://viphdpro.eu:8080/hakanbaba/babahakan/40119
+#EXTINF:-1,FOX HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40175
+#EXTINF:-1,Fox Life HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40176
+#EXTINF:-1,FOX Sport HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40177
+#EXTINF:-1,History
+http://viphdpro.eu:8080/hakanbaba/babahakan/40110
+#EXTINF:-1,Inter Channel
+http://viphdpro.eu:8080/hakanbaba/babahakan/40178
+#EXTINF:-1,Italia 2
+http://viphdpro.eu:8080/hakanbaba/babahakan/40120
+#EXTINF:-1,italia1 HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40121
+#EXTINF:-1,Juventus TV
+http://viphdpro.eu:8080/hakanbaba/babahakan/40166
+#EXTINF:-1,La7
+http://viphdpro.eu:8080/hakanbaba/babahakan/40122
+#EXTINF:-1,MarcoPolo
+http://viphdpro.eu:8080/hakanbaba/babahakan/40109
+#EXTINF:-1,Mediaset Extra
+http://viphdpro.eu:8080/hakanbaba/babahakan/40179
+#EXTINF:-1,Mediaset Extra(1)
+http://viphdpro.eu:8080/hakanbaba/babahakan/40123
+#EXTINF:-1,Mediaset Iris
+http://viphdpro.eu:8080/hakanbaba/babahakan/40207
+#EXTINF:-1,Milan Channel
+http://viphdpro.eu:8080/hakanbaba/babahakan/40208
+#EXTINF:-1,Nat Geo Wild HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40180
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40181
+#EXTINF:-1,Pesca e Caccia
+http://viphdpro.eu:8080/hakanbaba/babahakan/40182
+#EXTINF:-1,Premium Action
+http://viphdpro.eu:8080/hakanbaba/babahakan/40183
+#EXTINF:-1,Premium Calcio
+http://viphdpro.eu:8080/hakanbaba/babahakan/40184
+#EXTINF:-1,Premium Calcio 1*
+http://viphdpro.eu:8080/hakanbaba/babahakan/40124
+#EXTINF:-1,Premium Calcio 2*
+http://viphdpro.eu:8080/hakanbaba/babahakan/40125
+#EXTINF:-1,Premium Calcio 3*
+http://viphdpro.eu:8080/hakanbaba/babahakan/40126
+#EXTINF:-1,Premium Calcio 4
+http://viphdpro.eu:8080/hakanbaba/babahakan/40127
+#EXTINF:-1,Premium Calcio 5*
+http://viphdpro.eu:8080/hakanbaba/babahakan/40128
+#EXTINF:-1,Premium Cinema 2
+http://viphdpro.eu:8080/hakanbaba/babahakan/40131
+#EXTINF:-1,Premium Cinema Energy
+http://viphdpro.eu:8080/hakanbaba/babahakan/40130
+#EXTINF:-1,Premium Comedy
+http://viphdpro.eu:8080/hakanbaba/babahakan/40185
+#EXTINF:-1,Premium Crime
+http://viphdpro.eu:8080/hakanbaba/babahakan/40132
+#EXTINF:-1,Premium Disney Junior
+http://viphdpro.eu:8080/hakanbaba/babahakan/40186
+#EXTINF:-1,Premium Disney Junior(1)
+http://viphdpro.eu:8080/hakanbaba/babahakan/40209
+#EXTINF:-1,Premium Emotion
+http://viphdpro.eu:8080/hakanbaba/babahakan/40133
+#EXTINF:-1,Premium Joy
+http://viphdpro.eu:8080/hakanbaba/babahakan/40134
+#EXTINF:-1,Premium Sport 2
+http://viphdpro.eu:8080/hakanbaba/babahakan/40187
+#EXTINF:-1,Premium Sport HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40164
+#EXTINF:-1,Premium Stories
+http://viphdpro.eu:8080/hakanbaba/babahakan/40135
+#EXTINF:-1,Premium Studio Universal
+http://viphdpro.eu:8080/hakanbaba/babahakan/40188
+#EXTINF:-1,Rai Gulp
+http://viphdpro.eu:8080/hakanbaba/babahakan/40210
+#EXTINF:-1,Rai Premium
+http://viphdpro.eu:8080/hakanbaba/babahakan/40137
+#EXTINF:-1,Rai Sport1
+http://viphdpro.eu:8080/hakanbaba/babahakan/40138
+#EXTINF:-1,Rai Sport2
+http://viphdpro.eu:8080/hakanbaba/babahakan/40139
+#EXTINF:-1,Rai Yoyo
+http://viphdpro.eu:8080/hakanbaba/babahakan/40189
+#EXTINF:-1,Rai1 HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40140
+#EXTINF:-1,Rai2 HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40141
+#EXTINF:-1,Rai3 HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40142
+#EXTINF:-1,Rai4 HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40143
+#EXTINF:-1,Rai5
+http://viphdpro.eu:8080/hakanbaba/babahakan/40144
+#EXTINF:-1,Real Time
+http://viphdpro.eu:8080/hakanbaba/babahakan/40211
+#EXTINF:-1,Rete4 HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40145
+#EXTINF:-1,RSI La1 HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40146
+#EXTINF:-1,RSI La2 HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40147
+#EXTINF:-1,Sky Calcio 1
+http://viphdpro.eu:8080/hakanbaba/babahakan/40190
+#EXTINF:-1,Sky Calcio 2
+http://viphdpro.eu:8080/hakanbaba/babahakan/40191
+#EXTINF:-1,Sky Calcio 3
+http://viphdpro.eu:8080/hakanbaba/babahakan/40192
+#EXTINF:-1,Sky Calcio 4
+http://viphdpro.eu:8080/hakanbaba/babahakan/40193
+#EXTINF:-1,Sky Calcio 5
+http://viphdpro.eu:8080/hakanbaba/babahakan/40194
+#EXTINF:-1,Sky Calcio 6
+http://viphdpro.eu:8080/hakanbaba/babahakan/40195
+#EXTINF:-1,Sky Calcio 7
+http://viphdpro.eu:8080/hakanbaba/babahakan/40196
+#EXTINF:-1,Sky Cinema  1 HD(1)
+http://viphdpro.eu:8080/hakanbaba/babahakan/40148
+#EXTINF:-1,Sky Cinema Classic HD(1)
+http://viphdpro.eu:8080/hakanbaba/babahakan/40149
+#EXTINF:-1,Sky Cinema Comedy HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40150
+#EXTINF:-1,Sky Cinema Family HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40151
+#EXTINF:-1,Sky Cinema Max HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40152
+#EXTINF:-1,Sky Cinema Passion HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40153
+#EXTINF:-1,Sky Cinema1 HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40154
+#EXTINF:-1,SKY CINEMA24 HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40155
+#EXTINF:-1,SKY F1 HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40156
+#EXTINF:-1,Sky Fox Comedy HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40197
+#EXTINF:-1,Sky Foxcrime HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40157
+#EXTINF:-1,Sky Moto GP HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40158
+#EXTINF:-1,SKY Primafila 3
+http://viphdpro.eu:8080/hakanbaba/babahakan/40198
+#EXTINF:-1,Sky Primafila 6
+http://viphdpro.eu:8080/hakanbaba/babahakan/40199
+#EXTINF:-1,Sky Primafila 7
+http://viphdpro.eu:8080/hakanbaba/babahakan/40200
+#EXTINF:-1,Sky Primafila 8
+http://viphdpro.eu:8080/hakanbaba/babahakan/40201
+#EXTINF:-1,Sky Sport 24 HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40159
+#EXTINF:-1,Sky Sport F1 HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40160
+#EXTINF:-1,Sky Sport1 HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40161
+#EXTINF:-1,Sky Sport2 HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40162
+#EXTINF:-1,Sky Sport3 HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40163
+#EXTINF:-1,SKY TG 24
+http://viphdpro.eu:8080/hakanbaba/babahakan/40202
+#EXTINF:-1,Sky Uno HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40165
+#EXTINF:-1,SPORT ITALIA
+http://viphdpro.eu:8080/hakanbaba/babahakan/40203
+#EXTINF:-1,Supercalcio HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40204
+#EXTINF:-1,Teleticino
+http://viphdpro.eu:8080/hakanbaba/babahakan/40223
+#EXTINF:-1,TOP CRIME
+http://viphdpro.eu:8080/hakanbaba/babahakan/40224
+#EXTINF:-1,IT:CARTOON  NETWORK
+http://viphdpro.eu:8080/hakanbaba/babahakan/40205
+#EXTINF:-1,IT:Discovery Focus
+http://viphdpro.eu:8080/hakanbaba/babahakan/40206
+#EXTINF:-1,IT:SKY Cinema 3D
+http://viphdpro.eu:8080/hakanbaba/babahakan/40212
+#EXTINF:-1,IT:SKY Primafila 1
+http://viphdpro.eu:8080/hakanbaba/babahakan/40213
+#EXTINF:-1,IT:Sky Primafila 10
+http://viphdpro.eu:8080/hakanbaba/babahakan/40214
+#EXTINF:-1,IT:Sky Primafila 12
+http://viphdpro.eu:8080/hakanbaba/babahakan/40215
+#EXTINF:-1,IT:Sky Primafila 13
+http://viphdpro.eu:8080/hakanbaba/babahakan/40216
+#EXTINF:-1,IT:Sky Primafila 14
+http://viphdpro.eu:8080/hakanbaba/babahakan/40217
+#EXTINF:-1,IT:SKY Primafila 2
+http://viphdpro.eu:8080/hakanbaba/babahakan/40218
+#EXTINF:-1,IT:Sky Primafila 4
+http://viphdpro.eu:8080/hakanbaba/babahakan/40219
+#EXTINF:-1,IT:Sky Primafila 5
+http://viphdpro.eu:8080/hakanbaba/babahakan/40220
+#EXTINF:-1,IT:Sky Primafila 9
+http://viphdpro.eu:8080/hakanbaba/babahakan/40221
+#EXTINF:-1,IT:Super Tennis
+http://viphdpro.eu:8080/hakanbaba/babahakan/40222
+#EXTINF:-1,Animal Planet HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40328
+#EXTINF:-1,Baby TV
+http://viphdpro.eu:8080/hakanbaba/babahakan/40327
+#EXTINF:-1,Blaze HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40326
+#EXTINF:-1,Canale 5 HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40325
+#EXTINF:-1,Ci crime investigation
+http://viphdpro.eu:8080/hakanbaba/babahakan/40323
+#EXTINF:-1,DAZN Sport  3 HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40319
+#EXTINF:-1,DAZN Sport 1 HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40322
+#EXTINF:-1,DAZN Sport 10 HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40321
+#EXTINF:-1,DAZN Sport 2 HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40320
+#EXTINF:-1,DAZN Sport 4 HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40318
+#EXTINF:-1,DAZN Sport 5 HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40317
+#EXTINF:-1,DAZN Sport 6 HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40316
+#EXTINF:-1,DAZN Sport 7 HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40315
+#EXTINF:-1,DAZN Sport 8 HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40314
+#EXTINF:-1,DAZN Sport 9 HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40313
+#EXTINF:-1,Dea Junior
+http://viphdpro.eu:8080/hakanbaba/babahakan/40312
+#EXTINF:-1,Dea Kids
+http://viphdpro.eu:8080/hakanbaba/babahakan/40311
+#EXTINF:-1,DeeJay TV
+http://viphdpro.eu:8080/hakanbaba/babahakan/40310
+#EXTINF:-1,Discovery Channel HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40309
+#EXTINF:-1,Discovery Sci HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40308
+#EXTINF:-1,Discovery Travel & Living HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40307
+#EXTINF:-1,Disney Channel HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40306
+#EXTINF:-1,Disney Junior I
+http://viphdpro.eu:8080/hakanbaba/babahakan/40305
+#EXTINF:-1,Disney XD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40304
+#EXTINF:-1,Dove
+http://viphdpro.eu:8080/hakanbaba/babahakan/40303
+#EXTINF:-1,Eurosport 1
+http://viphdpro.eu:8080/hakanbaba/babahakan/40302
+#EXTINF:-1,Eurosport 2
+http://viphdpro.eu:8080/hakanbaba/babahakan/40301
+#EXTINF:-1,Fox  1 HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40300
+#EXTINF:-1,Fox Animation HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40299
+#EXTINF:-1,Frisbie
+http://viphdpro.eu:8080/hakanbaba/babahakan/40298
+#EXTINF:-1,Gambero Rosso HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40296
+#EXTINF:-1,GIALLO
+http://viphdpro.eu:8080/hakanbaba/babahakan/40297
+#EXTINF:-1,History HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40295
+#EXTINF:-1,Inter Tv HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40294
+#EXTINF:-1,Iris
+http://viphdpro.eu:8080/hakanbaba/babahakan/40293
+#EXTINF:-1,Italia 1 HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40292
+#EXTINF:-1,K2
+http://viphdpro.eu:8080/hakanbaba/babahakan/40291
+#EXTINF:-1,La 5
+http://viphdpro.eu:8080/hakanbaba/babahakan/40290
+#EXTINF:-1,La7 d HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40288
+#EXTINF:-1,La7 HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40289
+#EXTINF:-1,Lazio Style Channel
+http://viphdpro.eu:8080/hakanbaba/babahakan/40287
+#EXTINF:-1,Mediaset 20
+http://viphdpro.eu:8080/hakanbaba/babahakan/40286
+#EXTINF:-1,Mediaset Italia 2 HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40285
+#EXTINF:-1,Milan Tv
+http://viphdpro.eu:8080/hakanbaba/babahakan/40284
+#EXTINF:-1,Natgeo People HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40281
+#EXTINF:-1,NatGeo Wild HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40282
+#EXTINF:-1,Nick Junior
+http://viphdpro.eu:8080/hakanbaba/babahakan/40280
+#EXTINF:-1,Nickelodeon
+http://viphdpro.eu:8080/hakanbaba/babahakan/40279
+#EXTINF:-1,NOVE
+http://viphdpro.eu:8080/hakanbaba/babahakan/40283
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://viphdpro.eu:8080/hakanbaba/babahakan/40278
+#EXTINF:-1,Premium Action  24
+http://viphdpro.eu:8080/hakanbaba/babahakan/40277
+#EXTINF:-1,Premium Action HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40276
+#EXTINF:-1,Premium Cinema Comedy
+http://viphdpro.eu:8080/hakanbaba/babahakan/40275
+#EXTINF:-1,Premium Cinema Emotion
+http://viphdpro.eu:8080/hakanbaba/babahakan/40274
+#EXTINF:-1,Premium Cinema HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40273
+#EXTINF:-1,Premium Cinema. Energy
+http://viphdpro.eu:8080/hakanbaba/babahakan/40272
+#EXTINF:-1,Premium Crime HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40271
+#EXTINF:-1,Premium Discovery Investigation
+http://viphdpro.eu:8080/hakanbaba/babahakan/40270
+#EXTINF:-1,Premium Joi  24
+http://viphdpro.eu:8080/hakanbaba/babahakan/40269
+#EXTINF:-1,Rai 1 HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40266
+#EXTINF:-1,Rai 2 HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40265
+#EXTINF:-1,Rai 3 HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40264
+#EXTINF:-1,Rai 4 HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40263
+#EXTINF:-1,Rai 5 HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40262
+#EXTINF:-1,Rai Gulp HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40261
+#EXTINF:-1,Rai Movie HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40260
+#EXTINF:-1,Rai News 24
+http://viphdpro.eu:8080/hakanbaba/babahakan/40259
+#EXTINF:-1,Rete 4 HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40258
+#EXTINF:-1,Roma Tv
+http://viphdpro.eu:8080/hakanbaba/babahakan/40257
+#EXTINF:-1,RSI LA 1 HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40268
+#EXTINF:-1,RSI LA 2 HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40267
+#EXTINF:-1,Sky Arte Full HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40256
+#EXTINF:-1,Sky Atlantic  1 HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40255
+#EXTINF:-1,Sky Atlantic HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40254
+#EXTINF:-1,Sky Cinema  24 HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40253
+#EXTINF:-1,Sky Cinema Classic HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40252
+#EXTINF:-1,Sky Cinema Cult HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40251
+#EXTINF:-1,Sky Cinema Family  1 HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40250
+#EXTINF:-1,Sky Cinema Hits HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40249
+#EXTINF:-1,Sky Cinema Max  1 HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40248
+#EXTINF:-1,Sky Cinema Uno 1 HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40247
+#EXTINF:-1,Sky Cinema Uno HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40246
+#EXTINF:-1,Sky Sport Arena HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40245
+#EXTINF:-1,Sky Sport Diretta 1
+http://viphdpro.eu:8080/hakanbaba/babahakan/40244
+#EXTINF:-1,Sky Sport Diretta 2
+http://viphdpro.eu:8080/hakanbaba/babahakan/40243
+#EXTINF:-1,Sky Sport Diretta 3
+http://viphdpro.eu:8080/hakanbaba/babahakan/40242
+#EXTINF:-1,Sky Sport Diretta 4
+http://viphdpro.eu:8080/hakanbaba/babahakan/40241
+#EXTINF:-1,Sky Sport Diretta 5
+http://viphdpro.eu:8080/hakanbaba/babahakan/40240
+#EXTINF:-1,Sky Sport Diretta 6
+http://viphdpro.eu:8080/hakanbaba/babahakan/40239
+#EXTINF:-1,Sky Sport Diretta 7
+http://viphdpro.eu:8080/hakanbaba/babahakan/40238
+#EXTINF:-1,Sky Sport Diretta 8
+http://viphdpro.eu:8080/hakanbaba/babahakan/40237
+#EXTINF:-1,Sky Sport Football HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40236
+#EXTINF:-1,Sky Sport Golf HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40235
+#EXTINF:-1,Sky Sport Moto GP HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40234
+#EXTINF:-1,Sky Sport NBA HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40233
+#EXTINF:-1,Sky Sport Serie A HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40232
+#EXTINF:-1,Sky Sport Uno HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40231
+#EXTINF:-1,Sky Uno  1 HD
+http://viphdpro.eu:8080/hakanbaba/babahakan/40230
+#EXTINF:-1,Super
+http://viphdpro.eu:8080/hakanbaba/babahakan/40229
+#EXTINF:-1,TG Com 24
+http://viphdpro.eu:8080/hakanbaba/babahakan/40228
+#EXTINF:-1,Tg Norba 24
+http://viphdpro.eu:8080/hakanbaba/babahakan/40226
+#EXTINF:-1,Torino Channel
+http://viphdpro.eu:8080/hakanbaba/babahakan/40225
+#EXTINF:-1,TV8
+http://viphdpro.eu:8080/hakanbaba/babahakan/40227
