@@ -1,129 +1,317 @@
 #EXTM3U
-#EXTINF:-1,#0
-http://smart-hdip.com:6204/soran/soran/10021
-#EXTINF:-1,24 HORAS
-http://smart-hdip.com:6204/soran/soran/10020
-#EXTINF:-1,A&E
-http://smart-hdip.com:6204/soran/soran/10019
-#EXTINF:-1,AMC
-http://smart-hdip.com:6204/soran/soran/10018
-#EXTINF:-1,ANTENA 3
-http://smart-hdip.com:6204/soran/soran/10017
-#EXTINF:-1,AXN
-http://smart-hdip.com:6204/soran/soran/10016
-#EXTINF:-1,AXN WHITE
-http://smart-hdip.com:6204/soran/soran/10015
-#EXTINF:-1,BARCA TV
-http://smart-hdip.com:6204/soran/soran/10014
-#EXTINF:-1,BEIN LALIGA
-http://smart-hdip.com:6204/soran/soran/10013
-#EXTINF:-1,BEIN SPORTS
-http://smart-hdip.com:6204/soran/soran/10012
-#EXTINF:-1,BOING
-http://smart-hdip.com:6204/soran/soran/10011
-#EXTINF:-1,CALLE 13
-http://smart-hdip.com:6204/soran/soran/10010
-#EXTINF:-1,CANAL COCINA
-http://smart-hdip.com:6204/soran/soran/10009
-#EXTINF:-1,CANAL DECASA
-http://smart-hdip.com:6204/soran/soran/10008
-#EXTINF:-1,CANAL ODISEA
-http://smart-hdip.com:6204/soran/soran/10007
-#EXTINF:-1,CAZA Y PESCA
-http://smart-hdip.com:6204/soran/soran/10006
-#EXTINF:-1,CLAN TVE
-http://smart-hdip.com:6204/soran/soran/10005
-#EXTINF:-1,COMEDY CENTRAL
-http://smart-hdip.com:6204/soran/soran/10004
-#EXTINF:-1,COSMO
-http://smart-hdip.com:6204/soran/soran/10003
-#EXTINF:-1,CUATRO
-http://smart-hdip.com:6204/soran/soran/10001
-#EXTINF:-1,DISCOVERY
-http://smart-hdip.com:6204/soran/soran/10000
-#EXTINF:-1,DISNEY CHANNEL HD
-http://smart-hdip.com:6204/soran/soran/9999
-#EXTINF:-1,DISNEY JR
-http://smart-hdip.com:6204/soran/soran/9998
-#EXTINF:-1,DISNEY XD
-http://smart-hdip.com:6204/soran/soran/9997
-#EXTINF:-1,DIVINITY
-http://smart-hdip.com:6204/soran/soran/9996
-#EXTINF:-1,ENERGY
-http://smart-hdip.com:6204/soran/soran/9995
-#EXTINF:-1,EUROSPORT 1
-http://smart-hdip.com:6204/soran/soran/9994
-#EXTINF:-1,EUROSPORT 2
-http://smart-hdip.com:6204/soran/soran/9993
-#EXTINF:-1,FOX
-http://smart-hdip.com:6204/soran/soran/9992
-#EXTINF:-1,FOX LIFE
-http://smart-hdip.com:6204/soran/soran/9991
-#EXTINF:-1,GOL TV
-http://smart-hdip.com:6204/soran/soran/9990
-#EXTINF:-1,HISTORIA
-http://smart-hdip.com:6204/soran/soran/9989
-#EXTINF:-1,HOLLYWOOD
-http://smart-hdip.com:6204/soran/soran/9988
-#EXTINF:-1,LA 1
-http://smart-hdip.com:6204/soran/soran/9986
-#EXTINF:-1,LA 2
-http://smart-hdip.com:6204/soran/soran/9985
-#EXTINF:-1,LALIGA TV BAR
-http://smart-hdip.com:6204/soran/soran/9983
-#EXTINF:-1,M.ACCION
-http://smart-hdip.com:6204/soran/soran/9982
-#EXTINF:-1,M.CINE ESPANOL
-http://smart-hdip.com:6204/soran/soran/9981
-#EXTINF:-1,M.COMEDIA
-http://smart-hdip.com:6204/soran/soran/9980
-#EXTINF:-1,M.DCINE
-http://smart-hdip.com:6204/soran/soran/9979
-#EXTINF:-1,M.DEP 1
-http://smart-hdip.com:6204/soran/soran/9978
-#EXTINF:-1,M.DEP 2
-http://smart-hdip.com:6204/soran/soran/9977
-#EXTINF:-1,M.ESTRENOS
-http://smart-hdip.com:6204/soran/soran/9976
-#EXTINF:-1,M.FORMULA 1
-http://smart-hdip.com:6204/soran/soran/9975
-#EXTINF:-1,M.FUTBOL
-http://smart-hdip.com:6204/soran/soran/9974
-#EXTINF:-1,M.GOLF
-http://smart-hdip.com:6204/soran/soran/9973
-#EXTINF:-1,M.MOTOGP
-http://smart-hdip.com:6204/soran/soran/9972
-#EXTINF:-1,M.SERIES
-http://smart-hdip.com:6204/soran/soran/9971
-#EXTINF:-1,M.SERIESXTRA
-http://smart-hdip.com:6204/soran/soran/9970
-#EXTINF:-1,M.XTRA
-http://smart-hdip.com:6204/soran/soran/9969
-#EXTINF:-1,NAT GEO WILD
-http://smart-hdip.com:6204/soran/soran/9967
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://smart-hdip.com:6204/soran/soran/9966
-#EXTINF:-1,NEOX
-http://smart-hdip.com:6204/soran/soran/9965
-#EXTINF:-1,NICKELODEON
-http://smart-hdip.com:6204/soran/soran/9964
-#EXTINF:-1,NOVA
-http://smart-hdip.com:6204/soran/soran/9962
-#EXTINF:-1,PARAMOUNT
-http://smart-hdip.com:6204/soran/soran/9961
-#EXTINF:-1,Real Madrid TV
-http://smart-hdip.com:6204/soran/soran/9960
-#EXTINF:-1,SUNDANCE
-http://smart-hdip.com:6204/soran/soran/9959
-#EXTINF:-1,SYFY
-http://smart-hdip.com:6204/soran/soran/9958
-#EXTINF:-1,TCM
-http://smart-hdip.com:6204/soran/soran/9957
-#EXTINF:-1,TELECINCO
-http://smart-hdip.com:6204/soran/soran/9956
-#EXTINF:-1,TELEDEPORTE
-http://smart-hdip.com:6204/soran/soran/9955
-#EXTINF:-1,TNT
-http://smart-hdip.com:6204/soran/soran/9954
-#EXTINF:-1,TOROS TV
-http://smart-hdip.com:6204/soran/soran/9953
+#EXTINF:0,#0 FHD
+http://marveliptv.ddns.net:25461/debra/debra/196810
+#EXTINF:0,#VAMOS
+http://marveliptv.ddns.net:25461/debra/debra/196809
+#EXTINF:0,#VAMOS FHD
+http://marveliptv.ddns.net:25461/debra/debra/196808
+#EXTINF:0,#VAMOS HD
+http://marveliptv.ddns.net:25461/debra/debra/196807
+#EXTINF:0,13 TV
+http://marveliptv.ddns.net:25461/debra/debra/196806
+#EXTINF:0,8TV MADRID
+http://marveliptv.ddns.net:25461/debra/debra/196805
+#EXTINF:0,A&E
+http://marveliptv.ddns.net:25461/debra/debra/196804
+#EXTINF:0,A3SERIES HD
+http://marveliptv.ddns.net:25461/debra/debra/196803
+#EXTINF:0,AMC FHD
+http://marveliptv.ddns.net:25461/debra/debra/196802
+#EXTINF:0,AMC HD
+http://marveliptv.ddns.net:25461/debra/debra/196801
+#EXTINF:0,ANDALUCIA TV
+http://marveliptv.ddns.net:25461/debra/debra/196800
+#EXTINF:0,ANTENA 3 FHD
+http://marveliptv.ddns.net:25461/debra/debra/196799
+#EXTINF:0,ANTENA 3 HD
+http://marveliptv.ddns.net:25461/debra/debra/196798
+#EXTINF:0,ARAGON TV
+http://marveliptv.ddns.net:25461/debra/debra/196797
+#EXTINF:0,AXN FHD
+http://marveliptv.ddns.net:25461/debra/debra/196796
+#EXTINF:0,AXN HD
+http://marveliptv.ddns.net:25461/debra/debra/196795
+#EXTINF:0,AXN WHITE
+http://marveliptv.ddns.net:25461/debra/debra/196794
+#EXTINF:0,AXN WHITE FHD
+http://marveliptv.ddns.net:25461/debra/debra/196793
+#EXTINF:0,BABY TV
+http://marveliptv.ddns.net:25461/debra/debra/196792
+#EXTINF:0,BARCA TV
+http://marveliptv.ddns.net:25461/debra/debra/196791
+#EXTINF:0,BEIN LA LIGA FHD
+http://marveliptv.ddns.net:25461/debra/debra/196790
+#EXTINF:0,BEIN SPORT FHD
+http://marveliptv.ddns.net:25461/debra/debra/196789
+#EXTINF:0,BEIN SPORTS LALIGA
+http://marveliptv.ddns.net:25461/debra/debra/196788
+#EXTINF:0,BEINSPORT HD
+http://marveliptv.ddns.net:25461/debra/debra/196787
+#EXTINF:0,BEINSPORT LALIGA HD
+http://marveliptv.ddns.net:25461/debra/debra/196786
+#EXTINF:0,BOING
+http://marveliptv.ddns.net:25461/debra/debra/196785
+#EXTINF:0,C  ESTRELLAS
+http://marveliptv.ddns.net:25461/debra/debra/196784
+#EXTINF:0,C  XTRA FHD
+http://marveliptv.ddns.net:25461/debra/debra/196783
+#EXTINF:0,CALLE 13 FHD
+http://marveliptv.ddns.net:25461/debra/debra/196782
+#EXTINF:0,CALLE 13 HD
+http://marveliptv.ddns.net:25461/debra/debra/196781
+#EXTINF:0,CANAL COCINA
+http://marveliptv.ddns.net:25461/debra/debra/196780
+#EXTINF:0,CANAL DECASA
+http://marveliptv.ddns.net:25461/debra/debra/196779
+#EXTINF:0,CANAL ORBE 21
+http://marveliptv.ddns.net:25461/debra/debra/196778
+#EXTINF:0,CANAL PANDA
+http://marveliptv.ddns.net:25461/debra/debra/196777
+#EXTINF:0,CANAL SUR
+http://marveliptv.ddns.net:25461/debra/debra/196776
+#EXTINF:0,CAZA Y PESCA
+http://marveliptv.ddns.net:25461/debra/debra/196775
+#EXTINF:0,CAZA Y PESCA FHD
+http://marveliptv.ddns.net:25461/debra/debra/196774
+#EXTINF:0,CLAN TVE
+http://marveliptv.ddns.net:25461/debra/debra/196773
+#EXTINF:0,CLASSICA
+http://marveliptv.ddns.net:25461/debra/debra/196772
+#EXTINF:0,COMEDY CENTRAL FHD
+http://marveliptv.ddns.net:25461/debra/debra/196771
+#EXTINF:0,COMEDY CENTRAL HD
+http://marveliptv.ddns.net:25461/debra/debra/196770
+#EXTINF:0,COSMO FHD
+http://marveliptv.ddns.net:25461/debra/debra/196769
+#EXTINF:0,COSMO HD
+http://marveliptv.ddns.net:25461/debra/debra/196768
+#EXTINF:0,CRIMEN E INVESTIGACION
+http://marveliptv.ddns.net:25461/debra/debra/196767
+#EXTINF:0,CUATRO
+http://marveliptv.ddns.net:25461/debra/debra/196766
+#EXTINF:0,CUATRO FHD
+http://marveliptv.ddns.net:25461/debra/debra/196765
+#EXTINF:0,DARK CHANNEL HD
+http://marveliptv.ddns.net:25461/debra/debra/196764
+#EXTINF:0,DISCOVERY CHANNEL FHD
+http://marveliptv.ddns.net:25461/debra/debra/196763
+#EXTINF:0,DISCOVERY HD
+http://marveliptv.ddns.net:25461/debra/debra/196762
+#EXTINF:0,DISNEY CHANNEL FHD
+http://marveliptv.ddns.net:25461/debra/debra/196761
+#EXTINF:0,DISNEY CHANNEL HD
+http://marveliptv.ddns.net:25461/debra/debra/196760
+#EXTINF:0,DISNEY JUNIOR
+http://marveliptv.ddns.net:25461/debra/debra/196759
+#EXTINF:0,DISNEY XD
+http://marveliptv.ddns.net:25461/debra/debra/196758
+#EXTINF:0,DKISS TV
+http://marveliptv.ddns.net:25461/debra/debra/196757
+#EXTINF:0,ENERGY
+http://marveliptv.ddns.net:25461/debra/debra/196756
+#EXTINF:0,ESPERANZA TV
+http://marveliptv.ddns.net:25461/debra/debra/196755
+#EXTINF:0,EURONEWS
+http://marveliptv.ddns.net:25461/debra/debra/196754
+#EXTINF:0,EUROSPORT 1 FHD
+http://marveliptv.ddns.net:25461/debra/debra/196753
+#EXTINF:0,EUROSPORT 1 HD
+http://marveliptv.ddns.net:25461/debra/debra/196752
+#EXTINF:0,EUROSPORT 2 HD
+http://marveliptv.ddns.net:25461/debra/debra/196751
+#EXTINF:0,EXTREMADURA TV
+http://marveliptv.ddns.net:25461/debra/debra/196750
+#EXTINF:0,FDF
+http://marveliptv.ddns.net:25461/debra/debra/196749
+#EXTINF:0,FOX FHD
+http://marveliptv.ddns.net:25461/debra/debra/196748
+#EXTINF:0,FOX HD
+http://marveliptv.ddns.net:25461/debra/debra/196747
+#EXTINF:0,FOX LIFE FHD
+http://marveliptv.ddns.net:25461/debra/debra/196746
+#EXTINF:0,FOX LIFE HD
+http://marveliptv.ddns.net:25461/debra/debra/196745
+#EXTINF:0,FOX NEWS
+http://marveliptv.ddns.net:25461/debra/debra/196744
+#EXTINF:0,GALICIA TV
+http://marveliptv.ddns.net:25461/debra/debra/196743
+#EXTINF:0,GOL TV
+http://marveliptv.ddns.net:25461/debra/debra/196742
+#EXTINF:0,GOL TV HD
+http://marveliptv.ddns.net:25461/debra/debra/196741
+#EXTINF:0,GRACIA TV
+http://marveliptv.ddns.net:25461/debra/debra/196740
+#EXTINF:0,HISTORIA
+http://marveliptv.ddns.net:25461/debra/debra/196739
+#EXTINF:0,HISTORIA FHD
+http://marveliptv.ddns.net:25461/debra/debra/196738
+#EXTINF:0,HOLLYWOOD
+http://marveliptv.ddns.net:25461/debra/debra/196737
+#EXTINF:0,HOLLYWOOD HD
+http://marveliptv.ddns.net:25461/debra/debra/196736
+#EXTINF:0,IBERALIA TV
+http://marveliptv.ddns.net:25461/debra/debra/196735
+#EXTINF:0,LA 1
+http://marveliptv.ddns.net:25461/debra/debra/196734
+#EXTINF:0,LA 1 FHD
+http://marveliptv.ddns.net:25461/debra/debra/196733
+#EXTINF:0,LA SEXTA
+http://marveliptv.ddns.net:25461/debra/debra/196732
+#EXTINF:0,LA SEXTA FHD
+http://marveliptv.ddns.net:25461/debra/debra/196731
+#EXTINF:0,LA SEXTA HD
+http://marveliptv.ddns.net:25461/debra/debra/196730
+#EXTINF:0,LALIGA 123 FHD
+http://marveliptv.ddns.net:25461/debra/debra/196729
+#EXTINF:0,LALIGA TV BAR
+http://marveliptv.ddns.net:25461/debra/debra/196728
+#EXTINF:0,LALIGATV FHD
+http://marveliptv.ddns.net:25461/debra/debra/196727
+#EXTINF:0,LEVANTE TV
+http://marveliptv.ddns.net:25461/debra/debra/196726
+#EXTINF:0,LTC
+http://marveliptv.ddns.net:25461/debra/debra/196725
+#EXTINF:0,MEGA HD
+http://marveliptv.ddns.net:25461/debra/debra/196724
+#EXTINF:0,MOVISTAR  DEPORTES 1 FHD
+http://marveliptv.ddns.net:25461/debra/debra/196722
+#EXTINF:0,MOVISTAR ACCIÛN
+http://marveliptv.ddns.net:25461/debra/debra/196721
+#EXTINF:0,MOVISTAR ACCIÛN FHD
+http://marveliptv.ddns.net:25461/debra/debra/196720
+#EXTINF:0,MOVISTAR COMEDIA
+http://marveliptv.ddns.net:25461/debra/debra/196718
+#EXTINF:0,MOVISTAR COMEDIA FHD
+http://marveliptv.ddns.net:25461/debra/debra/196717
+#EXTINF:0,MOVISTAR DCINE
+http://marveliptv.ddns.net:25461/debra/debra/196716
+#EXTINF:0,MOVISTAR DCINE FHD
+http://marveliptv.ddns.net:25461/debra/debra/196715
+#EXTINF:0,MOVISTAR DEPORTES 1
+http://marveliptv.ddns.net:25461/debra/debra/196714
+#EXTINF:0,MOVISTAR DRAMA
+http://marveliptv.ddns.net:25461/debra/debra/196713
+#EXTINF:0,MOVISTAR DRAMA FHD
+http://marveliptv.ddns.net:25461/debra/debra/196712
+#EXTINF:0,MOVISTAR ESTRENOS
+http://marveliptv.ddns.net:25461/debra/debra/196711
+#EXTINF:0,MOVISTAR ESTRENOS FHD
+http://marveliptv.ddns.net:25461/debra/debra/196710
+#EXTINF:0,MOVISTAR F1 FHD VIP
+http://marveliptv.ddns.net:25461/debra/debra/196709
+#EXTINF:0,MOVISTAR F˙TBOL
+http://marveliptv.ddns.net:25461/debra/debra/196708
+#EXTINF:0,MOVISTAR F˙TBOL FHD
+http://marveliptv.ddns.net:25461/debra/debra/196707
+#EXTINF:0,MOVISTAR FORMULA 1
+http://marveliptv.ddns.net:25461/debra/debra/196706
+#EXTINF:0,MOVISTAR FORMULA 1 FHD
+http://marveliptv.ddns.net:25461/debra/debra/196705
+#EXTINF:0,MOVISTAR GOLF
+http://marveliptv.ddns.net:25461/debra/debra/196704
+#EXTINF:0,MOVISTAR GOLF FHD
+http://marveliptv.ddns.net:25461/debra/debra/196703
+#EXTINF:0,MOVISTAR MOTO GP FHD
+http://marveliptv.ddns.net:25461/debra/debra/196702
+#EXTINF:0,MOVISTAR MOTO GP HD
+http://marveliptv.ddns.net:25461/debra/debra/196701
+#EXTINF:0,MOVISTAR PARTIDAZO
+http://marveliptv.ddns.net:25461/debra/debra/196700
+#EXTINF:0,MOVISTAR PARTIDAZO FHD
+http://marveliptv.ddns.net:25461/debra/debra/196699
+#EXTINF:0,MOVISTAR PARTIDAZO HD
+http://marveliptv.ddns.net:25461/debra/debra/196698
+#EXTINF:0,MOVISTAR SERIES FHD
+http://marveliptv.ddns.net:25461/debra/debra/196697
+#EXTINF:0,MOVISTAR SERIES HD
+http://marveliptv.ddns.net:25461/debra/debra/196696
+#EXTINF:0,MOVISTAR SERIES XTRA
+http://marveliptv.ddns.net:25461/debra/debra/196695
+#EXTINF:0,MOVISTAR SERIES XTRA FHD
+http://marveliptv.ddns.net:25461/debra/debra/196694
+#EXTINF:0,MOVISTAR XTRA
+http://marveliptv.ddns.net:25461/debra/debra/196693
+#EXTINF:0,NAT GEO
+http://marveliptv.ddns.net:25461/debra/debra/196690
+#EXTINF:0,NAT GEO FHD
+http://marveliptv.ddns.net:25461/debra/debra/196689
+#EXTINF:0,NAT GEO WILD FHD
+http://marveliptv.ddns.net:25461/debra/debra/196688
+#EXTINF:0,NAT GEO WILD HD
+http://marveliptv.ddns.net:25461/debra/debra/196687
+#EXTINF:0,NEOX
+http://marveliptv.ddns.net:25461/debra/debra/196686
+#EXTINF:0,NICK JUNIOR
+http://marveliptv.ddns.net:25461/debra/debra/196685
+#EXTINF:0,NICKELODEON FHD
+http://marveliptv.ddns.net:25461/debra/debra/196684
+#EXTINF:0,NICKELODEON HD
+http://marveliptv.ddns.net:25461/debra/debra/196683
+#EXTINF:0,NON STOP PEOPLE
+http://marveliptv.ddns.net:25461/debra/debra/196682
+#EXTINF:0,NOVA
+http://marveliptv.ddns.net:25461/debra/debra/196681
+#EXTINF:0,ODISEA HD
+http://marveliptv.ddns.net:25461/debra/debra/196680
+#EXTINF:0,OLYMPIC CHANNEL HD
+http://marveliptv.ddns.net:25461/debra/debra/196679
+#EXTINF:0,REAL MADRID TV
+http://marveliptv.ddns.net:25461/debra/debra/196678
+#EXTINF:0,SUNDANCE TV
+http://marveliptv.ddns.net:25461/debra/debra/196677
+#EXTINF:0,SYFY FHD
+http://marveliptv.ddns.net:25461/debra/debra/196676
+#EXTINF:0,SYFY HD
+http://marveliptv.ddns.net:25461/debra/debra/196675
+#EXTINF:0,TAQUILLA 1 HD
+http://marveliptv.ddns.net:25461/debra/debra/196674
+#EXTINF:0,TAQUILLA 10 HD
+http://marveliptv.ddns.net:25461/debra/debra/196673
+#EXTINF:0,TAQUILLA 11 HD
+http://marveliptv.ddns.net:25461/debra/debra/196672
+#EXTINF:0,TAQUILLA 12 HD
+http://marveliptv.ddns.net:25461/debra/debra/196671
+#EXTINF:0,TAQUILLA 13 HD
+http://marveliptv.ddns.net:25461/debra/debra/196670
+#EXTINF:0,TAQUILLA 2 HD
+http://marveliptv.ddns.net:25461/debra/debra/196669
+#EXTINF:0,TAQUILLA 3 HD
+http://marveliptv.ddns.net:25461/debra/debra/196668
+#EXTINF:0,TAQUILLA 4 HD
+http://marveliptv.ddns.net:25461/debra/debra/196667
+#EXTINF:0,TAQUILLA 5 HD
+http://marveliptv.ddns.net:25461/debra/debra/196666
+#EXTINF:0,TAQUILLA 6 HD
+http://marveliptv.ddns.net:25461/debra/debra/196665
+#EXTINF:0,TAQUILLA 7 HD
+http://marveliptv.ddns.net:25461/debra/debra/196664
+#EXTINF:0,TAQUILLA 8 HD
+http://marveliptv.ddns.net:25461/debra/debra/196663
+#EXTINF:0,TAQUILLA 9 HD
+http://marveliptv.ddns.net:25461/debra/debra/196662
+#EXTINF:0,TCM
+http://marveliptv.ddns.net:25461/debra/debra/196661
+#EXTINF:0,TCM FHD
+http://marveliptv.ddns.net:25461/debra/debra/196660
+#EXTINF:0,TELECINCO
+http://marveliptv.ddns.net:25461/debra/debra/196659
+#EXTINF:0,TELECINCO FHD
+http://marveliptv.ddns.net:25461/debra/debra/196658
+#EXTINF:0,TELECINCO HD
+http://marveliptv.ddns.net:25461/debra/debra/196657
+#EXTINF:0,TNT
+http://marveliptv.ddns.net:25461/debra/debra/196656
+#EXTINF:0,TNT FHD
+http://marveliptv.ddns.net:25461/debra/debra/196655
+#EXTINF:0,TOROS TV FHD
+http://marveliptv.ddns.net:25461/debra/debra/196654
+#EXTINF:0,TOROS TV HD
+http://marveliptv.ddns.net:25461/debra/debra/196653
+#EXTINF:0,TV3 24H
+http://marveliptv.ddns.net:25461/debra/debra/196652
+#EXTINF:0,TV3 CAT
+http://marveliptv.ddns.net:25461/debra/debra/196651
+#EXTINF:0,TVE INTERNACIONAL
+http://marveliptv.ddns.net:25461/debra/debra/196650
+#EXTINF:0,TVE LA 2
+http://marveliptv.ddns.net:25461/debra/debra/196649
