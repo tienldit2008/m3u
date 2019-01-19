@@ -1,67 +1,337 @@
 #EXTM3U
-#EXTINF:-1,3EME RUE
-http://195.154.220.71:3333/Metege2/Skype15082018/2513
-#EXTINF:-1,D17
-http://195.154.220.71:3333/Metege2/Skype15082018/886
-#EXTINF:-1,D8 HD #
-http://195.154.220.71:3333/Metege2/Skype15082018/1020
-#EXTINF:-1,Disney Channel
-http://195.154.220.71:3333/Metege2/Skype15082018/921
-#EXTINF:-1,Disney Junior
-http://195.154.220.71:3333/Metege2/Skype15082018/920
-#EXTINF:-1,FRANCE Ô  FHD
-http://195.154.220.71:3333/Metege2/Skype15082018/235
-#EXTINF:-1,France 24
-http://195.154.220.71:3333/Metege2/Skype15082018/1023
-#EXTINF:-1,France 4
-http://195.154.220.71:3333/Metege2/Skype15082018/1019
-#EXTINF:-1,France O #
-http://195.154.220.71:3333/Metege2/Skype15082018/1021
-#EXTINF:-1,GOLF FHD
-http://195.154.220.71:3333/Metege2/Skype15082018/972
-#EXTINF:-1,GULLI HD
-http://195.154.220.71:3333/Metege2/Skype15082018/977
-#EXTINF:-1,Luxe Tv
-http://195.154.220.71:3333/Metege2/Skype15082018/2486
-#EXTINF:-1,Mangas HD
-http://195.154.220.71:3333/Metege2/Skype15082018/1206
-#EXTINF:-1,RMC DECOVERTE HD
-http://195.154.220.71:3333/Metege2/Skype15082018/888
-#EXTINF:-1,RTS 1 HD
-http://195.154.220.71:3333/Metege2/Skype15082018/979
-#EXTINF:-1,RTS 2 HD
-http://195.154.220.71:3333/Metege2/Skype15082018/980
-#EXTINF:-1,SFR 1
-http://195.154.220.71:3333/Metege2/Skype15082018/807
-#EXTINF:-1,SFR SPORT 4 HD
-http://195.154.220.71:3333/Metege2/Skype15082018/809
-#EXTINF:-1,SFR SPORT LIVE
-http://195.154.220.71:3333/Metege2/Skype15082018/808
-#EXTINF:-1,Science et Vie
-http://195.154.220.71:3333/Metege2/Skype15082018/891
-#EXTINF:-1,Syfy HD
-http://195.154.220.71:3333/Metege2/Skype15082018/1022
-#EXTINF:-1,TCM-FRANCE
-http://195.154.220.71:3333/Metege2/Skype15082018/887
-#EXTINF:-1,TV 5 MONDE
-http://195.154.220.71:3333/Metege2/Skype15082018/846
-#EXTINF:-1,Toute l'Histoire
-http://195.154.220.71:3333/Metege2/Skype15082018/698
-#EXTINF:-1,Ushuaia HD
-http://195.154.220.71:3333/Metege2/Skype15082018/890
-#EXTINF:-1,Voyage
-http://195.154.220.71:3333/Metege2/Skype15082018/961
-#EXTINF:-1,ANIMAUX_HD
-http://195.154.220.71:3333/Metege2/Skype15082018/671
-#EXTINF:-1,BFM
-http://195.154.220.71:3333/Metege2/Skype15082018/670
-#EXTINF:-1,CHASSE_ET_PECHE
-http://195.154.220.71:3333/Metege2/Skype15082018/668
-#EXTINF:-1,CHERIE_25
-http://195.154.220.71:3333/Metege2/Skype15082018/669
-#EXTINF:-1,D8
-http://195.154.220.71:3333/Metege2/Skype15082018/673
-#EXTINF:-1,DISCOVERY_SCIENCE_HD
-http://195.154.220.71:3333/Metege2/Skype15082018/672
-#EXTINF:-1,SFR SPORT 1 hd
-http://195.154.220.71:3333/Metege2/Skype15082018/217
+#EXTINF:0,France 2
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/8478
+#EXTINF:0,France 2 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6051
+#EXTINF:0,France 3
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/8479
+#EXTINF:0,France 3 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6049
+#EXTINF:0,France 4
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/8480
+#EXTINF:0,France 4 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6048
+#EXTINF:0,France 5
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/8481
+#EXTINF:0,France 5 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6047
+#EXTINF:0,France O
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6046
+#EXTINF:0,France O HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/8482
+#EXTINF:0,France 24
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6050
+#EXTINF:0,TV5 Monde
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/5993
+#EXTINF:0,C8 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6083
+#EXTINF:0,13 Eme Rue HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6104
+#EXTINF:0,AB1 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6101
+#EXTINF:0,AB3
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6100
+#EXTINF:0,RMC DÈcouverte HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6012
+#EXTINF:0,ChÈrie 25 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6073
+#EXTINF:0,RTL9 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6011
+#EXTINF:0,TF1
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/8494
+#EXTINF:0,TF1 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6000
+#EXTINF:0,HD1 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6043
+#EXTINF:0,W9 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/5989
+#EXTINF:0,Chasse & Peche
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6074
+#EXTINF:0,Numero 23 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6023
+#EXTINF:0,M6
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/8484
+#EXTINF:0,M6 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6038
+#EXTINF:0,6TER
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/8462
+#EXTINF:0,6ter HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6103
+#EXTINF:0,Cstar HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6064
+#EXTINF:0,Boomerang HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6084
+#EXTINF:0,BET
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6085
+#EXTINF:0,Equidia Live HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6055
+#EXTINF:0,Teva HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6001
+#EXTINF:0,L'Equipe 21 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6039
+#EXTINF:0,NT1
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6024
+#EXTINF:0,NT1 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/8485
+#EXTINF:0,Rts Deux HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/8486
+#EXTINF:0,Rts Un HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/8487
+#EXTINF:0,Trek HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/5995
+#EXTINF:0,Ushuaia HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/5992
+#EXTINF:0,Voyage HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/5990
+#EXTINF:0,TV Breizh HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/5994
+#EXTINF:0,WEO HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/5988
+#EXTINF:0,Euronews
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/8477
+#EXTINF:0,Bfm
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/8466
+#EXTINF:0,Teletoon
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/8493
+#EXTINF:0,ARTE HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6097
+#EXTINF:0,Toute Histoire
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/5997
+#EXTINF:0,Paramount Channel HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6018
+#EXTINF:0,Histoire HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6042
+#EXTINF:0,Syfy HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6004
+#EXTINF:0,Nat Geo HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6032
+#EXTINF:0,Nat Geo Wild HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6031
+#EXTINF:0,Planet HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6015
+#EXTINF:0,Discovery HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6063
+#EXTINF:0,Discovery Science HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6062
+#EXTINF:0,E! Entertainment
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6056
+#EXTINF:0,PlanËte  Action & Experience HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6014
+#EXTINF:0,PlanËte  Crime Investigation HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6013
+#EXTINF:0,Science & Vie HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6010
+#EXTINF:0,Disney CH HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6061
+#EXTINF:0,Disney Cinema HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6060
+#EXTINF:0,Disney Cinemagic
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6059
+#EXTINF:0,Disney Junior HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6058
+#EXTINF:0,Disney XD HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6057
+#EXTINF:0,Nickelodeon 4Teen HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6029
+#EXTINF:0,Nickelodeon HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6028
+#EXTINF:0,Nikolodeon 4 Teens
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6027
+#EXTINF:0,Cartoon Network HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6075
+#EXTINF:0,Gulli HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6044
+#EXTINF:0,Manga
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6036
+#EXTINF:0,Nick Jr
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6030
+#EXTINF:0,Piwi  HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6016
+#EXTINF:0,Tiji HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/5999
+#EXTINF:0,Animaux HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6098
+#EXTINF:0,Baby Tv
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6096
+#EXTINF:0,CANAL J HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6076
+#EXTINF:0,Canal
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/8467
+#EXTINF:0,Comedie
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/8476
+#EXTINF:0,Comedie  HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6065
+#EXTINF:0,Tcm France
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/8492
+#EXTINF:0,TMC HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/5998
+#EXTINF:0,ACTION HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6099
+#EXTINF:0,CANAL  HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6079
+#EXTINF:0,CINE FX
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6067
+#EXTINF:0,TCM CinÈma HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6003
+#EXTINF:0,Canal  Sport HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6077
+#EXTINF:0,Canal  Family FHD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6080
+#EXTINF:0,Canal  SÈries HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6078
+#EXTINF:0,Canal  CinÈma HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6082
+#EXTINF:0,Canal  Decale HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6081
+#EXTINF:0,Canal Play 1
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/8468
+#EXTINF:0,Canal Play 2
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/8469
+#EXTINF:0,Canal Play 3
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/8470
+#EXTINF:0,Canal Play 4
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/8471
+#EXTINF:0,Canal Play 5
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/8472
+#EXTINF:0,Cine Classic
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/8473
+#EXTINF:0,Cine Polar HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/8474
+#EXTINF:0,Cine Premier
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/8475
+#EXTINF:0,Paris Premiere HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6017
+#EXTINF:0,Serie Club HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6009
+#EXTINF:0,Cine Polar
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6066
+#EXTINF:0,CINE  Classic HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6072
+#EXTINF:0,CINE  Emotion HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6071
+#EXTINF:0,CINE  Famiz HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6070
+#EXTINF:0,CINE  Premier HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6068
+#EXTINF:0,Cine  Frisson HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6069
+#EXTINF:0,OCS CHOC HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6022
+#EXTINF:0,OCS City HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6021
+#EXTINF:0,OCS GEANTS HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6020
+#EXTINF:0,OCS MAX HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6019
+#EXTINF:0,A LA CARTE 1
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6792
+#EXTINF:0,A LA CARTE 2
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6791
+#EXTINF:0,A LA CARTE 3
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6790
+#EXTINF:0,A LA CARTE 4
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6789
+#EXTINF:0,A LA CARTE 5
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6788
+#EXTINF:0,A LA CARTE 6
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6787
+#EXTINF:0,A LA CARTE 7
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6786
+#EXTINF:0,A LA CARTE 8
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6785
+#EXTINF:0,A LA CARTE 9
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6784
+#EXTINF:0,A LA CARTE 10
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6783
+#EXTINF:0,A LA CARTE 11
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6782
+#EXTINF:0,BOX OFFICE 1 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6781
+#EXTINF:0,BOX OFFICE 2 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6780
+#EXTINF:0,BOX OFFICE 3 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6779
+#EXTINF:0,BOX OFFICE 4 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6778
+#EXTINF:0,BOX OFFICE 5 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6777
+#EXTINF:0,BOX OFFICE 6 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6776
+#EXTINF:0,Golf  HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6045
+#EXTINF:0,AB Moteurs HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6102
+#EXTINF:0,Game One
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/8483
+#EXTINF:0,Tele Club Sport Flash HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6002
+#EXTINF:0,Foot  24 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6052
+#EXTINF:0,InfoSport  HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6041
+#EXTINF:0,Kombat sport
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6040
+#EXTINF:0,Motors TV HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6034
+#EXTINF:0,Eurosport 1 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6054
+#EXTINF:0,Eurosport 2 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6053
+#EXTINF:0,BeIN Sports 1
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/8463
+#EXTINF:0,BEINSPORT 1 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6088
+#EXTINF:0,BeIN Sports 2
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/8464
+#EXTINF:0,BEINSPORT 2 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6087
+#EXTINF:0,BeIN Sports 3
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/8465
+#EXTINF:0,BEINSPORT 3 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6086
+#EXTINF:0,SFR Sports 1
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/8489
+#EXTINF:0,SFR Sport 1 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6008
+#EXTINF:0,SFR Sports 2
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/8490
+#EXTINF:0,SFR Sport 2 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6007
+#EXTINF:0,SFR Sports 3
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/8491
+#EXTINF:0,SFR Sport 3 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6006
+#EXTINF:0,SFR Sport 5 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6005
+#EXTINF:0,BEIN Sports MAX 4
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6094
+#EXTINF:0,BEIN Sports MAX 5
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6093
+#EXTINF:0,BEIN Sports MAX 6
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6092
+#EXTINF:0,BEIN Sports MAX 7
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6091
+#EXTINF:0,BEIN Sports MAX 8
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6090
+#EXTINF:0,BEIN Sports MAX 9
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6089
+#EXTINF:0,BEIN Sports MAX 10
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6095
+#EXTINF:0,RMC DECOUVERTE FHD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12543
+#EXTINF:0,RMC SPORT 1
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12547
+#EXTINF:0,RMC SPORT 1 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12542
+#EXTINF:0,RMC SPORT 2
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12546
+#EXTINF:0,RMC SPORT 2 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12541
+#EXTINF:0,RMC SPORT 3
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12545
+#EXTINF:0,RMC SPORT 3 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12540
+#EXTINF:0,RMC SPORT 4
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12544
+#EXTINF:0,RMC SPORT 4 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12539
