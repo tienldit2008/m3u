@@ -1,179 +1,285 @@
 #EXTM3U
-#EXTINF:0,Sky News HD
-http://smart-hdip.com:6204/soran/soran/8533
-#EXTINF:0,Sky Sports Main Event HD
-http://smart-hdip.com:6204/soran/soran/8517
-#EXTINF:0,Sky Sports Cricket HD
-http://smart-hdip.com:6204/soran/soran/8516
-#EXTINF:0,Sky Sports Action HD
-http://smart-hdip.com:6204/soran/soran/8515
-#EXTINF:0,Sky Sports Golf HD
-http://smart-hdip.com:6204/soran/soran/8514
-#EXTINF:0,Sky Sports Premier League HD
-http://smart-hdip.com:6204/soran/soran/8513
-#EXTINF:0,Sky Sports Arena HD
-http://smart-hdip.com:6204/soran/soran/9059
-#EXTINF:0,Sky Sport Football
-http://smart-hdip.com:6204/soran/soran/8523
-#EXTINF:0,Sky Sports MixHD
-http://smart-hdip.com:6204/soran/soran/8511
-#EXTINF:0,Sky BoxNation
-http://smart-hdip.com:6204/soran/soran/8583
-#EXTINF:0,Sky Sports F1 HD
-http://smart-hdip.com:6204/soran/soran/8512
-#EXTINF:0,Sky Sports F1 HD Backup S
-http://smart-hdip.com:6204/soran/soran/11099
-#EXTINF:0,Sky BT Sport 1 HD
-http://smart-hdip.com:6204/soran/soran/8582
-#EXTINF:0,Sky BT Sport 2 HD
-http://smart-hdip.com:6204/soran/soran/8580
-#EXTINF:0,Sky BT Sport 3 HD
-http://smart-hdip.com:6204/soran/soran/10166
-#EXTINF:0,Sky BT Sports Extra 1
-http://smart-hdip.com:6204/soran/soran/8581
-#EXTINF:0,Sky BT Sports Extra 2
-http://smart-hdip.com:6204/soran/soran/8579
-#EXTINF:0,Sky BT Sports Extra 3
-http://smart-hdip.com:6204/soran/soran/8578
-#EXTINF:0,Sky BT Sport ESPN HD
-http://smart-hdip.com:6204/soran/soran/8577
-#EXTINF:0,Sky Eurosport 1 HD
-http://smart-hdip.com:6204/soran/soran/8560
-#EXTINF:0,Sky Eurosport 2 HD
-http://smart-hdip.com:6204/soran/soran/8559
-#EXTINF:0,Sky Eir Sport 1
-http://smart-hdip.com:6204/soran/soran/11118
-#EXTINF:0,Sky Eir Sport 2
-http://smart-hdip.com:6204/soran/soran/11117
-#EXTINF:0,Sky YourTV HD
-http://smart-hdip.com:6204/soran/soran/11114
-#EXTINF:0,Sky MUTV
-http://smart-hdip.com:6204/soran/soran/8536
-#EXTINF:0,Sky Chelsea TV HD
-http://smart-hdip.com:6204/soran/soran/8572
-#EXTINF:0,Sky Liverpool FC TV HD
-http://smart-hdip.com:6204/soran/soran/8548
-#EXTINF:0,Sky BBC News
-http://smart-hdip.com:6204/soran/soran/8589
-#EXTINF:0,Sky BBC One HD
-http://smart-hdip.com:6204/soran/soran/8587
-#EXTINF:0,Sky BBC Two HD
-http://smart-hdip.com:6204/soran/soran/8585
-#EXTINF:0,Sky BBC Three HD
-http://smart-hdip.com:6204/soran/soran/8586
-#EXTINF:0,Sky BBC Four HD
-http://smart-hdip.com:6204/soran/soran/8588
-#EXTINF:0,Sky More 4 HD
-http://smart-hdip.com:6204/soran/soran/8547
-#EXTINF:0,Sky Sports Box Office HD
-http://smart-hdip.com:6204/soran/soran/11115
-#EXTINF:0,Sky Movies Action HD
-http://smart-hdip.com:6204/soran/soran/8545
-#EXTINF:0,Sky Movies Drama HD
-http://smart-hdip.com:6204/soran/soran/8541
-#EXTINF:0,Sky Movies Family HD
-http://smart-hdip.com:6204/soran/soran/8540
-#EXTINF:0,Sky Movies Premiere HD
-http://smart-hdip.com:6204/soran/soran/8538
-#EXTINF:0,Sky Movies Select HD
-http://smart-hdip.com:6204/soran/soran/8537
-#EXTINF:0,Sky Movies 24
-http://smart-hdip.com:6204/soran/soran/8546
-#EXTINF:0,Sky Movies Crime
-http://smart-hdip.com:6204/soran/soran/8543
-#EXTINF:0,Sky Movies Disney
-http://smart-hdip.com:6204/soran/soran/8542
-#EXTINF:0,Sky Movies Greats
-http://smart-hdip.com:6204/soran/soran/8539
+#EXTINF:0,CARTONITO  ( NOT 24H )
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12808
+#EXTINF:0,Channel 5
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12807
+#EXTINF:0,Sky Movies Select
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12806
+#EXTINF:0,E4 UK
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12805
+#EXTINF:0,3E
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12804
+#EXTINF:0,5 USA
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12803
+#EXTINF:0,AL JAZEERA NEWS ENGLISH Full HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12802
+#EXTINF:0,ALIBI
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12801
+#EXTINF:0,AT THE RACES
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12800
+#EXTINF:0,Bbc Cbbc
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12799
+#EXTINF:0,BBC News
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12798
+#EXTINF:0,BBC1 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12797
+#EXTINF:0,BBC2 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12796
+#EXTINF:0,BBC3 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12795
+#EXTINF:0,BBC4 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12794
+#EXTINF:0,BOOMERANG
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12793
+#EXTINF:0,Box Nation  HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12792
+#EXTINF:0,BT SPORT 1
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12791
+#EXTINF:0,BT SPORT 2
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12790
+#EXTINF:0,BT Sport ESPN
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12789
+#EXTINF:0,BT Sports 1 FULL HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12788
+#EXTINF:0,BT SPORTS 3 Full HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12787
+#EXTINF:0,BT SPORTS2 FULL HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12786
+#EXTINF:0,Cartoon Network
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12785
+#EXTINF:0,CBS ACTION Full HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12784
+#EXTINF:0,CBS DRAMA Full HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12783
+#EXTINF:0,CBS REALITY HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12782
+#EXTINF:0,CHALLENGE
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12781
+#EXTINF:0,CHANNEL 4 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12780
+#EXTINF:0,CHANNEL 5 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12779
+#EXTINF:0,CHELSEA TV
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12778
+#EXTINF:0,CNBC EUROPE Full HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12777
+#EXTINF:0,CNN
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12776
+#EXTINF:0,COLORS
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12775
+#EXTINF:0,Comedy Central
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12774
+#EXTINF:0,Crime Investigation
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12773
+#EXTINF:0,DAVE
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12772
+#EXTINF:0,DISCOVERY CHANNEL
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12771
+#EXTINF:0,DISCOVERY HISTORY
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12770
+#EXTINF:0,DISCOVERY SCIENCE
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12769
+#EXTINF:0,Discovery Shed
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12768
+#EXTINF:0,Discovery Turbo UK
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12767
+#EXTINF:0,DISNEY CHANNEL
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12766
+#EXTINF:0,Disney Jr
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12765
+#EXTINF:0,E!
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12764
+#EXTINF:0,EDEN
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12763
+#EXTINF:0,EUROSPORT 1
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12762
+#EXTINF:0,EUROSPORT 2
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12761
+#EXTINF:0,Film4 UK
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12760
+#EXTINF:0,FINE LIVING NETWORK Full HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12759
+#EXTINF:0,FIVE
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12758
+#EXTINF:0,FOOD NETWORK
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12757
+#EXTINF:0,GOLD FULL HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12756
+#EXTINF:0,H2 UK
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12755
+#EXTINF:0,History
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12754
+#EXTINF:0,Home
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12753
+#EXTINF:0,HORROR CHANNEL
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12752
+#EXTINF:0,ITV 1 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12751
+#EXTINF:0,ITV 2 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12750
+#EXTINF:0,ITV 3 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12749
+#EXTINF:0,ITV 4 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12748
+#EXTINF:0,ITV be
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12747
+#EXTINF:0,ITV Encore
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12746
+#EXTINF:0,LiverpooL FC
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12745
+#EXTINF:0,LONDON LIVE Full HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12744
+#EXTINF:0,MAN UTD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12743
+#EXTINF:0,MORE 4
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12742
+#EXTINF:0,MOTORS TV
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12741
+#EXTINF:0,NATIONAL GEOGRAPHIC
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12736
+#EXTINF:0,NATIONAL GEOGRAPHIC WILD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12735
+#EXTINF:0,NHK News HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12734
+#EXTINF:0,Nick JR
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12733
+#EXTINF:0,NICK JR TOO
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12732
+#EXTINF:0,NICKELODEON
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12731
+#EXTINF:0,NICKTOONS
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12730
+#EXTINF:0,PICK TV
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12729
+#EXTINF:0,PREMIERE SPORT
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12728
+#EXTINF:0,QUEST
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12727
+#EXTINF:0,RACING UK
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12726
+#EXTINF:0,REal Life
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12725
+#EXTINF:0,REALLY
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12724
+#EXTINF:0,RTE JUNIOR_coming soon
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12723
+#EXTINF:0,RTE ONE HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12722
+#EXTINF:0,RTE TWO
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12721
+#EXTINF:0,RUSSIA TODAY Full HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12720
+#EXTINF:0,SETANTA SPORTS
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12719
+#EXTINF:0,SKY 1 Full HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12718
+#EXTINF:0,SKY ART 1
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12717
 #EXTINF:0,Sky Atlantic
-http://smart-hdip.com:6204/soran/soran/8591
-#EXTINF:0,Sky Cbs Action
-http://smart-hdip.com:6204/soran/soran/8575
-#EXTINF:0,Sky Cbs Drama
-http://smart-hdip.com:6204/soran/soran/8574
-#EXTINF:0,Sky CBS Reality
-http://smart-hdip.com:6204/soran/soran/8573
-#EXTINF:0,Sky RTE One
-http://smart-hdip.com:6204/soran/soran/8525
-#EXTINF:0,Sky RTE Two
-http://smart-hdip.com:6204/soran/soran/8524
-#EXTINF:0,Sky True Movies 1
-http://smart-hdip.com:6204/soran/soran/8510
-#EXTINF:0,Sky True Movies 2
-http://smart-hdip.com:6204/soran/soran/8509
-#EXTINF:0,Sky ITV 1
-http://smart-hdip.com:6204/soran/soran/8552
-#EXTINF:0,Sky ITV 2
-http://smart-hdip.com:6204/soran/soran/8551
-#EXTINF:0,Sky ITV 3
-http://smart-hdip.com:6204/soran/soran/8550
-#EXTINF:0,Sky ITV 4
-http://smart-hdip.com:6204/soran/soran/8549
-#EXTINF:0,Sky 1
-http://smart-hdip.com:6204/soran/soran/11120
-#EXTINF:0,Sky 2
-http://smart-hdip.com:6204/soran/soran/11119
-#EXTINF:0,Sky Living HD
-http://smart-hdip.com:6204/soran/soran/11116
-#EXTINF:0,Sky Quest
-http://smart-hdip.com:6204/soran/soran/8529
-#EXTINF:0,Sky Racing
-http://smart-hdip.com:6204/soran/soran/8528
-#EXTINF:0,Sky Really
-http://smart-hdip.com:6204/soran/soran/8527
-#EXTINF:0,Sky Ci
-http://smart-hdip.com:6204/soran/soran/8571
-#EXTINF:0,Sky 5 USA
-http://smart-hdip.com:6204/soran/soran/8594
-#EXTINF:0,Sky Arts 1 HD
-http://smart-hdip.com:6204/soran/soran/8592
-#EXTINF:0,Sky Gold
-http://smart-hdip.com:6204/soran/soran/8557
-#EXTINF:0,Sky Comedy Central
-http://smart-hdip.com:6204/soran/soran/8569
-#EXTINF:0,Sky Home & Health
-http://smart-hdip.com:6204/soran/soran/8554
-#EXTINF:0,Sky Horse & Country
-http://smart-hdip.com:6204/soran/soran/8553
-#EXTINF:0,Sky Food Network
-http://smart-hdip.com:6204/soran/soran/8558
-#EXTINF:0,Sky Good Food HD
-http://smart-hdip.com:6204/soran/soran/8556
-#EXTINF:0,Sky History HD
-http://smart-hdip.com:6204/soran/soran/8555
-#EXTINF:0,Sky Discovery
-http://smart-hdip.com:6204/soran/soran/8568
-#EXTINF:0,Sky Discovery Shed
-http://smart-hdip.com:6204/soran/soran/8565
-#EXTINF:0,Sky Discovery Turbo
-http://smart-hdip.com:6204/soran/soran/8564
-#EXTINF:0,Sky Discovery History
-http://smart-hdip.com:6204/soran/soran/8567
-#EXTINF:0,Sky Discovery Science
-http://smart-hdip.com:6204/soran/soran/8566
-#EXTINF:0,Sky Animal Planet HD
-http://smart-hdip.com:6204/soran/soran/8593
-#EXTINF:0,Sky Nat Geo Wild HD
-http://smart-hdip.com:6204/soran/soran/8535
-#EXTINF:0,Sky National Geographic HD
-http://smart-hdip.com:6204/soran/soran/8534
-#EXTINF:0,Sky Travel Channel
-http://smart-hdip.com:6204/soran/soran/8508
-#EXTINF:0,Sky Baby
-http://smart-hdip.com:6204/soran/soran/8590
-#EXTINF:0,Sky Bloomberg HD
-http://smart-hdip.com:6204/soran/soran/8584
-#EXTINF:0,Sky Cartoon Network
-http://smart-hdip.com:6204/soran/soran/8576
-#EXTINF:0,Sky NickToons
-http://smart-hdip.com:6204/soran/soran/8530
-#EXTINF:0,Sky Nickelodeon
-http://smart-hdip.com:6204/soran/soran/8532
-#EXTINF:0,Sky Disney Chaneel HD
-http://smart-hdip.com:6204/soran/soran/8563
-#EXTINF:0,Sky Disney Junior HD
-http://smart-hdip.com:6204/soran/soran/8562
-#EXTINF:0,Sky Disney XD HD
-http://smart-hdip.com:6204/soran/soran/8561
-#EXTINF:0,Sky Nickelodeon JR
-http://smart-hdip.com:6204/soran/soran/8531
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12716
+#EXTINF:0,SKY CINEMA COMEDY Full
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12715
+#EXTINF:0,SKY CINEMA CRIME & THRILLER Full HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12714
+#EXTINF:0,SKY CINEMA FAMILY Full HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12713
+#EXTINF:0,SKY CINEMA HITS Full HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12712
+#EXTINF:0,SKY CINEMA SCI-FI & HORROR Full HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12711
+#EXTINF:0,Sky Disney
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12710
+#EXTINF:0,Sky Eir 1
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12709
+#EXTINF:0,SKY GOOD FOOD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12708
+#EXTINF:0,SKY GREAT MOVIES Full HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12707
+#EXTINF:0,SKY LIVING
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12706
+#EXTINF:0,SKY MOVIE DISNEY Full HD LOCAL*
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12705
+#EXTINF:0,SKY MOVIE PREMIER Full HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12704
+#EXTINF:0,SKY MOVIES ACTION & ADVENTURE
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12703
+#EXTINF:0,SKY MOVIES COMEDY
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12702
+#EXTINF:0,SKY MOVIES DISNEY
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12701
+#EXTINF:0,SKY MOVIES DRAMA & ROMANCE
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12700
+#EXTINF:0,SKY MOVIES FAMILY
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12699
+#EXTINF:0,SKY MOVIES MODERN
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12698
+#EXTINF:0,SKY MOVIES PREMIERE
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12697
+#EXTINF:0,SKY MOVIES SCI-FI & HORROR
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12696
+#EXTINF:0,SKY MOVIES THRILLER
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12695
+#EXTINF:0,SKY NEWS
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12694
+#EXTINF:0,SKY ONE
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12693
+#EXTINF:0,SKY SPORT 2 Cricket HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12692
+#EXTINF:0,Sky Sport 3 Action Backup
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12691
+#EXTINF:0,Sky Sport Main events Backup
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12690
+#EXTINF:0,SKY SPORTS 1 Main Event FULL HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12689
+#EXTINF:0,Sky Sports 2 Cricket Backup
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12688
+#EXTINF:0,SKY SPORTS 2 FULL HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12687
+#EXTINF:0,SKY SPORTS 3 FULL HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12686
+#EXTINF:0,SKY SPORTS 4 GOLF FULL HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12685
+#EXTINF:0,SKY SPORTS 4 Golf HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12684
+#EXTINF:0,SKY SPORTS 5 FULL HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12683
+#EXTINF:0,SKY SPORTS 5 Premier league HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12682
+#EXTINF:0,SKY SPORTS Action  HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12681
+#EXTINF:0,SKY SPORTS Events
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12680
+#EXTINF:0,SKY SPORTS F1 Full HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12679
+#EXTINF:0,SKY SPORTS F1 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12678
+#EXTINF:0,SKY SPORTS NEWS
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12677
+#EXTINF:0,SKY SPORTS NEWS Full HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12676
+#EXTINF:0,SKY TWO
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12675
+#EXTINF:0,Spike
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12674
+#EXTINF:0,SYFY
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12673
+#EXTINF:0,TLC Irland
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12672
+#EXTINF:0,TRUE MOVIES  1 Full HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12671
+#EXTINF:0,TRUE MOVIES 1
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12670
+#EXTINF:0,TV3 Irland
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12669
+#EXTINF:0,YESTERDAY
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12667
+#EXTINF:0,UK:Bbc Parliament HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12666
+#EXTINF:0,UK:ELEVEN SPORTS 1 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12812
+#EXTINF:0,UK:ELEVEN SPORTS 2 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12811
+#EXTINF:0,UK:LA LIGATV ELEVEM SPORTS
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12810
+#EXTINF:0,UK:LA LIGATV ELEVEM SPORTS LOW
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/12809

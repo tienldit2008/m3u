@@ -1,293 +1,83 @@
 #EXTM3U
-#EXTINF:0,RTL 4 FHD
-http://smart-hdip.com:6204/soran/soran/9534
-#EXTINF:0,RTL 5 FHD
-http://smart-hdip.com:6204/soran/soran/9533
-#EXTINF:0,RTL 7 FHD
-http://smart-hdip.com:6204/soran/soran/9532
-#EXTINF:0,RTL 8 FHD
-http://smart-hdip.com:6204/soran/soran/9531
-#EXTINF:0,RTL Crime HD
-http://smart-hdip.com:6204/soran/soran/9530
-#EXTINF:0,RTL Lounge
-http://smart-hdip.com:6204/soran/soran/9529
-#EXTINF:0,RTL Z
-http://smart-hdip.com:6204/soran/soran/9528
-#EXTINF:0,RTL 4 FHD Backup
-http://smart-hdip.com:6204/soran/soran/13537
-#EXTINF:0,RTL 5 FHD Backup
-http://smart-hdip.com:6204/soran/soran/13536
-#EXTINF:0,RTL 7 FHD Backup
-http://smart-hdip.com:6204/soran/soran/13535
-#EXTINF:0,RTL 8 FHD Backup
-http://smart-hdip.com:6204/soran/soran/13534
-#EXTINF:0,RTL Crime HD Backup
-http://smart-hdip.com:6204/soran/soran/13533
-#EXTINF:0,RTL Lounge Backup
-http://smart-hdip.com:6204/soran/soran/13532
-#EXTINF:0,RTL Z Backup
-http://smart-hdip.com:6204/soran/soran/13529
-#EXTINF:0,RTL Telekids FHD
-http://smart-hdip.com:6204/soran/soran/13531
-#EXTINF:0,RTL Telekids HD
-http://smart-hdip.com:6204/soran/soran/13530
-#EXTINF:0,RTL Telekids
-http://smart-hdip.com:6204/soran/soran/11051
-#EXTINF:0,NPO 101
-http://smart-hdip.com:6204/soran/soran/9540
-#EXTINF:0,NPO 1 HD
-http://smart-hdip.com:6204/soran/soran/9541
-#EXTINF:0,NPO 2 HD
-http://smart-hdip.com:6204/soran/soran/9539
-#EXTINF:0,NPO 3 HD
-http://smart-hdip.com:6204/soran/soran/9538
-#EXTINF:0,NPO HUMOR
-http://smart-hdip.com:6204/soran/soran/9537
-#EXTINF:0,NPO Politiek
-http://smart-hdip.com:6204/soran/soran/9536
-#EXTINF:0,NPO Zapp Xtra/NPO Humor TV
-http://smart-hdip.com:6204/soran/soran/9535
-#EXTINF:0,NPO Best/Zapp Xtra NL
-http://smart-hdip.com:6204/soran/soran/11055
-#EXTINF:0,NPO Cultura NL
-http://smart-hdip.com:6204/soran/soran/11054
-#EXTINF:0,NPO Humor TV NL
-http://smart-hdip.com:6204/soran/soran/11053
-#EXTINF:0,NPO Politiek NL
-http://smart-hdip.com:6204/soran/soran/11052
-#EXTINF:0,NPO 1 HD Backup
-http://smart-hdip.com:6204/soran/soran/13543
-#EXTINF:0,NPO 2 HD Backup
-http://smart-hdip.com:6204/soran/soran/13542
-#EXTINF:0,NPO 3 Backup
-http://smart-hdip.com:6204/soran/soran/13541
-#EXTINF:0,NPO 3 Extra Backup
-http://smart-hdip.com:6204/soran/soran/13540
-#EXTINF:0,NPO Politiek Backup
-http://smart-hdip.com:6204/soran/soran/13539
-#EXTINF:0,NPO Zapp HD Backup
-http://smart-hdip.com:6204/soran/soran/13538
-#EXTINF:0,SBS 9
-http://smart-hdip.com:6204/soran/soran/9527
-#EXTINF:0,SBS6 HD
-http://smart-hdip.com:6204/soran/soran/9526
-#EXTINF:0,SBS 9 HD Backup
-http://smart-hdip.com:6204/soran/soran/13551
-#EXTINF:0,SBS6 HD Backup
-http://smart-hdip.com:6204/soran/soran/13550
-#EXTINF:0,Film1 Action HD
-http://smart-hdip.com:6204/soran/soran/9567
-#EXTINF:0,Film1 Family HD
-http://smart-hdip.com:6204/soran/soran/9566
-#EXTINF:0,Film1 Premiere HD
-http://smart-hdip.com:6204/soran/soran/9565
-#EXTINF:0,Film1 Drama HD
-http://smart-hdip.com:6204/soran/soran/9564
-#EXTINF:0,Film1 Action HD Backup
-http://smart-hdip.com:6204/soran/soran/13528
-#EXTINF:0,Film1 Family HD Backup
-http://smart-hdip.com:6204/soran/soran/13526
-#EXTINF:0,Film1 Premiere HD Backup
-http://smart-hdip.com:6204/soran/soran/13525
-#EXTINF:0,Film1 Drama HD Backup
-http://smart-hdip.com:6204/soran/soran/13527
-#EXTINF:0,Look TV
-http://smart-hdip.com:6204/soran/soran/9553
-#EXTINF:0,192TV
-http://smart-hdip.com:6204/soran/soran/9584
-#EXTINF:0,24 Kitchen HD
-http://smart-hdip.com:6204/soran/soran/9583
-#EXTINF:0,Comedy Central HD
-http://smart-hdip.com:6204/soran/soran/9577
-#EXTINF:0,Crime & Investigation
-http://smart-hdip.com:6204/soran/soran/9576
-#EXTINF:0,Comedy Central Eextra
-http://smart-hdip.com:6204/soran/soran/9578
-#EXTINF:0,Duck TV
-http://smart-hdip.com:6204/soran/soran/9572
-#EXTINF:0,E!
-http://smart-hdip.com:6204/soran/soran/9571
-#EXTINF:0,iConcerts HD
-http://smart-hdip.com:6204/soran/soran/9551
-#EXTINF:0,Ketnet HD
-http://smart-hdip.com:6204/soran/soran/9548
-#EXTINF:0,NET 5 HD
-http://smart-hdip.com:6204/soran/soran/9545
-#EXTINF:0,Omroep Brabant NL
-http://smart-hdip.com:6204/soran/soran/11019
-#EXTINF:0,Omroep Flevoland NL
-http://smart-hdip.com:6204/soran/soran/11018
-#EXTINF:0,Omroep Gelderland NL
-http://smart-hdip.com:6204/soran/soran/11017
-#EXTINF:0,Omroep West NL
-http://smart-hdip.com:6204/soran/soran/11016
-#EXTINF:0,Omroep Zeeland NL
-http://smart-hdip.com:6204/soran/soran/11015
-#EXTINF:0,Omrop Fryslan NL
-http://smart-hdip.com:6204/soran/soran/11014
-#EXTINF:0,RTV Drenthe NL
-http://smart-hdip.com:6204/soran/soran/11012
-#EXTINF:0,RTV Noord NL
-http://smart-hdip.com:6204/soran/soran/11011
-#EXTINF:0,RTV Oost NL
-http://smart-hdip.com:6204/soran/soran/11010
-#EXTINF:0,RTV Dordrecht NL
-http://smart-hdip.com:6204/soran/soran/11050
-#EXTINF:0,RTV Purmerend NL
-http://smart-hdip.com:6204/soran/soran/11049
-#EXTINF:0,RTV Rijnmond NL
-http://smart-hdip.com:6204/soran/soran/11048
-#EXTINF:0,RTV Slingeland NL
-http://smart-hdip.com:6204/soran/soran/11047
-#EXTINF:0,RTV Slos NL
-http://smart-hdip.com:6204/soran/soran/11046
-#EXTINF:0,RTV Totaal NL
-http://smart-hdip.com:6204/soran/soran/11045
-#EXTINF:0,RTV Utrecht NL
-http://smart-hdip.com:6204/soran/soran/11044
-#EXTINF:0,AT 5 NL
-http://smart-hdip.com:6204/soran/soran/11024
-#EXTINF:0,L1 TV NL
-http://smart-hdip.com:6204/soran/soran/11022
-#EXTINF:0,ONS NL
-http://smart-hdip.com:6204/soran/soran/11013
-#EXTINF:0,Spike NL
-http://smart-hdip.com:6204/soran/soran/11009
-#EXTINF:0,TV 538 NL
-http://smart-hdip.com:6204/soran/soran/11007
-#EXTINF:0,WOS NL
-http://smart-hdip.com:6204/soran/soran/11006
-#EXTINF:0,The Q You HD NL
-http://smart-hdip.com:6204/soran/soran/11008
-#EXTINF:0,TLC
-http://smart-hdip.com:6204/soran/soran/9525
-#EXTINF:0,TV Oranje
-http://smart-hdip.com:6204/soran/soran/9524
-#EXTINF:0,Fox Channel HD
-http://smart-hdip.com:6204/soran/soran/9562
-#EXTINF:0,BBC Entertainment NL
-http://smart-hdip.com:6204/soran/soran/11066
-#EXTINF:0,EDE TV NL
-http://smart-hdip.com:6204/soran/soran/11063
-#EXTINF:0,Feel Good TV NL
-http://smart-hdip.com:6204/soran/soran/11061
-#EXTINF:0,Klipkar TV NL
-http://smart-hdip.com:6204/soran/soran/11060
-#EXTINF:0,Salto 1 NL
-http://smart-hdip.com:6204/soran/soran/11043
-#EXTINF:0,Salto 2 NL
-http://smart-hdip.com:6204/soran/soran/11042
-#EXTINF:0,Slam! NL
-http://smart-hdip.com:6204/soran/soran/11041
-#EXTINF:0,Slotstad RTV NL
-http://smart-hdip.com:6204/soran/soran/11040
-#EXTINF:0,Stringray Djazz FHD NL
-http://smart-hdip.com:6204/soran/soran/11039
-#EXTINF:0,Viceland HD NL
-http://smart-hdip.com:6204/soran/soran/11038
 #EXTINF:0,Animal Planet
-http://smart-hdip.com:6204/soran/soran/9582
-#EXTINF:0,Nat Geo Wild HD
-http://smart-hdip.com:6204/soran/soran/9546
-#EXTINF:0,National Geographic HD NL
-http://smart-hdip.com:6204/soran/soran/11056
-#EXTINF:0,History HD DUT
-http://smart-hdip.com:6204/soran/soran/9552
-#EXTINF:0,Discovery Channel
-http://smart-hdip.com:6204/soran/soran/9575
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6764
+#EXTINF:0,Animal Planet HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6763
 #EXTINF:0,Discovery Showcase HD
-http://smart-hdip.com:6204/soran/soran/9574
-#EXTINF:0,Investigation Discovery
-http://smart-hdip.com:6204/soran/soran/9550
-#EXTINF:0,Baby TV
-http://smart-hdip.com:6204/soran/soran/9581
-#EXTINF:0,Boomerang
-http://smart-hdip.com:6204/soran/soran/9580
-#EXTINF:0,Cartoon Network
-http://smart-hdip.com:6204/soran/soran/9579
-#EXTINF:0,Disney Channel
-http://smart-hdip.com:6204/soran/soran/9573
-#EXTINF:0,Disney Channel NL
-http://smart-hdip.com:6204/soran/soran/11065
-#EXTINF:0,Disney Junior NL
-http://smart-hdip.com:6204/soran/soran/11064
-#EXTINF:0,Veronica Disney XD Full HD
-http://smart-hdip.com:6204/soran/soran/11191
-#EXTINF:0,Veronica/DisneyXD
-http://smart-hdip.com:6204/soran/soran/9523
-#EXTINF:0,JimJam
-http://smart-hdip.com:6204/soran/soran/9549
-#EXTINF:0,Nick JR.
-http://smart-hdip.com:6204/soran/soran/9544
-#EXTINF:0,Nick Toons
-http://smart-hdip.com:6204/soran/soran/9543
-#EXTINF:0,Nickenldeon HD / Spike Channel
-http://smart-hdip.com:6204/soran/soran/9542
-#EXTINF:0,Motors TV
-http://smart-hdip.com:6204/soran/soran/9547
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6762
+#EXTINF:0,Edge Sport HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6759
 #EXTINF:0,Extreme Sports
-http://smart-hdip.com:6204/soran/soran/9568
-#EXTINF:0,EuroSport 1 HD
-http://smart-hdip.com:6204/soran/soran/9570
-#EXTINF:0,EuroSport 2 HD
-http://smart-hdip.com:6204/soran/soran/9569
-#EXTINF:0,EDGE Sport HD NL
-http://smart-hdip.com:6204/soran/soran/11062
-#EXTINF:0,Ziggo Sport Voetbal
-http://smart-hdip.com:6204/soran/soran/9517
-#EXTINF:0,Ziggo Sport Select HD
-http://smart-hdip.com:6204/soran/soran/9518
-#EXTINF:0,Ziggo Sport Golf
-http://smart-hdip.com:6204/soran/soran/9520
-#EXTINF:0,Ziggo Sport Racing
-http://smart-hdip.com:6204/soran/soran/9519
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6758
+#EXTINF:0,Film 1 Drama HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6756
+#EXTINF:0,Film 1 Family
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6755
+#EXTINF:0,Film 1 Family HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6754
+#EXTINF:0,Film 1 Sundance HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6753
+#EXTINF:0,Flevoland
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6752
+#EXTINF:0,Fox Channel
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6751
+#EXTINF:0,FOX Sports 1 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6750
+#EXTINF:0,Fox Sports 2 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6749
+#EXTINF:0,Fox Sports 3 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6748
+#EXTINF:0,Fox Sports 4 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6747
+#EXTINF:0,Fox Sports 5 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6746
+#EXTINF:0,Fox Sports 6 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6745
+#EXTINF:0,History HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6742
+#EXTINF:0,Motors TV
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6741
+#EXTINF:0,N1
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6738
+#EXTINF:0,National Geographic HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6737
+#EXTINF:0,National Geographic Wild HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6736
+#EXTINF:0,Omroep Brabant
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6733
+#EXTINF:0,RTV Dordrecht
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6732
+#EXTINF:0,RTV Drenthe
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6731
+#EXTINF:0,RTV OOST
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6730
+#EXTINF:0,RTV Purmerend
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6729
+#EXTINF:0,RTV Slingeland
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6728
+#EXTINF:0,RTV Slogo
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6727
+#EXTINF:0,Sports 1 Extra 2
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6721
+#EXTINF:0,TLC HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6720
+#EXTINF:0,ViceLand HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6718
+#EXTINF:0,WOS TV
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6717
+#EXTINF:0,Zeeland Televisie HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6716
 #EXTINF:0,Ziggo Sport Extra 1
-http://smart-hdip.com:6204/soran/soran/9522
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6715
 #EXTINF:0,Ziggo Sport Extra 2
-http://smart-hdip.com:6204/soran/soran/9521
-#EXTINF:0,Ziggo Sport Voetbal Backup
-http://smart-hdip.com:6204/soran/soran/11192
-#EXTINF:0,Ziggo Sport Select HD Backup
-http://smart-hdip.com:6204/soran/soran/11193
-#EXTINF:0,Ziggo Sport Golf Backup
-http://smart-hdip.com:6204/soran/soran/11194
-#EXTINF:0,Ziggo Sport Extra 1 Backup
-http://smart-hdip.com:6204/soran/soran/11196
-#EXTINF:0,Ziggo Sport Extra 2 Backup
-http://smart-hdip.com:6204/soran/soran/11195
-#EXTINF:0,Fox Sport 1 HD
-http://smart-hdip.com:6204/soran/soran/9561
-#EXTINF:0,Fox Sport 2 HD
-http://smart-hdip.com:6204/soran/soran/9560
-#EXTINF:0,Fox Sport 3 HD
-http://smart-hdip.com:6204/soran/soran/9559
-#EXTINF:0,Fox Sport 4 HD
-http://smart-hdip.com:6204/soran/soran/9558
-#EXTINF:0,Fox Sport 5 HD
-http://smart-hdip.com:6204/soran/soran/9557
-#EXTINF:0,Fox Sport 6 HD
-http://smart-hdip.com:6204/soran/soran/9556
-#EXTINF:0,Fox Sport 1 HD backup
-http://smart-hdip.com:6204/soran/soran/11202
-#EXTINF:0,Fox Sport 2 HD backup
-http://smart-hdip.com:6204/soran/soran/11201
-#EXTINF:0,Fox Sport 3 HD backup
-http://smart-hdip.com:6204/soran/soran/11200
-#EXTINF:0,Fox Sport 4 HD backup
-http://smart-hdip.com:6204/soran/soran/11199
-#EXTINF:0,Fox Sport 5 HD backup
-http://smart-hdip.com:6204/soran/soran/11198
-#EXTINF:0,Fox Sport 6 HD backup
-http://smart-hdip.com:6204/soran/soran/11197
-#EXTINF:0,FOX Sports 1 HD Backup2
-http://smart-hdip.com:6204/soran/soran/13549
-#EXTINF:0,FOX Sports 2 HD Backup2
-http://smart-hdip.com:6204/soran/soran/13548
-#EXTINF:0,FOX Sports 3 HD Backup2
-http://smart-hdip.com:6204/soran/soran/13547
-#EXTINF:0,FOX Sports 4 HD Backup2
-http://smart-hdip.com:6204/soran/soran/13546
-#EXTINF:0,FOX Sports 5 HD Backup2
-http://smart-hdip.com:6204/soran/soran/13545
-#EXTINF:0,FOX Sports 6 HD Backup2
-http://smart-hdip.com:6204/soran/soran/13544
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6714
+#EXTINF:0,Ziggo Sport Golf
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6713
+#EXTINF:0,Ziggo Sport Racing
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6712
+#EXTINF:0,Ziggo Sport Select
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6711
+#EXTINF:0,Ziggo Sport Select HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6710
+#EXTINF:0,Ziggo Sport Voetbal
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6709
