@@ -1,95 +1,325 @@
 #EXTM3U
-#EXTINF:-1,Das Erste HD
-http://51.75.52.85:8000/Dream800se/5zJrAJb6dm/45
-#EXTINF:-1,ZDF HD
-http://51.75.52.85:8000/Dream800se/5zJrAJb6dm/72
-#EXTINF:-1,ORF 1
-http://51.75.52.85:8000/Dream800se/5zJrAJb6dm/164
-#EXTINF:-1,ORF 2
-http://51.75.52.85:8000/Dream800se/5zJrAJb6dm/165
-#EXTINF:-1,ORF 3
-http://51.75.52.85:8000/Dream800se/5zJrAJb6dm/549
-#EXTINF:-1,Servus TV
-http://51.75.52.85:8000/Dream800se/5zJrAJb6dm/1208
-#EXTINF:-1,ATV HD
-http://51.75.52.85:8000/Dream800se/5zJrAJb6dm/166
-#EXTINF:-1,ATV 2
-http://51.75.52.85:8000/Dream800se/5zJrAJb6dm/167
-#EXTINF:-1,Puls 4
-http://51.75.52.85:8000/Dream800se/5zJrAJb6dm/697
-#EXTINF:-1,RTL HD
-http://51.75.52.85:8000/Dream800se/5zJrAJb6dm/54
-#EXTINF:-1,RTL 2 HD
-http://51.75.52.85:8000/Dream800se/5zJrAJb6dm/55
-#EXTINF:-1,ProSieben HD
-http://51.75.52.85:8000/Dream800se/5zJrAJb6dm/52
-#EXTINF:-1,ProSieben Maxx HD
-http://51.75.52.85:8000/Dream800se/5zJrAJb6dm/53
-#EXTINF:-1,Sat.1 HD
-http://51.75.52.85:8000/Dream800se/5zJrAJb6dm/57
-#EXTINF:-1,VOX HD
-http://51.75.52.85:8000/Dream800se/5zJrAJb6dm/71
-#EXTINF:-1,DMAX HD
-http://51.75.52.85:8000/Dream800se/5zJrAJb6dm/47
-#EXTINF:-1,SIXX HD
-http://51.75.52.85:8000/Dream800se/5zJrAJb6dm/421
-#EXTINF:-1,Kabel 1 HD
-http://51.75.52.85:8000/Dream800se/5zJrAJb6dm/727
-#EXTINF:-1,RTL Nitro
-http://51.75.52.85:8000/Dream800se/5zJrAJb6dm/422
-#EXTINF:-1,RTL Passion
-http://51.75.52.85:8000/Dream800se/5zJrAJb6dm/1227
-#EXTINF:-1,A&E
-http://51.75.52.85:8000/Dream800se/5zJrAJb6dm/430
-#EXTINF:-1,TLC
-http://51.75.52.85:8000/Dream800se/5zJrAJb6dm/1211
-#EXTINF:-1,13th Street HD
-http://51.75.52.85:8000/Dream800se/5zJrAJb6dm/413
-#EXTINF:-1,Universal HD
-http://51.75.52.85:8000/Dream800se/5zJrAJb6dm/411
-#EXTINF:-1,SKY SYFY HD
-http://51.75.52.85:8000/Dream800se/5zJrAJb6dm/329
-#EXTINF:-1,AXN HD
-http://51.75.52.85:8000/Dream800se/5zJrAJb6dm/330
-#EXTINF:-1,Sony HD
-http://51.75.52.85:8000/Dream800se/5zJrAJb6dm/548
-#EXTINF:-1,TNT Film
-http://51.75.52.85:8000/Dream800se/5zJrAJb6dm/471
-#EXTINF:-1,TNT Comedy HD
-http://51.75.52.85:8000/Dream800se/5zJrAJb6dm/547
-#EXTINF:-1,Sky TNT Serie HD
-http://51.75.52.85:8000/Dream800se/5zJrAJb6dm/68
-#EXTINF:-1,National Geographic HD
-http://51.75.52.85:8000/Dream800se/5zJrAJb6dm/408
-#EXTINF:-1,History HD
-http://51.75.52.85:8000/Dream800se/5zJrAJb6dm/419
-#EXTINF:-1,Sky NatGeo Wild HD
-http://51.75.52.85:8000/Dream800se/5zJrAJb6dm/65
-#EXTINF:-1,Sky Discovery Channel HD
-http://51.75.52.85:8000/Dream800se/5zJrAJb6dm/62
-#EXTINF:-1,N-TV HD
-http://51.75.52.85:8000/Dream800se/5zJrAJb6dm/432
-#EXTINF:-1,Welt der Wunder
-http://51.75.52.85:8000/Dream800se/5zJrAJb6dm/1226
-#EXTINF:-1,ARTE
-http://51.75.52.85:8000/Dream800se/5zJrAJb6dm/1209
-#EXTINF:-1,N24 Doku
-http://51.75.52.85:8000/Dream800se/5zJrAJb6dm/1213
-#EXTINF:-1,Phoenix
-http://51.75.52.85:8000/Dream800se/5zJrAJb6dm/1212
-#EXTINF:-1,ZDF INFO
-http://51.75.52.85:8000/Dream800se/5zJrAJb6dm/1210
-#EXTINF:-1,Nickelodeon
-http://51.75.52.85:8000/Dream800se/5zJrAJb6dm/902
-#EXTINF:-1,SUPER RTL HD
-http://51.75.52.85:8000/Dream800se/5zJrAJb6dm/69
-#EXTINF:-1,Toggo Plus
-http://51.75.52.85:8000/Dream800se/5zJrAJb6dm/969
-#EXTINF:-1,Kika HD
-http://51.75.52.85:8000/Dream800se/5zJrAJb6dm/48
-#EXTINF:-1,Sky Disney XD
-http://51.75.52.85:8000/Dream800se/5zJrAJb6dm/64
-#EXTINF:-1,Sky Disney Cinemagic HD
-http://51.75.52.85:8000/Dream800se/5zJrAJb6dm/63
-#EXTINF:-1,Disney Channel HD
-http://51.75.52.85:8000/Dream800se/5zJrAJb6dm/46
+#EXTINF:0,13TH STREET
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9224
+#EXTINF:0,13TH STREET HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9223
+#EXTINF:0,3 SAT
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9222
+#EXTINF:0,ARD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9221
+#EXTINF:0,ARTE
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9220
+#EXTINF:0,ARTE HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9219
+#EXTINF:0,DISCOVERY
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9210
+#EXTINF:0,E! ENTERTAINM ENTERTAINM
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9201
+#EXTINF:0,E! ENTERTAINM HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9200
+#EXTINF:0,NAT GEO
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9171
+#EXTINF:0,NAT GEO WILLD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9170
+#EXTINF:0,QVC DEUTSCHLAND
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9159
+#EXTINF:0,BOOMERANG
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9216
+#EXTINF:0,CLASSICA
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9213
+#EXTINF:0,DAS ERSTE HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9211
+#EXTINF:0,DMAX
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9203
+#EXTINF:0,DMAX HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9202
+#EXTINF:0,EURONEWS HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9199
+#EXTINF:0,FC BAYERN TV Full HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9192
+#EXTINF:0,FC BAYERN TV HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9191
+#EXTINF:0,GOLDSTAR TV
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9183
+#EXTINF:0,HEIMATKANAL
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9182
+#EXTINF:0,HISTORY CHANNELS
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9181
+#EXTINF:0,JUKEBOX
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9180
+#EXTINF:0,KABEL EINS
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9179
+#EXTINF:0,KABEL EINS DOKU
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9178
+#EXTINF:0,KIKA
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9177
+#EXTINF:0,KIKA HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9176
+#EXTINF:0,KINOWELT TV
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9175
+#EXTINF:0,N-TV
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9172
+#EXTINF:0,ORF 1
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9167
+#EXTINF:0,ORF 1 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9166
+#EXTINF:0,ORF 2
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9165
+#EXTINF:0,PRO 7
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9164
+#EXTINF:0,PRO 7 MAXX
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9163
+#EXTINF:0,PRO 7 MAXX HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9162
+#EXTINF:0,PROSIEBEN
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9161
+#EXTINF:0,PROSIEBEN HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9160
+#EXTINF:0,ROMANCE TV
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9158
+#EXTINF:0,ROMANCE TV HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9157
+#EXTINF:0,RTL 2
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9156
+#EXTINF:0,RTL CRIME
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9155
+#EXTINF:0,RTL NITRO
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9154
+#EXTINF:0,RTL PASSION
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9153
+#EXTINF:0,RTL PLUS
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9152
+#EXTINF:0,RTL TELEVISION
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9151
+#EXTINF:0,SUPER RTL
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9078
+#EXTINF:0,SAT.1
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9150
+#EXTINF:0,SAT.1 GOLD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9149
+#EXTINF:0,SAT.1 GOLD HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9148
+#EXTINF:0,SAT.1 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9147
+#EXTINF:0,SPIEGEL GESCHICHTE
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9079
+#EXTINF:0,TLC
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9073
+#EXTINF:0,TOGGO PLUS
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9067
+#EXTINF:0,UNIVERSAL
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9065
+#EXTINF:0,UNIVERSAL HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9064
+#EXTINF:0,VOX
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9061
+#EXTINF:0,VOX HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9060
+#EXTINF:0,WDR
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9059
+#EXTINF:0,ZDF HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9057
+#EXTINF:0,ZDF INFO
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9056
+#EXTINF:0,ZDF INFO HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9055
+#EXTINF:0,ZDF NEO
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9054
+#EXTINF:0,ZEE ONE
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9053
+#EXTINF:0,CARTOON NETWORK
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9215
+#EXTINF:0,CARTOON NETWORK HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9214
+#EXTINF:0,DISNEY CHANNEL
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9209
+#EXTINF:0,DISNEY CINEMAGIC
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9208
+#EXTINF:0,DISNEY JUNIOR
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9207
+#EXTINF:0,DISNEY JUNIOR HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9206
+#EXTINF:0,DISNEY XD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9205
+#EXTINF:0,DISNEY XD HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9204
+#EXTINF:0,FAMILY TV
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9193
+#EXTINF:0,NICKELODEON
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9169
+#EXTINF:0,AXN
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9218
+#EXTINF:0,AXN HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9217
+#EXTINF:0,FOX
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9185
+#EXTINF:0,FOX HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9184
+#EXTINF:0,SYFY
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9077
+#EXTINF:0,SYFY HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9076
+#EXTINF:0,TNT COMEDY
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9072
+#EXTINF:0,TNT COMEDY HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9071
+#EXTINF:0,TNT FILM (TCM) HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9070
+#EXTINF:0,TNT SERIES
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9069
+#EXTINF:0,TNT SERIES HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9068
+#EXTINF:0,FILM CLUB 1
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9190
+#EXTINF:0,FILM CLUB 2
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9189
+#EXTINF:0,FILM CLUB 3
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9188
+#EXTINF:0,FILM CLUB 4
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9187
+#EXTINF:0,FILM CLUB 5
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9186
+#EXTINF:0,SKY 1
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9146
+#EXTINF:0,SKY ARTS
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9145
+#EXTINF:0,SKY ATLANTIC
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9144
+#EXTINF:0,SKY ATLANTIC HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9143
+#EXTINF:0,SKY CINEMA
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9130
+#EXTINF:0,SKY CINEMA HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9119
+#EXTINF:0,SKY CINEMA 1
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9129
+#EXTINF:0,SKY CINEMA 1 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9128
+#EXTINF:0,SKY CINEMA 24
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9127
+#EXTINF:0,SKY CINEMA 24 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9126
+#EXTINF:0,SKY CINEMA ACTION
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9125
+#EXTINF:0,SKY CINEMA ACTION HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9124
+#EXTINF:0,SKY CINEMA COMEDY
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9123
+#EXTINF:0,SKY CINEMA COMEDY HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9122
+#EXTINF:0,SKY CINEMA FAMILY
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9121
+#EXTINF:0,SKY CINEMA FAMILY HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9120
+#EXTINF:0,SKY EMOTION
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9118
+#EXTINF:0,SKY EMOTION HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9117
+#EXTINF:0,SKY HITS
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9116
+#EXTINF:0,SKY HITS HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9115
+#EXTINF:0,SKY KRIMI
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9114
+#EXTINF:0,SKY KRIMI HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9113
+#EXTINF:0,SKY NOSTALGIE
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9112
+#EXTINF:0,SKY NOSTALGIE HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9111
+#EXTINF:0,SKY SELECT 1
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9110
+#EXTINF:0,SKY SELECT 2
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9108
+#EXTINF:0,SKY SELECT 2 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9107
+#EXTINF:0,SKY SELECT 3
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9106
+#EXTINF:0,SKY SELECT 3 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9105
+#EXTINF:0,SKY SELECT 4
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9104
+#EXTINF:0,SKY SELECT 4 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9103
+#EXTINF:0,SKY SELECT 5
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9102
+#EXTINF:0,SKY SELECT 5 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9101
+#EXTINF:0,SKY SELECT 6
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9100
+#EXTINF:0,SKY SELECT 6 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9099
+#EXTINF:0,SKY SELECT 7
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9098
+#EXTINF:0,SKY SELECT 7 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9097
+#EXTINF:0,SKY SELECT 8
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9096
+#EXTINF:0,SKY SELECT 9
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9095
+#EXTINF:0,SKY SPORT 1
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9094
+#EXTINF:0,SKY SPORT 1 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9093
+#EXTINF:0,SKY SPORT 2
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9092
+#EXTINF:0,SKY SPORT 2 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9091
+#EXTINF:0,SKY SPORT 3
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9090
+#EXTINF:0,SKY SPORT 3 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9089
+#EXTINF:0,SKY SPORT 4
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9088
+#EXTINF:0,SKY SPORT 4 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9087
+#EXTINF:0,SKY BUNDESLIGA 1
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9142
+#EXTINF:0,SKY BUNDESLIGA 1 FUL HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9141
+#EXTINF:0,SKY BUNDESLIGA 1 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9140
+#EXTINF:0,SKY BUNDESLIGA 2 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9138
+#EXTINF:0,SKY BUNDESLIGA 3 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9137
+#EXTINF:0,SKY BUNDESLIGA 4 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9136
+#EXTINF:0,SKY BUNDESLIGA 5 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9135
+#EXTINF:0,SKY BUNDESLIGA 6 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9134
+#EXTINF:0,SKY BUNDESLIGA 7 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9133
+#EXTINF:0,SKY BUNDESLIGA 8 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9132
+#EXTINF:0,SKY BUNDESLIGA 9 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9131
+#EXTINF:0,SKY BUNDESLIGA 10 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9139
+#EXTINF:0,SKY SPORT AUSTRIA
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9086
+#EXTINF:0,SKY SPORT BUNDESLIGA 2
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9085
+#EXTINF:0,SKY SPORT BUNDESLIGA 2 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9084
+#EXTINF:0,SKY SPORT BUNDESLIGA 3
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9083
+#EXTINF:0,SKY SPORT BUNDESLIGA 3 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9082
+#EXTINF:0,EUROSPORT 1
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9198
+#EXTINF:0,EUROSPORT 1 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9197
+#EXTINF:0,EUROSPORT 2
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9196
+#EXTINF:0,EUROSPORT 2 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9195
+#EXTINF:0,EUROSPORT 2 HD Xtra
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9194
+#EXTINF:0,MOTORVISION TV
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9173
+#EXTINF:0,SKY SPORT NEWS
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9081
+#EXTINF:0,SKY SPORT NEWS HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/9080
