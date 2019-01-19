@@ -1,155 +1,293 @@
 #EXTM3U
-#EXTINF:0,NPO 1 HD
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23859
-#EXTINF:0,NPO 2 HD
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23858
-#EXTINF:0,NPO 3 HD
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23857
-#EXTINF:0,RTL 4
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23856
-#EXTINF:0,RTL 5 HD
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23855
-#EXTINF:0,RTL 7 HD
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23854
-#EXTINF:0,RTL 8 HD
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23853
-#EXTINF:0,RTV Drenthe
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23852
-#EXTINF:0,RTL.Lounge
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23851
-#EXTINF:0,RTV.Rijnmond
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23850
+#EXTINF:0,RTL 4 FHD
+http://smart-hdip.com:6204/soran/soran/9534
+#EXTINF:0,RTL 5 FHD
+http://smart-hdip.com:6204/soran/soran/9533
+#EXTINF:0,RTL 7 FHD
+http://smart-hdip.com:6204/soran/soran/9532
+#EXTINF:0,RTL 8 FHD
+http://smart-hdip.com:6204/soran/soran/9531
+#EXTINF:0,RTL Crime HD
+http://smart-hdip.com:6204/soran/soran/9530
+#EXTINF:0,RTL Lounge
+http://smart-hdip.com:6204/soran/soran/9529
 #EXTINF:0,RTL Z
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23849
-#EXTINF:0,|NL|SBS 6HD
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23848
-#EXTINF:0,SBS 9HD
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23847
-#EXTINF:0,AT 5 HD
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23846
-#EXTINF:0,CARTHAGE TV
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23845
-#EXTINF:0, NET5 HD
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23844
-#EXTINF:0,N1
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23843
-#EXTINF:0,*****SPORT*****|NL|
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23842
-#EXTINF:0,FOX SPORT1 EREDIVISIE HD
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23841
-#EXTINF:0,FOX SPORT 2HD
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23840
-#EXTINF:0,FOX SPORT 3 EREDIVISIE HD
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23839
-#EXTINF:0,FOX  SPORT 4HD
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23838
-#EXTINF:0,FOX SPORT 5 EREDIVISIE HD
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23837
-#EXTINF:0,FOX SPORTS 6HD
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23836
-#EXTINF:0,Ziggo Sport Voetbal
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23835
-#EXTINF:0,Ziggo Sport Extra1
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23834
-#EXTINF:0,Ziggo Sport Extra 2
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23833
-#EXTINF:0,Ziggo Sport Racing
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23832
-#EXTINF:0,Ziggo Sport Select
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23831
-#EXTINF:0,Ziggo Sport Golf
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23830
-#EXTINF:0,Sport 1 SelectHD
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23829
-#EXTINF:0,EUROSPORT
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23828
-#EXTINF:0,EUROSPORT 2HD
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23827
-#EXTINF:0,Edge Sport HD
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23826
-#EXTINF:0,Sport1 Voetbal
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23825
-#EXTINF:0,*****CULTUUR*****|NL|
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23824
-#EXTINF:0,Nat Geo Wild
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23822
-#EXTINF:0,Discover Channel HD
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23821
-#EXTINF:0,Crime&lnvestigation
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23820
-#EXTINF:0, NPO CULTURA
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23819
-#EXTINF:0,DISCOVERY CHOWCASE
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23818
-#EXTINF:0,DiscoveryID
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23817
-#EXTINF:0,HISTORY
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23816
-#EXTINF:0,*****KINO*****|NL|
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23815
-#EXTINF:0,FILM 1 PREMIERE
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23814
-#EXTINF:0, FILM 1 ACTION
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23813
-#EXTINF:0,Film 1 Sundance
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23812
-#EXTINF:0, FILM 1 FAMILY
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23811
-#EXTINF:0,HBO 1 HD
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23810
-#EXTINF:0,HBO 3 HD
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23809
-#EXTINF:0,*****AMUSEMENT*****|NL|
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23808
-#EXTINF:0,FOX ND
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23805
-#EXTINF:0,Fox Life
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23804
-#EXTINF:0,Syfy
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23803
-#EXTINF:0,13th Street
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23802
-#EXTINF:0,E! entertainement HD
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23801
+http://smart-hdip.com:6204/soran/soran/9528
+#EXTINF:0,RTL 4 FHD Backup
+http://smart-hdip.com:6204/soran/soran/13537
+#EXTINF:0,RTL 5 FHD Backup
+http://smart-hdip.com:6204/soran/soran/13536
+#EXTINF:0,RTL 7 FHD Backup
+http://smart-hdip.com:6204/soran/soran/13535
+#EXTINF:0,RTL 8 FHD Backup
+http://smart-hdip.com:6204/soran/soran/13534
+#EXTINF:0,RTL Crime HD Backup
+http://smart-hdip.com:6204/soran/soran/13533
+#EXTINF:0,RTL Lounge Backup
+http://smart-hdip.com:6204/soran/soran/13532
+#EXTINF:0,RTL Z Backup
+http://smart-hdip.com:6204/soran/soran/13529
+#EXTINF:0,RTL Telekids FHD
+http://smart-hdip.com:6204/soran/soran/13531
+#EXTINF:0,RTL Telekids HD
+http://smart-hdip.com:6204/soran/soran/13530
+#EXTINF:0,RTL Telekids
+http://smart-hdip.com:6204/soran/soran/11051
+#EXTINF:0,NPO 101
+http://smart-hdip.com:6204/soran/soran/9540
+#EXTINF:0,NPO 1 HD
+http://smart-hdip.com:6204/soran/soran/9541
+#EXTINF:0,NPO 2 HD
+http://smart-hdip.com:6204/soran/soran/9539
+#EXTINF:0,NPO 3 HD
+http://smart-hdip.com:6204/soran/soran/9538
+#EXTINF:0,NPO HUMOR
+http://smart-hdip.com:6204/soran/soran/9537
+#EXTINF:0,NPO Politiek
+http://smart-hdip.com:6204/soran/soran/9536
+#EXTINF:0,NPO Zapp Xtra/NPO Humor TV
+http://smart-hdip.com:6204/soran/soran/9535
+#EXTINF:0,NPO Best/Zapp Xtra NL
+http://smart-hdip.com:6204/soran/soran/11055
+#EXTINF:0,NPO Cultura NL
+http://smart-hdip.com:6204/soran/soran/11054
+#EXTINF:0,NPO Humor TV NL
+http://smart-hdip.com:6204/soran/soran/11053
+#EXTINF:0,NPO Politiek NL
+http://smart-hdip.com:6204/soran/soran/11052
+#EXTINF:0,NPO 1 HD Backup
+http://smart-hdip.com:6204/soran/soran/13543
+#EXTINF:0,NPO 2 HD Backup
+http://smart-hdip.com:6204/soran/soran/13542
+#EXTINF:0,NPO 3 Backup
+http://smart-hdip.com:6204/soran/soran/13541
+#EXTINF:0,NPO 3 Extra Backup
+http://smart-hdip.com:6204/soran/soran/13540
+#EXTINF:0,NPO Politiek Backup
+http://smart-hdip.com:6204/soran/soran/13539
+#EXTINF:0,NPO Zapp HD Backup
+http://smart-hdip.com:6204/soran/soran/13538
+#EXTINF:0,SBS 9
+http://smart-hdip.com:6204/soran/soran/9527
+#EXTINF:0,SBS6 HD
+http://smart-hdip.com:6204/soran/soran/9526
+#EXTINF:0,SBS 9 HD Backup
+http://smart-hdip.com:6204/soran/soran/13551
+#EXTINF:0,SBS6 HD Backup
+http://smart-hdip.com:6204/soran/soran/13550
+#EXTINF:0,Film1 Action HD
+http://smart-hdip.com:6204/soran/soran/9567
+#EXTINF:0,Film1 Family HD
+http://smart-hdip.com:6204/soran/soran/9566
+#EXTINF:0,Film1 Premiere HD
+http://smart-hdip.com:6204/soran/soran/9565
+#EXTINF:0,Film1 Drama HD
+http://smart-hdip.com:6204/soran/soran/9564
+#EXTINF:0,Film1 Action HD Backup
+http://smart-hdip.com:6204/soran/soran/13528
+#EXTINF:0,Film1 Family HD Backup
+http://smart-hdip.com:6204/soran/soran/13526
+#EXTINF:0,Film1 Premiere HD Backup
+http://smart-hdip.com:6204/soran/soran/13525
+#EXTINF:0,Film1 Drama HD Backup
+http://smart-hdip.com:6204/soran/soran/13527
+#EXTINF:0,Look TV
+http://smart-hdip.com:6204/soran/soran/9553
+#EXTINF:0,192TV
+http://smart-hdip.com:6204/soran/soran/9584
 #EXTINF:0,24 Kitchen HD
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23800
-#EXTINF:0,COMEDY CENTRAL
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23799
-#EXTINF:0,Comedy Central extra
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23798
-#EXTINF:0,Film1 Comedy and Kids
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23797
-#EXTINF:0,*****KINDEREN*****|NL|
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23796
-#EXTINF:0,Ketnet HD KIDS
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23795
+http://smart-hdip.com:6204/soran/soran/9583
+#EXTINF:0,Comedy Central HD
+http://smart-hdip.com:6204/soran/soran/9577
+#EXTINF:0,Crime & Investigation
+http://smart-hdip.com:6204/soran/soran/9576
+#EXTINF:0,Comedy Central Eextra
+http://smart-hdip.com:6204/soran/soran/9578
+#EXTINF:0,Duck TV
+http://smart-hdip.com:6204/soran/soran/9572
+#EXTINF:0,E!
+http://smart-hdip.com:6204/soran/soran/9571
+#EXTINF:0,iConcerts HD
+http://smart-hdip.com:6204/soran/soran/9551
+#EXTINF:0,Ketnet HD
+http://smart-hdip.com:6204/soran/soran/9548
+#EXTINF:0,NET 5 HD
+http://smart-hdip.com:6204/soran/soran/9545
+#EXTINF:0,Omroep Brabant NL
+http://smart-hdip.com:6204/soran/soran/11019
+#EXTINF:0,Omroep Flevoland NL
+http://smart-hdip.com:6204/soran/soran/11018
+#EXTINF:0,Omroep Gelderland NL
+http://smart-hdip.com:6204/soran/soran/11017
+#EXTINF:0,Omroep West NL
+http://smart-hdip.com:6204/soran/soran/11016
+#EXTINF:0,Omroep Zeeland NL
+http://smart-hdip.com:6204/soran/soran/11015
+#EXTINF:0,Omrop Fryslan NL
+http://smart-hdip.com:6204/soran/soran/11014
+#EXTINF:0,RTV Drenthe NL
+http://smart-hdip.com:6204/soran/soran/11012
+#EXTINF:0,RTV Noord NL
+http://smart-hdip.com:6204/soran/soran/11011
+#EXTINF:0,RTV Oost NL
+http://smart-hdip.com:6204/soran/soran/11010
+#EXTINF:0,RTV Dordrecht NL
+http://smart-hdip.com:6204/soran/soran/11050
+#EXTINF:0,RTV Purmerend NL
+http://smart-hdip.com:6204/soran/soran/11049
+#EXTINF:0,RTV Rijnmond NL
+http://smart-hdip.com:6204/soran/soran/11048
+#EXTINF:0,RTV Slingeland NL
+http://smart-hdip.com:6204/soran/soran/11047
+#EXTINF:0,RTV Slos NL
+http://smart-hdip.com:6204/soran/soran/11046
+#EXTINF:0,RTV Totaal NL
+http://smart-hdip.com:6204/soran/soran/11045
+#EXTINF:0,RTV Utrecht NL
+http://smart-hdip.com:6204/soran/soran/11044
+#EXTINF:0,AT 5 NL
+http://smart-hdip.com:6204/soran/soran/11024
+#EXTINF:0,L1 TV NL
+http://smart-hdip.com:6204/soran/soran/11022
+#EXTINF:0,ONS NL
+http://smart-hdip.com:6204/soran/soran/11013
+#EXTINF:0,Spike NL
+http://smart-hdip.com:6204/soran/soran/11009
+#EXTINF:0,TV 538 NL
+http://smart-hdip.com:6204/soran/soran/11007
+#EXTINF:0,WOS NL
+http://smart-hdip.com:6204/soran/soran/11006
+#EXTINF:0,The Q You HD NL
+http://smart-hdip.com:6204/soran/soran/11008
+#EXTINF:0,TLC
+http://smart-hdip.com:6204/soran/soran/9525
+#EXTINF:0,TV Oranje
+http://smart-hdip.com:6204/soran/soran/9524
+#EXTINF:0,Fox Channel HD
+http://smart-hdip.com:6204/soran/soran/9562
+#EXTINF:0,BBC Entertainment NL
+http://smart-hdip.com:6204/soran/soran/11066
+#EXTINF:0,EDE TV NL
+http://smart-hdip.com:6204/soran/soran/11063
+#EXTINF:0,Feel Good TV NL
+http://smart-hdip.com:6204/soran/soran/11061
+#EXTINF:0,Klipkar TV NL
+http://smart-hdip.com:6204/soran/soran/11060
+#EXTINF:0,Salto 1 NL
+http://smart-hdip.com:6204/soran/soran/11043
+#EXTINF:0,Salto 2 NL
+http://smart-hdip.com:6204/soran/soran/11042
+#EXTINF:0,Slam! NL
+http://smart-hdip.com:6204/soran/soran/11041
+#EXTINF:0,Slotstad RTV NL
+http://smart-hdip.com:6204/soran/soran/11040
+#EXTINF:0,Stringray Djazz FHD NL
+http://smart-hdip.com:6204/soran/soran/11039
+#EXTINF:0,Viceland HD NL
+http://smart-hdip.com:6204/soran/soran/11038
+#EXTINF:0,Animal Planet
+http://smart-hdip.com:6204/soran/soran/9582
+#EXTINF:0,Nat Geo Wild HD
+http://smart-hdip.com:6204/soran/soran/9546
+#EXTINF:0,National Geographic HD NL
+http://smart-hdip.com:6204/soran/soran/11056
+#EXTINF:0,History HD DUT
+http://smart-hdip.com:6204/soran/soran/9552
+#EXTINF:0,Discovery Channel
+http://smart-hdip.com:6204/soran/soran/9575
+#EXTINF:0,Discovery Showcase HD
+http://smart-hdip.com:6204/soran/soran/9574
+#EXTINF:0,Investigation Discovery
+http://smart-hdip.com:6204/soran/soran/9550
+#EXTINF:0,Baby TV
+http://smart-hdip.com:6204/soran/soran/9581
+#EXTINF:0,Boomerang
+http://smart-hdip.com:6204/soran/soran/9580
 #EXTINF:0,Cartoon Network
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23794
-#EXTINF:0,Cartoon Network KIDS
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23793
+http://smart-hdip.com:6204/soran/soran/9579
 #EXTINF:0,Disney Channel
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23792
-#EXTINF:0,Disney Channel KIDS
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23791
-#EXTINF:0,Disney Junior
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23790
-#EXTINF:0,Disney Junior KIDS
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23789
-#EXTINF:0, Disney Channel
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23788
-#EXTINF:0, Veronica Disney XD
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23787
-#EXTINF:0,Nick Jr KIDS
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23786
-#EXTINF:0,NICK TOONS KIDS
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23785
-#EXTINF:0,Nickelodeon
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23784
-#EXTINF:0,Nickelodeon KIDS
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23783
-#EXTINF:0,Nicktoons
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23782
-#EXTINF:0,JimJam KIDS
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23781
-#EXTINF:0,Veronica Disney XD HD
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/23780
+http://smart-hdip.com:6204/soran/soran/9573
+#EXTINF:0,Disney Channel NL
+http://smart-hdip.com:6204/soran/soran/11065
+#EXTINF:0,Disney Junior NL
+http://smart-hdip.com:6204/soran/soran/11064
+#EXTINF:0,Veronica Disney XD Full HD
+http://smart-hdip.com:6204/soran/soran/11191
+#EXTINF:0,Veronica/DisneyXD
+http://smart-hdip.com:6204/soran/soran/9523
+#EXTINF:0,JimJam
+http://smart-hdip.com:6204/soran/soran/9549
+#EXTINF:0,Nick JR.
+http://smart-hdip.com:6204/soran/soran/9544
+#EXTINF:0,Nick Toons
+http://smart-hdip.com:6204/soran/soran/9543
+#EXTINF:0,Nickenldeon HD / Spike Channel
+http://smart-hdip.com:6204/soran/soran/9542
+#EXTINF:0,Motors TV
+http://smart-hdip.com:6204/soran/soran/9547
+#EXTINF:0,Extreme Sports
+http://smart-hdip.com:6204/soran/soran/9568
+#EXTINF:0,EuroSport 1 HD
+http://smart-hdip.com:6204/soran/soran/9570
+#EXTINF:0,EuroSport 2 HD
+http://smart-hdip.com:6204/soran/soran/9569
+#EXTINF:0,EDGE Sport HD NL
+http://smart-hdip.com:6204/soran/soran/11062
+#EXTINF:0,Ziggo Sport Voetbal
+http://smart-hdip.com:6204/soran/soran/9517
+#EXTINF:0,Ziggo Sport Select HD
+http://smart-hdip.com:6204/soran/soran/9518
+#EXTINF:0,Ziggo Sport Golf
+http://smart-hdip.com:6204/soran/soran/9520
+#EXTINF:0,Ziggo Sport Racing
+http://smart-hdip.com:6204/soran/soran/9519
+#EXTINF:0,Ziggo Sport Extra 1
+http://smart-hdip.com:6204/soran/soran/9522
+#EXTINF:0,Ziggo Sport Extra 2
+http://smart-hdip.com:6204/soran/soran/9521
+#EXTINF:0,Ziggo Sport Voetbal Backup
+http://smart-hdip.com:6204/soran/soran/11192
+#EXTINF:0,Ziggo Sport Select HD Backup
+http://smart-hdip.com:6204/soran/soran/11193
+#EXTINF:0,Ziggo Sport Golf Backup
+http://smart-hdip.com:6204/soran/soran/11194
+#EXTINF:0,Ziggo Sport Extra 1 Backup
+http://smart-hdip.com:6204/soran/soran/11196
+#EXTINF:0,Ziggo Sport Extra 2 Backup
+http://smart-hdip.com:6204/soran/soran/11195
+#EXTINF:0,Fox Sport 1 HD
+http://smart-hdip.com:6204/soran/soran/9561
+#EXTINF:0,Fox Sport 2 HD
+http://smart-hdip.com:6204/soran/soran/9560
+#EXTINF:0,Fox Sport 3 HD
+http://smart-hdip.com:6204/soran/soran/9559
+#EXTINF:0,Fox Sport 4 HD
+http://smart-hdip.com:6204/soran/soran/9558
+#EXTINF:0,Fox Sport 5 HD
+http://smart-hdip.com:6204/soran/soran/9557
+#EXTINF:0,Fox Sport 6 HD
+http://smart-hdip.com:6204/soran/soran/9556
+#EXTINF:0,Fox Sport 1 HD backup
+http://smart-hdip.com:6204/soran/soran/11202
+#EXTINF:0,Fox Sport 2 HD backup
+http://smart-hdip.com:6204/soran/soran/11201
+#EXTINF:0,Fox Sport 3 HD backup
+http://smart-hdip.com:6204/soran/soran/11200
+#EXTINF:0,Fox Sport 4 HD backup
+http://smart-hdip.com:6204/soran/soran/11199
+#EXTINF:0,Fox Sport 5 HD backup
+http://smart-hdip.com:6204/soran/soran/11198
+#EXTINF:0,Fox Sport 6 HD backup
+http://smart-hdip.com:6204/soran/soran/11197
+#EXTINF:0,FOX Sports 1 HD Backup2
+http://smart-hdip.com:6204/soran/soran/13549
+#EXTINF:0,FOX Sports 2 HD Backup2
+http://smart-hdip.com:6204/soran/soran/13548
+#EXTINF:0,FOX Sports 3 HD Backup2
+http://smart-hdip.com:6204/soran/soran/13547
+#EXTINF:0,FOX Sports 4 HD Backup2
+http://smart-hdip.com:6204/soran/soran/13546
+#EXTINF:0,FOX Sports 5 HD Backup2
+http://smart-hdip.com:6204/soran/soran/13545
+#EXTINF:0,FOX Sports 6 HD Backup2
+http://smart-hdip.com:6204/soran/soran/13544
