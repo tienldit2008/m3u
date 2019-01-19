@@ -1,131 +1,135 @@
 #EXTM3U
-#EXTINF:0,Bein Sports
-http://smart-hdip.com:6204/soran/soran/10646
-#EXTINF:0,TSN 1 HD
-http://smart-hdip.com:6204/soran/soran/10636
-#EXTINF:0,TSN 2 HD
-http://smart-hdip.com:6204/soran/soran/10635
-#EXTINF:0,TSN 3 HD
-http://smart-hdip.com:6204/soran/soran/10634
-#EXTINF:0,TSN 4 HD
-http://smart-hdip.com:6204/soran/soran/10633
-#EXTINF:0,TSN 5 HD
-http://smart-hdip.com:6204/soran/soran/10632
-#EXTINF:0,PAC-12 Arizona HD
-http://smart-hdip.com:6204/soran/soran/10642
-#EXTINF:0,PAC-12 Bay Area HD
-http://smart-hdip.com:6204/soran/soran/10641
-#EXTINF:0,PAC-12 Los Angeles HD
-http://smart-hdip.com:6204/soran/soran/10640
-#EXTINF:0,PAC-12 Mountain HD-
-http://smart-hdip.com:6204/soran/soran/10639
-#EXTINF:0,PAC-12 Oregon HD
-http://smart-hdip.com:6204/soran/soran/10638
-#EXTINF:0,A&E  US
-http://smart-hdip.com:6204/soran/soran/10441
-#EXTINF:0,ABC US
-http://smart-hdip.com:6204/soran/soran/10440
-#EXTINF:0,CNBC US
-http://smart-hdip.com:6204/soran/soran/10429
-#EXTINF:0,CNN US HD
-http://smart-hdip.com:6204/soran/soran/10428
-#EXTINF:0,Starz HD US
-http://smart-hdip.com:6204/soran/soran/10390
-#EXTINF:0,SyFy HD USA
-http://smart-hdip.com:6204/soran/soran/10387
-#EXTINF:0,TBS USA
-http://smart-hdip.com:6204/soran/soran/10386
-#EXTINF:0,TNT US
-http://smart-hdip.com:6204/soran/soran/10384
-#EXTINF:0,History HD US
-http://smart-hdip.com:6204/soran/soran/10405
-#EXTINF:0,Nat Geo Wild HD US
-http://smart-hdip.com:6204/soran/soran/10402
-#EXTINF:0,NatGeo HD USA
-http://smart-hdip.com:6204/soran/soran/10401
-#EXTINF:0,Discovery Channel US HD
-http://smart-hdip.com:6204/soran/soran/10424
-#EXTINF:0,Discovery Science US HD
-http://smart-hdip.com:6204/soran/soran/10421
-#EXTINF:0,Bloomberg US
-http://smart-hdip.com:6204/soran/soran/10436
-#EXTINF:0,Cartoon Network US
-http://smart-hdip.com:6204/soran/soran/10434
-#EXTINF:0,Disney Channel US
-http://smart-hdip.com:6204/soran/soran/10420
-#EXTINF:0,Disney Junior US
-http://smart-hdip.com:6204/soran/soran/10419
-#EXTINF:0,Nick Junior US
-http://smart-hdip.com:6204/soran/soran/10397
-#EXTINF:0,Nick Toons US
-http://smart-hdip.com:6204/soran/soran/10396
-#EXTINF:0,CBS Sport HD
-http://smart-hdip.com:6204/soran/soran/10433
-#EXTINF:0,CBS US
-http://smart-hdip.com:6204/soran/soran/10432
-#EXTINF:0,HBO Comedy HD
-http://smart-hdip.com:6204/soran/soran/10411
+#EXTINF:0,A&E HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6605
+#EXTINF:0,ABC HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6604
+#EXTINF:0,ABC NEWS HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6603
+#EXTINF:0,Amazing Discoveries HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6602
+#EXTINF:0,AMC HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6601
+#EXTINF:0,ANIMAL PLANET HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6600
+#EXTINF:0,BRAVO HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6599
+#EXTINF:0,BYU TV
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6598
+#EXTINF:0,C-Span 1
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6597
+#EXTINF:0,C-Span 2
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6596
+#EXTINF:0,C-Span 3
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6595
+#EXTINF:0,CA | Sportsnet 360 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6594
+#EXTINF:0,CA | TSN 1
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6593
+#EXTINF:0,CA | TSN 2
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6592
+#EXTINF:0,CA | TSN 3
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6591
+#EXTINF:0,CA | TSN 4 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6590
+#EXTINF:0,CA | TSN 5
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6589
+#EXTINF:0,CARTOON NETWORK
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6588
+#EXTINF:0,CBS
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6587
+#EXTINF:0,CBSN HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6586
+#EXTINF:0,CNN HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6585
+#EXTINF:0,COMEDY CENTRAL HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6584
+#EXTINF:0,CW HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6583
+#EXTINF:0,DISCCOVERY HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6582
+#EXTINF:0,Discovery Velocity
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6581
+#EXTINF:0,DW
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6580
+#EXTINF:0,ESPN
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6579
+#EXTINF:0,ESPN 2
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6578
+#EXTINF:0,ESPN HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6577
+#EXTINF:0,Fight HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6576
+#EXTINF:0,FIGHT SPORT
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6575
+#EXTINF:0,FOX 43
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6574
+#EXTINF:0,FOX NEWS HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6573
+#EXTINF:0,Fox Sports 1 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6572
+#EXTINF:0,Fox Sports 2 HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6571
+#EXTINF:0,HBO Comedy
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6570
+#EXTINF:0,HBO East
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6569
+#EXTINF:0,HBO HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6568
 #EXTINF:0,HBO Signature
-http://smart-hdip.com:6204/soran/soran/10410
-#EXTINF:0,HBO US HD
-http://smart-hdip.com:6204/soran/soran/10409
-#EXTINF:0,HBO ZONE HD
-http://smart-hdip.com:6204/soran/soran/10408
-#EXTINF:0,Animal Planet HD
-http://smart-hdip.com:6204/soran/soran/10439
-#EXTINF:0,BET HD
-http://smart-hdip.com:6204/soran/soran/10645
-#EXTINF:0,Bravo HD
-http://smart-hdip.com:6204/soran/soran/10435
-#EXTINF:0,CINEMAX HD
-http://smart-hdip.com:6204/soran/soran/10431
-#EXTINF:0,DISCOVERY FAMILY
-http://smart-hdip.com:6204/soran/soran/10423
-#EXTINF:0,Discovery Investigation
-http://smart-hdip.com:6204/soran/soran/10422
-#EXTINF:0,Fox sport 1 HD
-http://smart-hdip.com:6204/soran/soran/10416
-#EXTINF:0,Fox sport 2 HD
-http://smart-hdip.com:6204/soran/soran/10415
-#EXTINF:0,FX HD
-http://smart-hdip.com:6204/soran/soran/10414
-#EXTINF:0,GSN HD
-http://smart-hdip.com:6204/soran/soran/10412
-#EXTINF:0,HGTV HD
-http://smart-hdip.com:6204/soran/soran/10407
-#EXTINF:0,History
-http://smart-hdip.com:6204/soran/soran/10406
-#EXTINF:0,Life Time HD
-http://smart-hdip.com:6204/soran/soran/10404
-#EXTINF:0,NBA HD
-http://smart-hdip.com:6204/soran/soran/10400
-#EXTINF:0,NBC EAST HD
-http://smart-hdip.com:6204/soran/soran/10399
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6567
+#EXTINF:0,HBO Zone
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6566
+#EXTINF:0,HISTORY HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6565
+#EXTINF:0,Investigation Discovery
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6564
+#EXTINF:0,MBL HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6563
+#EXTINF:0,MLB Network
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6562
+#EXTINF:0,MSNBC HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6561
+#EXTINF:0,NBA SD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6560
+#EXTINF:0,NBA TV HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6559
+#EXTINF:0,NBC Golf
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6558
 #EXTINF:0,NBCSN HD
-http://smart-hdip.com:6204/soran/soran/10398
-#EXTINF:0,NEWS 12
-http://smart-hdip.com:6204/soran/soran/10643
-#EXTINF:0,OWN HD
-http://smart-hdip.com:6204/soran/soran/10395
-#EXTINF:0,SHOWTIME FAMILY ZONE
-http://smart-hdip.com:6204/soran/soran/10393
-#EXTINF:0,SLICE HD
-http://smart-hdip.com:6204/soran/soran/10392
-#EXTINF:0,Syfy HD
-http://smart-hdip.com:6204/soran/soran/10388
-#EXTINF:0,STARZ KIDS & Family HD
-http://smart-hdip.com:6204/soran/soran/10389
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6557
+#EXTINF:0,Network (US)
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6556
+#EXTINF:0,NFL Network HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6555
+#EXTINF:0,NICKELODEN HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6554
+#EXTINF:0,PAC-12 Arizona
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6553
+#EXTINF:0,PAC-12 Bay Area
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6552
+#EXTINF:0,PAC-12 Los Angeles
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6551
+#EXTINF:0,PAC-12 Oregon
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6550
+#EXTINF:0,PAC-12 Washington
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6549
+#EXTINF:0,Showtime 2
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6548
+#EXTINF:0,SHOWTIME HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6547
+#EXTINF:0,Showtime West
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6546
+#EXTINF:0,Starz Cinema
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6545
+#EXTINF:0,Starz Comedy
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6544
+#EXTINF:0,TBS HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6543
+#EXTINF:0,Tennis Channel HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6542
 #EXTINF:0,TLC HD
-http://smart-hdip.com:6204/soran/soran/10385
-#EXTINF:0,TRU TV HD
-http://smart-hdip.com:6204/soran/soran/10383
-#EXTINF:0,TV Land HD
-http://smart-hdip.com:6204/soran/soran/10382
-#EXTINF:0,Viceland TV
-http://smart-hdip.com:6204/soran/soran/10379
-#EXTINF:0,WE HD
-http://smart-hdip.com:6204/soran/soran/10378
-#EXTINF:0,Weather channel
-http://smart-hdip.com:6204/soran/soran/10377
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6541
+#EXTINF:0,TNT HD
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6540
 #EXTINF:0,WWE HD
-http://smart-hdip.com:6204/soran/soran/10376
+http://servico-hd-portugal.com:8000/HUGO.LAMAROSA/ZgFKGOu0GX/6539
