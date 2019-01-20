@@ -1,73 +1,151 @@
 #EXTM3U
-#EXTINF:-1,#0 FHD
-http://viphdpro.eu:8080/hakanbaba/babahakan/43121
-#EXTINF:-1,#0 HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/43126
-#EXTINF:-1,24 Horas
-http://viphdpro.eu:8080/hakanbaba/babahakan/43120
-#EXTINF:-1,40 TV
-http://viphdpro.eu:8080/hakanbaba/babahakan/43119
-#EXTINF:-1,A&E
-http://viphdpro.eu:8080/hakanbaba/babahakan/43127
-#EXTINF:-1,AMC
-http://viphdpro.eu:8080/hakanbaba/babahakan/43128
-#EXTINF:-1,Antena 3 FHD
-http://viphdpro.eu:8080/hakanbaba/babahakan/43118
-#EXTINF:-1,ARAGON TV
-http://viphdpro.eu:8080/hakanbaba/babahakan/43195
-#EXTINF:-1,Atreseries FHD
-http://viphdpro.eu:8080/hakanbaba/babahakan/43117
-#EXTINF:-1,AXN FHD
-http://viphdpro.eu:8080/hakanbaba/babahakan/43116
-#EXTINF:-1,AXN HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/43129
-#EXTINF:-1,AXN White FHD
-http://viphdpro.eu:8080/hakanbaba/babahakan/43115
-#EXTINF:-1,AXN WHITE HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/43152
-#EXTINF:-1,BABY TV
-http://viphdpro.eu:8080/hakanbaba/babahakan/43114
-#EXTINF:-1,MTV ESPANA
-http://viphdpro.eu:8080/hakanbaba/babahakan/43067
-#EXTINF:-1,NAT GEO WILD HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/43179
-#EXTINF:-1,National Geographic FHD
-http://viphdpro.eu:8080/hakanbaba/babahakan/43066
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/43180
-#EXTINF:-1,National Geographic Wild FHD
-http://viphdpro.eu:8080/hakanbaba/babahakan/43065
-#EXTINF:-1,NEOX
-http://viphdpro.eu:8080/hakanbaba/babahakan/43145
-#EXTINF:-1,NICK Jr
-http://viphdpro.eu:8080/hakanbaba/babahakan/43181
-#EXTINF:-1,NICKELODEON HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/43146
-#EXTINF:-1,Nonstop People
-http://viphdpro.eu:8080/hakanbaba/babahakan/43064
-#EXTINF:-1,NOVA
-http://viphdpro.eu:8080/hakanbaba/babahakan/43147
-#EXTINF:-1,Odisea
-http://viphdpro.eu:8080/hakanbaba/babahakan/43063
-#EXTINF:-1,PANDA
-http://viphdpro.eu:8080/hakanbaba/babahakan/43148
-#EXTINF:-1,Paramount
-http://viphdpro.eu:8080/hakanbaba/babahakan/43062
-#EXTINF:-1,TCM FHD
-http://viphdpro.eu:8080/hakanbaba/babahakan/43048
-#EXTINF:-1,TCM HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/43182
-#EXTINF:-1,TNT
-http://viphdpro.eu:8080/hakanbaba/babahakan/43150
-#EXTINF:-1,TNT FHD
-http://viphdpro.eu:8080/hakanbaba/babahakan/43046
-#EXTINF:-1,Toros Tv FHD
-http://viphdpro.eu:8080/hakanbaba/babahakan/43045
-#EXTINF:-1,Viajar FHD
-http://viphdpro.eu:8080/hakanbaba/babahakan/43044
-#EXTINF:-1,VIAJAR HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/43185
-#EXTINF:-1,XTRM
-http://viphdpro.eu:8080/hakanbaba/babahakan/43043
-#EXTINF:-1,ES:ANTENA 3 HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/43151
+#EXTINF:0,#0
+http://m-iptv.net:6204/ali010/ali010/10021
+#EXTINF:0,24 HORAS
+http://m-iptv.net:6204/ali010/ali010/10020
+#EXTINF:0,A&E
+http://m-iptv.net:6204/ali010/ali010/10019
+#EXTINF:0,AMC
+http://m-iptv.net:6204/ali010/ali010/10018
+#EXTINF:0,ANTENA 3
+http://m-iptv.net:6204/ali010/ali010/10017
+#EXTINF:0,AXN
+http://m-iptv.net:6204/ali010/ali010/10016
+#EXTINF:0,AXN WHITE
+http://m-iptv.net:6204/ali010/ali010/10015
+#EXTINF:0,BARCA TV
+http://m-iptv.net:6204/ali010/ali010/10014
+#EXTINF:0,BEIN LALIGA
+http://m-iptv.net:6204/ali010/ali010/10013
+#EXTINF:0,BEIN SPORTS
+http://m-iptv.net:6204/ali010/ali010/10012
+#EXTINF:0,BOING
+http://m-iptv.net:6204/ali010/ali010/10011
+#EXTINF:0,CALLE 13
+http://m-iptv.net:6204/ali010/ali010/10010
+#EXTINF:0,CANAL COCINA
+http://m-iptv.net:6204/ali010/ali010/10009
+#EXTINF:0,CANAL DECASA
+http://m-iptv.net:6204/ali010/ali010/10008
+#EXTINF:0,CANAL ODISEA
+http://m-iptv.net:6204/ali010/ali010/10007
+#EXTINF:0,CAZA Y PESCA
+http://m-iptv.net:6204/ali010/ali010/10006
+#EXTINF:0,CLAN TVE
+http://m-iptv.net:6204/ali010/ali010/10005
+#EXTINF:0,COMEDY CENTRAL
+http://m-iptv.net:6204/ali010/ali010/10004
+#EXTINF:0,COSMO
+http://m-iptv.net:6204/ali010/ali010/10003
+#EXTINF:0,CUATRO
+http://m-iptv.net:6204/ali010/ali010/10001
+#EXTINF:0,DISCOVERY
+http://m-iptv.net:6204/ali010/ali010/10000
+#EXTINF:0,DISNEY CHANNEL HD
+http://m-iptv.net:6204/ali010/ali010/9999
+#EXTINF:0,DISNEY JR
+http://m-iptv.net:6204/ali010/ali010/9998
+#EXTINF:0,DISNEY XD
+http://m-iptv.net:6204/ali010/ali010/9997
+#EXTINF:0,DIVINITY
+http://m-iptv.net:6204/ali010/ali010/9996
+#EXTINF:0,ENERGY
+http://m-iptv.net:6204/ali010/ali010/9995
+#EXTINF:0,EUROSPORT 1
+http://m-iptv.net:6204/ali010/ali010/9994
+#EXTINF:0,EUROSPORT 2
+http://m-iptv.net:6204/ali010/ali010/9993
+#EXTINF:0,FOX
+http://m-iptv.net:6204/ali010/ali010/9992
+#EXTINF:0,FOX LIFE
+http://m-iptv.net:6204/ali010/ali010/9991
+#EXTINF:0,GOL TV
+http://m-iptv.net:6204/ali010/ali010/9990
+#EXTINF:0,HISTORIA
+http://m-iptv.net:6204/ali010/ali010/9989
+#EXTINF:0,HOLLYWOOD
+http://m-iptv.net:6204/ali010/ali010/9988
+#EXTINF:0,LA 1
+http://m-iptv.net:6204/ali010/ali010/9986
+#EXTINF:0,LA 2
+http://m-iptv.net:6204/ali010/ali010/9985
+#EXTINF:0,LA SEXTA
+http://m-iptv.net:6204/ali010/ali010/9984
+#EXTINF:0,LALIGA TV BAR
+http://m-iptv.net:6204/ali010/ali010/9983
+#EXTINF:0,M.ACCION
+http://m-iptv.net:6204/ali010/ali010/9982
+#EXTINF:0,M.CINE ESPANOL
+http://m-iptv.net:6204/ali010/ali010/9981
+#EXTINF:0,M.COMEDIA
+http://m-iptv.net:6204/ali010/ali010/9980
+#EXTINF:0,M.DCINE
+http://m-iptv.net:6204/ali010/ali010/9979
+#EXTINF:0,M.DEP 1
+http://m-iptv.net:6204/ali010/ali010/9978
+#EXTINF:0,M.DEP 2
+http://m-iptv.net:6204/ali010/ali010/9977
+#EXTINF:0,M.ESTRENOS
+http://m-iptv.net:6204/ali010/ali010/9976
+#EXTINF:0,M.FORMULA 1
+http://m-iptv.net:6204/ali010/ali010/9975
+#EXTINF:0,M.FUTBOL
+http://m-iptv.net:6204/ali010/ali010/9974
+#EXTINF:0,M.GOLF
+http://m-iptv.net:6204/ali010/ali010/9973
+#EXTINF:0,M.MOTOGP
+http://m-iptv.net:6204/ali010/ali010/9972
+#EXTINF:0,M.SERIES
+http://m-iptv.net:6204/ali010/ali010/9971
+#EXTINF:0,M.SERIESXTRA
+http://m-iptv.net:6204/ali010/ali010/9970
+#EXTINF:0,M.XTRA
+http://m-iptv.net:6204/ali010/ali010/9969
+#EXTINF:0,NAT GEO WILD
+http://m-iptv.net:6204/ali010/ali010/9967
+#EXTINF:0,NATIONAL GEOGRAPHIC
+http://m-iptv.net:6204/ali010/ali010/9966
+#EXTINF:0,NEOX
+http://m-iptv.net:6204/ali010/ali010/9965
+#EXTINF:0,NICKELODEON
+http://m-iptv.net:6204/ali010/ali010/9964
+#EXTINF:0,NOVA
+http://m-iptv.net:6204/ali010/ali010/9962
+#EXTINF:0,PARAMOUNT
+http://m-iptv.net:6204/ali010/ali010/9961
+#EXTINF:0,Real Madrid TV
+http://m-iptv.net:6204/ali010/ali010/9960
+#EXTINF:0,SUNDANCE
+http://m-iptv.net:6204/ali010/ali010/9959
+#EXTINF:0,SYFY
+http://m-iptv.net:6204/ali010/ali010/9958
+#EXTINF:0,TCM
+http://m-iptv.net:6204/ali010/ali010/9957
+#EXTINF:0,TELECINCO
+http://m-iptv.net:6204/ali010/ali010/9956
+#EXTINF:0,TELEDEPORTE
+http://m-iptv.net:6204/ali010/ali010/9955
+#EXTINF:0,TNT
+http://m-iptv.net:6204/ali010/ali010/9954
+#EXTINF:0,TOROS TV
+http://m-iptv.net:6204/ali010/ali010/9953
+#EXTINF:0,Sp- Taquilla 1
+http://m-iptv.net:6204/ali010/ali010/8957
+#EXTINF:0,Sp- Taquilla 2
+http://m-iptv.net:6204/ali010/ali010/8955
+#EXTINF:0,Sp- Taquilla 3
+http://m-iptv.net:6204/ali010/ali010/8954
+#EXTINF:0,Sp- Taquilla 4
+http://m-iptv.net:6204/ali010/ali010/8953
+#EXTINF:0,Sp- Taquilla 5
+http://m-iptv.net:6204/ali010/ali010/8952
+#EXTINF:0,Sp- Taquilla 6
+http://m-iptv.net:6204/ali010/ali010/8951
+#EXTINF:0,Sp- Taquilla 7
+http://m-iptv.net:6204/ali010/ali010/8950
+#EXTINF:0,Sp- Taquilla 8
+http://m-iptv.net:6204/ali010/ali010/8949
+#EXTINF:0,Sp- Taquilla 9
+http://m-iptv.net:6204/ali010/ali010/8948
+#EXTINF:0,Sp- Taquilla 10
+http://m-iptv.net:6204/ali010/ali010/8956
