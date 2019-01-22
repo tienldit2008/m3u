@@ -1,44 +1,170 @@
-#EXTINF:-1,Antena 1
-http://m-iptv.net:6204/ali010/ali010/9055
-#EXTINF:-1,Antena 3
-http://m-iptv.net:6204/ali010/ali010/9054
-#EXTINF:-1,Antena Stars
-http://m-iptv.net:6204/ali010/ali010/9053
-#EXTINF:-1,Kanal D
-http://m-iptv.net:6204/ali010/ali010/9044
-#EXTINF:-1,Acasa TV
-http://m-iptv.net:6204/ali010/ali010/5904
-#EXTINF:-1,Acasa Gold
-http://m-iptv.net:6204/ali010/ali010/9056
-#EXTINF:-1,B1 TV
-http://m-iptv.net:6204/ali010/ali010/5798
-#EXTINF:-1,Romania TV
-http://m-iptv.net:6204/ali010/ali010/9033
-#EXTINF:-1,Prima TV
-http://m-iptv.net:6204/ali010/ali010/9038
-#EXTINF:-1,Pro TV
-http://m-iptv.net:6204/ali010/ali010/9036
-#EXTINF:-1,Pro TV International
-http://m-iptv.net:6204/ali010/ali010/9035
-#EXTINF:-1,Realitatea TV
-http://m-iptv.net:6204/ali010/ali010/9034
-#EXTINF:-1,Na?ional TV
-http://m-iptv.net:6204/ali010/ali010/9041
-#EXTINF:-1,CBS Reality
-http://m-iptv.net:6204/ali010/ali010/9051
-#EXTINF:-1,Digi 24
-http://m-iptv.net:6204/ali010/ali010/9050
+#EXTINF:-1,DIGI_WORLD
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4837
+#EXTINF:-1,Digi_World(b)
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4836
+#EXTINF:-1,DIGI24_HD
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4835
+#EXTINF:-1,DISNEY_CHANNEL
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4834
+#EXTINF:-1,Disney_Channel(b)
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4833
+#EXTINF:-1,DISNEY_JUNIOR
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4832
+#EXTINF:-1,Disney_Junior(b)
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4831
+#EXTINF:-1,ETNO_TV
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4830
+#EXTINF:-1,Film_Cafe
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4829
+#EXTINF:-1,Happy_Channel
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4828
 #EXTINF:-1,HBO
-http://m-iptv.net:6204/ali010/ali010/9045
-#EXTINF:-1,Kiss TV
-http://m-iptv.net:6204/ali010/ali010/9043
-#EXTINF:-1,Taraf TV
-http://m-iptv.net:6204/ali010/ali010/9032
-#EXTINF:-1,1 Music Channel
-http://m-iptv.net:6204/ali010/ali010/9057
-#EXTINF:-1,National Geographic Wild
-http://m-iptv.net:6204/ali010/ali010/9039
-#EXTINF:-1,Dolce Sport 1 HD
-http://m-iptv.net:6204/ali010/ali010/9049
-#EXTINF:-1,Dolce Sport 2 HD
-http://m-iptv.net:6204/ali010/ali010/9048
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4827
+#EXTINF:-1,HBO_2
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4825
+#EXTINF:-1,HBO_2(b)
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4824
+#EXTINF:-1,HBO_3
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4823
+#EXTINF:-1,HBO(2)
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4826
+#EXTINF:-1,History_Channel
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4822
+#EXTINF:-1,HISTORY_CHANNEL(b)
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4821
+#EXTINF:-1,KANAL_D
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4820
+#EXTINF:-1,Kanal_D(b)
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4819
+#EXTINF:-1,Kiss_Tv
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4818
+#EXTINF:-1,Look_TV
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4817
+#EXTINF:-1,LOOK_TV(b)
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4816
+#EXTINF:-1,MEGAMAX
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4815
+#EXTINF:-1,Minimax
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4814
+#EXTINF:-1,MINIMAX(b)
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4813
+#EXTINF:-1,Music_Channel
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4812
+#EXTINF:-1,Digi_Life(b)
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4838
+#EXTINF:-1,NAT_GEO_WILD(b)
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4810
+#EXTINF:-1,National_24_Plus
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4809
+#EXTINF:-1,National_Geographic
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4808
+#EXTINF:-1,NATIONAL_GEOGRAPHIC(b)
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4807
+#EXTINF:-1,National_TV
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4806
+#EXTINF:-1,NATIONAL_TV(b)
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4805
+#EXTINF:-1,NeptunTV
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4804
+#EXTINF:-1,Nickelodeon
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4803
+#EXTINF:-1,NICKELODEON(b)
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4802
+#EXTINF:-1,Prima_TV
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4801
+#EXTINF:-1,PRIMA_TV(b)
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4800
+#EXTINF:-1,Pro_TV
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4799
+#EXTINF:-1,PRO_TV(b)
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4798
+#EXTINF:-1,PROCINEMA
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4797
+#EXTINF:-1,Realitatea_Tv
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4796
+#EXTINF:-1,REALITATEA_TV(b)
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4795
+#EXTINF:-1,Romania_Tv
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4794
+#EXTINF:-1,ROMANIA_TV(b)
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4793
+#EXTINF:-1,Taraf_TV_HD
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4792
+#EXTINF:-1,TARAF_TV_HD(b)
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4791
+#EXTINF:-1,Travel_Mix
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4790
+#EXTINF:-1,TV_1000
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4789
+#EXTINF:-1,TV_1000(b)
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4788
+#EXTINF:-1,TV_Paprika
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4787
+#EXTINF:-1,TVR_1
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4786
+#EXTINF:-1,TVR_1(b)
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4785
+#EXTINF:-1,TVR_2
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4784
+#EXTINF:-1,TVR_2(b)
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4783
+#EXTINF:-1,U_TV
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4782
+#EXTINF:-1,VIASAT_HISTORY
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4781
+#EXTINF:-1,VIASAT_NATURE
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4780
+#EXTINF:-1,DIGI_LIFE
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4839
+#EXTINF:-1,DIGI_FILM(b)
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4840
+#EXTINF:-1,DIGI_FILM
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4841
+#EXTINF:-1,DIGI_ANIMAL_WORLD(b)
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4842
+#EXTINF:-1,Digi_Animal_World
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4843
+#EXTINF:-1,Digi_24_HD
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4844
+#EXTINF:-1,Digi Sport 4
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4860
+#EXTINF:-1,Digi Sport 3
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4861
+#EXTINF:-1,Digi Sport 2
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4862
+#EXTINF:-1,Digi Sport 1
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4863
+#EXTINF:-1,Telekom Sport 1
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/5584
+#EXTINF:-1,CINEMAX_2
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4845
+#EXTINF:-1,CINEMAX
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4846
+#EXTINF:-1,B1_TV(b)
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4847
+#EXTINF:-1,B1_Tv
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4848
+#EXTINF:-1,AXN_WHITE
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4849
+#EXTINF:-1,AXN
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4850
+#EXTINF:-1,Nat_Geo_Wild
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4811
+#EXTINF:-1,Antena_Stars
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4851
+#EXTINF:-1,ANTENA_3_HD(b)
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4852
+#EXTINF:-1,Antena_3
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4853
+#EXTINF:-1,ANTENA_1(b)
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4854
+#EXTINF:-1,Antena_1
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4855
+#EXTINF:-1,Acasa_Tv
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4856
+#EXTINF:-1,Acasa_Gold_TV(b)
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4857
+#EXTINF:-1,ACASA_GOLD
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4858
+#EXTINF:-1,1_Music_Channel
+http://camerta.com:8000/SFCdtoZXOb/tvZVatJk0L/4859
