@@ -1,3185 +1,1115 @@
 #EXTM3U
-#EXTINF:-1,ABC US
-http://linux-app.tv:6204/robert/123/10440
-#EXTINF:-1,CNBC US
-http://linux-app.tv:6204/robert/123/10429
-#EXTINF:-1,CNN US HD
-http://linux-app.tv:6204/robert/123/10428
-#EXTINF:-1,MTV HD US
-http://linux-app.tv:6204/robert/123/10403
-#EXTINF:-1,Starz HD US
-http://linux-app.tv:6204/robert/123/10390
-#EXTINF:-1,SyFy HD USA
-http://linux-app.tv:6204/robert/123/10387
-#EXTINF:-1,TBS USA
-http://linux-app.tv:6204/robert/123/10386
-#EXTINF:-1,TNT US
-http://linux-app.tv:6204/robert/123/10384
-#EXTINF:-1,VH1 HD US
-http://linux-app.tv:6204/robert/123/10380
-#EXTINF:-1,History HD US
-http://linux-app.tv:6204/robert/123/10405
-#EXTINF:-1,Nat Geo Wild HD US
-http://linux-app.tv:6204/robert/123/10402
-#EXTINF:-1,NatGeo HD USA
-http://linux-app.tv:6204/robert/123/10401
-#EXTINF:-1,Discovery Channel US HD
-http://linux-app.tv:6204/robert/123/10424
-#EXTINF:-1,Discovery Science US HD
-http://linux-app.tv:6204/robert/123/10421
-#EXTINF:-1,Bloomberg US
-http://linux-app.tv:6204/robert/123/10436
-#EXTINF:-1,Cartoon Network US
-http://linux-app.tv:6204/robert/123/10434
-#EXTINF:-1,Disney Channel US
-http://linux-app.tv:6204/robert/123/10420
-#EXTINF:-1,Disney Junior US
-http://linux-app.tv:6204/robert/123/10419
-#EXTINF:-1,Nick Junior US
-http://linux-app.tv:6204/robert/123/10397
-#EXTINF:-1,Nick Toons US
-http://linux-app.tv:6204/robert/123/10396
-#EXTINF:-1,CBS Sport HD
-http://linux-app.tv:6204/robert/123/10433
-#EXTINF:-1,CBS US
-http://linux-app.tv:6204/robert/123/10432
-#EXTINF:-1,HBO Comedy HD
-http://linux-app.tv:6204/robert/123/10411
-#EXTINF:-1,HBO Signature
-http://linux-app.tv:6204/robert/123/10410
-#EXTINF:-1,HBO US HD
-http://linux-app.tv:6204/robert/123/10409
-#EXTINF:-1,HBO ZONE HD
-http://linux-app.tv:6204/robert/123/10408
-#EXTINF:-1,Animal Planet HD
-http://linux-app.tv:6204/robert/123/10439
-#EXTINF:-1,BET HD
-http://linux-app.tv:6204/robert/123/10645
-#EXTINF:-1,Bravo HD
-http://linux-app.tv:6204/robert/123/10435
-#EXTINF:-1,CINEMAX HD
-http://linux-app.tv:6204/robert/123/10431
-#EXTINF:-1,DISCOVERY FAMILY
-http://linux-app.tv:6204/robert/123/10423
-#EXTINF:-1,Discovery Investigation
-http://linux-app.tv:6204/robert/123/10422
-#EXTINF:-1,Fox sport 1 HD
-http://linux-app.tv:6204/robert/123/10416
-#EXTINF:-1,Fox sport 2 HD
-http://linux-app.tv:6204/robert/123/10415
-#EXTINF:-1,FX HD
-http://linux-app.tv:6204/robert/123/10414
-#EXTINF:-1,GSN HD
-http://linux-app.tv:6204/robert/123/10412
-#EXTINF:-1,HGTV HD
-http://linux-app.tv:6204/robert/123/10407
-#EXTINF:-1,History
-http://linux-app.tv:6204/robert/123/10406
-#EXTINF:-1,Life Time HD
-http://linux-app.tv:6204/robert/123/10404
-#EXTINF:-1,NBA HD
-http://linux-app.tv:6204/robert/123/10400
-#EXTINF:-1,NBC EAST HD
-http://linux-app.tv:6204/robert/123/10399
-#EXTINF:-1,NBCSN HD
-http://linux-app.tv:6204/robert/123/10398
-#EXTINF:-1,NEWS 12
-http://linux-app.tv:6204/robert/123/10643
-#EXTINF:-1,OWN HD
-http://linux-app.tv:6204/robert/123/10395
-#EXTINF:-1,SHOWTIME FAMILY ZONE
-http://linux-app.tv:6204/robert/123/10393
-#EXTINF:-1,SLICE HD
-http://linux-app.tv:6204/robert/123/10392
-#EXTINF:-1,Syfy HD
-http://linux-app.tv:6204/robert/123/10388
-#EXTINF:-1,STARZ KIDS & Family HD
-http://linux-app.tv:6204/robert/123/10389
-#EXTINF:-1,TLC HD
-http://linux-app.tv:6204/robert/123/10385
-#EXTINF:-1,TRU TV HD
-http://linux-app.tv:6204/robert/123/10383
-#EXTINF:-1,TV Land HD
-http://linux-app.tv:6204/robert/123/10382
-#EXTINF:-1,Viceland TV
-http://linux-app.tv:6204/robert/123/10379
-#EXTINF:-1,WE HD
-http://linux-app.tv:6204/robert/123/10378
-#EXTINF:-1,Weather channel
-http://linux-app.tv:6204/robert/123/10377
-#EXTINF:-1,WWE HD
-http://linux-app.tv:6204/robert/123/10376
-#EXTINF:-1,Sky News HD
-http://linux-app.tv:6204/robert/123/8533
-#EXTINF:-1,Sky Sports Main Event HD
-http://linux-app.tv:6204/robert/123/8517
-#EXTINF:-1,Sky Sports Cricket HD
-http://linux-app.tv:6204/robert/123/8516
-#EXTINF:-1,Sky Sports Action HD
-http://linux-app.tv:6204/robert/123/8515
-#EXTINF:-1,Sky Sports Golf HD
-http://linux-app.tv:6204/robert/123/8514
-#EXTINF:-1,Sky Sports Premier League HD
-http://linux-app.tv:6204/robert/123/8513
-#EXTINF:-1,Sky Sports Arena HD
-http://linux-app.tv:6204/robert/123/9059
-#EXTINF:-1,Sky Sport Football
-http://linux-app.tv:6204/robert/123/8523
-#EXTINF:-1,Sky Sports MixHD
-http://linux-app.tv:6204/robert/123/8511
-#EXTINF:-1,Sky BoxNation
-http://linux-app.tv:6204/robert/123/8583
-#EXTINF:-1,Sky Sports F1 HD
-http://linux-app.tv:6204/robert/123/8512
-#EXTINF:-1,Sky Sports F1 HD Backup S
-http://linux-app.tv:6204/robert/123/11099
-#EXTINF:-1,Sky BT Sport 1 HD
-http://linux-app.tv:6204/robert/123/8582
-#EXTINF:-1,Sky BT Sport 2 HD
-http://linux-app.tv:6204/robert/123/8580
-#EXTINF:-1,Sky BT Sport 3 HD
-http://linux-app.tv:6204/robert/123/10166
-#EXTINF:-1,Sky BT Sports Extra 1
-http://linux-app.tv:6204/robert/123/8581
-#EXTINF:-1,Sky BT Sports Extra 2
-http://linux-app.tv:6204/robert/123/8579
-#EXTINF:-1,Sky BT Sports Extra 3
-http://linux-app.tv:6204/robert/123/8578
-#EXTINF:-1,Sky BT Sport ESPN HD
-http://linux-app.tv:6204/robert/123/8577
-#EXTINF:-1,Sky Eurosport 1 HD
-http://linux-app.tv:6204/robert/123/8560
-#EXTINF:-1,Sky Eurosport 2 HD
-http://linux-app.tv:6204/robert/123/8559
-#EXTINF:-1,Sky Eir Sport 1
-http://linux-app.tv:6204/robert/123/11118
-#EXTINF:-1,Sky Eir Sport 2
-http://linux-app.tv:6204/robert/123/11117
-#EXTINF:-1,Sky YourTV HD
-http://linux-app.tv:6204/robert/123/11114
-#EXTINF:-1,Sky MUTV
-http://linux-app.tv:6204/robert/123/8536
-#EXTINF:-1,Sky Chelsea TV HD
-http://linux-app.tv:6204/robert/123/8572
-#EXTINF:-1,Sky Liverpool FC TV HD
-http://linux-app.tv:6204/robert/123/8548
-#EXTINF:-1,Sky BBC News
-http://linux-app.tv:6204/robert/123/8589
-#EXTINF:-1,Sky BBC One HD
-http://linux-app.tv:6204/robert/123/8587
-#EXTINF:-1,Sky BBC Two HD
-http://linux-app.tv:6204/robert/123/8585
-#EXTINF:-1,Sky BBC Three HD
-http://linux-app.tv:6204/robert/123/8586
-#EXTINF:-1,Sky BBC Four HD
-http://linux-app.tv:6204/robert/123/8588
-#EXTINF:-1,Sky More 4 HD
-http://linux-app.tv:6204/robert/123/8547
-#EXTINF:-1,Sky Sports Box Office HD
-http://linux-app.tv:6204/robert/123/11115
-#EXTINF:-1,Sky Movies Action HD
-http://linux-app.tv:6204/robert/123/8545
-#EXTINF:-1,Sky Movies Drama HD
-http://linux-app.tv:6204/robert/123/8541
-#EXTINF:-1,Sky Movies Family HD
-http://linux-app.tv:6204/robert/123/8540
-#EXTINF:-1,Sky Movies Premiere HD
-http://linux-app.tv:6204/robert/123/8538
-#EXTINF:-1,Sky Movies Select HD
-http://linux-app.tv:6204/robert/123/8537
-#EXTINF:-1,Sky Movies 24
-http://linux-app.tv:6204/robert/123/8546
-#EXTINF:-1,Sky Movies Crime
-http://linux-app.tv:6204/robert/123/8543
-#EXTINF:-1,Sky Movies Disney
-http://linux-app.tv:6204/robert/123/8542
-#EXTINF:-1,Sky Movies Greats
-http://linux-app.tv:6204/robert/123/8539
-#EXTINF:-1,Sky Atlantic
-http://linux-app.tv:6204/robert/123/8591
-#EXTINF:-1,Sky Cbs Action
-http://linux-app.tv:6204/robert/123/8575
-#EXTINF:-1,Sky Cbs Drama
-http://linux-app.tv:6204/robert/123/8574
-#EXTINF:-1,Sky CBS Reality
-http://linux-app.tv:6204/robert/123/8573
-#EXTINF:-1,Sky RTE One
-http://linux-app.tv:6204/robert/123/8525
-#EXTINF:-1,Sky RTE Two
-http://linux-app.tv:6204/robert/123/8524
-#EXTINF:-1,Sky True Movies 1
-http://linux-app.tv:6204/robert/123/8510
-#EXTINF:-1,Sky True Movies 2
-http://linux-app.tv:6204/robert/123/8509
-#EXTINF:-1,Sky ITV 1
-http://linux-app.tv:6204/robert/123/8552
-#EXTINF:-1,Sky ITV 2
-http://linux-app.tv:6204/robert/123/8551
-#EXTINF:-1,Sky ITV 3
-http://linux-app.tv:6204/robert/123/8550
-#EXTINF:-1,Sky ITV 4
-http://linux-app.tv:6204/robert/123/8549
-#EXTINF:-1,Sky 1
-http://linux-app.tv:6204/robert/123/11120
-#EXTINF:-1,Sky 2
-http://linux-app.tv:6204/robert/123/11119
-#EXTINF:-1,Sky Living HD
-http://linux-app.tv:6204/robert/123/11116
-#EXTINF:-1,Sky Quest
-http://linux-app.tv:6204/robert/123/8529
-#EXTINF:-1,Sky Racing
-http://linux-app.tv:6204/robert/123/8528
-#EXTINF:-1,Sky Really
-http://linux-app.tv:6204/robert/123/8527
-#EXTINF:-1,Sky Ci
-http://linux-app.tv:6204/robert/123/8571
-#EXTINF:-1,Sky 4 Music
-http://linux-app.tv:6204/robert/123/8595
-#EXTINF:-1,Sky 5 USA
-http://linux-app.tv:6204/robert/123/8594
-#EXTINF:-1,Sky Arts 1 HD
-http://linux-app.tv:6204/robert/123/8592
-#EXTINF:-1,Sky Gold
-http://linux-app.tv:6204/robert/123/8557
-#EXTINF:-1,Sky Comedy Central
-http://linux-app.tv:6204/robert/123/8569
-#EXTINF:-1,Sky Home & Health
-http://linux-app.tv:6204/robert/123/8554
-#EXTINF:-1,Sky Horse & Country
-http://linux-app.tv:6204/robert/123/8553
-#EXTINF:-1,Sky Food Network
-http://linux-app.tv:6204/robert/123/8558
-#EXTINF:-1,Sky Good Food HD
-http://linux-app.tv:6204/robert/123/8556
-#EXTINF:-1,Sky History HD
-http://linux-app.tv:6204/robert/123/8555
-#EXTINF:-1,Sky Discovery
-http://linux-app.tv:6204/robert/123/8568
-#EXTINF:-1,Sky Discovery Shed
-http://linux-app.tv:6204/robert/123/8565
-#EXTINF:-1,Sky Discovery Turbo
-http://linux-app.tv:6204/robert/123/8564
-#EXTINF:-1,Sky Discovery History
-http://linux-app.tv:6204/robert/123/8567
-#EXTINF:-1,Sky Discovery Science
-http://linux-app.tv:6204/robert/123/8566
-#EXTINF:-1,Sky Animal Planet HD
-http://linux-app.tv:6204/robert/123/8593
-#EXTINF:-1,Sky Nat Geo Wild HD
-http://linux-app.tv:6204/robert/123/8535
-#EXTINF:-1,Sky National Geographic HD
-http://linux-app.tv:6204/robert/123/8534
-#EXTINF:-1,Sky Travel Channel
-http://linux-app.tv:6204/robert/123/8508
-#EXTINF:-1,Sky Baby
-http://linux-app.tv:6204/robert/123/8590
-#EXTINF:-1,Sky Bloomberg HD
-http://linux-app.tv:6204/robert/123/8584
-#EXTINF:-1,Sky Cartoon Network
-http://linux-app.tv:6204/robert/123/8576
-#EXTINF:-1,Sky NickToons
-http://linux-app.tv:6204/robert/123/8530
-#EXTINF:-1,Sky Nickelodeon
-http://linux-app.tv:6204/robert/123/8532
-#EXTINF:-1,Sky Disney Chaneel HD
-http://linux-app.tv:6204/robert/123/8563
-#EXTINF:-1,Sky Disney Junior HD
-http://linux-app.tv:6204/robert/123/8562
-#EXTINF:-1,Sky Disney XD HD
-http://linux-app.tv:6204/robert/123/8561
-#EXTINF:-1,Sky Nickelodeon JR
-http://linux-app.tv:6204/robert/123/8531
-
-#EXTINF:-1,REVOLT HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1215
-#EXTINF:-1,THE COUNTRY NETWORK
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1214
-#EXTINF:-1,USA: MUSIC CHOICE PLAY
-http://clic-tv.org:80/japangelo@gmail.com/238962117/10692
-#EXTINF:-1,A&E HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1309
-#EXTINF:-1,ABC HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1308
-#EXTINF:-1,ABC SPARK
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1307
-#EXTINF:-1,US: AMC HD (*)
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1302
-#EXTINF:-1,US: AMERICAN HEROES CHANNEL HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1301
-#EXTINF:-1,AMGTV
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1300
-#EXTINF:-1,ANTENNA TV
-http://clic-tv.org:80/japangelo@gmail.com/238962117/8234
-#EXTINF:-1,US: BBC AMERICA HD (*)
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1299
-#EXTINF:-1,BET HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1298
-#EXTINF:-1,BET HER HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/8241
-#EXTINF:-1,US: BRAVO HD (*)
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1295
-#EXTINF:-1,US: BUZZR TV
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1294
-#EXTINF:-1,CBS FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1291
-#EXTINF:-1,COMEDY CENTRAL HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1288
-#EXTINF:-1,COOKING CHANNEL HD (US)
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1286
-#EXTINF:-1,US: COZI TV HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1285
-#EXTINF:-1,CMT HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1284
-#EXTINF:-1,CREATE
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1283
-#EXTINF:-1,CW FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1279
-#EXTINF:-1,US: DESTINATION AMERICA HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1278
-#EXTINF:-1,E! HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1277
-#EXTINF:-1,US: EL REY NETWORK HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1275
-#EXTINF:-1,US: FOOD NETWORK HD (*)
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1273
-#EXTINF:-1,FOX HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1272
-#EXTINF:-1,US: FREEFORM HD (*)
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1271
-#EXTINF:-1,US: FX HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1270
-#EXTINF:-1,US: FXX HD (*)
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1269
-#EXTINF:-1,FYI
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1268
-#EXTINF:-1,GSN HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1264
-#EXTINF:-1,US: HALLMARK HD (*)
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1267
-#EXTINF:-1,US: HALLMARK DRAMA HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/10745
-#EXTINF:-1,HEROES & ICONS
-http://clic-tv.org:80/japangelo@gmail.com/238962117/8247
-#EXTINF:-1,HSN
-http://clic-tv.org:80/japangelo@gmail.com/238962117/8387
-#EXTINF:-1,ION TV HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/8248
-#EXTINF:-1,JEWELRY TV HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1262
-#EXTINF:-1,LIFETIME
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1261
-#EXTINF:-1,ME TV
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1260
-#EXTINF:-1,MTV HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1259
-#EXTINF:-1,MTV 2 HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/8250
-#EXTINF:-1,MyNetworkTV HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/8249
-#EXTINF:-1,NBC HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1258
-#EXTINF:-1,OLN
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1257
-#EXTINF:-1,US: OWN HD (*)
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1255
-#EXTINF:-1,US: OXYGEN HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/12213
-#EXTINF:-1,PBS FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1254
-#EXTINF:-1,PEACHTREE
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1253
-#EXTINF:-1,US: POP HD (*)
-http://clic-tv.org:80/japangelo@gmail.com/238962117/5254
-#EXTINF:-1,QVC FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1252
-#EXTINF:-1,QVC 2 FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1251
-#EXTINF:-1,SHOWCASE
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1249
-#EXTINF:-1,PARAMOUNT NETWORK HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1246
-#EXTINF:-1,US: SYFY HD (*)
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1244
-#EXTINF:-1,US: TBS HD (*)
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1243
-#EXTINF:-1,US: TLC HD (*)
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1241
-#EXTINF:-1,US: TNT HD (*)
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1240
-#EXTINF:-1,US: TRU TV HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1239
-#EXTINF:-1,TV LAND HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/8236
-#EXTINF:-1,TV ONE HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/8235
-#EXTINF:-1,US: USA NETWORK HD (*)
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1237
-#EXTINF:-1,VH1 HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1236
-#EXTINF:-1,VICELAND HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1235
-#EXTINF:-1,WAPA TV
-http://clic-tv.org:80/japangelo@gmail.com/238962117/9680
-#EXTINF:-1,US: WE TV HD (*)
-http://clic-tv.org:80/japangelo@gmail.com/238962117/6315
-#EXTINF:-1,WGN AMERICA HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/8768
-#EXTINF:-1,BBC CANADA
-http://clic-tv.org:80/japangelo@gmail.com/238962117/9734
-#EXTINF:-1,BBC KIDS (CA)
-http://clic-tv.org:80/japangelo@gmail.com/238962117/9736
-#EXTINF:-1,BNN
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1539
-#EXTINF:-1,BRAVO HD (CA)
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1296
-#EXTINF:-1,CBC HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1293
-#EXTINF:-1,CBC HALIFAX (ATLANTIC)
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1292
-#EXTINF:-1,CBC VANCOUVER
-http://clic-tv.org:80/japangelo@gmail.com/238962117/11213
-#EXTINF:-1,CBC NEWS
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1538
-#EXTINF:-1,CHCH HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1290
-#EXTINF:-1,CITY HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1289
-#EXTINF:-1,CITY VANCOUVER
-http://clic-tv.org:80/japangelo@gmail.com/238962117/11214
-#EXTINF:-1,COMEDY GOLD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/9735
-#EXTINF:-1,COSMO TV (CA)
-http://clic-tv.org:80/japangelo@gmail.com/238962117/9740
-#EXTINF:-1,CP 24
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1532
-#EXTINF:-1,CTV FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1282
-#EXTINF:-1,CTV ATLANTIC/HALIFAX
-http://clic-tv.org:80/japangelo@gmail.com/238962117/11496
-#EXTINF:-1,CTV MONTREAL
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1280
-#EXTINF:-1,CTV VANCOUVER
-http://clic-tv.org:80/japangelo@gmail.com/238962117/11212
-#EXTINF:-1,CTV 2 OTTAWA
-http://clic-tv.org:80/japangelo@gmail.com/238962117/11578
-#EXTINF:-1,CTV 2 VANCOUVER
-http://clic-tv.org:80/japangelo@gmail.com/238962117/11215
-#EXTINF:-1,CTV NEWS HD (LIVE EVENTS ONLY)
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1533
-#EXTINF:-1,FOOD NETWORK (CA)
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1274
-#EXTINF:-1,GLOBAL HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1265
-#EXTINF:-1,GLOBAL VANCOUVER
-http://clic-tv.org:80/japangelo@gmail.com/238962117/11211
-#EXTINF:-1,HBO HD (CA)
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1342
-#EXTINF:-1,HGTV HD (CA)
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1318
-#EXTINF:-1,HISTORY (CA)
-http://clic-tv.org:80/japangelo@gmail.com/238962117/11737
-#EXTINF:-1,ICI TV HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/9741
-#EXTINF:-1,ICI VANCOUVER
-http://clic-tv.org:80/japangelo@gmail.com/238962117/11210
-#EXTINF:-1,METEO (CA)
-http://clic-tv.org:80/japangelo@gmail.com/238962117/9738
-#EXTINF:-1,MOVIETIME (CA)
-http://clic-tv.org:80/japangelo@gmail.com/238962117/9739
-#EXTINF:-1,OWN (CA)
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1256
-#EXTINF:-1,SILVER SCREEN CLASSICS (CA)
-http://clic-tv.org:80/japangelo@gmail.com/238962117/9733
-#EXTINF:-1,SLICE
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1248
-#EXTINF:-1,SPACE HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1247
-#EXTINF:-1,TELE TOON EAST
-http://clic-tv.org:80/japangelo@gmail.com/238962117/11500
-#EXTINF:-1,THE SHOPPING CHANNEL FHD (CA)
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1242
-#EXTINF:-1,TREEHOUSE
-http://clic-tv.org:80/japangelo@gmail.com/238962117/11501
-#EXTINF:-1,CA: WORLD FISHING NETWORK
-http://clic-tv.org:80/japangelo@gmail.com/238962117/13399
-#EXTINF:-1,BBC ONE FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/10152
-#EXTINF:-1,BBC ONE HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/318
-#EXTINF:-1,BBC ONE
-http://clic-tv.org:80/japangelo@gmail.com/238962117/312
-#EXTINF:-1,BBC ONE CAMBRIDGE
-http://clic-tv.org:80/japangelo@gmail.com/238962117/10567
-#EXTINF:-1,BBC ONE CHANNEL ISLANDS
-http://clic-tv.org:80/japangelo@gmail.com/238962117/317
-#EXTINF:-1,BBC ONE EAST
-http://clic-tv.org:80/japangelo@gmail.com/238962117/8239
-#EXTINF:-1,BBC ONE EAST MIDLANDS
-http://clic-tv.org:80/japangelo@gmail.com/238962117/8702
-#EXTINF:-1,BBC ONE WEST MIDLANDS
-http://clic-tv.org:80/japangelo@gmail.com/238962117/8703
-#EXTINF:-1,BBC ONE LONDON
-http://clic-tv.org:80/japangelo@gmail.com/238962117/10349
-#EXTINF:-1,BBC ONE NI HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/315
-#EXTINF:-1,BBC ONE NORTH EAST
-http://clic-tv.org:80/japangelo@gmail.com/238962117/8240
-#EXTINF:-1,BBC ONE NORTH WEST
-http://clic-tv.org:80/japangelo@gmail.com/238962117/8704
-#EXTINF:-1,BBC ONE SOUTH
-http://clic-tv.org:80/japangelo@gmail.com/238962117/6981
-#EXTINF:-1,BBC ONE SCOTLAND
-http://clic-tv.org:80/japangelo@gmail.com/238962117/314
-#EXTINF:-1,BBC ONE SOUTH EAST
-http://clic-tv.org:80/japangelo@gmail.com/238962117/8705
-#EXTINF:-1,BBC ONE SOUTH WEST
-http://clic-tv.org:80/japangelo@gmail.com/238962117/10544
-#EXTINF:-1,BBC ONE WALES HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/313
-#EXTINF:-1,BBC ONE WEST
-http://clic-tv.org:80/japangelo@gmail.com/238962117/6980
-#EXTINF:-1,BBC ONE YORKSHIRE
-http://clic-tv.org:80/japangelo@gmail.com/238962117/6983
-#EXTINF:-1,BBC TWO FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/10153
-#EXTINF:-1,BBC TWO HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/311
-#EXTINF:-1,BBC TWO
-http://clic-tv.org:80/japangelo@gmail.com/238962117/308
-#EXTINF:-1,BBC TWO NI
-http://clic-tv.org:80/japangelo@gmail.com/238962117/310
-#EXTINF:-1,BBC TWO WALES
-http://clic-tv.org:80/japangelo@gmail.com/238962117/309
-#EXTINF:-1,BBC RED BUTTON
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1966
-#EXTINF:-1,ITV 1 FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/10132
-#EXTINF:-1,ITV 1 HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/307
-#EXTINF:-1,ITV 1 HD +1
-http://clic-tv.org:80/japangelo@gmail.com/238962117/8779
-#EXTINF:-1,ITV 1
-http://clic-tv.org:80/japangelo@gmail.com/238962117/306
-#EXTINF:-1,CHANNEL 4 FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/305
-#EXTINF:-1,CHANNEL 4 HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/304
-#EXTINF:-1,CHANNEL 4
-http://clic-tv.org:80/japangelo@gmail.com/238962117/303
-#EXTINF:-1,CHANNEL 5 FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/302
-#EXTINF:-1,CHANNEL 5 HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/301
-#EXTINF:-1,CHANNEL 5
-http://clic-tv.org:80/japangelo@gmail.com/238962117/300
-#EXTINF:-1,SKY ONE FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/299
-#EXTINF:-1,SKY ONE HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/298
-#EXTINF:-1,SKY ONE
-http://clic-tv.org:80/japangelo@gmail.com/238962117/297
-#EXTINF:-1,SKY WITNESS FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/296
-#EXTINF:-1,SKY WITNESS HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/295
-#EXTINF:-1,SKY WITNESS
-http://clic-tv.org:80/japangelo@gmail.com/238962117/294
-#EXTINF:-1,SKY ATLANTIC HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/292
-#EXTINF:-1,W (WATCH) HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/291
-#EXTINF:-1,W (WATCH)
-http://clic-tv.org:80/japangelo@gmail.com/238962117/290
-#EXTINF:-1,GOLD FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/12754
-#EXTINF:-1,GOLD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/289
-#EXTINF:-1,SHOWCASE TV
-http://clic-tv.org:80/japangelo@gmail.com/238962117/288
-#EXTINF:-1,DAVE FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/287
-#EXTINF:-1,DAVE HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/286
-#EXTINF:-1,DAVE
-http://clic-tv.org:80/japangelo@gmail.com/238962117/285
-#EXTINF:-1,COMEDY CENTRAL FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/284
-#EXTINF:-1,COMEDY CENTRAL HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/283
-#EXTINF:-1,COMEDY CENTRAL
-http://clic-tv.org:80/japangelo@gmail.com/238962117/282
-#EXTINF:-1,COMEDY CENTRAL EXTRA
-http://clic-tv.org:80/japangelo@gmail.com/238962117/281
-#EXTINF:-1,UNIVERSAL CHANNEL FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/280
-#EXTINF:-1,UNIVERSAL CHANNEL HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/279
-#EXTINF:-1,UNIVERSAL CHANNEL
-http://clic-tv.org:80/japangelo@gmail.com/238962117/278
-#EXTINF:-1,SYFY FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/277
-#EXTINF:-1,SYFY
-http://clic-tv.org:80/japangelo@gmail.com/238962117/275
-#EXTINF:-1,BBC ALBA
-http://clic-tv.org:80/japangelo@gmail.com/238962117/274
-#EXTINF:-1,S4C
-http://clic-tv.org:80/japangelo@gmail.com/238962117/273
-#EXTINF:-1,BBC FOUR FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/10154
-#EXTINF:-1,BBC FOUR
-http://clic-tv.org:80/japangelo@gmail.com/238962117/272
-#EXTINF:-1,LONDON LIVE HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/271
-#EXTINF:-1,ITV 2 FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/10622
-#EXTINF:-1,ITV 2 HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/270
-#EXTINF:-1,ITV 2 HD +1
-http://clic-tv.org:80/japangelo@gmail.com/238962117/8780
-#EXTINF:-1,ITV 2
-http://clic-tv.org:80/japangelo@gmail.com/238962117/269
-#EXTINF:-1,ITV 3 FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/10156
-#EXTINF:-1,ITV 3 HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/268
-#EXTINF:-1,ITV 3 HD +1
-http://clic-tv.org:80/japangelo@gmail.com/238962117/8781
-#EXTINF:-1,ITV 3
-http://clic-tv.org:80/japangelo@gmail.com/238962117/267
-#EXTINF:-1,ITV 4 FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/10157
-#EXTINF:-1,ITV 4 HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/266
-#EXTINF:-1,ITV 4 HD +1
-http://clic-tv.org:80/japangelo@gmail.com/238962117/8782
-#EXTINF:-1,ITV 4
-http://clic-tv.org:80/japangelo@gmail.com/238962117/265
-#EXTINF:-1,SKY ARTS FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/263
-#EXTINF:-1,SKY ARTS HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/262
-#EXTINF:-1,SKY ARTS
-http://clic-tv.org:80/japangelo@gmail.com/238962117/261
-#EXTINF:-1,REAL LIVES
-http://clic-tv.org:80/japangelo@gmail.com/238962117/260
-#EXTINF:-1,FOOD NETWORK
-http://clic-tv.org:80/japangelo@gmail.com/238962117/259
-#EXTINF:-1,FOX FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/258
-#EXTINF:-1,FOX HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/257
-#EXTINF:-1,FOX
-http://clic-tv.org:80/japangelo@gmail.com/238962117/256
-#EXTINF:-1,TLC FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/10495
-#EXTINF:-1,TLC
-http://clic-tv.org:80/japangelo@gmail.com/238962117/255
-#EXTINF:-1,SKY TWO
-http://clic-tv.org:80/japangelo@gmail.com/238962117/254
-#EXTINF:-1,ALIBI HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/253
-#EXTINF:-1,ALIBI
-http://clic-tv.org:80/japangelo@gmail.com/238962117/252
-#EXTINF:-1,E4 FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/251
-#EXTINF:-1,E4 HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/250
-#EXTINF:-1,E4
-http://clic-tv.org:80/japangelo@gmail.com/238962117/249
-#EXTINF:-1,MORE4 FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/248
-#EXTINF:-1,MORE4 HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/247
-#EXTINF:-1,MORE4
-http://clic-tv.org:80/japangelo@gmail.com/238962117/246
-#EXTINF:-1,4SEVEN FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/245
-#EXTINF:-1,4SEVEN
-http://clic-tv.org:80/japangelo@gmail.com/238962117/244
-#EXTINF:-1,QUEST
-http://clic-tv.org:80/japangelo@gmail.com/238962117/243
-#EXTINF:-1,CHALLENGE
-http://clic-tv.org:80/japangelo@gmail.com/238962117/241
-#EXTINF:-1,CBS ACTION
-http://clic-tv.org:80/japangelo@gmail.com/238962117/239
-#EXTINF:-1,CBS DRAMA
-http://clic-tv.org:80/japangelo@gmail.com/238962117/238
-#EXTINF:-1,CBS REALITY
-http://clic-tv.org:80/japangelo@gmail.com/238962117/240
-#EXTINF:-1,E!
-http://clic-tv.org:80/japangelo@gmail.com/238962117/237
-#EXTINF:-1,PICK
-http://clic-tv.org:80/japangelo@gmail.com/238962117/236
-#EXTINF:-1,REALLY
-http://clic-tv.org:80/japangelo@gmail.com/238962117/235
-#EXTINF:-1,LIFETIME FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/234
-#EXTINF:-1,LIFETIME HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/233
-#EXTINF:-1,LIFETIME
-http://clic-tv.org:80/japangelo@gmail.com/238962117/232
-#EXTINF:-1,DRAMA
-http://clic-tv.org:80/japangelo@gmail.com/238962117/230
-#EXTINF:-1,5SPIKE
-http://clic-tv.org:80/japangelo@gmail.com/238962117/229
-#EXTINF:-1,5 USA
-http://clic-tv.org:80/japangelo@gmail.com/238962117/228
-#EXTINF:-1,5 STAR
-http://clic-tv.org:80/japangelo@gmail.com/238962117/227
-#EXTINF:-1,ITV BE FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/226
-#EXTINF:-1,ITV BE
-http://clic-tv.org:80/japangelo@gmail.com/238962117/225
-#EXTINF:-1,TRUE ENTERTAINMENT
-http://clic-tv.org:80/japangelo@gmail.com/238962117/224
-#EXTINF:-1,AMC FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/12823
-#EXTINF:-1,AMC
-http://clic-tv.org:80/japangelo@gmail.com/238962117/223
-#EXTINF:-1,DMAX
-http://clic-tv.org:80/japangelo@gmail.com/238962117/222
-#EXTINF:-1,GOOD FOOD FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/221
-#EXTINF:-1,GOOD FOOD HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/220
-#EXTINF:-1,GOOD FOOD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/219
-#EXTINF:-1,FORCES TV
-http://clic-tv.org:80/japangelo@gmail.com/238962117/218
-#EXTINF:-1,YESTERDAY
-http://clic-tv.org:80/japangelo@gmail.com/238962117/217
-#EXTINF:-1,STV HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/216
-#EXTINF:-1,VICELAND
-http://clic-tv.org:80/japangelo@gmail.com/238962117/215
-#EXTINF:-1,BLAZE
-http://clic-tv.org:80/japangelo@gmail.com/238962117/214
-#EXTINF:-1,CREATE AND CRAFT
-http://clic-tv.org:80/japangelo@gmail.com/238962117/13065
-#EXTINF:-1,SONY CRIME
-http://clic-tv.org:80/japangelo@gmail.com/238962117/213
-#EXTINF:-1,PARAMOUNT HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/10865
-#EXTINF:-1,SONY CRIME CHANNEL
-http://clic-tv.org:80/japangelo@gmail.com/238962117/10863
-#EXTINF:-1,ITV CENTRAL WEST
-http://clic-tv.org:80/japangelo@gmail.com/238962117/12545
-#EXTINF:-1,ITV GRANADA
-http://clic-tv.org:80/japangelo@gmail.com/238962117/12544
-#EXTINF:-1,ITV LONDON
-http://clic-tv.org:80/japangelo@gmail.com/238962117/12543
-#EXTINF:-1,ITV MERIDIAN
-http://clic-tv.org:80/japangelo@gmail.com/238962117/12542
-#EXTINF:-1,ITV TYNE TEES
-http://clic-tv.org:80/japangelo@gmail.com/238962117/12541
-#EXTINF:-1,ITV WALES
-http://clic-tv.org:80/japangelo@gmail.com/238962117/12540
-#EXTINF:-1,ITV WEST COUNTRY SOUTH WEST
-http://clic-tv.org:80/japangelo@gmail.com/238962117/12539
-#EXTINF:-1,ITV WEST COUNTRY WEST
-http://clic-tv.org:80/japangelo@gmail.com/238962117/12538
-#EXTINF:-1,ITV YORKSHIRE
-http://clic-tv.org:80/japangelo@gmail.com/238962117/12537
-#EXTINF:-1,HORSE AND COUNTRY
-http://clic-tv.org:80/japangelo@gmail.com/238962117/12557
-#EXTINF:-1,PBS AMERICA
-http://clic-tv.org:80/japangelo@gmail.com/238962117/13483
-#EXTINF:-1,QVC
-http://clic-tv.org:80/japangelo@gmail.com/238962117/12637
-#EXTINF:-1,HOME
-http://clic-tv.org:80/japangelo@gmail.com/238962117/13859
-#EXTINF:-1,ANIMAL PLANET FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/352
-#EXTINF:-1,ANIMAL PLANET HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/351
-#EXTINF:-1,ANIMAL PLANET
-http://clic-tv.org:80/japangelo@gmail.com/238962117/350
-#EXTINF:-1,BBC EARTH HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/349
-#EXTINF:-1,CRIME AND INVESTIGATION HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/347
-#EXTINF:-1,CRIME AND INVESTIGATION
-http://clic-tv.org:80/japangelo@gmail.com/238962117/346
-#EXTINF:-1,DISCOVERY FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/345
-#EXTINF:-1,DISCOVERY HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/344
-#EXTINF:-1,DISCOVERY
-http://clic-tv.org:80/japangelo@gmail.com/238962117/343
-#EXTINF:-1,DISCOVERY HISTORY
-http://clic-tv.org:80/japangelo@gmail.com/238962117/342
-#EXTINF:-1,DISCOVERY HOME & HEALTH
-http://clic-tv.org:80/japangelo@gmail.com/238962117/341
-#EXTINF:-1,DISCOVERY SCIENCE
-http://clic-tv.org:80/japangelo@gmail.com/238962117/340
-#EXTINF:-1,DISCOVERY SHED
-http://clic-tv.org:80/japangelo@gmail.com/238962117/339
-#EXTINF:-1,DISCOVERY TURBO
-http://clic-tv.org:80/japangelo@gmail.com/238962117/338
-#EXTINF:-1,EDEN FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/337
-#EXTINF:-1,EDEN HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/336
-#EXTINF:-1,EDEN
-http://clic-tv.org:80/japangelo@gmail.com/238962117/335
-#EXTINF:-1,HISTORY HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/334
-#EXTINF:-1,HISTORY
-http://clic-tv.org:80/japangelo@gmail.com/238962117/333
-#EXTINF:-1,H2 FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/332
-#EXTINF:-1,H2 HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/331
-#EXTINF:-1,H2
-http://clic-tv.org:80/japangelo@gmail.com/238962117/330
-#EXTINF:-1,INSIGHT HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/329
-#EXTINF:-1,INVESTIGATION DISCOVERY
-http://clic-tv.org:80/japangelo@gmail.com/238962117/328
-#EXTINF:-1,NAT GEO WILD FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/327
-#EXTINF:-1,NAT GEO WILD HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/326
-#EXTINF:-1,NAT GEO WILD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/325
-#EXTINF:-1,NATIONAL GEOGRAPHIC FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/324
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/323
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://clic-tv.org:80/japangelo@gmail.com/238962117/322
-#EXTINF:-1,PEACE TV
-http://clic-tv.org:80/japangelo@gmail.com/238962117/9728
-#EXTINF:-1,RT DOCUMENTARY
-http://clic-tv.org:80/japangelo@gmail.com/238962117/321
-#EXTINF:-1,TRAVEL CHANNEL
-http://clic-tv.org:80/japangelo@gmail.com/238962117/320
-#EXTINF:-1,TRU TV
-http://clic-tv.org:80/japangelo@gmail.com/238962117/319
-#EXTINF:-1,4 MUSIC
-http://clic-tv.org:80/japangelo@gmail.com/238962117/14011
-#EXTINF:-1,BRIT ASIA
-http://clic-tv.org:80/japangelo@gmail.com/238962117/3174
-#EXTINF:-1,CLUBLAND
-http://clic-tv.org:80/japangelo@gmail.com/238962117/373
-#EXTINF:-1,KEEP IT COUNTRY
-http://clic-tv.org:80/japangelo@gmail.com/238962117/371
-#EXTINF:-1,KERRANG
-http://clic-tv.org:80/japangelo@gmail.com/238962117/370
-#EXTINF:-1,KISS
-http://clic-tv.org:80/japangelo@gmail.com/238962117/369
-#EXTINF:-1,MTV FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/368
-#EXTINF:-1,MTV
-http://clic-tv.org:80/japangelo@gmail.com/238962117/367
-#EXTINF:-1,MTV BASE
-http://clic-tv.org:80/japangelo@gmail.com/238962117/366
-#EXTINF:-1,MTV CLASSICS
-http://clic-tv.org:80/japangelo@gmail.com/238962117/365
-#EXTINF:-1,MTV DANCE
-http://clic-tv.org:80/japangelo@gmail.com/238962117/364
-#EXTINF:-1,MTV HITS
-http://clic-tv.org:80/japangelo@gmail.com/238962117/363
-#EXTINF:-1,MTV LIVE FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/362
-#EXTINF:-1,MTV LIVE HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/361
-#EXTINF:-1,MTV MUSIC
-http://clic-tv.org:80/japangelo@gmail.com/238962117/360
-#EXTINF:-1,MTV ROCKS
-http://clic-tv.org:80/japangelo@gmail.com/238962117/359
-#EXTINF:-1,NOW 80s
-http://clic-tv.org:80/japangelo@gmail.com/238962117/13622
-#EXTINF:-1,NOW 90s
-http://clic-tv.org:80/japangelo@gmail.com/238962117/13197
-#EXTINF:-1,STINGRAY ICONCERTS
-http://clic-tv.org:80/japangelo@gmail.com/238962117/11760
-#EXTINF:-1,TRACE URBAN
-http://clic-tv.org:80/japangelo@gmail.com/238962117/357
-#EXTINF:-1,VH1
-http://clic-tv.org:80/japangelo@gmail.com/238962117/353
-#EXTINF:-1,VINTAGE TV (TEST)
-http://clic-tv.org:80/japangelo@gmail.com/238962117/356
-#EXTINF:-1,VIVA THE HITS
-http://clic-tv.org:80/japangelo@gmail.com/238962117/354
-#EXTINF:-1,SKY CINEMA PREMIERE FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/423
-#EXTINF:-1,SKY CINEMA PREMIERE
-http://clic-tv.org:80/japangelo@gmail.com/238962117/421
-#EXTINF:-1,SKY CINEMA PREMIERE HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/422
-#EXTINF:-1,SKY CINEMA DRAMA FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/420
-#EXTINF:-1,SKY CINEMA DRAMA HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/419
-#EXTINF:-1,SKY CINEMA DRAMA SD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/418
-#EXTINF:-1,SKY CINEMA ACTION & ADVENTURE FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/417
-#EXTINF:-1,SKY CINEMA ACTION & ADVENTURE
-http://clic-tv.org:80/japangelo@gmail.com/238962117/415
-#EXTINF:-1,SKY CINEMA ACTION & ADVENTURE HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/416
-#EXTINF:-1,SKY CINEMA FAMILY FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/414
-#EXTINF:-1,SKY CINEMA FAMILY HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/413
-#EXTINF:-1,SKY CINEMA FAMILY
-http://clic-tv.org:80/japangelo@gmail.com/238962117/412
-#EXTINF:-1,SKY CINEMA DISNEY FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/411
-#EXTINF:-1,SKY CINEMA DISNEY HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/410
-#EXTINF:-1,SKY CINEMA DISNEY
-http://clic-tv.org:80/japangelo@gmail.com/238962117/409
-#EXTINF:-1,SKY CINEMA COMEDY FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/408
-#EXTINF:-1,SKY CINEMA COMEDY HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/407
-#EXTINF:-1,SKY CINEMA COMEDY
-http://clic-tv.org:80/japangelo@gmail.com/238962117/406
-#EXTINF:-1,SKY CINEMA GREATS FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/405
-#EXTINF:-1,SKY CINEMA GREATS HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/404
-#EXTINF:-1,SKY CINEMA GREATS
-http://clic-tv.org:80/japangelo@gmail.com/238962117/403
-#EXTINF:-1,SKY CINEMA SELECT FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/402
-#EXTINF:-1,SKY CINEMA SELECT HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/401
-#EXTINF:-1,SKY CINEMA SELECT
-http://clic-tv.org:80/japangelo@gmail.com/238962117/400
-#EXTINF:-1,SKY CINEMA HITS FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/399
-#EXTINF:-1,SKY CINEMA HITS HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/398
-#EXTINF:-1,SKY CINEMA HITS
-http://clic-tv.org:80/japangelo@gmail.com/238962117/397
-#EXTINF:-1,SKY CINEMA SCI FI & HORROR FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/396
-#EXTINF:-1,SKY CINEMA SCI FI & HORROR HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/395
-#EXTINF:-1,SKY CINEMA SCI FI & HORROR
-http://clic-tv.org:80/japangelo@gmail.com/238962117/394
-#EXTINF:-1,SKY CINEMA CRIME & THRILLER FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/393
-#EXTINF:-1,SKY CINEMA CRIME & THRILLER
-http://clic-tv.org:80/japangelo@gmail.com/238962117/391
-#EXTINF:-1,SKY CINEMA CRIME & THRILLER HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/392
-#EXTINF:-1,TRUE MOVIES 1
-http://clic-tv.org:80/japangelo@gmail.com/238962117/390
-#EXTINF:-1,FILM 4 FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/388
-#EXTINF:-1,FILM4
-http://clic-tv.org:80/japangelo@gmail.com/238962117/386
-#EXTINF:-1,FILM4 HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/387
-#EXTINF:-1,HORROR CHANNEL
-http://clic-tv.org:80/japangelo@gmail.com/238962117/381
-#EXTINF:-1,MOVIES 24
-http://clic-tv.org:80/japangelo@gmail.com/238962117/385
-#EXTINF:-1,MOVIES 4 MEN
-http://clic-tv.org:80/japangelo@gmail.com/238962117/384
-#EXTINF:-1,SONY MOVIE CHANNEL
-http://clic-tv.org:80/japangelo@gmail.com/238962117/10864
-#EXTINF:-1,TCM
-http://clic-tv.org:80/japangelo@gmail.com/238962117/382
-#EXTINF:-1,TCM FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/383
-#EXTINF:-1,SKY SPORTS ACTION FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1030
-#EXTINF:-1,SKY SPORTS ACTION HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1029
-#EXTINF:-1,SKY SPORTS ACTION HD (BKUP)
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1028
-#EXTINF:-1,SKY SPORTS ACTION
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1027
-#EXTINF:-1,SKY SPORTS ARENA FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1026
-#EXTINF:-1,SKY SPORTS ARENA HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1025
-#EXTINF:-1,SKY SPORTS ARENA
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1024
-#EXTINF:-1,SKY SPORTS CRICKET FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1023
-#EXTINF:-1,SKY SPORTS CRICKET HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1022
-#EXTINF:-1,SKY SPORTS CRICKET
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1020
-#EXTINF:-1,SKY SPORTS F1 FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1019
-#EXTINF:-1,SKY SPORTS F1 HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1018
-#EXTINF:-1,SKY SPORTS F1 HD (BKUP)
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1017
-#EXTINF:-1,SKY SPORTS F1
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1016
-#EXTINF:-1,SKY SPORTS FOOTBALL FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1015
-#EXTINF:-1,SKY SPORTS FOOTBALL HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1014
-#EXTINF:-1,SKY SPORTS FOOTBALL
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1013
-#EXTINF:-1,SKY SPORTS GOLF FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1012
-#EXTINF:-1,SKY SPORTS GOLF HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1011
-#EXTINF:-1,SKY SPORTS GOLF HD (BKUP)
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1010
-#EXTINF:-1,SKY SPORTS GOLF
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1009
-#EXTINF:-1,SKY SPORTS MAIN EVENT FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1008
-#EXTINF:-1,SKY SPORTS MAIN EVENT HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1007
-#EXTINF:-1,SKY SPORTS MAIN EVENT
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1005
-#EXTINF:-1,SKY SPORTS MIX FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1004
-#EXTINF:-1,SKY SPORTS MIX HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1003
-#EXTINF:-1,SKY SPORTS MIX FHD (BKUP)
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1002
-#EXTINF:-1,SKY SPORTS MIX
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1001
-#EXTINF:-1,SKY SPORTS NEWS FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/1000
-#EXTINF:-1,SKY SPORTS NEWS HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/999
-#EXTINF:-1,SKY SPORTS NEWS
-http://clic-tv.org:80/japangelo@gmail.com/238962117/997
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/996
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/995
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE
-http://clic-tv.org:80/japangelo@gmail.com/238962117/993
-#EXTINF:-1,BT SPORT 1 FHD (BACKUP)
-http://clic-tv.org:80/japangelo@gmail.com/238962117/12175
-#EXTINF:-1,BT SPORT 1 FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/992
-#EXTINF:-1,BT SPORT 1 HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/990
-#EXTINF:-1,BT SPORT 1
-http://clic-tv.org:80/japangelo@gmail.com/238962117/988
-#EXTINF:-1,BT SPORT 2 FHD (BACKUP)
-http://clic-tv.org:80/japangelo@gmail.com/238962117/12176
-#EXTINF:-1,BT SPORT 2 FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/987
-#EXTINF:-1,BT SPORT 2 HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/986
-#EXTINF:-1,BT SPORT 2
-http://clic-tv.org:80/japangelo@gmail.com/238962117/984
-#EXTINF:-1,BT SPORT 3 FHD (BACKUP)
-http://clic-tv.org:80/japangelo@gmail.com/238962117/12177
-#EXTINF:-1,BT SPORT 3 FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/983
-#EXTINF:-1,BT SPORT 3 HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/982
-#EXTINF:-1,BT SPORT 3
-http://clic-tv.org:80/japangelo@gmail.com/238962117/980
-#EXTINF:-1,BT SPORT ESPN
-http://clic-tv.org:80/japangelo@gmail.com/238962117/976
-#EXTINF:-1,BT SPORT ESPN FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/979
-#EXTINF:-1,BT SPORT ESPN HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/978
-#EXTINF:-1,BT SPORT EXTRA 1
-http://clic-tv.org:80/japangelo@gmail.com/238962117/975
-#EXTINF:-1,BT SPORT EXTRA 2
-http://clic-tv.org:80/japangelo@gmail.com/238962117/974
-#EXTINF:-1,BT SPORT EXTRA 3
-http://clic-tv.org:80/japangelo@gmail.com/238962117/973
-#EXTINF:-1,BT SPORT EXTRA 4
-http://clic-tv.org:80/japangelo@gmail.com/238962117/972
-#EXTINF:-1,BT SPORT EXTRA 5
-http://clic-tv.org:80/japangelo@gmail.com/238962117/971
-#EXTINF:-1,AT THE RACES
-http://clic-tv.org:80/japangelo@gmail.com/238962117/970
-#EXTINF:-1,RACING HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/969
-#EXTINF:-1,RACING UK
-http://clic-tv.org:80/japangelo@gmail.com/238962117/968
-#EXTINF:-1,BETFRED TV HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/9730
-#EXTINF:-1,BOXNATION HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/967
-#EXTINF:-1,BOXNATION
-http://clic-tv.org:80/japangelo@gmail.com/238962117/966
-#EXTINF:-1,BOYLE SPORTS TV HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/9731
-#EXTINF:-1,ELEVEN SPORTS 1
-http://clic-tv.org:80/japangelo@gmail.com/238962117/11134
-#EXTINF:-1,ELEVEN SPORTS 2
-http://clic-tv.org:80/japangelo@gmail.com/238962117/11135
-#EXTINF:-1,EUROSPORT 1 FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/965
-#EXTINF:-1,EUROSPORT 1 HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/964
-#EXTINF:-1,EUROSPORT 1
-http://clic-tv.org:80/japangelo@gmail.com/238962117/963
-#EXTINF:-1,EUROSPORT 2 FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/962
-#EXTINF:-1,EUROSPORT 2 HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/961
-#EXTINF:-1,EUROSPORT 2
-http://clic-tv.org:80/japangelo@gmail.com/238962117/960
-#EXTINF:-1,EXTREME SPORTS HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/9219
-#EXTINF:-1,FREESPORTS FHD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/12755
-#EXTINF:-1,FREESPORTS
-http://clic-tv.org:80/japangelo@gmail.com/238962117/959
-#EXTINF:-1,PREMIER SPORTS HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/957
-#EXTINF:-1,PREMIER SPORTS
-http://clic-tv.org:80/japangelo@gmail.com/238962117/956
-#EXTINF:-1,PREMIER SPORTS 2
-http://clic-tv.org:80/japangelo@gmail.com/238962117/11073
-#EXTINF:-1,FRONT RUNNER
-http://clic-tv.org:80/japangelo@gmail.com/238962117/958
-#EXTINF:-1,LADBROKES HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/9683
-#EXTINF:-1,MOTORS TV
-http://clic-tv.org:80/japangelo@gmail.com/238962117/955
-#EXTINF:-1,SIS EUROPE HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/9682
-#EXTINF:-1,WILLIAM HILL HD
-http://clic-tv.org:80/japangelo@gmail.com/238962117/9681
-
-#EXTINF:-1,TSN 1 HD
-http://m-iptv.net:6204/ali010/ali010/10636
-#EXTINF:-1,TSN 2 HD
-http://m-iptv.net:6204/ali010/ali010/10635
-#EXTINF:-1,TSN 3 HD
-http://m-iptv.net:6204/ali010/ali010/10634
-#EXTINF:-1,TSN 4 HD
-http://m-iptv.net:6204/ali010/ali010/10633
-#EXTINF:-1,TSN 5 HD
-http://m-iptv.net:6204/ali010/ali010/10632
-#EXTINF:-1,PAC-12 Arizona HD
-http://m-iptv.net:6204/ali010/ali010/10642
-#EXTINF:-1,PAC-12 Bay Area HD
-http://m-iptv.net:6204/ali010/ali010/10641
-#EXTINF:-1,PAC-12 Los Angeles HD
-http://m-iptv.net:6204/ali010/ali010/10640
-#EXTINF:-1,PAC-12 Mountain HD-
-http://m-iptv.net:6204/ali010/ali010/10639
-#EXTINF:-1,PAC-12 Oregon HD
-http://m-iptv.net:6204/ali010/ali010/10638
-#EXTINF:-1,A&E  US
-http://m-iptv.net:6204/ali010/ali010/10441
-#EXTINF:-1,ABC US
-http://m-iptv.net:6204/ali010/ali010/10440
-#EXTINF:-1,CNBC US
-http://m-iptv.net:6204/ali010/ali010/10429
-#EXTINF:-1,CNN US HD
-http://m-iptv.net:6204/ali010/ali010/10428
-#EXTINF:-1,MTV HD US
-http://m-iptv.net:6204/ali010/ali010/10403
-#EXTINF:-1,Starz HD US
-http://m-iptv.net:6204/ali010/ali010/10390
-#EXTINF:-1,SyFy HD USA
-http://m-iptv.net:6204/ali010/ali010/10387
-#EXTINF:-1,TBS USA
-http://m-iptv.net:6204/ali010/ali010/10386
-#EXTINF:-1,TNT US
-http://m-iptv.net:6204/ali010/ali010/10384
-#EXTINF:-1,VH1 HD US
-http://m-iptv.net:6204/ali010/ali010/10380
-#EXTINF:-1,History HD US
-http://m-iptv.net:6204/ali010/ali010/10405
-#EXTINF:-1,Nat Geo Wild HD US
-http://m-iptv.net:6204/ali010/ali010/10402
-#EXTINF:-1,NatGeo HD USA
-http://m-iptv.net:6204/ali010/ali010/10401
-#EXTINF:-1,Discovery Channel US HD
-http://m-iptv.net:6204/ali010/ali010/10424
-#EXTINF:-1,Discovery Science US HD
-http://m-iptv.net:6204/ali010/ali010/10421
-#EXTINF:-1,Bloomberg US
-http://m-iptv.net:6204/ali010/ali010/10436
-#EXTINF:-1,Cartoon Network US
-http://m-iptv.net:6204/ali010/ali010/10434
-#EXTINF:-1,Disney Channel US
-http://m-iptv.net:6204/ali010/ali010/10420
-#EXTINF:-1,Disney Junior US
-http://m-iptv.net:6204/ali010/ali010/10419
-#EXTINF:-1,Nick Junior US
-http://m-iptv.net:6204/ali010/ali010/10397
-#EXTINF:-1,Nick Toons US
-http://m-iptv.net:6204/ali010/ali010/10396
-#EXTINF:-1,CBS Sport HD
-http://m-iptv.net:6204/ali010/ali010/10433
-#EXTINF:-1,CBS US
-http://m-iptv.net:6204/ali010/ali010/10432
-#EXTINF:-1,HBO Comedy HD
-http://m-iptv.net:6204/ali010/ali010/10411
-#EXTINF:-1,HBO Signature
-http://m-iptv.net:6204/ali010/ali010/10410
-#EXTINF:-1,HBO US HD
-http://m-iptv.net:6204/ali010/ali010/10409
-#EXTINF:-1,HBO ZONE HD
-http://m-iptv.net:6204/ali010/ali010/10408
-#EXTINF:-1,Animal Planet HD
-http://m-iptv.net:6204/ali010/ali010/10439
-#EXTINF:-1,BET HD
-http://m-iptv.net:6204/ali010/ali010/10645
-#EXTINF:-1,Bravo HD
-http://m-iptv.net:6204/ali010/ali010/10435
-#EXTINF:-1,CINEMAX HD
-http://m-iptv.net:6204/ali010/ali010/10431
-#EXTINF:-1,DISCOVERY FAMILY
-http://m-iptv.net:6204/ali010/ali010/10423
-#EXTINF:-1,Discovery Investigation
-http://m-iptv.net:6204/ali010/ali010/10422
-#EXTINF:-1,Fox sport 1 HD
-http://m-iptv.net:6204/ali010/ali010/10416
-#EXTINF:-1,Fox sport 2 HD
-http://m-iptv.net:6204/ali010/ali010/10415
-#EXTINF:-1,FX HD
-http://m-iptv.net:6204/ali010/ali010/10414
-#EXTINF:-1,GSN HD
-http://m-iptv.net:6204/ali010/ali010/10412
-#EXTINF:-1,HGTV HD
-http://m-iptv.net:6204/ali010/ali010/10407
-#EXTINF:-1,History
-http://m-iptv.net:6204/ali010/ali010/10406
-#EXTINF:-1,Life Time HD
-http://m-iptv.net:6204/ali010/ali010/10404
-#EXTINF:-1,NBA HD
-http://m-iptv.net:6204/ali010/ali010/10400
-#EXTINF:-1,NBC EAST HD
-http://m-iptv.net:6204/ali010/ali010/10399
-#EXTINF:-1,NBCSN HD
-http://m-iptv.net:6204/ali010/ali010/10398
-#EXTINF:-1,NEWS 12
-http://m-iptv.net:6204/ali010/ali010/10643
-#EXTINF:-1,OWN HD
-http://m-iptv.net:6204/ali010/ali010/10395
-#EXTINF:-1,SHOWTIME FAMILY ZONE
-http://m-iptv.net:6204/ali010/ali010/10393
-#EXTINF:-1,SLICE HD
-http://m-iptv.net:6204/ali010/ali010/10392
-#EXTINF:-1,Syfy HD
-http://m-iptv.net:6204/ali010/ali010/10388
-#EXTINF:-1,STARZ KIDS & Family HD
-http://m-iptv.net:6204/ali010/ali010/10389
-#EXTINF:-1,TLC HD
-http://m-iptv.net:6204/ali010/ali010/10385
-#EXTINF:-1,TRU TV HD
-http://m-iptv.net:6204/ali010/ali010/10383
-#EXTINF:-1,TV Land HD
-http://m-iptv.net:6204/ali010/ali010/10382
-#EXTINF:-1,Viceland TV
-http://m-iptv.net:6204/ali010/ali010/10379
-#EXTINF:-1,WE HD
-http://m-iptv.net:6204/ali010/ali010/10378
-#EXTINF:-1,Weather channel
-http://m-iptv.net:6204/ali010/ali010/10377
-#EXTINF:-1,WWE HD
-http://m-iptv.net:6204/ali010/ali010/10376
-
-#EXTINF:-1,Animal Planet
-http://daddyiptv.com:8000/live/riza1/1234/2164.ts
-#EXTINF:-1,Discovery
-http://daddyiptv.com:8000/live/riza1/1234/2163.ts
-#EXTINF:-1,Disney Channel
-http://daddyiptv.com:8000/live/riza1/1234/2166.ts
-#EXTINF:-1,Disney Junior
-http://daddyiptv.com:8000/live/riza1/1234/2165.ts
-#EXTINF:-1,National Geographic UK
-http://daddyiptv.com:8000/live/riza1/1234/2160.ts
-#EXTINF:-1,Sky Action Movies
-http://daddyiptv.com:8000/live/riza1/1234/2191.ts
-#EXTINF:-1,Sky DramaRom Movies
-http://daddyiptv.com:8000/live/riza1/1234/2190.ts
-#EXTINF:-1,Sky Movies Comedy
-http://daddyiptv.com:8000/live/riza1/1234/2188.ts
-#EXTINF:-1,Sky Movies Showcase
-http://daddyiptv.com:8000/live/riza1/1234/2189.ts
-#EXTINF:-1,SKY SPORTS 1 HD
-http://daddyiptv.com:8000/live/riza1/1234/2156.ts
-#EXTINF:-1,SKY SPORTS 2 HD
-http://daddyiptv.com:8000/live/riza1/1234/2155.ts
-#EXTINF:-1,SKY SPORTS 3 HD
-http://daddyiptv.com:8000/live/riza1/1234/2154.ts
-#EXTINF:-1,SKY SPORTS 4 HD
-http://daddyiptv.com:8000/live/riza1/1234/2153.ts
-#EXTINF:-1,SKY SPORTS 5 HD
-http://daddyiptv.com:8000/live/riza1/1234/2152.ts
-#EXTINF:-1, EIR Sport 1
-http://daddyiptv.com:8000/live/riza1/1234/2151.ts
-#EXTINF:-1,Film 4 UK
-http://daddyiptv.com:8000/live/riza1/1234/2199.ts
-#EXTINF:-1,Sky Movies Action & Adventure
-http://daddyiptv.com:8000/live/riza1/1234/2186.ts
-#EXTINF:-1,Sky.Movies.Family.UK
-http://daddyiptv.com:8000/live/riza1/1234/2185.ts
-#EXTINF:-1,Sky.Movies.Modern.HD
-http://daddyiptv.com:8000/live/riza1/1234/2184.ts
-#EXTINF:-1,Sky Movies Premiere UK
-http://daddyiptv.com:8000/live/riza1/1234/2183.ts
-#EXTINF:-1,Sky Movies Sci-Fi & Horror
-http://daddyiptv.com:8000/live/riza1/1234/2182.ts
-#EXTINF:-1,Syfy UK
-http://daddyiptv.com:8000/live/riza1/1234/2200.ts
-#EXTINF:-1,Baby tv
-http://daddyiptv.com:8000/live/riza1/1234/2203.ts
-#EXTINF:-1,BBC Four
-http://daddyiptv.com:8000/live/riza1/1234/2216.ts
-#EXTINF:-1,BBC Three
-http://daddyiptv.com:8000/live/riza1/1234/2217.ts
-#EXTINF:-1,Boxnation_HD
-http://daddyiptv.com:8000/live/riza1/1234/2147.ts
-#EXTINF:-1,BT Sport 2 HD
-http://daddyiptv.com:8000/live/riza1/1234/2157.ts
-#EXTINF:-1,BT-Sports-1-HD
-http://daddyiptv.com:8000/live/riza1/1234/2158.ts
-#EXTINF:-1,Cartoon Network
-http://daddyiptv.com:8000/live/riza1/1234/2197.ts
-#EXTINF:-1,CBS Action
-http://daddyiptv.com:8000/live/riza1/1234/2205.ts
-#EXTINF:-1,CBS Reality
-http://daddyiptv.com:8000/live/riza1/1234/2204.ts
-#EXTINF:-1,channel 4
-http://daddyiptv.com:8000/live/riza1/1234/2210.ts
-#EXTINF:-1,CHELSEA TV
-http://daddyiptv.com:8000/live/riza1/1234/2149.ts
-#EXTINF:-1,Comedy Central
-http://daddyiptv.com:8000/live/riza1/1234/2196.ts
-#EXTINF:-1,DAVE HD
-http://daddyiptv.com:8000/live/riza1/1234/2173.ts
-#EXTINF:-1,DISCOVERY-HISTORY
-http://daddyiptv.com:8000/live/riza1/1234/2198.ts
-#EXTINF:-1,E4
-http://daddyiptv.com:8000/live/riza1/1234/2209.ts
-#EXTINF:-1,FOOD_NETWORK
-http://daddyiptv.com:8000/live/riza1/1234/2162.ts
-#EXTINF:-1,islam tv
-http://daddyiptv.com:8000/live/riza1/1234/2178.ts
-#EXTINF:-1,islamchannel
-http://daddyiptv.com:8000/live/riza1/1234/2177.ts
-#EXTINF:-1,ITV 3
-http://daddyiptv.com:8000/live/riza1/1234/2213.ts
-#EXTINF:-1,ITV BE
-http://daddyiptv.com:8000/live/riza1/1234/2211.ts
-#EXTINF:-1,Liverpool FC
-http://daddyiptv.com:8000/live/riza1/1234/2148.ts
-#EXTINF:-1,Racing UK
-http://daddyiptv.com:8000/live/riza1/1234/2202.ts
-#EXTINF:-1,MORE4
-http://daddyiptv.com:8000/live/riza1/1234/2194.ts
-#EXTINF:-1,MTA1
-http://daddyiptv.com:8000/live/riza1/1234/2176.ts
-#EXTINF:-1,MTA2
-http://daddyiptv.com:8000/live/riza1/1234/2175.ts
-#EXTINF:-1,MTA3
-http://daddyiptv.com:8000/live/riza1/1234/2174.ts
-#EXTINF:-1,MUTV
-http://daddyiptv.com:8000/live/riza1/1234/2150.ts
-#EXTINF:-1,NAT GEO HD
-http://daddyiptv.com:8000/live/riza1/1234/2172.ts
-#EXTINF:-1,Nat Geo Wild
-http://daddyiptv.com:8000/live/riza1/1234/2195.ts
-#EXTINF:-1,NatGeo Wild HD
-http://daddyiptv.com:8000/live/riza1/1234/2171.ts
-#EXTINF:-1,Peace TV
-http://daddyiptv.com:8000/live/riza1/1234/2179.ts
-#EXTINF:-1,RTE 1
-http://daddyiptv.com:8000/live/riza1/1234/2208.ts
-#EXTINF:-1,RTE 2
-http://daddyiptv.com:8000/live/riza1/1234/2207.ts
-#EXTINF:-1,RTE NEWS
-http://daddyiptv.com:8000/live/riza1/1234/2206.ts
-#EXTINF:-1,Sky 3D
-http://daddyiptv.com:8000/live/riza1/1234/2180.ts
-#EXTINF:-1,Sky Atlantic
-http://daddyiptv.com:8000/live/riza1/1234/2181.ts
-#EXTINF:-1,Sky Disney channel
-http://daddyiptv.com:8000/live/riza1/1234/2161.ts
-#EXTINF:-1,Sky Movies Select HD
-http://daddyiptv.com:8000/live/riza1/1234/2187.ts
-#EXTINF:-1,Sky News
-http://daddyiptv.com:8000/live/riza1/1234/2159.ts
-#EXTINF:-1,SKY1
-http://daddyiptv.com:8000/live/riza1/1234/2170.ts
-#EXTINF:-1,SKY 2
-http://daddyiptv.com:8000/live/riza1/1234/2169.ts
-#EXTINF:-1,SONY CHANNEL
-http://daddyiptv.com:8000/live/riza1/1234/2168.ts
-#EXTINF:-1,Spike
-http://daddyiptv.com:8000/live/riza1/1234/2201.ts
-#EXTINF:-1,TRUE MOVIES
-http://daddyiptv.com:8000/live/riza1/1234/2167.ts
-#EXTINF:-1,BT Sports Espn
-http://daddyiptv.com:8000/live/riza1/1234/2193.ts
-#EXTINF:-1,ITV 1 HD
-http://daddyiptv.com:8000/live/riza1/1234/2215.ts
-#EXTINF:-1,ITV 2 HD
-http://daddyiptv.com:8000/live/riza1/1234/2214.ts
-#EXTINF:-1,Sky Thriller
-http://daddyiptv.com:8000/live/riza1/1234/2192.ts
-#EXTINF:-1,At The Races
-http://daddyiptv.com:8000/live/riza1/1234/2237.ts
-#EXTINF:-1,US: Cartoon Network (USA)
-http://daddyiptv.com:8000/live/riza1/1234/2240.ts
-#EXTINF:-1,US: WWE HD (USA)
-http://daddyiptv.com:8000/live/riza1/1234/2238.ts
-#EXTINF:-1,US: Juce tv
-http://daddyiptv.com:8000/live/riza1/1234/2239.ts
-
-#EXTINF:-1,USA:A&E
-http://xxultraxx.com:80/tvlink531/205677/23950
-#EXTINF:-1,USA: ABC
-http://xxultraxx.com:80/tvlink531/205677/23968
-#EXTINF:-1,USA:ABC News
-http://xxultraxx.com:80/tvlink531/205677/23967
-#EXTINF:-1,USA: ABC NEWS UHD
-http://xxultraxx.com:80/tvlink531/205677/23969
-#EXTINF:-1,USA: ABC Spark
-http://xxultraxx.com:80/tvlink531/205677/23966
-#EXTINF:-1,USA: ABC WEST UHD
-http://xxultraxx.com:80/tvlink531/205677/23970
-#EXTINF:-1,USA: ACTIONMAX UHD
-http://xxultraxx.com:80/tvlink531/205677/23965
-#EXTINF:-1,USA: AFN Movie
-http://xxultraxx.com:80/tvlink531/205677/23964
-#EXTINF:-1,USA: AFN News
-http://xxultraxx.com:80/tvlink531/205677/23963
-#EXTINF:-1,USA: AFN Prime Atlantic
-http://xxultraxx.com:80/tvlink531/205677/23962
-#EXTINF:-1,USA: AFN Prime Pacific
-http://xxultraxx.com:80/tvlink531/205677/23961
-#EXTINF:-1,USA: AFN Pulse
-http://xxultraxx.com:80/tvlink531/205677/23960
-#EXTINF:-1,USA: AFN Spectrum
-http://xxultraxx.com:80/tvlink531/205677/23959
-#EXTINF:-1,USA: AFN Sports
-http://xxultraxx.com:80/tvlink531/205677/23958
-#EXTINF:-1,USA: AFN Sports 1
-http://xxultraxx.com:80/tvlink531/205677/23956
-#EXTINF:-1,USA: AFN Sports 2
-http://xxultraxx.com:80/tvlink531/205677/23957
-#EXTINF:-1,USA: AMC UHD
-http://xxultraxx.com:80/tvlink531/205677/23952
-#EXTINF:-1,USA: American Heroes Channel
-http://xxultraxx.com:80/tvlink531/205677/23954
-#EXTINF:-1,USA: AMERICAN HEROES NETWORK  UHD
-http://xxultraxx.com:80/tvlink531/205677/23955
-#EXTINF:-1,USA: AMG TV
-http://xxultraxx.com:80/tvlink531/205677/23953
-#EXTINF:-1,USA: ANIMAL PLANET UHD
-http://xxultraxx.com:80/tvlink531/205677/23951
-#EXTINF:-1,USA: BBC America
-http://xxultraxx.com:80/tvlink531/205677/23948
-#EXTINF:-1,USA: BBC AMERICA UHD
-http://xxultraxx.com:80/tvlink531/205677/23949
-#EXTINF:-1,USA: beIN Sports US
-http://xxultraxx.com:80/tvlink531/205677/23947
-#EXTINF:-1,USA: BET
-http://xxultraxx.com:80/tvlink531/205677/23943
-#EXTINF:-1,USA: BET (WEST)
-http://xxultraxx.com:80/tvlink531/205677/23942
-#EXTINF:-1,USA: BET HER
-http://xxultraxx.com:80/tvlink531/205677/23944
-#EXTINF:-1,USA: BET HER UHD
-http://xxultraxx.com:80/tvlink531/205677/23946
-#EXTINF:-1,USA: BET UHD
-http://xxultraxx.com:80/tvlink531/205677/23945
-#EXTINF:-1,USA: Big Ten Network
-http://xxultraxx.com:80/tvlink531/205677/23941
-#EXTINF:-1,USA: BLOOMBERG  UHD
-http://xxultraxx.com:80/tvlink531/205677/23940
-#EXTINF:-1,USA: Boomerang TV
-http://xxultraxx.com:80/tvlink531/205677/23934
-#EXTINF:-1,USA: Bravo
-http://xxultraxx.com:80/tvlink531/205677/23938
-#EXTINF:-1,USA: BRAVO UHD
-http://xxultraxx.com:80/tvlink531/205677/23939
-#EXTINF:-1,USA: BT SPORT ESPN
-http://xxultraxx.com:80/tvlink531/205677/23937
-#EXTINF:-1,USA: BTN Sport
-http://xxultraxx.com:80/tvlink531/205677/23936
-#EXTINF:-1,USA: BYU Sports TV
-http://xxultraxx.com:80/tvlink531/205677/23935
-#EXTINF:-1,USA: C Toon Kids
-http://xxultraxx.com:80/tvlink531/205677/23896
-#EXTINF:-1,USA: C-SPAN 1
-http://xxultraxx.com:80/tvlink531/205677/23900
-#EXTINF:-1,USA: C-SPAN 1 HD UHD
-http://xxultraxx.com:80/tvlink531/205677/23903
-#EXTINF:-1,USA: C-SPAN 2
-http://xxultraxx.com:80/tvlink531/205677/23899
-#EXTINF:-1,USA: C-SPAN 2 HD UHD
-http://xxultraxx.com:80/tvlink531/205677/23902
-#EXTINF:-1,USA: C-SPAN 3
-http://xxultraxx.com:80/tvlink531/205677/23898
-#EXTINF:-1,USA: C-SPAN 3 HD UHD
-http://xxultraxx.com:80/tvlink531/205677/23901
-#EXTINF:-1,USA: Capital TV
-http://xxultraxx.com:80/tvlink531/205677/23932
-#EXTINF:-1,USA: CARTOON NETWORK UHD
-http://xxultraxx.com:80/tvlink531/205677/23933
-#EXTINF:-1,USA: CBN
-http://xxultraxx.com:80/tvlink531/205677/23928
-#EXTINF:-1,USA: CBS
-http://xxultraxx.com:80/tvlink531/205677/23927
-#EXTINF:-1,USA: CBS EAST UHD
-http://xxultraxx.com:80/tvlink531/205677/23930
-#EXTINF:-1,USA: CBS EAST UHD.
-http://xxultraxx.com:80/tvlink531/205677/23931
-#EXTINF:-1,USA: CBS Sports
-http://xxultraxx.com:80/tvlink531/205677/23926
-#EXTINF:-1,USA: CBS Sports ʜᴅ
-http://xxultraxx.com:80/tvlink531/205677/23924
-#EXTINF:-1,USA: CBS WEST UHD
-http://xxultraxx.com:80/tvlink531/205677/23929
-#EXTINF:-1,USA: CBSN
-http://xxultraxx.com:80/tvlink531/205677/23925
-#EXTINF:-1,USA: CC
-http://xxultraxx.com:80/tvlink531/205677/23923
-#EXTINF:-1,USA: Cinemax
-http://xxultraxx.com:80/tvlink531/205677/23922
-#EXTINF:-1,USA: Cinemax 5 Starmax
-http://xxultraxx.com:80/tvlink531/205677/23921
-#EXTINF:-1,USA: CINEMAX ACTIONMAX
-http://xxultraxx.com:80/tvlink531/205677/23920
-#EXTINF:-1,USA: Cinemax East
-http://xxultraxx.com:80/tvlink531/205677/23919
-#EXTINF:-1,USA: Cinemax Moremax
-http://xxultraxx.com:80/tvlink531/205677/23918
-#EXTINF:-1,USA: CINEMAX UHD
-http://xxultraxx.com:80/tvlink531/205677/23917
-#EXTINF:-1,USA: CMT - Country Music Television (WEST)
-http://xxultraxx.com:80/tvlink531/205677/23916
-#EXTINF:-1,USA: CNBC World.
-http://xxultraxx.com:80/tvlink531/205677/23914
-#EXTINF:-1,USA: CNBC-US
-http://xxultraxx.com:80/tvlink531/205677/23913
-#EXTINF:-1,USA:CNN
-http://xxultraxx.com:80/tvlink531/205677/23912
-#EXTINF:-1,USA: CNN UHD
-http://xxultraxx.com:80/tvlink531/205677/23915
-#EXTINF:-1,USA: Comedy Central (East)
-http://xxultraxx.com:80/tvlink531/205677/23910
-#EXTINF:-1,USA: Comedy Central (West)
-http://xxultraxx.com:80/tvlink531/205677/23909
-#EXTINF:-1,USA: COMEDY CENTRAL EAST UHD
-http://xxultraxx.com:80/tvlink531/205677/23908
-#EXTINF:-1,USA: COOKING CHANNEL
-http://xxultraxx.com:80/tvlink531/205677/23911
-#EXTINF:-1,USA: COOKING CHANNEL UHD
-http://xxultraxx.com:80/tvlink531/205677/23907
-#EXTINF:-1,USA: COOKING CHANNEL.
-http://xxultraxx.com:80/tvlink531/205677/23905
-#EXTINF:-1,USA: COUNTRY MUSIC TELEVISION (CMT) UHD
-http://xxultraxx.com:80/tvlink531/205677/23906
-#EXTINF:-1,USA: Cozi
-http://xxultraxx.com:80/tvlink531/205677/23904
-#EXTINF:-1,USA: CRIME & INVESTIGATION NETWORK UHD
-http://xxultraxx.com:80/tvlink531/205677/23897
-#EXTINF:-1,USA: CW
-http://xxultraxx.com:80/tvlink531/205677/23894
-#EXTINF:-1,USA: CW 11
-http://xxultraxx.com:80/tvlink531/205677/23893
-#EXTINF:-1,USA: CW Network
-http://xxultraxx.com:80/tvlink531/205677/23892
-#EXTINF:-1,USA: CW NETWORK UHD
-http://xxultraxx.com:80/tvlink531/205677/23895
-#EXTINF:-1,USA: DayStar
-http://xxultraxx.com:80/tvlink531/205677/23891
-#EXTINF:-1,USA: Destination America
-http://xxultraxx.com:80/tvlink531/205677/23889
-#EXTINF:-1,USA: DESTINATION AMERICA UHD
-http://xxultraxx.com:80/tvlink531/205677/23890
-#EXTINF:-1,USA: DISCOVERY LIFE  UHD
-http://xxultraxx.com:80/tvlink531/205677/23888
-#EXTINF:-1,USA: DISCOVERY SCIENCE CHANNEL
-http://xxultraxx.com:80/tvlink531/205677/23884
-#EXTINF:-1,USA: Discovery Showcase
-http://xxultraxx.com:80/tvlink531/205677/23883
-#EXTINF:-1,USA: DISNEY CHANNEL UHD
-http://xxultraxx.com:80/tvlink531/205677/23887
-#EXTINF:-1,USA: DISNEY JR  UHD
-http://xxultraxx.com:80/tvlink531/205677/23886
-#EXTINF:-1,USA: DISNEY XD  UHD
-http://xxultraxx.com:80/tvlink531/205677/23885
-#EXTINF:-1,USA: DIY NETWORK UHD
-http://xxultraxx.com:80/tvlink531/205677/23882
-#EXTINF:-1,USA: E!
-http://xxultraxx.com:80/tvlink531/205677/23879
-#EXTINF:-1,USA: E! FHD
-http://xxultraxx.com:80/tvlink531/205677/23880
-#EXTINF:-1,USA: E! UHD
-http://xxultraxx.com:80/tvlink531/205677/23881
-#EXTINF:-1,USA: El Rey Network
-http://xxultraxx.com:80/tvlink531/205677/23877
-#EXTINF:-1,USA: EL REY NETWORK UHD
-http://xxultraxx.com:80/tvlink531/205677/23878
-#EXTINF:-1,USA: Epix
-http://xxultraxx.com:80/tvlink531/205677/23870
-#EXTINF:-1,USA: Escape
-http://xxultraxx.com:80/tvlink531/205677/23871
-#EXTINF:-1,USA: ESPN us
-http://xxultraxx.com:80/tvlink531/205677/23875
-#EXTINF:-1,USA: ESPN 2
-http://xxultraxx.com:80/tvlink531/205677/23874
-#EXTINF:-1,USA: ESPN 3
-http://xxultraxx.com:80/tvlink531/205677/23873
-#EXTINF:-1,USA: ESPN HD
-http://xxultraxx.com:80/tvlink531/205677/23876
-#EXTINF:-1,USA: ESPN News
-http://xxultraxx.com:80/tvlink531/205677/23872
-#EXTINF:-1,USA: Fight Sport 1
-http://xxultraxx.com:80/tvlink531/205677/23869
-#EXTINF:-1,USA: Fight Sport 2
-http://xxultraxx.com:80/tvlink531/205677/23868
-#EXTINF:-1,USA: Food Network
-http://xxultraxx.com:80/tvlink531/205677/23831
-#EXTINF:-1,USA: Food Network 1
-http://xxultraxx.com:80/tvlink531/205677/23832
-#EXTINF:-1,USA: FOOD NETWORK UHD
-http://xxultraxx.com:80/tvlink531/205677/23833
-#EXTINF:-1,USA: FOX 4 FORT MYERS UHD
-http://xxultraxx.com:80/tvlink531/205677/23867
-#EXTINF:-1,USA: FOX 43 HD
-http://xxultraxx.com:80/tvlink531/205677/23836
-#EXTINF:-1,USA: FOX 5 Las Vegas HD
-http://xxultraxx.com:80/tvlink531/205677/23862
-#EXTINF:-1,USA: FOX BUSINESS UHD
-http://xxultraxx.com:80/tvlink531/205677/23866
-#EXTINF:-1,USA: FOX EAST UHD
-http://xxultraxx.com:80/tvlink531/205677/23865
-#EXTINF:-1,USA: FOX News
-http://xxultraxx.com:80/tvlink531/205677/23861
-#EXTINF:-1,USA: FOX News HD
-http://xxultraxx.com:80/tvlink531/205677/23835
-#EXTINF:-1,USA: FOX NEWS SD
-http://xxultraxx.com:80/tvlink531/205677/23864
-#EXTINF:-1,USA: FOX NEWS UHD
-http://xxultraxx.com:80/tvlink531/205677/23834
-#EXTINF:-1,USA: FOX NY HD
-http://xxultraxx.com:80/tvlink531/205677/23860
-#EXTINF:-1,USA: Fox Soccer  HD
-http://xxultraxx.com:80/tvlink531/205677/23859
-#EXTINF:-1,USA: Fox Soccer Plus HD
-http://xxultraxx.com:80/tvlink531/205677/23858
-#EXTINF:-1,USA: Fox Sports 1
-http://xxultraxx.com:80/tvlink531/205677/23857
-#EXTINF:-1,USA: Fox Sports 2 us
-http://xxultraxx.com:80/tvlink531/205677/23856
-#EXTINF:-1,USA: Fox Sports 2HD
-http://xxultraxx.com:80/tvlink531/205677/23855
-#EXTINF:-1,USA: Fox Sports Arizona HD
-http://xxultraxx.com:80/tvlink531/205677/23854
-#EXTINF:-1,USA: Fox Sports College Atlantic HD
-http://xxultraxx.com:80/tvlink531/205677/23853
-#EXTINF:-1,USA: Fox Sports College Central HD
-http://xxultraxx.com:80/tvlink531/205677/23852
-#EXTINF:-1,USA: Fox Sports College Pacific HD
-http://xxultraxx.com:80/tvlink531/205677/23851
-#EXTINF:-1,USA: Fox Sports Detroit HD
-http://xxultraxx.com:80/tvlink531/205677/23850
-#EXTINF:-1,USA: Fox Sports Florida HD
-http://xxultraxx.com:80/tvlink531/205677/23849
-#EXTINF:-1,USA: Fox Sports Mid West HD
-http://xxultraxx.com:80/tvlink531/205677/23848
-#EXTINF:-1,USA: Fox Sports North HD
-http://xxultraxx.com:80/tvlink531/205677/23847
-#EXTINF:-1,USA: Fox Sports Ohio ʜᴅ
-http://xxultraxx.com:80/tvlink531/205677/23846
-#EXTINF:-1,USA: Fox Sports Prime Ticket HD
-http://xxultraxx.com:80/tvlink531/205677/23845
-#EXTINF:-1,USA: Fox Sports San Diego HD
-http://xxultraxx.com:80/tvlink531/205677/23844
-#EXTINF:-1,USA: Fox Sports South East HD
-http://xxultraxx.com:80/tvlink531/205677/23843
-#EXTINF:-1,USA: Fox Sports South HD
-http://xxultraxx.com:80/tvlink531/205677/23842
-#EXTINF:-1,USA: Fox Sports South West HD
-http://xxultraxx.com:80/tvlink531/205677/23841
-#EXTINF:-1,USA: Fox Sports Sun HD
-http://xxultraxx.com:80/tvlink531/205677/23840
-#EXTINF:-1,USA: Fox Sports Tennessee HD
-http://xxultraxx.com:80/tvlink531/205677/23839
-#EXTINF:-1,USA: Fox Sports West HD
-http://xxultraxx.com:80/tvlink531/205677/23838
-#EXTINF:-1,USA: Fox Sports Wisconsin HD
-http://xxultraxx.com:80/tvlink531/205677/23837
-#EXTINF:-1,USA: FOX WEST UHD
-http://xxultraxx.com:80/tvlink531/205677/23863
-#EXTINF:-1,USA: Freeform
-http://xxultraxx.com:80/tvlink531/205677/23829
-#EXTINF:-1,USA: Freeform (East)
-http://xxultraxx.com:80/tvlink531/205677/23828
-#EXTINF:-1,USA: FREEFORM UHD
-http://xxultraxx.com:80/tvlink531/205677/23830
-#EXTINF:-1,USA: FX us
-http://xxultraxx.com:80/tvlink531/205677/23821
-#EXTINF:-1,USA: FX (East)
-http://xxultraxx.com:80/tvlink531/205677/23824
-#EXTINF:-1,USA: FX (West)
-http://xxultraxx.com:80/tvlink531/205677/23823
-#EXTINF:-1,USA: FX East UHD
-http://xxultraxx.com:80/tvlink531/205677/23827
-#EXTINF:-1,USA: FXM
-http://xxultraxx.com:80/tvlink531/205677/23822
-#EXTINF:-1,USA: FXM UHD
-http://xxultraxx.com:80/tvlink531/205677/23826
-#EXTINF:-1,USA: FXX   UHD
-http://xxultraxx.com:80/tvlink531/205677/23825
-#EXTINF:-1,USA: FXX (West)
-http://xxultraxx.com:80/tvlink531/205677/23820
-#EXTINF:-1,USA: FYI UHD
-http://xxultraxx.com:80/tvlink531/205677/23819
-#EXTINF:-1,USA: GET TV
-http://xxultraxx.com:80/tvlink531/205677/23818
-#EXTINF:-1,USA: Grit
-http://xxultraxx.com:80/tvlink531/205677/23817
-#EXTINF:-1,USA: GSN UHD
-http://xxultraxx.com:80/tvlink531/205677/23816
-#EXTINF:-1,USA: Hallmark
-http://xxultraxx.com:80/tvlink531/205677/23812
-#EXTINF:-1,USA: HALLMARK CHANNEL FHD
-http://xxultraxx.com:80/tvlink531/205677/23815
-#EXTINF:-1,USA: HALLMARK CHANNEL UHD
-http://xxultraxx.com:80/tvlink531/205677/23814
-#EXTINF:-1,USA: HALLMARK MOVIE CHANNEL UHD
-http://xxultraxx.com:80/tvlink531/205677/23813
-#EXTINF:-1,USA: HBO 2 EAST UHD
-http://xxultraxx.com:80/tvlink531/205677/23811
-#EXTINF:-1,USA: HBO Comedy
-http://xxultraxx.com:80/tvlink531/205677/23806
-#EXTINF:-1,USA: HBO COMEDY UHD
-http://xxultraxx.com:80/tvlink531/205677/23810
-#EXTINF:-1,USA: HBO East
-http://xxultraxx.com:80/tvlink531/205677/23802
-#EXTINF:-1,USA: HBO East UHD
-http://xxultraxx.com:80/tvlink531/205677/23809
-#EXTINF:-1,USA: HBO Family
-http://xxultraxx.com:80/tvlink531/205677/23805
-#EXTINF:-1,USA: HBO FAMILY UHD
-http://xxultraxx.com:80/tvlink531/205677/23808
-#EXTINF:-1,USA: HBO SIGNATURE
-http://xxultraxx.com:80/tvlink531/205677/23804
-#EXTINF:-1,USA: HBO SIGNATURE UHD
-http://xxultraxx.com:80/tvlink531/205677/23801
-#EXTINF:-1,USA: HBO Zone
-http://xxultraxx.com:80/tvlink531/205677/23803
-#EXTINF:-1,USA: HBO ZONE UHD
-http://xxultraxx.com:80/tvlink531/205677/23807
-#EXTINF:-1,USA: HGTV us
-http://xxultraxx.com:80/tvlink531/205677/23800
-#EXTINF:-1,USA: HIFI
-http://xxultraxx.com:80/tvlink531/205677/23799
-#EXTINF:-1,USA: History Channel
-http://xxultraxx.com:80/tvlink531/205677/23798
-#EXTINF:-1,USA: HLN
-http://xxultraxx.com:80/tvlink531/205677/23797
-#EXTINF:-1,USA: IFC
-http://xxultraxx.com:80/tvlink531/205677/23795
-#EXTINF:-1,USA: IFC UHD
-http://xxultraxx.com:80/tvlink531/205677/23794
-#EXTINF:-1,USA: Investigation Discovery
-http://xxultraxx.com:80/tvlink531/205677/23793
-#EXTINF:-1,USA: INVESTIGATION DISCOVERY UHD
-http://xxultraxx.com:80/tvlink531/205677/23796
-#EXTINF:-1,USA: iON
-http://xxultraxx.com:80/tvlink531/205677/23792
-#EXTINF:-1,USA: JBTV Music
-http://xxultraxx.com:80/tvlink531/205677/23791
-#EXTINF:-1,USA: KIDS READING TV
-http://xxultraxx.com:80/tvlink531/205677/23790
-#EXTINF:-1,USA: Lifetime
-http://xxultraxx.com:80/tvlink531/205677/23787
-#EXTINF:-1,USA: LIFETIME MOVIE NETWORK UHD
-http://xxultraxx.com:80/tvlink531/205677/23789
-#EXTINF:-1,USA: LIFETIME UHD
-http://xxultraxx.com:80/tvlink531/205677/23788
-#EXTINF:-1,USA: LMN
-http://xxultraxx.com:80/tvlink531/205677/23786
-#EXTINF:-1,USA: Longhorn
-http://xxultraxx.com:80/tvlink531/205677/23785
-#EXTINF:-1,USA: MAV TV
-http://xxultraxx.com:80/tvlink531/205677/23784
-#EXTINF:-1,USA: ME TV UHD
-http://xxultraxx.com:80/tvlink531/205677/23782
-#EXTINF:-1,USA: MLB Extra Innings 720
-http://xxultraxx.com:80/tvlink531/205677/23566
-#EXTINF:-1,USA: MLB Extra Innings 721
-http://xxultraxx.com:80/tvlink531/205677/23565
-#EXTINF:-1,USA: MLB Extra Innings 722
-http://xxultraxx.com:80/tvlink531/205677/23564
-#EXTINF:-1,USA: MLB Extra Innings 723
-http://xxultraxx.com:80/tvlink531/205677/23563
-#EXTINF:-1,USA: MLB Extra Innings 724 -
-http://xxultraxx.com:80/tvlink531/205677/23562
-#EXTINF:-1,USA: MLB Extra Innings 725
-http://xxultraxx.com:80/tvlink531/205677/23561
-#EXTINF:-1,USA: MLB Extra Innings 726
-http://xxultraxx.com:80/tvlink531/205677/23560
-#EXTINF:-1,USA: MLB Extra Innings 727
-http://xxultraxx.com:80/tvlink531/205677/23559
-#EXTINF:-1,USA: MLB Extra Innings 728
-http://xxultraxx.com:80/tvlink531/205677/23558
-#EXTINF:-1,USA: MLB Extra Innings 729
-http://xxultraxx.com:80/tvlink531/205677/23557
-#EXTINF:-1,USA: MLB Extra Innings 730
-http://xxultraxx.com:80/tvlink531/205677/23556
-#EXTINF:-1,USA: MLB Extra Innings 731
-http://xxultraxx.com:80/tvlink531/205677/23555
-#EXTINF:-1,USA: MLB Extra Innings 732
-http://xxultraxx.com:80/tvlink531/205677/23554
-#EXTINF:-1,USA: MLB Extra Innings 733
-http://xxultraxx.com:80/tvlink531/205677/23553
-#EXTINF:-1,USA: MLB Extra Innings 734
-http://xxultraxx.com:80/tvlink531/205677/23552
-#EXTINF:-1,USA: MLB Extra Innings 735
-http://xxultraxx.com:80/tvlink531/205677/23551
-#EXTINF:-1,USA: MLB Extra Innings 736
-http://xxultraxx.com:80/tvlink531/205677/23550
-#EXTINF:-1,USA: MLB Extra Innings 737
-http://xxultraxx.com:80/tvlink531/205677/23549
-#EXTINF:-1,USA: MLB Extra Innings 738
-http://xxultraxx.com:80/tvlink531/205677/23548
-#EXTINF:-1,USA: MLB Extra Innings 739
-http://xxultraxx.com:80/tvlink531/205677/23547
-#EXTINF:-1,USA: MLB Extra Innings 740
-http://xxultraxx.com:80/tvlink531/205677/23546
-#EXTINF:-1,USA: MLB Extra Innings 741
-http://xxultraxx.com:80/tvlink531/205677/23545
-#EXTINF:-1,USA: MLB Extra Innings 742
-http://xxultraxx.com:80/tvlink531/205677/23544
-#EXTINF:-1,USA: MLB Extra Innings 743
-http://xxultraxx.com:80/tvlink531/205677/23543
-#EXTINF:-1,USA: MLB Extra Innings 744
-http://xxultraxx.com:80/tvlink531/205677/23542
-#EXTINF:-1,USA: MLB Extra Innings 745
-http://xxultraxx.com:80/tvlink531/205677/23541
-#EXTINF:-1,USA: MLB Extra Innings 746
-http://xxultraxx.com:80/tvlink531/205677/23540
-#EXTINF:-1,USA: MLB Extra Innings 747
-http://xxultraxx.com:80/tvlink531/205677/23539
-#EXTINF:-1,USA: MLB Extra Innings 748
-http://xxultraxx.com:80/tvlink531/205677/23538
-#EXTINF:-1,USA: MLB Extra Innings 749
-http://xxultraxx.com:80/tvlink531/205677/23537
-#EXTINF:-1,USA: MLB Network
-http://xxultraxx.com:80/tvlink531/205677/23567
-#EXTINF:-1,USA: More Max
-http://xxultraxx.com:80/tvlink531/205677/23780
-#EXTINF:-1,USA: MORE MAX UHD
-http://xxultraxx.com:80/tvlink531/205677/23781
-#EXTINF:-1,USA: MSNBC HD
-http://xxultraxx.com:80/tvlink531/205677/23779
-#EXTINF:-1,USA: MTV  EAST UHD
-http://xxultraxx.com:80/tvlink531/205677/23768
-#EXTINF:-1,USA: MTV (East)
-http://xxultraxx.com:80/tvlink531/205677/23769
-#EXTINF:-1,USA: MTV 2
-http://xxultraxx.com:80/tvlink531/205677/23777
-#EXTINF:-1,USA: MTV LIVE
-http://xxultraxx.com:80/tvlink531/205677/23776
-#EXTINF:-1,USA: MTV UHD
-http://xxultraxx.com:80/tvlink531/205677/23778
-#EXTINF:-1,USA: NASA TV
-http://xxultraxx.com:80/tvlink531/205677/23765
-#EXTINF:-1,USA: Nat Geo
-http://xxultraxx.com:80/tvlink531/205677/23767
-#EXTINF:-1,USA: Nat Geo Wild 2
-http://xxultraxx.com:80/tvlink531/205677/23766
-#EXTINF:-1,USA: NBA LEAGUE PASS LIVE 1 ʜᴅ
-http://xxultraxx.com:80/tvlink531/205677/23750
-#EXTINF:-1,USA: NBA LEAGUE PASS LIVE 10 ʜᴅ
-http://xxultraxx.com:80/tvlink531/205677/23741
-#EXTINF:-1,USA: NBA LEAGUE PASS LIVE 14 ʜᴅ
-http://xxultraxx.com:80/tvlink531/205677/23739
-#EXTINF:-1,USA: NBA LEAGUE PASS LIVE 15 ʜᴅ
-http://xxultraxx.com:80/tvlink531/205677/23740
-#EXTINF:-1,USA: NBA LEAGUE PASS LIVE 2 ʜᴅ
-http://xxultraxx.com:80/tvlink531/205677/23749
-#EXTINF:-1,USA: NBA LEAGUE PASS LIVE 3 ʜᴅ
-http://xxultraxx.com:80/tvlink531/205677/23748
-#EXTINF:-1,USA: NBA LEAGUE PASS LIVE 4 ʜᴅ
-http://xxultraxx.com:80/tvlink531/205677/23747
-#EXTINF:-1,USA: NBA LEAGUE PASS LIVE 5 ʜᴅ
-http://xxultraxx.com:80/tvlink531/205677/23746
-#EXTINF:-1,USA: NBA LEAGUE PASS LIVE 6 ʜᴅ
-http://xxultraxx.com:80/tvlink531/205677/23745
-#EXTINF:-1,USA: NBA LEAGUE PASS LIVE 7 ʜᴅ
-http://xxultraxx.com:80/tvlink531/205677/23744
-#EXTINF:-1,USA: NBA LEAGUE PASS LIVE 8 ʜᴅ
-http://xxultraxx.com:80/tvlink531/205677/23743
-#EXTINF:-1,USA: NBA LEAGUE PASS LIVE 9 ʜᴅ
-http://xxultraxx.com:80/tvlink531/205677/23742
-#EXTINF:-1,USA: NBA TV
-http://xxultraxx.com:80/tvlink531/205677/23738
-#EXTINF:-1,USA: NBA Tv US ʜᴅ
-http://xxultraxx.com:80/tvlink531/205677/23736
-#EXTINF:-1,USA: NBC (East)
-http://xxultraxx.com:80/tvlink531/205677/23735
-#EXTINF:-1,USA: NBC EAST UHD
-http://xxultraxx.com:80/tvlink531/205677/23762
-#EXTINF:-1,USA: NBC Golf us
-http://xxultraxx.com:80/tvlink531/205677/23737
-#EXTINF:-1,USA: NBC Sports
-http://xxultraxx.com:80/tvlink531/205677/23728
-#EXTINF:-1,USA: NBC Upstate NY UHD
-http://xxultraxx.com:80/tvlink531/205677/23764
-#EXTINF:-1,USA: NBC WEST UHD
-http://xxultraxx.com:80/tvlink531/205677/23763
-#EXTINF:-1,USA: NBCSN EPL Live Match 1 ʜᴅ
-http://xxultraxx.com:80/tvlink531/205677/23761
-#EXTINF:-1,USA: NBCSN EPL Live Match 10 ʜᴅ
-http://xxultraxx.com:80/tvlink531/205677/23752
-#EXTINF:-1,USA: NBCSN EPL Live Match 11 ʜᴅ
-http://xxultraxx.com:80/tvlink531/205677/23751
-#EXTINF:-1,USA: NBCSN EPL Live Match 2 ʜᴅ
-http://xxultraxx.com:80/tvlink531/205677/23760
-#EXTINF:-1,USA: NBCSN EPL Live Match 3 ʜᴅ
-http://xxultraxx.com:80/tvlink531/205677/23759
-#EXTINF:-1,USA: NBCSN EPL Live Match 4 ʜᴅ
-http://xxultraxx.com:80/tvlink531/205677/23758
-#EXTINF:-1,USA: NBCSN EPL Live Match 5 ʜᴅ
-http://xxultraxx.com:80/tvlink531/205677/23757
-#EXTINF:-1,USA: NBCSN EPL Live Match 6 ʜᴅ
-http://xxultraxx.com:80/tvlink531/205677/23756
-#EXTINF:-1,USA: NBCSN EPL Live Match 7 ʜᴅ
-http://xxultraxx.com:80/tvlink531/205677/23755
-#EXTINF:-1,USA: NBCSN EPL Live Match 8 ʜᴅ
-http://xxultraxx.com:80/tvlink531/205677/23754
-#EXTINF:-1,USA: NBCSN EPL Live Match 9 ʜᴅ
-http://xxultraxx.com:80/tvlink531/205677/23753
-#EXTINF:-1,USA: NBCSN
-http://xxultraxx.com:80/tvlink531/205677/23727
-#EXTINF:-1,USA: NEWS 12 THE BRONX UHD
-http://xxultraxx.com:80/tvlink531/205677/23726
-#EXTINF:-1,USA: NFL NETWORK us
-http://xxultraxx.com:80/tvlink531/205677/23725
-#EXTINF:-1,USA: NFL NOW
-http://xxultraxx.com:80/tvlink531/205677/23724
-#EXTINF:-1,USA: NFL Red Zone
-http://xxultraxx.com:80/tvlink531/205677/23723
-#EXTINF:-1,USA: NFL SUNDAY TICKET 705
-http://xxultraxx.com:80/tvlink531/205677/23710
-#EXTINF:-1,USA: NFL SUNDAY TICKET 706
-http://xxultraxx.com:80/tvlink531/205677/23718
-#EXTINF:-1,USA: NFL SUNDAY TICKET 707
-http://xxultraxx.com:80/tvlink531/205677/23717
-#EXTINF:-1,USA: NFL SUNDAY TICKET 708
-http://xxultraxx.com:80/tvlink531/205677/23716
-#EXTINF:-1,USA: NFL SUNDAY TICKET 709
-http://xxultraxx.com:80/tvlink531/205677/23715
-#EXTINF:-1,USA: NFL SUNDAY TICKET 710
-http://xxultraxx.com:80/tvlink531/205677/23714
-#EXTINF:-1,USA: NFL SUNDAY TICKET 711
-http://xxultraxx.com:80/tvlink531/205677/23713
-#EXTINF:-1,USA: NFL SUNDAY TICKET 712
-http://xxultraxx.com:80/tvlink531/205677/23712
-#EXTINF:-1,USA: NFL SUNDAY TICKET 713
-http://xxultraxx.com:80/tvlink531/205677/23711
-#EXTINF:-1,USA: NFL SUNDAY TICKET 714
-http://xxultraxx.com:80/tvlink531/205677/23722
-#EXTINF:-1,USA: NFL SUNDAY TICKET 715
-http://xxultraxx.com:80/tvlink531/205677/23721
-#EXTINF:-1,USA: NFL SUNDAY TICKET 716
-http://xxultraxx.com:80/tvlink531/205677/23720
-#EXTINF:-1,USA: NFL SUNDAY TICKET 717
-http://xxultraxx.com:80/tvlink531/205677/23719
-#EXTINF:-1,USA: NHL  771
-http://xxultraxx.com:80/tvlink531/205677/23707
-#EXTINF:-1,USA: NHL  772
-http://xxultraxx.com:80/tvlink531/205677/23706
-#EXTINF:-1,USA: NHL  773
-http://xxultraxx.com:80/tvlink531/205677/23705
-#EXTINF:-1,USA: NHL  774
-http://xxultraxx.com:80/tvlink531/205677/23704
-#EXTINF:-1,USA: NHL  775
-http://xxultraxx.com:80/tvlink531/205677/23703
-#EXTINF:-1,USA: NHL  776
-http://xxultraxx.com:80/tvlink531/205677/23702
-#EXTINF:-1,USA: NHL  777
-http://xxultraxx.com:80/tvlink531/205677/23701
-#EXTINF:-1,USA: NHL  778
-http://xxultraxx.com:80/tvlink531/205677/23700
-#EXTINF:-1,USA: NHL 770
-http://xxultraxx.com:80/tvlink531/205677/23699
-#EXTINF:-1,USA: NHL 779
-http://xxultraxx.com:80/tvlink531/205677/23698
-#EXTINF:-1,USA: NHL 780
-http://xxultraxx.com:80/tvlink531/205677/23697
-#EXTINF:-1,USA: NHL 781
-http://xxultraxx.com:80/tvlink531/205677/23696
-#EXTINF:-1,USA: NHL 782
-http://xxultraxx.com:80/tvlink531/205677/23695
-#EXTINF:-1,USA: NHL NETWORK
-http://xxultraxx.com:80/tvlink531/205677/23708
-#EXTINF:-1,USA: NHL Network HD us
-http://xxultraxx.com:80/tvlink531/205677/23709
-#EXTINF:-1,USA: NICK JR UHD
-http://xxultraxx.com:80/tvlink531/205677/23694
-#EXTINF:-1,USA: Nick Jr.
-http://xxultraxx.com:80/tvlink531/205677/23692
-#EXTINF:-1,USA: NICKELODEON 2
-http://xxultraxx.com:80/tvlink531/205677/23691
-#EXTINF:-1,USA: NICKELODEON UHD
-http://xxultraxx.com:80/tvlink531/205677/23693
-#EXTINF:-1,USA: OUTDOOR CHANNEL UHD
-http://xxultraxx.com:80/tvlink531/205677/23689
-#EXTINF:-1,USA: OWN
-http://xxultraxx.com:80/tvlink531/205677/23687
-#EXTINF:-1,USA: OWN  UHD
-http://xxultraxx.com:80/tvlink531/205677/23688
-#EXTINF:-1,USA: Oxygen
-http://xxultraxx.com:80/tvlink531/205677/23685
-#EXTINF:-1,USA: OXYGEN TV UHD
-http://xxultraxx.com:80/tvlink531/205677/23686
-#EXTINF:-1,USA: PAC-12 Arizona
-http://xxultraxx.com:80/tvlink531/205677/23684
-#EXTINF:-1,USA: PAC-12 Bay Area
-http://xxultraxx.com:80/tvlink531/205677/23683
-#EXTINF:-1,USA: PAC-12 Bay Area 2
-http://xxultraxx.com:80/tvlink531/205677/23679
-#EXTINF:-1,USA: PAC-12 Los Angeles
-http://xxultraxx.com:80/tvlink531/205677/23682
-#EXTINF:-1,USA: PAC-12 Oregon
-http://xxultraxx.com:80/tvlink531/205677/23681
-#EXTINF:-1,USA: PAC-12 Oregon 2
-http://xxultraxx.com:80/tvlink531/205677/23678
-#EXTINF:-1,USA: PAC-12 Washington
-http://xxultraxx.com:80/tvlink531/205677/23680
-#EXTINF:-1,USA: PAC-12 Washington 2
-http://xxultraxx.com:80/tvlink531/205677/23677
-#EXTINF:-1,USA: PARAMOUNT NETWORK UHD
-http://xxultraxx.com:80/tvlink531/205677/23676
-#EXTINF:-1,USA: POP UHD
-http://xxultraxx.com:80/tvlink531/205677/23675
-#EXTINF:-1,USA: PRESS TV
-http://xxultraxx.com:80/tvlink531/205677/23674
-#EXTINF:-1,USA: Pursuit
-http://xxultraxx.com:80/tvlink531/205677/23673
-#EXTINF:-1,USA: QVC PLUS UHD
-http://xxultraxx.com:80/tvlink531/205677/23671
-#EXTINF:-1,USA: QVC UHD
-http://xxultraxx.com:80/tvlink531/205677/23670
-#EXTINF:-1,USA: Red Bull TV
-http://xxultraxx.com:80/tvlink531/205677/23667
-#EXTINF:-1,USA: Red Bull TV HD UHD
-http://xxultraxx.com:80/tvlink531/205677/23669
-#EXTINF:-1,USA: Reelz Channel
-http://xxultraxx.com:80/tvlink531/205677/23665
-#EXTINF:-1,USA: QVC 2 UHD
-http://xxultraxx.com:80/tvlink531/205677/23672
-#EXTINF:-1,USA: Reelz Channel UHD
-http://xxultraxx.com:80/tvlink531/205677/23666
-#EXTINF:-1,USA: REVOLT UHD
-http://xxultraxx.com:80/tvlink531/205677/23668
-#EXTINF:-1,USA: RT America
-http://xxultraxx.com:80/tvlink531/205677/23664
-#EXTINF:-1,USA: Science Channel
-http://xxultraxx.com:80/tvlink531/205677/23663
-#EXTINF:-1,USA: SEC Network
-http://xxultraxx.com:80/tvlink531/205677/23662
-#EXTINF:-1,USA: Showcase Fhd
-http://xxultraxx.com:80/tvlink531/205677/23655
-#EXTINF:-1,USA: Showtime
-http://xxultraxx.com:80/tvlink531/205677/23656
-#EXTINF:-1,USA: Showtime 1
-http://xxultraxx.com:80/tvlink531/205677/23653
-#EXTINF:-1,USA: Showtime 2
-http://xxultraxx.com:80/tvlink531/205677/23654
-#EXTINF:-1,USA: SHOWTIME 2 UHD
-http://xxultraxx.com:80/tvlink531/205677/23661
-#EXTINF:-1,USA: SHOWTIME EAST (back up) UHD
-http://xxultraxx.com:80/tvlink531/205677/23660
-#EXTINF:-1,USA: SHOWTIME FAMILY ZONE UHD
-http://xxultraxx.com:80/tvlink531/205677/23659
-#EXTINF:-1,USA: SHOWTIME SHOWCASE UHD
-http://xxultraxx.com:80/tvlink531/205677/23658
-#EXTINF:-1,USA: SHOWTIME UHD
-http://xxultraxx.com:80/tvlink531/205677/23657
-#EXTINF:-1,USA: SMITHSONIAN CHANNEL UHD
-http://xxultraxx.com:80/tvlink531/205677/23652
-#EXTINF:-1,USA: ˢᵖ Astro Sports 4
-http://xxultraxx.com:80/tvlink531/205677/23579
-#EXTINF:-1,USA: ˢᵖ Astro SuperSports 2
-http://xxultraxx.com:80/tvlink531/205677/23581
-#EXTINF:-1,USA: ˢᵖ Astro SuperSports 3
-http://xxultraxx.com:80/tvlink531/205677/23580
-#EXTINF:-1,USA: ˢᵖ SKYNET SPORTS 1
-http://xxultraxx.com:80/tvlink531/205677/23535
-#EXTINF:-1,USA: ˢᵖ SKYNET SPORTS 2
-http://xxultraxx.com:80/tvlink531/205677/23534
-#EXTINF:-1,USA: ˢᵖ SKYNET SPORTS 4
-http://xxultraxx.com:80/tvlink531/205677/23532
-#EXTINF:-1,USA: ˢᵖ SKYNET SPORTS 5
-http://xxultraxx.com:80/tvlink531/205677/23531
-#EXTINF:-1,USA: ˢᵖ SKYNET SPORTS 6
-http://xxultraxx.com:80/tvlink531/205677/23530
-#EXTINF:-1,USA: ˢᵖ SKYNET SPORTS ʜᴅ
-http://xxultraxx.com:80/tvlink531/205677/23536
-#EXTINF:-1,USA: SPIKE (East)
-http://xxultraxx.com:80/tvlink531/205677/23644
-#EXTINF:-1,USA: Sportsnet 360 HD
-http://xxultraxx.com:80/tvlink531/205677/23578
-#EXTINF:-1,USA: Sportsnet 360 HD.
-http://xxultraxx.com:80/tvlink531/205677/23577
-#EXTINF:-1,USA: Sportsnet East HD
-http://xxultraxx.com:80/tvlink531/205677/23576
-#EXTINF:-1,USA: Sportsnet One HD
-http://xxultraxx.com:80/tvlink531/205677/23574
-#EXTINF:-1,USA: Sportsnet One HD.
-http://xxultraxx.com:80/tvlink531/205677/23573
-#EXTINF:-1,USA: Sportsnet Ontario HD
-http://xxultraxx.com:80/tvlink531/205677/23572
-#EXTINF:-1,USA: Sportsnet Ontario HD.
-http://xxultraxx.com:80/tvlink531/205677/23571
-#EXTINF:-1,USA: Sportsnet Pacific HD.
-http://xxultraxx.com:80/tvlink531/205677/23570
-#EXTINF:-1,USA: Sportsnet West HD.
-http://xxultraxx.com:80/tvlink531/205677/23575
-#EXTINF:-1,USA: Sportsnet World HD
-http://xxultraxx.com:80/tvlink531/205677/23569
-#EXTINF:-1,USA: Sportsnet World HD.
-http://xxultraxx.com:80/tvlink531/205677/23568
-#EXTINF:-1,USA: ˢᵖSKYNET SPORTS 3
-http://xxultraxx.com:80/tvlink531/205677/23533
-#EXTINF:-1,USA: Starz Cinema
-http://xxultraxx.com:80/tvlink531/205677/23646
-#EXTINF:-1,USA: STARZ CINEMA UHD
-http://xxultraxx.com:80/tvlink531/205677/23651
-#EXTINF:-1,USA: Starz Comedy
-http://xxultraxx.com:80/tvlink531/205677/23645
-#EXTINF:-1,USA: STARZ COMEDY UHD
-http://xxultraxx.com:80/tvlink531/205677/23650
-#EXTINF:-1,USA: Starz East
-http://xxultraxx.com:80/tvlink531/205677/23640
-#EXTINF:-1,USA: Starz Edge
-http://xxultraxx.com:80/tvlink531/205677/23639
-#EXTINF:-1,USA: STARZ EDGE UHD
-http://xxultraxx.com:80/tvlink531/205677/23649
-#EXTINF:-1,USA: Starz Encore
-http://xxultraxx.com:80/tvlink531/205677/23641
-#EXTINF:-1,USA: STARZ ENCORE UHD
-http://xxultraxx.com:80/tvlink531/205677/23647
-#EXTINF:-1,USA: STARZ KIDS & FAMILY UHD
-http://xxultraxx.com:80/tvlink531/205677/23648
-#EXTINF:-1,USA: Starz West
-http://xxultraxx.com:80/tvlink531/205677/23638
-#EXTINF:-1,USA: SUN DANCE TV
-http://xxultraxx.com:80/tvlink531/205677/23642
-#EXTINF:-1,USA: SUN DANCE TV UHD
-http://xxultraxx.com:80/tvlink531/205677/23643
-#EXTINF:-1,USA: SYFY
-http://xxultraxx.com:80/tvlink531/205677/23636
-#EXTINF:-1,USA: SYFY UHD
-http://xxultraxx.com:80/tvlink531/205677/23637
-#EXTINF:-1,USA: TBN
-http://xxultraxx.com:80/tvlink531/205677/23633
-#EXTINF:-1,USA: TBS us
-http://xxultraxx.com:80/tvlink531/205677/23634
-#EXTINF:-1,USA: TBS UHD
-http://xxultraxx.com:80/tvlink531/205677/23635
-#EXTINF:-1,USA: TCM UHD
-http://xxultraxx.com:80/tvlink531/205677/23632
-#EXTINF:-1,USA: Tennis Channel
-http://xxultraxx.com:80/tvlink531/205677/23631
-#EXTINF:-1,USA: Tennis Channel 2
-http://xxultraxx.com:80/tvlink531/205677/23630
-#EXTINF:-1,USA: The Blaze
-http://xxultraxx.com:80/tvlink531/205677/23627
-#EXTINF:-1,USA: THE STRIP  UHD
-http://xxultraxx.com:80/tvlink531/205677/23629
-#EXTINF:-1,USA: THRILLER MAX UHD
-http://xxultraxx.com:80/tvlink531/205677/23628
-#EXTINF:-1,USA: TLC 2
-http://xxultraxx.com:80/tvlink531/205677/23625
-#EXTINF:-1,USA: TLC UHD
-http://xxultraxx.com:80/tvlink531/205677/23626
-#EXTINF:-1,USA: TNT 1
-http://xxultraxx.com:80/tvlink531/205677/23624
-#EXTINF:-1,USA: TNT 2
-http://xxultraxx.com:80/tvlink531/205677/23622
-#EXTINF:-1,USA: TNT UHD
-http://xxultraxx.com:80/tvlink531/205677/23623
-#EXTINF:-1,USA: Travel Channel
-http://xxultraxx.com:80/tvlink531/205677/23620
-#EXTINF:-1,USA: TRAVEL CHANNEL UHD
-http://xxultraxx.com:80/tvlink531/205677/23621
-#EXTINF:-1,USA: TRT World
-http://xxultraxx.com:80/tvlink531/205677/23619
-#EXTINF:-1,USA: Tru TV
-http://xxultraxx.com:80/tvlink531/205677/23617
-#EXTINF:-1,USA: TRU TV UHD
-http://xxultraxx.com:80/tvlink531/205677/23618
-#EXTINF:-1,USA: TSN Sport 1 HD
-http://xxultraxx.com:80/tvlink531/205677/23591
-#EXTINF:-1,USA: TSN Sport 1 HD.
-http://xxultraxx.com:80/tvlink531/205677/23590
-#EXTINF:-1,USA: TSN Sport 2 HD
-http://xxultraxx.com:80/tvlink531/205677/23589
-#EXTINF:-1,USA: TSN Sport 2 HD.
-http://xxultraxx.com:80/tvlink531/205677/23588
-#EXTINF:-1,USA: TSN Sport 3 HD
-http://xxultraxx.com:80/tvlink531/205677/23587
-#EXTINF:-1,USA: TSN Sport 3 HD.
-http://xxultraxx.com:80/tvlink531/205677/23586
-#EXTINF:-1,USA: TSN Sport 4 HD
-http://xxultraxx.com:80/tvlink531/205677/23585
-#EXTINF:-1,USA: TSN Sport 4 HD.
-http://xxultraxx.com:80/tvlink531/205677/23584
-#EXTINF:-1,USA: TSN Sport 5 HD
-http://xxultraxx.com:80/tvlink531/205677/23582
-#EXTINF:-1,USA: TSN Sport 5 HD.
-http://xxultraxx.com:80/tvlink531/205677/23583
-#EXTINF:-1,USA: TV Land
-http://xxultraxx.com:80/tvlink531/205677/23615
-#EXTINF:-1,USA: TV Land (East)
-http://xxultraxx.com:80/tvlink531/205677/23614
-#EXTINF:-1,USA: TV Land (West)
-http://xxultraxx.com:80/tvlink531/205677/23613
-#EXTINF:-1,USA: TV LAND UHD
-http://xxultraxx.com:80/tvlink531/205677/23612
-#EXTINF:-1,USA: TV ONE UHD
-http://xxultraxx.com:80/tvlink531/205677/23616
-#EXTINF:-1,USA: UFC FIGHT NETWORK
-http://xxultraxx.com:80/tvlink531/205677/23611
-#EXTINF:-1,USA: UFC Fight Pass 2
-http://xxultraxx.com:80/tvlink531/205677/23610
-#EXTINF:-1,USA: UNIVISION UHD
-http://xxultraxx.com:80/tvlink531/205677/23609
-#EXTINF:-1,USA: USA NETWORK
-http://xxultraxx.com:80/tvlink531/205677/23607
-#EXTINF:-1,USA: USA NETWORK UHD
-http://xxultraxx.com:80/tvlink531/205677/23608
-#EXTINF:-1,USA: Velocity
-http://xxultraxx.com:80/tvlink531/205677/23605
-#EXTINF:-1,USA: VELOCITY UHD
-http://xxultraxx.com:80/tvlink531/205677/23606
-#EXTINF:-1,USA: VH1
-http://xxultraxx.com:80/tvlink531/205677/23602
-#EXTINF:-1,USA: VH1 EAST  UHD
-http://xxultraxx.com:80/tvlink531/205677/23604
-#EXTINF:-1,USA: VH1 UHD
-http://xxultraxx.com:80/tvlink531/205677/23603
-#EXTINF:-1,USA: Viceland
-http://xxultraxx.com:80/tvlink531/205677/23600
-#EXTINF:-1,USA: VICELAND UHD
-http://xxultraxx.com:80/tvlink531/205677/23599
-#EXTINF:-1,USA: VIRGIN TV (MUSIC) UHD
-http://xxultraxx.com:80/tvlink531/205677/23601
-#EXTINF:-1,USA: WE TV UHD
-http://xxultraxx.com:80/tvlink531/205677/23598
-#EXTINF:-1,USA: WGN America
-http://xxultraxx.com:80/tvlink531/205677/23596
-#EXTINF:-1,USA: WGN AMERICA UHD
-http://xxultraxx.com:80/tvlink531/205677/23597
-#EXTINF:-1,USA: WWE NETWORK
-http://xxultraxx.com:80/tvlink531/205677/23595
-#EXTINF:-1,USA: Yes Network
-http://xxultraxx.com:80/tvlink531/205677/23593
-#EXTINF:-1,USA: A&E
-http://xxultraxx.com:80/tvlink531/205677/7659
-#EXTINF:-1,USA: A&E HD
-http://xxultraxx.com:80/tvlink531/205677/9362
-#EXTINF:-1,USA: ABC NEWS HD
-http://xxultraxx.com:80/tvlink531/205677/9364
-#EXTINF:-1,USA: ABC EAST
-http://xxultraxx.com:80/tvlink531/205677/7619
-#EXTINF:-1,USA: Abc News
-http://xxultraxx.com:80/tvlink531/205677/7645
-#EXTINF:-1,USA: Al Jazeera
-http://xxultraxx.com:80/tvlink531/205677/7622
-#EXTINF:-1,USA: AMC
-http://xxultraxx.com:80/tvlink531/205677/7655
-#EXTINF:-1,USA: AMC HD
-http://xxultraxx.com:80/tvlink531/205677/9360
-#EXTINF:-1,USA: Animal Planet
-http://xxultraxx.com:80/tvlink531/205677/7626
-#EXTINF:-1,USA: BEIN_SPORT
-http://xxultraxx.com:80/tvlink531/205677/7644
-#EXTINF:-1,USA: BLOOMBERG
-http://xxultraxx.com:80/tvlink531/205677/7617
-#EXTINF:-1,USA: CNBC
-http://xxultraxx.com:80/tvlink531/205677/7636
-#EXTINF:-1,USA: CNBC HD
-http://xxultraxx.com:80/tvlink531/205677/9358
-#EXTINF:-1,USA: CNN HD
-http://xxultraxx.com:80/tvlink531/205677/9357
-#EXTINF:-1,USA: Comedy Central
-http://xxultraxx.com:80/tvlink531/205677/9355
-#EXTINF:-1,USA: ComedyCentral
-http://xxultraxx.com:80/tvlink531/205677/7627
-#EXTINF:-1,USA: Cooking Ch
-http://xxultraxx.com:80/tvlink531/205677/9356
-#EXTINF:-1,USA: DISCOVERY
-http://xxultraxx.com:80/tvlink531/205677/7630
-#EXTINF:-1,USA: DISCOVERY Science
-http://xxultraxx.com:80/tvlink531/205677/7620
-#EXTINF:-1,USA: ESPN
-http://xxultraxx.com:80/tvlink531/205677/7648
-#EXTINF:-1,USA: FOOD NETWORK HD
-http://xxultraxx.com:80/tvlink531/205677/9352
-#EXTINF:-1,USA: Fox Sports 2
-http://xxultraxx.com:80/tvlink531/205677/7641
-#EXTINF:-1,USA: FX
-http://xxultraxx.com:80/tvlink531/205677/7661
-#EXTINF:-1,USA: HBO COMEDY HD
-http://xxultraxx.com:80/tvlink531/205677/9349
-#EXTINF:-1,USA: HBO FAMILY HD
-http://xxultraxx.com:80/tvlink531/205677/9351
-#EXTINF:-1,USA: HBO SIGNATURE HD
-http://xxultraxx.com:80/tvlink531/205677/9350
-#EXTINF:-1,USA: HGTV
-http://xxultraxx.com:80/tvlink531/205677/7649
-#EXTINF:-1,USA: ID
-http://xxultraxx.com:80/tvlink531/205677/7662
-#EXTINF:-1,USA: LIFETIME HD
-http://xxultraxx.com:80/tvlink531/205677/9363
-#EXTINF:-1,USA: National Geographie
-http://xxultraxx.com:80/tvlink531/205677/7623
-#EXTINF:-1,USA: NBC Golf
-http://xxultraxx.com:80/tvlink531/205677/7629
-#EXTINF:-1,USA: NFL Network
-http://xxultraxx.com:80/tvlink531/205677/7643
-#EXTINF:-1,USA: TBS
-http://xxultraxx.com:80/tvlink531/205677/7658
-#EXTINF:-1,USA: TNT
-http://xxultraxx.com:80/tvlink531/205677/7660
-#EXTINF:-1,USA: CNN
-http://xxultraxx.com:80/tvlink531/205677/9338
-#EXTINF:-1,USA: TELEMUNDO
-http://xxultraxx.com:80/tvlink531/205677/21313
-#EXTINF:-1,USA: UNIVISION HD
-http://xxultraxx.com:80/tvlink531/205677/9342
-#EXTINF:-1,USA: FX HD
-http://xxultraxx.com:80/tvlink531/205677/9991
-#EXTINF:-1,USA: FXM HD
-http://xxultraxx.com:80/tvlink531/205677/9989
-#EXTINF:-1,USA: FXX HD
-http://xxultraxx.com:80/tvlink531/205677/9990
-#EXTINF:-1,USA: BIG TEN NETWORK HD
-http://xxultraxx.com:80/tvlink531/205677/20763
-#EXTINF:-1,USA: NHL NETWORK HD
-http://xxultraxx.com:80/tvlink531/205677/20756
-#EXTINF:-1,USA: Showtime West 24/7 HD
-http://xxultraxx.com:80/tvlink531/205677/20771
-#EXTINF:-1,USA: Starz Comedy 24/7 HD
-http://xxultraxx.com:80/tvlink531/205677/20768
-#EXTINF:-1,USA: Starz Edge 24/7 HD
-http://xxultraxx.com:80/tvlink531/205677/20767
-#EXTINF:-1,USA: Starz Encore 24/7 HD
-http://xxultraxx.com:80/tvlink531/205677/20766
-#EXTINF:-1,USA: STARZ ENCORE WESTERN
-http://xxultraxx.com:80/tvlink531/205677/20752
-#EXTINF:-1,USA: Starz Kids & Family 24/7 HD
-http://xxultraxx.com:80/tvlink531/205677/20764
-#EXTINF:-1,USA: CARTOON NETWORK
-http://xxultraxx.com:80/tvlink531/205677/20781
-#EXTINF:-1,USA: DISNEY CHANNEL
-http://xxultraxx.com:80/tvlink531/205677/20780
-#EXTINF:-1,USA: DISNEY JR
-http://xxultraxx.com:80/tvlink531/205677/20779
-#EXTINF:-1,USA: MLB NETWORK HD
-http://xxultraxx.com:80/tvlink531/205677/20783
-#EXTINF:-1,CAN: CP24
-http://xxultraxx.com:80/tvlink531/205677/9347
-#EXTINF:-1,CAN: CRIME INVESTIGATION
-http://xxultraxx.com:80/tvlink531/205677/9346
-#EXTINF:-1,CAN: FAMILY WEST
-http://xxultraxx.com:80/tvlink531/205677/9341
-#EXTINF:-1,CAN: BRAVO
-http://xxultraxx.com:80/tvlink531/205677/9348
-#EXTINF:-1,CAN: FOX WEST
-http://xxultraxx.com:80/tvlink531/205677/9339
-#EXTINF:-1,CAN: HBO 1
-http://xxultraxx.com:80/tvlink531/205677/9336
-#EXTINF:-1,CAN: HBO 2
-http://xxultraxx.com:80/tvlink531/205677/9335
-#EXTINF:-1,CAN: NBC EAST
-http://xxultraxx.com:80/tvlink531/205677/9324
-#EXTINF:-1,CAN: PBS-E
-http://xxultraxx.com:80/tvlink531/205677/9334
-#EXTINF:-1,CAN: SHOWTIME
-http://xxultraxx.com:80/tvlink531/205677/9332
-#EXTINF:-1,CAN: TLC
-http://xxultraxx.com:80/tvlink531/205677/9331
-#EXTINF:-1,CAN: TRAVEL AND ESCAPE
-http://xxultraxx.com:80/tvlink531/205677/9329
-#EXTINF:-1,CAN: YES
-http://xxultraxx.com:80/tvlink531/205677/9326
-#EXTINF:-1,CAN: YTV-E
-http://xxultraxx.com:80/tvlink531/205677/9325
-#EXTINF:-1,CAN: ABC EAST
-http://xxultraxx.com:80/tvlink531/205677/9932
-#EXTINF:-1,CAN: ABC WEST
-http://xxultraxx.com:80/tvlink531/205677/9988
-#EXTINF:-1,CAN: AMC
-http://xxultraxx.com:80/tvlink531/205677/9987
-#EXTINF:-1,CAN: ANIMAL PLANET
-http://xxultraxx.com:80/tvlink531/205677/9986
-#EXTINF:-1,CAN: BBC CANADA
-http://xxultraxx.com:80/tvlink531/205677/9885
-#EXTINF:-1,CAN: BNN
-http://xxultraxx.com:80/tvlink531/205677/9883
-#EXTINF:-1,CAN: CANAL SAVOIR
-http://xxultraxx.com:80/tvlink531/205677/9985
-#EXTINF:-1,CAN: CARTOON NETWORK
-http://xxultraxx.com:80/tvlink531/205677/9928
-#EXTINF:-1,CAN: CBC NEWS
-http://xxultraxx.com:80/tvlink531/205677/9927
-#EXTINF:-1,CAN: CBC OTTAWA
-http://xxultraxx.com:80/tvlink531/205677/9882
-#EXTINF:-1,CAN: CBC VANCOUVER
-http://xxultraxx.com:80/tvlink531/205677/9881
-#EXTINF:-1,CAN: CBS EAST
-http://xxultraxx.com:80/tvlink531/205677/9880
-#EXTINF:-1,CAN: CBS WEST
-http://xxultraxx.com:80/tvlink531/205677/9879
-#EXTINF:-1,CAN: CITY TORONTO
-http://xxultraxx.com:80/tvlink531/205677/9877
-#EXTINF:-1,CAN: CMT CANADA
-http://xxultraxx.com:80/tvlink531/205677/9926
-#EXTINF:-1,CAN: CNBC
-http://xxultraxx.com:80/tvlink531/205677/9876
-#EXTINF:-1,CAN: CNN INTERNATIONAL
-http://xxultraxx.com:80/tvlink531/205677/9875
-#EXTINF:-1,CAN: COTTAGE LIFE
-http://xxultraxx.com:80/tvlink531/205677/9924
-#EXTINF:-1,CAN: CW 11
-http://xxultraxx.com:80/tvlink531/205677/9973
-#EXTINF:-1,CAN: DISCOVERY VELOCITY
-http://xxultraxx.com:80/tvlink531/205677/9845
-#EXTINF:-1,CAN: INVESTIGATION DISCOVERY
-http://xxultraxx.com:80/tvlink531/205677/9824
-#EXTINF:-1,CAN: DISNEY
-http://xxultraxx.com:80/tvlink531/205677/9843
-#EXTINF:-1,CAN: DISNEY FRENCH
-http://xxultraxx.com:80/tvlink531/205677/9971
-#EXTINF:-1,CAN: DIY
-http://xxultraxx.com:80/tvlink531/205677/9874
-#EXTINF:-1,CAN: FAMILY EAST
-http://xxultraxx.com:80/tvlink531/205677/9835
-#EXTINF:-1,CAN: FOOD NETWORK
-http://xxultraxx.com:80/tvlink531/205677/9968
-#EXTINF:-1,CAN: FOX EAST
-http://xxultraxx.com:80/tvlink531/205677/9868
-#EXTINF:-1,CAN: FOX NEWS
-http://xxultraxx.com:80/tvlink531/205677/9967
-#EXTINF:-1,CAN: FX CANADA
-http://xxultraxx.com:80/tvlink531/205677/9838
-#EXTINF:-1,CAN: GLOBAL VANCOUVER
-http://xxultraxx.com:80/tvlink531/205677/9866
-#EXTINF:-1,CAN: HLN
-http://xxultraxx.com:80/tvlink531/205677/9871
-#EXTINF:-1,CAN: LCN
-http://xxultraxx.com:80/tvlink531/205677/9907
-#EXTINF:-1,CAN: MOI CIE
-http://xxultraxx.com:80/tvlink531/205677/9960
-#EXTINF:-1,CAN: MTV
-http://xxultraxx.com:80/tvlink531/205677/9958
-#EXTINF:-1,CAN: MUSIQUE PLUS
-http://xxultraxx.com:80/tvlink531/205677/9957
-#EXTINF:-1,CAN: NAT GEO
-http://xxultraxx.com:80/tvlink531/205677/9865
-#EXTINF:-1,CAN: NBA TV
-http://xxultraxx.com:80/tvlink531/205677/9904
-#EXTINF:-1,CAN: NBC WEST
-http://xxultraxx.com:80/tvlink531/205677/9956
-#EXTINF:-1,CAN: OMNI 1
-http://xxultraxx.com:80/tvlink531/205677/9953
-#EXTINF:-1,CAN: OWN
-http://xxultraxx.com:80/tvlink531/205677/9951
-#EXTINF:-1,CAN: RDI
-http://xxultraxx.com:80/tvlink531/205677/9950
-#EXTINF:-1,CAN: RDS
-http://xxultraxx.com:80/tvlink531/205677/9859
-#EXTINF:-1,CAN: SHOWCASE EAST
-http://xxultraxx.com:80/tvlink531/205677/9821
-#EXTINF:-1,CAN: SMITHSONIAN
-http://xxultraxx.com:80/tvlink531/205677/9810
-#EXTINF:-1,CAN: SPACE
-http://xxultraxx.com:80/tvlink531/205677/9944
-#EXTINF:-1,CAN: SPIKE TV USA
-http://xxultraxx.com:80/tvlink531/205677/9846
-#EXTINF:-1,CAN: SPORTSNET 360
-http://xxultraxx.com:80/tvlink531/205677/9915
-#EXTINF:-1,CAN: SPORTSNET ONE
-http://xxultraxx.com:80/tvlink531/205677/9914
-#EXTINF:-1,CAN: SPORTSNET ONTARIO
-http://xxultraxx.com:80/tvlink531/205677/9913
-#EXTINF:-1,CAN: SPORTSNET PACIFIC
-http://xxultraxx.com:80/tvlink531/205677/9943
-#EXTINF:-1,CAN: SPORTSNET WEST
-http://xxultraxx.com:80/tvlink531/205677/9901
-#EXTINF:-1,CAN: SPORTSNET WORLD
-http://xxultraxx.com:80/tvlink531/205677/9942
-#EXTINF:-1,CAN: SUPER CHANNEL 2
-http://xxultraxx.com:80/tvlink531/205677/9940
-#EXTINF:-1,CAN: SUPER ECRAN 1
-http://xxultraxx.com:80/tvlink531/205677/9949
-#EXTINF:-1,CAN: SUPER ECRAN 2
-http://xxultraxx.com:80/tvlink531/205677/9948
-#EXTINF:-1,CAN: SUPER ECRAN 3
-http://xxultraxx.com:80/tvlink531/205677/9947
-#EXTINF:-1,CAN: SUPER ECRAN 4
-http://xxultraxx.com:80/tvlink531/205677/9946
-#EXTINF:-1,CAN: TCM
-http://xxultraxx.com:80/tvlink531/205677/9939
-#EXTINF:-1,CAN: TELE QUEBEC
-http://xxultraxx.com:80/tvlink531/205677/9899
-#EXTINF:-1,CAN: TELE TOON FRENCH
-http://xxultraxx.com:80/tvlink531/205677/9898
-#EXTINF:-1,CAN: TMN 1
-http://xxultraxx.com:80/tvlink531/205677/9854
-#EXTINF:-1,CAN: TMN 2
-http://xxultraxx.com:80/tvlink531/205677/9853
-#EXTINF:-1,CAN: TMN 3
-http://xxultraxx.com:80/tvlink531/205677/9839
-#EXTINF:-1,CAN: TMN 4
-http://xxultraxx.com:80/tvlink531/205677/9852
-#EXTINF:-1,CAN: TSN 1
-http://xxultraxx.com:80/tvlink531/205677/9920
-#EXTINF:-1,CAN: TSN 2
-http://xxultraxx.com:80/tvlink531/205677/9919
-#EXTINF:-1,CAN: TSN 3
-http://xxultraxx.com:80/tvlink531/205677/9918
-#EXTINF:-1,CAN: TSN 4
-http://xxultraxx.com:80/tvlink531/205677/9917
-#EXTINF:-1,CAN: TSN 5
-http://xxultraxx.com:80/tvlink531/205677/9916
-#EXTINF:-1,CAN: TV5 QUEBEC
-http://xxultraxx.com:80/tvlink531/205677/9819
-#EXTINF:-1,CAN: TVA GATINEAU
-http://xxultraxx.com:80/tvlink531/205677/9851
-#EXTINF:-1,CAN: TVA SPORTS
-http://xxultraxx.com:80/tvlink531/205677/9937
-#EXTINF:-1,CAN: TVO Kids
-http://xxultraxx.com:80/tvlink531/205677/9818
-#EXTINF:-1,CAN: VICELAND
-http://xxultraxx.com:80/tvlink531/205677/9850
-#EXTINF:-1,CAN: VIE
-http://xxultraxx.com:80/tvlink531/205677/9895
-#EXTINF:-1,CAN: VRAK TV
-http://xxultraxx.com:80/tvlink531/205677/9935
-#EXTINF:-1,CAN: WFN
-http://xxultraxx.com:80/tvlink531/205677/9893
-#EXTINF:-1,CAN: Wild TV
-http://xxultraxx.com:80/tvlink531/205677/9891
-#EXTINF:-1,CAN: YOOPA
-http://xxultraxx.com:80/tvlink531/205677/9849
-#EXTINF:-1,CAN: CITY MONTREAL
-http://xxultraxx.com:80/tvlink531/205677/10270
-#EXTINF:-1,CAN: COMEDY WEST
-http://xxultraxx.com:80/tvlink531/205677/10271
-#EXTINF:-1,CAN: GLOBAL HALIFAX
-http://xxultraxx.com:80/tvlink531/205677/10265
-#EXTINF:-1,CAN: YES TV (Alberta)
-http://xxultraxx.com:80/tvlink531/205677/10263
-#EXTINF:-1,CAN: RDS INFO
-http://xxultraxx.com:80/tvlink531/205677/10272
-#EXTINF:-1,CAN: TFO
-http://xxultraxx.com:80/tvlink531/205677/10273
-#EXTINF:-1,CAN: TLC CANADA
-http://xxultraxx.com:80/tvlink531/205677/10268
-#EXTINF:-1,Sky Sports Golf
-http://xxultraxx.com:80/tvlink531/205677/96
-#EXTINF:-1,Sky Sports Golf HD
-http://xxultraxx.com:80/tvlink531/205677/9779
-#EXTINF:-1,Sky Sports Action
-http://xxultraxx.com:80/tvlink531/205677/38
-#EXTINF:-1,Sky Sports Action HD
-http://xxultraxx.com:80/tvlink531/205677/9772
-#EXTINF:-1,Sky Sports Arena
-http://xxultraxx.com:80/tvlink531/205677/3963
-#EXTINF:-1,Sky Sports Arena HD
-http://xxultraxx.com:80/tvlink531/205677/9773
-#EXTINF:-1,Sky Sports Cricket
-http://xxultraxx.com:80/tvlink531/205677/37
-#EXTINF:-1,Sky Sports Cricket HD
-http://xxultraxx.com:80/tvlink531/205677/9774
-#EXTINF:-1,Sky Sports Main Event
-http://xxultraxx.com:80/tvlink531/205677/36
-#EXTINF:-1,Sky Sports Events HD
-http://xxultraxx.com:80/tvlink531/205677/9775
-#EXTINF:-1,Sky Sports Football
-http://xxultraxx.com:80/tvlink531/205677/3962
-#EXTINF:-1,Sky Sports Football HD
-http://xxultraxx.com:80/tvlink531/205677/9776
-#EXTINF:-1,Sky Sports Premier League
-http://xxultraxx.com:80/tvlink531/205677/95
-#EXTINF:-1,Sky Sports League HD
-http://xxultraxx.com:80/tvlink531/205677/9777
-#EXTINF:-1,Sky Sport Mix
-http://xxultraxx.com:80/tvlink531/205677/4661
-#EXTINF:-1,Sky Sports Mix HD
-http://xxultraxx.com:80/tvlink531/205677/9778
-#EXTINF:-1,Sky Sport F1
-http://xxultraxx.com:80/tvlink531/205677/39
-#EXTINF:-1,Sky Sport F1 HD
-http://xxultraxx.com:80/tvlink531/205677/3967
-#EXTINF:-1,BT Sport 1
-http://xxultraxx.com:80/tvlink531/205677/702
-#EXTINF:-1,BT Sport 1HD
-http://xxultraxx.com:80/tvlink531/205677/4658
-#EXTINF:-1,BT Sport 2
-http://xxultraxx.com:80/tvlink531/205677/703
-#EXTINF:-1,BT Sport 2HD
-http://xxultraxx.com:80/tvlink531/205677/4659
-#EXTINF:-1,BT Sport 3
-http://xxultraxx.com:80/tvlink531/205677/10423
-#EXTINF:-1,BT Sport 3HD
-http://xxultraxx.com:80/tvlink531/205677/4660
-#EXTINF:-1,BT Sport Extra
-http://xxultraxx.com:80/tvlink531/205677/6971
-#EXTINF:-1,BT Sport ESPN HD
-http://xxultraxx.com:80/tvlink531/205677/6970
-#EXTINF:-1,Box Nation
-http://xxultraxx.com:80/tvlink531/205677/6930
-#EXTINF:-1,Sky Sport News
-http://xxultraxx.com:80/tvlink531/205677/4662
-#EXTINF:-1,Sky.Racing
-http://xxultraxx.com:80/tvlink531/205677/4653
-#EXTINF:-1,LiverPool FC
-http://xxultraxx.com:80/tvlink531/205677/4655
-#EXTINF:-1,At The-Races
-http://xxultraxx.com:80/tvlink531/205677/4665
-#EXTINF:-1,Eir Sport 1
-http://xxultraxx.com:80/tvlink531/205677/3964
-#EXTINF:-1,SkyPremier Sport
-http://xxultraxx.com:80/tvlink531/205677/2590
-#EXTINF:-1,Sky Premiere Sports
-http://xxultraxx.com:80/tvlink531/205677/3965
-#EXTINF:-1,EuroSport
-http://xxultraxx.com:80/tvlink531/205677/4565
-#EXTINF:-1,EuroSport 2
-http://xxultraxx.com:80/tvlink531/205677/4566
-#EXTINF:-1,Motors Tv
-http://xxultraxx.com:80/tvlink531/205677/2621
-#EXTINF:-1,Chelsea Tv
-http://xxultraxx.com:80/tvlink531/205677/2588
-#EXTINF:-1,Sky Movies Action
-http://xxultraxx.com:80/tvlink531/205677/24
-#EXTINF:-1,Sky Movies Thriller
-http://xxultraxx.com:80/tvlink531/205677/944
-#EXTINF:-1,Sky Movies Family
-http://xxultraxx.com:80/tvlink531/205677/27
-#EXTINF:-1,Sky Movies Drama
-http://xxultraxx.com:80/tvlink531/205677/422
-#EXTINF:-1,Sky Movies Disney
-http://xxultraxx.com:80/tvlink531/205677/29
-#EXTINF:-1,Sky Movies Select
-http://xxultraxx.com:80/tvlink531/205677/33
-#EXTINF:-1,Sky Movies Comedy
-http://xxultraxx.com:80/tvlink531/205677/25
-#EXTINF:-1,Sky Movies Premiere
-http://xxultraxx.com:80/tvlink531/205677/31
-#EXTINF:-1,Sky Movies ScFi & Horror
-http://xxultraxx.com:80/tvlink531/205677/32
-#EXTINF:-1,Sky Movies Greats
-http://xxultraxx.com:80/tvlink531/205677/9770
-#EXTINF:-1,ˢᵏʸ ᵁᵏ Sky Movies Hits
-http://xxultraxx.com:80/tvlink531/205677/9771
-#EXTINF:-1,Sky Showcase
-http://xxultraxx.com:80/tvlink531/205677/2606
-#EXTINF:-1,Tru.TV
-http://xxultraxx.com:80/tvlink531/205677/4560
-#EXTINF:-1,True.Crime
-http://xxultraxx.com:80/tvlink531/205677/4562
-#EXTINF:-1,True Movie
-http://xxultraxx.com:80/tvlink531/205677/744
-#EXTINF:-1,4 Seven
-http://xxultraxx.com:80/tvlink531/205677/927
-#EXTINF:-1,True Entertainment
-http://xxultraxx.com:80/tvlink531/205677/6933
-#EXTINF:-1,Sky One
-http://xxultraxx.com:80/tvlink531/205677/946
-#EXTINF:-1,Sky Tow
-http://xxultraxx.com:80/tvlink531/205677/430
-#EXTINF:-1,Rte One
-http://xxultraxx.com:80/tvlink531/205677/2578
-#EXTINF:-1,Rte Tow
-http://xxultraxx.com:80/tvlink531/205677/2579
-#EXTINF:-1,Rte Jr
-http://xxultraxx.com:80/tvlink531/205677/9782
-#EXTINF:-1,CBS Action
-http://xxultraxx.com:80/tvlink531/205677/2585
-#EXTINF:-1,CBS Drama
-http://xxultraxx.com:80/tvlink531/205677/2586
-#EXTINF:-1,CBS Reality
-http://xxultraxx.com:80/tvlink531/205677/2587
-#EXTINF:-1,Comedy Central
-http://xxultraxx.com:80/tvlink531/205677/2593
-#EXTINF:-1,Comedy Central Extra
-http://xxultraxx.com:80/tvlink531/205677/2594
-#EXTINF:-1,Sky Atlantic
-http://xxultraxx.com:80/tvlink531/205677/6931
-#EXTINF:-1,itv.1
-http://xxultraxx.com:80/tvlink531/205677/198
-#EXTINF:-1,itv.2
-http://xxultraxx.com:80/tvlink531/205677/199
-#EXTINF:-1,itv.3
-http://xxultraxx.com:80/tvlink531/205677/200
-#EXTINF:-1,itv 4
-http://xxultraxx.com:80/tvlink531/205677/201
-#EXTINF:-1,itv Be
-http://xxultraxx.com:80/tvlink531/205677/6928
-#EXTINF:-1,BBC One
-http://xxultraxx.com:80/tvlink531/205677/740
-#EXTINF:-1,BBC Tow
-http://xxultraxx.com:80/tvlink531/205677/741
-#EXTINF:-1,BBC Three
-http://xxultraxx.com:80/tvlink531/205677/750
-#EXTINF:-1,BBC Four
-http://xxultraxx.com:80/tvlink531/205677/714
-#EXTINF:-1,BBC News
-http://xxultraxx.com:80/tvlink531/205677/546
-#EXTINF:-1,BBC World
-http://xxultraxx.com:80/tvlink531/205677/4657
-#EXTINF:-1,Nick.JR
-http://xxultraxx.com:80/tvlink531/205677/2628
-#EXTINF:-1,NickToons
-http://xxultraxx.com:80/tvlink531/205677/955
-#EXTINF:-1,Nickelodeon
-http://xxultraxx.com:80/tvlink531/205677/956
-#EXTINF:-1,Disney XD
-http://xxultraxx.com:80/tvlink531/205677/2623
-#EXTINF:-1,Disney Junior
-http://xxultraxx.com:80/tvlink531/205677/990
-#EXTINF:-1,Disney Channel
-http://xxultraxx.com:80/tvlink531/205677/2603
-#EXTINF:-1,Cartoon Network
-http://xxultraxx.com:80/tvlink531/205677/2599
-#EXTINF:-1,Boomerang
-http://xxultraxx.com:80/tvlink531/205677/2629
-#EXTINF:-1,C.Beebies
-http://xxultraxx.com:80/tvlink531/205677/6935
-#EXTINF:-1,Baby TV
-http://xxultraxx.com:80/tvlink531/205677/6934
-#EXTINF:-1,3 E
-http://xxultraxx.com:80/tvlink531/205677/2595
-#EXTINF:-1,E 4
-http://xxultraxx.com:80/tvlink531/205677/2580
-#EXTINF:-1,SyFy
-http://xxultraxx.com:80/tvlink531/205677/963
-#EXTINF:-1,Viceland
-http://xxultraxx.com:80/tvlink531/205677/9784
-#EXTINF:-1,WB Tv
-http://xxultraxx.com:80/tvlink531/205677/6972
-#EXTINF:-1,Euro News
-http://xxultraxx.com:80/tvlink531/205677/9781
-#EXTINF:-1,Horse & Coutry
-http://xxultraxx.com:80/tvlink531/205677/9788
-#EXTINF:-1,MY5
-http://xxultraxx.com:80/tvlink531/205677/9789
-#EXTINF:-1,D.Drama
-http://xxultraxx.com:80/tvlink531/205677/2614
-#EXTINF:-1,Yesterday
-http://xxultraxx.com:80/tvlink531/205677/2576
-#EXTINF:-1,E!ntertainment
-http://xxultraxx.com:80/tvlink531/205677/2607
-#EXTINF:-1,T.L.C
-http://xxultraxx.com:80/tvlink531/205677/2591
-#EXTINF:-1,Sky.Arts
-http://xxultraxx.com:80/tvlink531/205677/2620
-#EXTINF:-1,Bravo
-http://xxultraxx.com:80/tvlink531/205677/4654
-#EXTINF:-1,Tcm
-http://xxultraxx.com:80/tvlink531/205677/2611
-#EXTINF:-1,Sky.Living
-http://xxultraxx.com:80/tvlink531/205677/2605
-#EXTINF:-1,Home
-http://xxultraxx.com:80/tvlink531/205677/2598
-#EXTINF:-1,Gold
-http://xxultraxx.com:80/tvlink531/205677/2582
-#EXTINF:-1,Fox
-http://xxultraxx.com:80/tvlink531/205677/2601
-#EXTINF:-1,Food Network
-http://xxultraxx.com:80/tvlink531/205677/2613
-#EXTINF:-1,Channel 4
-http://xxultraxx.com:80/tvlink531/205677/743
-#EXTINF:-1,Channel 5
-http://xxultraxx.com:80/tvlink531/205677/396
-#EXTINF:-1,Film 4
-http://xxultraxx.com:80/tvlink531/205677/2583
-#EXTINF:-1,Dmax
-http://xxultraxx.com:80/tvlink531/205677/2584
-#EXTINF:-1,Dave
-http://xxultraxx.com:80/tvlink531/205677/745
-#EXTINF:-1,Alibi
-http://xxultraxx.com:80/tvlink531/205677/2581
-#EXTINF:-1,5 USA
-http://xxultraxx.com:80/tvlink531/205677/2597
-#EXTINF:-1,5 STAR
-http://xxultraxx.com:80/tvlink531/205677/2596
-#EXTINF:-1,Horror
-http://xxultraxx.com:80/tvlink531/205677/2608
-#EXTINF:-1,Mu Tv
-http://xxultraxx.com:80/tvlink531/205677/4564
-#EXTINF:-1,Watch
-http://xxultraxx.com:80/tvlink531/205677/4559
-#EXTINF:-1,TG 4
-http://xxultraxx.com:80/tvlink531/205677/4561
-#EXTINF:-1,Eden
-http://xxultraxx.com:80/tvlink531/205677/6929
-#EXTINF:-1,Universal
-http://xxultraxx.com:80/tvlink531/205677/4567
-#EXTINF:-1,C.N.N
-http://xxultraxx.com:80/tvlink531/205677/4656
-#EXTINF:-1,London
-http://xxultraxx.com:80/tvlink531/205677/3001
-#EXTINF:-1,Sky News
-http://xxultraxx.com:80/tvlink531/205677/4371
-#EXTINF:-1,Travel
-http://xxultraxx.com:80/tvlink531/205677/4663
-#EXTINF:-1,History
-http://xxultraxx.com:80/tvlink531/205677/2622
-#EXTINF:-1,Discovery Channel
-http://xxultraxx.com:80/tvlink531/205677/746
-#EXTINF:-1,Discovery Science
-http://xxultraxx.com:80/tvlink531/205677/749
-#EXTINF:-1,Crime and Investigation
-http://xxultraxx.com:80/tvlink531/205677/748
-#EXTINF:-1,Discovery Turbo
-http://xxultraxx.com:80/tvlink531/205677/2625
-#EXTINF:-1,Discovery Shed
-http://xxultraxx.com:80/tvlink531/205677/2626
-#EXTINF:-1,Discovery History
-http://xxultraxx.com:80/tvlink531/205677/747
-#EXTINF:-1,Home Health
-http://xxultraxx.com:80/tvlink531/205677/2627
-#EXTINF:-1,Animal Planet
-http://xxultraxx.com:80/tvlink531/205677/738
-#EXTINF:-1,NationalGeo Wild
-http://xxultraxx.com:80/tvlink531/205677/957
-#EXTINF:-1,National Geographic
-http://xxultraxx.com:80/tvlink531/205677/920
-#EXTINF:-1,VH.1
-http://xxultraxx.com:80/tvlink531/205677/4558
-#EXTINF:-1,MTV.Hits
-http://xxultraxx.com:80/tvlink531/205677/414
-#EXTINF:-1,MTV Music
-http://xxultraxx.com:80/tvlink531/205677/2604
-#EXTINF:-1,MTV Dance
-http://xxultraxx.com:80/tvlink531/205677/413
-#EXTINF:-1,MTV.Classic
-http://xxultraxx.com:80/tvlink531/205677/885
-#EXTINF:-1,MTV Rocks
-http://xxultraxx.com:80/tvlink531/205677/6932
-#EXTINF:-1,3E Ireland FHD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11200
-#EXTINF:-1,Alibi HD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11250
-#EXTINF:-1,AMC
-http://xxultraxx.com:80/tvlink531/205677/11249
-#EXTINF:-1,Animal Planet FHD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11248
-#EXTINF:-1,BBC 1 hd
-http://xxultraxx.com:80/tvlink531/205677/11274
-#EXTINF:-1,BBC 2
-http://xxultraxx.com:80/tvlink531/205677/11273
-#EXTINF:-1,BBC 3
-http://xxultraxx.com:80/tvlink531/205677/11272
-#EXTINF:-1,BBC 4
-http://xxultraxx.com:80/tvlink531/205677/11271
-#EXTINF:-1,BBC Four FHD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11199
-#EXTINF:-1,BBC FOUR HD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11198
-#EXTINF:-1,BBC NEWS
-http://xxultraxx.com:80/tvlink531/205677/11270
-#EXTINF:-1,ᵁᵏ BBC NEWS FHD 1080
-http://xxultraxx.com:80/tvlink531/205677/11197
-#EXTINF:-1,BBC NEWS HD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11196
-#EXTINF:-1,BBC One FHD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11195
-#EXTINF:-1,BBC Two FHD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11192
-#EXTINF:-1,BBC1 HD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11191
-#EXTINF:-1,BBC2 HD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11190
-#EXTINF:-1,Be 3 FHD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11189
-#EXTINF:-1,BLOOMBERG
-http://xxultraxx.com:80/tvlink531/205677/11269
-#EXTINF:-1,BoxNation FHD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11202
-#EXTINF:-1,Bravo
-http://xxultraxx.com:80/tvlink531/205677/11247
-#EXTINF:-1,BT Sports 2 HD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11246
-#EXTINF:-1,BT Sports 3 FHD 1080
-http://xxultraxx.com:80/tvlink531/205677/11245
-#EXTINF:-1,BT Sports ESPN 1080*
-http://xxultraxx.com:80/tvlink531/205677/11286
-#EXTINF:-1,BT Sports1 FHD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11244
-#EXTINF:-1,Cartoonnetwork FHD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11243
-#EXTINF:-1,CBBC
-http://xxultraxx.com:80/tvlink531/205677/11242
-#EXTINF:-1,CBBC FHD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11241
-#EXTINF:-1,CBeebies FHD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11240
-#EXTINF:-1,CHANNEL 4
-http://xxultraxx.com:80/tvlink531/205677/11268
-#EXTINF:-1,Channel 4 HD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11188
-#EXTINF:-1,CHANNEL 5
-http://xxultraxx.com:80/tvlink531/205677/11267
-#EXTINF:-1,Channel 5 HD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11187
-#EXTINF:-1,CITV
-http://xxultraxx.com:80/tvlink531/205677/11238
-#EXTINF:-1,CNBC EU
-http://xxultraxx.com:80/tvlink531/205677/11266
-#EXTINF:-1,CNN
-http://xxultraxx.com:80/tvlink531/205677/11265
-#EXTINF:-1,Comedy Centeral HD1080*
-http://xxultraxx.com:80/tvlink531/205677/11237
-#EXTINF:-1,Crime &Invietgation HD1080*
-http://xxultraxx.com:80/tvlink531/205677/11285
-#EXTINF:-1,ᵁᵏ Dave HD1080
-http://xxultraxx.com:80/tvlink531/205677/11236
-#EXTINF:-1,Discovery HD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11235
-#EXTINF:-1,E4
-http://xxultraxx.com:80/tvlink531/205677/11264
-#EXTINF:-1,E4 HD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11185
-#EXTINF:-1,Eden HD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11233
-#EXTINF:-1,Eurosport 1 FHD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11231
-#EXTINF:-1,Eurosport F2HD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11230
-#EXTINF:-1,FILM 4
-http://xxultraxx.com:80/tvlink531/205677/11263
-#EXTINF:-1,Film4 HD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11183
-#EXTINF:-1,FOX HD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11201
-#EXTINF:-1,Good Food HD1080*
-http://xxultraxx.com:80/tvlink531/205677/11229
-#EXTINF:-1,H2 HD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11228
-#EXTINF:-1,HEART
-http://xxultraxx.com:80/tvlink531/205677/11262
-#EXTINF:-1,History HD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11284
-#EXTINF:-1,HOME AND HEALTH  1
-http://xxultraxx.com:80/tvlink531/205677/11227
-#EXTINF:-1,HORROR CHANNEL
-http://xxultraxx.com:80/tvlink531/205677/11226
-#EXTINF:-1,HORROR CHANNEL  1
-http://xxultraxx.com:80/tvlink531/205677/11225
-#EXTINF:-1,HORSE & COUNTRY
-http://xxultraxx.com:80/tvlink531/205677/11224
-#EXTINF:-1,ITV
-http://xxultraxx.com:80/tvlink531/205677/11261
-#EXTINF:-1,ITV 2
-http://xxultraxx.com:80/tvlink531/205677/11260
-#EXTINF:-1,ITV 3
-http://xxultraxx.com:80/tvlink531/205677/11259
-#EXTINF:-1,ITV 4
-http://xxultraxx.com:80/tvlink531/205677/11258
-#EXTINF:-1,ITV BE
-http://xxultraxx.com:80/tvlink531/205677/11283
-#EXTINF:-1,ITV HD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11179
-#EXTINF:-1,ITV London FHD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11178
-#EXTINF:-1,ITV Westcountry South West FHD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11174
-#EXTINF:-1,ITV2 HD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11171
-#EXTINF:-1,ITV3 HD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11170
-#EXTINF:-1,ITV4 HD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11169
-#EXTINF:-1,LifeTime HD1080*
-http://xxultraxx.com:80/tvlink531/205677/11221
-#EXTINF:-1,MAGIC
-http://xxultraxx.com:80/tvlink531/205677/11257
-#EXTINF:-1,More4 HD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11168
-#EXTINF:-1,Nat Geo Wild HD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11282
-#EXTINF:-1,National Geographic HD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11217
-#EXTINF:-1,Nick FHD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11215
-#EXTINF:-1,NOLLYWOOD
-http://xxultraxx.com:80/tvlink531/205677/11214
-#EXTINF:-1,Racing HD1080*
-http://xxultraxx.com:80/tvlink531/205677/11213
-#EXTINF:-1,sky 1 HD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11281
-#EXTINF:-1,Sky Arts FHD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11211
-#EXTINF:-1,Sky Atlantic HD1080*
-http://xxultraxx.com:80/tvlink531/205677/11210
-#EXTINF:-1,Sky Cinema Action & Adventure HD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11167
-#EXTINF:-1,Sky Cinema Comedy HD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11166
-#EXTINF:-1,Sky Cinema Crime & Thriller HD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11165
-#EXTINF:-1,Sky Cinema Disney HD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11164
-#EXTINF:-1,Sky Cinema Drama & Romance HD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11163
-#EXTINF:-1,Sky Cinema Family HD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11162
-#EXTINF:-1,Sky Cinema Greats HD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11161
-#EXTINF:-1,Sky Cinema Hits HD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11160
-#EXTINF:-1,Sky Cinema Premiere HD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11159
-#EXTINF:-1,Sky Cinema Sci-Fi & Horror HD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11158
-#EXTINF:-1,Sky Cinema Select HD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11157
-#EXTINF:-1,Sky Living HD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11209
-#EXTINF:-1,Sky Movies Action and Adventure
-http://xxultraxx.com:80/tvlink531/205677/11124
-#EXTINF:-1,Sky Movies Action and Adventure HD
-http://xxultraxx.com:80/tvlink531/205677/11123
-#EXTINF:-1,Sky Movies Comedy
-http://xxultraxx.com:80/tvlink531/205677/11122
-#EXTINF:-1,Sky Movies Comedy HD
-http://xxultraxx.com:80/tvlink531/205677/11121
-#EXTINF:-1,Sky Movies Crime and Thriller
-http://xxultraxx.com:80/tvlink531/205677/11120
-#EXTINF:-1,Sky Movies Crime and Thriller HD
-http://xxultraxx.com:80/tvlink531/205677/11119
-#EXTINF:-1,Sky Movies Disney
-http://xxultraxx.com:80/tvlink531/205677/11118
-#EXTINF:-1,Sky Movies Disney HD
-http://xxultraxx.com:80/tvlink531/205677/11117
-#EXTINF:-1,Sky Movies Drama and Romance
-http://xxultraxx.com:80/tvlink531/205677/11116
-#EXTINF:-1,Sky Movies Drama and Romance HD
-http://xxultraxx.com:80/tvlink531/205677/11115
-#EXTINF:-1,Sky Movies Family
-http://xxultraxx.com:80/tvlink531/205677/11114
-#EXTINF:-1,Sky Movies Family HD
-http://xxultraxx.com:80/tvlink531/205677/11113
-#EXTINF:-1,Sky Movies Modern Greats
-http://xxultraxx.com:80/tvlink531/205677/11112
-#EXTINF:-1,Sky Movies Modern Greats HD
-http://xxultraxx.com:80/tvlink531/205677/11111
-#EXTINF:-1,Sky Movies Premiere
-http://xxultraxx.com:80/tvlink531/205677/11110
-#EXTINF:-1,Sky Movies Premiere HD
-http://xxultraxx.com:80/tvlink531/205677/11108
-#EXTINF:-1,Sky Movies Sci-Fi horror
-http://xxultraxx.com:80/tvlink531/205677/11107
-#EXTINF:-1,Sky Movies Sci-Fi Horror HD
-http://xxultraxx.com:80/tvlink531/205677/11106
-#EXTINF:-1,Sky Movies Select
-http://xxultraxx.com:80/tvlink531/205677/11105
-#EXTINF:-1,Sky Movies Select HD
-http://xxultraxx.com:80/tvlink531/205677/11104
-#EXTINF:-1,Sky New HD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11208
-#EXTINF:-1,Sky News
-http://xxultraxx.com:80/tvlink531/205677/11280
-#EXTINF:-1,: MTV Base
-http://xxultraxx.com:80/tvlink531/205677/23376
-#EXTINF:-1,Sky Sports Box Office PPV
-http://xxultraxx.com:80/tvlink531/205677/23377
-#EXTINF:-1,Sky Sports Box Office PPV (Live During Events Only)
-http://xxultraxx.com:80/tvlink531/205677/23378
-#EXTINF:-1,Sky Sports Action
-http://xxultraxx.com:80/tvlink531/205677/11144
-#EXTINF:-1,Sky Sports Action HD
-http://xxultraxx.com:80/tvlink531/205677/11143
-#EXTINF:-1,Sky Sports Action HD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11156
-#EXTINF:-1,sky sports arena
-http://xxultraxx.com:80/tvlink531/205677/11142
-#EXTINF:-1,Sky Sports Arena HD
-http://xxultraxx.com:80/tvlink531/205677/11141
-#EXTINF:-1,Sky Sports Arena HD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11155
-#EXTINF:-1,Sky Sports cricket
-http://xxultraxx.com:80/tvlink531/205677/11140
-#EXTINF:-1,Sky Sports cricket HD
-http://xxultraxx.com:80/tvlink531/205677/11139
-#EXTINF:-1,Sky Sports Cricket HD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11154
-#EXTINF:-1,Sky Sports F1
-http://xxultraxx.com:80/tvlink531/205677/11138
-#EXTINF:-1,Sky sports F1 HD
-http://xxultraxx.com:80/tvlink531/205677/11137
-#EXTINF:-1,Sky Sports F1 HD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11153
-#EXTINF:-1,sky sports football
-http://xxultraxx.com:80/tvlink531/205677/11136
-#EXTINF:-1,Sky Sports Football HD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11152
-#EXTINF:-1,Sky Sports Golf HD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11151
-#EXTINF:-1,Sky Sports Main Event
-http://xxultraxx.com:80/tvlink531/205677/11135
-#EXTINF:-1,Sky Sports Main Event HD
-http://xxultraxx.com:80/tvlink531/205677/11134
-#EXTINF:-1,Sky Sports Main Event HD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11150
-#EXTINF:-1,Sky Sports Mix
-http://xxultraxx.com:80/tvlink531/205677/11133
-#EXTINF:-1,Sky Sports Mix HD
-http://xxultraxx.com:80/tvlink531/205677/11132
-#EXTINF:-1,Sky Sports Mix HD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11149
-#EXTINF:-1,Sky Sports News HD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11148
-#EXTINF:-1,Sky Sports News HQ
-http://xxultraxx.com:80/tvlink531/205677/11131
-#EXTINF:-1,Sky Sports PL HD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11147
-#EXTINF:-1,Sky Sports Premier league
-http://xxultraxx.com:80/tvlink531/205677/11130
-#EXTINF:-1,Sky Sports Premier league HD
-http://xxultraxx.com:80/tvlink531/205677/11129
-#EXTINF:-1,Sky Sports the open
-http://xxultraxx.com:80/tvlink531/205677/11128
-#EXTINF:-1,Sky Sports The open HD
-http://xxultraxx.com:80/tvlink531/205677/11127
-#EXTINF:-1,Sports Football HD
-http://xxultraxx.com:80/tvlink531/205677/11125
-#EXTINF:-1,STV FHD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11206
-#EXTINF:-1,SYFY HD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11279
-#EXTINF:-1,TCM HD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11278
-#EXTINF:-1,THE VAULT
-http://xxultraxx.com:80/tvlink531/205677/11256
-#EXTINF:-1,ᵁᵏ TINY POP
-http://xxultraxx.com:80/tvlink531/205677/11205
-#EXTINF:-1,TLC FHD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11277
-#EXTINF:-1,TRUE DRAMA
-http://xxultraxx.com:80/tvlink531/205677/11255
-#EXTINF:-1,TRUE MOVIES
-http://xxultraxx.com:80/tvlink531/205677/11254
-#EXTINF:-1,TRUE MOVIES  1
-http://xxultraxx.com:80/tvlink531/205677/11204
-#EXTINF:-1,TRUE MOVIES 2
-http://xxultraxx.com:80/tvlink531/205677/11253
-#EXTINF:-1,TV3 FHD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11145
-#EXTINF:-1,Universal Channel HD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11276
-#EXTINF:-1,Watch HD 1080*
-http://xxultraxx.com:80/tvlink531/205677/11275
+#EXTINF:0, Sky Cinema Box Office 1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/9275
+#EXTINF:0,  Sky Cinema Box Office 4
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/9274
+#EXTINF:0, Sky Cinema Box Office 2
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/9276
+#EXTINF:0, Sky Cinema Box Office 3
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/9277
+#EXTINF:0, Sky Cinema Box Office 4
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/9278
+#EXTINF:0, Sky Sports Action
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/9272
+#EXTINF:0, Premier League
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/9266
+#EXTINF:0,UK : Sky Sports Main Event
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/9269
+#EXTINF:0, SKy Sports Cricket
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/9271
+#EXTINF:0, Sky Sports Football
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/9270
+#EXTINF:0, Sky Sports MIX
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/8025
+#EXTINF:0, Sky Sports News
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/9273
+#EXTINF:0, Sky Sports News HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/818
+#EXTINF:0, Sky Sports The Open
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/9268
+#EXTINF:0,VIP  BT SPORTS HD 1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/8040
+#EXTINF:0,VIP  BT SPORTS HD 2
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/8039
+#EXTINF:0,VIP  BT SPORTS HD 3
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/8038
+#EXTINF:0,VIP  PREMIER SPORTS HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/8037
+#EXTINF:0,VIP  SKY SPORTS  1 HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/8036
+#EXTINF:0,VIP  SKY SPORTS  2 HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/8035
+#EXTINF:0,VIP  SKY SPORTS  3 HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/8034
+#EXTINF:0,VIP  SKY SPORTS  4 HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/8033
+#EXTINF:0,VIP  SKY SPORTS  5 HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/8032
+#EXTINF:0,VIP  SKY SPORTS  F1 HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/8031
+#EXTINF:0, Sky 1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/8062
+#EXTINF:0, Channel 4 HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/3084
+#EXTINF:0, Channel 5 HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/3085
+#EXTINF:0, CHELSEA TV
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/5655
+#EXTINF:0, Boomerang
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/8029
+#EXTINF:0, Box Nation
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/8030
+#EXTINF:0,  ITV Encore
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/8083
+#EXTINF:0,  ITV Be
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/8082
+#EXTINF:0,  Lifetime HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/8075
+#EXTINF:0, Heart TV HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/8074
+#EXTINF:0, eir Sports 2 HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/8073
+#EXTINF:0,  eir Sports 1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/8072
+#EXTINF:0,  CBeebies
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/8070
+#EXTINF:0,  ABC NEWS
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/8069
+#EXTINF:0,  SKY Movies Disney HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/8068
+#EXTINF:0, LFC TV HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/8067
+#EXTINF:0,  ID
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/8066
+#EXTINF:0, Disney Channel
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/8065
+#EXTINF:0, DisneyJunior
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/8064
+#EXTINF:0,  E! Entertainment
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/8063
+#EXTINF:0,  Sky Sp News HQ
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/8060
+#EXTINF:0,UK Travel Channel
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/8058
+#EXTINF:0, 4 music
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/8051
+#EXTINF:0, Liverpool FC
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/8049
+#EXTINF:0,UK|: Comedy Extra
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/8043
+#EXTINF:0,  H2
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/8055
+#EXTINF:0,  Nick JR Peppa
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/8048
+#EXTINF:0,  Spike UK
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/8059
+#EXTINF:0,  Universal Channel UK
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/8057
+#EXTINF:0, CARTOON NETWORK
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/5656
+#EXTINF:0,  Discovery Shed UK
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/8047
+#EXTINF:0, Nick Junior
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/2241
+#EXTINF:0, Nick-Jr-Too
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/2242
+#EXTINF:0, Nickelodeon HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/2240
+#EXTINF:0, Nicktoons
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/1943
+#EXTINF:0, True Movies 1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/1446
+#EXTINF:0, True Movies 2
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/1447
+#EXTINF:0,VIP UK| &TV
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16920
+#EXTINF:0,VIP UK| 4seven
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17259
+#EXTINF:0,VIP UK| 4Seven HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16931
+#EXTINF:0,VIP UK| 5 USA
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17258
+#EXTINF:0,VIP UK| 5 USA   1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17257
+#EXTINF:0,VIP UK| 5Select
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17256
+#EXTINF:0,VIP UK| 5Spike   1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17254
+#EXTINF:0,VIP UK| 5STAR
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17253
+#EXTINF:0,VIP UK| 5Star   1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17252
+#EXTINF:0,VIP UK| 92 News
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16881
+#EXTINF:0,VIP UK| Ary Family
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17243
+#EXTINF:0,VIP UK| At The Races
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16968
+#EXTINF:0,VIP UK| Babenation
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17240
+#EXTINF:0,VIP UK| Baby TV
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16929
+#EXTINF:0,VIP UK| BBC 1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16869
+#EXTINF:0,VIP UK| BBC 2
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16868
+#EXTINF:0,VIP UK| BBC Four HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17239
+#EXTINF:0,VIP UK| BBC News HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17238
+#EXTINF:0,VIP UK| BBC One Channel Islands
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17237
+#EXTINF:0,VIP UK| BBC ONE HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17236
+#EXTINF:0,VIP UK| BBC One Lon
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17235
+#EXTINF:0,VIP UK| BBC ONE NI HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17234
+#EXTINF:0,VIP UK| BBC ONE OXFORD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16855
+#EXTINF:0,VIP UK| BBC ONE Scotland HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17233
+#EXTINF:0,VIP UK| BBC ONE Wales HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17232
+#EXTINF:0,VIP UK| Animal Planet
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17245
+#EXTINF:0,VIP UK| Animal Planet  1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17244
+#EXTINF:0,VIP UK| Animal planet HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16915
+#EXTINF:0,VIP UK| BBC One West
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17231
+#EXTINF:0,VIP UK| BBC ONE YORKS
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16854
+#EXTINF:0,VIP UK| BBC Red Button 1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17230
+#EXTINF:0,VIP UK| BBC Two Eng
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17229
+#EXTINF:0,VIP UK| BBC TWO HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17228
+#EXTINF:0,VIP UK| be3 SD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16867
+#EXTINF:0,VIP UK| Best Direct*
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17227
+#EXTINF:0,VIP UK| BlackEntTv
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17226
+#EXTINF:0,VIP UK| Blaze
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17225
+#EXTINF:0,VIP UK| Bloomberg HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16876
+#EXTINF:0,VIP UK| Boomerang
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16941
+#EXTINF:0,VIP UK| Boomerang  1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16940
+#EXTINF:0,VIP UK| BOOMERANG HD UK
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16859
+#EXTINF:0,VIP UK| Box Hits
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17224
+#EXTINF:0,VIP UK| Box Upfront
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17223
+#EXTINF:0,VIP UK| BoxNation
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17222
+#EXTINF:0,VIP UK| BT Sport 1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17221
+#EXTINF:0,VIP UK| BT Sport 2
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17220
+#EXTINF:0,VIP UK| BT Sport 3
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17219
+#EXTINF:0,VIP UK| BT Sport Espn FHD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16985
+#EXTINF:0,VIP UK| BT Sport//ESPN
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17218
+#EXTINF:0,VIP UK| BT Sports 1 FHD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16988
+#EXTINF:0,VIP UK| BT Sports 1 HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17020
+#EXTINF:0,VIP UK| BT Sports 2 FHD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16987
+#EXTINF:0,VIP UK| BT Sports 2 HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17019
+#EXTINF:0,VIP UK| BT Sports 3 FHD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16986
+#EXTINF:0,VIP UK| BT Sports 3 HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17018
+#EXTINF:0,VIP UK| BT Sports Espn HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17017
+#EXTINF:0,VIP UK| Cartoon Network
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16939
+#EXTINF:0,VIP UK| Cartoon Network  1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16938
+#EXTINF:0,VIP UK| Cartoon Network HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16982
+#EXTINF:0,VIP UK| Cartoonito (Not 24/7)
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16928
+#EXTINF:0,VIP UK| CBBC HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17217
+#EXTINF:0,VIP UK| CBeebies
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17216
+#EXTINF:0,VIP UK| CBS Action
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17215
+#EXTINF:0,VIP UK| CBS Drama
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17214
+#EXTINF:0,VIP UK| CBS Reality
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17213
+#EXTINF:0,VIP UK| Chalenge
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16937
+#EXTINF:0,VIP UK| Chalenge   1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17212
+#EXTINF:0,VIP UK| Chalenge  1 (OFFLINE)
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16936
+#EXTINF:0,VIP UK| Challenge
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17211
+#EXTINF:0,VIP UK| Channel 4
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17208
+#EXTINF:0,VIP UK| Channel 4   1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17210
+#EXTINF:0,VIP UK| Channel 4 HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17209
+#EXTINF:0,VIP UK| Channel 5
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17207
+#EXTINF:0,VIP UK| Channel 5   1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17206
+#EXTINF:0,VIP UK| Channel 5 HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16927
+#EXTINF:0,VIP UK| Channel AKA
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17205
+#EXTINF:0,VIP UK| Chart Show TV*
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17204
+#EXTINF:0,VIP UK| Chartshow Hits*
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17203
+#EXTINF:0,VIP UK| Clubland
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16875
+#EXTINF:0,VIP UK| CNBC*
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17201
+#EXTINF:0,VIP UK| CNN
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16935
+#EXTINF:0,VIP UK| Colors
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16905
+#EXTINF:0,VIP UK| Comedy Central
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17199
+#EXTINF:0,VIP UK| Comedy Central  1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17200
+#EXTINF:0,VIP UK| Comedy Central HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16926
+#EXTINF:0,VIP UK| ComedyXtra
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17198
+#EXTINF:0,VIP UK| ComedyXtra  1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17197
+#EXTINF:0,VIP UK| Crime   Investigation
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16967
+#EXTINF:0,VIP UK| Crime & Investigation HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17023
+#EXTINF:0,VIP UK| Dave
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17196
+#EXTINF:0,VIP UK| Dave HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16956
+#EXTINF:0,VIP UK| Dave ja vu
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17195
+#EXTINF:0,VIP UK| Disc.History
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17193
+#EXTINF:0,VIP UK| Disc.Science
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17191
+#EXTINF:0,VIP UK| Disc.Turbo
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17190
+#EXTINF:0,VIP UK| Discovery
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17189
+#EXTINF:0,VIP UK| Discovery   1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17188
+#EXTINF:0,VIP UK| Discovery HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16958
+#EXTINF:0,VIP UK| Discovery History  1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17194
+#EXTINF:0,VIP UK| Discovery Science  1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17192
+#EXTINF:0,VIP UK| Discovery Shed
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16899
+#EXTINF:0,VIP UK| Disney Channel
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16948
+#EXTINF:0,VIP UK| Disney Channel  1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16947
+#EXTINF:0,VIP UK| Disney Channel HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16851
+#EXTINF:0,VIP UK| Disney Junior
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16946
+#EXTINF:0,VIP UK| Disney Junior HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17022
+#EXTINF:0,VIP UK| Disney XD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16945
+#EXTINF:0,VIP UK| Disney XD HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17021
+#EXTINF:0,VIP UK| DMAX*
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17187
+#EXTINF:0,VIP UK| Drama
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17186
+#EXTINF:0,VIP UK| Dunya News
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17185
+#EXTINF:0,VIP UK| E!**
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17184
+#EXTINF:0,VIP UK| E4
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16972
+#EXTINF:0,VIP UK| E4  1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17183
+#EXTINF:0,VIP UK| E4 HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16904
+#EXTINF:0,VIP UK| E4*
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17182
+#EXTINF:0,VIP UK| Eden
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17181
+#EXTINF:0,VIP UK| Eden   1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17180
+#EXTINF:0,VIP UK| Eden HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16955
+#EXTINF:0,VIP UK| eir Sport 1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17179
+#EXTINF:0,VIP UK| eir Sport 2
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17178
+#EXTINF:0,VIP UK| Eman Channel
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17177
+#EXTINF:0,VIP UK| Eurosport 1 FHD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16994
+#EXTINF:0,VIP UK| Eurosport 1 HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16993
+#EXTINF:0,VIP UK| Eurosport 2
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16989
+#EXTINF:0,VIP UK| Eurosport 2 FHD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16991
+#EXTINF:0,VIP UK| Eurosport 2 HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16990
+#EXTINF:0,VIP UK| Film4
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17176
+#EXTINF:0,VIP UK| Film4   1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17175
+#EXTINF:0,VIP UK| Film4 HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16925
+#EXTINF:0,VIP UK| Food Network
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17174
+#EXTINF:0,VIP UK| Food Network  1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17173
+#EXTINF:0,VIP UK| Forces TV
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17172
+#EXTINF:0,VIP UK| Fox
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16962
+#EXTINF:0,VIP UK| FRANCE Eng
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17171
+#EXTINF:0,VIP UK| FreeSports
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17170
+#EXTINF:0,VIP UK| FrontRunner*
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17169
+#EXTINF:0,VIP UK| Geo Kahani
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16880
+#EXTINF:0,VIP UK| GEO TV*
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17168
+#EXTINF:0,VIP UK| Glory TV*
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17167
+#EXTINF:0,VIP UK| Gold
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17166
+#EXTINF:0,VIP UK| Gold   1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17165
+#EXTINF:0,VIP UK| Good Food
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17164
+#EXTINF:0,VIP UK| Good Food   1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17163
+#EXTINF:0,VIP UK| Good Food HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16954
+#EXTINF:0,VIP UK| H2
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16975
+#EXTINF:0,VIP UK| H2 HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16924
+#EXTINF:0,VIP UK| hgtv canada
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17162
+#EXTINF:0,VIP UK| Hidayat TV*
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17161
+#EXTINF:0,VIP UK| High Street TV 1*
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17160
+#EXTINF:0,VIP UK| History
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16974
+#EXTINF:0,VIP UK| History HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17024
+#EXTINF:0,VIP UK| Home
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17159
+#EXTINF:0,VIP UK| Home  1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17157
+#EXTINF:0,VIP UK| Home & Health
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17158
+#EXTINF:0,VIP UK| horror ch  1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17156
+#EXTINF:0,VIP UK| Horror Channel
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17155
+#EXTINF:0,VIP UK| Horse & Country*
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17154
+#EXTINF:0,VIP UK| HUM Europe
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16879
+#EXTINF:0,VIP UK| HUM Masala
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16878
+#EXTINF:0,VIP UK| Investigation Discovery*
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17153
+#EXTINF:0,VIP UK| IQRA BANGLA*
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17152
+#EXTINF:0,VIP UK| IQRA TV*
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17151
+#EXTINF:0,VIP UK| ITV
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16874
+#EXTINF:0,VIP UK| ITV 3
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16873
+#EXTINF:0,VIP UK| ITV 4
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16872
+#EXTINF:0,VIP UK| ITV 4 HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16951
+#EXTINF:0,VIP UK| ITV Anglia East
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17150
+#EXTINF:0,VIP UK| ITV Anglia East   1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17149
+#EXTINF:0,VIP UK| ITV Anglia East HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17148
+#EXTINF:0,VIP UK| ITV Border England HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17147
+#EXTINF:0,VIP UK| ITV Central West
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17146
+#EXTINF:0,VIP UK| ITV Central West HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17145
+#EXTINF:0,VIP UK| ITV Encore
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16871
+#EXTINF:0,VIP UK| itv encore hd/Temp only SD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17144
+#EXTINF:0,VIP UK| ITV Granada
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17143
+#EXTINF:0,VIP UK| ITV Granada HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16865
+#EXTINF:0,VIP UK| ITV London
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17142
+#EXTINF:0,VIP UK| ITV London HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17141
+#EXTINF:0,VIP UK| ITV Meridian East   1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17140
+#EXTINF:0,VIP UK| ITV Meridian East HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17139
+#EXTINF:0,VIP UK| ITV Tyne Tees HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16864
+#EXTINF:0,VIP UK| ITV Wales HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16863
+#EXTINF:0,VIP UK| ITV Westcountry South West HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16862
+#EXTINF:0,VIP UK| ITV Westcountry West HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16861
+#EXTINF:0,VIP UK| ITV Yorkshire West HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17138
+#EXTINF:0,VIP UK| ITV2
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17137
+#EXTINF:0,VIP UK| ITV2 HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16860
+#EXTINF:0,VIP UK| ITV3 HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16950
+#EXTINF:0,VIP UK| ITV4  1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17136
+#EXTINF:0,VIP UK| ITVBe
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17135
+#EXTINF:0,VIP UK| ITVi Stream 44
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17134
+#EXTINF:0,VIP UK| JML Direct*
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17133
+#EXTINF:0,VIP UK| Kanshi TV
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17132
+#EXTINF:0,VIP UK| Keep It Country
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16870
+#EXTINF:0,VIP UK| CITV
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17202
+#EXTINF:0,VIP UK| Kerrang!*
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17131
+#EXTINF:0,VIP UK| Kiss
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17129
+#EXTINF:0,VIP UK| Kiss (Radio)
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17130
+#EXTINF:0,VIP UK| LFC TV SD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16934
+#EXTINF:0,VIP UK| Lifetime
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16884
+#EXTINF:0,VIP UK| Lifetime HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16953
+#EXTINF:0,VIP UK| London Live*
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17128
+#EXTINF:0,VIP UK| Lucky Star
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17127
+#EXTINF:0,VIP UK| Madani Chnl*
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17126
+#EXTINF:0,VIP UK| Magic (Radio)
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17125
+#EXTINF:0,VIP UK| Magic*
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17124
+#EXTINF:0,VIP UK| More 4 HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16973
+#EXTINF:0,VIP UK| More4
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17122
+#EXTINF:0,VIP UK| More4   1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17123
+#EXTINF:0,VIP UK| Motorsport TV*
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17121
+#EXTINF:0,VIP UK| Movies 24
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17120
+#EXTINF:0,VIP UK| Movies 4 men  1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17119
+#EXTINF:0,VIP UK| movies4men
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17118
+#EXTINF:0,VIP UK| MUTV
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16971
+#EXTINF:0,VIP UK| MUTV HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17107
+#EXTINF:0,VIP UK| My5
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17106
+#EXTINF:0,VIP UK| Nat Geo
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16979
+#EXTINF:0,VIP UK| Nat Geo FHD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16981
+#EXTINF:0,VIP UK| Nat Geo HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16980
+#EXTINF:0,VIP UK| Nat Geo Wild
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16976
+#EXTINF:0,VIP UK| Nat Geo Wild FHD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16978
+#EXTINF:0,VIP UK| Nat Geo Wild HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16977
+#EXTINF:0,VIP UK| Nick HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16902
+#EXTINF:0,VIP UK| Nick Jr  1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17105
+#EXTINF:0,VIP UK| Nick Jr Too
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17104
+#EXTINF:0,VIP UK| Nick Jr.
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17103
+#EXTINF:0,VIP UK| NICK JUNIOR HD UK
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16858
+#EXTINF:0,VIP UK| Nickelodeon
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17102
+#EXTINF:0,VIP UK| Nicktoons
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17101
+#EXTINF:0,VIP UK| Now  90s
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16882
+#EXTINF:0,VIP UK| NOW 80s*
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17100
+#EXTINF:0,VIP UK| Olive TV
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17099
+#EXTINF:0,VIP UK| Paddy Power
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16852
+#EXTINF:0,VIP UK| Panjab Radio
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17098
+#EXTINF:0,VIP UK| PBS America
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17097
+#EXTINF:0,VIP UK| Pick
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17096
+#EXTINF:0,VIP UK| Premier Sports
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17091
+#EXTINF:0,VIP UK| PTV Global*
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17089
+#EXTINF:0,VIP UK| QUEST
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17088
+#EXTINF:0,VIP UK| QUEST  1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17087
+#EXTINF:0,VIP UK| Quest Red
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17086
+#EXTINF:0,VIP UK| Quest Red  1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17085
+#EXTINF:0,VIP UK| Racing UK
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16923
+#EXTINF:0,VIP UK| Racing UK HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17084
+#EXTINF:0,VIP UK| Real Lives
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16966
+#EXTINF:0,VIP UK| Really
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17083
+#EXTINF:0,VIP UK| Retail TV*
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17082
+#EXTINF:0,VIP UK| Rishtey Europe
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17081
+#EXTINF:0,VIP UK| RT*
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17080
+#EXTINF:0,VIP UK| RTE News NOW
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16895
+#EXTINF:0,VIP UK| RTE One
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16894
+#EXTINF:0,VIP UK| RTE ONE HD ( WEB CRACKED)
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16857
+#EXTINF:0,VIP UK| RTE TWO HD (WEB CRACKED)
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16856
+#EXTINF:0,VIP UK| RTE2
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16893
+#EXTINF:0,VIP UK| RTEjr
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16892
+#EXTINF:0,VIP UK| S4C HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17079
+#EXTINF:0,VIP UK| Scuzz*
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17078
+#EXTINF:0,VIP UK| Showcase
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16877
+#EXTINF:0,VIP UK| Sky 1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16888
+#EXTINF:0,VIP UK| Sky Arts HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16957
+#EXTINF:0,VIP UK| Sky Atlantic HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17027
+#EXTINF:0,VIP UK| Sky Cinema Action
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16919
+#EXTINF:0,VIP UK| Sky Cinema Action HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16995
+#EXTINF:0,VIP UK| Sky Cinema Action Men FHD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17007
+#EXTINF:0,VIP UK| Sky Cinema Comedy
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16901
+#EXTINF:0,VIP UK| Sky Cinema Comedy FHD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17010
+#EXTINF:0,VIP UK| Sky Cinema Comedy HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17004
+#EXTINF:0,VIP UK| Sky Cinema Disney
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16918
+#EXTINF:0,VIP UK| Sky Cinema Disney FHD Sorry Deleted by mistake
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17011
+#EXTINF:0,VIP UK| Sky Cinema Disney HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17003
+#EXTINF:0,VIP UK| Sky Cinema Drama
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16917
+#EXTINF:0,VIP UK| Sky Cinema Drama FHD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17006
+#EXTINF:0,VIP UK| Sky Cinema Drama HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17002
+#EXTINF:0,VIP UK| Sky Cinema Family
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16916
+#EXTINF:0,VIP UK| Sky Cinema Family FHD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17009
+#EXTINF:0,VIP UK| Sky Cinema Family HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17001
+#EXTINF:0,VIP UK| Sky Cinema Greats
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16913
+#EXTINF:0,VIP UK| Sky Cinema Greats FHD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17015
+#EXTINF:0,VIP UK| Sky Cinema Greats HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17000
+#EXTINF:0,VIP UK| Sky Cinema Hits
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16912
+#EXTINF:0,VIP UK| Sky Cinema Hits FHD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17013
+#EXTINF:0,VIP UK| Sky Cinema Hits HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17012
+#EXTINF:0,VIP UK| Sky Cinema Premier
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16911
+#EXTINF:0,VIP UK| Sky Cinema Premier  1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16910
+#EXTINF:0,VIP UK| Sky Cinema Premier FHD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17016
+#EXTINF:0,VIP UK| Sky Cinema Premier HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16999
+#EXTINF:0,VIP UK| Sky Cinema Sc-FI
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16909
+#EXTINF:0,VIP UK| Sky Cinema Sci-Fi & Horror FHD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17014
+#EXTINF:0,VIP UK| Sky Cinema Sci-FI HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16998
+#EXTINF:0,VIP UK| Sky Cinema Select
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16908
+#EXTINF:0,VIP UK| Sky Cinema Select FHD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17005
+#EXTINF:0,VIP UK| Sky Cinema Select HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16997
+#EXTINF:0,VIP UK| Sky Cinema Thriller
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16914
+#EXTINF:0,VIP UK| Sky Cinema Thriller FHD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17008
+#EXTINF:0,VIP UK| Sky Cinema Thriller HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16996
+#EXTINF:0,VIP UK| Sky Living
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16933
+#EXTINF:0,VIP UK| Sky Living HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16900
+#EXTINF:0,VIP UK| Sky News
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17077
+#EXTINF:0,VIP UK| Sky News HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16963
+#EXTINF:0,VIP UK| Sky One
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16932
+#EXTINF:0,VIP UK| Sky One HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16942
+#EXTINF:0,VIP UK| Sky Sports Action
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16961
+#EXTINF:0,VIP UK| Sky Sports Action FHD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16848
+#EXTINF:0,VIP UK| Sky Sports Action HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16834
+#EXTINF:0,VIP UK| Sky Sports Arena FHD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16847
+#EXTINF:0,VIP UK| Sky Sports Arena HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16833
+#EXTINF:0,VIP UK| Sky Sports Cricket
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16887
+#EXTINF:0,VIP UK| Sky Sports Cricket FHD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16846
+#EXTINF:0,VIP UK| Sky Sports Cricket HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16850
+#EXTINF:0,VIP UK| Sky Sports F1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16960
+#EXTINF:0,VIP UK| Sky Sports F1 FHD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16845
+#EXTINF:0,VIP UK| Sky Sports Football
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16886
+#EXTINF:0,VIP UK| Sky Sports Football FHD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16844
+#EXTINF:0,VIP UK| Sky Sports Football HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16840
+#EXTINF:0,VIP UK| Sky Sports Golf
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16970
+#EXTINF:0,VIP UK| Sky Sports Golf FHD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16843
+#EXTINF:0,VIP UK| Sky Sports Golf HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16839
+#EXTINF:0,VIP UK| Sky Sports Main Event
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16959
+#EXTINF:0,VIP UK| Sky Sports Main Event FHD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16842
+#EXTINF:0,VIP UK| Sky Sports Main Event HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16838
+#EXTINF:0,VIP UK| Sky Sports Mix
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16885
+#EXTINF:0,VIP UK| Sky Sports Mix FHD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16837
+#EXTINF:0,VIP UK| Sky Sports Mix HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16984
+#EXTINF:0,VIP UK| Sky Sports News
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16969
+#EXTINF:0,VIP UK| Sky Sports News HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16983
+#EXTINF:0,VIP UK| Sky Sports Premier League
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16943
+#EXTINF:0,VIP UK| Sky Sports Premier League FHD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16841
+#EXTINF:0,VIP UK| Sky Sports Premier League HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16835
+#EXTINF:0,VIP UK| Sky Two
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16907
+#EXTINF:0,VIP UK| Sony Crime
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17074
+#EXTINF:0,VIP UK| Sony Crime  1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17076
+#EXTINF:0,VIP UK| Sony Crime 2
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17075
+#EXTINF:0,VIP UK| AMC from BT HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17025
+#EXTINF:0,VIP UK| SONY MAX
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17073
+#EXTINF:0,VIP UK| SONY MIX*
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17072
+#EXTINF:0,VIP UK| Sony Movies
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17071
+#EXTINF:0,VIP UK| Sony Movies  1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17070
+#EXTINF:0,VIP UK| SONY SAB*
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17069
+#EXTINF:0,VIP UK| SONY TV*
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17068
+#EXTINF:0,VIP UK| Star Bharat
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17067
+#EXTINF:0,VIP UK| Star GOLD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17066
+#EXTINF:0,VIP UK| Star Plus
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17065
+#EXTINF:0,VIP UK| Starz TV*
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17064
+#EXTINF:0,VIP UK| STV HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17063
+#EXTINF:0,VIP UK| STV2*
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17062
+#EXTINF:0,VIP UK| Syfy
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17060
+#EXTINF:0,VIP UK| SYFY  1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17061
+#EXTINF:0,VIP UK| SYFY HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16922
+#EXTINF:0,VIP UK| Talking Pictures
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16891
+#EXTINF:0,VIP UK| TCM
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16890
+#EXTINF:0,VIP UK| TCM   1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17059
+#EXTINF:0,VIP UK| TCM HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16921
+#EXTINF:0,VIP UK| TG4
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16897
+#EXTINF:0,VIP UK| The Box
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17058
+#EXTINF:0,VIP UK| The Vault*
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17057
+#EXTINF:0,VIP UK| TLC
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17054
+#EXTINF:0,VIP UK| TLC   1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17053
+#EXTINF:0,VIP UK| TLC HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16949
+#EXTINF:0,VIP UK| Travel Channel
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17051
+#EXTINF:0,VIP UK| Travel Channel   1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17052
+#EXTINF:0,VIP UK| TRT World*
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17050
+#EXTINF:0,VIP UK| tru TV 1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17049
+#EXTINF:0,VIP UK| True Crime
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17048
+#EXTINF:0,VIP UK| True Ent  1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17047
+#EXTINF:0,VIP UK| True Ent*
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17046
+#EXTINF:0,VIP UK| True Movies  1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17045
+#EXTINF:0,VIP UK| True Movies*
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17044
+#EXTINF:0,VIP UK| truTV
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17043
+#EXTINF:0,VIP UK| truTV  1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17042
+#EXTINF:0,VIP UK| TV Warehouse*
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17041
+#EXTINF:0,VIP UK| TV3
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16896
+#EXTINF:0,VIP UK| TV5 MONDE
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17040
+#EXTINF:0,VIP UK| TVC News*
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17039
+#EXTINF:0,VIP UK| Universal Channel
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17038
+#EXTINF:0,VIP UK| UTV HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17037
+#EXTINF:0,VIP UK| Viceland HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17026
+#EXTINF:0,VIP UK| Vintage TV*
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17034
+#EXTINF:0,VIP UK| Virtual Betting Channel
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16853
+#EXTINF:0,VIP UK| Vox Africa*
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17033
+#EXTINF:0,VIP UK| W   1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17031
+#EXTINF:0,VIP UK| W HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16952
+#EXTINF:0,VIP UK| W Network
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17032
+#EXTINF:0,VIP UK| YESTERDAY
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17030
+#EXTINF:0,VIP UK| Yesterday   1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17029
+#EXTINF:0,VIP UK| Your TV
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17028
+#EXTINF:0,VIP UK| Zee TV
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16906
+#EXTINF:0,VIP UK| AAJ TAK*
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17251
+#EXTINF:0,VIP UK| ABN TV
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17250
+#EXTINF:0,VIP UK| ABP News*
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17249
+#EXTINF:0,VIP UK| Al Arabiya*
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17248
+#EXTINF:0,VIP UK| Al Jazeera Eng
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16866
+#EXTINF:0,VIP UK| alibi   1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/17246
+#EXTINF:0,VIP UK| Alibi HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16930
+#EXTINF:0,VIP UK|Disney XD  1 (OFFLINE)
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16944
+#EXTINF:0,VIP UK|Fox HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16903
+#EXTINF:0,VIP UK|Sky Sports News FHD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16836
+#EXTINF:0,(VIP UK| ITVBe HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16965
+#EXTINF:0,(VIP UK| Eurosport 1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/16992
+#EXTINF:0,  Crime Investigation
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/8044
+#EXTINF:0,  Dave
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/8045
+#EXTINF:0,  DISNEY XD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/2173
+#EXTINF:0,  SKY BT Sports 2 HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/1487
+#EXTINF:0, 3E
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/3083
+#EXTINF:0, Alibi
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/3094
+#EXTINF:0, AMC
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/4985
+#EXTINF:0, Animal Planet HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/1942
+#EXTINF:0, At The Races
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/3097
+#EXTINF:0, BABY TV
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/4986
+#EXTINF:0, BBC 1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/1194
+#EXTINF:0, BT Sport Extra 3
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/8027
+#EXTINF:0, BT Sport Extra 4
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/8026
+#EXTINF:0, BT Sports Extra 2 HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/2826
+#EXTINF:0, BTSport Europe HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/2737
+#EXTINF:0, BTSport//ESPN
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/2746
+#EXTINF:0, BTSportExtra1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/2745
+#EXTINF:0, CBS DRAMA
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/3081
+#EXTINF:0, CBS REALITY
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/3082
+#EXTINF:0, Discovery HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/1935
+#EXTINF:0, Discovery History
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/1939
+#EXTINF:0, Discovery Investigation
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/1938
+#EXTINF:0, Discovery Science
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/1937
+#EXTINF:0, Discovery Turbo
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/1936
+#EXTINF:0, Drama
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/3092
+#EXTINF:0, E4
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/2172
+#EXTINF:0, ESPN HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/1871
+#EXTINF:0, Eurosport 1 HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/1872
+#EXTINF:0, Eurosport2.HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/3318
+#EXTINF:0, FILM 4
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/2170
+#EXTINF:0, Film 4 HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/3095
+#EXTINF:0, Film 4 UK
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/834
+#EXTINF:0, Food
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/3093
+#EXTINF:0, FOOD NETWORK
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/2385
+#EXTINF:0, FOX
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/2169
+#EXTINF:0, Gold
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/3091
+#EXTINF:0, Home
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/3090
+#EXTINF:0, ITV
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/2167
+#EXTINF:0, ITV2
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/2166
+#EXTINF:0, ITV3
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/2165
+#EXTINF:0, ITV4
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/2164
+#EXTINF:0, ITVBE
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/2163
+#EXTINF:0, MORE4
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/2161
+#EXTINF:0, Mototrs TV
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/2155
+#EXTINF:0, mov4men1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/3096
+#EXTINF:0, MUTV
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/5654
+#EXTINF:0, Nat Geo Wild HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/1941
+#EXTINF:0, National Geographic
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/1448
+#EXTINF:0, National Geographic HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/1940
+#EXTINF:0, Premier Sports
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/2828
+#EXTINF:0, Quest
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/3089
+#EXTINF:0, RACING HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/2162
+#EXTINF:0, RTE one
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/2740
+#EXTINF:0, RTE1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/2742
+#EXTINF:0, RTE2
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/2741
+#EXTINF:0, Sky Arts 1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/1434
+#EXTINF:0, Sky Atlantic
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/1435
+#EXTINF:0, SKY BT Sports 1 HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/1488
+#EXTINF:0, SKY LIVING
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/2958
+#EXTINF:0, Sky Movies Action HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/831
+#EXTINF:0, Sky Movies Drama HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/830
+#EXTINF:0, Sky Movies Family
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/1439
+#EXTINF:0, Sky Movies Modern Greats
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/1440
+#EXTINF:0, Sky Movies Premiere
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/2755
+#EXTINF:0, Sky Movies Scifi / Horror
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/1442
+#EXTINF:0, Sky Movies Select
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/2753
+#EXTINF:0, Sky Movies Select HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/826
+#EXTINF:0, Sky Movies Thriller HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/825
+#EXTINF:0, Sky News
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/4219
+#EXTINF:0, Sky Setanta Sports
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/2160
+#EXTINF:0, Sky Sport 1 HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/2964
+#EXTINF:0, Sky Sport 2 HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/2965
+#EXTINF:0, Sky Sport 3 HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/2966
+#EXTINF:0, Sky Sport 4 HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/2967
+#EXTINF:0, Sky Sport 5 HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/2968
+#EXTINF:0, Sky Sport F1 HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/2969
+#EXTINF:0, Sky Sports 1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/824
+#EXTINF:0, Sky Sports 2
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/823
+#EXTINF:0, Sky Sports 3
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/822
+#EXTINF:0, Sky Sports Mix HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/821
+#EXTINF:0, SPORT_CRICKET_HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/820
+#EXTINF:0, Sky Sports F1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/819
+#EXTINF:0, Sky Syfy
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/2159
+#EXTINF:0, Sky Thriller
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/2750
+#EXTINF:0, SkyScFi/Horror
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/2754
+#EXTINF:0, Sony TV
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/2747
+#EXTINF:0, TCM 1
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/2158
+#EXTINF:0, TG4
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/2739
+#EXTINF:0, TLC
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/2156
+#EXTINF:0,-|  TV3
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/2154
+#EXTINF:0,BBC  News
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/1191
+#EXTINF:0,BBC 2
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/1193
+#EXTINF:0,BBC 4
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/1192
+#EXTINF:0,BBC3
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/1190
+#EXTINF:0,Sky Movies Comedy
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/925
+#EXTINF:0,Sky Movies Premiere HD
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/1317
+#EXTINF:0, YESTERDAY
+http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/2152

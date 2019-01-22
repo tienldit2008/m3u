@@ -1,1522 +1,301 @@
 #EXTM3U
-#EXTINF:-1,VOX  HD
-http://m-iptv.net:6204/ali010/ali010/12235
-#EXTINF:-1,VOX SD
-http://m-iptv.net:6204/ali010/ali010/12234
-#EXTINF:-1,VOX FHD
-http://m-iptv.net:6204/ali010/ali010/12236
-#EXTINF:-1,Dmax HD.
-http://m-iptv.net:6204/ali010/ali010/12361
-#EXTINF:-1,RTL FHD
-http://m-iptv.net:6204/ali010/ali010/12243
-#EXTINF:-1,RTL HD.
-http://m-iptv.net:6204/ali010/ali010/12242
-#EXTINF:-1,RTL SD
-http://m-iptv.net:6204/ali010/ali010/12241
-#EXTINF:-1,RTL II FHD
-http://m-iptv.net:6204/ali010/ali010/12240
-#EXTINF:-1,RTL II HD
-http://m-iptv.net:6204/ali010/ali010/12239
-#EXTINF:-1,RTL II
-http://m-iptv.net:6204/ali010/ali010/12238
-#EXTINF:-1,RTL Nitro HD
-http://m-iptv.net:6204/ali010/ali010/12217
-#EXTINF:-1,RTL Living HD
-http://m-iptv.net:6204/ali010/ali010/12362
-#EXTINF:-1,RTL Passion HD
-http://m-iptv.net:6204/ali010/ali010/12364
-#EXTINF:-1,RTL Passion SD
-http://m-iptv.net:6204/ali010/ali010/12363
-#EXTINF:-1,RTL Crime SD
-http://m-iptv.net:6204/ali010/ali010/12365
-#EXTINF:-1,RTL Plus SD
-http://m-iptv.net:6204/ali010/ali010/12237
-#EXTINF:-1,Super RTL FHD
-http://m-iptv.net:6204/ali010/ali010/12259
-#EXTINF:-1,Super RTL HD
-http://m-iptv.net:6204/ali010/ali010/12258
-#EXTINF:-1,Super RTL SD
-http://m-iptv.net:6204/ali010/ali010/12257
-#EXTINF:-1,ZDF FHD
-http://m-iptv.net:6204/ali010/ali010/12210
-#EXTINF:-1,ZDF HD.
-http://m-iptv.net:6204/ali010/ali010/12209
-#EXTINF:-1,ZDF
-http://m-iptv.net:6204/ali010/ali010/12208
-#EXTINF:-1,ZDF Neo FHD
-http://m-iptv.net:6204/ali010/ali010/12206
-#EXTINF:-1,ZDF Neo HD.
-http://m-iptv.net:6204/ali010/ali010/12205
-#EXTINF:-1,ZDF Neo
-http://m-iptv.net:6204/ali010/ali010/12204
-#EXTINF:-1,ZDF Info HD
-http://m-iptv.net:6204/ali010/ali010/12207
-#EXTINF:-1,Arte FHD
-http://m-iptv.net:6204/ali010/ali010/12202
-#EXTINF:-1,Das Erste FHD
-http://m-iptv.net:6204/ali010/ali010/12213
-#EXTINF:-1,Das Erste HD.
-http://m-iptv.net:6204/ali010/ali010/12212
-#EXTINF:-1,Das Erste
-http://m-iptv.net:6204/ali010/ali010/12211
-#EXTINF:-1,Sat.1 FHD
-http://m-iptv.net:6204/ali010/ali010/12233
-#EXTINF:-1,Sat.1 HD.
-http://m-iptv.net:6204/ali010/ali010/12232
-#EXTINF:-1,Sat.1
-http://m-iptv.net:6204/ali010/ali010/12231
-#EXTINF:-1,Sat.1 Gold FHD
-http://m-iptv.net:6204/ali010/ali010/12220
-#EXTINF:-1,Sat.1 Gold SD
-http://m-iptv.net:6204/ali010/ali010/12218
-#EXTINF:-1,Pro7 FHD
-http://m-iptv.net:6204/ali010/ali010/12229
-#EXTINF:-1,Pro7 Fun  FHD
-http://m-iptv.net:6204/ali010/ali010/12230
-#EXTINF:-1,Pro7 Maxx FHD
-http://m-iptv.net:6204/ali010/ali010/12226
-#EXTINF:-1,Pro 7 Maxx HD
-http://m-iptv.net:6204/ali010/ali010/12225
-#EXTINF:-1,Pro7 Maxx SD
-http://m-iptv.net:6204/ali010/ali010/12224
-#EXTINF:-1,Pro 7 HD
-http://m-iptv.net:6204/ali010/ali010/12228
-#EXTINF:-1,Pro7
-http://m-iptv.net:6204/ali010/ali010/12227
-#EXTINF:-1,N-TV HD
-http://m-iptv.net:6204/ali010/ali010/12245
-#EXTINF:-1,Phoenix
-http://m-iptv.net:6204/ali010/ali010/12273
-#EXTINF:-1,Kabel eins HD.
-http://m-iptv.net:6204/ali010/ali010/12215
-#EXTINF:-1,Kabel eins Doku
-http://m-iptv.net:6204/ali010/ali010/12281
-#EXTINF:-1,Kabel eins Classic HD
-http://m-iptv.net:6204/ali010/ali010/12214
-#EXTINF:-1,Sat1 Emotions
-http://m-iptv.net:6204/ali010/ali010/12216
-#EXTINF:-1,Sat1 Gold HD
-http://m-iptv.net:6204/ali010/ali010/12219
-#EXTINF:-1,Sixx FHD
-http://m-iptv.net:6204/ali010/ali010/12223
-#EXTINF:-1,SIXX HD.
-http://m-iptv.net:6204/ali010/ali010/12222
-#EXTINF:-1,Sixx SD
-http://m-iptv.net:6204/ali010/ali010/12221
-#EXTINF:-1,Tele 5 HD
-http://m-iptv.net:6204/ali010/ali010/12192
-#EXTINF:-1,13th Street HD
-http://m-iptv.net:6204/ali010/ali010/12372
-#EXTINF:-1,3Sat HD
-http://m-iptv.net:6204/ali010/ali010/12203
-#EXTINF:-1,TNT Film FHD
-http://m-iptv.net:6204/ali010/ali010/14411
-#EXTINF:-1,TNT Film HD
-http://m-iptv.net:6204/ali010/ali010/14410
-#EXTINF:-1,TNT Serie HD
-http://m-iptv.net:6204/ali010/ali010/12370
-#EXTINF:-1,TNT Comedy HD
-http://m-iptv.net:6204/ali010/ali010/12369
-#EXTINF:-1,AXN HD
-http://m-iptv.net:6204/ali010/ali010/14409
-#EXTINF:-1,TLC HD
-http://m-iptv.net:6204/ali010/ali010/12278
-#EXTINF:-1,SyFy HD
-http://m-iptv.net:6204/ali010/ali010/12375
-#EXTINF:-1,Sky 1 HD
-http://m-iptv.net:6204/ali010/ali010/12379
-#EXTINF:-1,Sky Arts HD
-http://m-iptv.net:6204/ali010/ali010/12276
-#EXTINF:-1,Sky Atlantic
-http://m-iptv.net:6204/ali010/ali010/12378
-#EXTINF:-1,Sky Krimi SD
-http://m-iptv.net:6204/ali010/ali010/12377
-#EXTINF:-1,Sky Cinema HD
-http://m-iptv.net:6204/ali010/ali010/12398
-#EXTINF:-1,Sky Cinema  1 HD
-http://m-iptv.net:6204/ali010/ali010/12397
-#EXTINF:-1,Sky Cinema Hits HD
-http://m-iptv.net:6204/ali010/ali010/12393
-#EXTINF:-1,Sky Cinema  24 HD
-http://m-iptv.net:6204/ali010/ali010/12396
-#EXTINF:-1,Sky Cinema Action HD
-http://m-iptv.net:6204/ali010/ali010/12395
-#EXTINF:-1,Sky Cinema Comedy SD
-http://m-iptv.net:6204/ali010/ali010/12392
-#EXTINF:-1,Sky Cinema Emotion SD
-http://m-iptv.net:6204/ali010/ali010/12391
-#EXTINF:-1,Sky Cinema Family HD
-http://m-iptv.net:6204/ali010/ali010/12394
-#EXTINF:-1,Sky Cinema Nostalgie SD
-http://m-iptv.net:6204/ali010/ali010/12390
-#EXTINF:-1,Sky Select 1 FHD
-http://m-iptv.net:6204/ali010/ali010/12387
-#EXTINF:-1,Sky Select 2 FHD
-http://m-iptv.net:6204/ali010/ali010/12386
-#EXTINF:-1,Sky Select 3 FHD
-http://m-iptv.net:6204/ali010/ali010/12385
-#EXTINF:-1,Sky Select 4 FHD
-http://m-iptv.net:6204/ali010/ali010/12384
-#EXTINF:-1,Sky Select 5 FHD
-http://m-iptv.net:6204/ali010/ali010/12383
-#EXTINF:-1,Sky Select 6 HD
-http://m-iptv.net:6204/ali010/ali010/12382
-#EXTINF:-1,Sky Select 7 FHD
-http://m-iptv.net:6204/ali010/ali010/12381
-#EXTINF:-1,Sky Select 8 FHD
-http://m-iptv.net:6204/ali010/ali010/12380
-#EXTINF:-1,A&E
-http://m-iptv.net:6204/ali010/ali010/12272
-#EXTINF:-1,Arte HD.
-http://m-iptv.net:6204/ali010/ali010/12201
-#EXTINF:-1,ATV HD
-http://m-iptv.net:6204/ali010/ali010/12200
-#EXTINF:-1,Anixe Serie FHD
-http://m-iptv.net:6204/ali010/ali010/12191
-#EXTINF:-1,Classica SD
-http://m-iptv.net:6204/ali010/ali010/12255
-#EXTINF:-1,Deluxe Music
-http://m-iptv.net:6204/ali010/ali010/12256
-#EXTINF:-1,Deutsches Musik Fernsehen
-http://m-iptv.net:6204/ali010/ali010/12254
-#EXTINF:-1,E! HD
-http://m-iptv.net:6204/ali010/ali010/12366
-#EXTINF:-1,EuroNews
-http://m-iptv.net:6204/ali010/ali010/12244
-#EXTINF:-1,Fashion TV
-http://m-iptv.net:6204/ali010/ali010/12279
-#EXTINF:-1,Fox HD
-http://m-iptv.net:6204/ali010/ali010/12376
-#EXTINF:-1,Genius Plus
-http://m-iptv.net:6204/ali010/ali010/12190
-#EXTINF:-1,History FHD
-http://m-iptv.net:6204/ali010/ali010/12283
-#EXTINF:-1,HSE24 FHD
-http://m-iptv.net:6204/ali010/ali010/12189
-#EXTINF:-1,Junior HD
-http://m-iptv.net:6204/ali010/ali010/12263
-#EXTINF:-1,Juwelo FHD
-http://m-iptv.net:6204/ali010/ali010/12188
-#EXTINF:-1,Kika HD
-http://m-iptv.net:6204/ali010/ali010/12262
-#EXTINF:-1,Kinowelt HD
-http://m-iptv.net:6204/ali010/ali010/12368
-#EXTINF:-1,Romance TV
-http://m-iptv.net:6204/ali010/ali010/12193
-#EXTINF:-1,N24 Doku
-http://m-iptv.net:6204/ali010/ali010/12282
-#EXTINF:-1,NDR HD
-http://m-iptv.net:6204/ali010/ali010/12199
-#EXTINF:-1,One HD
-http://m-iptv.net:6204/ali010/ali010/12198
-#EXTINF:-1,ORF 1 HD
-http://m-iptv.net:6204/ali010/ali010/12196
-#EXTINF:-1,ORF 2 HD
-http://m-iptv.net:6204/ali010/ali010/12195
-#EXTINF:-1,ORF Eins FHD
-http://m-iptv.net:6204/ali010/ali010/12197
-#EXTINF:-1,Planet HD
-http://m-iptv.net:6204/ali010/ali010/12285
-#EXTINF:-1,Spiegel Tv Geschichte HD
-http://m-iptv.net:6204/ali010/ali010/12275
-#EXTINF:-1,Spiegel TV Wissen HD
-http://m-iptv.net:6204/ali010/ali010/12274
-#EXTINF:-1,Toggo Plus
-http://m-iptv.net:6204/ali010/ali010/12260
-#EXTINF:-1,Universal Channel HD
-http://m-iptv.net:6204/ali010/ali010/12373
-#EXTINF:-1,MTV Brand New
-http://m-iptv.net:6204/ali010/ali010/12252
-#EXTINF:-1,MTV Classic
-http://m-iptv.net:6204/ali010/ali010/12251
-#EXTINF:-1,MTV Dance
-http://m-iptv.net:6204/ali010/ali010/12250
-#EXTINF:-1,MTV Europe
-http://m-iptv.net:6204/ali010/ali010/12249
-#EXTINF:-1,MTV HD
-http://m-iptv.net:6204/ali010/ali010/12253
-#EXTINF:-1,MTV Hits
-http://m-iptv.net:6204/ali010/ali010/12248
-#EXTINF:-1,JukeBox
-http://m-iptv.net:6204/ali010/ali010/12247
-#EXTINF:-1,MTV Rocks
-http://m-iptv.net:6204/ali010/ali010/12246
-#EXTINF:-1,Travel Channel FHD
-http://m-iptv.net:6204/ali010/ali010/12280
-#EXTINF:-1,Nat Geo HD
-http://m-iptv.net:6204/ali010/ali010/12288
-#EXTINF:-1,Nat Geo Wild HD
-http://m-iptv.net:6204/ali010/ali010/12287
-#EXTINF:-1,Animal Planet HD
-http://m-iptv.net:6204/ali010/ali010/12286
-#EXTINF:-1,Discovery Channel HD
-http://m-iptv.net:6204/ali010/ali010/12284
-#EXTINF:-1,Baby TV
-http://m-iptv.net:6204/ali010/ali010/12264
-#EXTINF:-1,Nickelodeon HD
-http://m-iptv.net:6204/ali010/ali010/12261
-#EXTINF:-1,Boomerang
-http://m-iptv.net:6204/ali010/ali010/12266
-#EXTINF:-1,Cartoon Network HD
-http://m-iptv.net:6204/ali010/ali010/12267
-#EXTINF:-1,Disney Channel HD
-http://m-iptv.net:6204/ali010/ali010/12271
-#EXTINF:-1,Disney CineMagic SD
-http://m-iptv.net:6204/ali010/ali010/12270
-#EXTINF:-1,Disney Junior HD
-http://m-iptv.net:6204/ali010/ali010/12269
-#EXTINF:-1,Disney XD SD
-http://m-iptv.net:6204/ali010/ali010/12268
-#EXTINF:-1,Fix & Foxi
-http://m-iptv.net:6204/ali010/ali010/12265
-#EXTINF:-1,Sky Sport News FHD
-http://m-iptv.net:6204/ali010/ali010/12352
-#EXTINF:-1,Sky Sport News HD.
-http://m-iptv.net:6204/ali010/ali010/12351
-#EXTINF:-1,Sky Sport  Austria FHD
-http://m-iptv.net:6204/ali010/ali010/12354
-#EXTINF:-1,Sky Sport Austria SD
-http://m-iptv.net:6204/ali010/ali010/12353
-#EXTINF:-1,Auto Motor Sport HD
-http://m-iptv.net:6204/ali010/ali010/12356
-#EXTINF:-1,ORF Sport  HD
-http://m-iptv.net:6204/ali010/ali010/12194
-#EXTINF:-1,Motorvision HD
-http://m-iptv.net:6204/ali010/ali010/12355
-#EXTINF:-1,Sport 1 HD.
-http://m-iptv.net:6204/ali010/ali010/12360
-#EXTINF:-1,Sport1  HD
-http://m-iptv.net:6204/ali010/ali010/12359
-#EXTINF:-1,Sport1 US FHD
-http://m-iptv.net:6204/ali010/ali010/12358
-#EXTINF:-1,Sportdigital HD
-http://m-iptv.net:6204/ali010/ali010/12357
-#EXTINF:-1,DAZN  1 FHD
-http://m-iptv.net:6204/ali010/ali010/12339
-#EXTINF:-1,DAZN  2 FHD
-http://m-iptv.net:6204/ali010/ali010/12338
-#EXTINF:-1,EuroSport 1 FHD
-http://m-iptv.net:6204/ali010/ali010/12350
-#EXTINF:-1,EuroSport 1 HD.
-http://m-iptv.net:6204/ali010/ali010/12349
-#EXTINF:-1,EuroSport 2 FHD
-http://m-iptv.net:6204/ali010/ali010/12348
-#EXTINF:-1,EuroSport 2 HD.
-http://m-iptv.net:6204/ali010/ali010/12347
-#EXTINF:-1,EuroSport 2 Xtra FHD
-http://m-iptv.net:6204/ali010/ali010/12346
-#EXTINF:-1,EuroSport 2 Xtra HD
-http://m-iptv.net:6204/ali010/ali010/12345
-#EXTINF:-1,EuroSport360 1 FHD
-http://m-iptv.net:6204/ali010/ali010/12344
-#EXTINF:-1,Eurosport360 2 FHD
-http://m-iptv.net:6204/ali010/ali010/12343
-#EXTINF:-1,EuroSport360 3 FHD
-http://m-iptv.net:6204/ali010/ali010/12342
-#EXTINF:-1,EuroSport360 4 FHD
-http://m-iptv.net:6204/ali010/ali010/12341
-#EXTINF:-1,Eurosport360 5 FHD
-http://m-iptv.net:6204/ali010/ali010/12340
-#EXTINF:-1,Sky Sport 1
-http://m-iptv.net:6204/ali010/ali010/12335
-#EXTINF:-1,Sky Sport 1 FHD
-http://m-iptv.net:6204/ali010/ali010/12337
-#EXTINF:-1,Sky Sport 1 HD
-http://m-iptv.net:6204/ali010/ali010/12336
-#EXTINF:-1,Sky Sport 2
-http://m-iptv.net:6204/ali010/ali010/12332
-#EXTINF:-1,Sky Sport 2 FHD
-http://m-iptv.net:6204/ali010/ali010/12334
-#EXTINF:-1,Sky Sport 2 HD
-http://m-iptv.net:6204/ali010/ali010/12333
-#EXTINF:-1,Sky Sport 3
-http://m-iptv.net:6204/ali010/ali010/12329
-#EXTINF:-1,Sky Sport 3 FHD
-http://m-iptv.net:6204/ali010/ali010/12331
-#EXTINF:-1,Sky Sport 3 HD
-http://m-iptv.net:6204/ali010/ali010/12330
-#EXTINF:-1,Sky Sport 4
-http://m-iptv.net:6204/ali010/ali010/12326
-#EXTINF:-1,Sky Sport 4 FHD
-http://m-iptv.net:6204/ali010/ali010/12328
-#EXTINF:-1,Sky Sport 4 HD
-http://m-iptv.net:6204/ali010/ali010/12327
-#EXTINF:-1,Sky Sport 5
-http://m-iptv.net:6204/ali010/ali010/12323
-#EXTINF:-1,Sky Sport 5 FHD
-http://m-iptv.net:6204/ali010/ali010/12325
-#EXTINF:-1,Sky Sport 5 HD
-http://m-iptv.net:6204/ali010/ali010/12324
-
-#EXTINF:-1,ᴰᴱ: 13th Street
-http://xxultraxx.com:80/tvlink531/205677/1488
-#EXTINF:-1,ᴰᴱ: 3 sat
-http://xxultraxx.com:80/tvlink531/205677/1865
-#EXTINF:-1,ᴰᴱ: Anixe
-http://xxultraxx.com:80/tvlink531/205677/2410
-#EXTINF:-1,ᴰᴱ: Arte
-http://xxultraxx.com:80/tvlink531/205677/2630
-#EXTINF:-1,Astro
-http://xxultraxx.com:80/tvlink531/205677/2422
-#EXTINF:-1,Atv HD
-http://xxultraxx.com:80/tvlink531/205677/2436
-#EXTINF:-1,ᴰᴱ: Axn
-http://xxultraxx.com:80/tvlink531/205677/619
-#EXTINF:-1,ᴰᴱ: Comedy Central / Viva
-http://xxultraxx.com:80/tvlink531/205677/2775
-#EXTINF:-1,ᴰᴱ: Das Erste
-http://xxultraxx.com:80/tvlink531/205677/2631
-#EXTINF:-1,ᴰᴱ: Discovery
-http://xxultraxx.com:80/tvlink531/205677/1484
-#EXTINF:-1,ᴰᴱ: Disney Channel
-http://xxultraxx.com:80/tvlink531/205677/1493
-#EXTINF:-1,ᴰᴱ: Dmax
-http://xxultraxx.com:80/tvlink531/205677/2430
-#EXTINF:-1,Drf1
-http://xxultraxx.com:80/tvlink531/205677/2424
-#EXTINF:-1,ᴰᴱ: Dw News
-http://xxultraxx.com:80/tvlink531/205677/10208
-#EXTINF:-1,A & E
-http://xxultraxx.com:80/tvlink531/205677/1491
-#EXTINF:-1,ᴰᴱ: EuroSport
-http://xxultraxx.com:80/tvlink531/205677/2439
-#EXTINF:-1,Fox
-http://xxultraxx.com:80/tvlink531/205677/2421
-#EXTINF:-1,ᴰᴱ: Fox Serie
-http://xxultraxx.com:80/tvlink531/205677/1490
-#EXTINF:-1,History
-http://xxultraxx.com:80/tvlink531/205677/2432
-#EXTINF:-1,ᴰᴱ: HR Fernsehen
-http://xxultraxx.com:80/tvlink531/205677/2416
-#EXTINF:-1,ᴰᴱ: In tv
-http://xxultraxx.com:80/tvlink531/205677/2429
-#EXTINF:-1,Kabel
-http://xxultraxx.com:80/tvlink531/205677/1866
-#EXTINF:-1,Kabel Eins
-http://xxultraxx.com:80/tvlink531/205677/2417
-#EXTINF:-1,ᴰᴱ: Kika
-http://xxultraxx.com:80/tvlink531/205677/2408
-#EXTINF:-1,ᴰᴱ: N 24
-http://xxultraxx.com:80/tvlink531/205677/2414
-#EXTINF:-1,National Geo Wild
-http://xxultraxx.com:80/tvlink531/205677/599
-#EXTINF:-1,ᴰᴱ: National Geographic
-http://xxultraxx.com:80/tvlink531/205677/1483
-#EXTINF:-1,Ndr
-http://xxultraxx.com:80/tvlink531/205677/2427
-#EXTINF:-1,ᴰᴱ: Nickelodeon
-http://xxultraxx.com:80/tvlink531/205677/2413
-#EXTINF:-1,ᴰᴱ: n-tv
-http://xxultraxx.com:80/tvlink531/205677/2406
-#EXTINF:-1,Okto
-http://xxultraxx.com:80/tvlink531/205677/2433
-#EXTINF:-1,Boomerang
-http://xxultraxx.com:80/tvlink531/205677/1489
-#EXTINF:-1,ᴰᴱ: Pro 7
-http://xxultraxx.com:80/tvlink531/205677/1887
-#EXTINF:-1,ProSieben Maxx
-http://xxultraxx.com:80/tvlink531/205677/2420
-#EXTINF:-1,Kabel Doku
-http://xxultraxx.com:80/tvlink531/205677/2434
-#EXTINF:-1,Rnf
-http://xxultraxx.com:80/tvlink531/205677/2423
-#EXTINF:-1,ᴰᴱ: Romance
-http://xxultraxx.com:80/tvlink531/205677/603
-#EXTINF:-1,RTL
-http://xxultraxx.com:80/tvlink531/205677/718
-#EXTINF:-1,RTL 2
-http://xxultraxx.com:80/tvlink531/205677/719
-#EXTINF:-1,ᴰᴱ: RTL Crime
-http://xxultraxx.com:80/tvlink531/205677/1486
-#EXTINF:-1,RTL Nitro
-http://xxultraxx.com:80/tvlink531/205677/886
-#EXTINF:-1,ᴰᴱ: RTL Passion
-http://xxultraxx.com:80/tvlink531/205677/1487
-#EXTINF:-1,ᴰᴱ: Sat 1
-http://xxultraxx.com:80/tvlink531/205677/2407
-#EXTINF:-1,Sat 1 Gold
-http://xxultraxx.com:80/tvlink531/205677/2440
-#EXTINF:-1,Sixx
-http://xxultraxx.com:80/tvlink531/205677/2418
-#EXTINF:-1,Sky Action
-http://xxultraxx.com:80/tvlink531/205677/581
-#EXTINF:-1,Sky Atlantic
-http://xxultraxx.com:80/tvlink531/205677/1475
-#EXTINF:-1,Sky BundesLiga 1
-http://xxultraxx.com:80/tvlink531/205677/83
-#EXTINF:-1,ᴰᴱ: Sky BundesLiga 2
-http://xxultraxx.com:80/tvlink531/205677/6586
-#EXTINF:-1,Sky Cinema
-http://xxultraxx.com:80/tvlink531/205677/1002
-#EXTINF:-1,Sky Cinema +24
-http://xxultraxx.com:80/tvlink531/205677/1000
-#EXTINF:-1,Sky Comedy
-http://xxultraxx.com:80/tvlink531/205677/580
-#EXTINF:-1,Sky Emotion
-http://xxultraxx.com:80/tvlink531/205677/999
-#EXTINF:-1,Sky Family
-http://xxultraxx.com:80/tvlink531/205677/2411
-#EXTINF:-1,Sky Krimi
-http://xxultraxx.com:80/tvlink531/205677/1477
-#EXTINF:-1,Sky Nostalgie
-http://xxultraxx.com:80/tvlink531/205677/1476
-#EXTINF:-1,ᴰᴱ: Sky Select 1
-http://xxultraxx.com:80/tvlink531/205677/6568
-#EXTINF:-1,ᴰᴱ: Sky Select 2
-http://xxultraxx.com:80/tvlink531/205677/6567
-#EXTINF:-1,ᴰᴱ: Sky Select 3
-http://xxultraxx.com:80/tvlink531/205677/6566
-#EXTINF:-1,ᴰᴱ: Sky Select 4
-http://xxultraxx.com:80/tvlink531/205677/6565
-#EXTINF:-1,ᴰᴱ: Sky Select 5
-http://xxultraxx.com:80/tvlink531/205677/6564
-#EXTINF:-1,Sky Sport 1
-http://xxultraxx.com:80/tvlink531/205677/84
-#EXTINF:-1,Sky Sport 2
-http://xxultraxx.com:80/tvlink531/205677/85
-#EXTINF:-1,ᴰᴱ: Sky Sport Austria
-http://xxultraxx.com:80/tvlink531/205677/1482
-#EXTINF:-1,Sport digital
-http://xxultraxx.com:80/tvlink531/205677/2431
-#EXTINF:-1,Super RTL
-http://xxultraxx.com:80/tvlink531/205677/889
-#EXTINF:-1,Syfy
-http://xxultraxx.com:80/tvlink531/205677/1480
-#EXTINF:-1,ᴰᴱ: Tlc
-http://xxultraxx.com:80/tvlink531/205677/2412
-#EXTINF:-1,ᴰᴱ: Tnt Serie
-http://xxultraxx.com:80/tvlink531/205677/1479
-#EXTINF:-1,Vox
-http://xxultraxx.com:80/tvlink531/205677/717
-#EXTINF:-1,ᴰᴱ: WDR
-http://xxultraxx.com:80/tvlink531/205677/2428
-#EXTINF:-1,ZDF
-http://xxultraxx.com:80/tvlink531/205677/890
-#EXTINF:-1,ZDF Neo
-http://xxultraxx.com:80/tvlink531/205677/1492
-#EXTINF:-1,DAZN Bar 1
-http://xxultraxx.com:80/tvlink531/205677/23470
-#EXTINF:-1,ᴰᴱ: DAZN Bar 2
-http://xxultraxx.com:80/tvlink531/205677/23471
-#EXTINF:-1,ᴰᴱ: EuroSport 2
-http://xxultraxx.com:80/tvlink531/205677/23472
-#EXTINF:-1,Universal
-http://xxultraxx.com:80/tvlink531/205677/23486
-#EXTINF:-1,ᴰᴱ: Disney Cinemagic
-http://xxultraxx.com:80/tvlink531/205677/23490
-#EXTINF:-1,Disney Junior
-http://xxultraxx.com:80/tvlink531/205677/23489
-#EXTINF:-1,Disney XD
-http://xxultraxx.com:80/tvlink531/205677/23488
-#EXTINF:-1,RTL plus
-http://xxultraxx.com:80/tvlink531/205677/23491
-#EXTINF:-1,ᴰᴱ: Kinowelt
-http://xxultraxx.com:80/tvlink531/205677/23507
-#EXTINF:-1,Zee One
-http://xxultraxx.com:80/tvlink531/205677/2435
-
-#EXTINF:-1,ZDF FHD
-http://linux-app.tv:6204/admin/123/12210
-#EXTINF:-1,ZDF HD.
-http://linux-app.tv:6204/admin/123/12209
-#EXTINF:-1,ZDF
-http://linux-app.tv:6204/admin/123/12208
-#EXTINF:-1,ZDF Neo FHD
-http://linux-app.tv:6204/admin/123/12206
-#EXTINF:-1,ZDF Neo HD.
-http://linux-app.tv:6204/admin/123/12205
-#EXTINF:-1,ZDF Neo
-http://linux-app.tv:6204/admin/123/12204
-#EXTINF:-1,ZDF Info HD
-http://linux-app.tv:6204/admin/123/12207
-#EXTINF:-1,VOX FHD
-http://linux-app.tv:6204/admin/123/12236
-#EXTINF:-1,VOX  HD
-http://linux-app.tv:6204/admin/123/12235
-#EXTINF:-1,VOX SD
-http://linux-app.tv:6204/admin/123/12234
-#EXTINF:-1,Dmax HD.
-http://linux-app.tv:6204/admin/123/12361
-#EXTINF:-1,RTL FHD
-http://linux-app.tv:6204/admin/123/12243
-#EXTINF:-1,RTL HD.
-http://linux-app.tv:6204/admin/123/12242
-#EXTINF:-1,RTL SD
-http://linux-app.tv:6204/admin/123/12241
-#EXTINF:-1,RTL II FHD
-http://linux-app.tv:6204/admin/123/12240
-#EXTINF:-1,RTL II HD
-http://linux-app.tv:6204/admin/123/12239
-#EXTINF:-1,RTL II
-http://linux-app.tv:6204/admin/123/12238
-#EXTINF:-1,RTL Nitro HD
-http://linux-app.tv:6204/admin/123/12217
-#EXTINF:-1,RTL Living HD
-http://linux-app.tv:6204/admin/123/12362
-#EXTINF:-1,RTL Passion HD
-http://linux-app.tv:6204/admin/123/12364
-#EXTINF:-1,RTL Passion SD
-http://linux-app.tv:6204/admin/123/12363
-#EXTINF:-1,RTL Crime SD
-http://linux-app.tv:6204/admin/123/12365
-#EXTINF:-1,RTL Plus SD
-http://linux-app.tv:6204/admin/123/12237
-#EXTINF:-1,Super RTL FHD
-http://linux-app.tv:6204/admin/123/12259
-#EXTINF:-1,Super RTL HD
-http://linux-app.tv:6204/admin/123/12258
-#EXTINF:-1,Super RTL SD
-http://linux-app.tv:6204/admin/123/12257
-#EXTINF:-1,Arte FHD
-http://linux-app.tv:6204/admin/123/12202
-#EXTINF:-1,Das Erste FHD
-http://linux-app.tv:6204/admin/123/12213
-#EXTINF:-1,Das Erste HD.
-http://linux-app.tv:6204/admin/123/12212
-#EXTINF:-1,Das Erste
-http://linux-app.tv:6204/admin/123/12211
-#EXTINF:-1,Sat.1 FHD
-http://linux-app.tv:6204/admin/123/12233
-#EXTINF:-1,Sat.1 HD.
-http://linux-app.tv:6204/admin/123/12232
-#EXTINF:-1,Sat.1
-http://linux-app.tv:6204/admin/123/12231
-#EXTINF:-1,Sat.1 Gold FHD
-http://linux-app.tv:6204/admin/123/12220
-#EXTINF:-1,Sat.1 Gold SD
-http://linux-app.tv:6204/admin/123/12218
-#EXTINF:-1,Pro7 FHD
-http://linux-app.tv:6204/admin/123/12229
-#EXTINF:-1,Pro7 Fun  FHD
-http://linux-app.tv:6204/admin/123/12230
-#EXTINF:-1,Pro7 Maxx FHD
-http://linux-app.tv:6204/admin/123/12226
-#EXTINF:-1,Pro 7 Maxx HD
-http://linux-app.tv:6204/admin/123/12225
-#EXTINF:-1,Pro7 Maxx SD
-http://linux-app.tv:6204/admin/123/12224
-#EXTINF:-1,Pro 7 HD
-http://linux-app.tv:6204/admin/123/12228
-#EXTINF:-1,Pro7
-http://linux-app.tv:6204/admin/123/12227
-#EXTINF:-1,N-TV HD
-http://linux-app.tv:6204/admin/123/12245
-#EXTINF:-1,Phoenix
-http://linux-app.tv:6204/admin/123/12273
-#EXTINF:-1,Kabel eins HD.
-http://linux-app.tv:6204/admin/123/12215
-#EXTINF:-1,Kabel eins Doku
-http://linux-app.tv:6204/admin/123/12281
-#EXTINF:-1,Kabel eins Classic HD
-http://linux-app.tv:6204/admin/123/12214
-#EXTINF:-1,Sat1 Emotions
-http://linux-app.tv:6204/admin/123/12216
-#EXTINF:-1,Sat1 Gold HD
-http://linux-app.tv:6204/admin/123/12219
-#EXTINF:-1,Sixx FHD
-http://linux-app.tv:6204/admin/123/12223
-#EXTINF:-1,SIXX HD.
-http://linux-app.tv:6204/admin/123/12222
-#EXTINF:-1,Sixx SD
-http://linux-app.tv:6204/admin/123/12221
-#EXTINF:-1,Tele 5 HD
-http://linux-app.tv:6204/admin/123/12192
-#EXTINF:-1,13th Street HD
-http://linux-app.tv:6204/admin/123/12372
-#EXTINF:-1,3Sat HD
-http://linux-app.tv:6204/admin/123/12203
-#EXTINF:-1,TNT Film FHD
-http://linux-app.tv:6204/admin/123/14411
-#EXTINF:-1,TNT Film HD
-http://linux-app.tv:6204/admin/123/14410
-#EXTINF:-1,TNT Serie HD
-http://linux-app.tv:6204/admin/123/12370
-#EXTINF:-1,TNT Comedy HD
-http://linux-app.tv:6204/admin/123/12369
-#EXTINF:-1,AXN HD
-http://linux-app.tv:6204/admin/123/14409
-#EXTINF:-1,TLC HD
-http://linux-app.tv:6204/admin/123/12278
-#EXTINF:-1,SyFy HD
-http://linux-app.tv:6204/admin/123/12375
-#EXTINF:-1,Sky 1 HD
-http://linux-app.tv:6204/admin/123/12379
-#EXTINF:-1,Sky Arts HD
-http://linux-app.tv:6204/admin/123/12276
-#EXTINF:-1,Sky Atlantic
-http://linux-app.tv:6204/admin/123/12378
-#EXTINF:-1,Sky Krimi SD
-http://linux-app.tv:6204/admin/123/12377
-#EXTINF:-1,Sky Cinema HD
-http://linux-app.tv:6204/admin/123/12398
-#EXTINF:-1,Sky Cinema  1 HD
-http://linux-app.tv:6204/admin/123/12397
-#EXTINF:-1,Sky Cinema Hits HD
-http://linux-app.tv:6204/admin/123/12393
-#EXTINF:-1,Sky Cinema  24 HD
-http://linux-app.tv:6204/admin/123/12396
-#EXTINF:-1,Sky Cinema Action HD
-http://linux-app.tv:6204/admin/123/12395
-#EXTINF:-1,Sky Cinema Comedy SD
-http://linux-app.tv:6204/admin/123/12392
-#EXTINF:-1,Sky Cinema Emotion SD
-http://linux-app.tv:6204/admin/123/12391
-#EXTINF:-1,Sky Cinema Family HD
-http://linux-app.tv:6204/admin/123/12394
-#EXTINF:-1,Sky Cinema Nostalgie SD
-http://linux-app.tv:6204/admin/123/12390
-#EXTINF:-1,Sky Select 1 FHD
-http://linux-app.tv:6204/admin/123/12387
-#EXTINF:-1,Sky Select 2 FHD
-http://linux-app.tv:6204/admin/123/12386
-#EXTINF:-1,Sky Select 3 FHD
-http://linux-app.tv:6204/admin/123/12385
-#EXTINF:-1,Sky Select 4 FHD
-http://linux-app.tv:6204/admin/123/12384
-#EXTINF:-1,Sky Select 5 FHD
-http://linux-app.tv:6204/admin/123/12383
-#EXTINF:-1,Sky Select 6 HD
-http://linux-app.tv:6204/admin/123/12382
-#EXTINF:-1,Sky Select 7 FHD
-http://linux-app.tv:6204/admin/123/12381
-#EXTINF:-1,Sky Select 8 FHD
-http://linux-app.tv:6204/admin/123/12380
-#EXTINF:-1,A&E
-http://linux-app.tv:6204/admin/123/12272
-#EXTINF:-1,Arte HD.
-http://linux-app.tv:6204/admin/123/12201
-#EXTINF:-1,ATV HD
-http://linux-app.tv:6204/admin/123/12200
-#EXTINF:-1,Anixe Serie FHD
-http://linux-app.tv:6204/admin/123/12191
-#EXTINF:-1,Classica SD
-http://linux-app.tv:6204/admin/123/12255
-#EXTINF:-1,Deluxe Music
-http://linux-app.tv:6204/admin/123/12256
-#EXTINF:-1,Deutsches Musik Fernsehen
-http://linux-app.tv:6204/admin/123/12254
-#EXTINF:-1,E! HD
-http://linux-app.tv:6204/admin/123/12366
-#EXTINF:-1,EuroNews
-http://linux-app.tv:6204/admin/123/12244
-#EXTINF:-1,Fashion TV
-http://linux-app.tv:6204/admin/123/12279
-#EXTINF:-1,Fox HD
-http://linux-app.tv:6204/admin/123/12376
-#EXTINF:-1,Genius Plus
-http://linux-app.tv:6204/admin/123/12190
-#EXTINF:-1,History FHD
-http://linux-app.tv:6204/admin/123/12283
-#EXTINF:-1,HSE24 FHD
-http://linux-app.tv:6204/admin/123/12189
-#EXTINF:-1,Junior HD
-http://linux-app.tv:6204/admin/123/12263
-#EXTINF:-1,Juwelo FHD
-http://linux-app.tv:6204/admin/123/12188
-#EXTINF:-1,Kika HD
-http://linux-app.tv:6204/admin/123/12262
-#EXTINF:-1,Kinowelt HD
-http://linux-app.tv:6204/admin/123/12368
-#EXTINF:-1,Romance TV
-http://linux-app.tv:6204/admin/123/12193
-#EXTINF:-1,N24 Doku
-http://linux-app.tv:6204/admin/123/12282
-#EXTINF:-1,NDR HD
-http://linux-app.tv:6204/admin/123/12199
-#EXTINF:-1,One HD
-http://linux-app.tv:6204/admin/123/12198
-#EXTINF:-1,ORF 1 HD
-http://linux-app.tv:6204/admin/123/12196
-#EXTINF:-1,ORF 2 HD
-http://linux-app.tv:6204/admin/123/12195
-#EXTINF:-1,ORF Eins FHD
-http://linux-app.tv:6204/admin/123/12197
-#EXTINF:-1,Planet HD
-http://linux-app.tv:6204/admin/123/12285
-#EXTINF:-1,Spiegel Tv Geschichte HD
-http://linux-app.tv:6204/admin/123/12275
-#EXTINF:-1,Spiegel TV Wissen HD
-http://linux-app.tv:6204/admin/123/12274
-#EXTINF:-1,Toggo Plus
-http://linux-app.tv:6204/admin/123/12260
-#EXTINF:-1,Universal Channel HD
-http://linux-app.tv:6204/admin/123/12373
-#EXTINF:-1,MTV Brand New
-http://linux-app.tv:6204/admin/123/12252
-#EXTINF:-1,MTV Classic
-http://linux-app.tv:6204/admin/123/12251
-#EXTINF:-1,MTV Dance
-http://linux-app.tv:6204/admin/123/12250
-#EXTINF:-1,MTV Europe
-http://linux-app.tv:6204/admin/123/12249
-#EXTINF:-1,MTV HD
-http://linux-app.tv:6204/admin/123/12253
-#EXTINF:-1,MTV Hits
-http://linux-app.tv:6204/admin/123/12248
-#EXTINF:-1,JukeBox
-http://linux-app.tv:6204/admin/123/12247
-#EXTINF:-1,MTV Rocks
-http://linux-app.tv:6204/admin/123/12246
-#EXTINF:-1,Travel Channel FHD
-http://linux-app.tv:6204/admin/123/12280
-#EXTINF:-1,Nat Geo HD
-http://linux-app.tv:6204/admin/123/12288
-#EXTINF:-1,Nat Geo Wild HD
-http://linux-app.tv:6204/admin/123/12287
-#EXTINF:-1,Animal Planet HD
-http://linux-app.tv:6204/admin/123/12286
-#EXTINF:-1,Discovery Channel HD
-http://linux-app.tv:6204/admin/123/12284
-#EXTINF:-1,Baby TV
-http://linux-app.tv:6204/admin/123/12264
-#EXTINF:-1,Nickelodeon HD
-http://linux-app.tv:6204/admin/123/12261
-#EXTINF:-1,Boomerang
-http://linux-app.tv:6204/admin/123/12266
-#EXTINF:-1,Cartoon Network HD
-http://linux-app.tv:6204/admin/123/12267
-#EXTINF:-1,Disney Channel HD
-http://linux-app.tv:6204/admin/123/12271
-#EXTINF:-1,Disney CineMagic SD
-http://linux-app.tv:6204/admin/123/12270
-#EXTINF:-1,Disney Junior HD
-http://linux-app.tv:6204/admin/123/12269
-#EXTINF:-1,Disney XD SD
-http://linux-app.tv:6204/admin/123/12268
-#EXTINF:-1,Fix & Foxi
-http://linux-app.tv:6204/admin/123/12265
-#EXTINF:-1,Sky Sport News FHD
-http://linux-app.tv:6204/admin/123/12352
-#EXTINF:-1,Sky Sport News HD.
-http://linux-app.tv:6204/admin/123/12351
-#EXTINF:-1,Sky Sport  Austria FHD
-http://linux-app.tv:6204/admin/123/12354
-#EXTINF:-1,Sky Sport Austria SD
-http://linux-app.tv:6204/admin/123/12353
-#EXTINF:-1,Auto Motor Sport HD
-http://linux-app.tv:6204/admin/123/12356
-#EXTINF:-1,ORF Sport  HD
-http://linux-app.tv:6204/admin/123/12194
-#EXTINF:-1,Motorvision HD
-http://linux-app.tv:6204/admin/123/12355
-#EXTINF:-1,Sport 1 HD.
-http://linux-app.tv:6204/admin/123/12360
-#EXTINF:-1,Sport1  HD
-http://linux-app.tv:6204/admin/123/12359
-#EXTINF:-1,Sport1 US FHD
-http://linux-app.tv:6204/admin/123/12358
-#EXTINF:-1,Sportdigital HD
-http://linux-app.tv:6204/admin/123/12357
-#EXTINF:-1,DAZN  1 FHD
-http://linux-app.tv:6204/admin/123/12339
-#EXTINF:-1,DAZN  2 FHD
-http://linux-app.tv:6204/admin/123/12338
-#EXTINF:-1,EuroSport 1 FHD
-http://linux-app.tv:6204/admin/123/12350
-#EXTINF:-1,EuroSport 1 HD.
-http://linux-app.tv:6204/admin/123/12349
-#EXTINF:-1,EuroSport 2 FHD
-http://linux-app.tv:6204/admin/123/12348
-#EXTINF:-1,EuroSport 2 HD.
-http://linux-app.tv:6204/admin/123/12347
-#EXTINF:-1,EuroSport 2 Xtra FHD
-http://linux-app.tv:6204/admin/123/12346
-#EXTINF:-1,EuroSport 2 Xtra HD
-http://linux-app.tv:6204/admin/123/12345
-#EXTINF:-1,EuroSport360 1 FHD
-http://linux-app.tv:6204/admin/123/12344
-#EXTINF:-1,Eurosport360 2 FHD
-http://linux-app.tv:6204/admin/123/12343
-#EXTINF:-1,EuroSport360 3 FHD
-http://linux-app.tv:6204/admin/123/12342
-#EXTINF:-1,EuroSport360 4 FHD
-http://linux-app.tv:6204/admin/123/12341
-#EXTINF:-1,Eurosport360 5 FHD
-http://linux-app.tv:6204/admin/123/12340
-#EXTINF:-1,Sky Sport 1
-http://linux-app.tv:6204/admin/123/12335
-#EXTINF:-1,Sky Sport 1 FHD
-http://linux-app.tv:6204/admin/123/12337
-#EXTINF:-1,Sky Sport 1 HD
-http://linux-app.tv:6204/admin/123/12336
-#EXTINF:-1,Sky Sport 2
-http://linux-app.tv:6204/admin/123/12332
-#EXTINF:-1,Sky Sport 2 FHD
-http://linux-app.tv:6204/admin/123/12334
-#EXTINF:-1,Sky Sport 2 HD
-http://linux-app.tv:6204/admin/123/12333
-#EXTINF:-1,Sky Sport 3
-http://linux-app.tv:6204/admin/123/12329
-#EXTINF:-1,Sky Sport 3 FHD
-http://linux-app.tv:6204/admin/123/12331
-#EXTINF:-1,Sky Sport 3 HD
-http://linux-app.tv:6204/admin/123/12330
-#EXTINF:-1,Sky Sport 4
-http://linux-app.tv:6204/admin/123/12326
-#EXTINF:-1,Sky Sport 4 FHD
-http://linux-app.tv:6204/admin/123/12328
-#EXTINF:-1,Sky Sport 4 HD
-http://linux-app.tv:6204/admin/123/12327
-#EXTINF:-1,Sky Sport 5
-http://linux-app.tv:6204/admin/123/12323
-#EXTINF:-1,Sky Sport 5 FHD
-http://linux-app.tv:6204/admin/123/12325
-#EXTINF:-1,Sky Sport 5 HD
-http://linux-app.tv:6204/admin/123/12324
-#EXTINF:-1,Sky Sport 6
-http://linux-app.tv:6204/admin/123/12320
-#EXTINF:-1,Sky Sport 6 FHD
-http://linux-app.tv:6204/admin/123/12322
-#EXTINF:-1,Sky Sport 6 HD
-http://linux-app.tv:6204/admin/123/12321
-#EXTINF:-1,Sky Sport 7
-http://linux-app.tv:6204/admin/123/12317
-#EXTINF:-1,Sky Sport 7 FHD
-http://linux-app.tv:6204/admin/123/12319
-#EXTINF:-1,Sky Sport 7 HD
-http://linux-app.tv:6204/admin/123/12318
-#EXTINF:-1,Sky Sport 8 FHD
-http://linux-app.tv:6204/admin/123/12316
-#EXTINF:-1,Sky Sport 8 HD
-http://linux-app.tv:6204/admin/123/12315
-#EXTINF:-1,Sky Sport 9 FHD
-http://linux-app.tv:6204/admin/123/12314
-#EXTINF:-1,Sky Sport 9 HD
-http://linux-app.tv:6204/admin/123/12313
-
-#EXTINF:-1,Sky Sport Hd 1
-http://force102.com:8080/nabiabi/03032018/185
-#EXTINF:-1,Sky Sport Hd 2
-http://force102.com:8080/nabiabi/03032018/1345
-#EXTINF:-1,Sky Sport Hd 3
-http://force102.com:8080/nabiabi/03032018/19615
-#EXTINF:-1,Sky Sport Hd 4
-http://force102.com:8080/nabiabi/03032018/19614
-#EXTINF:-1,Sky Sport Hd 5
-http://force102.com:8080/nabiabi/03032018/19613
-#EXTINF:-1,Sky Sport Hd 6
-http://force102.com:8080/nabiabi/03032018/19612
-#EXTINF:-1,Sky Sport Hd 7
-http://force102.com:8080/nabiabi/03032018/19611
-#EXTINF:-1,Sky Sport Hd 8
-http://force102.com:8080/nabiabi/03032018/19610
-#EXTINF:-1,Sky Sport Hd 9
-http://force102.com:8080/nabiabi/03032018/19609
-#EXTINF:-1,Sky Sport Hd 10
-http://force102.com:8080/nabiabi/03032018/19616
-#EXTINF:-1,Sky Bundesliga 1
-http://force102.com:8080/nabiabi/03032018/102
-#EXTINF:-1,Sky Sport Austria Hd
-http://force102.com:8080/nabiabi/03032018/186
-#EXTINF:-1,Sky Sport News Hd
-http://force102.com:8080/nabiabi/03032018/101
-#EXTINF:-1,Eurosport 1 Hd
-http://force102.com:8080/nabiabi/03032018/100
-#EXTINF:-1,Sky Sport 1 Hd
-http://force102.com:8080/nabiabi/03032018/152
-#EXTINF:-1,Sport1 Us Hd
-http://force102.com:8080/nabiabi/03032018/149
-#EXTINF:-1,Sport1+ Hd
-http://force102.com:8080/nabiabi/03032018/150
-#EXTINF:-1,Eurosport 2 Hd
-http://force102.com:8080/nabiabi/03032018/1326
-#EXTINF:-1,Phoenix
-http://force102.com:8080/nabiabi/03032018/19622
-#EXTINF:-1,N-tv
-http://force102.com:8080/nabiabi/03032018/19623
-#EXTINF:-1,Rtl Hd
-http://force102.com:8080/nabiabi/03032018/1530
-#EXTINF:-1,Rtl Hd 2
-http://force102.com:8080/nabiabi/03032018/1580
-#EXTINF:-1,Rtl Crime Hd
-http://force102.com:8080/nabiabi/03032018/1551
-#EXTINF:-1,RTL Nitro
-http://force102.com:8080/nabiabi/03032018/1568
-#EXTINF:-1,RTL Living
-http://force102.com:8080/nabiabi/03032018/1552
-#EXTINF:-1,Rtl Television
-http://force102.com:8080/nabiabi/03032018/2096
-#EXTINF:-1,Rtl Plus
-http://force102.com:8080/nabiabi/03032018/2095
-#EXTINF:-1,Sky Cinema HD
-http://force102.com:8080/nabiabi/03032018/1844
-#EXTINF:-1,Rtl Ii Hd
-http://force102.com:8080/nabiabi/03032018/1847
-#EXTINF:-1,Super RTL
-http://force102.com:8080/nabiabi/03032018/1553
-#EXTINF:-1,Sat HD 1
-http://force102.com:8080/nabiabi/03032018/1554
-#EXTINF:-1,Sat 1 Gold
-http://force102.com:8080/nabiabi/03032018/2093
-#EXTINF:-1,Wdr
-http://force102.com:8080/nabiabi/03032018/1505
-#EXTINF:-1,Wdr Hd
-http://force102.com:8080/nabiabi/03032018/2402
-#EXTINF:-1,Mdr Hd
-http://force102.com:8080/nabiabi/03032018/17567
-#EXTINF:-1,Zdf Neo
-http://force102.com:8080/nabiabi/03032018/2089
-#EXTINF:-1,Zdf Info
-http://force102.com:8080/nabiabi/03032018/2090
-#EXTINF:-1,ProSieben
-http://force102.com:8080/nabiabi/03032018/2097
-#EXTINF:-1,N24
-http://force102.com:8080/nabiabi/03032018/2098
-#EXTINF:-1,Kabel 1 clasik
-http://force102.com:8080/nabiabi/03032018/9101
-#EXTINF:-1,Kabel 1 doku
-http://force102.com:8080/nabiabi/03032018/9100
-#EXTINF:-1,Kabel 1 hd
-http://force102.com:8080/nabiabi/03032018/9099
-#EXTINF:-1,Disney Cinemagic HD
-http://force102.com:8080/nabiabi/03032018/2087
-#EXTINF:-1,Arte / Ard
-http://force102.com:8080/nabiabi/03032018/2088
-#EXTINF:-1,Pro 7 Hd
-http://force102.com:8080/nabiabi/03032018/1536
-#EXTINF:-1,Pro7 Maxx
-http://force102.com:8080/nabiabi/03032018/1550
-#EXTINF:-1,Orf Hd 1
-http://force102.com:8080/nabiabi/03032018/1322
-#EXTINF:-1,Orf 2
-http://force102.com:8080/nabiabi/03032018/286
-#EXTINF:-1,Ndr Hd
-http://force102.com:8080/nabiabi/03032018/1548
-#EXTINF:-1,Vox Hd
-http://force102.com:8080/nabiabi/03032018/1572
-#EXTINF:-1,Fox Hd
-http://force102.com:8080/nabiabi/03032018/205
-#EXTINF:-1,Fox Serie
-http://force102.com:8080/nabiabi/03032018/2076
-#EXTINF:-1,Servus TV
-http://force102.com:8080/nabiabi/03032018/7098
-#EXTINF:-1,Discovery Channel Hd
-http://force102.com:8080/nabiabi/03032018/2365
-#EXTINF:-1,Vox
-http://force102.com:8080/nabiabi/03032018/239
-#EXTINF:-1,D Max
-http://force102.com:8080/nabiabi/03032018/284
-#EXTINF:-1,Sky Cinema+24
-http://force102.com:8080/nabiabi/03032018/1309
-#EXTINF:-1,Zdf Hd
-http://force102.com:8080/nabiabi/03032018/227
-#EXTINF:-1,Ard HD
-http://force102.com:8080/nabiabi/03032018/1577
-#EXTINF:-1,TLC
-http://force102.com:8080/nabiabi/03032018/1555
-#EXTINF:-1,Axn Hd
-http://force102.com:8080/nabiabi/03032018/1547
-#EXTINF:-1,Sixx
-http://force102.com:8080/nabiabi/03032018/1571
-#EXTINF:-1,Sky Action HD
-http://force102.com:8080/nabiabi/03032018/1579
-#EXTINF:-1,Syfy HD
-http://force102.com:8080/nabiabi/03032018/1583
-#EXTINF:-1,Srf 1
-http://force102.com:8080/nabiabi/03032018/188
-#EXTINF:-1,Romance Tv
-http://force102.com:8080/nabiabi/03032018/288
-#EXTINF:-1,13th Street HD
-http://force102.com:8080/nabiabi/03032018/1569
-#EXTINF:-1,N24.
-http://force102.com:8080/nabiabi/03032018/1845
-#EXTINF:-1,Tnt Serie Hd
-http://force102.com:8080/nabiabi/03032018/1846
-#EXTINF:-1,Disney Channel.
-http://force102.com:8080/nabiabi/03032018/189
-#EXTINF:-1,Sky Nostalgie
-http://force102.com:8080/nabiabi/03032018/289
-#EXTINF:-1,Sky Atlantic Hd
-http://force102.com:8080/nabiabi/03032018/1557
-#EXTINF:-1,Sky Cinema Action HD.
-http://force102.com:8080/nabiabi/03032018/1558
-#EXTINF:-1,Sky Emotion
-http://force102.com:8080/nabiabi/03032018/1513
-#EXTINF:-1,Sky Hits
-http://force102.com:8080/nabiabi/03032018/1565
-#EXTINF:-1,Sky Cinema Comedy
-http://force102.com:8080/nabiabi/03032018/1560
-#EXTINF:-1,Sky Cinema+1
-http://force102.com:8080/nabiabi/03032018/1563
-#EXTINF:-1,Sky Cinema HD.
-http://force102.com:8080/nabiabi/03032018/1559
-#EXTINF:-1,Sky Krimi
-http://force102.com:8080/nabiabi/03032018/1566
-#EXTINF:-1,TNT Serie HD.
-http://force102.com:8080/nabiabi/03032018/1842
-#EXTINF:-1,Tnt Film Hd
-http://force102.com:8080/nabiabi/03032018/1843
-#EXTINF:-1,Sky Natgeo Wild Hd
-http://force102.com:8080/nabiabi/03032018/1851
-#EXTINF:-1,History Channel Hd
-http://force102.com:8080/nabiabi/03032018/1582
-#EXTINF:-1,National Geographic
-http://force102.com:8080/nabiabi/03032018/1578
-#EXTINF:-1,Sky Select Hd 1
-http://force102.com:8080/nabiabi/03032018/155
-#EXTINF:-1,Sky Select Hd 2
-http://force102.com:8080/nabiabi/03032018/287
-#EXTINF:-1,Sky Select Hd 3
-http://force102.com:8080/nabiabi/03032018/154
-#EXTINF:-1,Sky Select Hd 4
-http://force102.com:8080/nabiabi/03032018/226
-#EXTINF:-1,Sky Select HD 5
-http://force102.com:8080/nabiabi/03032018/1701
-#EXTINF:-1,Sky Select HD 6
-http://force102.com:8080/nabiabi/03032018/1702
-#EXTINF:-1,Sky Select HD 7
-http://force102.com:8080/nabiabi/03032018/1703
-#EXTINF:-1,Sky Select HD 8
-http://force102.com:8080/nabiabi/03032018/1704
-#EXTINF:-1,Rtl Passion
-http://force102.com:8080/nabiabi/03032018/1848
-#EXTINF:-1,Heimat Kanal
-http://force102.com:8080/nabiabi/03032018/1849
-#EXTINF:-1,Disney XD
-http://force102.com:8080/nabiabi/03032018/1575
-#EXTINF:-1,Nick Jr
-http://force102.com:8080/nabiabi/03032018/1573
-#EXTINF:-1,Disney Junior
-http://force102.com:8080/nabiabi/03032018/1576
-#EXTINF:-1,Kika
-http://force102.com:8080/nabiabi/03032018/1546
-#EXTINF:-1,3 Sat Hd
-http://force102.com:8080/nabiabi/03032018/7533
-#EXTINF:-1,Animal Planet Hd
-http://force102.com:8080/nabiabi/03032018/7534
-#EXTINF:-1,Discovery Channel
-http://force102.com:8080/nabiabi/03032018/7535
-#EXTINF:-1,Eurosport 2 Xtra
-http://force102.com:8080/nabiabi/03032018/7536
-#EXTINF:-1,Sky Bundesliga HD 1
-http://force102.com:8080/nabiabi/03032018/2077
-#EXTINF:-1,Sky Bundesliga HD 2
-http://force102.com:8080/nabiabi/03032018/2078
-#EXTINF:-1,Sky Bundesliga 2 Hd
-http://force102.com:8080/nabiabi/03032018/11418
-#EXTINF:-1,Sky Bundesliga 3 Hd !!! Weekend Only !!!
-http://force102.com:8080/nabiabi/03032018/11419
-#EXTINF:-1,Sky Bundesliga 4 Hd !!! Weekend Only !!!
-http://force102.com:8080/nabiabi/03032018/11420
-#EXTINF:-1,Sky Bundesliga 5 Hd !!! Weekend Only !!!
-http://force102.com:8080/nabiabi/03032018/11421
-#EXTINF:-1,Sky Bundesliga 6 Hd !!! Weekend Only !!!
-http://force102.com:8080/nabiabi/03032018/19620
-#EXTINF:-1,Sky Bundesliga 7 Hd !!! Weekend Only !!!
-http://force102.com:8080/nabiabi/03032018/19619
-#EXTINF:-1,Sky Bundesliga 8 Hd !!! Weekend Only !!!
-http://force102.com:8080/nabiabi/03032018/19618
-#EXTINF:-1,Sky Bundesliga 9 Hd !!! Weekend Only !!!
-http://force102.com:8080/nabiabi/03032018/19617
-#EXTINF:-1,Sky Bundesliga 10 Hd !!! Weekend Only !!!
-http://force102.com:8080/nabiabi/03032018/19621
-#EXTINF:-1,DAZN 1 HD
-http://force102.com:8080/nabiabi/03032018/19562
-#EXTINF:-1,DAZN 2 HD
-http://force102.com:8080/nabiabi/03032018/19563
-
-#EXTINF:-1,13TH STREET HD
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/629
-#EXTINF:-1,3SAT SD
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/987
-#EXTINF:-1,ARTS
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4061
-#EXTINF:-1,ATV HD
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4064
-#EXTINF:-1,AUTO MOTOR SPORT CHANNEL HD
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4065
-#EXTINF:-1,Baby tv
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/1322
-#EXTINF:-1,Boomerang
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/684
-#EXTINF:-1,DAS ERSTE
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4063
-#EXTINF:-1,DISNEY CHANNEL HD
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/641
-#EXTINF:-1,DISNEY CINEMAGIC HD
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/640
-#EXTINF:-1,DISNEY JUNIOR SD
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/642
-#EXTINF:-1,DMAX
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4062
-#EXTINF:-1,E! ENTERTAINMENT HD
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/643
-#EXTINF:-1,EUROSPORT
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/215
-#EXTINF:-1,EUROSPORT 1 HD
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/649
-#EXTINF:-1,EUROSPORT 2
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4066
-#EXTINF:-1,FOX SERIE SD
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/212
-#EXTINF:-1,HISTORY HD
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/646
-#EXTINF:-1,KABEL 1
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/858
-#EXTINF:-1,KABEL 1 DOKU
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/859
-#EXTINF:-1,KIKA SD
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/639
-#EXTINF:-1,KINOWELT.TV
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/627
-#EXTINF:-1,MUENCHEN TV
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/857
-#EXTINF:-1,MUNCHEN TV
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/1128
-#EXTINF:-1,N24
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/637
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/647
-#EXTINF:-1,NDR HD
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/853
-#EXTINF:-1,National Geographic Wild HD
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/985
-#EXTINF:-1,OKTO
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/852
-#EXTINF:-1,ORF 1
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/850
-#EXTINF:-1,ORF 2
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/851
-#EXTINF:-1,PRO 7
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/797
-#EXTINF:-1,PRO-7 MAXX
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/210
-#EXTINF:-1,Pro7 Fun
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/1321
-#EXTINF:-1,ProSieben MAXX HD
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/682
-#EXTINF:-1,RTL
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/988
-#EXTINF:-1,RTL 2 SD
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/209
-#EXTINF:-1,RTL CRIME
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/208
-#EXTINF:-1,RTL Living HD
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/681
-#EXTINF:-1,RTL NITRO
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/849
-#EXTINF:-1,RTL PASSION HD
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/798
-#EXTINF:-1,RTL*
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/213
-#EXTINF:-1,Romance Tv
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/997
-#EXTINF:-1,SAT 1 HD
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/623
-#EXTINF:-1,SERVUS FHD
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/854
-#EXTINF:-1,SFR 1 HD
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/3244
-#EXTINF:-1,SKY ACTION HD
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/999
-#EXTINF:-1,SKY CINEMA + 24 HD
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/862
-#EXTINF:-1,SKY CINEMA HITS HD
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/861
-#EXTINF:-1,SKY KRIMI HD
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/632
-#EXTINF:-1,SKY SELECT 1 HD
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/650
-#EXTINF:-1,SKY SELECT 10
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/659
-#EXTINF:-1,SKY SELECT 2
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/651
-#EXTINF:-1,SKY SELECT 3 HD
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/652
-#EXTINF:-1,SKY SELECT 4
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/653
-#EXTINF:-1,SKY SELECT 5
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/654
-#EXTINF:-1,SKY SELECT 6
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/655
-#EXTINF:-1,SKY SELECT 7
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/656
-#EXTINF:-1,SKY SELECT 8
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/657
-#EXTINF:-1,SKY SELECT 9
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/658
-#EXTINF:-1,SKY SPORT 1 HD
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/192
-#EXTINF:-1,SKY SPORT 2 HD
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/995
-#EXTINF:-1,SKY SPORT AUSTRIA
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/860
-#EXTINF:-1,SKY SPORT NEWS HD
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/996
-#EXTINF:-1,SPIEGEL GESCHICHTE
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/645
-#EXTINF:-1,SRF 1 HD
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/2825
-#EXTINF:-1,SIXX FHD
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/1320
-#EXTINF:-1,Sky Atlantic_HD
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/679
-#EXTINF:-1,Sky Bundesliga 1 HD
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/190
-#EXTINF:-1,Sky Cinema 1HD
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/680
-#EXTINF:-1,Sportdigital HD
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/1052
-#EXTINF:-1,Super RTL HD
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/191
-#EXTINF:-1,Syfy
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/745
-#EXTINF:-1,TLC HD
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/1326
-#EXTINF:-1,TNT COMEDY HD
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/630
-#EXTINF:-1,UNIVERSAL CHANNEL HD
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/644
-#EXTINF:-1,VOX
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/216
-#EXTINF:-1,ZDF HD
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/847
-
-#EXTINF:-1,AT: ORF 1 HD
-http://daddyiptv.com:8000/live/riza1/1234/409.m3u8
-#EXTINF:-1,AT: ORF 2 HD
-http://daddyiptv.com:8000/live/riza1/1234/408.m3u8
-#EXTINF:-1,AT: ATV HD
-http://daddyiptv.com:8000/live/riza1/1234/2080.m3u8
-#EXTINF:-1,AT: ATV 2
-http://daddyiptv.com:8000/live/riza1/1234/2079.m3u8
-#EXTINF:-1,AT: PULS 4
-http://daddyiptv.com:8000/live/riza1/1234/405.m3u8
-#EXTINF:-1,DAS ERSTE HD
-http://daddyiptv.com:8000/live/riza1/1234/404.m3u8
-#EXTINF:-1,FOX HD
-http://daddyiptv.com:8000/live/riza1/1234/382.m3u8
-#EXTINF:-1,KABEL EINS HD
-http://daddyiptv.com:8000/live/riza1/1234/381.m3u8
-#EXTINF:-1,KABEL 1
-http://daddyiptv.com:8000/live/riza1/1234/428.m3u8
-#EXTINF:-1,KABEL EINS CLASSIC HD
-http://daddyiptv.com:8000/live/riza1/1234/380.m3u8
-#EXTINF:-1,PROSIEBEN HD
-http://daddyiptv.com:8000/live/riza1/1234/379.m3u8
-#EXTINF:-1,PRO 7
-http://daddyiptv.com:8000/live/riza1/1234/421.m3u8
-#EXTINF:-1,PRO 7 MAXX
-http://daddyiptv.com:8000/live/riza1/1234/424.m3u8
-#EXTINF:-1,PROSIEBEN Fun HD
-http://daddyiptv.com:8000/live/riza1/1234/377.m3u8
-#EXTINF:-1,PROSIEBEN MAXX HD
-http://daddyiptv.com:8000/live/riza1/1234/378.m3u8
-#EXTINF:-1,SUPER RTL HD
-http://daddyiptv.com:8000/live/riza1/1234/389.m3u8
-#EXTINF:-1,SuperRTL
-http://daddyiptv.com:8000/live/riza1/1234/410.m3u8
-#EXTINF:-1,RTL HD
-http://daddyiptv.com:8000/live/riza1/1234/396.m3u8
-#EXTINF:-1,RTL
-http://daddyiptv.com:8000/live/riza1/1234/429.m3u8
-#EXTINF:-1,RTL2 HD
-http://daddyiptv.com:8000/live/riza1/1234/395.m3u8
-#EXTINF:-1,RTL2
-http://daddyiptv.com:8000/live/riza1/1234/430.m3u8
-#EXTINF:-1,RTL Crime HD
-http://daddyiptv.com:8000/live/riza1/1234/394.m3u8
-#EXTINF:-1,RTL Living HD
-http://daddyiptv.com:8000/live/riza1/1234/393.m3u8
-#EXTINF:-1,RTL ll You HD
-http://daddyiptv.com:8000/live/riza1/1234/392.m3u8
-#EXTINF:-1,RTL Nitro HD
-http://daddyiptv.com:8000/live/riza1/1234/391.m3u8
-#EXTINF:-1,RTL Passion HD
-http://daddyiptv.com:8000/live/riza1/1234/390.m3u8
-#EXTINF:-1,SAT.1 HD
-http://daddyiptv.com:8000/live/riza1/1234/387.m3u8
-#EXTINF:-1,SAT1
-http://daddyiptv.com:8000/live/riza1/1234/431.m3u8
-#EXTINF:-1,SAT.1 Emotions HD
-http://daddyiptv.com:8000/live/riza1/1234/385.m3u8
-#EXTINF:-1,SAT.1 Gold HD
-http://daddyiptv.com:8000/live/riza1/1234/386.m3u8
-#EXTINF:-1,SAT1 GOLD
-http://daddyiptv.com:8000/live/riza1/1234/432.m3u8
-#EXTINF:-1,ZDF HD
-http://daddyiptv.com:8000/live/riza1/1234/401.m3u8
-#EXTINF:-1,ZDF
-http://daddyiptv.com:8000/live/riza1/1234/416.m3u8
-#EXTINF:-1,ZDF NEO HD
-http://daddyiptv.com:8000/live/riza1/1234/400.m3u8
-#EXTINF:-1,ZDF NEO
-http://daddyiptv.com:8000/live/riza1/1234/417.m3u8
-#EXTINF:-1,SERVUS TV HD
-http://daddyiptv.com:8000/live/riza1/1234/384.m3u8
-#EXTINF:-1,VOX HD
-http://daddyiptv.com:8000/live/riza1/1234/397.m3u8
-#EXTINF:-1,VOX
-http://daddyiptv.com:8000/live/riza1/1234/411.m3u8
-#EXTINF:-1,ZEE ONE HD
-http://daddyiptv.com:8000/live/riza1/1234/348.m3u8
-#EXTINF:-1,3SAT HD
-http://daddyiptv.com:8000/live/riza1/1234/399.m3u8
-#EXTINF:-1,3Sat
-http://daddyiptv.com:8000/live/riza1/1234/420.m3u8
-#EXTINF:-1,VIVA
-http://daddyiptv.com:8000/live/riza1/1234/423.m3u8
-#EXTINF:-1,13th Street HD
-http://daddyiptv.com:8000/live/riza1/1234/366.m3u8
-#EXTINF:-1,ARTE HD
-http://daddyiptv.com:8000/live/riza1/1234/372.m3u8
-#EXTINF:-1,KIKA HD
-http://daddyiptv.com:8000/live/riza1/1234/376.m3u8
-#EXTINF:-1,KIKA
-http://daddyiptv.com:8000/live/riza1/1234/426.m3u8
-#EXTINF:-1,KINOWELT HD
-http://daddyiptv.com:8000/live/riza1/1234/375.m3u8
-#EXTINF:-1,N24 HD
-http://daddyiptv.com:8000/live/riza1/1234/374.m3u8
-#EXTINF:-1,N24
-http://daddyiptv.com:8000/live/riza1/1234/425.m3u8
-#EXTINF:-1,NTV HD
-http://daddyiptv.com:8000/live/riza1/1234/368.m3u8
-#EXTINF:-1,EURONEWS
-http://daddyiptv.com:8000/live/riza1/1234/347.m3u8
-#EXTINF:-1,HEIMATKANAL
-http://daddyiptv.com:8000/live/riza1/1234/361.m3u8
-#EXTINF:-1,ONE HD
-http://daddyiptv.com:8000/live/riza1/1234/373.m3u8
-#EXTINF:-1,PHOENIX HD
-http://daddyiptv.com:8000/live/riza1/1234/370.m3u8
-#EXTINF:-1,PLANET HD
-http://daddyiptv.com:8000/live/riza1/1234/369.m3u8
-#EXTINF:-1,AXN HD
-http://daddyiptv.com:8000/live/riza1/1234/371.m3u8
-#EXTINF:-1,SIXX HD
-http://daddyiptv.com:8000/live/riza1/1234/383.m3u8
-#EXTINF:-1,SRF HD 1
-http://daddyiptv.com:8000/live/riza1/1234/403.m3u8
-#EXTINF:-1,SRF HD 2
-http://daddyiptv.com:8000/live/riza1/1234/402.m3u8
-#EXTINF:-1,Romance TV HD
-http://daddyiptv.com:8000/live/riza1/1234/364.m3u8
-#EXTINF:-1,UNIVERSAL HD
-http://daddyiptv.com:8000/live/riza1/1234/359.m3u8
-#EXTINF:-1,E! Entertainment
-http://daddyiptv.com:8000/live/riza1/1234/357.m3u8
-#EXTINF:-1,VIVA/COMEDY CENTRAL HD
-http://daddyiptv.com:8000/live/riza1/1234/358.m3u8
-#EXTINF:-1,SONY Entertainment TV HD
-http://daddyiptv.com:8000/live/riza1/1234/330.m3u8
-#EXTINF:-1,SPIEGEL TV Geschichte
-http://daddyiptv.com:8000/live/riza1/1234/363.m3u8
-#EXTINF:-1,SPIEGEL TV Wissen HD
-http://daddyiptv.com:8000/live/riza1/1234/362.m3u8
-#EXTINF:-1,SYFY HD
-http://daddyiptv.com:8000/live/riza1/1234/329.m3u8
-#EXTINF:-1,TELE 5 HD
-http://daddyiptv.com:8000/live/riza1/1234/360.m3u8
-#EXTINF:-1,TLC HD
-http://daddyiptv.com:8000/live/riza1/1234/325.m3u8
-#EXTINF:-1,TNT Comedy HD
-http://daddyiptv.com:8000/live/riza1/1234/326.m3u8
-#EXTINF:-1,TNT Film HD
-http://daddyiptv.com:8000/live/riza1/1234/327.m3u8
-#EXTINF:-1,TNT Serie HD
-http://daddyiptv.com:8000/live/riza1/1234/328.m3u8
-#EXTINF:-1,DISNEY Channel HD
-http://daddyiptv.com:8000/live/riza1/1234/355.m3u8
-#EXTINF:-1,DISNEY Cinemagic HD
-http://daddyiptv.com:8000/live/riza1/1234/354.m3u8
-#EXTINF:-1,DISNEY Jr. HD
-http://daddyiptv.com:8000/live/riza1/1234/353.m3u8
-#EXTINF:-1,DISNEY XD HD
-http://daddyiptv.com:8000/live/riza1/1234/352.m3u8
-#EXTINF:-1,JUNIOR [6:00-20:00]
-http://daddyiptv.com:8000/live/riza1/1234/349.m3u8
-#EXTINF:-1,NICK Jr. HD
-http://daddyiptv.com:8000/live/riza1/1234/351.m3u8
-#EXTINF:-1,NICKELODEON HD
-http://daddyiptv.com:8000/live/riza1/1234/350.m3u8
-#EXTINF:-1,TOGGO Plus
-http://daddyiptv.com:8000/live/riza1/1234/388.m3u8
-#EXTINF:-1,Nickelodeon
-http://daddyiptv.com:8000/live/riza1/1234/427.m3u8
-#EXTINF:-1,CARTOON NETWORK HD
-http://daddyiptv.com:8000/live/riza1/1234/356.m3u8
-#EXTINF:-1,BOOMERANG HD
-http://daddyiptv.com:8000/live/riza1/1234/367.m3u8
-#EXTINF:-1,DMAX HD
-http://daddyiptv.com:8000/live/riza1/1234/398.m3u8
-#EXTINF:-1,DMAX
-http://daddyiptv.com:8000/live/riza1/1234/419.m3u8
-#EXTINF:-1,NAT GEO HD
-http://daddyiptv.com:8000/live/riza1/1234/298.m3u8
-#EXTINF:-1,NAT GEO People HD
-http://daddyiptv.com:8000/live/riza1/1234/297.m3u8
-#EXTINF:-1,NAT GEO Wild HD
-http://daddyiptv.com:8000/live/riza1/1234/296.m3u8
-#EXTINF:-1,DISCOVERY Channel HD
-http://daddyiptv.com:8000/live/riza1/1234/294.m3u8
-#EXTINF:-1,HISTORY Channel HD
-http://daddyiptv.com:8000/live/riza1/1234/293.m3u8
-#EXTINF:-1,ANIMAL Planet HD
-http://daddyiptv.com:8000/live/riza1/1234/295.m3u8
-#EXTINF:-1,SKY STORE 1
-http://daddyiptv.com:8000/live/riza1/1234/2829.m3u8
-#EXTINF:-1,SKY STORE 2
-http://daddyiptv.com:8000/live/riza1/1234/2828.m3u8
-#EXTINF:-1,SKY STORE 3
-http://daddyiptv.com:8000/live/riza1/1234/2827.m3u8
-#EXTINF:-1,SKY STORE 4
-http://daddyiptv.com:8000/live/riza1/1234/2826.m3u8
-#EXTINF:-1,SKY STORE 5
-http://daddyiptv.com:8000/live/riza1/1234/2825.m3u8
-#EXTINF:-1,SKY STORE 6
-http://daddyiptv.com:8000/live/riza1/1234/2824.m3u8
-#EXTINF:-1,SKY STORE 7
-http://daddyiptv.com:8000/live/riza1/1234/2823.m3u8
-#EXTINF:-1,SKY STORE 8
-http://daddyiptv.com:8000/live/riza1/1234/2822.m3u8
-#EXTINF:-1,SKY STORE 9
-http://daddyiptv.com:8000/live/riza1/1234/2821.m3u8
-#EXTINF:-1,SKY STORE 10
-http://daddyiptv.com:8000/live/riza1/1234/2820.m3u8
-#EXTINF:-1,SKY 1 HD
-http://daddyiptv.com:8000/live/riza1/1234/343.m3u8
-#EXTINF:-1,SKY CINEMA HD
-http://daddyiptv.com:8000/live/riza1/1234/342.m3u8
-#EXTINF:-1,SKY CINEMA  1 HD
-http://daddyiptv.com:8000/live/riza1/1234/341.m3u8
-#EXTINF:-1,SKY CINEMA  24 HD
-http://daddyiptv.com:8000/live/riza1/1234/340.m3u8
-#EXTINF:-1,SKY CINEMA FAMILY HD
-http://daddyiptv.com:8000/live/riza1/1234/339.m3u8
-#EXTINF:-1,SKY COMEDY
-http://daddyiptv.com:8000/live/riza1/1234/337.m3u8
-#EXTINF:-1,SKY EMOTION
-http://daddyiptv.com:8000/live/riza1/1234/336.m3u8
-#EXTINF:-1,SKY HITS HD
-http://daddyiptv.com:8000/live/riza1/1234/335.m3u8
-#EXTINF:-1,SKY KRIMI
-http://daddyiptv.com:8000/live/riza1/1234/332.m3u8
-#EXTINF:-1,SKY NOSTALGIE
-http://daddyiptv.com:8000/live/riza1/1234/334.m3u8
-#EXTINF:-1,SKY ACTION HD
-http://daddyiptv.com:8000/live/riza1/1234/338.m3u8
-#EXTINF:-1,SKY ATLANTIC HD
-http://daddyiptv.com:8000/live/riza1/1234/333.m3u8
-#EXTINF:-1,SKY Sport Austria HD
-http://daddyiptv.com:8000/live/riza1/1234/313.m3u8
-#EXTINF:-1,SKY Sports News HD
-http://daddyiptv.com:8000/live/riza1/1234/324.m3u8
-#EXTINF:-1,SPORT 1
-http://daddyiptv.com:8000/live/riza1/1234/301.m3u8
-#EXTINF:-1,SPORT 1  HD
-http://daddyiptv.com:8000/live/riza1/1234/302.m3u8
-#EXTINF:-1,SPORT 1 US HD
-http://daddyiptv.com:8000/live/riza1/1234/300.m3u8
-#EXTINF:-1,SPORT DIGITAL HD
-http://daddyiptv.com:8000/live/riza1/1234/299.m3u8
-#EXTINF:-1,EUROSPORT 1 HD
-http://daddyiptv.com:8000/live/riza1/1234/346.m3u8
-#EXTINF:-1,Eurosport
-http://daddyiptv.com:8000/live/riza1/1234/422.m3u8
-#EXTINF:-1,EUROSPORT 2
-http://daddyiptv.com:8000/live/riza1/1234/345.m3u8
-#EXTINF:-1,EUROSPORT 2 XTRA
-http://daddyiptv.com:8000/live/riza1/1234/344.m3u8
-#EXTINF:-1,Auto Motor Sport Channel HD
-http://daddyiptv.com:8000/live/riza1/1234/365.m3u8
+#EXTINF:0,n tv HD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/3450
+#EXTINF:0,Euro.News
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14220
+#EXTINF:0,Tagesschau24 FHD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14219
+#EXTINF:0,RTL HD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/3463
+#EXTINF:0,RTLII HD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/3462
+#EXTINF:0,RTL PLUS
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/3458
+#EXTINF:0,RTL Living
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/3461
+#EXTINF:0,RTL Crime
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/3460
+#EXTINF:0,RTL Passion
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/3459
+#EXTINF:0,RTL NITRO HD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/7117
+#EXTINF:0,SAT.1 HD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/3453
+#EXTINF:0,SAT.1 GOLD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/3452
+#EXTINF:0,SAT.1 Emotions
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14223
+#EXTINF:0,Pro7 HD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/3456
+#EXTINF:0,Pro7 Fun  FHD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14221
+#EXTINF:0,Pro7 MAXX
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/3455
+#EXTINF:0,ZDF
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/3464
+#EXTINF:0,ZDF Info
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14205
+#EXTINF:0,ZDF Neo HD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14212
+#EXTINF:0,Das Erste
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/3465
+#EXTINF:0,VOX HD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/3457
+#EXTINF:0,kabel eins HD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/3454
+#EXTINF:0,kabel eins Classic
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14208
+#EXTINF:0,3sat
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/3449
+#EXTINF:0,N24
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/3451
+#EXTINF:0,ATV HD'
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14224
+#EXTINF:0,WDR HD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14209
+#EXTINF:0,HR FHD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14225
+#EXTINF:0,SWR HD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14227
+#EXTINF:0,SWR BW FHD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14228
+#EXTINF:0,Dmax'
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/7119
+#EXTINF:0,ZEE one
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/9128
+#EXTINF:0,SyFy.
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/9468
+#EXTINF:0,SIXX-HD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/3430
+#EXTINF:0,TNT.Film
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/3428
+#EXTINF:0,TNT-Serie
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/3427
+#EXTINF:0,TNT Comedy HD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14210
+#EXTINF:0,13th-Street
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/3448
+#EXTINF:0,AXN
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/3435
+#EXTINF:0,Anixe.
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/3432
+#EXTINF:0,Anixe Serie FHD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14230
+#EXTINF:0,Fox.Serie
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/3436
+#EXTINF:0,Kinowelt TV.
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/3418
+#EXTINF:0,Heimatkanal
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/3419
+#EXTINF:0,ORF1
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/3397
+#EXTINF:0,Tele 5 FHD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14229
+#EXTINF:0,Classica.
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/9469
+#EXTINF:0,One FHD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14226
+#EXTINF:0,--------KIDS DE--------
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/6253
+#EXTINF:0,DE: Kika
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/3426
+#EXTINF:0,DE: SUPER.RTL HD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/3423
+#EXTINF:0,DE: Boomerang
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/7214
+#EXTINF:0,DE: Nickelodeon
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/3424
+#EXTINF:0,DE: Disney XD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/7210
+#EXTINF:0,DE: Disney.Junior
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/3425
+#EXTINF:0,DE: Disney Channel
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/7212
+#EXTINF:0,DE: Disney Cinemagic
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/7211
+#EXTINF:0,DE: Cartoon Network
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/7213
+#EXTINF:0,Sky Atlantic
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/3440
+#EXTINF:0,Sky Krimi
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/3437
+#EXTINF:0,Sky.Action
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/3444
+#EXTINF:0,Sky Cinema
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/3447
+#EXTINF:0,Sky.Cinema Hits
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/3441
+#EXTINF:0,Sky.Cinema Family
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/3442
+#EXTINF:0,Sky.Cinema Comedy
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/3443
+#EXTINF:0,Sky.Cinema Emotion
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/3438
+#EXTINF:0,Sky.Cinema Nostalgie
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/3434
+#EXTINF:0,Sky Universal HD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14211
+#EXTINF:0,MOVIESINEMA 1 HD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14416
+#EXTINF:0,MOVIESINEMA 2 HD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14417
+#EXTINF:0,MOVIESINEMA 3 HD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14418
+#EXTINF:0,MOVIESINEMA 4 HD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14419
+#EXTINF:0,MOVIESINEMA 5 HD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14420
+#EXTINF:0,Eagle Cinema Sci-Fi HD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14431
+#EXTINF:0,Eagle Cinema Aktion HD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14432
+#EXTINF:0,Eagle Cinema Thriller HD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14422
+#EXTINF:0,Eagle Cinema Horror HD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14427
+#EXTINF:0,Eagle Cinema Familie HD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14428
+#EXTINF:0,Eagle Cinema Drama HD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14429
+#EXTINF:0,Eagle Cinema Romantisch HD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14423
+#EXTINF:0,Eagle Cinema Komodie HD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14426
+#EXTINF:0,Eagle Cinema L‰cheln HD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14425
+#EXTINF:0,Eagle Cinema Animation HD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14430
+#EXTINF:0,Eagle Cinema Geschichte HD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14424
+#EXTINF:0,Eagle Cinema KINOSAAL (GERINGE QUALITƒT)
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14421
+#EXTINF:0,Sky Select 1
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/7922
+#EXTINF:0,Sky Select 2
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/7923
+#EXTINF:0,Sky Select 3
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/7924
+#EXTINF:0,Sky Select 4
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/7925
+#EXTINF:0,Sky Select 5
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/7926
+#EXTINF:0,Sky Select 7
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/7928
+#EXTINF:0,Sky Select 6
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/7927
+#EXTINF:0,Sky Select 8
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/7929
+#EXTINF:0,Sky Select 9
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/7930
+#EXTINF:0,Sky Select 10
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/7931
+#EXTINF:0,Bon Gusto FHD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14231
+#EXTINF:0,Spiegel Geschichte
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/8425
+#EXTINF:0,E! ENTERTAINMENT HD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/3433
+#EXTINF:0,TLC'
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14206
+#EXTINF:0,A&E FHD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14218
+#EXTINF:0,Planet FHD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14214
+#EXTINF:0,History HD.
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/3417
+#EXTINF:0,Sky Arts FHD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14216
+#EXTINF:0,kabel eins Doku
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14207
+#EXTINF:0,N24 Doku
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14215
+#EXTINF:0,Nat Geo Wild'
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/8688
+#EXTINF:0,National.Geographic
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/3422
+#EXTINF:0,Animal Planet FHD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14213
+#EXTINF:0,Discovery.Channel
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/3421
+#EXTINF:0,Phoenix FHD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14217
+#EXTINF:0,SPORT 1 HD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/7118
+#EXTINF:0,SportDigital FHD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14232
+#EXTINF:0,Sky Sport Austria
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/3398
+#EXTINF:0,Sky Sport News. HD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/3439
+#EXTINF:0,Eurosport 1 HD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/9129
+#EXTINF:0,Euro sport 2 HD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/9130
+#EXTINF:0,eurosport 2 Extra HD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/9199
+#EXTINF:0,Auto Motor Sport FHD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14233
+#EXTINF:0,MotorVision FHD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14234
+#EXTINF:0,Bayern TV FHD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14235
+#EXTINF:0,DAZN 1
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/11405
+#EXTINF:0,DAZN 2
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/11406
+#EXTINF:0,Telekom Fussball 1
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14198
+#EXTINF:0,Telekom Fussball 2
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14199
+#EXTINF:0,Telekom Fussball 3
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14200
+#EXTINF:0,Telekom Fussball 4
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14201
+#EXTINF:0,Telekom Fussball 6
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14202
+#EXTINF:0,Telekom Fussball 7
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14203
+#EXTINF:0,Telekom Fussball 8
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14204
+#EXTINF:0,Sky Sport.1
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/3415
+#EXTINF:0,Sky Sport.2
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/3414
+#EXTINF:0,sky sport.3
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/9435
+#EXTINF:0,sky sport.4
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/9436
+#EXTINF:0,sky sport.5
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/9437
+#EXTINF:0,sky sport.6
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/9438
+#EXTINF:0,sky sport.7
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/9439
+#EXTINF:0,sky sport.8
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/9440
+#EXTINF:0,sky sport.9
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/9441
+#EXTINF:0,sky sport.10
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/9442
+#EXTINF:0,Sky.Sport Bundesliga1
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/3413
+#EXTINF:0,Sky Sport Bundesliga1 HD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/8687
+#EXTINF:0,Sky.Sport .Bundesliga2
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/3412
+#EXTINF:0,sky bundesliga 3
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/9443
+#EXTINF:0,sky bundesliga 4
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/9444
+#EXTINF:0,sky bundesliga 5
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/9445
+#EXTINF:0,sky bundesliga 6
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/9446
+#EXTINF:0,sky bundesliga 7
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/9447
+#EXTINF:0,sky bundesliga 8
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/9448
+#EXTINF:0,sky bundesliga 9
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/9449
+#EXTINF:0,sky bundesliga 10
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/9450
