@@ -1,585 +1,567 @@
 #EXTM3U
-
-#EXTINF:-1,Canal 10 Chetumal
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1,Canal 10 Emporda
-http://ventdelnord.tv:8080/escala/directe.m3u8
-#EXTINF:-1,Canal 2 Cali
-http://5a0436aabca1c.streamlock.net:1935/canal2video/canal2video/playlist.m3u8
-#EXTINF:-1,Canal 25 (TV Barbastro)
-http://188.165.135.22/tvbarbastro/livestream/playlist.m3u8
-#EXTINF:-1,Canal 33
-http://46.20.136.59/live3/_definst_/canal33/playlist.m3u8
-#EXTINF:-1,Canal 4 Eldorado
-http://streaming.arcast.com.ar:1935/canal4eldorado/canal4eldorado/playlist.m3u8
-#EXTINF:-1,Canal 4 Jujuy
-http://190.52.32.13:1935/canal4/smil:manifest.smil/chunklist_b3044100.m3u8
-#EXTINF:-1,Canal 4 Posadas
-http://184.154.28.210:1935/canal4/canal4/live.m3u8
-#EXTINF:-1,Canal 4 Tenerife
-http://5940924978228.streamlock.net:1935/Directo2/Directo2/playlist.m3u8
-#EXTINF:-1,Canal 9
-http://unlimited1-cl.dps.live/c9/c9.smil/c9/livestream2/chunks.m3u8
-#EXTINF:-1,Canal CNC Medellin
-http://streaming.canalcncmedellin.com/hls-live/livepkgr/_definst_/liveevent/canalcnc.m3u8
-#EXTINF:-1,Canal M
-http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist.m3u8
-#EXTINF:-1,Canal Once (Mexico)
-http://live2.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_b1300000_slesp.m3u8
-#EXTINF:-1,Canal Regional (Moldova)
-http://canalregional.md/tv/live/canalregional.m3u8
-#EXTINF:-1,Canal Ricos
-http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/playlist.m3u8
-#EXTINF:-1,Canal Sur Cocina
-http://593fa17dec176.streamlock.net:1935/cscocina/cscocina.stream/playlist.m3u8
-#EXTINF:-1,Canal Sur Flamenco
-http://593fa17dec176.streamlock.net:1935/csflamenco/csflamenco.stream/playlist.m3u8
-#EXTINF:-1,Canal Sur La Banda
-http://593fa17dec176.streamlock.net:1935/cslabanda/cslabanda.stream/index.m3u8
-#EXTINF:-1,Canal Sur Turismo
-http://593fa17dec176.streamlock.net:1935/csturismo/csturismo.stream/playlist.m3u8
-#EXTINF:-1,Canal de Sao Paulo
-http://stream02.msolutionbrasil.com.br:1935/canaldesaopaulo/live/playlist.m3u8
-#EXTINF:-1,Canale 21
-http://live.sloode.com:1935/canale21.adjlkuiug.dkja_ioijre/str8dajlkjdhyttr/playlist.m3u8
-#EXTINF:-1,~ Italy TV ~
-#EXTINF:-1,Canale 7
-http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
-#EXTINF:-1,Canale 10
-http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
-#EXTINF:-1,Carina TV
-http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
-#EXTINF:-1,Class TV Moda
-http://liveclass.edgesuite.net/i/classtvmoda_1@199801/master.m3u8
-#EXTINF:-1,Cremona 1
-http://cremona1.econcept.it/live/cremona1_high.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,eTV Marche
-http://live.streamcaster.net:1935/etvmarche_live/etvmarche/livestream.m3u8
-#EXTINF:-1,Fano TV
-http://live.streamcaster.net:1935/live/fanotv/livestream.m3u8
-#EXTINF:-1,History Lab
-http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
-#EXTINF:-1,La 7 [Geo]
-http://la7livehls-lh.akamaihd.net/i/livebkup_1@372883/index_1_av-p.m3u8
-#EXTINF:-1,m20 TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:-1,Napoli Canale 21
-http://live.streamcaster.net:1935/canale21_live/canale21/livestream.m3u8
-#EXTINF:-1,Napoli Canale 21*
-http://live.Kronopress.com:1935/canale21_live/canale21/livestream.m3u8
-#EXTINF:-1,Orler TV
-http://77.92.76.135:1935/orler/livestream/live.m3u8
-#EXTINF:-1,OttoFM TV
-http://live.youiptv.ch:1935/8FM/8FM/playlist.m3u8
-#EXTINF:-1,Radio 105 TV
-http://wow01.105.net:1935/live/105Test1/livestream.m3u8
-#EXTINF:-1,Radio Capital TiVu
-http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8
-#EXTINF:-1,Radio Iglesias
-http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
-#EXTINF:-1,Radio Italia TV
-http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
-#EXTINF:-1,Radio Monte Carlo
-http://wow01.105.net:1935/live/rmc1/livestream.m3u8
-#EXTINF:-1,Radio Taormina
-http://flash5.streaming.xdevel.com/taorminatv/taorminatv/playlist.m3u8
-#EXTINF:-1,Radio Virgin TV
-http://wow01.105.net:1935/live/virgin1/livestream.m3u8
-#EXTINF:-1,Rai 5
-http://stream12.rai.it/live/smil:rai5.smil/playlist.m3u8
-#EXTINF:-1,Rai Gulp
-http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1200_av-p.m3u8
-#EXTINF:-1,Rai Movie
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-#EXTINF:-1,Rai News 24
-http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/master.m3u8
-#EXTINF:-1,Rai Premium
-http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
-#EXTINF:-1,Rai Scuola
-http://originstream6.rai.it/italy/smil:raiscuola.smil/chunklist_b900000.m3u8
-#EXTINF:-1,Rai Storia
-http://everyrai-lh.akamaihd.net/i/raistoria_1@308058/master.m3u8
-#EXTINF:-1,Rai Yoyo
-http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1200_av-b.m3u8
-#EXTINF:-1,Rete 55
-http://live.youiptv.ch:1935/Rete55/ngrp:R55.stream_all/livestream.m3u8
-#EXTINF:-1,Rete 55*
-http://live.youiptv.ch:1935/Rete55/R55.stream_source/livestream.m3u8
-#EXTINF:-1,Retesole
-http://flash2.bsnewline.com:1935/retesolelazio/retesolelazio/playlist.m3u8
-#EXTINF:-1,RTV 38
-http://splive-lh.akamaihd.net/i/livertv38_1@396529/master.m3u8
-#EXTINF:-1,RTL 102.5
-http://rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione/playlist.m3u8
-#EXTINF:-1,Saronno TV
-http://msh0193.stream.seeweb.it:1935/live/stream00.sdp/livestream.m3u8
-#EXTINF:-1,Sky TG24
-http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
-#EXTINF:-1,Sudtirol TV
-http://77.72.196.214:8554/live/SuedtirolTV/livestream.m3u8
-#EXTINF:-1,SuperTV
-http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
-#EXTINF:-1,TeleArena
-http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
-#EXTINF:-1,teleMonteneve
-http://wms.shared.streamshow.it:1935/telemonteneve/telemonteneve/live.m3u8
-#EXTINF:-1,telePAVIA
-http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
-#EXTINF:-1,TeleStudio Modena
-http://wms.shared.streamshow.it:1935/telestudiomo/telestudiomo/live.m3u8
-#EXTINF:-1,Tele Milano
-http://91.121.222.160:1935/piublu/piublu.sdp/live.m3u8
-#EXTINF:-1,TG Norba 24
-http://85.17.80.132:1935/tgnorba_24/tgnorba_24_source.stream/live.m3u8
-#EXTINF:-1,Trentino TV
-http://77.72.196.214:8554/live/TrentinoTV/livestream.m3u8
-#EXTINF:-1,Trentino TV*
-http://77.72.196.214:8554/live/TrentinoSAT/livestream.m3u8
-#EXTINF:-1,TSN
-http://wms.shared.streamshow.it:1935/tsn2/tsn2/live.m3u8
-#EXTINF:-1,TRM h24
-http://flash.streamingmedia.it:1935/TRM/livestream/live.m3u8
-#EXTINF:-1,TVRS
-http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
-#EXTINF:-1,TV Luna
-http://live.streamcaster.net:1935/test_live/teleluna/livestream.m3u8
-#EXTINF:-1,TV Luna*
-http://live.Kronopress.com:1935/test_live/teleluna/livestream.m3u8
-#EXTINF:-1,Videolina
-http://178.33.229.111:1935/live/Videolina/livestream.m3u8
-#EXTINF:-1,Video Brescia
-http://wms.shared.streamshow.it:1935/videobrescia/videobrescia/live.m3u8
-#EXTINF:-1,Video Calabria
-http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8
-#EXTINF:-1,Animal Planet
-http://viphdpro.eu:8080/hakanbaba/babahakan/40167
-#EXTINF:-1,Boing
-http://viphdpro.eu:8080/hakanbaba/babahakan/40112
-#EXTINF:-1,Canal 5 HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40168
-#EXTINF:-1,Canale5 HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40114
-#EXTINF:-1,Cartoonito
-http://viphdpro.eu:8080/hakanbaba/babahakan/40169
-#EXTINF:-1,Cielo
-http://viphdpro.eu:8080/hakanbaba/babahakan/40170
-#EXTINF:-1,Discovery HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40171
-#EXTINF:-1,Discovery Science HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40172
-#EXTINF:-1,Discovery Travel&Living HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40173
-#EXTINF:-1,Dmax HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40115
-#EXTINF:-1,Eurosport 1 HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40116
-#EXTINF:-1,Eurosport 2 HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40117
-#EXTINF:-1,FISHING TV
-http://viphdpro.eu:8080/hakanbaba/babahakan/40111
-#EXTINF:-1,Fox Comedy HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40118
-#EXTINF:-1,Fox Crime HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40174
-#EXTINF:-1,Fox Crime HD(1)
-http://viphdpro.eu:8080/hakanbaba/babahakan/40119
-#EXTINF:-1,FOX HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40175
-#EXTINF:-1,Fox Life HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40176
-#EXTINF:-1,FOX Sport HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40177
-#EXTINF:-1,History
-http://viphdpro.eu:8080/hakanbaba/babahakan/40110
-#EXTINF:-1,Inter Channel
-http://viphdpro.eu:8080/hakanbaba/babahakan/40178
-#EXTINF:-1,Italia 2
-http://viphdpro.eu:8080/hakanbaba/babahakan/40120
-#EXTINF:-1,italia1 HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40121
-#EXTINF:-1,Juventus TV
-http://viphdpro.eu:8080/hakanbaba/babahakan/40166
-#EXTINF:-1,La7
-http://viphdpro.eu:8080/hakanbaba/babahakan/40122
-#EXTINF:-1,MarcoPolo
-http://viphdpro.eu:8080/hakanbaba/babahakan/40109
-#EXTINF:-1,Mediaset Extra
-http://viphdpro.eu:8080/hakanbaba/babahakan/40179
-#EXTINF:-1,Mediaset Extra(1)
-http://viphdpro.eu:8080/hakanbaba/babahakan/40123
-#EXTINF:-1,Mediaset Iris
-http://viphdpro.eu:8080/hakanbaba/babahakan/40207
-#EXTINF:-1,Milan Channel
-http://viphdpro.eu:8080/hakanbaba/babahakan/40208
-#EXTINF:-1,Nat Geo Wild HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40180
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40181
-#EXTINF:-1,Pesca e Caccia
-http://viphdpro.eu:8080/hakanbaba/babahakan/40182
-#EXTINF:-1,Premium Action
-http://viphdpro.eu:8080/hakanbaba/babahakan/40183
-#EXTINF:-1,Premium Calcio
-http://viphdpro.eu:8080/hakanbaba/babahakan/40184
-#EXTINF:-1,Premium Calcio 1*
-http://viphdpro.eu:8080/hakanbaba/babahakan/40124
-#EXTINF:-1,Premium Calcio 2*
-http://viphdpro.eu:8080/hakanbaba/babahakan/40125
-#EXTINF:-1,Premium Calcio 3*
-http://viphdpro.eu:8080/hakanbaba/babahakan/40126
-#EXTINF:-1,Premium Calcio 4
-http://viphdpro.eu:8080/hakanbaba/babahakan/40127
-#EXTINF:-1,Premium Calcio 5*
-http://viphdpro.eu:8080/hakanbaba/babahakan/40128
-#EXTINF:-1,Premium Cinema 2
-http://viphdpro.eu:8080/hakanbaba/babahakan/40131
-#EXTINF:-1,Premium Cinema Energy
-http://viphdpro.eu:8080/hakanbaba/babahakan/40130
-#EXTINF:-1,Premium Comedy
-http://viphdpro.eu:8080/hakanbaba/babahakan/40185
-#EXTINF:-1,Premium Crime
-http://viphdpro.eu:8080/hakanbaba/babahakan/40132
-#EXTINF:-1,Premium Disney Junior
-http://viphdpro.eu:8080/hakanbaba/babahakan/40186
-#EXTINF:-1,Premium Disney Junior(1)
-http://viphdpro.eu:8080/hakanbaba/babahakan/40209
-#EXTINF:-1,Premium Emotion
-http://viphdpro.eu:8080/hakanbaba/babahakan/40133
-#EXTINF:-1,Premium Joy
-http://viphdpro.eu:8080/hakanbaba/babahakan/40134
-#EXTINF:-1,Premium Sport 2
-http://viphdpro.eu:8080/hakanbaba/babahakan/40187
-#EXTINF:-1,Premium Sport HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40164
-#EXTINF:-1,Premium Stories
-http://viphdpro.eu:8080/hakanbaba/babahakan/40135
-#EXTINF:-1,Premium Studio Universal
-http://viphdpro.eu:8080/hakanbaba/babahakan/40188
-#EXTINF:-1,Rai Gulp
-http://viphdpro.eu:8080/hakanbaba/babahakan/40210
-#EXTINF:-1,Rai Premium
-http://viphdpro.eu:8080/hakanbaba/babahakan/40137
-#EXTINF:-1,Rai Sport1
-http://viphdpro.eu:8080/hakanbaba/babahakan/40138
-#EXTINF:-1,Rai Sport2
-http://viphdpro.eu:8080/hakanbaba/babahakan/40139
-#EXTINF:-1,Rai Yoyo
-http://viphdpro.eu:8080/hakanbaba/babahakan/40189
-#EXTINF:-1,Rai1 HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40140
-#EXTINF:-1,Rai2 HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40141
-#EXTINF:-1,Rai3 HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40142
-#EXTINF:-1,Rai4 HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40143
-#EXTINF:-1,Rai5
-http://viphdpro.eu:8080/hakanbaba/babahakan/40144
-#EXTINF:-1,Real Time
-http://viphdpro.eu:8080/hakanbaba/babahakan/40211
-#EXTINF:-1,Rete4 HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40145
-#EXTINF:-1,RSI La1 HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40146
-#EXTINF:-1,RSI La2 HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40147
-#EXTINF:-1,Sky Calcio 1
-http://viphdpro.eu:8080/hakanbaba/babahakan/40190
-#EXTINF:-1,Sky Calcio 2
-http://viphdpro.eu:8080/hakanbaba/babahakan/40191
-#EXTINF:-1,Sky Calcio 3
-http://viphdpro.eu:8080/hakanbaba/babahakan/40192
-#EXTINF:-1,Sky Calcio 4
-http://viphdpro.eu:8080/hakanbaba/babahakan/40193
-#EXTINF:-1,Sky Calcio 5
-http://viphdpro.eu:8080/hakanbaba/babahakan/40194
-#EXTINF:-1,Sky Calcio 6
-http://viphdpro.eu:8080/hakanbaba/babahakan/40195
-#EXTINF:-1,Sky Calcio 7
-http://viphdpro.eu:8080/hakanbaba/babahakan/40196
-#EXTINF:-1,Sky Cinema  1 HD(1)
-http://viphdpro.eu:8080/hakanbaba/babahakan/40148
-#EXTINF:-1,Sky Cinema Classic HD(1)
-http://viphdpro.eu:8080/hakanbaba/babahakan/40149
-#EXTINF:-1,Sky Cinema Comedy HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40150
-#EXTINF:-1,Sky Cinema Family HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40151
-#EXTINF:-1,Sky Cinema Max HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40152
-#EXTINF:-1,Sky Cinema Passion HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40153
-#EXTINF:-1,Sky Cinema1 HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40154
-#EXTINF:-1,SKY CINEMA24 HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40155
-#EXTINF:-1,SKY F1 HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40156
-#EXTINF:-1,Sky Fox Comedy HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40197
-#EXTINF:-1,Sky Foxcrime HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40157
-#EXTINF:-1,Sky Moto GP HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40158
-#EXTINF:-1,SKY Primafila 3
-http://viphdpro.eu:8080/hakanbaba/babahakan/40198
-#EXTINF:-1,Sky Primafila 6
-http://viphdpro.eu:8080/hakanbaba/babahakan/40199
-#EXTINF:-1,Sky Primafila 7
-http://viphdpro.eu:8080/hakanbaba/babahakan/40200
-#EXTINF:-1,Sky Primafila 8
-http://viphdpro.eu:8080/hakanbaba/babahakan/40201
-#EXTINF:-1,Sky Sport 24 HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40159
-#EXTINF:-1,Sky Sport F1 HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40160
-#EXTINF:-1,Sky Sport1 HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40161
-#EXTINF:-1,Sky Sport2 HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40162
-#EXTINF:-1,Sky Sport3 HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40163
-#EXTINF:-1,SKY TG 24
-http://viphdpro.eu:8080/hakanbaba/babahakan/40202
-#EXTINF:-1,Sky Uno HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40165
-#EXTINF:-1,SPORT ITALIA
-http://viphdpro.eu:8080/hakanbaba/babahakan/40203
-#EXTINF:-1,Supercalcio HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40204
-#EXTINF:-1,Teleticino
-http://viphdpro.eu:8080/hakanbaba/babahakan/40223
-#EXTINF:-1,TOP CRIME
-http://viphdpro.eu:8080/hakanbaba/babahakan/40224
-#EXTINF:-1,IT:CARTOON  NETWORK
-http://viphdpro.eu:8080/hakanbaba/babahakan/40205
-#EXTINF:-1,IT:Discovery Focus
-http://viphdpro.eu:8080/hakanbaba/babahakan/40206
-#EXTINF:-1,IT:SKY Cinema 3D
-http://viphdpro.eu:8080/hakanbaba/babahakan/40212
-#EXTINF:-1,IT:SKY Primafila 1
-http://viphdpro.eu:8080/hakanbaba/babahakan/40213
-#EXTINF:-1,IT:Sky Primafila 10
-http://viphdpro.eu:8080/hakanbaba/babahakan/40214
-#EXTINF:-1,IT:Sky Primafila 12
-http://viphdpro.eu:8080/hakanbaba/babahakan/40215
-#EXTINF:-1,IT:Sky Primafila 13
-http://viphdpro.eu:8080/hakanbaba/babahakan/40216
-#EXTINF:-1,IT:Sky Primafila 14
-http://viphdpro.eu:8080/hakanbaba/babahakan/40217
-#EXTINF:-1,IT:SKY Primafila 2
-http://viphdpro.eu:8080/hakanbaba/babahakan/40218
-#EXTINF:-1,IT:Sky Primafila 4
-http://viphdpro.eu:8080/hakanbaba/babahakan/40219
-#EXTINF:-1,IT:Sky Primafila 5
-http://viphdpro.eu:8080/hakanbaba/babahakan/40220
-#EXTINF:-1,IT:Sky Primafila 9
-http://viphdpro.eu:8080/hakanbaba/babahakan/40221
-#EXTINF:-1,IT:Super Tennis
-http://viphdpro.eu:8080/hakanbaba/babahakan/40222
+#EXTINF:-1,105 TV
+http://31.220.1.190:8080/raquel/1234/155953
+#EXTINF:-1,51 Radio TV
+http://31.220.1.190:8080/raquel/1234/144952
+#EXTINF:-1,alia 1
+http://31.220.1.190:8080/raquel/1234/175292
+#EXTINF:-1,Alice HD
+http://31.220.1.190:8080/raquel/1234/155936
+#EXTINF:-1,Alto Adige Tv
+http://31.220.1.190:8080/raquel/1234/63973
 #EXTINF:-1,Animal Planet HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40328
+http://31.220.1.190:8080/raquel/1234/64022
+#EXTINF:-1,Antenna 3 TV
+http://31.220.1.190:8080/raquel/1234/63999
+#EXTINF:-1,Antenna Sicilia
+http://31.220.1.190:8080/raquel/1234/140043
+#EXTINF:-1,Antenna Tre Nordest
+http://31.220.1.190:8080/raquel/1234/144954
+#EXTINF:-1,Antennasud
+http://31.220.1.190:8080/raquel/1234/144955
+#EXTINF:-1,Arte HD
+http://31.220.1.190:8080/raquel/1234/130899
+#EXTINF:-1,Auto Moto TV
+http://31.220.1.190:8080/raquel/1234/64024
+#EXTINF:-1,AXN HD
+http://31.220.1.190:8080/raquel/1234/64108
 #EXTINF:-1,Baby TV
-http://viphdpro.eu:8080/hakanbaba/babahakan/40327
-#EXTINF:-1,Blaze HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40326
+http://31.220.1.190:8080/raquel/1234/175381
+#EXTINF:-1,BIKE CHANNEL HD
+http://31.220.1.190:8080/raquel/1234/89364
+#EXTINF:-1,BOING HD
+http://31.220.1.190:8080/raquel/1234/62077
+#EXTINF:-1,Boomerang
+http://31.220.1.190:8080/raquel/1234/175382
+#EXTINF:-1,BRESCIA LIVE TV
+http://31.220.1.190:8080/raquel/1234/136045
+#EXTINF:-1,Bridge Dance TV HD
+http://31.220.1.190:8080/raquel/1234/155954
+#EXTINF:-1,Caccia e Pesca HD
+http://31.220.1.190:8080/raquel/1234/89378
+#EXTINF:-1,CAFE TV24
+http://31.220.1.190:8080/raquel/1234/144957
+#EXTINF:-1,Caffe TV 24
+http://31.220.1.190:8080/raquel/1234/63911
+#EXTINF:-1,Calabria Uno
+http://31.220.1.190:8080/raquel/1234/144958
+#EXTINF:-1,Canal 5 HD
+http://31.220.1.190:8080/raquel/1234/62022
 #EXTINF:-1,Canale 5 HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40325
-#EXTINF:-1,Ci crime investigation
-http://viphdpro.eu:8080/hakanbaba/babahakan/40323
-#EXTINF:-1,DAZN Sport  3 HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40319
-#EXTINF:-1,DAZN Sport 1 HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40322
-#EXTINF:-1,DAZN Sport 10 HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40321
-#EXTINF:-1,DAZN Sport 2 HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40320
-#EXTINF:-1,DAZN Sport 4 HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40318
-#EXTINF:-1,DAZN Sport 5 HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40317
-#EXTINF:-1,DAZN Sport 6 HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40316
-#EXTINF:-1,DAZN Sport 7 HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40315
-#EXTINF:-1,DAZN Sport 8 HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40314
-#EXTINF:-1,DAZN Sport 9 HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40313
+http://31.220.1.190:8080/raquel/1234/134906
+#EXTINF:-1,Canale 7
+http://31.220.1.190:8080/raquel/1234/63957
+#EXTINF:-1,Canale 7 TV Puglia
+http://31.220.1.190:8080/raquel/1234/144960
+#EXTINF:-1,Canale 8
+http://31.220.1.190:8080/raquel/1234/63955
+#EXTINF:-1,Canale 10
+http://31.220.1.190:8080/raquel/1234/63922
+#EXTINF:-1,Canale 21
+http://31.220.1.190:8080/raquel/1234/159413
+#EXTINF:-1,Canale 85
+http://31.220.1.190:8080/raquel/1234/144962
+#EXTINF:-1,Carina TV
+http://31.220.1.190:8080/raquel/1234/144965
+#EXTINF:-1,Carton Network
+http://31.220.1.190:8080/raquel/1234/159435
+#EXTINF:-1,Cartonito TV
+http://31.220.1.190:8080/raquel/1234/91202
+#EXTINF:-1,CARTOON NETWORK HD
+http://31.220.1.190:8080/raquel/1234/64127
+#EXTINF:-1,Cartoonito HD
+http://31.220.1.190:8080/raquel/1234/64134
+#EXTINF:-1,Cielo HD
+http://31.220.1.190:8080/raquel/1234/73941
+#EXTINF:-1,Cinema 24 HD
+http://31.220.1.190:8080/raquel/1234/117342
+#EXTINF:-1,Class Horse TV
+http://31.220.1.190:8080/raquel/1234/115615
+#EXTINF:-1,Classica HD
+http://31.220.1.190:8080/raquel/1234/136071
+#EXTINF:-1,Comedy Central
+http://31.220.1.190:8080/raquel/1234/175327
+#EXTINF:-1,Company TV
+http://31.220.1.190:8080/raquel/1234/144966
+#EXTINF:-1,CRIME & INVESTIGATION HD
+http://31.220.1.190:8080/raquel/1234/122273
+#EXTINF:-1,Dazn 1
+http://31.220.1.190:8080/raquel/1234/150119
+#EXTINF:-1,Dazn 2
+http://31.220.1.190:8080/raquel/1234/150120
+#EXTINF:-1,Dazn 3
+http://31.220.1.190:8080/raquel/1234/150121
+#EXTINF:-1,Dazn 5
+http://31.220.1.190:8080/raquel/1234/150123
+#EXTINF:-1,Dazn 7
+http://31.220.1.190:8080/raquel/1234/150125
+#EXTINF:-1,Dazn 8
+http://31.220.1.190:8080/raquel/1234/150126
+#EXTINF:-1,Dazn 9
+http://31.220.1.190:8080/raquel/1234/150127
+#EXTINF:-1,Dazn 10
+http://31.220.1.190:8080/raquel/1234/150128
+#EXTINF:-1,Dazn 11
+http://31.220.1.190:8080/raquel/1234/160980
+#EXTINF:-1,Dazn Sport 1 HD
+http://31.220.1.190:8080/raquel/1234/128035
+#EXTINF:-1,Dazn Sport 2 HD
+http://31.220.1.190:8080/raquel/1234/128036
+#EXTINF:-1,Dazn Sport 3 HD
+http://31.220.1.190:8080/raquel/1234/128037
+#EXTINF:-1,Dazn Sport 4 HD
+http://31.220.1.190:8080/raquel/1234/128038
+#EXTINF:-1,Dazn Sport 5 HD
+http://31.220.1.190:8080/raquel/1234/136049
+#EXTINF:-1,DAZN SPORT 7 HD
+http://31.220.1.190:8080/raquel/1234/159448
+#EXTINF:-1,Dazn Sport 8 HD (ONLY ON MATCH TIME)
+http://31.220.1.190:8080/raquel/1234/128042
+#EXTINF:-1,DAZN SPORT 10 HD
+http://31.220.1.190:8080/raquel/1234/159450
 #EXTINF:-1,Dea Junior
-http://viphdpro.eu:8080/hakanbaba/babahakan/40312
-#EXTINF:-1,Dea Kids
-http://viphdpro.eu:8080/hakanbaba/babahakan/40311
-#EXTINF:-1,DeeJay TV
-http://viphdpro.eu:8080/hakanbaba/babahakan/40310
+http://31.220.1.190:8080/raquel/1234/134620
+#EXTINF:-1,Deejay TV
+http://31.220.1.190:8080/raquel/1234/115616
+#EXTINF:-1,Di TV 1
+http://31.220.1.190:8080/raquel/1234/63961
+#EXTINF:-1,Di TV 2
+http://31.220.1.190:8080/raquel/1234/63960
+#EXTINF:-1,Di TV 3
+http://31.220.1.190:8080/raquel/1234/63959
+#EXTINF:-1,Discovery Channal HD
+http://31.220.1.190:8080/raquel/1234/91938
 #EXTINF:-1,Discovery Channel HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40309
+http://31.220.1.190:8080/raquel/1234/64032
+#EXTINF:-1,Discovery focus
+http://31.220.1.190:8080/raquel/1234/93492
+#EXTINF:-1,Discovery ID
+http://31.220.1.190:8080/raquel/1234/73960
+#EXTINF:-1,Discovery Real Time
+http://31.220.1.190:8080/raquel/1234/160976
 #EXTINF:-1,Discovery Sci HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40308
+http://31.220.1.190:8080/raquel/1234/159440
+#EXTINF:-1,Discovery Sci-Fi HD
+http://31.220.1.190:8080/raquel/1234/134923
+#EXTINF:-1,Discovery Science
+http://31.220.1.190:8080/raquel/1234/175369
 #EXTINF:-1,Discovery Travel & Living HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40307
+http://31.220.1.190:8080/raquel/1234/160977
 #EXTINF:-1,Disney Channel HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40306
-#EXTINF:-1,Disney Junior I
-http://viphdpro.eu:8080/hakanbaba/babahakan/40305
-#EXTINF:-1,Disney XD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40304
-#EXTINF:-1,Dove
-http://viphdpro.eu:8080/hakanbaba/babahakan/40303
-#EXTINF:-1,Eurosport 1
-http://viphdpro.eu:8080/hakanbaba/babahakan/40302
-#EXTINF:-1,Eurosport 2
-http://viphdpro.eu:8080/hakanbaba/babahakan/40301
-#EXTINF:-1,Fox  1 HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40300
+http://31.220.1.190:8080/raquel/1234/64128
+#EXTINF:-1,Disney Junior HD
+http://31.220.1.190:8080/raquel/1234/64129
+#EXTINF:-1,Disney XD HD
+http://31.220.1.190:8080/raquel/1234/64130
+#EXTINF:-1,Dmax 1
+http://31.220.1.190:8080/raquel/1234/160978
+#EXTINF:-1,DMAX HD
+http://31.220.1.190:8080/raquel/1234/88472
+#EXTINF:-1,Dove TV HD
+http://31.220.1.190:8080/raquel/1234/140037
+#EXTINF:-1,E! Entertainment
+http://31.220.1.190:8080/raquel/1234/115618
+#EXTINF:-1,Esperia TV
+http://31.220.1.190:8080/raquel/1234/63964
+#EXTINF:-1,eTV Marche
+http://31.220.1.190:8080/raquel/1234/135958
+#EXTINF:-1,ETV Rete7
+http://31.220.1.190:8080/raquel/1234/144970
+#EXTINF:-1,Euronews
+http://31.220.1.190:8080/raquel/1234/175393
+#EXTINF:-1,Eurosport 1 HD
+http://31.220.1.190:8080/raquel/1234/62019
+#EXTINF:-1,Eurosport 2 HD
+http://31.220.1.190:8080/raquel/1234/62018
+#EXTINF:-1,Fano TV
+http://31.220.1.190:8080/raquel/1234/63966
+#EXTINF:-1,FC Inter Channel HD
+http://31.220.1.190:8080/raquel/1234/73985
+#EXTINF:-1,Fine Living
+http://31.220.1.190:8080/raquel/1234/91939
+#EXTINF:-1,FISHING TV
+http://31.220.1.190:8080/raquel/1234/114084
+#EXTINF:-1,Fishing Tv italiano
+http://31.220.1.190:8080/raquel/1234/150092
+#EXTINF:-1,Focus TV HD
+http://31.220.1.190:8080/raquel/1234/73958
 #EXTINF:-1,Fox Animation HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40299
-#EXTINF:-1,Frisbie
-http://viphdpro.eu:8080/hakanbaba/babahakan/40298
+http://31.220.1.190:8080/raquel/1234/73959
+#EXTINF:-1,Fox Comedy HD
+http://31.220.1.190:8080/raquel/1234/62015
+#EXTINF:-1,Fox Crime 1
+http://31.220.1.190:8080/raquel/1234/148722
+#EXTINF:-1,Fox Crime HD
+http://31.220.1.190:8080/raquel/1234/62014
+#EXTINF:-1,FOX HD
+http://31.220.1.190:8080/raquel/1234/73938
+#EXTINF:-1,Fox Life 1
+http://31.220.1.190:8080/raquel/1234/114080
+#EXTINF:-1,Fox Life HD
+http://31.220.1.190:8080/raquel/1234/62013
+#EXTINF:-1,Fox Sport HD
+http://31.220.1.190:8080/raquel/1234/63841
+#EXTINF:-1,Fresbee HD
+http://31.220.1.190:8080/raquel/1234/140050
+#EXTINF:-1,Frisbee TV
+http://31.220.1.190:8080/raquel/1234/64133
 #EXTINF:-1,Gambero Rosso HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40296
-#EXTINF:-1,GIALLO
-http://viphdpro.eu:8080/hakanbaba/babahakan/40297
-#EXTINF:-1,History HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40295
-#EXTINF:-1,Inter Tv HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40294
-#EXTINF:-1,Iris
-http://viphdpro.eu:8080/hakanbaba/babahakan/40293
+http://31.220.1.190:8080/raquel/1234/64018
+#EXTINF:-1,Giallo HD
+http://31.220.1.190:8080/raquel/1234/155931
+#EXTINF:-1,H Abadan
+http://31.220.1.190:8080/raquel/1234/160981
+#EXTINF:-1,H Aflak
+http://31.220.1.190:8080/raquel/1234/160982
+#EXTINF:-1,History Channel HD
+http://31.220.1.190:8080/raquel/1234/64025
+#EXTINF:-1,History Lab HD
+http://31.220.1.190:8080/raquel/1234/93182
+#EXTINF:-1,Hit Music Channel
+http://31.220.1.190:8080/raquel/1234/155956
+#EXTINF:-1,HSE24
+http://31.220.1.190:8080/raquel/1234/144973
+#EXTINF:-1,Inter Channel
+http://31.220.1.190:8080/raquel/1234/155962
+#EXTINF:-1,IRC Sport
+http://31.220.1.190:8080/raquel/1234/144975
+#EXTINF:-1,Iris HD
+http://31.220.1.190:8080/raquel/1234/64142
 #EXTINF:-1,Italia 1 HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40292
+http://31.220.1.190:8080/raquel/1234/62010
+#EXTINF:-1,Italia 2 HD
+http://31.220.1.190:8080/raquel/1234/64146
+#EXTINF:-1,Italian Fishing
+http://31.220.1.190:8080/raquel/1234/159620
+#EXTINF:-1,Julie Italia
+http://31.220.1.190:8080/raquel/1234/94130
+#EXTINF:-1,Juventus Channel
+http://31.220.1.190:8080/raquel/1234/63846
 #EXTINF:-1,K2
-http://viphdpro.eu:8080/hakanbaba/babahakan/40291
-#EXTINF:-1,La 5
-http://viphdpro.eu:8080/hakanbaba/babahakan/40290
-#EXTINF:-1,La7 d HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40288
-#EXTINF:-1,La7 HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40289
-#EXTINF:-1,Lazio Style Channel
-http://viphdpro.eu:8080/hakanbaba/babahakan/40287
+http://31.220.1.190:8080/raquel/1234/64135
+#EXTINF:-1,K2 - Cartoons
+http://31.220.1.190:8080/raquel/1234/159436
+#EXTINF:-1,KANALE 7
+http://31.220.1.190:8080/raquel/1234/122282
+#EXTINF:-1,LA 5 HD
+http://31.220.1.190:8080/raquel/1234/64141
+#EXTINF:-1,LA 7 HD
+http://31.220.1.190:8080/raquel/1234/62008
+#EXTINF:-1,La 7D HD
+http://31.220.1.190:8080/raquel/1234/159410
+#EXTINF:-1,LaEffe
+http://31.220.1.190:8080/raquel/1234/175309
+#EXTINF:-1,LAZIO CHANNEL HD
+http://31.220.1.190:8080/raquel/1234/108794
+#EXTINF:-1,Lei
+http://31.220.1.190:8080/raquel/1234/117378
+#EXTINF:-1,Lucania TV
+http://31.220.1.190:8080/raquel/1234/63925
+#EXTINF:-1,Luna Sport TV
+http://31.220.1.190:8080/raquel/1234/126228
+#EXTINF:-1,m20 TV
+http://31.220.1.190:8080/raquel/1234/144981
+#EXTINF:-1,M2O TV
+http://31.220.1.190:8080/raquel/1234/63917
+#EXTINF:-1,MAN GA
+http://31.220.1.190:8080/raquel/1234/160979
+#EXTINF:-1,Marcopolo HD
+http://31.220.1.190:8080/raquel/1234/64017
+#EXTINF:-1,Masha and Bear
+http://31.220.1.190:8080/raquel/1234/64125
+#EXTINF:-1,Mediaset 1
+http://31.220.1.190:8080/raquel/1234/111113
+#EXTINF:-1,Mediaset 2 HD
+http://31.220.1.190:8080/raquel/1234/111114
+#EXTINF:-1,Mediaset 5
+http://31.220.1.190:8080/raquel/1234/111116
 #EXTINF:-1,Mediaset 20
-http://viphdpro.eu:8080/hakanbaba/babahakan/40286
+http://31.220.1.190:8080/raquel/1234/117348
+#EXTINF:-1,Mediaset Extra HD
+http://31.220.1.190:8080/raquel/1234/64143
+#EXTINF:-1,Mediaset Iris
+http://31.220.1.190:8080/raquel/1234/73955
 #EXTINF:-1,Mediaset Italia 2 HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40285
-#EXTINF:-1,Milan Tv
-http://viphdpro.eu:8080/hakanbaba/babahakan/40284
-#EXTINF:-1,Natgeo People HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40281
-#EXTINF:-1,NatGeo Wild HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40282
+http://31.220.1.190:8080/raquel/1234/91213
+#EXTINF:-1,MEDIASET TOP CRIME
+http://31.220.1.190:8080/raquel/1234/73954
+#EXTINF:-1,Mediasport
+http://31.220.1.190:8080/raquel/1234/144982
+#EXTINF:-1,Mexicana
+http://31.220.1.190:8080/raquel/1234/155950
+#EXTINF:-1,Milan CHANNEL
+http://31.220.1.190:8080/raquel/1234/159618
+#EXTINF:-1,Motor Trend HD
+http://31.220.1.190:8080/raquel/1234/103406
+#EXTINF:-1,Movies 1
+http://31.220.1.190:8080/raquel/1234/175330
+#EXTINF:-1,Movies 3
+http://31.220.1.190:8080/raquel/1234/175331
+#EXTINF:-1,Movies 4
+http://31.220.1.190:8080/raquel/1234/175332
+#EXTINF:-1,Movies 6
+http://31.220.1.190:8080/raquel/1234/175334
+#EXTINF:-1,Movies 7
+http://31.220.1.190:8080/raquel/1234/175335
+#EXTINF:-1,Movies 8
+http://31.220.1.190:8080/raquel/1234/175336
+#EXTINF:-1,Movies 9
+http://31.220.1.190:8080/raquel/1234/175337
+#EXTINF:-1,Movies 10
+http://31.220.1.190:8080/raquel/1234/175338
+#EXTINF:-1,MTV 8 Musica
+http://31.220.1.190:8080/raquel/1234/136026
+#EXTINF:-1,MTV Hits
+http://31.220.1.190:8080/raquel/1234/136028
+#EXTINF:-1,MTV Music
+http://31.220.1.190:8080/raquel/1234/136031
+#EXTINF:-1,MTV Rocks HD
+http://31.220.1.190:8080/raquel/1234/136027
+#EXTINF:-1,Musica Latina
+http://31.220.1.190:8080/raquel/1234/155960
+#EXTINF:-1,Napoli Canale 21 TV
+http://31.220.1.190:8080/raquel/1234/63951
+#EXTINF:-1,NAT GEO HD
+http://31.220.1.190:8080/raquel/1234/73928
+#EXTINF:-1,NAT GEO People HD
+http://31.220.1.190:8080/raquel/1234/62006
+#EXTINF:-1,NAT GEO Wild HD
+http://31.220.1.190:8080/raquel/1234/62005
+#EXTINF:-1,Nettuno TV
+http://31.220.1.190:8080/raquel/1234/144983
 #EXTINF:-1,Nick Junior
-http://viphdpro.eu:8080/hakanbaba/babahakan/40280
+http://31.220.1.190:8080/raquel/1234/175392
 #EXTINF:-1,Nickelodeon
-http://viphdpro.eu:8080/hakanbaba/babahakan/40279
-#EXTINF:-1,NOVE
-http://viphdpro.eu:8080/hakanbaba/babahakan/40283
-#EXTINF:-1,PARAMOUNT CHANNEL
-http://viphdpro.eu:8080/hakanbaba/babahakan/40278
-#EXTINF:-1,Premium Action  24
-http://viphdpro.eu:8080/hakanbaba/babahakan/40277
-#EXTINF:-1,Premium Action HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40276
-#EXTINF:-1,Premium Cinema Comedy
-http://viphdpro.eu:8080/hakanbaba/babahakan/40275
-#EXTINF:-1,Premium Cinema Emotion
-http://viphdpro.eu:8080/hakanbaba/babahakan/40274
-#EXTINF:-1,Premium Cinema HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40273
-#EXTINF:-1,Premium Cinema. Energy
-http://viphdpro.eu:8080/hakanbaba/babahakan/40272
-#EXTINF:-1,Premium Crime HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40271
-#EXTINF:-1,Premium Discovery Investigation
-http://viphdpro.eu:8080/hakanbaba/babahakan/40270
-#EXTINF:-1,Premium Joi  24
-http://viphdpro.eu:8080/hakanbaba/babahakan/40269
+http://31.220.1.190:8080/raquel/1234/175391
+#EXTINF:-1,Nrj Hits HD
+http://31.220.1.190:8080/raquel/1234/155945
+#EXTINF:-1,Onda TV Messina
+http://31.220.1.190:8080/raquel/1234/144984
+#EXTINF:-1,OndaTV
+http://31.220.1.190:8080/raquel/1234/144985
+#EXTINF:-1,Orler TV
+http://31.220.1.190:8080/raquel/1234/94131
+#EXTINF:-1,Otto Fm Tv
+http://31.220.1.190:8080/raquel/1234/155961
+#EXTINF:-1,Paramount Channel HD
+http://31.220.1.190:8080/raquel/1234/64107
+#EXTINF:-1,PEPPA PIG Channel
+http://31.220.1.190:8080/raquel/1234/140049
+#EXTINF:-1,Pesca & Caccia
+http://31.220.1.190:8080/raquel/1234/159425
+#EXTINF:-1,Pesca e Caccia HD
+http://31.220.1.190:8080/raquel/1234/121589
+#EXTINF:-1,POP TV
+http://31.220.1.190:8080/raquel/1234/140056
 #EXTINF:-1,Rai 1 HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40266
+http://31.220.1.190:8080/raquel/1234/62053
 #EXTINF:-1,Rai 2 HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40265
+http://31.220.1.190:8080/raquel/1234/62052
 #EXTINF:-1,Rai 3 HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40264
+http://31.220.1.190:8080/raquel/1234/62051
 #EXTINF:-1,Rai 4 HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40263
+http://31.220.1.190:8080/raquel/1234/62050
 #EXTINF:-1,Rai 5 HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40262
+http://31.220.1.190:8080/raquel/1234/62049
 #EXTINF:-1,Rai Gulp HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40261
-#EXTINF:-1,Rai Movie HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40260
-#EXTINF:-1,Rai News 24
-http://viphdpro.eu:8080/hakanbaba/babahakan/40259
+http://31.220.1.190:8080/raquel/1234/73920
+#EXTINF:-1,Rai MOVIE HD
+http://31.220.1.190:8080/raquel/1234/73921
+#EXTINF:-1,Rai Nettuno
+http://31.220.1.190:8080/raquel/1234/64148
+#EXTINF:-1,Rai News
+http://31.220.1.190:8080/raquel/1234/140030
+#EXTINF:-1,Rai News 24 HD
+http://31.220.1.190:8080/raquel/1234/64015
+#EXTINF:-1,Rai Premium HD
+http://31.220.1.190:8080/raquel/1234/73923
+#EXTINF:-1,Rai Scuola HD
+http://31.220.1.190:8080/raquel/1234/64149
+#EXTINF:-1,Rai Sport 1 HD
+http://31.220.1.190:8080/raquel/1234/156411
+#EXTINF:-1,Rai Sport 2 HD
+http://31.220.1.190:8080/raquel/1234/63842
+#EXTINF:-1,Rai Sport HD
+http://31.220.1.190:8080/raquel/1234/114719
+#EXTINF:-1,Rai Sport Plus HD
+http://31.220.1.190:8080/raquel/1234/140334
+#EXTINF:-1,Rai Sport+ HD
+http://31.220.1.190:8080/raquel/1234/62045
+#EXTINF:-1,Rai Storia HD
+http://31.220.1.190:8080/raquel/1234/64150
+#EXTINF:-1,Rai YoYo HD
+http://31.220.1.190:8080/raquel/1234/73924
+#EXTINF:-1,RDS Social TV
+http://31.220.1.190:8080/raquel/1234/145001
+#EXTINF:-1,Real Time FHD
+http://31.220.1.190:8080/raquel/1234/64034
 #EXTINF:-1,Rete 4 HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40258
-#EXTINF:-1,Roma Tv
-http://viphdpro.eu:8080/hakanbaba/babahakan/40257
+http://31.220.1.190:8080/raquel/1234/62042
+#EXTINF:-1,Rete 79
+http://31.220.1.190:8080/raquel/1234/145002
+#EXTINF:-1,Rete Biella TV
+http://31.220.1.190:8080/raquel/1234/63975
+#EXTINF:-1,Rete Sport
+http://31.220.1.190:8080/raquel/1234/136046
+#EXTINF:-1,Reteconomy
+http://31.220.1.190:8080/raquel/1234/136080
+#EXTINF:-1,ReteSole Lazio
+http://31.220.1.190:8080/raquel/1234/63971
+#EXTINF:-1,ReteSole Umbria
+http://31.220.1.190:8080/raquel/1234/63970
+#EXTINF:-1,ROMA CHANNEL
+http://31.220.1.190:8080/raquel/1234/63845
+#EXTINF:-1,Roma TV test
+http://31.220.1.190:8080/raquel/1234/159428
+#EXTINF:-1,Rossini TV
+http://31.220.1.190:8080/raquel/1234/126230
+#EXTINF:-1,RSI 1 HD
+http://31.220.1.190:8080/raquel/1234/129976
+#EXTINF:-1,RSI 2 HD
+http://31.220.1.190:8080/raquel/1234/120931
 #EXTINF:-1,RSI LA 1 HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40268
+http://31.220.1.190:8080/raquel/1234/73932
 #EXTINF:-1,RSI LA 2 HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40267
-#EXTINF:-1,Sky Arte Full HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40256
-#EXTINF:-1,Sky Atlantic  1 HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40255
-#EXTINF:-1,Sky Atlantic HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40254
-#EXTINF:-1,Sky Cinema  24 HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40253
-#EXTINF:-1,Sky Cinema Classic HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40252
-#EXTINF:-1,Sky Cinema Cult HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40251
-#EXTINF:-1,Sky Cinema Family  1 HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40250
-#EXTINF:-1,Sky Cinema Hits HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40249
-#EXTINF:-1,Sky Cinema Max  1 HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40248
-#EXTINF:-1,Sky Cinema Uno 1 HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40247
-#EXTINF:-1,Sky Cinema Uno HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40246
-#EXTINF:-1,Sky Sport Arena HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40245
-#EXTINF:-1,Sky Sport Diretta 1
-http://viphdpro.eu:8080/hakanbaba/babahakan/40244
-#EXTINF:-1,Sky Sport Diretta 2
-http://viphdpro.eu:8080/hakanbaba/babahakan/40243
-#EXTINF:-1,Sky Sport Diretta 3
-http://viphdpro.eu:8080/hakanbaba/babahakan/40242
-#EXTINF:-1,Sky Sport Diretta 4
-http://viphdpro.eu:8080/hakanbaba/babahakan/40241
-#EXTINF:-1,Sky Sport Diretta 5
-http://viphdpro.eu:8080/hakanbaba/babahakan/40240
-#EXTINF:-1,Sky Sport Diretta 6
-http://viphdpro.eu:8080/hakanbaba/babahakan/40239
-#EXTINF:-1,Sky Sport Diretta 7
-http://viphdpro.eu:8080/hakanbaba/babahakan/40238
-#EXTINF:-1,Sky Sport Diretta 8
-http://viphdpro.eu:8080/hakanbaba/babahakan/40237
-#EXTINF:-1,Sky Sport Football HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40236
-#EXTINF:-1,Sky Sport Golf HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40235
-#EXTINF:-1,Sky Sport Moto GP HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40234
-#EXTINF:-1,Sky Sport NBA HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40233
-#EXTINF:-1,Sky Sport Serie A HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40232
-#EXTINF:-1,Sky Sport Uno HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40231
-#EXTINF:-1,Sky Uno  1 HD
-http://viphdpro.eu:8080/hakanbaba/babahakan/40230
-#EXTINF:-1,Super
-http://viphdpro.eu:8080/hakanbaba/babahakan/40229
-#EXTINF:-1,TG Com 24
-http://viphdpro.eu:8080/hakanbaba/babahakan/40228
-#EXTINF:-1,Tg Norba 24
-http://viphdpro.eu:8080/hakanbaba/babahakan/40226
-#EXTINF:-1,Torino Channel
-http://viphdpro.eu:8080/hakanbaba/babahakan/40225
-#EXTINF:-1,TV8
-http://viphdpro.eu:8080/hakanbaba/babahakan/40227
+http://31.220.1.190:8080/raquel/1234/73931
+#EXTINF:-1,RTC Calabria Channel
+http://31.220.1.190:8080/raquel/1234/145005
+#EXTINF:-1,RTL 102.5
+http://31.220.1.190:8080/raquel/1234/91231
+#EXTINF:-1,RTTR TV Trento
+http://31.220.1.190:8080/raquel/1234/145006
+#EXTINF:-1,RTV 105
+http://31.220.1.190:8080/raquel/1234/63875
+#EXTINF:-1,RTV Reggio
+http://31.220.1.190:8080/raquel/1234/145007
+#EXTINF:-1,RTV San Marino
+http://31.220.1.190:8080/raquel/1234/145008
+#EXTINF:-1,Rtv San Marino Sport
+http://31.220.1.190:8080/raquel/1234/128209
+#EXTINF:-1,RTV Sport
+http://31.220.1.190:8080/raquel/1234/145009
+#EXTINF:-1,San Marino Rtv Sport
+http://31.220.1.190:8080/raquel/1234/135946
+#EXTINF:-1,Sardegna Uno TV
+http://31.220.1.190:8080/raquel/1234/64003
+#EXTINF:-1,Senato TV
+http://31.220.1.190:8080/raquel/1234/145011
+#EXTINF:-1,Sicilia Media Tv
+http://31.220.1.190:8080/raquel/1234/128216
+#EXTINF:-1,Studio 100
+http://31.220.1.190:8080/raquel/1234/63942
+#EXTINF:-1,Studio 100 Puglia
+http://31.220.1.190:8080/raquel/1234/145014
+#EXTINF:-1,Studio Universal HD
+http://31.220.1.190:8080/raquel/1234/130001
+#EXTINF:-1,SUPER CALCIO HD
+http://31.220.1.190:8080/raquel/1234/86484
+#EXTINF:-1,Super J
+http://31.220.1.190:8080/raquel/1234/145015
+#EXTINF:-1,Super Tennis HD
+http://31.220.1.190:8080/raquel/1234/62023
+#EXTINF:-1,Super!
+http://31.220.1.190:8080/raquel/1234/63913
+#EXTINF:-1,TCF Messina
+http://31.220.1.190:8080/raquel/1234/145016
+#EXTINF:-1,TcsTV
+http://31.220.1.190:8080/raquel/1234/63978
+#EXTINF:-1,Tele Arena Siena
+http://31.220.1.190:8080/raquel/1234/64006
+#EXTINF:-1,Tele Boario
+http://31.220.1.190:8080/raquel/1234/63979
+#EXTINF:-1,Tele Chiara
+http://31.220.1.190:8080/raquel/1234/63965
+#EXTINF:-1,Tele Dehon TV
+http://31.220.1.190:8080/raquel/1234/63986
+#EXTINF:-1,TELE MONTE NEVE
+http://31.220.1.190:8080/raquel/1234/63929
+#EXTINF:-1,TELE MONTE NEVE 3
+http://31.220.1.190:8080/raquel/1234/63900
+#EXTINF:-1,Tele Musica
+http://31.220.1.190:8080/raquel/1234/155952
+#EXTINF:-1,Tele Padova Telecitt
+http://31.220.1.190:8080/raquel/1234/63982
+#EXTINF:-1,Tele Radio Sciacca
+http://31.220.1.190:8080/raquel/1234/63990
+#EXTINF:-1,Tele Sondrio News
+http://31.220.1.190:8080/raquel/1234/140051
+#EXTINF:-1,Tele Ticino HD
+http://31.220.1.190:8080/raquel/1234/63991
+#EXTINF:-1,Tele Video Agrigento
+http://31.220.1.190:8080/raquel/1234/63984
+#EXTINF:-1,Teleabruzzo
+http://31.220.1.190:8080/raquel/1234/145019
+#EXTINF:-1,Teleliguria Sud
+http://31.220.1.190:8080/raquel/1234/63906
+#EXTINF:-1,Telemantova
+http://31.220.1.190:8080/raquel/1234/145030
+#EXTINF:-1,TeleMIa
+http://31.220.1.190:8080/raquel/1234/63928
+#EXTINF:-1,TeleNorba TV
+http://31.220.1.190:8080/raquel/1234/64002
+#EXTINF:-1,TelePace TV
+http://31.220.1.190:8080/raquel/1234/63988
+#EXTINF:-1,TeleRoma 56 Lazio
+http://31.220.1.190:8080/raquel/1234/63896
+#EXTINF:-1,Teleromagna
+http://31.220.1.190:8080/raquel/1234/63940
+#EXTINF:-1,Teleromagna News
+http://31.220.1.190:8080/raquel/1234/63931
+#EXTINF:-1,TeleSondrio Livigno
+http://31.220.1.190:8080/raquel/1234/63930
+#EXTINF:-1,Televaldarno RTV38
+http://31.220.1.190:8080/raquel/1234/63894
+#EXTINF:-1,TeleVenezia
+http://31.220.1.190:8080/raquel/1234/63992
+#EXTINF:-1,Tg 24 Norba
+http://31.220.1.190:8080/raquel/1234/159430
+#EXTINF:-1,TG com 24 HD
+http://31.220.1.190:8080/raquel/1234/114118
+#EXTINF:-1,TG Com 24 Premium
+http://31.220.1.190:8080/raquel/1234/64011
+#EXTINF:-1,TG Norba 24
+http://31.220.1.190:8080/raquel/1234/64012
+#EXTINF:-1,TG24
+http://31.220.1.190:8080/raquel/1234/102233
+#EXTINF:-1,Top Crime HD
+http://31.220.1.190:8080/raquel/1234/73970
+#EXTINF:-1,TOP Crime Mediaset
+http://31.220.1.190:8080/raquel/1234/64090
+#EXTINF:-1,Top Music TV
+http://31.220.1.190:8080/raquel/1234/155946
+#EXTINF:-1,Torino
+http://31.220.1.190:8080/raquel/1234/175357
+#EXTINF:-1,Trentino TV
+http://31.220.1.190:8080/raquel/1234/63994
+#EXTINF:-1,TRM TV
+http://31.220.1.190:8080/raquel/1234/63995
+#EXTINF:-1,TSN Livigno
+http://31.220.1.190:8080/raquel/1234/140041
+#EXTINF:-1,TV 8
+http://31.220.1.190:8080/raquel/1234/89408
+#EXTINF:-1,TV 2000
+http://31.220.1.190:8080/raquel/1234/155935
+#EXTINF:-1,TV Avicenza
+http://31.220.1.190:8080/raquel/1234/63996
+#EXTINF:-1,TV Luna TV
+http://31.220.1.190:8080/raquel/1234/63997
+#EXTINF:-1,TVRS HD
+http://31.220.1.190:8080/raquel/1234/63938
+#EXTINF:-1,Umbria TV
+http://31.220.1.190:8080/raquel/1234/63881
+#EXTINF:-1,Venere Tv 2
+http://31.220.1.190:8080/raquel/1234/155947
+#EXTINF:-1,Vera TV
+http://31.220.1.190:8080/raquel/1234/63998
+#EXTINF:-1,Vetrina Primafila
+http://31.220.1.190:8080/raquel/1234/94124
+#EXTINF:-1,Video Brescia
+http://31.220.1.190:8080/raquel/1234/63939
+#EXTINF:-1,Video Calabria
+http://31.220.1.190:8080/raquel/1234/64005
+#EXTINF:-1,Virgin Radio
+http://31.220.1.190:8080/raquel/1234/175310
+#EXTINF:-1,Visual Radio
+http://31.220.1.190:8080/raquel/1234/155948
+#EXTINF:-1,Wrestling WWE
+http://31.220.1.190:8080/raquel/1234/130884
