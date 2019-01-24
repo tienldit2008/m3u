@@ -1,823 +1,239 @@
 #EXTM3U
-#EXTINF:-1,&TV HD
-http://31.220.1.190:8080/raquel/1234/87030
-#EXTINF:-1,4 MUSIC HD
-http://31.220.1.190:8080/raquel/1234/128397
-#EXTINF:-1,5
-http://31.220.1.190:8080/raquel/1234/134144
-#EXTINF:-1,5 SELECT HD
-http://31.220.1.190:8080/raquel/1234/86300
-#EXTINF:-1,5 Spike +1 HD
-http://31.220.1.190:8080/raquel/1234/75684
-#EXTINF:-1,5 Spike 1
-http://31.220.1.190:8080/raquel/1234/154624
-#EXTINF:-1,5 Spike HD
-http://31.220.1.190:8080/raquel/1234/75683
-#EXTINF:-1,5 Star
-http://31.220.1.190:8080/raquel/1234/175398
-#EXTINF:-1,5 STAR +1
-http://31.220.1.190:8080/raquel/1234/104359
-#EXTINF:-1,5 USA +1 HD
-http://31.220.1.190:8080/raquel/1234/74729
-#EXTINF:-1,5 USA HD
-http://31.220.1.190:8080/raquel/1234/65046
-#EXTINF:-1,3E HD
-http://31.220.1.190:8080/raquel/1234/65175
-#EXTINF:-1,4Seven HD
-http://31.220.1.190:8080/raquel/1234/74572
-#EXTINF:-1,92 NEWS
-http://31.220.1.190:8080/raquel/1234/133394
-#EXTINF:-1,AASHTA UK
-http://31.220.1.190:8080/raquel/1234/133395
-#EXTINF:-1,ABC
-http://31.220.1.190:8080/raquel/1234/114869
-#EXTINF:-1,ABC News HD
-http://31.220.1.190:8080/raquel/1234/96992
-#EXTINF:-1,ABN TV
-http://31.220.1.190:8080/raquel/1234/133396
-#EXTINF:-1,ABP NEWS
-http://31.220.1.190:8080/raquel/1234/91433
-#EXTINF:-1,AKAAL CHANNEL HD
-http://31.220.1.190:8080/raquel/1234/133398
-#EXTINF:-1,AL JAZEERA ENG HD
-http://31.220.1.190:8080/raquel/1234/131454
-#EXTINF:-1,AL JAZEERA NEWS ENGLISH HD
-http://31.220.1.190:8080/raquel/1234/147150
-#EXTINF:-1,Al Jazeera News HD
-http://31.220.1.190:8080/raquel/1234/91389
-#EXTINF:-1,Alibi
-http://31.220.1.190:8080/raquel/1234/137150
-#EXTINF:-1,Alibi Back Up
-http://31.220.1.190:8080/raquel/1234/153947
-#EXTINF:-1,AlJazeera
-http://31.220.1.190:8080/raquel/1234/131284
-#EXTINF:-1,AMC FHD
-http://31.220.1.190:8080/raquel/1234/63034
-#EXTINF:-1,Animal Planet FHD
-http://31.220.1.190:8080/raquel/1234/65023
-#EXTINF:-1,Aplus TV
-http://31.220.1.190:8080/raquel/1234/137242
-#EXTINF:-1,Arsenal FC Tv
-http://31.220.1.190:8080/raquel/1234/138635
-#EXTINF:-1,AT THE RACES HD
-http://31.220.1.190:8080/raquel/1234/137216
-#EXTINF:-1,At The Races UK
-http://31.220.1.190:8080/raquel/1234/156155
-#EXTINF:-1,ATN Bangla
-http://31.220.1.190:8080/raquel/1234/153878
-#EXTINF:-1,B4U Movies
-http://31.220.1.190:8080/raquel/1234/139556
-#EXTINF:-1,B4U MUSIC
-http://31.220.1.190:8080/raquel/1234/133399
-#EXTINF:-1,B4U PLUS
-http://31.220.1.190:8080/raquel/1234/147149
-#EXTINF:-1,Baby TV HD
-http://31.220.1.190:8080/raquel/1234/65125
-#EXTINF:-1,BANGLA
-http://31.220.1.190:8080/raquel/1234/159479
-#EXTINF:-1,BBC 1 FHD
-http://31.220.1.190:8080/raquel/1234/86279
-#EXTINF:-1,BBC 1 London HD
-http://31.220.1.190:8080/raquel/1234/128387
-#EXTINF:-1,BBC 1 Northern Ireland
-http://31.220.1.190:8080/raquel/1234/137157
-#EXTINF:-1,BBC 1 Scotland
-http://31.220.1.190:8080/raquel/1234/137158
-#EXTINF:-1,BBC 1 Wales
-http://31.220.1.190:8080/raquel/1234/137159
-#EXTINF:-1,BBC 2 FHD
-http://31.220.1.190:8080/raquel/1234/74074
-#EXTINF:-1,BBC 2 NI
-http://31.220.1.190:8080/raquel/1234/153952
-#EXTINF:-1,BBC 2 Scotland
-http://31.220.1.190:8080/raquel/1234/137154
-#EXTINF:-1,BBC 3 HD
-http://31.220.1.190:8080/raquel/1234/65184
-#EXTINF:-1,BBC 4 HD
-http://31.220.1.190:8080/raquel/1234/65182
-#EXTINF:-1,BBC Alba HD
-http://31.220.1.190:8080/raquel/1234/74735
-#EXTINF:-1,BBC Entertainment HD
-http://31.220.1.190:8080/raquel/1234/86281
-#EXTINF:-1,BBC News HD
-http://31.220.1.190:8080/raquel/1234/65183
-#EXTINF:-1,BBC Parliament HD
-http://31.220.1.190:8080/raquel/1234/74734
-#EXTINF:-1,BBC World News HD
-http://31.220.1.190:8080/raquel/1234/74563
-#EXTINF:-1,BEN
-http://31.220.1.190:8080/raquel/1234/75742
-#EXTINF:-1,Best Direct
-http://31.220.1.190:8080/raquel/1234/139647
-#EXTINF:-1,BET HD
-http://31.220.1.190:8080/raquel/1234/74589
-#EXTINF:-1,Betfred TV
-http://31.220.1.190:8080/raquel/1234/120679
-#EXTINF:-1,Bike Channel
-http://31.220.1.190:8080/raquel/1234/99064
-#EXTINF:-1,Blaze HD
-http://31.220.1.190:8080/raquel/1234/75740
-#EXTINF:-1,Bloomberg HD
-http://31.220.1.190:8080/raquel/1234/74743
-#EXTINF:-1,BOOMERANG HD
-http://31.220.1.190:8080/raquel/1234/102149
-#EXTINF:-1,CAPITAL TV HD
-http://31.220.1.190:8080/raquel/1234/65061
-#EXTINF:-1,Cartoon Network +1
-http://31.220.1.190:8080/raquel/1234/104362
-#EXTINF:-1,Cartoon Network HD
-http://31.220.1.190:8080/raquel/1234/74786
-#EXTINF:-1,Cartoonito
-http://31.220.1.190:8080/raquel/1234/104282
-#EXTINF:-1,CBBC HD
-http://31.220.1.190:8080/raquel/1234/74569
-#EXTINF:-1,CBBC Three HD
-http://31.220.1.190:8080/raquel/1234/131783
-#EXTINF:-1,CBeebies HD
-http://31.220.1.190:8080/raquel/1234/137254
-#EXTINF:-1,CBS Action
-http://31.220.1.190:8080/raquel/1234/155441
-#EXTINF:-1,CBS Drama
-http://31.220.1.190:8080/raquel/1234/155440
-#EXTINF:-1,CBS Reality
-http://31.220.1.190:8080/raquel/1234/150861
-#EXTINF:-1,Celtic TV (Live On Matchday)
-http://31.220.1.190:8080/raquel/1234/149014
-#EXTINF:-1,CGTN
-http://31.220.1.190:8080/raquel/1234/131290
-#EXTINF:-1,CGTN Documentary
-http://31.220.1.190:8080/raquel/1234/137270
-#EXTINF:-1,CGTN News
-http://31.220.1.190:8080/raquel/1234/137283
-#EXTINF:-1,Challange
-http://31.220.1.190:8080/raquel/1234/175410
-#EXTINF:-1,Challenge +1
-http://31.220.1.190:8080/raquel/1234/104363
-#EXTINF:-1,Challenge HD
-http://31.220.1.190:8080/raquel/1234/74722
-#EXTINF:-1,Channel 4 +1 HD
-http://31.220.1.190:8080/raquel/1234/75731
-#EXTINF:-1,Channel 4 Back Up
-http://31.220.1.190:8080/raquel/1234/153957
-#EXTINF:-1,Channel 4 FHD
-http://31.220.1.190:8080/raquel/1234/74789
-#EXTINF:-1,Channel 5 +1
-http://31.220.1.190:8080/raquel/1234/104365
-#EXTINF:-1,Channel 5 1
-http://31.220.1.190:8080/raquel/1234/153988
-#EXTINF:-1,Channel 5 Back Up
-http://31.220.1.190:8080/raquel/1234/153958
-#EXTINF:-1,Channel 5 HD
-http://31.220.1.190:8080/raquel/1234/74790
-#EXTINF:-1,Channel 5 Star
-http://31.220.1.190:8080/raquel/1234/156143
-#EXTINF:-1,Channel 5 USA
-http://31.220.1.190:8080/raquel/1234/156142
-#EXTINF:-1,Channel AKA
-http://31.220.1.190:8080/raquel/1234/154650
-#EXTINF:-1,Chart Show TV HD
-http://31.220.1.190:8080/raquel/1234/65054
-#EXTINF:-1,Chartshow Hits
-http://31.220.1.190:8080/raquel/1234/154651
-#EXTINF:-1,Chelsea FC
-http://31.220.1.190:8080/raquel/1234/156190
-#EXTINF:-1,CHELSEA TV HD
-http://31.220.1.190:8080/raquel/1234/104880
-#EXTINF:-1,China History Channel HD
-http://31.220.1.190:8080/raquel/1234/65035
-#EXTINF:-1,CITV HD
-http://31.220.1.190:8080/raquel/1234/74590
-#EXTINF:-1,Club MTV
-http://31.220.1.190:8080/raquel/1234/139650
-#EXTINF:-1,Clubland TV
-http://31.220.1.190:8080/raquel/1234/139572
-#EXTINF:-1,CNBC
-http://31.220.1.190:8080/raquel/1234/104258
-#EXTINF:-1,CNBC Europe
-http://31.220.1.190:8080/raquel/1234/137284
-#EXTINF:-1,CNN
-http://31.220.1.190:8080/raquel/1234/159466
-#EXTINF:-1,CNN INTER
-http://31.220.1.190:8080/raquel/1234/156144
-#EXTINF:-1,COLORS FHD
-http://31.220.1.190:8080/raquel/1234/102155
-#EXTINF:-1,Comedy Cent 1
-http://31.220.1.190:8080/raquel/1234/153989
+#EXTINF:-1,4 SEVEN
+http://wildsides.xyz:2086/1604/1604/37624
+#EXTINF:-1,5 SPIKE
+http://wildsides.xyz:2086/1604/1604/43161
+#EXTINF:-1,5 STAR
+http://wildsides.xyz:2086/1604/1604/5053
+#EXTINF:-1,5 USA
+http://wildsides.xyz:2086/1604/1604/10033
+#EXTINF:-1,ALIBI
+http://wildsides.xyz:2086/1604/1604/5091
+#EXTINF:-1,AMC
+http://wildsides.xyz:2086/1604/1604/37610
+#EXTINF:-1,ANIMAL PLANET
+http://wildsides.xyz:2086/1604/1604/43205
+#EXTINF:-1,AT THE RACES
+http://wildsides.xyz:2086/1604/1604/755
+#EXTINF:-1,BABY TV
+http://wildsides.xyz:2086/1604/1604/43204
+#EXTINF:-1,BBC 1
+http://wildsides.xyz:2086/1604/1604/171
+#EXTINF:-1,BBC 2
+http://wildsides.xyz:2086/1604/1604/5146
+#EXTINF:-1,BBC 3
+http://wildsides.xyz:2086/1604/1604/37619
+#EXTINF:-1,BBC 4
+http://wildsides.xyz:2086/1604/1604/37615
+#EXTINF:-1,BBC FOUR
+http://wildsides.xyz:2086/1604/1604/5144
+#EXTINF:-1,BBC NEWS
+http://wildsides.xyz:2086/1604/1604/747
+#EXTINF:-1,BBC PARLIAMENT
+http://wildsides.xyz:2086/1604/1604/43202
+#EXTINF:-1,BBC TWO SCOTLAND
+http://wildsides.xyz:2086/1604/1604/43200
+#EXTINF:-1,BET
+http://wildsides.xyz:2086/1604/1604/5054
+#EXTINF:-1,BLOOMBERG
+http://wildsides.xyz:2086/1604/1604/272
+#EXTINF:-1,BOOMERANG
+http://wildsides.xyz:2086/1604/1604/1298
+#EXTINF:-1,BOX NATION ʜᴅ
+http://wildsides.xyz:2086/1604/1604/1039
+#EXTINF:-1,BOXNATION ʜᴅ
+http://wildsides.xyz:2086/1604/1604/27638
+#EXTINF:-1,BRAVO
+http://wildsides.xyz:2086/1604/1604/43198
+#EXTINF:-1,BRITISH EUROSPORT 1 ʜᴅ
+http://wildsides.xyz:2086/1604/1604/107
+#EXTINF:-1,BRITISH EUROSPORT 2 ʜᴅ
+http://wildsides.xyz:2086/1604/1604/108
+#EXTINF:-1,BT SPORT 1 ʜᴅ
+http://wildsides.xyz:2086/1604/1604/27637
+#EXTINF:-1,BT SPORT 2 ʜᴅ
+http://wildsides.xyz:2086/1604/1604/27636
+#EXTINF:-1,BT SPORT 3 ʜᴅ
+http://wildsides.xyz:2086/1604/1604/27635
+#EXTINF:-1,BT SPORT ESPN ʜᴅ
+http://wildsides.xyz:2086/1604/1604/27634
+#EXTINF:-1,CARTOONITO
+http://wildsides.xyz:2086/1604/1604/43196
+#EXTINF:-1,CBBC
+http://wildsides.xyz:2086/1604/1604/5145
+#EXTINF:-1,CBEEBIES
+http://wildsides.xyz:2086/1604/1604/43195
+#EXTINF:-1,CBS ACTION
+http://wildsides.xyz:2086/1604/1604/5131
+#EXTINF:-1,CBS DRAMA
+http://wildsides.xyz:2086/1604/1604/5132
+#EXTINF:-1,CBS REALITY
+http://wildsides.xyz:2086/1604/1604/43194
+#EXTINF:-1,CHALLENGE
+http://wildsides.xyz:2086/1604/1604/5057
+#EXTINF:-1,CHANNEL 4
+http://wildsides.xyz:2086/1604/1604/37863
+#EXTINF:-1,CHANNEL 5
+http://wildsides.xyz:2086/1604/1604/43157
+#EXTINF:-1,CITV
+http://wildsides.xyz:2086/1604/1604/761
+#EXTINF:-1,COMEDY CENTRAL
+http://wildsides.xyz:2086/1604/1604/934
 #EXTINF:-1,COMEDY CENTRAL EXTRA
-http://31.220.1.190:8080/raquel/1234/159469
-#EXTINF:-1,Comedy Central HD
-http://31.220.1.190:8080/raquel/1234/65160
-#EXTINF:-1,COMEDY CENTRAL XTRA
-http://31.220.1.190:8080/raquel/1234/104419
-#EXTINF:-1,Comedy Xtra
-http://31.220.1.190:8080/raquel/1234/104273
-#EXTINF:-1,Comedy Xtra 1
-http://31.220.1.190:8080/raquel/1234/153990
-#EXTINF:-1,Coral TV
-http://31.220.1.190:8080/raquel/1234/104420
-#EXTINF:-1,Coral TV 1
-http://31.220.1.190:8080/raquel/1234/120680
-#EXTINF:-1,Coral TV 2
-http://31.220.1.190:8080/raquel/1234/120681
-#EXTINF:-1,Craft Extra
-http://31.220.1.190:8080/raquel/1234/139651
-#EXTINF:-1,Create And Craft
-http://31.220.1.190:8080/raquel/1234/139652
-#EXTINF:-1,CRIME & INVESTIGATION HD
-http://31.220.1.190:8080/raquel/1234/155293
-#EXTINF:-1,Crime and Investigation
-http://31.220.1.190:8080/raquel/1234/99072
-#EXTINF:-1,Crime Inv
-http://31.220.1.190:8080/raquel/1234/153722
-#EXTINF:-1,Crime Investigation Back Up
-http://31.220.1.190:8080/raquel/1234/153925
-#EXTINF:-1,Crime Investigation FHD UK
-http://31.220.1.190:8080/raquel/1234/143851
-#EXTINF:-1,Cruise1st.tv
-http://31.220.1.190:8080/raquel/1234/139653
-#EXTINF:-1,Dave Back Up
-http://31.220.1.190:8080/raquel/1234/153960
-#EXTINF:-1,Dave HD
-http://31.220.1.190:8080/raquel/1234/92585
-#EXTINF:-1,DAVE JA VU
-http://31.220.1.190:8080/raquel/1234/105181
-#EXTINF:-1,DDrama
-http://31.220.1.190:8080/raquel/1234/74796
-#EXTINF:-1,Disc History
-http://31.220.1.190:8080/raquel/1234/153723
-#EXTINF:-1,Disc. History 1
-http://31.220.1.190:8080/raquel/1234/153928
-#EXTINF:-1,DISCOVERY Back up
-http://31.220.1.190:8080/raquel/1234/153926
+http://wildsides.xyz:2086/1604/1604/37611
+#EXTINF:-1,COMEDY CENTRAL XTRA +1 ʜᴅ
+http://wildsides.xyz:2086/1604/1604/30645
+#EXTINF:-1,CRIME INVESTIGATION
+http://wildsides.xyz:2086/1604/1604/5063
+#EXTINF:-1,DAVE
+http://wildsides.xyz:2086/1604/1604/37606
 #EXTINF:-1,DISCOVERY CHANNEL
-http://31.220.1.190:8080/raquel/1234/102159
-#EXTINF:-1,Discovery History
-http://31.220.1.190:8080/raquel/1234/92587
-#EXTINF:-1,DISCOVERY HOME HEALTH
-http://31.220.1.190:8080/raquel/1234/159471
-#EXTINF:-1,Discovery ID HD
-http://31.220.1.190:8080/raquel/1234/65102
-#EXTINF:-1,Discovery Investigation HD
-http://31.220.1.190:8080/raquel/1234/108642
-#EXTINF:-1,Discovery Science
-http://31.220.1.190:8080/raquel/1234/92588
-#EXTINF:-1,Discovery Science 1
-http://31.220.1.190:8080/raquel/1234/153930
-#EXTINF:-1,Discovery Science Back up
-http://31.220.1.190:8080/raquel/1234/153929
-#EXTINF:-1,Discovery Shed HD
-http://31.220.1.190:8080/raquel/1234/74794
-#EXTINF:-1,Discovery Shed UK
-http://31.220.1.190:8080/raquel/1234/153931
-#EXTINF:-1,DISCOVERY TURBO HD
-http://31.220.1.190:8080/raquel/1234/137265
-#EXTINF:-1,Disney Channel 1
-http://31.220.1.190:8080/raquel/1234/153885
-#EXTINF:-1,Disney Channel HD
-http://31.220.1.190:8080/raquel/1234/74594
-#EXTINF:-1,Disney Junior HD
-http://31.220.1.190:8080/raquel/1234/65133
-#EXTINF:-1,Disney Junior XD
-http://31.220.1.190:8080/raquel/1234/140369
-#EXTINF:-1,Disney Movies
-http://31.220.1.190:8080/raquel/1234/99076
-#EXTINF:-1,Disney XD 1
-http://31.220.1.190:8080/raquel/1234/154663
-#EXTINF:-1,Disney XD HD
-http://31.220.1.190:8080/raquel/1234/65134
-#EXTINF:-1,DMAX HD
-http://31.220.1.190:8080/raquel/1234/74573
-#EXTINF:-1,Docubox HD
-http://31.220.1.190:8080/raquel/1234/99931
-#EXTINF:-1,Drama
-http://31.220.1.190:8080/raquel/1234/104278
-#EXTINF:-1,DUNYA NEWS
-http://31.220.1.190:8080/raquel/1234/91417
-#EXTINF:-1,DW
-http://31.220.1.190:8080/raquel/1234/65105
-#EXTINF:-1,E! Back Up
-http://31.220.1.190:8080/raquel/1234/153962
-#EXTINF:-1,E! Entertainment
-http://31.220.1.190:8080/raquel/1234/65174
-#EXTINF:-1,E!ntertainment
-http://31.220.1.190:8080/raquel/1234/154608
-#EXTINF:-1,E4 +1
-http://31.220.1.190:8080/raquel/1234/75722
-#EXTINF:-1,E4 FHD
-http://31.220.1.190:8080/raquel/1234/74576
-#EXTINF:-1,Eden Back Up
-http://31.220.1.190:8080/raquel/1234/153935
-#EXTINF:-1,Eden HD
-http://31.220.1.190:8080/raquel/1234/74577
-#EXTINF:-1,eir Sport 1 NEW
-http://31.220.1.190:8080/raquel/1234/159550
-#EXTINF:-1,Eir Sport 2
-http://31.220.1.190:8080/raquel/1234/175416
-#EXTINF:-1,eir Sport 2 NEW
-http://31.220.1.190:8080/raquel/1234/159551
-#EXTINF:-1,Eleven Sports (La Liga)
-http://31.220.1.190:8080/raquel/1234/154586
-#EXTINF:-1,Eleven Sports 1 FHD
-http://31.220.1.190:8080/raquel/1234/137211
-#EXTINF:-1,Eleven Sports 2 FHD
-http://31.220.1.190:8080/raquel/1234/137212
-#EXTINF:-1,Eleven Sports Liga FHD
-http://31.220.1.190:8080/raquel/1234/137213
-#EXTINF:-1,Eman Channel
-http://31.220.1.190:8080/raquel/1234/139580
-#EXTINF:-1,ESPN
-http://31.220.1.190:8080/raquel/1234/99082
-#EXTINF:-1,ESPN NEWS
-http://31.220.1.190:8080/raquel/1234/62222
-#EXTINF:-1,Euronews HD
-http://31.220.1.190:8080/raquel/1234/74609
-#EXTINF:-1,EuroSport 1 HD
-http://31.220.1.190:8080/raquel/1234/93242
-#EXTINF:-1,EWTN
-http://31.220.1.190:8080/raquel/1234/96999
-#EXTINF:-1,EWTN Catholic
-http://31.220.1.190:8080/raquel/1234/139654
-#EXTINF:-1,Faith World TV
-http://31.220.1.190:8080/raquel/1234/139655
-#EXTINF:-1,Fame TV
-http://31.220.1.190:8080/raquel/1234/139656
-#EXTINF:-1,Fast & Fun Box Hits
-http://31.220.1.190:8080/raquel/1234/99086
-#EXTINF:-1,Fightbox HD
-http://31.220.1.190:8080/raquel/1234/99955
-#EXTINF:-1,Film 4 +1
-http://31.220.1.190:8080/raquel/1234/75673
-#EXTINF:-1,Film 4 Back Up
-http://31.220.1.190:8080/raquel/1234/153917
-#EXTINF:-1,Film 4 FHD
-http://31.220.1.190:8080/raquel/1234/74759
-#EXTINF:-1,Fine Living Network
-http://31.220.1.190:8080/raquel/1234/86312
-#EXTINF:-1,Five
-http://31.220.1.190:8080/raquel/1234/99088
-#EXTINF:-1,Food
-http://31.220.1.190:8080/raquel/1234/75720
-#EXTINF:-1,Food Network
-http://31.220.1.190:8080/raquel/1234/137172
-#EXTINF:-1,Food Network US
-http://31.220.1.190:8080/raquel/1234/104888
-#EXTINF:-1,Food Netwrk +1
-http://31.220.1.190:8080/raquel/1234/104371
-#EXTINF:-1,Forces TV
-http://31.220.1.190:8080/raquel/1234/75759
+http://wildsides.xyz:2086/1604/1604/5104
+#EXTINF:-1,DISCOVERY HISTORY
+http://wildsides.xyz:2086/1604/1604/5103
+#EXTINF:-1,DISCOVERY HOME & HEALTH
+http://wildsides.xyz:2086/1604/1604/43210
+#EXTINF:-1,DISCOVERY SCIENCE
+http://wildsides.xyz:2086/1604/1604/5101
+#EXTINF:-1,DISCOVERY SHED
+http://wildsides.xyz:2086/1604/1604/5102
+#EXTINF:-1,DISCOVERY TURBO
+http://wildsides.xyz:2086/1604/1604/43191
+#EXTINF:-1,DISNEY CHANNEL
+http://wildsides.xyz:2086/1604/1604/5071
+#EXTINF:-1,DISNEY JUNIOR
+http://wildsides.xyz:2086/1604/1604/5070
+#EXTINF:-1,DISNEY XD
+http://wildsides.xyz:2086/1604/1604/5069
+#EXTINF:-1,DISNEY XD +1 ʜᴅ
+http://wildsides.xyz:2086/1604/1604/30646
+#EXTINF:-1,DMAX
+http://wildsides.xyz:2086/1604/1604/43189
+#EXTINF:-1,DRAMA
+http://wildsides.xyz:2086/1604/1604/5060
+#EXTINF:-1,E!
+http://wildsides.xyz:2086/1604/1604/5059
+#EXTINF:-1,E4
+http://wildsides.xyz:2086/1604/1604/43188
+#EXTINF:-1,EDEN
+http://wildsides.xyz:2086/1604/1604/37607
+#EXTINF:-1,EUROSPORT 1 ʜᴅ
+http://wildsides.xyz:2086/1604/1604/27632
+#EXTINF:-1,EUROSPORT 2 ʜᴅ
+http://wildsides.xyz:2086/1604/1604/27631
+#EXTINF:-1,FILM 4
+http://wildsides.xyz:2086/1604/1604/43187
+#EXTINF:-1,FOOD NETWORK
+http://wildsides.xyz:2086/1604/1604/5089
 #EXTINF:-1,FOX
-http://31.220.1.190:8080/raquel/1234/137173
-#EXTINF:-1,Fox News HD
-http://31.220.1.190:8080/raquel/1234/74608
-#EXTINF:-1,France 24 English
-http://31.220.1.190:8080/raquel/1234/74737
-#EXTINF:-1,France 24 HD
-http://31.220.1.190:8080/raquel/1234/139657
-#EXTINF:-1,Free Sports TV
-http://31.220.1.190:8080/raquel/1234/108660
-#EXTINF:-1,Front Runner
-http://31.220.1.190:8080/raquel/1234/104501
-#EXTINF:-1,Gems TV
-http://31.220.1.190:8080/raquel/1234/139658
-#EXTINF:-1,GEO KAHANI HD
-http://31.220.1.190:8080/raquel/1234/133400
-#EXTINF:-1,Geo News
-http://31.220.1.190:8080/raquel/1234/137243
-#EXTINF:-1,GEO NEWS INTERNATIONAL
-http://31.220.1.190:8080/raquel/1234/159482
-#EXTINF:-1,Geo TV
-http://31.220.1.190:8080/raquel/1234/139584
-#EXTINF:-1,Ginxe Sports TV
-http://31.220.1.190:8080/raquel/1234/74685
-#EXTINF:-1,GN TV
-http://31.220.1.190:8080/raquel/1234/139659
-#EXTINF:-1,God Channel
-http://31.220.1.190:8080/raquel/1234/137174
-#EXTINF:-1,GOLD +1
-http://31.220.1.190:8080/raquel/1234/104372
-#EXTINF:-1,Gold Back Up
-http://31.220.1.190:8080/raquel/1234/153965
-#EXTINF:-1,Gold Channel
-http://31.220.1.190:8080/raquel/1234/63548
-#EXTINF:-1,GOOD FOOD HD
-http://31.220.1.190:8080/raquel/1234/65040
-#EXTINF:-1,Gospel Channel
-http://31.220.1.190:8080/raquel/1234/139661
-#EXTINF:-1,H2 FHD
-http://31.220.1.190:8080/raquel/1234/74597
-#EXTINF:-1,HBO Comedy HD
-http://31.220.1.190:8080/raquel/1234/65139
-#EXTINF:-1,HBO HD
-http://31.220.1.190:8080/raquel/1234/91383
-#EXTINF:-1,Heart TV
-http://31.220.1.190:8080/raquel/1234/65060
-#EXTINF:-1,High Street Tv
-http://31.220.1.190:8080/raquel/1234/154619
-#EXTINF:-1,Highstreet TV 1
-http://31.220.1.190:8080/raquel/1234/139662
-#EXTINF:-1,Highstreet TV 2
-http://31.220.1.190:8080/raquel/1234/139663
-#EXTINF:-1,HighStreet TV 4
-http://31.220.1.190:8080/raquel/1234/139664
-#EXTINF:-1,Hillsong
-http://31.220.1.190:8080/raquel/1234/139665
-#EXTINF:-1,History Channel HD
-http://31.220.1.190:8080/raquel/1234/74802
-#EXTINF:-1,Hochanda
-http://31.220.1.190:8080/raquel/1234/139666
-#EXTINF:-1,Home
-http://31.220.1.190:8080/raquel/1234/75717
-#EXTINF:-1,Home & Health
-http://31.220.1.190:8080/raquel/1234/65031
-#EXTINF:-1,Home +1
-http://31.220.1.190:8080/raquel/1234/104304
-#EXTINF:-1,horror ch +1
-http://31.220.1.190:8080/raquel/1234/104374
+http://wildsides.xyz:2086/1604/1604/43186
+#EXTINF:-1,FOX NEWS
+http://wildsides.xyz:2086/1604/1604/5138
+#EXTINF:-1,GOLD
+http://wildsides.xyz:2086/1604/1604/43185
+#EXTINF:-1,GOOD FOOD
+http://wildsides.xyz:2086/1604/1604/5093
+#EXTINF:-1,HISTORY
+http://wildsides.xyz:2086/1604/1604/43184
+#EXTINF:-1,HOME HEALTH
+http://wildsides.xyz:2086/1604/1604/5094
 #EXTINF:-1,HORROR CHANNEL
-http://31.220.1.190:8080/raquel/1234/159485
-#EXTINF:-1,Horror Channel UK
-http://31.220.1.190:8080/raquel/1234/153919
-#EXTINF:-1,Horse & Country
-http://31.220.1.190:8080/raquel/1234/120629
-#EXTINF:-1,HUM
-http://31.220.1.190:8080/raquel/1234/133401
-#EXTINF:-1,HUM EUROPE
-http://31.220.1.190:8080/raquel/1234/74611
-#EXTINF:-1,HUM EUROPE BU
-http://31.220.1.190:8080/raquel/1234/153877
-#EXTINF:-1,HUM Masala
-http://31.220.1.190:8080/raquel/1234/139586
-#EXTINF:-1,Hunting Channel
-http://31.220.1.190:8080/raquel/1234/65104
+http://wildsides.xyz:2086/1604/1604/5121
 #EXTINF:-1,ID
-http://31.220.1.190:8080/raquel/1234/109950
-#EXTINF:-1,Ideal Extra
-http://31.220.1.190:8080/raquel/1234/139667
-#EXTINF:-1,Ideal World
-http://31.220.1.190:8080/raquel/1234/139668
-#EXTINF:-1,Inspiration TV
-http://31.220.1.190:8080/raquel/1234/139669
+http://wildsides.xyz:2086/1604/1604/5119
 #EXTINF:-1,INVESTIGATION DISCOVERY
-http://31.220.1.190:8080/raquel/1234/150867
-#EXTINF:-1,IP APLUS TV UK
-http://31.220.1.190:8080/raquel/1234/133414
-#EXTINF:-1,Irish TV
-http://31.220.1.190:8080/raquel/1234/99095
-#EXTINF:-1,ISLAM CHANNEL
-http://31.220.1.190:8080/raquel/1234/105062
-#EXTINF:-1,Islam Channel Urdu
-http://31.220.1.190:8080/raquel/1234/139589
-#EXTINF:-1,ITV +1
-http://31.220.1.190:8080/raquel/1234/104375
-#EXTINF:-1,ITV 1 HD
-http://31.220.1.190:8080/raquel/1234/92590
-#EXTINF:-1,ITV 2 +1
-http://31.220.1.190:8080/raquel/1234/74719
-#EXTINF:-1,ITV 2 HD
-http://31.220.1.190:8080/raquel/1234/92591
-#EXTINF:-1,ITV 3 HD
-http://31.220.1.190:8080/raquel/1234/92592
-#EXTINF:-1,ITV 4 +1
-http://31.220.1.190:8080/raquel/1234/74720
-#EXTINF:-1,ITV 4 HD
-http://31.220.1.190:8080/raquel/1234/92593
-#EXTINF:-1,ITV BE HD
-http://31.220.1.190:8080/raquel/1234/65036
-#EXTINF:-1,ITV Encore 1
-http://31.220.1.190:8080/raquel/1234/154614
-#EXTINF:-1,ITV Encore HD
-http://31.220.1.190:8080/raquel/1234/65173
-#EXTINF:-1,ITV HD
-http://31.220.1.190:8080/raquel/1234/74566
-#EXTINF:-1,ITVBe +1
-http://31.220.1.190:8080/raquel/1234/104376
-#EXTINF:-1,Jewellery Maker
-http://31.220.1.190:8080/raquel/1234/154620
-#EXTINF:-1,Jewelry Maker
-http://31.220.1.190:8080/raquel/1234/139671
-#EXTINF:-1,JML Direct
-http://31.220.1.190:8080/raquel/1234/139672
-#EXTINF:-1,Jus Punjabi
-http://31.220.1.190:8080/raquel/1234/139673
-#EXTINF:-1,Kanshi TV
-http://31.220.1.190:8080/raquel/1234/139592
-#EXTINF:-1,KANSHI TV UK
-http://31.220.1.190:8080/raquel/1234/133402
-#EXTINF:-1,Keep It Country
-http://31.220.1.190:8080/raquel/1234/104427
-#EXTINF:-1,Kerrang!
-http://31.220.1.190:8080/raquel/1234/65051
-#EXTINF:-1,KICC TV
-http://31.220.1.190:8080/raquel/1234/139674
-#EXTINF:-1,KISS
-http://31.220.1.190:8080/raquel/1234/65058
-#EXTINF:-1,KTV
-http://31.220.1.190:8080/raquel/1234/104494
-#EXTINF:-1,Ladbrokes TV
-http://31.220.1.190:8080/raquel/1234/120682
-#EXTINF:-1,LFC
-http://31.220.1.190:8080/raquel/1234/159489
-#EXTINF:-1,LIFE OK
-http://31.220.1.190:8080/raquel/1234/102174
-#EXTINF:-1,Lifetime HD
-http://31.220.1.190:8080/raquel/1234/65161
-#EXTINF:-1,Liverpool
-http://31.220.1.190:8080/raquel/1234/156140
-#EXTINF:-1,Liverpool FC TV HD
-http://31.220.1.190:8080/raquel/1234/64983
-#EXTINF:-1,Living UK
-http://31.220.1.190:8080/raquel/1234/98217
-#EXTINF:-1,London
-http://31.220.1.190:8080/raquel/1234/74568
-#EXTINF:-1,London Live
-http://31.220.1.190:8080/raquel/1234/139594
-#EXTINF:-1,Loveworld TV
-http://31.220.1.190:8080/raquel/1234/139675
-#EXTINF:-1,Madani Channel
-http://31.220.1.190:8080/raquel/1234/139595
-#EXTINF:-1,Magic TV
-http://31.220.1.190:8080/raquel/1234/65050
-#EXTINF:-1,Massive RNB
-http://31.220.1.190:8080/raquel/1234/139680
-#EXTINF:-1,MATV NATIONAL UK
-http://31.220.1.190:8080/raquel/1234/133329
-#EXTINF:-1,More 4
-http://31.220.1.190:8080/raquel/1234/150870
-#EXTINF:-1,More4 +1
-http://31.220.1.190:8080/raquel/1234/75701
-#EXTINF:-1,More4 1
-http://31.220.1.190:8080/raquel/1234/163361
-#EXTINF:-1,Motors TV
-http://31.220.1.190:8080/raquel/1234/97001
-#EXTINF:-1,Motorsport TV
-http://31.220.1.190:8080/raquel/1234/74600
-#EXTINF:-1,MOVIES 4 MEN BU
-http://31.220.1.190:8080/raquel/1234/153921
-#EXTINF:-1,MOVIES 4 MEN HD
-http://31.220.1.190:8080/raquel/1234/150871
+http://wildsides.xyz:2086/1604/1604/43183
+#EXTINF:-1,ITV
+http://wildsides.xyz:2086/1604/1604/43180
+#EXTINF:-1,ITV 1
+http://wildsides.xyz:2086/1604/1604/37630
+#EXTINF:-1,ITV 2
+http://wildsides.xyz:2086/1604/1604/186
+#EXTINF:-1,ITV 3 SD
+http://wildsides.xyz:2086/1604/1604/43182
+#EXTINF:-1,ITV 4
+http://wildsides.xyz:2086/1604/1604/43181
+#EXTINF:-1,ITV BE
+http://wildsides.xyz:2086/1604/1604/5142
+#EXTINF:-1,LFC TV
+http://wildsides.xyz:2086/1604/1604/28913
+#EXTINF:-1,LIFETIME
+http://wildsides.xyz:2086/1604/1604/43179
+#EXTINF:-1,LONDON LIVE
+http://wildsides.xyz:2086/1604/1604/43178
+#EXTINF:-1,MORE 4
+http://wildsides.xyz:2086/1604/1604/5118
 #EXTINF:-1,MOVIES 24
-http://31.220.1.190:8080/raquel/1234/159492
-#EXTINF:-1,MOVIES MODERN GREAT
-http://31.220.1.190:8080/raquel/1234/102179
-#EXTINF:-1,Movies24
-http://31.220.1.190:8080/raquel/1234/139597
-#EXTINF:-1,movies4men
-http://31.220.1.190:8080/raquel/1234/65124
-#EXTINF:-1,MTA-Muslim TV
-http://31.220.1.190:8080/raquel/1234/139598
-#EXTINF:-1,MTV Base HD
-http://31.220.1.190:8080/raquel/1234/65090
-#EXTINF:-1,MTV Classic HD
-http://31.220.1.190:8080/raquel/1234/154182
-#EXTINF:-1,MTV Dance HD
-http://31.220.1.190:8080/raquel/1234/100942
-#EXTINF:-1,MTV HD
-http://31.220.1.190:8080/raquel/1234/99105
-#EXTINF:-1,MTV Hits!
-http://31.220.1.190:8080/raquel/1234/104291
-#EXTINF:-1,MTV LIVE
-http://31.220.1.190:8080/raquel/1234/151347
-#EXTINF:-1,MTV Music HD
-http://31.220.1.190:8080/raquel/1234/65095
-#EXTINF:-1,MTV ONE
-http://31.220.1.190:8080/raquel/1234/159496
-#EXTINF:-1,MTV Rocks HD
-http://31.220.1.190:8080/raquel/1234/65099
-#EXTINF:-1,MUTV HD
-http://31.220.1.190:8080/raquel/1234/137233
-#EXTINF:-1,My 5
-http://31.220.1.190:8080/raquel/1234/74575
-#EXTINF:-1,My TV
-http://31.220.1.190:8080/raquel/1234/139681
+http://wildsides.xyz:2086/1604/1604/3483
+#EXTINF:-1,MOVIES24
+http://wildsides.xyz:2086/1604/1604/43209
+#EXTINF:-1,MTV
+http://wildsides.xyz:2086/1604/1604/304
+#EXTINF:-1,MTV BASE
+http://wildsides.xyz:2086/1604/1604/43211
+#EXTINF:-1,MTV DANCE
+http://wildsides.xyz:2086/1604/1604/5087
+#EXTINF:-1,MTV HITS
+http://wildsides.xyz:2086/1604/1604/5086
+#EXTINF:-1,MTV ROCKS
+http://wildsides.xyz:2086/1604/1604/5083
 #EXTINF:-1,NAT GEO
-http://31.220.1.190:8080/raquel/1234/92595
-#EXTINF:-1,NAT GEO WILD BU
-http://31.220.1.190:8080/raquel/1234/153942
-#EXTINF:-1,NAT GEO Wild HD
-http://31.220.1.190:8080/raquel/1234/74807
-#EXTINF:-1,National Geographic Back Up
-http://31.220.1.190:8080/raquel/1234/153941
-#EXTINF:-1,National Geography Wild
-http://31.220.1.190:8080/raquel/1234/156153
-#EXTINF:-1,NBC Golf
-http://31.220.1.190:8080/raquel/1234/137231
-#EXTINF:-1,NDTV 24x7
-http://31.220.1.190:8080/raquel/1234/139682
-#EXTINF:-1,New Vision TV
-http://31.220.1.190:8080/raquel/1234/139604
-#EXTINF:-1,NEWISION TV UK
-http://31.220.1.190:8080/raquel/1234/133373
-#EXTINF:-1,Nick Jr
-http://31.220.1.190:8080/raquel/1234/84176
+http://wildsides.xyz:2086/1604/1604/5098
+#EXTINF:-1,NAT GEO WILD
+http://wildsides.xyz:2086/1604/1604/43176
+#EXTINF:-1,NICK JR
+http://wildsides.xyz:2086/1604/1604/43175
 #EXTINF:-1,NICK JR TOO
-http://31.220.1.190:8080/raquel/1234/159498
-#EXTINF:-1,Nick Junior Toons
-http://31.220.1.190:8080/raquel/1234/155443
-#EXTINF:-1,Nick Toons HD
-http://31.220.1.190:8080/raquel/1234/65129
-#EXTINF:-1,Nickelodeo
-http://31.220.1.190:8080/raquel/1234/160529
-#EXTINF:-1,Nickelodeon
-http://31.220.1.190:8080/raquel/1234/92597
-#EXTINF:-1,Nickelodeon +1
-http://31.220.1.190:8080/raquel/1234/74705
-#EXTINF:-1,Nicktoonss
-http://31.220.1.190:8080/raquel/1234/156151
-#EXTINF:-1,Nollywood
-http://31.220.1.190:8080/raquel/1234/153879
-#EXTINF:-1,NOLLYWOOD MOVIES
-http://31.220.1.190:8080/raquel/1234/102182
-#EXTINF:-1,NOW 80s HD
-http://31.220.1.190:8080/raquel/1234/74605
-#EXTINF:-1,Now 90s
-http://31.220.1.190:8080/raquel/1234/139608
-#EXTINF:-1,NOW XMAS
-http://31.220.1.190:8080/raquel/1234/75592
-#EXTINF:-1,NTAI
-http://31.220.1.190:8080/raquel/1234/139683
-#EXTINF:-1,NTV
-http://31.220.1.190:8080/raquel/1234/139609
-#EXTINF:-1,Paddy Power TV 1
-http://31.220.1.190:8080/raquel/1234/120683
-#EXTINF:-1,Paddy Power TV 3
-http://31.220.1.190:8080/raquel/1234/120684
-#EXTINF:-1,PADDYPOWER
-http://31.220.1.190:8080/raquel/1234/153862
-#EXTINF:-1,PaversShoes.tv
-http://31.220.1.190:8080/raquel/1234/139684
-#EXTINF:-1,PBS America
-http://31.220.1.190:8080/raquel/1234/75613
-#EXTINF:-1,PCNE Chinese
-http://31.220.1.190:8080/raquel/1234/139685
-#EXTINF:-1,Peace TV
-http://31.220.1.190:8080/raquel/1234/94652
-#EXTINF:-1,PEACE TV URDU
-http://31.220.1.190:8080/raquel/1234/138205
-#EXTINF:-1,PeaceTV Urdu
-http://31.220.1.190:8080/raquel/1234/139686
-#EXTINF:-1,Pick Back Up
-http://31.220.1.190:8080/raquel/1234/153968
-#EXTINF:-1,Pick TV
-http://31.220.1.190:8080/raquel/1234/91965
+http://wildsides.xyz:2086/1604/1604/394
+#EXTINF:-1,NICKELODEON
+http://wildsides.xyz:2086/1604/1604/5072
+#EXTINF:-1,NICKTOONS
+http://wildsides.xyz:2086/1604/1604/663
+#EXTINF:-1,PICK
+http://wildsides.xyz:2086/1604/1604/43174
 #EXTINF:-1,POP
-http://31.220.1.190:8080/raquel/1234/75569
-#EXTINF:-1,POP 1
-http://31.220.1.190:8080/raquel/1234/153889
-#EXTINF:-1,Pop Max
-http://31.220.1.190:8080/raquel/1234/74706
-#EXTINF:-1,Premier Sports HD
-http://31.220.1.190:8080/raquel/1234/91964
-#EXTINF:-1,Primal Cure
-http://31.220.1.190:8080/raquel/1234/139688
-#EXTINF:-1,Propeller
-http://31.220.1.190:8080/raquel/1234/120630
-#EXTINF:-1,PTC PUNJABI
-http://31.220.1.190:8080/raquel/1234/133403
-#EXTINF:-1,PTV Global
-http://31.220.1.190:8080/raquel/1234/139611
-#EXTINF:-1,PTV PRIME
-http://31.220.1.190:8080/raquel/1234/86351
+http://wildsides.xyz:2086/1604/1604/5066
+#EXTINF:-1,POP MAX
+http://wildsides.xyz:2086/1604/1604/5067
 #EXTINF:-1,QUEST
-http://31.220.1.190:8080/raquel/1234/93803
-#EXTINF:-1,QUEST RED
-http://31.220.1.190:8080/raquel/1234/74721
-#EXTINF:-1,QVC Beauty
-http://31.220.1.190:8080/raquel/1234/86327
-#EXTINF:-1,QVC Extra
-http://31.220.1.190:8080/raquel/1234/86328
-#EXTINF:-1,QVC HD
-http://31.220.1.190:8080/raquel/1234/86330
-#EXTINF:-1,QVC Style
-http://31.220.1.190:8080/raquel/1234/86329
-#EXTINF:-1,Racing HD
-http://31.220.1.190:8080/raquel/1234/65019
-#EXTINF:-1,Racing UK HD
-http://31.220.1.190:8080/raquel/1234/134172
+http://wildsides.xyz:2086/1604/1604/5116
 #EXTINF:-1,REAL LIVES
-http://31.220.1.190:8080/raquel/1234/74582
-#EXTINF:-1,Real Madrid
-http://31.220.1.190:8080/raquel/1234/156182
-#EXTINF:-1,Really
-http://31.220.1.190:8080/raquel/1234/65037
-#EXTINF:-1,Retail TV
-http://31.220.1.190:8080/raquel/1234/139689
-#EXTINF:-1,Revelation
-http://31.220.1.190:8080/raquel/1234/139690
-#EXTINF:-1,Rishtey Europe
-http://31.220.1.190:8080/raquel/1234/137240
-#EXTINF:-1,RISHTEY TV
-http://31.220.1.190:8080/raquel/1234/91454
-#EXTINF:-1,RISHTEY UK
-http://31.220.1.190:8080/raquel/1234/133408
-#EXTINF:-1,Rocks & Co
-http://31.220.1.190:8080/raquel/1234/154622
-#EXTINF:-1,ROK TV
-http://31.220.1.190:8080/raquel/1234/102185
-#EXTINF:-1,RT HD
-http://31.220.1.190:8080/raquel/1234/99110
-#EXTINF:-1,RT News HD
-http://31.220.1.190:8080/raquel/1234/139691
-#EXTINF:-1,RTE 1 FHD
-http://31.220.1.190:8080/raquel/1234/91966
-#EXTINF:-1,RTE 2 HD
-http://31.220.1.190:8080/raquel/1234/91967
-#EXTINF:-1,RTE J R
-http://31.220.1.190:8080/raquel/1234/137260
-#EXTINF:-1,RTE Jr
-http://31.220.1.190:8080/raquel/1234/65176
-#EXTINF:-1,RTE NEWS
-http://31.220.1.190:8080/raquel/1234/65179
-#EXTINF:-1,RTE ONE HD
-http://31.220.1.190:8080/raquel/1234/65177
-#EXTINF:-1,Rte Tow
-http://31.220.1.190:8080/raquel/1234/110929
-#EXTINF:-1,RTE TWO HD
-http://31.220.1.190:8080/raquel/1234/65178
-#EXTINF:-1,Russia Today HD
-http://31.220.1.190:8080/raquel/1234/74610
-#EXTINF:-1,Russia Today News
-http://31.220.1.190:8080/raquel/1234/65101
-#EXTINF:-1,S4C HD
-http://31.220.1.190:8080/raquel/1234/74723
-#EXTINF:-1,SAB TV
-http://31.220.1.190:8080/raquel/1234/102186
-#EXTINF:-1,SAMAA UK
-http://31.220.1.190:8080/raquel/1234/133409
-#EXTINF:-1,SANGAT UK V
-http://31.220.1.190:8080/raquel/1234/143896
-#EXTINF:-1,Scuzz
-http://31.220.1.190:8080/raquel/1234/65049
-#EXTINF:-1,Setanta Ireland
-http://31.220.1.190:8080/raquel/1234/74761
-#EXTINF:-1,TV 3
-http://31.220.1.190:8080/raquel/1234/137295
-#EXTINF:-1,TV 3 BU
-http://31.220.1.190:8080/raquel/1234/153974
-#EXTINF:-1,TV 99
-http://31.220.1.190:8080/raquel/1234/139698
-#EXTINF:-1,TV One
-http://31.220.1.190:8080/raquel/1234/139699
-#EXTINF:-1,TV Warehouse
-http://31.220.1.190:8080/raquel/1234/139700
-#EXTINF:-1,TV3 Ireland
-http://31.220.1.190:8080/raquel/1234/99917
-#EXTINF:-1,U Cinema Action & Adventure HD
-http://31.220.1.190:8080/raquel/1234/145443
-#EXTINF:-1,UK NICK JUNIOR
-http://31.220.1.190:8080/raquel/1234/156136
-#EXTINF:-1,Universal 1
-http://31.220.1.190:8080/raquel/1234/75627
-#EXTINF:-1,Universal Channel HD
-http://31.220.1.190:8080/raquel/1234/74574
-#EXTINF:-1,UTV HD
-http://31.220.1.190:8080/raquel/1234/74731
-#EXTINF:-1,VENUS TV
-http://31.220.1.190:8080/raquel/1234/137249
-#EXTINF:-1,VH1 Classic
-http://31.220.1.190:8080/raquel/1234/163362
-#EXTINF:-1,VH1 HD
-http://31.220.1.190:8080/raquel/1234/65097
-#EXTINF:-1,Vh1 UK
-http://31.220.1.190:8080/raquel/1234/156148
-#EXTINF:-1,VH1+
-http://31.220.1.190:8080/raquel/1234/99961
-#EXTINF:-1,Viceland HD
-http://31.220.1.190:8080/raquel/1234/104929
-#EXTINF:-1,VINTAGE TV
-http://31.220.1.190:8080/raquel/1234/137278
-#EXTINF:-1,Virtual Betting Channel
-http://31.220.1.190:8080/raquel/1234/139642
-#EXTINF:-1,VIVA HD
-http://31.220.1.190:8080/raquel/1234/147221
-#EXTINF:-1,VIVA the Hits!
-http://31.220.1.190:8080/raquel/1234/65098
-#EXTINF:-1,Vox Africa
-http://31.220.1.190:8080/raquel/1234/75690
-#EXTINF:-1,W +1
-http://31.220.1.190:8080/raquel/1234/104382
-#EXTINF:-1,W Back Up
-http://31.220.1.190:8080/raquel/1234/153984
-#EXTINF:-1,W HD
-http://31.220.1.190:8080/raquel/1234/74716
-#EXTINF:-1,Watch HD
-http://31.220.1.190:8080/raquel/1234/65168
-#EXTINF:-1,William Hill TV
-http://31.220.1.190:8080/raquel/1234/120688
-#EXTINF:-1,Willow Cricket HD
-http://31.220.1.190:8080/raquel/1234/74684
-#EXTINF:-1,WWE HD
-http://31.220.1.190:8080/raquel/1234/93246
-#EXTINF:-1,WWE Raw Network HD
-http://31.220.1.190:8080/raquel/1234/93245
-#EXTINF:-1,Yesterday HD
-http://31.220.1.190:8080/raquel/1234/63391
-#EXTINF:-1,Your TV
-http://31.220.1.190:8080/raquel/1234/74580
-#EXTINF:-1,YourTV
-http://31.220.1.190:8080/raquel/1234/154644
-#EXTINF:-1,ZEE PUNJABI
-http://31.220.1.190:8080/raquel/1234/120040
-#EXTINF:-1,ZEE TV
-http://31.220.1.190:8080/raquel/1234/126853
-#EXTINF:-1,ZING TV
-http://31.220.1.190:8080/raquel/1234/91468
+http://wildsides.xyz:2086/1604/1604/5107
+#EXTINF:-1,REALLY
+http://wildsides.xyz:2086/1604/1604/5114
+#EXTINF:-1,RTE 2
+http://wildsides.xyz:2086/1604/1604/5136
+#EXTINF:-1,S4C
+http://wildsides.xyz:2086/1604/1604/43173
+#EXTINF:-1,SCUZZ
+http://wildsides.xyz:2086/1604/1604/622
+#EXTINF:-1,SHEFFIELD STEELERS ʜᴅ
+http://wildsides.xyz:2086/1604/1604/27627
+#EXTINF:-1,SYFY
+http://wildsides.xyz:2086/1604/1604/932
+#EXTINF:-1,TCM HD
+http://wildsides.xyz:2086/1604/1604/5048
+#EXTINF:-1,TINY POP
+http://wildsides.xyz:2086/1604/1604/43160
+#EXTINF:-1,TLC
+http://wildsides.xyz:2086/1604/1604/5090
+#EXTINF:-1,TRAVEL CHANNEL
+http://wildsides.xyz:2086/1604/1604/5092
+#EXTINF:-1,TRU TV
+http://wildsides.xyz:2086/1604/1604/5111
+#EXTINF:-1,TRUE ENTERTAINMENT
+http://wildsides.xyz:2086/1604/1604/5110
+#EXTINF:-1,TRUE MOVIES
+http://wildsides.xyz:2086/1604/1604/5050
+#EXTINF:-1,TRUTV
+http://wildsides.xyz:2086/1604/1604/37608
+#EXTINF:-1,UNIVERSAL
+http://wildsides.xyz:2086/1604/1604/37609
+#EXTINF:-1,UNIVERSAL CHANNEL
+http://wildsides.xyz:2086/1604/1604/43159
+#EXTINF:-1,UTV
+http://wildsides.xyz:2086/1604/1604/5126
+#EXTINF:-1,VICELAND
+http://wildsides.xyz:2086/1604/1604/5076
+#EXTINF:-1,YESTERDAY
+http://wildsides.xyz:2086/1604/1604/5062
