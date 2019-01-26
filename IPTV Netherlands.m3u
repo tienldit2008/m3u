@@ -1,385 +1,113 @@
 #EXTM3U
-#EXTINF:-1,Discovery Science [VIP]
-http://31.220.1.190:8080/raquel/1234/141770
-#EXTINF:-1,Fox Sports 1 HD [VIP]
-http://31.220.1.190:8080/raquel/1234/141784
-#EXTINF:-1,L1MBURG [VIP]
-http://31.220.1.190:8080/raquel/1234/141794
-#EXTINF:-1,NGC HD [VIP]
-http://31.220.1.190:8080/raquel/1234/141802
-#EXTINF:-1,Omroep Zeeland Televisie [VIP]
-http://31.220.1.190:8080/raquel/1234/145798
-#EXTINF:-1,Omrop Fryslan Televisie [VIP]
-http://31.220.1.190:8080/raquel/1234/141808
-#EXTINF:-1,SBS6 HD [VIP]
-http://31.220.1.190:8080/raquel/1234/141817
-#EXTINF:-1,SBS9 [VIP]
-http://31.220.1.190:8080/raquel/1234/141818
-#EXTINF:-1,TV Gelderland [VIP]
-http://31.220.1.190:8080/raquel/1234/141826
-#EXTINF:-1,100% NL TV
-http://31.220.1.190:8080/raquel/1234/160205
-#EXTINF:-1,13th
-http://31.220.1.190:8080/raquel/1234/98076
-#EXTINF:-1,192 TV HD
-http://31.220.1.190:8080/raquel/1234/74953
-#EXTINF:-1,24 Kitchen NL
-http://31.220.1.190:8080/raquel/1234/160206
-#EXTINF:-1,AMC FHD
-http://31.220.1.190:8080/raquel/1234/97323
-#EXTINF:-1,ANIMAL PLANET HD
-http://31.220.1.190:8080/raquel/1234/158131
-#EXTINF:-1,ARD HD
-http://31.220.1.190:8080/raquel/1234/97320
-#EXTINF:-1,AT5 HD
-http://31.220.1.190:8080/raquel/1234/133206
-#EXTINF:-1,BABY TV
-http://31.220.1.190:8080/raquel/1234/157767
-#EXTINF:-1,BBC Entertainment
-http://31.220.1.190:8080/raquel/1234/110634
-#EXTINF:-1,BBC First FHD
-http://31.220.1.190:8080/raquel/1234/97321
-#EXTINF:-1,BBC ONE HD
-http://31.220.1.190:8080/raquel/1234/97322
-#EXTINF:-1,BOOMERANG
-http://31.220.1.190:8080/raquel/1234/158132
-#EXTINF:-1,Brava NL
-http://31.220.1.190:8080/raquel/1234/160207
-#EXTINF:-1,CAZ
-http://31.220.1.190:8080/raquel/1234/130795
-#EXTINF:-1,CBS Reality HD
-http://31.220.1.190:8080/raquel/1234/106237
-#EXTINF:-1,Comedy Central Extra HD
-http://31.220.1.190:8080/raquel/1234/75003
-#EXTINF:-1,Comedy Central Family
-http://31.220.1.190:8080/raquel/1234/75004
-#EXTINF:-1,Comedy Central HD
-http://31.220.1.190:8080/raquel/1234/74960
-#EXTINF:-1,Crime & Investigation HD
-http://31.220.1.190:8080/raquel/1234/75005
-#EXTINF:-1,DANCE TRIPPIN HD
-http://31.220.1.190:8080/raquel/1234/97318
-#EXTINF:-1,Den Haag TV
-http://31.220.1.190:8080/raquel/1234/160211
-#EXTINF:-1,Discovery Channel FHD
-http://31.220.1.190:8080/raquel/1234/74961
-#EXTINF:-1,Discovery ID FHD
-http://31.220.1.190:8080/raquel/1234/74971
-#EXTINF:-1,DISCOVERY INVESTIGATION HD
-http://31.220.1.190:8080/raquel/1234/136216
-#EXTINF:-1,Discovery Science FHD
-http://31.220.1.190:8080/raquel/1234/93824
-#EXTINF:-1,DISCOVERY SHOWCASE FHD
-http://31.220.1.190:8080/raquel/1234/96850
-#EXTINF:-1,Discovery World HD
-http://31.220.1.190:8080/raquel/1234/93823
-#EXTINF:-1,Disney Channel FHD
-http://31.220.1.190:8080/raquel/1234/75008
-#EXTINF:-1,DISNEY JUNIOR
-http://31.220.1.190:8080/raquel/1234/157769
-#EXTINF:-1,Disney XD FHD
-http://31.220.1.190:8080/raquel/1234/115845
-#EXTINF:-1,Djazz tv
-http://31.220.1.190:8080/raquel/1234/160213
-#EXTINF:-1,Duck TV
-http://31.220.1.190:8080/raquel/1234/130798
-#EXTINF:-1,E! Entertainment HD
-http://31.220.1.190:8080/raquel/1234/89194
-#EXTINF:-1,EDE TV
-http://31.220.1.190:8080/raquel/1234/130799
-#EXTINF:-1,Edge Sport
-http://31.220.1.190:8080/raquel/1234/75009
-#EXTINF:-1,Eurosport 1 FHD
-http://31.220.1.190:8080/raquel/1234/74964
-#EXTINF:-1,Eurosport 2 HD
-http://31.220.1.190:8080/raquel/1234/158140
-#EXTINF:-1,Extreme Sports Channel HD
-http://31.220.1.190:8080/raquel/1234/64236
-#EXTINF:-1,FASHION TV HD
-http://31.220.1.190:8080/raquel/1234/97324
-#EXTINF:-1,FILM 1 ACTION HD
-http://31.220.1.190:8080/raquel/1234/133163
-#EXTINF:-1,Film 1 Comedy
-http://31.220.1.190:8080/raquel/1234/74966
-#EXTINF:-1,Film 1 Comedy & Kids
-http://31.220.1.190:8080/raquel/1234/96856
-#EXTINF:-1,FILM 1 DRAMA HD
-http://31.220.1.190:8080/raquel/1234/158141
-#EXTINF:-1,FILM 1 PREMIERE HD
-http://31.220.1.190:8080/raquel/1234/133162
-#EXTINF:-1,FILM 1 SPOTLIGHT
-http://31.220.1.190:8080/raquel/1234/133807
-#EXTINF:-1,Film Action
-http://31.220.1.190:8080/raquel/1234/87642
-#EXTINF:-1,Film Drama
-http://31.220.1.190:8080/raquel/1234/111043
-#EXTINF:-1,Film Europe HD
-http://31.220.1.190:8080/raquel/1234/113757
-#EXTINF:-1,FILM PREMIERE
-http://31.220.1.190:8080/raquel/1234/87645
-#EXTINF:-1,Film1 Family FHD
-http://31.220.1.190:8080/raquel/1234/93828
-#EXTINF:-1,Film1 Sundance
-http://31.220.1.190:8080/raquel/1234/75011
-#EXTINF:-1,Fine Living HD
-http://31.220.1.190:8080/raquel/1234/127860
-#EXTINF:-1,Food Network FHD
-http://31.220.1.190:8080/raquel/1234/103196
-#EXTINF:-1,Fox Channel FHD
-http://31.220.1.190:8080/raquel/1234/156675
-#EXTINF:-1,FOX SPORT 1 HD
-http://31.220.1.190:8080/raquel/1234/65203
-#EXTINF:-1,FOX SPORT 2 HD
-http://31.220.1.190:8080/raquel/1234/65202
-#EXTINF:-1,FOX SPORT 3 HD
-http://31.220.1.190:8080/raquel/1234/64221
-#EXTINF:-1,FOX SPORT 4 HD
-http://31.220.1.190:8080/raquel/1234/65200
-#EXTINF:-1,FOX SPORT 5 HD
-http://31.220.1.190:8080/raquel/1234/65199
-#EXTINF:-1,FOX SPORT 6 HD
-http://31.220.1.190:8080/raquel/1234/133170
-#EXTINF:-1,FOX SPORTS 1 Full HD
-http://31.220.1.190:8080/raquel/1234/154275
-#EXTINF:-1,FOX SPORTS 2 INTERNATIONAL
-http://31.220.1.190:8080/raquel/1234/93527
-#EXTINF:-1,FOX SPORTS 3 EREDIVISIE
-http://31.220.1.190:8080/raquel/1234/93526
-#EXTINF:-1,FOX SPORTS 4 INTERNATIONAL
-http://31.220.1.190:8080/raquel/1234/93525
-#EXTINF:-1,FOX SPORTS 5 EREDIVISIE HD
-http://31.220.1.190:8080/raquel/1234/93524
-#EXTINF:-1,FOX SPORTS 6 INTERNATIONAL
-http://31.220.1.190:8080/raquel/1234/106249
-#EXTINF:-1,FOX Sports EDL 1 HD
-http://31.220.1.190:8080/raquel/1234/96865
-#EXTINF:-1,FOX Sports EDL 3 HD
-http://31.220.1.190:8080/raquel/1234/96866
-#EXTINF:-1,Fox Sports1
-http://31.220.1.190:8080/raquel/1234/158896
-#EXTINF:-1,Fox Sports3
-http://31.220.1.190:8080/raquel/1234/158897
-#EXTINF:-1,Fox Sports6
-http://31.220.1.190:8080/raquel/1234/158898
-#EXTINF:-1,FUNX
-http://31.220.1.190:8080/raquel/1234/175536
-#EXTINF:-1,Golf HD
-http://31.220.1.190:8080/raquel/1234/64232
-#EXTINF:-1,HBO 1 HD
-http://31.220.1.190:8080/raquel/1234/87653
+#EXTINF:-1,Net 5 FHD
+http://cdnmedia.me:80/okantakas/2vpn8Yacxx/23156
+#EXTINF:-1,24 KITCHEN.
+http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26071
+#EXTINF:-1,ANIMAL PLANET.
+http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26070
+#EXTINF:-1,BABY TV.
+http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26069
+#EXTINF:-1,CARTOON NETWORK.
+http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26068
+#EXTINF:-1,DISNEY JUNIOR.
+http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26067
+#EXTINF:-1,Extreme Sports
+http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26049
+#EXTINF:-1,Film 1 Action HD
+http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26048
+#EXTINF:-1,Film 1 Premiere HD
+http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26047
+#EXTINF:-1,FOX SPORTS 1 HD
+http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26046
+#EXTINF:-1,FOX SPORTS 2 HD
+http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26045
+#EXTINF:-1,FOX SPORTS 3 HD
+http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26044
+#EXTINF:-1,FOX SPORTS 4 HD
+http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26043
+#EXTINF:-1,FOX SPORTS 6 HD
+http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26042
+#EXTINF:-1,Golf_HD
+http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26041
 #EXTINF:-1,HBO 2 HD
-http://31.220.1.190:8080/raquel/1234/64224
+http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26040
 #EXTINF:-1,HBO 3 HD
-http://31.220.1.190:8080/raquel/1234/64222
+http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26039
 #EXTINF:-1,HBO HD
-http://31.220.1.190:8080/raquel/1234/64225
-#EXTINF:-1,history channel
-http://31.220.1.190:8080/raquel/1234/158146
-#EXTINF:-1,Horse & Country TV HD
-http://31.220.1.190:8080/raquel/1234/118931
-#EXTINF:-1,Investigation Discovery NL
-http://31.220.1.190:8080/raquel/1234/160223
-#EXTINF:-1,JimJam
-http://31.220.1.190:8080/raquel/1234/163582
-#EXTINF:-1,Ketnet
-http://31.220.1.190:8080/raquel/1234/136195
-#EXTINF:-1,KetOp12
-http://31.220.1.190:8080/raquel/1234/113760
-#EXTINF:-1,L1MBURG
-http://31.220.1.190:8080/raquel/1234/96869
-#EXTINF:-1,Mezzo HD
-http://31.220.1.190:8080/raquel/1234/127889
-#EXTINF:-1,Motors TV
-http://31.220.1.190:8080/raquel/1234/96870
-#EXTINF:-1,MTV 24 Music HD
-http://31.220.1.190:8080/raquel/1234/65264
-#EXTINF:-1,MTV Brand New HD
-http://31.220.1.190:8080/raquel/1234/97316
+http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26038
 #EXTINF:-1,MTV HD
-http://31.220.1.190:8080/raquel/1234/158147
-#EXTINF:-1,MTV LIVE HD
-http://31.220.1.190:8080/raquel/1234/93818
-#EXTINF:-1,Mtv Music
-http://31.220.1.190:8080/raquel/1234/137493
-#EXTINF:-1,MTV MUSIC 24
-http://31.220.1.190:8080/raquel/1234/93819
-#EXTINF:-1,MTV NL
-http://31.220.1.190:8080/raquel/1234/160224
-#EXTINF:-1,MTV.Nederland
-http://31.220.1.190:8080/raquel/1234/154361
-#EXTINF:-1,NAT GEO CHANNEL
-http://31.220.1.190:8080/raquel/1234/74978
-#EXTINF:-1,NAT GEO WILD HD
-http://31.220.1.190:8080/raquel/1234/158148
+http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26037
+#EXTINF:-1,National Geographic
+http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26036
 #EXTINF:-1,NET 5 HD
-http://31.220.1.190:8080/raquel/1234/133143
-#EXTINF:-1,NGC WILD HD
-http://31.220.1.190:8080/raquel/1234/97333
-#EXTINF:-1,Nick Hits
-http://31.220.1.190:8080/raquel/1234/135737
-#EXTINF:-1,Nick Music HD
-http://31.220.1.190:8080/raquel/1234/74981
-#EXTINF:-1,Nick toons
-http://31.220.1.190:8080/raquel/1234/158917
-#EXTINF:-1,NICKELODEON
-http://31.220.1.190:8080/raquel/1234/158149
+http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26060
+#EXTINF:-1,Nick Music
+http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26035
+#EXTINF:-1,NICKELODEON.
+http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26066
+#EXTINF:-1,NPO 1
+http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26034
 #EXTINF:-1,NPO 1 HD
-http://31.220.1.190:8080/raquel/1234/133133
+http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26059
+#EXTINF:-1,NPO 2
+http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26033
 #EXTINF:-1,NPO 2 HD
-http://31.220.1.190:8080/raquel/1234/133134
-#EXTINF:-1,NPO 3 EXTRA
-http://31.220.1.190:8080/raquel/1234/158151
+http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26058
 #EXTINF:-1,NPO 3 HD
-http://31.220.1.190:8080/raquel/1234/133135
-#EXTINF:-1,NPO CULTURA
-http://31.220.1.190:8080/raquel/1234/175521
-#EXTINF:-1,Npo Nieuws
-http://31.220.1.190:8080/raquel/1234/136186
-#EXTINF:-1,NPO Politiek
-http://31.220.1.190:8080/raquel/1234/158889
-#EXTINF:-1,NPO Zapp Xtra
-http://31.220.1.190:8080/raquel/1234/113762
-#EXTINF:-1,OMROEP BRABANT
-http://31.220.1.190:8080/raquel/1234/74986
-#EXTINF:-1,Omroep Flevoland
-http://31.220.1.190:8080/raquel/1234/136243
-#EXTINF:-1,Omroep Fryslan
-http://31.220.1.190:8080/raquel/1234/127909
-#EXTINF:-1,OMROEP GELDERLAND
-http://31.220.1.190:8080/raquel/1234/74987
-#EXTINF:-1,OMROEP ZEELAND
-http://31.220.1.190:8080/raquel/1234/93850
-#EXTINF:-1,OMROP FRYSLAN
-http://31.220.1.190:8080/raquel/1234/97365
-#EXTINF:-1,ONS
-http://31.220.1.190:8080/raquel/1234/158152
-#EXTINF:-1,Pebble TV HD
-http://31.220.1.190:8080/raquel/1234/96877
-#EXTINF:-1,QMUSIC
-http://31.220.1.190:8080/raquel/1234/175537
-#EXTINF:-1,RADIO
-http://31.220.1.190:8080/raquel/1234/175539
-#EXTINF:-1,RADIO 538
-http://31.220.1.190:8080/raquel/1234/175538
-#EXTINF:-1,RTL
-http://31.220.1.190:8080/raquel/1234/169263
-#EXTINF:-1,RTL 4 FHD
-http://31.220.1.190:8080/raquel/1234/133136
+http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26057
+#EXTINF:-1,NPO POLITIEK
+http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26065
+#EXTINF:-1,NPO3
+http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26032
+#EXTINF:-1,RTL 4 HD
+http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26056
 #EXTINF:-1,RTL 5 HD
-http://31.220.1.190:8080/raquel/1234/133137
+http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26055
 #EXTINF:-1,RTL 7 HD
-http://31.220.1.190:8080/raquel/1234/133139
-#EXTINF:-1,RTL 8 FHD
-http://31.220.1.190:8080/raquel/1234/74988
-#EXTINF:-1,RTL Crime
-http://31.220.1.190:8080/raquel/1234/133148
-#EXTINF:-1,RTL lounge
-http://31.220.1.190:8080/raquel/1234/158891
-#EXTINF:-1,RTL Telekids FHD
-http://31.220.1.190:8080/raquel/1234/75020
-#EXTINF:-1,RTL Z HD
-http://31.220.1.190:8080/raquel/1234/133151
-#EXTINF:-1,RTV
-http://31.220.1.190:8080/raquel/1234/130805
-#EXTINF:-1,RTV 7
-http://31.220.1.190:8080/raquel/1234/98031
-#EXTINF:-1,RTV Drenthe
-http://31.220.1.190:8080/raquel/1234/74992
-#EXTINF:-1,RTV Noord
-http://31.220.1.190:8080/raquel/1234/127910
-#EXTINF:-1,RTV OOST
-http://31.220.1.190:8080/raquel/1234/89212
-#EXTINF:-1,RTV Utrecht
-http://31.220.1.190:8080/raquel/1234/136239
-#EXTINF:-1,SALTO LIVE
-http://31.220.1.190:8080/raquel/1234/133820
+http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26054
+#EXTINF:-1,RTL 8 HD
+http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26053
+#EXTINF:-1,RTL4_HD
+http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26031
+#EXTINF:-1,RTL7 HD
+http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26030
 #EXTINF:-1,SBS 6 HD
-http://31.220.1.190:8080/raquel/1234/133138
-#EXTINF:-1,SBS 9 FHD
-http://31.220.1.190:8080/raquel/1234/106266
-#EXTINF:-1,SBS 9Q
-http://31.220.1.190:8080/raquel/1234/97168
-#EXTINF:-1,SBS6 FHD
-http://31.220.1.190:8080/raquel/1234/74993
-#EXTINF:-1,SBS9 FHD
-http://31.220.1.190:8080/raquel/1234/74994
-#EXTINF:-1,Shorts TV FHD
-http://31.220.1.190:8080/raquel/1234/75021
-#EXTINF:-1,SKY RADIO
-http://31.220.1.190:8080/raquel/1234/175540
-#EXTINF:-1,Slam!TV
-http://31.220.1.190:8080/raquel/1234/160236
-#EXTINF:-1,Spike HD
-http://31.220.1.190:8080/raquel/1234/133146
-#EXTINF:-1,Sport 1 Voetbal
-http://31.220.1.190:8080/raquel/1234/93105
+http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26052
+#EXTINF:-1,SBS 9 HD
+http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26051
+#EXTINF:-1,SLAM TV
+http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26029
 #EXTINF:-1,Sport1 Golf
-http://31.220.1.190:8080/raquel/1234/93102
+http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26064
 #EXTINF:-1,Sport1 Racing
-http://31.220.1.190:8080/raquel/1234/93103
+http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26063
 #EXTINF:-1,Sport1 Select
-http://31.220.1.190:8080/raquel/1234/93104
-#EXTINF:-1,Stingray Lite TV
-http://31.220.1.190:8080/raquel/1234/127886
-#EXTINF:-1,Syfy
-http://31.220.1.190:8080/raquel/1234/75022
+http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26062
+#EXTINF:-1,Sport1 Voetbal
+http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26061
 #EXTINF:-1,TLC HD
-http://31.220.1.190:8080/raquel/1234/133157
-#EXTINF:-1,Travel Channel FHD
-http://31.220.1.190:8080/raquel/1234/93821
-#EXTINF:-1,TRAVEL XP HD
-http://31.220.1.190:8080/raquel/1234/158156
-#EXTINF:-1,TV 538
-http://31.220.1.190:8080/raquel/1234/75023
-#EXTINF:-1,TV DRENTHE
-http://31.220.1.190:8080/raquel/1234/93848
-#EXTINF:-1,TV Gelderland
-http://31.220.1.190:8080/raquel/1234/113767
-#EXTINF:-1,TV NOORD
-http://31.220.1.190:8080/raquel/1234/93844
-#EXTINF:-1,TV OOST
-http://31.220.1.190:8080/raquel/1234/136240
-#EXTINF:-1,TV ORANJE
-http://31.220.1.190:8080/raquel/1234/158158
-#EXTINF:-1,TV Rijnmond
-http://31.220.1.190:8080/raquel/1234/127927
-#EXTINF:-1,TV West
-http://31.220.1.190:8080/raquel/1234/74999
-#EXTINF:-1,Veronica
-http://31.220.1.190:8080/raquel/1234/87663
-#EXTINF:-1,VERONICA / DISNEY XD HD
-http://31.220.1.190:8080/raquel/1234/158159
-#EXTINF:-1,VH1 CLASSIC
-http://31.220.1.190:8080/raquel/1234/97331
-#EXTINF:-1,Viceland FHD
-http://31.220.1.190:8080/raquel/1234/97317
+http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26050
 #EXTINF:-1,XITE HD
-http://31.220.1.190:8080/raquel/1234/175529
-#EXTINF:-1,ZDF HD
-http://31.220.1.190:8080/raquel/1234/97319
-#EXTINF:-1,Ziggo Extra 1
-http://31.220.1.190:8080/raquel/1234/146540
-#EXTINF:-1,Ziggo Golf
-http://31.220.1.190:8080/raquel/1234/111044
-#EXTINF:-1,Ziggo Racing
-http://31.220.1.190:8080/raquel/1234/110639
-#EXTINF:-1,Ziggo Select
-http://31.220.1.190:8080/raquel/1234/111045
-#EXTINF:-1,ZIGGO SPORT EXTRA 1 HD
-http://31.220.1.190:8080/raquel/1234/156676
-#EXTINF:-1,ZIGGO SPORT EXTRA 2 HD
-http://31.220.1.190:8080/raquel/1234/133177
-#EXTINF:-1,Ziggo Sport FHD
-http://31.220.1.190:8080/raquel/1234/75001
-#EXTINF:-1,ZIGGO SPORT GOLF HD
-http://31.220.1.190:8080/raquel/1234/158160
-#EXTINF:-1,Ziggo Sport Racing FHD
-http://31.220.1.190:8080/raquel/1234/65189
-#EXTINF:-1,Ziggo Sport RacingQ
-http://31.220.1.190:8080/raquel/1234/158905
-#EXTINF:-1,ZIGGO SPORT SELECT 1 HD
-http://31.220.1.190:8080/raquel/1234/126486
-#EXTINF:-1,ZIGGO SPORT VOETBAL HD
-http://31.220.1.190:8080/raquel/1234/65193
-#EXTINF:-1,Ziggo TV
-http://31.220.1.190:8080/raquel/1234/135742
+http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26028
+#EXTINF:-1,Ziggo Sport Extra 1
+http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26027
+#EXTINF:-1,Ziggo Sport Extra 2
+http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26026
+#EXTINF:-1,Ziggo Sport Golf
+http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26025
+#EXTINF:-1,Ziggo Sport Racing HD
+http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26024
+#EXTINF:-1,Ziggo Sport Select HD
+http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26023
+#EXTINF:-1,Ziggo Sport Voetbal HD
+http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26022
+#EXTINF:-1,NL:FOX SPORT
+http://cdnmedia.me:80/okantakas/2vpn8Yacxx/18031
+#EXTINF:-1,NL:FOX SPORT  5
+http://cdnmedia.me:80/okantakas/2vpn8Yacxx/18035
+#EXTINF:-1,NL:FOX SPORT 2
+http://cdnmedia.me:80/okantakas/2vpn8Yacxx/18032
+#EXTINF:-1,NL:FOX SPORT 3
+http://cdnmedia.me:80/okantakas/2vpn8Yacxx/18033
+#EXTINF:-1,NL:FOX SPORT 4
+http://cdnmedia.me:80/okantakas/2vpn8Yacxx/18034
