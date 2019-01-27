@@ -1,507 +1,163 @@
 #EXTM3U
-#EXTINF:-1,A&E ʜᴅ
-http://wildsides.xyz:2086/1604/1604/625
-#EXTINF:-1,ABC 10 MIAMI ʜᴅ
-http://wildsides.xyz:2086/1604/1604/3805
-#EXTINF:-1,ABC 2 ATLANTA ʜᴅ
-http://wildsides.xyz:2086/1604/1604/1284
-#EXTINF:-1,ABC 6 PHILLY ʜᴅ
-http://wildsides.xyz:2086/1604/1604/10210
-#EXTINF:-1,ABC 7 CHICAGO ʜᴅ
-http://wildsides.xyz:2086/1604/1604/3808
-#EXTINF:-1,ABC 7 LA ʜᴅ
-http://wildsides.xyz:2086/1604/1604/3807
-#EXTINF:-1,ABC 7 NYC ʜᴅ
-http://wildsides.xyz:2086/1604/1604/3806
-#EXTINF:-1,ABC NEWS ʜᴅ
-http://wildsides.xyz:2086/1604/1604/218
-#EXTINF:-1,ADULT SWIM ʜᴅ
-http://wildsides.xyz:2086/1604/1604/2339
-#EXTINF:-1,AHC ʜᴅ
-http://wildsides.xyz:2086/1604/1604/400
-#EXTINF:-1,AKC TV ʜᴅ
-http://wildsides.xyz:2086/1604/1604/16808
-#EXTINF:-1,AMC ʜᴅ
-http://wildsides.xyz:2086/1604/1604/170
-#EXTINF:-1,ANIMAL PLANET ʜᴅ
-http://wildsides.xyz:2086/1604/1604/901
-#EXTINF:-1,ATLANTA CHANNEL ʜᴅ
-http://wildsides.xyz:2086/1604/1604/5743
-#EXTINF:-1,BBC AMERICA ʜᴅ
-http://wildsides.xyz:2086/1604/1604/2764
-#EXTINF:-1,BEACH TV 1 ʜᴅ
-http://wildsides.xyz:2086/1604/1604/5742
-#EXTINF:-1,BEACH TV 2 ʜᴅ
-http://wildsides.xyz:2086/1604/1604/5741
-#EXTINF:-1,BEACH TV 3 ʜᴅ
-http://wildsides.xyz:2086/1604/1604/5740
-#EXTINF:-1,BET EAST ʜᴅ
-http://wildsides.xyz:2086/1604/1604/714
-#EXTINF:-1,BET HER ʜᴅ
-http://wildsides.xyz:2086/1604/1604/6228
-#EXTINF:-1,BET INTERNATIONAL ʜᴅ
-http://wildsides.xyz:2086/1604/1604/29824
-#EXTINF:-1,BET JAMS ʜᴅ
-http://wildsides.xyz:2086/1604/1604/28905
-#EXTINF:-1,BLOOMBERG NEWS ʜᴅ
-http://wildsides.xyz:2086/1604/1604/28292
-#EXTINF:-1,BOOMERANG ʜᴅ
-http://wildsides.xyz:2086/1604/1604/2750
-#EXTINF:-1,BOUNCE ʜᴅ
-http://wildsides.xyz:2086/1604/1604/2786
-#EXTINF:-1,BOWIE TV ʜᴅ
-http://wildsides.xyz:2086/1604/1604/5739
-#EXTINF:-1,BRAVO ʜᴅ
-http://wildsides.xyz:2086/1604/1604/1299
-#EXTINF:-1,BTN ʜᴅ
-http://wildsides.xyz:2086/1604/1604/1627
-#EXTINF:-1,BUFFALO TV ʜᴅ
-http://wildsides.xyz:2086/1604/1604/5738
-#EXTINF:-1,BUZZR ʜᴅ
-http://wildsides.xyz:2086/1604/1604/1386
-#EXTINF:-1,C-SPAN 2 ʜᴅ
-http://wildsides.xyz:2086/1604/1604/5774
-#EXTINF:-1,C-SPAN 3 ʜᴅ
-http://wildsides.xyz:2086/1604/1604/5773
-#EXTINF:-1,C-SPAN ʜᴅ
-http://wildsides.xyz:2086/1604/1604/5775
-#EXTINF:-1,CALIFORNIA MUSIC ʜᴅ
-http://wildsides.xyz:2086/1604/1604/5757
-#EXTINF:-1,CAPITAL CITY CONNECTION ʜᴅ
-http://wildsides.xyz:2086/1604/1604/5737
-#EXTINF:-1,CARTOON NETWORK EAST ʜᴅ
-http://wildsides.xyz:2086/1604/1604/952
-#EXTINF:-1,CARTOON NETWORK WEST ʜᴅ
-http://wildsides.xyz:2086/1604/1604/28765
-#EXTINF:-1,CBS 4 MIAMI ʜᴅ
-http://wildsides.xyz:2086/1604/1604/9717
-#EXTINF:-1,CBS EAST ʜᴅ
-http://wildsides.xyz:2086/1604/1604/1642
-#EXTINF:-1,CBS SPORTS NETWORK ʜᴅ
-http://wildsides.xyz:2086/1604/1604/728
-#EXTINF:-1,CGTN ʜᴅ
-http://wildsides.xyz:2086/1604/1604/30271
-#EXTINF:-1,CHELSEA ʜᴅ
-http://wildsides.xyz:2086/1604/1604/1624
-#EXTINF:-1,CINEMAX ACTIONMAX ʜᴅ
-http://wildsides.xyz:2086/1604/1604/902
-#EXTINF:-1,CINEMAX EAST ʜᴅ
-http://wildsides.xyz:2086/1604/1604/677
-#EXTINF:-1,CINEMAX MOREMAX ʜᴅ
-http://wildsides.xyz:2086/1604/1604/10212
-#EXTINF:-1,CINEMAX OUTERMAX ʜᴅ
-http://wildsides.xyz:2086/1604/1604/28745
-#EXTINF:-1,CINEMAX THRILLERMAX ʜᴅ
-http://wildsides.xyz:2086/1604/1604/28910
-#EXTINF:-1,CINEMAX WEST ʜᴅ
-http://wildsides.xyz:2086/1604/1604/28916
-#EXTINF:-1,CMT ʜᴅ
-http://wildsides.xyz:2086/1604/1604/1599
-#EXTINF:-1,CNBC ʜᴅ
-http://wildsides.xyz:2086/1604/1604/809
-#EXTINF:-1,CNN ʜᴅ
-http://wildsides.xyz:2086/1604/1604/327
-#EXTINF:-1,COMEDY CENTRAL ʜᴅ
-http://wildsides.xyz:2086/1604/1604/802
-#EXTINF:-1,COOKING CHANNEL ʜᴅ
-http://wildsides.xyz:2086/1604/1604/181
-#EXTINF:-1,COUNTRY NETWORK ʜᴅ
-http://wildsides.xyz:2086/1604/1604/1740
-#EXTINF:-1,COZI TV ʜᴅ
-http://wildsides.xyz:2086/1604/1604/28744
-#EXTINF:-1,CW 50 ʜᴅ
-http://wildsides.xyz:2086/1604/1604/29768
-#EXTINF:-1,CW 57 ʜᴅ
-http://wildsides.xyz:2086/1604/1604/1809
-#EXTINF:-1,DAYSTAR ʜᴅ
-http://wildsides.xyz:2086/1604/1604/381
-#EXTINF:-1,DESTINATION AMERICA ʜᴅ
-http://wildsides.xyz:2086/1604/1604/401
-#EXTINF:-1,DISCOVERY CHANNEL EAST ʜᴅ
-http://wildsides.xyz:2086/1604/1604/1071
-#EXTINF:-1,DISCOVERY CHANNEL WEST ʜᴅ
-http://wildsides.xyz:2086/1604/1604/28739
-#EXTINF:-1,DISCOVERY FAMILY ʜᴅ
-http://wildsides.xyz:2086/1604/1604/29825
-#EXTINF:-1,DISCOVERY LIFE ʜᴅ
-http://wildsides.xyz:2086/1604/1604/29870
-#EXTINF:-1,DISCOVERY SCIENCE ʜᴅ
-http://wildsides.xyz:2086/1604/1604/384
-#EXTINF:-1,DISNEY CHANNEL EAST ʜᴅ
-http://wildsides.xyz:2086/1604/1604/991
-#EXTINF:-1,DISNEY CHANNEL WEST ʜᴅ
-http://wildsides.xyz:2086/1604/1604/29400
-#EXTINF:-1,DISNEY JR EAST ʜᴅ
-http://wildsides.xyz:2086/1604/1604/972
-#EXTINF:-1,DISNEY JR WEST ʜᴅ
-http://wildsides.xyz:2086/1604/1604/28766
-#EXTINF:-1,DISNEY XD EAST ʜᴅ
-http://wildsides.xyz:2086/1604/1604/846
-#EXTINF:-1,DISNEY XD WEST ʜᴅ
-http://wildsides.xyz:2086/1604/1604/28764
-#EXTINF:-1,DISTRICT KNOWLEDGE NETWORK ʜᴅ
-http://wildsides.xyz:2086/1604/1604/5735
-#EXTINF:-1,DISTRICT OF COLUMBIA NETWORK ʜᴅ
-http://wildsides.xyz:2086/1604/1604/5736
-#EXTINF:-1,DIY NETWORK ʜᴅ
-http://wildsides.xyz:2086/1604/1604/777
-#EXTINF:-1,E! ʜᴅ
-http://wildsides.xyz:2086/1604/1604/420
-#EXTINF:-1,EIR SPORTS ʜᴅ
-http://wildsides.xyz:2086/1604/1604/1282
-#EXTINF:-1,EL REY ʜᴅ
-http://wildsides.xyz:2086/1604/1604/1850
-#EXTINF:-1,EPIX HITS ʜᴅ
-http://wildsides.xyz:2086/1604/1604/28268
-#EXTINF:-1,EPIX ʜᴅ
-http://wildsides.xyz:2086/1604/1604/853
-#EXTINF:-1,ESCAPE TV
-http://wildsides.xyz:2086/1604/1604/11096
-#EXTINF:-1,ESPN 2 ʜᴅ
-http://wildsides.xyz:2086/1604/1604/140
-#EXTINF:-1,ESPN ʜᴅ
-http://wildsides.xyz:2086/1604/1604/139
-#EXTINF:-1,ESPN NEWS ʜᴅ
-http://wildsides.xyz:2086/1604/1604/606
-#EXTINF:-1,ESPN U ʜᴅ
-http://wildsides.xyz:2086/1604/1604/1172
-#EXTINF:-1,FIGHT BOX ʜᴅ
-http://wildsides.xyz:2086/1604/1604/8487
-#EXTINF:-1,FNTSY SPORTS ʜᴅ
-http://wildsides.xyz:2086/1604/1604/30942
-#EXTINF:-1,FOOD NETWORK ʜᴅ
-http://wildsides.xyz:2086/1604/1604/1026
-#EXTINF:-1,FOX 02 ʜᴅ
-http://wildsides.xyz:2086/1604/1604/30070
-#EXTINF:-1,FOX 05 ʜᴅ
-http://wildsides.xyz:2086/1604/1604/30068
-#EXTINF:-1,FOX 09 ʜᴅ
-http://wildsides.xyz:2086/1604/1604/30062
-#EXTINF:-1,FOX 19 NOW ʜᴅ
-http://wildsides.xyz:2086/1604/1604/10220
-#EXTINF:-1,FOX 29 ʜᴅ
-http://wildsides.xyz:2086/1604/1604/30064
-#EXTINF:-1,FOX 32 ʜᴅ
-http://wildsides.xyz:2086/1604/1604/30063
-#EXTINF:-1,FOX BUSINESS ʜᴅ
-http://wildsides.xyz:2086/1604/1604/863
-#EXTINF:-1,FOX NEWS ʜᴅ
-http://wildsides.xyz:2086/1604/1604/354
-#EXTINF:-1,FOX SPORTS 1 ʜᴅ
-http://wildsides.xyz:2086/1604/1604/142
-#EXTINF:-1,FOX SPORTS 2 ʜᴅ
-http://wildsides.xyz:2086/1604/1604/143
-#EXTINF:-1,FOX SPORTS OHIO ʜᴅ
-http://wildsides.xyz:2086/1604/1604/10204
-#EXTINF:-1,FOX SPORTS OHIO+ ʜᴅ
-http://wildsides.xyz:2086/1604/1604/30619
-#EXTINF:-1,FRANCE 24 NEWS ʜᴅ
-http://wildsides.xyz:2086/1604/1604/2055
-#EXTINF:-1,FREE SPEECH TV ʜᴅ
-http://wildsides.xyz:2086/1604/1604/5770
-#EXTINF:-1,FREEFORM EAST ʜᴅ
-http://wildsides.xyz:2086/1604/1604/854
-#EXTINF:-1,FUSE ʜᴅ
-http://wildsides.xyz:2086/1604/1604/2475
-#EXTINF:-1,FUSION ʜᴅ
-http://wildsides.xyz:2086/1604/1604/3956
-#EXTINF:-1,FX ʜᴅ
-http://wildsides.xyz:2086/1604/1604/382
-#EXTINF:-1,FXM ʜᴅ
-http://wildsides.xyz:2086/1604/1604/1478
-#EXTINF:-1,FXX EAST ʜᴅ
-http://wildsides.xyz:2086/1604/1604/811
-#EXTINF:-1,FXX WEST ʜᴅ
-http://wildsides.xyz:2086/1604/1604/30593
-#EXTINF:-1,GLORY KICKBOXING ʜᴅ
-http://wildsides.xyz:2086/1604/1604/8486
-#EXTINF:-1,GSN ʜᴅ
-http://wildsides.xyz:2086/1604/1604/372
-#EXTINF:-1,HALLMARK DRAMA ʜᴅ
-http://wildsides.xyz:2086/1604/1604/28741
-#EXTINF:-1,HALLMARK ʜᴅ
-http://wildsides.xyz:2086/1604/1604/1598
-#EXTINF:-1,HALLMARK M&M ʜᴅ
-http://wildsides.xyz:2086/1604/1604/328
-#EXTINF:-1,HBO 2 ʜᴅ
-http://wildsides.xyz:2086/1604/1604/12697
-#EXTINF:-1,HBO COMEDY ʜᴅ
-http://wildsides.xyz:2086/1604/1604/695
-#EXTINF:-1,HBO FAMILY ʜᴅ
-http://wildsides.xyz:2086/1604/1604/28740
-#EXTINF:-1,HBO ʜᴅ
-http://wildsides.xyz:2086/1604/1604/829
-#EXTINF:-1,HBO SIGNATURE ʜᴅ
-http://wildsides.xyz:2086/1604/1604/1187
-#EXTINF:-1,HBO ZONE ʜᴅ
-http://wildsides.xyz:2086/1604/1604/1301
-#EXTINF:-1,HGTV ʜᴅ
-http://wildsides.xyz:2086/1604/1604/417
-#EXTINF:-1,HISTORY CHANNEL ʜᴅ
-http://wildsides.xyz:2086/1604/1604/191
-#EXTINF:-1,HLN ʜᴅ
-http://wildsides.xyz:2086/1604/1604/698
-#EXTINF:-1,HORROR CHANNEL ʜᴅ
-http://wildsides.xyz:2086/1604/1604/30277
-#EXTINF:-1,HOUSE OF REPRESENTATIVES ʜᴅ
-http://wildsides.xyz:2086/1604/1604/5732
-#EXTINF:-1,IFC ʜᴅ
-http://wildsides.xyz:2086/1604/1604/10213
-#EXTINF:-1,IMPACT WRESTLING ʜᴅ
-http://wildsides.xyz:2086/1604/1604/16469
-#EXTINF:-1,INFOWARS ʜᴅ
-http://wildsides.xyz:2086/1604/1604/5768
-#EXTINF:-1,INVESTIGATION DISCOVERY ʜᴅ
-http://wildsides.xyz:2086/1604/1604/176
-#EXTINF:-1,ION TV ʜᴅ
-http://wildsides.xyz:2086/1604/1604/2337
-#EXTINF:-1,JEWELRY TV ʜᴅ
-http://wildsides.xyz:2086/1604/1604/16811
-#EXTINF:-1,KBVR TV ʜᴅ
-http://wildsides.xyz:2086/1604/1604/5731
-#EXTINF:-1,KEY TV ʜᴅ
-http://wildsides.xyz:2086/1604/1604/5730
-#EXTINF:-1,KOOL TV ʜᴅ
-http://wildsides.xyz:2086/1604/1604/5729
-#EXTINF:-1,LIFETIME ʜᴅ
-http://wildsides.xyz:2086/1604/1604/1559
-#EXTINF:-1,LIFETIME MOVIE NETWORK ʜᴅ
-http://wildsides.xyz:2086/1604/1604/2477
-#EXTINF:-1,ME TV ʜᴅ
-http://wildsides.xyz:2086/1604/1604/3376
-#EXTINF:-1,MGM CHANNEL ʜᴅ
-http://wildsides.xyz:2086/1604/1604/28743
-#EXTINF:-1,MSG ʜᴅ
-http://wildsides.xyz:2086/1604/1604/28762
-#EXTINF:-1,MSG PLUS ʜᴅ
-http://wildsides.xyz:2086/1604/1604/28742
-#EXTINF:-1,MSNBC ʜᴅ
-http://wildsides.xyz:2086/1604/1604/216
-#EXTINF:-1,MTV HD ʜᴅ
-http://wildsides.xyz:2086/1604/1604/982
-#EXTINF:-1,MTV LIVE ʜᴅ
-http://wildsides.xyz:2086/1604/1604/2920
-#EXTINF:-1,MUTV ʜᴅ
-http://wildsides.xyz:2086/1604/1604/1237
-#EXTINF:-1,MY20 ʜᴅ
-http://wildsides.xyz:2086/1604/1604/29836
-#EXTINF:-1,MY9 ʜᴅ
-http://wildsides.xyz:2086/1604/1604/29834
-#EXTINF:-1,NAT GEO CHANNEL ʜᴅ
-http://wildsides.xyz:2086/1604/1604/334
-#EXTINF:-1,NAT GEO WILD ʜᴅ
-http://wildsides.xyz:2086/1604/1604/190
-#EXTINF:-1,NBA ʜᴅ
-http://wildsides.xyz:2086/1604/1604/147
-#EXTINF:-1,NBC 4 NY ʜᴅ
-http://wildsides.xyz:2086/1604/1604/29872
-#EXTINF:-1,NBC EAST ʜᴅ
-http://wildsides.xyz:2086/1604/1604/781
-#EXTINF:-1,NBC EAST II ʜᴅ
-http://wildsides.xyz:2086/1604/1604/1851
-#EXTINF:-1,NBC GOLF ʜᴅ
-http://wildsides.xyz:2086/1604/1604/957
-#EXTINF:-1,NBC SPORTS BAY AREA ʜᴅ
-http://wildsides.xyz:2086/1604/1604/4986
-#EXTINF:-1,NBC SPORTS BOSTON ʜᴅ
-http://wildsides.xyz:2086/1604/1604/1518
-#EXTINF:-1,NBC SPORTS CALIFORNIA ʜᴅ
-http://wildsides.xyz:2086/1604/1604/4985
-#EXTINF:-1,NBC SPORTS CHICAGO ʜᴅ
-http://wildsides.xyz:2086/1604/1604/29823
-#EXTINF:-1,NBC SPORTS NORTH WEST ʜᴅ
-http://wildsides.xyz:2086/1604/1604/4983
-#EXTINF:-1,NBC SPORTS PHILLY ʜᴅ
-http://wildsides.xyz:2086/1604/1604/1520
-#EXTINF:-1,NBC SPORTS WASHINGTON  ʜᴅ
-http://wildsides.xyz:2086/1604/1604/29831
-#EXTINF:-1,NBC SPORTS WASHINGTON+ ʜᴅ
-http://wildsides.xyz:2086/1604/1604/29832
-#EXTINF:-1,NBCSN ʜᴅ
-http://wildsides.xyz:2086/1604/1604/921
-#EXTINF:-1,NESN ʜᴅ
-http://wildsides.xyz:2086/1604/1604/4987
-#EXTINF:-1,NEW ORLEANS TV ʜᴅ
-http://wildsides.xyz:2086/1604/1604/8496
-#EXTINF:-1,NEW YORK NIAGARA FALLS CAM ʜᴅ
-http://wildsides.xyz:2086/1604/1604/2497
-#EXTINF:-1,NEWS 12: BROOKLYN ʜᴅ
-http://wildsides.xyz:2086/1604/1604/13216
-#EXTINF:-1,NEWS 12: CONNECTICUT ʜᴅ
-http://wildsides.xyz:2086/1604/1604/13222
-#EXTINF:-1,NEWS 12: HUDSON VALLEY ʜᴅ
-http://wildsides.xyz:2086/1604/1604/13214
-#EXTINF:-1,NEWS 12: LONG ISLAND ʜᴅ
-http://wildsides.xyz:2086/1604/1604/13215
-#EXTINF:-1,NEWS 12: NEW JERSEY ʜᴅ
-http://wildsides.xyz:2086/1604/1604/13225
-#EXTINF:-1,NEWS 12: THE BRONX ʜᴅ
-http://wildsides.xyz:2086/1604/1604/13217
-#EXTINF:-1,NFL NETWORK ʜᴅ
-http://wildsides.xyz:2086/1604/1604/146
-#EXTINF:-1,NFL NOW ʜᴅ
-http://wildsides.xyz:2086/1604/1604/5765
-#EXTINF:-1,NHL NETWORK ʜᴅ
-http://wildsides.xyz:2086/1604/1604/414
-#EXTINF:-1,NICK JR ʜᴅ
-http://wildsides.xyz:2086/1604/1604/975
-#EXTINF:-1,NICKELODEON ʜᴅ
-http://wildsides.xyz:2086/1604/1604/28757
-#EXTINF:-1,NICKTOONS ʜᴅ
-http://wildsides.xyz:2086/1604/1604/4029
-#EXTINF:-1,NYC WALL STREET CAM ʜᴅ
-http://wildsides.xyz:2086/1604/1604/2514
-#EXTINF:-1,ORANGE TV ʜᴅ
-http://wildsides.xyz:2086/1604/1604/5727
-#EXTINF:-1,OUTDOOR CHANNEL ʜᴅ
-http://wildsides.xyz:2086/1604/1604/1560
-#EXTINF:-1,OUTDOOR COOKING ʜᴅ
-http://wildsides.xyz:2086/1604/1604/12653
-#EXTINF:-1,OUTSIDE TV
-http://wildsides.xyz:2086/1604/1604/10388
-#EXTINF:-1,OWN ʜᴅ
-http://wildsides.xyz:2086/1604/1604/1069
-#EXTINF:-1,OXYGEN ʜᴅ
-http://wildsides.xyz:2086/1604/1604/1304
-#EXTINF:-1,PAC 12 WASHINGTON ʜᴅ
-http://wildsides.xyz:2086/1604/1604/5758
-#EXTINF:-1,PAC-12 ARIZONA ʜᴅ
-http://wildsides.xyz:2086/1604/1604/5764
-#EXTINF:-1,PAC-12 BAY AREA ʜᴅ
-http://wildsides.xyz:2086/1604/1604/5763
-#EXTINF:-1,PAC-12 LOS ANGELES ʜᴅ
-http://wildsides.xyz:2086/1604/1604/5762
-#EXTINF:-1,PAC-12 MOUNTAIN ʜᴅ
-http://wildsides.xyz:2086/1604/1604/5761
-#EXTINF:-1,PAC-12 NATIONAL ʜᴅ
-http://wildsides.xyz:2086/1604/1604/5760
-#EXTINF:-1,PAC-12 OREGON ʜᴅ
-http://wildsides.xyz:2086/1604/1604/5759
-#EXTINF:-1,PARAMOUNT NETWORK ʜᴅ
-http://wildsides.xyz:2086/1604/1604/709
-#EXTINF:-1,PBS KIDS EAST ʜᴅ
-http://wildsides.xyz:2086/1604/1604/29645
-#EXTINF:-1,POP TV ʜᴅ
-http://wildsides.xyz:2086/1604/1604/3669
-#EXTINF:-1,QVC ʜᴅ
-http://wildsides.xyz:2086/1604/1604/184
-#EXTINF:-1,REELZ ʜᴅ
-http://wildsides.xyz:2086/1604/1604/1136
-#EXTINF:-1,SEC NETWORK ʜᴅ
-http://wildsides.xyz:2086/1604/1604/137
-#EXTINF:-1,SHOWTIME 2 ʜᴅ
-http://wildsides.xyz:2086/1604/1604/12161
-#EXTINF:-1,SHOWTIME EXTREME ʜᴅ
-http://wildsides.xyz:2086/1604/1604/12605
-#EXTINF:-1,SHOWTIME ʜᴅ
-http://wildsides.xyz:2086/1604/1604/1448
-#EXTINF:-1,SHOWTIME SHOWCASE ʜᴅ
-http://wildsides.xyz:2086/1604/1604/1561
-#EXTINF:-1,SMITHSONIAN CHANNEL ʜᴅ
-http://wildsides.xyz:2086/1604/1604/3045
-#EXTINF:-1,SNY ʜᴅ
-http://wildsides.xyz:2086/1604/1604/10221
-#EXTINF:-1,SONY MOVIE CHANNEL ʜᴅ
-http://wildsides.xyz:2086/1604/1604/8482
-#EXTINF:-1,SONY MOVIES ʜᴅ
-http://wildsides.xyz:2086/1604/1604/26380
-#EXTINF:-1,SOUTH CAROLINA MYRTLE BEACH CAM ʜᴅ
-http://wildsides.xyz:2086/1604/1604/2499
-#EXTINF:-1,SOUTHEASTERN CHANNEL ʜᴅ
-http://wildsides.xyz:2086/1604/1604/5724
-#EXTINF:-1,SPORTS NEWS ʜᴅ
-http://wildsides.xyz:2086/1604/1604/4442
-#EXTINF:-1,SPORTS PREMIER LEAGUE ʜᴅ
-http://wildsides.xyz:2086/1604/1604/4440
-#EXTINF:-1,SPORTSNET 1 ʜᴅ
-http://wildsides.xyz:2086/1604/1604/150
-#EXTINF:-1,SPORTSNET 360 ʜᴅ
-http://wildsides.xyz:2086/1604/1604/3649
-#EXTINF:-1,SPORTSNET CENTRAL ʜᴅ
-http://wildsides.xyz:2086/1604/1604/29830
-#EXTINF:-1,SPORTSNET PACIFIC ʜᴅ
-http://wildsides.xyz:2086/1604/1604/3648
-#EXTINF:-1,SPORTSNET WORLD ʜᴅ
-http://wildsides.xyz:2086/1604/1604/3646
-#EXTINF:-1,STARZ COMEDY ʜᴅ
-http://wildsides.xyz:2086/1604/1604/6567
-#EXTINF:-1,STARZ ENCORE ʜᴅ
-http://wildsides.xyz:2086/1604/1604/6568
-#EXTINF:-1,STARZ ʜᴅ
-http://wildsides.xyz:2086/1604/1604/6566
-#EXTINF:-1,STARZ KIDS & FAMILY ʜᴅ
-http://wildsides.xyz:2086/1604/1604/6563
-#EXTINF:-1,STARZ SUSPENSE ʜᴅ
-http://wildsides.xyz:2086/1604/1604/6569
-#EXTINF:-1,SUNDANCE ʜᴅ
-http://wildsides.xyz:2086/1604/1604/1485
-#EXTINF:-1,SYFY ʜᴅ
-http://wildsides.xyz:2086/1604/1604/803
-#EXTINF:-1,TBS EAST ʜᴅ
-http://wildsides.xyz:2086/1604/1604/387
-#EXTINF:-1,TBS WEST ʜᴅ
-http://wildsides.xyz:2086/1604/1604/28914
-#EXTINF:-1,TCM ʜᴅ
-http://wildsides.xyz:2086/1604/1604/28299
-#EXTINF:-1,TEMPLE TV ʜᴅ
-http://wildsides.xyz:2086/1604/1604/5723
-#EXTINF:-1,TENNIS CHANNEL ʜᴅ
-http://wildsides.xyz:2086/1604/1604/900
-#EXTINF:-1,THE BLAZE ʜᴅ
-http://wildsides.xyz:2086/1604/1604/2465
-#EXTINF:-1,THE CW ʜᴅ
-http://wildsides.xyz:2086/1604/1604/987
-#EXTINF:-1,THE GOLF CHANNEL
-http://wildsides.xyz:2086/1604/1604/10549
-#EXTINF:-1,THE LONGHORN NETWORK ʜᴅ
-http://wildsides.xyz:2086/1604/1604/10214
-#EXTINF:-1,THE WEATHER CHANNEL
-http://wildsides.xyz:2086/1604/1604/10548
-#EXTINF:-1,TLC ʜᴅ
-http://wildsides.xyz:2086/1604/1604/703
-#EXTINF:-1,TNT ʜᴅ
-http://wildsides.xyz:2086/1604/1604/339
-#EXTINF:-1,TRAVEL CHANNEL ʜᴅ
-http://wildsides.xyz:2086/1604/1604/1510
-#EXTINF:-1,TRU TV ʜᴅ
-http://wildsides.xyz:2086/1604/1604/860
-#EXTINF:-1,TSTV ʜᴅ
-http://wildsides.xyz:2086/1604/1604/5722
-#EXTINF:-1,TUFF TV ʜᴅ
-http://wildsides.xyz:2086/1604/1604/5748
-#EXTINF:-1,TV LAND ʜᴅ
-http://wildsides.xyz:2086/1604/1604/393
-#EXTINF:-1,TV ONE ʜᴅ
-http://wildsides.xyz:2086/1604/1604/2478
-#EXTINF:-1,TVW 2 ʜᴅ
-http://wildsides.xyz:2086/1604/1604/5720
-#EXTINF:-1,TVW ʜᴅ
-http://wildsides.xyz:2086/1604/1604/5721
-#EXTINF:-1,UFC FIGHT PASS ʜᴅ
-http://wildsides.xyz:2086/1604/1604/8485
-#EXTINF:-1,USA NETWORK EAST ʜᴅ
-http://wildsides.xyz:2086/1604/1604/229
-#EXTINF:-1,USA NETWORK WEST ʜᴅ
-http://wildsides.xyz:2086/1604/1604/28738
-#EXTINF:-1,VELOCITY ʜᴅ
-http://wildsides.xyz:2086/1604/1604/719
-#EXTINF:-1,VH1 ʜᴅ
-http://wildsides.xyz:2086/1604/1604/801
-#EXTINF:-1,VICELAND ʜᴅ
-http://wildsides.xyz:2086/1604/1604/861
-#EXTINF:-1,VTV ʜᴅ
-http://wildsides.xyz:2086/1604/1604/1873
-#EXTINF:-1,WE TV ʜᴅ
-http://wildsides.xyz:2086/1604/1604/10209
-#EXTINF:-1,WEATHER CHANNEL ʜᴅ
-http://wildsides.xyz:2086/1604/1604/385
-#EXTINF:-1,WGN AMERICA ʜᴅ
-http://wildsides.xyz:2086/1604/1604/2588
-#EXTINF:-1,WILLOW CRICKET ʜᴅ
-http://wildsides.xyz:2086/1604/1604/29623
-#EXTINF:-1,WWE NETWORK ʜᴅ
-http://wildsides.xyz:2086/1604/1604/981
-#EXTINF:-1,XITE NOW ʜᴅ
-http://wildsides.xyz:2086/1604/1604/12880
-#EXTINF:-1,YES NETWORK ʜᴅ
-http://wildsides.xyz:2086/1604/1604/9773
+#EXTINF:-1,UK - BBC ONE
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/412.m3u8
+#EXTINF:-1,UK - BBC TWO
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/413.m3u8
+#EXTINF:-1,UK - BBC THREE/CBBC
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/388.m3u8
+#EXTINF:-1,UK - ITV 1
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/414.m3u8
+#EXTINF:-1,UK - ITV 2
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/379.m3u8
+#EXTINF:-1,UK - ITV 3
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/380.m3u8
+#EXTINF:-1,UK - ITV 4
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/381.m3u8
+#EXTINF:-1,UKHD  - Al Jazeera News HD
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/5628.m3u8
+#EXTINF:-1,UK - 5 STAR
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/452.m3u8
+#EXTINF:-1,UK - 5USA
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/1623.m3u8
+#EXTINF:-1,UK - DAVE JA VU
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/1694.m3u8
+#EXTINF:-1,BBC NEWS
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/391.m3u8
+#EXTINF:-1,UK - REALLY
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/1784.m3u8
+#EXTINF:-1,SKY NEWS
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/400.m3u8
+#EXTINF:-1,UK - CBS DRAMA HD
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/402.m3u8
+#EXTINF:-1,UK - DRAMA
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/1704.m3u8
+#EXTINF:-1,UK - W +1
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/1838.m3u8
+#EXTINF:-1,UK - QUEST
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/458.m3u8
+#EXTINF:-1,UK - YESTERDAY
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/1841.m3u8
+#EXTINF:-1,UK - HOME
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/1727.m3u8
+#EXTINF:-1,UK - MORE4
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/378.m3u8
+#EXTINF:-1,UKM - Film 4
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/1906.m3u8
+#EXTINF:-1,UK - ALIBI
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/403.m3u8
+#EXTINF:-1,UKSHD  - BT SPORT 1 HD
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/1651.m3u8
+#EXTINF:-1,UKS - BT SPORT EXTRA 2
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/1658.m3u8
+#EXTINF:-1,UKS - SKY SPORTS MAIN EVENTS HD
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/1843.m3u8
+#EXTINF:-1,UKS - SKY SPORT CRICKET HD
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/198.m3u8
+#EXTINF:-1,UKS - SKY SPORTS ACTION HD
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/199.m3u8
+#EXTINF:-1,UKS - SKY SPORTS GOLF HD
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/200.m3u8
+#EXTINF:-1,UKS - SKY SPORTS FOOTBALL HD
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/201.m3u8
+#EXTINF:-1,UKD - DISCOVERY CHANNEL
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/440.m3u8
+#EXTINF:-1,UKD - NATIONAL GEOGRAPHIC
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/1759.m3u8
+#EXTINF:-1,UK - NAT GEO WILD
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/439.m3u8
+#EXTINF:-1,UK - HISTORY
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/1725.m3u8
+#EXTINF:-1,UKD - H2
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/1722.m3u8
+#EXTINF:-1,UK - GOLD
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/421.m3u8
+#EXTINF:-1,UKS - AT THE RACE
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/211.m3u8
+#EXTINF:-1,UK - SKY MOVIES PREMIERE
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/1793.m3u8
+#EXTINF:-1,UKHD  - SKY CINEMA ACTION & ADVENTURE HD
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/1796.m3u8
+#EXTINF:-1,UKHD  - SKY MOVIES CRIME & THRILLER
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/1809.m3u8
+#EXTINF:-1,UKHD  - SKY CINEMA DISNEY HD
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/1800.m3u8
+#EXTINF:-1,UKHD  - SKY CINEMA FAMILY HD
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/1803.m3u8
+#EXTINF:-1,UKHD - SKY CINEMA COMEDY HD
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/1797.m3u8
+#EXTINF:-1,UKHD - Sky Cinema Sci-Fi & Horror HD
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/5660.m3u8
+#EXTINF:-1,UKM - SKY CINEMA DRAMA & ROMANCE
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/1802.m3u8
+#EXTINF:-1,UKM - SKY CINEMA SELECT
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/1808.m3u8
+#EXTINF:-1,UK - CHANNEL 4
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/415.m3u8
+#EXTINF:-1,UK - CHANNEL 5
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/416.m3u8
+#EXTINF:-1,UKHD - Sky Arts 1 HD
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/5644.m3u8
+#EXTINF:-1,UKHD - SKY LIVING
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/420.m3u8
+#EXTINF:-1,UK - TLC
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/424.m3u8
+#EXTINF:-1,UK - COMEDY CENTRAL HD
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/2276.m3u8
+#EXTINF:-1,UKD - FOOD NETWORK
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/1715.m3u8
+#EXTINF:-1,UKHD  - Crime & Investigation HD
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/5633.m3u8
+#EXTINF:-1,UKD - ANIMAL PLANET
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/1627.m3u8
+#EXTINF:-1,UK - SKY 1
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/1810.m3u8
+#EXTINF:-1,UK - SKY TWO
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/1789.m3u8
+#EXTINF:-1,SP - EURO SPORTS 1
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/209.m3u8
+#EXTINF:-1,SP - EURO SPORTS 2
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/210.m3u8
+#EXTINF:-1,UKS - SKY SPORTS NEWS
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/203.m3u8
+#EXTINF:-1,UKS - SKY SPORTS  F1 HD
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/1853.m3u8
+#EXTINF:-1,UK - RTE 1
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/453.m3u8
+#EXTINF:-1,UK - RTE 2
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/454.m3u8
+#EXTINF:-1,UKHD - RTE One HD IE
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/5642.m3u8
+#EXTINF:-1,UKHD - RTE Two HD IE
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/5643.m3u8
+#EXTINF:-1,UK - CBS REALITY
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/392.m3u8
+#EXTINF:-1,SP - PREMIER SPORTS
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/212.m3u8
+#EXTINF:-1,UKD - DISCOVERY HISTORY
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/441.m3u8
+#EXTINF:-1,UKD - DISCOVERY SCIENCE
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/442.m3u8
+#EXTINF:-1,UKD - DISCOVERY TURBO
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/1700.m3u8
+#EXTINF:-1,CNBC
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/398.m3u8
+#EXTINF:-1,UKHD - CBEEBIES HD
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/1672.m3u8
+#EXTINF:-1,UKK - CARTOON NETWORK
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/450.m3u8
+#EXTINF:-1,SP - BT 3
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/824.m3u8
+#EXTINF:-1,UK - ESPN
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/2430.m3u8
+#EXTINF:-1,SP - TV 3 SPORTS
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/459.m3u8
+#EXTINF:-1,UK - TG4
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/1816.m3u8
+#EXTINF:-1,UKHD  - Disney Junior HD
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/5634.m3u8
+#EXTINF:-1,SP - MUTV
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/470.m3u8
+#EXTINF:-1,UK - CBS ACTION
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/401.m3u8
+#EXTINF:-1,UKHD - SKY ATLANTIC
+http://voxtv.dynns.com:8000/live/UKC/UKC2018/419.m3u8
