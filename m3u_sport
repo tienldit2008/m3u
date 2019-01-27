@@ -1,51 +1,74 @@
-#EXTM3U
-#EXTINF:-1,AR:AD Sports HD 1
-http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26885
-#EXTINF:-1,AR:AD Sports HD 2
-http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26884
-#EXTINF:-1,AR:AD Sports HD 3
-http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26883
-#EXTINF:-1,AR:AD Sports HD 4
-http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26882
-#EXTINF:-1,AR:AD Sports HD 5
-http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26881
-#EXTINF:-1,AR:AD Sports HD 6
-http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26880
-#EXTINF:-1,AR: BeIN Sports 10 HD
-http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26925
-#EXTINF:-1,AR: BeIN Sports 11 HD
-http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26924
-#EXTINF:-1,AR: BeIN Sports 12 HD
-http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26923
-#EXTINF:-1,AR: BeIN Sports 2 HD
-http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26922
-#EXTINF:-1,AR: BeIN Sports 3 HD
-http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26921
-#EXTINF:-1,AR: BeIN Sports 4 HD
-http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26920
-#EXTINF:-1,AR: BeIN Sports 5 HD
-http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26919
-#EXTINF:-1,AR: BeIN Sports 6 HD
-http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26918
-#EXTINF:-1,AR: BeIN Sports 7 HD
-http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26917
-#EXTINF:-1,AR: BeIN Sports 8 HD
-http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26916
-#EXTINF:-1,AR: BeIN Sports 9 HD
-http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26915
-#EXTINF:-1,AR: beOUT Q Sports 1 HD
-http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26879
-#EXTINF:-1,AR: beOUT Q Sports 2 HD
-http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26878
-#EXTINF:-1,AR: beOUT Q Sports 3 HD
-http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26877
-#EXTINF:-1,AR: beOUT Q Sports 4 HD
-http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26876
-#EXTINF:-1,AR: beOUT Q Sports 5 HD
-http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26875
-#EXTINF:-1,AR: beOUT Q Sports 6 HD
-http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26874
-#EXTINF:-1,AR: beOUT Q Sports 7 HD
-http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26873
-#EXTINF:-1,AR: BEIN SPORTS GLOBAL
-http://cdnmedia.me:80/okantakas/2vpn8Yacxx/26926
+#EXTINF:-1,beoutQ 1 HD
+http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/7088
+#EXTINF:-1,beoutQ 2 HD
+http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/7087
+#EXTINF:-1,beoutQ 3 HD
+http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/7086
+#EXTINF:-1,beoutQ 4 HD
+http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/7085
+#EXTINF:-1,beoutQ 5 HD
+http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/7084
+#EXTINF:-1,beoutQ 6 HD
+http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/7083
+#EXTINF:-1,beoutQ 7 HD
+http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/7082
+#EXTINF:-1,Bn_HD_Sport1_FR
+http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/17
+#EXTINF:-1,Fr-B_Sport1_(b)
+http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/2739
+#EXTINF:-1,Bn_HD_Sport2_FR
+http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/18
+#EXTINF:-1,Fr-B_Sport2_(b)
+http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/2740
+#EXTINF:-1,Bn_HD_Sport3_FR
+http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/336
+#EXTINF:-1,Ar-B_SPORT1
+http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/300
+#EXTINF:-1,B_Sports_HD1
+http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/1
+#EXTINF:-1,Ar-B_SPORT2
+http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/307
+#EXTINF:-1,B_Sports_HD2
+http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/2
+#EXTINF:-1,Ar-B_SPORT3
+http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/308
+#EXTINF:-1,B_Sports_HD3
+http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/3
+#EXTINF:-1,Ar-B_SPORT4
+http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/309
+#EXTINF:-1,B_Sports_HD4
+http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/4
+#EXTINF:-1,Ar-B_SPORT5
+http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/310
+#EXTINF:-1,B_Sports_HD5
+http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/5
+#EXTINF:-1,Ar-B_SPORT6
+http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/311
+#EXTINF:-1,B_Sports_HD6
+http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/6
+#EXTINF:-1,Ar-B_SPORT7
+http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/312
+#EXTINF:-1,B_Sports_HD7
+http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/7
+#EXTINF:-1,Ar-B_SPORT8
+http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/313
+#EXTINF:-1,B_Sports_HD8
+http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/8
+#EXTINF:-1,Ar-B_SPORT9
+http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/314
+#EXTINF:-1,B_Sports_HD9
+http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/9
+#EXTINF:-1,Ar-B_SPORT10
+http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/301
+#EXTINF:-1,B_Sports_HD10
+http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/10
+#EXTINF:-1,AR: Bein Sport 11
+http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/302
+#EXTINF:-1,B_Sports_HD11
+http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/11
+#EXTINF:-1,AR: beIN_Sport_12_HD
+http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/303
+#EXTINF:-1,B_Sports_HD12
+http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/12
+#EXTINF:-1,B_Sport_News HD
+http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/299
