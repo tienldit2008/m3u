@@ -1,37 +1,129 @@
 #EXTM3U
-#EXTINF:-1,AMC HD
-http://daddyiptv.com:8000/live/riza1/1234/3637.ts
-#EXTINF:-1,ANDALUCIA TV
-http://daddyiptv.com:8000/live/riza1/1234/3630.ts
-#EXTINF:-1,ANTENA 3 HD
-http://daddyiptv.com:8000/live/riza1/1234/3636.ts
-#EXTINF:-1,Discovery Channel
-http://daddyiptv.com:8000/live/riza1/1234/3135.ts
-#EXTINF:-1,Disney Channel HD
-http://daddyiptv.com:8000/live/riza1/1234/3141.ts
-#EXTINF:-1,Fox HD
-http://daddyiptv.com:8000/live/riza1/1234/3134.ts
-#EXTINF:-1,Fox Life HD
-http://daddyiptv.com:8000/live/riza1/1234/3133.ts
-#EXTINF:-1,Historia
-http://daddyiptv.com:8000/live/riza1/1234/3132.ts
-#EXTINF:-1,Hollywood HD
-http://daddyiptv.com:8000/live/riza1/1234/3131.ts
-#EXTINF:-1,La Sexta HD
-http://daddyiptv.com:8000/live/riza1/1234/3130.ts
-#EXTINF:-1,Mega HD
-http://daddyiptv.com:8000/live/riza1/1234/3129.ts
-#EXTINF:-1,National Geo Wild HD
-http://daddyiptv.com:8000/live/riza1/1234/3127.ts
-#EXTINF:-1,National Geographic HD
-http://daddyiptv.com:8000/live/riza1/1234/3128.ts
-#EXTINF:-1,Neox
-http://daddyiptv.com:8000/live/riza1/1234/3126.ts
-#EXTINF:-1,Nickelodeon
-http://daddyiptv.com:8000/live/riza1/1234/3140.ts
-#EXTINF:-1,Nova
-http://daddyiptv.com:8000/live/riza1/1234/3125.ts
-#EXTINF:-1,Paramount Channel
-http://daddyiptv.com:8000/live/riza1/1234/3124.ts
-#EXTINF:-1,Real Madrid TV
-http://daddyiptv.com:8000/live/riza1/1234/3123.ts
+#EXTINF:0,ANDALUCIA
+http://ip.avov4.us:8000/hulusi07/07hulusi/8079
+#EXTINF:0,ANTENA 3
+http://ip.avov4.us:8000/hulusi07/07hulusi/1478
+#EXTINF:0,Antena3
+http://ip.avov4.us:8000/hulusi07/07hulusi/8080
+#EXTINF:0,ATRE SERIES HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/8075
+#EXTINF:0,AXN
+http://ip.avov4.us:8000/hulusi07/07hulusi/8081
+#EXTINF:0,AXN WHITE
+http://ip.avov4.us:8000/hulusi07/07hulusi/8082
+#EXTINF:0,Baby TV
+http://ip.avov4.us:8000/hulusi07/07hulusi/8052
+#EXTINF:0,BeIN Sports HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/1847
+#EXTINF:0,Blaze
+http://ip.avov4.us:8000/hulusi07/07hulusi/8099
+#EXTINF:0,CALLE 13
+http://ip.avov4.us:8000/hulusi07/07hulusi/1461
+#EXTINF:0,Canal   Toros
+http://ip.avov4.us:8000/hulusi07/07hulusi/8076
+#EXTINF:0,CANAL  ACCION
+http://ip.avov4.us:8000/hulusi07/07hulusi/8062
+#EXTINF:0,CANAL  DCINE
+http://ip.avov4.us:8000/hulusi07/07hulusi/8064
+#EXTINF:0,CANAL  ESTRENOS
+http://ip.avov4.us:8000/hulusi07/07hulusi/8065
+#EXTINF:0,CANAL 1
+http://ip.avov4.us:8000/hulusi07/07hulusi/1464
+#EXTINF:0,CANAL COMEDIA
+http://ip.avov4.us:8000/hulusi07/07hulusi/8063
+#EXTINF:0,CANAL DECASA
+http://ip.avov4.us:8000/hulusi07/07hulusi/8085
+#EXTINF:0,Canal Deoprtes
+http://ip.avov4.us:8000/hulusi07/07hulusi/1477
+#EXTINF:0,CANAL DEPORTE
+http://ip.avov4.us:8000/hulusi07/07hulusi/8060
+#EXTINF:0,CANAL DEPORTES HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/8086
+#EXTINF:0,Canal Futball HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/148
+#EXTINF:0,Canal Futbol
+http://ip.avov4.us:8000/hulusi07/07hulusi/8073
+#EXTINF:0,Canal Golf HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/161
+#EXTINF:0,Canal Liga
+http://ip.avov4.us:8000/hulusi07/07hulusi/8072
+#EXTINF:0,CANAL SERIE
+http://ip.avov4.us:8000/hulusi07/07hulusi/8061
+#EXTINF:0,CANAL+ Liga HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/147
+#EXTINF:0,Caza Y Pesca
+http://ip.avov4.us:8000/hulusi07/07hulusi/8053
+#EXTINF:0,Clan TVe
+http://ip.avov4.us:8000/hulusi07/07hulusi/8087
+#EXTINF:0,Comedy Central
+http://ip.avov4.us:8000/hulusi07/07hulusi/8078
+#EXTINF:0,CUATRO
+http://ip.avov4.us:8000/hulusi07/07hulusi/8088
+#EXTINF:0,Cuatro HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/2009
+#EXTINF:0,DISCOVERY
+http://ip.avov4.us:8000/hulusi07/07hulusi/8464
+#EXTINF:0,DISNEY CHANNEL HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/8463
+#EXTINF:0,DISNEY XD
+http://ip.avov4.us:8000/hulusi07/07hulusi/8089
+#EXTINF:0,Energy
+http://ip.avov4.us:8000/hulusi07/07hulusi/8090
+#EXTINF:0,Euronews
+http://ip.avov4.us:8000/hulusi07/07hulusi/1938
+#EXTINF:0,EUROSPORT 1
+http://ip.avov4.us:8000/hulusi07/07hulusi/8462
+#EXTINF:0,EUROSPORT 2
+http://ip.avov4.us:8000/hulusi07/07hulusi/8460
+#EXTINF:0,FOX
+http://ip.avov4.us:8000/hulusi07/07hulusi/8066
+#EXTINF:0,GALICIA
+http://ip.avov4.us:8000/hulusi07/07hulusi/8091
+#EXTINF:0,Historia
+http://ip.avov4.us:8000/hulusi07/07hulusi/1939
+#EXTINF:0,HOLLYWOOD
+http://ip.avov4.us:8000/hulusi07/07hulusi/8092
+#EXTINF:0,La Sexta
+http://ip.avov4.us:8000/hulusi07/07hulusi/8093
+#EXTINF:0,Movistar  Accion
+http://ip.avov4.us:8000/hulusi07/07hulusi/8094
+#EXTINF:0,Movistar Esternos
+http://ip.avov4.us:8000/hulusi07/07hulusi/8095
+#EXTINF:0,MoviStar F1
+http://ip.avov4.us:8000/hulusi07/07hulusi/237
+#EXTINF:0,Movistar MotoGP
+http://ip.avov4.us:8000/hulusi07/07hulusi/1468
+#EXTINF:0,MOVISTAR SERIES XTRA
+http://ip.avov4.us:8000/hulusi07/07hulusi/8083
+#EXTINF:0,Nat Geo Wild HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/8096
+#EXTINF:0,NATIONAL-GEOGRAPHIC
+http://ip.avov4.us:8000/hulusi07/07hulusi/8071
+#EXTINF:0,NEOX
+http://ip.avov4.us:8000/hulusi07/07hulusi/8097
+#EXTINF:0,NICKELODEON
+http://ip.avov4.us:8000/hulusi07/07hulusi/8067
+#EXTINF:0,NOVA
+http://ip.avov4.us:8000/hulusi07/07hulusi/8098
+#EXTINF:0,RTP ASTURIAS
+http://ip.avov4.us:8000/hulusi07/07hulusi/8069
+#EXTINF:0,Taquilla 1
+http://ip.avov4.us:8000/hulusi07/07hulusi/8059
+#EXTINF:0,Taquilla 2
+http://ip.avov4.us:8000/hulusi07/07hulusi/8058
+#EXTINF:0,Taquilla 3
+http://ip.avov4.us:8000/hulusi07/07hulusi/8057
+#EXTINF:0,Taquilla 4
+http://ip.avov4.us:8000/hulusi07/07hulusi/8056
+#EXTINF:0,Taquilla 5
+http://ip.avov4.us:8000/hulusi07/07hulusi/8055
+#EXTINF:0,Taquilla 6
+http://ip.avov4.us:8000/hulusi07/07hulusi/8054
+#EXTINF:0,TCM
+http://ip.avov4.us:8000/hulusi07/07hulusi/8077
+#EXTINF:0,TELECINCO
+http://ip.avov4.us:8000/hulusi07/07hulusi/8459
+#EXTINF:0,TVE LA1
+http://ip.avov4.us:8000/hulusi07/07hulusi/8101
+#EXTINF:0,TVE LA2
+http://ip.avov4.us:8000/hulusi07/07hulusi/8100
