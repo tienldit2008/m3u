@@ -1,49 +1,155 @@
 #EXTM3U
-#EXTINF:-1,FILM 1 ACTION
-http://daddyiptv.com:8000/live/riza1/1234/552.ts
-#EXTINF:-1,FILM 1 COMEDY
-http://daddyiptv.com:8000/live/riza1/1234/551.ts
-#EXTINF:-1,FILM 1 PREMIERE
-http://daddyiptv.com:8000/live/riza1/1234/550.ts
-#EXTINF:-1,FILM 1 SPOTLIGHT
-http://daddyiptv.com:8000/live/riza1/1234/549.ts
-#EXTINF:-1,FILM 1 SUNDANCE
-http://daddyiptv.com:8000/live/riza1/1234/548.ts
-#EXTINF:-1,FOX SPORT 1
-http://daddyiptv.com:8000/live/riza1/1234/545.ts
-#EXTINF:-1,FOX SPORT 2
-http://daddyiptv.com:8000/live/riza1/1234/544.ts
-#EXTINF:-1,FOX SPORT 3
-http://daddyiptv.com:8000/live/riza1/1234/543.ts
-#EXTINF:-1,FOX SPORT 4
-http://daddyiptv.com:8000/live/riza1/1234/542.ts
-#EXTINF:-1,FOX SPORT 5
-http://daddyiptv.com:8000/live/riza1/1234/541.ts
-#EXTINF:-1,HBO 1
-http://daddyiptv.com:8000/live/riza1/1234/561.ts
-#EXTINF:-1,HBO 2
-http://daddyiptv.com:8000/live/riza1/1234/560.ts
-#EXTINF:-1,HBO 3
-http://daddyiptv.com:8000/live/riza1/1234/559.ts
-#EXTINF:-1,NICKELODEON
-http://daddyiptv.com:8000/live/riza1/1234/547.ts
-#EXTINF:-1,NPO 1
-http://daddyiptv.com:8000/live/riza1/1234/564.ts
-#EXTINF:-1,NPO 2
-http://daddyiptv.com:8000/live/riza1/1234/563.ts
-#EXTINF:-1,NPO 3
-http://daddyiptv.com:8000/live/riza1/1234/562.ts
-#EXTINF:-1,RTL 4
-http://daddyiptv.com:8000/live/riza1/1234/556.ts
-#EXTINF:-1,RTL 5
-http://daddyiptv.com:8000/live/riza1/1234/555.ts
-#EXTINF:-1,RTL 7
-http://daddyiptv.com:8000/live/riza1/1234/554.ts
-#EXTINF:-1,RTL 8
-http://daddyiptv.com:8000/live/riza1/1234/553.ts
-#EXTINF:-1,SBS 6
-http://daddyiptv.com:8000/live/riza1/1234/558.ts
-#EXTINF:-1,SBS 9
-http://daddyiptv.com:8000/live/riza1/1234/557.ts
-#EXTINF:-1,VERONICA DISNEY XD
-http://daddyiptv.com:8000/live/riza1/1234/546.ts
+#EXTINF:0,24 Kitchen
+http://ip.avov4.us:8000/hulusi07/07hulusi/1833
+#EXTINF:0,Animal Planet HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/1251
+#EXTINF:0,Baby Tv
+http://ip.avov4.us:8000/hulusi07/07hulusi/696
+#EXTINF:0,BBC Entertainment
+http://ip.avov4.us:8000/hulusi07/07hulusi/1201
+#EXTINF:0,Canvas
+http://ip.avov4.us:8000/hulusi07/07hulusi/1204
+#EXTINF:0,Cartoon Network
+http://ip.avov4.us:8000/hulusi07/07hulusi/1219
+#EXTINF:0,Comedy Central
+http://ip.avov4.us:8000/hulusi07/07hulusi/1830
+#EXTINF:0,Crime & Investigation
+http://ip.avov4.us:8000/hulusi07/07hulusi/644
+#EXTINF:0,Discovery Channel
+http://ip.avov4.us:8000/hulusi07/07hulusi/1207
+#EXTINF:0,Disney Junior
+http://ip.avov4.us:8000/hulusi07/07hulusi/1459
+#EXTINF:0,Edge 1080P
+http://ip.avov4.us:8000/hulusi07/07hulusi/1828
+#EXTINF:0,Eurosport 2 HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/1253
+#EXTINF:0,Eurosport HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/1250
+#EXTINF:0,Film 1 Spotlight
+http://ip.avov4.us:8000/hulusi07/07hulusi/1252
+#EXTINF:0,Film1 Comedy & Kids
+http://ip.avov4.us:8000/hulusi07/07hulusi/1148
+#EXTINF:0,Film1 Premiere 1080P
+http://ip.avov4.us:8000/hulusi07/07hulusi/2564
+#EXTINF:0,Film1 Premiere HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/1147
+#EXTINF:0,Film1 Sundance
+http://ip.avov4.us:8000/hulusi07/07hulusi/1153
+#EXTINF:0,FOX Channel
+http://ip.avov4.us:8000/hulusi07/07hulusi/1154
+#EXTINF:0,Fox Sports 1 Eredivisie HQ
+http://ip.avov4.us:8000/hulusi07/07hulusi/224
+#EXTINF:0,Fox Sports 2 Eredivisie HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/223
+#EXTINF:0,Fox Sports 2 HD 1080P
+http://ip.avov4.us:8000/hulusi07/07hulusi/2707
+#EXTINF:0,Fox Sports 3 Eredivisie
+http://ip.avov4.us:8000/hulusi07/07hulusi/222
+#EXTINF:0,Fox Sports 4 International
+http://ip.avov4.us:8000/hulusi07/07hulusi/166
+#EXTINF:0,FOX SPORTS 5 1080p
+http://ip.avov4.us:8000/hulusi07/07hulusi/2562
+#EXTINF:0,Fox Sports 5 Eredivisie
+http://ip.avov4.us:8000/hulusi07/07hulusi/164
+#EXTINF:0,FOX Sports 6  HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/1236
+#EXTINF:0,Fox Sports Eredivisie 1 HD 1080p
+http://ip.avov4.us:8000/hulusi07/07hulusi/2566
+#EXTINF:0,FOX Sports3  HD 1080P
+http://ip.avov4.us:8000/hulusi07/07hulusi/2567
+#EXTINF:0,History Channel 1080P
+http://ip.avov4.us:8000/hulusi07/07hulusi/1458
+#EXTINF:0,Investigation Discovery
+http://ip.avov4.us:8000/hulusi07/07hulusi/1156
+#EXTINF:0,Jim Jam HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/1163
+#EXTINF:0,Klipkar / 192TV
+http://ip.avov4.us:8000/hulusi07/07hulusi/1827
+#EXTINF:0,L1mburg
+http://ip.avov4.us:8000/hulusi07/07hulusi/1198
+#EXTINF:0,Motors TV
+http://ip.avov4.us:8000/hulusi07/07hulusi/646
+#EXTINF:0,Nat Geo Channel HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/1155
+#EXTINF:0,Nat Geo Wild 1080P
+http://ip.avov4.us:8000/hulusi07/07hulusi/1697
+#EXTINF:0,National Geo HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/2700
+#EXTINF:0,NET 5 HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/1150
+#EXTINF:0,NET5 HD 1080p
+http://ip.avov4.us:8000/hulusi07/07hulusi/2565
+#EXTINF:0,Nick Jr
+http://ip.avov4.us:8000/hulusi07/07hulusi/648
+#EXTINF:0,Nickelodeon
+http://ip.avov4.us:8000/hulusi07/07hulusi/3210
+#EXTINF:0,NPO 1 HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/1195
+#EXTINF:0,NPO 2 HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/1151
+#EXTINF:0,Npo 3 HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/1149
+#EXTINF:0,NPO Cultura
+http://ip.avov4.us:8000/hulusi07/07hulusi/1206
+#EXTINF:0,NPO Humor TV
+http://ip.avov4.us:8000/hulusi07/07hulusi/1208
+#EXTINF:0,NPO Politiek/Best
+http://ip.avov4.us:8000/hulusi07/07hulusi/1209
+#EXTINF:0,NPO Zapp Xtra
+http://ip.avov4.us:8000/hulusi07/07hulusi/1211
+#EXTINF:0,NPO1 HD 1080p
+http://ip.avov4.us:8000/hulusi07/07hulusi/2557
+#EXTINF:0,NPO2 HD 1080p
+http://ip.avov4.us:8000/hulusi07/07hulusi/2558
+#EXTINF:0,NPO3 HD 1080p
+http://ip.avov4.us:8000/hulusi07/07hulusi/2559
+#EXTINF:0,Omroep Nuenen
+http://ip.avov4.us:8000/hulusi07/07hulusi/1971
+#EXTINF:0,Omroep Zeeland
+http://ip.avov4.us:8000/hulusi07/07hulusi/1972
+#EXTINF:0,RTL 4 HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/1180
+#EXTINF:0,RTL 8
+http://ip.avov4.us:8000/hulusi07/07hulusi/1181
+#EXTINF:0,RTL 8 HD 1080P
+http://ip.avov4.us:8000/hulusi07/07hulusi/2705
+#EXTINF:0,RTL Crime HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/1696
+#EXTINF:0,RTL Lounge
+http://ip.avov4.us:8000/hulusi07/07hulusi/645
+#EXTINF:0,RTL Z
+http://ip.avov4.us:8000/hulusi07/07hulusi/1255
+#EXTINF:0,Rtv West
+http://ip.avov4.us:8000/hulusi07/07hulusi/1829
+#EXTINF:0,SBS 6 HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/1199
+#EXTINF:0,SBS 6 HD 1080p
+http://ip.avov4.us:8000/hulusi07/07hulusi/2560
+#EXTINF:0,SBS 9 1080P
+http://ip.avov4.us:8000/hulusi07/07hulusi/2561
+#EXTINF:0,SBS 9 HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/1200
+#EXTINF:0,Spike HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/1220
+#EXTINF:0,TLC HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/1460
+#EXTINF:0,Travel Channel 1080P
+http://ip.avov4.us:8000/hulusi07/07hulusi/1254
+#EXTINF:0,Veronica HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/1197
+#EXTINF:0,Veronica HD 1080P
+http://ip.avov4.us:8000/hulusi07/07hulusi/2706
+#EXTINF:0,Viceland HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/647
+#EXTINF:0,Ziggo Sport eXtra 1
+http://ip.avov4.us:8000/hulusi07/07hulusi/1216
+#EXTINF:0,Ziggo Sport Golf HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/1215
+#EXTINF:0,Ziggo Sport Racing HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/1214
+#EXTINF:0,Ziggo Sport Select 1080P
+http://ip.avov4.us:8000/hulusi07/07hulusi/1212
+#EXTINF:0,Ziggo Sport select HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/2703
+#EXTINF:0,Ziggo Sport Voetbal
+http://ip.avov4.us:8000/hulusi07/07hulusi/1213
