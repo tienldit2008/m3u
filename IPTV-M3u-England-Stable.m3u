@@ -1,154 +1,222 @@
-#EXTINF:-1,MUTV
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/379
-#EXTINF:-1,Pick
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/2225
-#EXTINF:-1,GOLD
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/2220
-#EXTINF:-1,Dave
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/2213
+#EXTINF:-1,BBC One
+http://123orca.com:25461/miguel123/123miguel/3785
+#EXTINF:-1,BBC Two
+http://123orca.com:25461/miguel123/123miguel/3783
+#EXTINF:-1,BBC Three
+http://123orca.com:25461/miguel123/123miguel/3782
+#EXTINF:-1,BBC Four HD
+http://123orca.com:25461/miguel123/123miguel/6034
+#EXTINF:-1,BBC World News
+http://123orca.com:25461/miguel123/123miguel/3772
+#EXTINF:-1,BBC News.
+http://123orca.com:25461/miguel123/123miguel/3771
+#EXTINF:-1,BBC Alba
+http://123orca.com:25461/miguel123/123miguel/6035
+#EXTINF:-1,Sky News
+http://123orca.com:25461/miguel123/123miguel/4830
+#EXTINF:-1,CNBC
+http://123orca.com:25461/miguel123/123miguel/3761
+#EXTINF:-1,CBBC HD
+http://123orca.com:25461/miguel123/123miguel/3781
+#EXTINF:-1,Euronews UK
+http://123orca.com:25461/miguel123/123miguel/3767
+#EXTINF:-1,ITV HD
+http://123orca.com:25461/miguel123/123miguel/6032
+#EXTINF:-1,ITV 2
+http://123orca.com:25461/miguel123/123miguel/6033
+#EXTINF:-1,ITV 3
+http://123orca.com:25461/miguel123/123miguel/3780
+#EXTINF:-1,ITV 4
+http://123orca.com:25461/miguel123/123miguel/3779
+#EXTINF:-1,ITV BE
+http://123orca.com:25461/miguel123/123miguel/3778
+#EXTINF:-1,ITV Encore
+http://123orca.com:25461/miguel123/123miguel/3777
+#EXTINF:-1,Channel 4
+http://123orca.com:25461/miguel123/123miguel/3776
+#EXTINF:-1,Channel 5
+http://123orca.com:25461/miguel123/123miguel/3775
+#EXTINF:-1,Channel 5 +1
+http://123orca.com:25461/miguel123/123miguel/3760
+#EXTINF:-1,More 4
+http://123orca.com:25461/miguel123/123miguel/3774
 #EXTINF:-1,E4
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/2210
-#EXTINF:-1,Watch
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/2204
-#EXTINF:-1,BBC1
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/1302
-#EXTINF:-1,BBC2
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/1303
-#EXTINF:-1,BBC3_HD
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/1920
-#EXTINF:-1,CBBC
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/1921
-#EXTINF:-1,SKY-NEWS
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/417
-#EXTINF:-1,UK_france24_news
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/1538
-#EXTINF:-1,UK_NHK news
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/1539
-#EXTINF:-1,BE3
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/1911
-#EXTINF:-1,CHANNEL4
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/1922
-#EXTINF:-1,CHANNEL5
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/1923
-#EXTINF:-1,Select_HD
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/2218
-#EXTINF:-1,SCI-FI
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/2221
-#EXTINF:-1,MBO MOVIES-EN
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/2219
-#EXTINF:-1,Sky_Modern Greats
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/436
-#EXTINF:-1,Sky-LivingIt
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/1610
-#EXTINF:-1,Crime & Inv
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/1619
-#EXTINF:-1,Cinema_Thriller
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/213
-#EXTINF:-1,Sky_Premiere
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/218
-#EXTINF:-1,HOME&HEALTH
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/426
-#EXTINF:-1,SKY-Syfy
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/425
-#EXTINF:-1,RTE1
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/427
-#EXTINF:-1,TG4
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/2975
-#EXTINF:-1,RTE TWO
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/3315
-#EXTINF:-1,RTE_news
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/275
-#EXTINF:-1,Atlantic
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/422
-#EXTINF:-1,Alibi
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/219
-#EXTINF:-1,Sky_Arts
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/217
-#EXTINF:-1,Sky_movies_Family
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/216
-#EXTINF:-1,Drama_Rom
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/215
-#EXTINF:-1,Sky-Mv_Disney
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/214
-#EXTINF:-1,Sky_Comedy
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/212
-#EXTINF:-1,Sky_Action
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/211
-#EXTINF:-1,COMEDY_CENTRAL
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/2151
-#EXTINF:-1,sky_one
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/1865
-#EXTINF:-1,sky two
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/2394
-#EXTINF:-1,Quest
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/2033
-#EXTINF:-1,E!
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/2032
-#EXTINF:-1,Disc_History
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/381
-#EXTINF:-1,Discovery-Sc
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/2211
-#EXTINF:-1,Discovery_Turbo
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/2017
-#EXTINF:-1,Discovery_CH
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/2018
-#EXTINF:-1,Animal_Planet
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/2015
-#EXTINF:-1,Nat-Geo
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/392
-#EXTINF:-1,NAT-GEO-WILD
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/393
-#EXTINF:-1,FOX-News
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/389
-#EXTINF:-1,ScFi-Horror
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/233
-#EXTINF:-1,H2
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/248
-#EXTINF:-1,CBS_Reality
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/230
-#EXTINF:-1,CBS Drama
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/229
-#EXTINF:-1,BIKE
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/2150
-#EXTINF:-1,cbeebies
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/2100
-#EXTINF:-1,Baby_TV
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/3583
-#EXTINF:-1,Nick Toons
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/2212
-#EXTINF:-1,Nick_JR
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/2215
-#EXTINF:-1,BOOMERANG
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/2031
-#EXTINF:-1,Disney_XD
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/384
-#EXTINF:-1,Disney_Junior+1
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/378
-#EXTINF:-1,Disney_Channel
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/383
-#EXTINF:-1,UK:Nickelodeon
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/1587
-#EXTINF:-1,UK_Sky_Cartoon_Network
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/1589
-#EXTINF:-1,Sky_fox
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/2489
-#EXTINF:-1,NICK JR.TOO
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/2486
-#EXTINF:-1,3E
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/2488
+http://123orca.com:25461/miguel123/123miguel/3773
+#EXTINF:-1,RTE ONE HD
+http://123orca.com:25461/miguel123/123miguel/3759
+#EXTINF:-1,Bloomberg
+http://123orca.com:25461/miguel123/123miguel/3763
+#EXTINF:-1,FOX News
+http://123orca.com:25461/miguel123/123miguel/3765
+#EXTINF:-1,CNN International
+http://123orca.com:25461/miguel123/123miguel/3769
+#EXTINF:-1,CGTN News
+http://123orca.com:25461/miguel123/123miguel/3764
+#EXTINF:-1,Gold
+http://123orca.com:25461/miguel123/123miguel/4818
+#EXTINF:-1,Good Food
+http://123orca.com:25461/miguel123/123miguel/4842
 #EXTINF:-1,Food Network
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/2490
-#EXTINF:-1,5USA
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/2085
-#EXTINF:-1,ITV1_HD
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/249
-#EXTINF:-1,ITV2
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/234
-#EXTINF:-1,ITV3_HD
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/236
-#EXTINF:-1,ITV4
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/235
-#EXTINF:-1,Itv_Be
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/2224
-#EXTINF:-1,More4
-http://configuration.tn:8000/SFCdtoZXOb/tvZVatJk0L/358
+http://123orca.com:25461/miguel123/123miguel/3736
+#EXTINF:-1,TCM.
+http://123orca.com:25461/miguel123/123miguel/3745
+#EXTINF:-1,CBS.Action
+http://123orca.com:25461/miguel123/123miguel/3743
+#EXTINF:-1,CBS Drama
+http://123orca.com:25461/miguel123/123miguel/3742
+#EXTINF:-1,CBS Reality
+http://123orca.com:25461/miguel123/123miguel/4862
+#EXTINF:-1,Film4
+http://123orca.com:25461/miguel123/123miguel/3744
+#EXTINF:-1,Comedy Central Extra
+http://123orca.com:25461/miguel123/123miguel/4841
+#EXTINF:-1,Crime & Investigation
+http://123orca.com:25461/miguel123/123miguel/4810
+#EXTINF:-1,Fox
+http://123orca.com:25461/miguel123/123miguel/4838
+#EXTINF:-1,Movies24
+http://123orca.com:25461/miguel123/123miguel/6036
+#EXTINF:-1,Movies4Men
+http://123orca.com:25461/miguel123/123miguel/6037
+#EXTINF:-1,Sky Cinema Premier HD
+http://123orca.com:25461/miguel123/123miguel/4852
+#EXTINF:-1,Sky Cinema Select HD
+http://123orca.com:25461/miguel123/123miguel/4850
+#EXTINF:-1,Sky Cinema Action HD
+http://123orca.com:25461/miguel123/123miguel/4853
+#EXTINF:-1,Sky Cinema Thriller HD
+http://123orca.com:25461/miguel123/123miguel/4860
+#EXTINF:-1,Sky Cinema Scifi & Horror HD
+http://123orca.com:25461/miguel123/123miguel/4858
+#EXTINF:-1,Sky Cinema Family HD
+http://123orca.com:25461/miguel123/123miguel/4855
+#EXTINF:-1,Sky Cinema Comedy HD
+http://123orca.com:25461/miguel123/123miguel/4859
+#EXTINF:-1,Sky Cinema Bourne HD
+http://123orca.com:25461/miguel123/123miguel/4856
+#EXTINF:-1,Sky Cinema Greats
+http://123orca.com:25461/miguel123/123miguel/4857
+#EXTINF:-1,Sky Cinema Disney HD
+http://123orca.com:25461/miguel123/123miguel/4861
+#EXTINF:-1,Horror Channel
+http://123orca.com:25461/miguel123/123miguel/3738
+#EXTINF:-1,Comedy Central
+http://123orca.com:25461/miguel123/123miguel/3733
+#EXTINF:-1,Sky One
+http://123orca.com:25461/miguel123/123miguel/4865
+#EXTINF:-1,Sky 2
+http://123orca.com:25461/miguel123/123miguel/4864
+#EXTINF:-1,Sky Arts
+http://123orca.com:25461/miguel123/123miguel/4863
+#EXTINF:-1,Sky.Atlantic
+http://123orca.com:25461/miguel123/123miguel/4851
+#EXTINF:-1,Sky Living
+http://123orca.com:25461/miguel123/123miguel/4854
+#EXTINF:-1,Capital TV
+http://123orca.com:25461/miguel123/123miguel/4741
+#EXTINF:-1,Tru TV
+http://123orca.com:25461/miguel123/123miguel/4840
+#EXTINF:-1,True Movies 1
+http://123orca.com:25461/miguel123/123miguel/3741
+#EXTINF:-1,True Entertainment
+http://123orca.com:25461/miguel123/123miguel/3739
+#EXTINF:-1,E!'
+http://123orca.com:25461/miguel123/123miguel/4867
+#EXTINF:-1,STV Central West
+http://123orca.com:25461/miguel123/123miguel/4820
+#EXTINF:-1,TG4
+http://123orca.com:25461/miguel123/123miguel/4821
+#EXTINF:-1,The Vault
+http://123orca.com:25461/miguel123/123miguel/4878
+#EXTINF:-1,Travel Channel
+http://123orca.com:25461/miguel123/123miguel/4808
+#EXTINF:-1,Universal Channel
+http://123orca.com:25461/miguel123/123miguel/4809
+#EXTINF:-1,Animal Planet.
+http://123orca.com:25461/miguel123/123miguel/4804
+#EXTINF:-1,Discovery History
+http://123orca.com:25461/miguel123/123miguel/4813
+#EXTINF:-1,Discovery.Investigation
+http://123orca.com:25461/miguel123/123miguel/4812
+#EXTINF:-1,Discovery Shed
+http://123orca.com:25461/miguel123/123miguel/4814
+#EXTINF:-1,Discovery Turbo
+http://123orca.com:25461/miguel123/123miguel/4811
+#EXTINF:-1,National Geo.graphic
+http://123orca.com:25461/miguel123/123miguel/4806
+#EXTINF:-1,National Geography Wild
+http://123orca.com:25461/miguel123/123miguel/4807
+#EXTINF:-1,Quest
+http://123orca.com:25461/miguel123/123miguel/3731
+#EXTINF:-1,Challenge
+http://123orca.com:25461/miguel123/123miguel/4756
+#EXTINF:-1,Channel Aka
+http://123orca.com:25461/miguel123/123miguel/4755
+#EXTINF:-1,Christmas Gold
+http://123orca.com:25461/miguel123/123miguel/4848
+#EXTINF:-1,Hum Europe
+http://123orca.com:25461/miguel123/123miguel/4798
+#EXTINF:-1,MUTV
+http://123orca.com:25461/miguel123/123miguel/4769
+#EXTINF:-1,My 5
+http://123orca.com:25461/miguel123/123miguel/4835
+#EXTINF:-1,NDTV 24x7
+http://123orca.com:25461/miguel123/123miguel/4797
+#EXTINF:-1,NHK
+http://123orca.com:25461/miguel123/123miguel/4739
+#EXTINF:-1,Pick
+http://123orca.com:25461/miguel123/123miguel/4866
+#EXTINF:-1,Prime TV
+http://123orca.com:25461/miguel123/123miguel/4751
+#EXTINF:-1,Really
+http://123orca.com:25461/miguel123/123miguel/4748
+#EXTINF:-1,Real Lives
+http://123orca.com:25461/miguel123/123miguel/4826
+#EXTINF:-1,Rishtey
+http://123orca.com:25461/miguel123/123miguel/4788
+#EXTINF:-1,RTE TWO HD
+http://123orca.com:25461/miguel123/123miguel/4823
+#EXTINF:-1,Dmax UK
+http://123orca.com:25461/miguel123/123miguel/3728
+#EXTINF:-1,Lifetime
+http://123orca.com:25461/miguel123/123miguel/3737
+#EXTINF:-1,4Seven
+http://123orca.com:25461/miguel123/123miguel/4837
+#EXTINF:-1,5 Star
+http://123orca.com:25461/miguel123/123miguel/4831
+#EXTINF:-1,Alibi
+http://123orca.com:25461/miguel123/123miguel/4839
+#EXTINF:-1,PBS America
+http://123orca.com:25461/miguel123/123miguel/3730
+#EXTINF:-1,At The Races
+http://123orca.com:25461/miguel123/123miguel/4763
+#EXTINF:-1,BET
+http://123orca.com:25461/miguel123/123miguel/4816
+#EXTINF:-1,Bike
+http://123orca.com:25461/miguel123/123miguel/4757
+#EXTINF:-1,Colors
+http://123orca.com:25461/miguel123/123miguel/4789
+#EXTINF:-1,Dave ja vu
+http://123orca.com:25461/miguel123/123miguel/4828
+#EXTINF:-1,S4C
+http://123orca.com:25461/miguel123/123miguel/4752
+#EXTINF:-1,MTV Dance
+http://123orca.com:25461/miguel123/123miguel/4885
+#EXTINF:-1,MTV Hits
+http://123orca.com:25461/miguel123/123miguel/4882
+#EXTINF:-1,MTV Music
+http://123orca.com:25461/miguel123/123miguel/4881
+#EXTINF:-1,MTV Rocks
+http://123orca.com:25461/miguel123/123miguel/4883
+#EXTINF:-1,MTV.Base
+http://123orca.com:25461/miguel123/123miguel/4737
+#EXTINF:-1,MTV.
+http://123orca.com:25461/miguel123/123miguel/3729
+#EXTINF:-1,VH1
+http://123orca.com:25461/miguel123/123miguel/4877
+#EXTINF:-1,Viceland
+http://123orca.com:25461/miguel123/123miguel/4827
+#EXTINF:-1,CITV
+http://123orca.com:25461/miguel123/123miguel/3726
+#EXTINF:-1,4Music
+http://123orca.com:25461/miguel123/123miguel/4874
