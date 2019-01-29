@@ -1,417 +1,259 @@
 #EXTM3U
-#EXTINF:-1,ZDF FHD
-http://smart-hdip.com:6204/said/123/12210
-#EXTINF:-1,ZDF HD.
-http://smart-hdip.com:6204/said/123/12209
-#EXTINF:-1,ZDF
-http://smart-hdip.com:6204/said/123/12208
-#EXTINF:-1,ZDF Neo FHD
-http://smart-hdip.com:6204/said/123/12206
-#EXTINF:-1,ZDF Neo HD.
-http://smart-hdip.com:6204/said/123/12205
-#EXTINF:-1,ZDF Neo
-http://smart-hdip.com:6204/said/123/12204
-#EXTINF:-1,ZDF Info HD
-http://smart-hdip.com:6204/said/123/12207
-#EXTINF:-1,VOX FHD
-http://smart-hdip.com:6204/said/123/12236
-#EXTINF:-1,VOX  HD
-http://smart-hdip.com:6204/said/123/12235
-#EXTINF:-1,VOX SD
-http://smart-hdip.com:6204/said/123/12234
-#EXTINF:-1,Dmax HD.
-http://smart-hdip.com:6204/said/123/12361
-#EXTINF:-1,RTL FHD
-http://smart-hdip.com:6204/said/123/12243
-#EXTINF:-1,RTL HD.
-http://smart-hdip.com:6204/said/123/12242
-#EXTINF:-1,RTL SD
-http://smart-hdip.com:6204/said/123/12241
-#EXTINF:-1,RTL II FHD
-http://smart-hdip.com:6204/said/123/12240
-#EXTINF:-1,RTL II HD
-http://smart-hdip.com:6204/said/123/12239
-#EXTINF:-1,RTL II
-http://smart-hdip.com:6204/said/123/12238
-#EXTINF:-1,RTL Nitro HD
-http://smart-hdip.com:6204/said/123/12217
-#EXTINF:-1,RTL Living HD
-http://smart-hdip.com:6204/said/123/12362
-#EXTINF:-1,RTL Passion HD
-http://smart-hdip.com:6204/said/123/12364
-#EXTINF:-1,RTL Passion SD
-http://smart-hdip.com:6204/said/123/12363
-#EXTINF:-1,RTL Crime SD
-http://smart-hdip.com:6204/said/123/12365
-#EXTINF:-1,RTL Plus SD
-http://smart-hdip.com:6204/said/123/12237
-#EXTINF:-1,Super RTL FHD
-http://smart-hdip.com:6204/said/123/12259
-#EXTINF:-1,Super RTL HD
-http://smart-hdip.com:6204/said/123/12258
-#EXTINF:-1,Super RTL SD
-http://smart-hdip.com:6204/said/123/12257
-#EXTINF:-1,Arte FHD
-http://smart-hdip.com:6204/said/123/12202
-#EXTINF:-1,Das Erste FHD
-http://smart-hdip.com:6204/said/123/12213
-#EXTINF:-1,Das Erste HD.
-http://smart-hdip.com:6204/said/123/12212
-#EXTINF:-1,Das Erste
-http://smart-hdip.com:6204/said/123/12211
-#EXTINF:-1,Sat.1 FHD
-http://smart-hdip.com:6204/said/123/12233
-#EXTINF:-1,Sat.1 HD.
-http://smart-hdip.com:6204/said/123/12232
-#EXTINF:-1,Sat.1
-http://smart-hdip.com:6204/said/123/12231
-#EXTINF:-1,Sat.1 Gold FHD
-http://smart-hdip.com:6204/said/123/12220
-#EXTINF:-1,Sat.1 Gold SD
-http://smart-hdip.com:6204/said/123/12218
-#EXTINF:-1,Pro7 FHD
-http://smart-hdip.com:6204/said/123/12229
-#EXTINF:-1,Pro7 Fun  FHD
-http://smart-hdip.com:6204/said/123/12230
-#EXTINF:-1,Pro7 Maxx FHD
-http://smart-hdip.com:6204/said/123/12226
-#EXTINF:-1,Pro 7 Maxx HD
-http://smart-hdip.com:6204/said/123/12225
-#EXTINF:-1,Pro7 Maxx SD
-http://smart-hdip.com:6204/said/123/12224
+#EXTINF:-1,Zdf  HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/328
+#EXTINF:-1,ZDF HD 1080P
+http://ip.avov4.us:8000/hulusi07/07hulusi/5234
+#EXTINF:-1,Sat 1 HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/765
+#EXTINF:-1,SAT 1 HD 1080P
+http://ip.avov4.us:8000/hulusi07/07hulusi/4895
 #EXTINF:-1,Pro 7 HD
-http://smart-hdip.com:6204/said/123/12228
-#EXTINF:-1,Pro7
-http://smart-hdip.com:6204/said/123/12227
-#EXTINF:-1,N-TV HD
-http://smart-hdip.com:6204/said/123/12245
-#EXTINF:-1,Phoenix
-http://smart-hdip.com:6204/said/123/12273
-#EXTINF:-1,Kabel eins HD.
-http://smart-hdip.com:6204/said/123/12215
-#EXTINF:-1,Kabel eins Doku
-http://smart-hdip.com:6204/said/123/12281
-#EXTINF:-1,Kabel eins Classic HD
-http://smart-hdip.com:6204/said/123/12214
-#EXTINF:-1,Sat1 Emotions
-http://smart-hdip.com:6204/said/123/12216
-#EXTINF:-1,Sat1 Gold HD
-http://smart-hdip.com:6204/said/123/12219
-#EXTINF:-1,Sixx FHD
-http://smart-hdip.com:6204/said/123/12223
-#EXTINF:-1,SIXX HD.
-http://smart-hdip.com:6204/said/123/12222
-#EXTINF:-1,Sixx SD
-http://smart-hdip.com:6204/said/123/12221
-#EXTINF:-1,Tele 5 HD
-http://smart-hdip.com:6204/said/123/12192
-#EXTINF:-1,13th Street HD
-http://smart-hdip.com:6204/said/123/12372
-#EXTINF:-1,3Sat HD
-http://smart-hdip.com:6204/said/123/12203
-#EXTINF:-1,TNT Film FHD
-http://smart-hdip.com:6204/said/123/14411
-#EXTINF:-1,TNT Film HD
-http://smart-hdip.com:6204/said/123/14410
-#EXTINF:-1,TNT Serie HD
-http://smart-hdip.com:6204/said/123/12370
-#EXTINF:-1,TNT Comedy HD
-http://smart-hdip.com:6204/said/123/12369
-#EXTINF:-1,AXN HD
-http://smart-hdip.com:6204/said/123/14409
-#EXTINF:-1,TLC HD
-http://smart-hdip.com:6204/said/123/12278
-#EXTINF:-1,SyFy HD
-http://smart-hdip.com:6204/said/123/12375
-#EXTINF:-1,Sky 1 HD
-http://smart-hdip.com:6204/said/123/12379
-#EXTINF:-1,Sky Arts HD
-http://smart-hdip.com:6204/said/123/12276
-#EXTINF:-1,Sky Atlantic
-http://smart-hdip.com:6204/said/123/12378
-#EXTINF:-1,Sky Krimi SD
-http://smart-hdip.com:6204/said/123/12377
-#EXTINF:-1,Sky Cinema HD
-http://smart-hdip.com:6204/said/123/12398
-#EXTINF:-1,Sky Cinema  1 HD
-http://smart-hdip.com:6204/said/123/12397
-#EXTINF:-1,Sky Cinema Hits HD
-http://smart-hdip.com:6204/said/123/12393
-#EXTINF:-1,Sky Cinema  24 HD
-http://smart-hdip.com:6204/said/123/12396
-#EXTINF:-1,Sky Cinema Action HD
-http://smart-hdip.com:6204/said/123/12395
-#EXTINF:-1,Sky Cinema Comedy SD
-http://smart-hdip.com:6204/said/123/12392
-#EXTINF:-1,Sky Cinema Emotion SD
-http://smart-hdip.com:6204/said/123/12391
-#EXTINF:-1,Sky Cinema Family HD
-http://smart-hdip.com:6204/said/123/12394
-#EXTINF:-1,Sky Cinema Nostalgie SD
-http://smart-hdip.com:6204/said/123/12390
-#EXTINF:-1,Sky Select 1 FHD
-http://smart-hdip.com:6204/said/123/12387
-#EXTINF:-1,Sky Select 2 FHD
-http://smart-hdip.com:6204/said/123/12386
-#EXTINF:-1,Sky Select 3 FHD
-http://smart-hdip.com:6204/said/123/12385
-#EXTINF:-1,Sky Select 4 FHD
-http://smart-hdip.com:6204/said/123/12384
-#EXTINF:-1,Sky Select 5 FHD
-http://smart-hdip.com:6204/said/123/12383
-#EXTINF:-1,Sky Select 6 HD
-http://smart-hdip.com:6204/said/123/12382
-#EXTINF:-1,Sky Select 7 FHD
-http://smart-hdip.com:6204/said/123/12381
-#EXTINF:-1,Sky Select 8 FHD
-http://smart-hdip.com:6204/said/123/12380
-#EXTINF:-1,A&E
-http://smart-hdip.com:6204/said/123/12272
-#EXTINF:-1,Arte HD.
-http://smart-hdip.com:6204/said/123/12201
+http://ip.avov4.us:8000/hulusi07/07hulusi/325
+#EXTINF:-1,PRO 7 HD 1080P
+http://ip.avov4.us:8000/hulusi07/07hulusi/4898
+#EXTINF:-1,Sixx
+http://ip.avov4.us:8000/hulusi07/07hulusi/1235
+#EXTINF:-1,SIXX HD 1080P
+http://ip.avov4.us:8000/hulusi07/07hulusi/4894
+#EXTINF:-1,Arte
+http://ip.avov4.us:8000/hulusi07/07hulusi/985
+#EXTINF:-1,Vox HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/324
+#EXTINF:-1,VOX HD 1080P
+http://ip.avov4.us:8000/hulusi07/07hulusi/4888
+#EXTINF:-1,3sat HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/1673
+#EXTINF:-1,Sat 1 Gold
+http://ip.avov4.us:8000/hulusi07/07hulusi/2699
+#EXTINF:-1,Servus Tv
+http://ip.avov4.us:8000/hulusi07/07hulusi/984
+#EXTINF:-1,Kabel 1 HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/1171
+#EXTINF:-1,Kabel 1 Doku HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/8384
+#EXTINF:-1,Kabel 1 Classic HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/8385
+#EXTINF:-1,Ard 1
+http://ip.avov4.us:8000/hulusi07/07hulusi/986
+#EXTINF:-1,Wdr
+http://ip.avov4.us:8000/hulusi07/07hulusi/1674
 #EXTINF:-1,ATV HD
-http://smart-hdip.com:6204/said/123/12200
-#EXTINF:-1,Anixe Serie FHD
-http://smart-hdip.com:6204/said/123/12191
-#EXTINF:-1,Classica SD
-http://smart-hdip.com:6204/said/123/12255
-#EXTINF:-1,Deluxe Music
-http://smart-hdip.com:6204/said/123/12256
-#EXTINF:-1,Deutsches Musik Fernsehen
-http://smart-hdip.com:6204/said/123/12254
-#EXTINF:-1,E! HD
-http://smart-hdip.com:6204/said/123/12366
-#EXTINF:-1,EuroNews
-http://smart-hdip.com:6204/said/123/12244
-#EXTINF:-1,Fashion TV
-http://smart-hdip.com:6204/said/123/12279
-#EXTINF:-1,Fox HD
-http://smart-hdip.com:6204/said/123/12376
-#EXTINF:-1,Genius Plus
-http://smart-hdip.com:6204/said/123/12190
-#EXTINF:-1,History FHD
-http://smart-hdip.com:6204/said/123/12283
-#EXTINF:-1,HSE24 FHD
-http://smart-hdip.com:6204/said/123/12189
-#EXTINF:-1,Junior HD
-http://smart-hdip.com:6204/said/123/12263
-#EXTINF:-1,Juwelo FHD
-http://smart-hdip.com:6204/said/123/12188
+http://ip.avov4.us:8000/hulusi07/07hulusi/8387
+#EXTINF:-1,Tele 5
+http://ip.avov4.us:8000/hulusi07/07hulusi/8386
+#EXTINF:-1,Ndr HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/2693
+#EXTINF:-1,Pro Maxx HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/2056
+#EXTINF:-1,PRO 7 Fun
+http://ip.avov4.us:8000/hulusi07/07hulusi/331
+#EXTINF:-1,Phoenix
+http://ip.avov4.us:8000/hulusi07/07hulusi/2692
+#EXTINF:-1,Pro 7 Maxx HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/2055
+#EXTINF:-1,ZMAXX HD 1080P
+http://ip.avov4.us:8000/hulusi07/07hulusi/4887
+#EXTINF:-1,Zdf Neo
+http://ip.avov4.us:8000/hulusi07/07hulusi/1672
+#EXTINF:-1,Zdf Info
+http://ip.avov4.us:8000/hulusi07/07hulusi/2012
+#EXTINF:-1,Rtl HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/326
+#EXTINF:-1,RTL HD 1080P
+http://ip.avov4.us:8000/hulusi07/07hulusi/4896
+#EXTINF:-1,Rtl 2 HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/1233
+#EXTINF:-1,RTL 2 HD 1080P
+http://ip.avov4.us:8000/hulusi07/07hulusi/4897
+#EXTINF:-1,Super RTL
+http://ip.avov4.us:8000/hulusi07/07hulusi/1953
+#EXTINF:-1,SUPER RTL HD 1080P
+http://ip.avov4.us:8000/hulusi07/07hulusi/4889
+#EXTINF:-1,Rtl Nitro HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/1234
+#EXTINF:-1,Rtl Crime HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/2547
+#EXTINF:-1,Rtl Living HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/976
+#EXTINF:-1,Rtl Passion
+http://ip.avov4.us:8000/hulusi07/07hulusi/1678
+#EXTINF:-1,MDR HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/1968
+#EXTINF:-1,N24
+http://ip.avov4.us:8000/hulusi07/07hulusi/2698
+#EXTINF:-1,ZEE Deutschland
+http://ip.avov4.us:8000/hulusi07/07hulusi/3049
+#EXTINF:-1,Spiegel Geschichte HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/3966
+#EXTINF:-1,CH: Srf Info
+http://ip.avov4.us:8000/hulusi07/07hulusi/2697
+#EXTINF:-1,CH: Srf 1
+http://ip.avov4.us:8000/hulusi07/07hulusi/3023
+#EXTINF:-1,CH: Srf 2
+http://ip.avov4.us:8000/hulusi07/07hulusi/3022
+#EXTINF:-1,Orf 1
+http://ip.avov4.us:8000/hulusi07/07hulusi/1170
+#EXTINF:-1,Orf 2
+http://ip.avov4.us:8000/hulusi07/07hulusi/1169
+#EXTINF:-1,Orf Sport
+http://ip.avov4.us:8000/hulusi07/07hulusi/5231
+#EXTINF:-1,TLC
+http://ip.avov4.us:8000/hulusi07/07hulusi/2694
+#EXTINF:-1,Nickelodeon
+http://ip.avov4.us:8000/hulusi07/07hulusi/1973
 #EXTINF:-1,Kika HD
-http://smart-hdip.com:6204/said/123/12262
-#EXTINF:-1,Kinowelt HD
-http://smart-hdip.com:6204/said/123/12368
-#EXTINF:-1,Romance TV
-http://smart-hdip.com:6204/said/123/12193
-#EXTINF:-1,N24 Doku
-http://smart-hdip.com:6204/said/123/12282
-#EXTINF:-1,NDR HD
-http://smart-hdip.com:6204/said/123/12199
-#EXTINF:-1,One HD
-http://smart-hdip.com:6204/said/123/12198
-#EXTINF:-1,ORF 1 HD
-http://smart-hdip.com:6204/said/123/12196
-#EXTINF:-1,ORF 2 HD
-http://smart-hdip.com:6204/said/123/12195
-#EXTINF:-1,ORF Eins FHD
-http://smart-hdip.com:6204/said/123/12197
-#EXTINF:-1,Planet HD
-http://smart-hdip.com:6204/said/123/12285
-#EXTINF:-1,Spiegel Tv Geschichte HD
-http://smart-hdip.com:6204/said/123/12275
-#EXTINF:-1,Spiegel TV Wissen HD
-http://smart-hdip.com:6204/said/123/12274
-#EXTINF:-1,Toggo Plus
-http://smart-hdip.com:6204/said/123/12260
-#EXTINF:-1,Universal Channel HD
-http://smart-hdip.com:6204/said/123/12373
-#EXTINF:-1,MTV Brand New
-http://smart-hdip.com:6204/said/123/12252
-#EXTINF:-1,MTV Classic
-http://smart-hdip.com:6204/said/123/12251
-#EXTINF:-1,MTV Dance
-http://smart-hdip.com:6204/said/123/12250
-#EXTINF:-1,MTV Europe
-http://smart-hdip.com:6204/said/123/12249
-#EXTINF:-1,MTV HD
-http://smart-hdip.com:6204/said/123/12253
-#EXTINF:-1,MTV Hits
-http://smart-hdip.com:6204/said/123/12248
-#EXTINF:-1,JukeBox
-http://smart-hdip.com:6204/said/123/12247
-#EXTINF:-1,MTV Rocks
-http://smart-hdip.com:6204/said/123/12246
-#EXTINF:-1,Travel Channel FHD
-http://smart-hdip.com:6204/said/123/12280
-#EXTINF:-1,Nat Geo HD
-http://smart-hdip.com:6204/said/123/12288
-#EXTINF:-1,Nat Geo Wild HD
-http://smart-hdip.com:6204/said/123/12287
+http://ip.avov4.us:8000/hulusi07/07hulusi/1679
+#EXTINF:-1,Toggo HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/3965
+#EXTINF:-1, Disney Cinemagic HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/2695
+#EXTINF:-1,Disney Cinemagic HD 1080P
+http://ip.avov4.us:8000/hulusi07/07hulusi/4905
+#EXTINF:-1,Disney Channel HD 1080P
+http://ip.avov4.us:8000/hulusi07/07hulusi/4906
+#EXTINF:-1,Sky Disney xd
+http://ip.avov4.us:8000/hulusi07/07hulusi/987
+#EXTINF:-1,Sky Tnt Serie
+http://ip.avov4.us:8000/hulusi07/07hulusi/766
+#EXTINF:-1,Tnt Film HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/415
+#EXTINF:-1,TNT Comedy
+http://ip.avov4.us:8000/hulusi07/07hulusi/762
+#EXTINF:-1,Sky Fox HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/707
+#EXTINF:-1,FOX HD 1080P
+http://ip.avov4.us:8000/hulusi07/07hulusi/4904
+#EXTINF:-1,Syfy HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/327
+#EXTINF:-1,Axn HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/975
+#EXTINF:-1,AXN HD 1080P
+http://ip.avov4.us:8000/hulusi07/07hulusi/4908
+#EXTINF:-1,Sky Krimi
+http://ip.avov4.us:8000/hulusi07/07hulusi/2696
+#EXTINF:-1,Sky Arts HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/3951
+#EXTINF:-1,Sky 1 HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/1969
+#EXTINF:-1,Sky Atlantic HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/411
+#EXTINF:-1,Sky Atlantic HD 1080P
+http://ip.avov4.us:8000/hulusi07/07hulusi/4892
+#EXTINF:-1,Sky Cinema Hits HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/764
+#EXTINF:-1,Sky Hits HD 1080P
+http://ip.avov4.us:8000/hulusi07/07hulusi/4890
+#EXTINF:-1,Sky Cinema HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/409
+#EXTINF:-1,Sky Cinema HD 1080P
+http://ip.avov4.us:8000/hulusi07/07hulusi/4891
+#EXTINF:-1,Sky Action HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/408
+#EXTINF:-1,Sky Action HD 1080P
+http://ip.avov4.us:8000/hulusi07/07hulusi/4893
+#EXTINF:-1,Sky Comedy HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/410
+#EXTINF:-1,Sky Cinema Family HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/5235
+#EXTINF:-1,Sky Emotion HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/760
+#EXTINF:-1,Sky Nostalgie
+http://ip.avov4.us:8000/hulusi07/07hulusi/2038
+#EXTINF:-1,Sky 13 Street HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/418
+#EXTINF:-1,Sky Germany A&E HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/2057
+#EXTINF:-1,Romance TV HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/3025
+#EXTINF:-1,E! Entertainm HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/3024
+#EXTINF:-1,Dmax HD 1080P
+http://ip.avov4.us:8000/hulusi07/07hulusi/3967
+#EXTINF:-1,Dmax HQ
+http://ip.avov4.us:8000/hulusi07/07hulusi/9338
+#EXTINF:-1,History HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/761
+#EXTINF:-1,History HD 1080P
+http://ip.avov4.us:8000/hulusi07/07hulusi/4903
+#EXTINF:-1,National Geo Wild HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/413
+#EXTINF:-1,Nat Geo Wild HD 1080P
+http://ip.avov4.us:8000/hulusi07/07hulusi/4901
+#EXTINF:-1,National Geo HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/412
+#EXTINF:-1,NatGeo HD 1080P
+http://ip.avov4.us:8000/hulusi07/07hulusi/4900
+#EXTINF:-1,National Geographic HD 1080P
+http://ip.avov4.us:8000/hulusi07/07hulusi/4899
+#EXTINF:-1,Discovery HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/2546
+#EXTINF:-1,Discovery HD 1080P
+http://ip.avov4.us:8000/hulusi07/07hulusi/4907
 #EXTINF:-1,Animal Planet HD
-http://smart-hdip.com:6204/said/123/12286
-#EXTINF:-1,Discovery Channel HD
-http://smart-hdip.com:6204/said/123/12284
-#EXTINF:-1,Baby TV
-http://smart-hdip.com:6204/said/123/12264
-#EXTINF:-1,Nickelodeon HD
-http://smart-hdip.com:6204/said/123/12261
-#EXTINF:-1,Boomerang
-http://smart-hdip.com:6204/said/123/12266
-#EXTINF:-1,Cartoon Network HD
-http://smart-hdip.com:6204/said/123/12267
-#EXTINF:-1,Disney Channel HD
-http://smart-hdip.com:6204/said/123/12271
-#EXTINF:-1,Disney CineMagic SD
-http://smart-hdip.com:6204/said/123/12270
-#EXTINF:-1,Disney Junior HD
-http://smart-hdip.com:6204/said/123/12269
-#EXTINF:-1,Disney XD SD
-http://smart-hdip.com:6204/said/123/12268
-#EXTINF:-1,Fix & Foxi
-http://smart-hdip.com:6204/said/123/12265
-#EXTINF:-1,Sky Sport News FHD
-http://smart-hdip.com:6204/said/123/12352
-#EXTINF:-1,Sky Sport News HD.
-http://smart-hdip.com:6204/said/123/12351
-#EXTINF:-1,Sky Sport  Austria FHD
-http://smart-hdip.com:6204/said/123/12354
-#EXTINF:-1,Sky Sport Austria SD
-http://smart-hdip.com:6204/said/123/12353
-#EXTINF:-1,Auto Motor Sport HD
-http://smart-hdip.com:6204/said/123/12356
-#EXTINF:-1,ORF Sport  HD
-http://smart-hdip.com:6204/said/123/12194
-#EXTINF:-1,Motorvision HD
-http://smart-hdip.com:6204/said/123/12355
-#EXTINF:-1,Sport 1 HD.
-http://smart-hdip.com:6204/said/123/12360
-#EXTINF:-1,Sport1  HD
-http://smart-hdip.com:6204/said/123/12359
-#EXTINF:-1,Sport1 US FHD
-http://smart-hdip.com:6204/said/123/12358
-#EXTINF:-1,Sportdigital HD
-http://smart-hdip.com:6204/said/123/12357
-#EXTINF:-1,DAZN  1 FHD
-http://smart-hdip.com:6204/said/123/12339
-#EXTINF:-1,DAZN  2 FHD
-http://smart-hdip.com:6204/said/123/12338
-#EXTINF:-1,EuroSport 1 FHD
-http://smart-hdip.com:6204/said/123/12350
-#EXTINF:-1,EuroSport 1 HD.
-http://smart-hdip.com:6204/said/123/12349
-#EXTINF:-1,EuroSport 2 FHD
-http://smart-hdip.com:6204/said/123/12348
-#EXTINF:-1,EuroSport 2 HD.
-http://smart-hdip.com:6204/said/123/12347
-#EXTINF:-1,EuroSport 2 Xtra FHD
-http://smart-hdip.com:6204/said/123/12346
-#EXTINF:-1,EuroSport 2 Xtra HD
-http://smart-hdip.com:6204/said/123/12345
-#EXTINF:-1,EuroSport360 1 FHD
-http://smart-hdip.com:6204/said/123/12344
-#EXTINF:-1,Eurosport360 2 FHD
-http://smart-hdip.com:6204/said/123/12343
-#EXTINF:-1,EuroSport360 3 FHD
-http://smart-hdip.com:6204/said/123/12342
-#EXTINF:-1,EuroSport360 4 FHD
-http://smart-hdip.com:6204/said/123/12341
-#EXTINF:-1,Eurosport360 5 FHD
-http://smart-hdip.com:6204/said/123/12340
-#EXTINF:-1,Sky Sport 1
-http://smart-hdip.com:6204/said/123/12335
-#EXTINF:-1,Sky Sport 1 FHD
-http://smart-hdip.com:6204/said/123/12337
-#EXTINF:-1,Sky Sport 1 HD
-http://smart-hdip.com:6204/said/123/12336
-#EXTINF:-1,Sky Sport 2
-http://smart-hdip.com:6204/said/123/12332
-#EXTINF:-1,Sky Sport 2 FHD
-http://smart-hdip.com:6204/said/123/12334
-#EXTINF:-1,Sky Sport 2 HD
-http://smart-hdip.com:6204/said/123/12333
-#EXTINF:-1,Sky Sport 3
-http://smart-hdip.com:6204/said/123/12329
-#EXTINF:-1,Sky Sport 3 FHD
-http://smart-hdip.com:6204/said/123/12331
-#EXTINF:-1,Sky Sport 3 HD
-http://smart-hdip.com:6204/said/123/12330
-#EXTINF:-1,Sky Sport 4
-http://smart-hdip.com:6204/said/123/12326
-#EXTINF:-1,Sky Sport 4 FHD
-http://smart-hdip.com:6204/said/123/12328
-#EXTINF:-1,Sky Sport 4 HD
-http://smart-hdip.com:6204/said/123/12327
-#EXTINF:-1,Sky Sport 5
-http://smart-hdip.com:6204/said/123/12323
-#EXTINF:-1,Sky Sport 5 FHD
-http://smart-hdip.com:6204/said/123/12325
-#EXTINF:-1,Sky Sport 5 HD
-http://smart-hdip.com:6204/said/123/12324
-#EXTINF:-1,Sky Sport 6
-http://smart-hdip.com:6204/said/123/12320
-#EXTINF:-1,Sky Sport 6 FHD
-http://smart-hdip.com:6204/said/123/12322
-#EXTINF:-1,Sky Sport 6 HD
-http://smart-hdip.com:6204/said/123/12321
-#EXTINF:-1,Sky Sport 7
-http://smart-hdip.com:6204/said/123/12317
-#EXTINF:-1,Sky Sport 7 FHD
-http://smart-hdip.com:6204/said/123/12319
-#EXTINF:-1,Sky Sport 7 HD
-http://smart-hdip.com:6204/said/123/12318
-#EXTINF:-1,Sky Sport 8 FHD
-http://smart-hdip.com:6204/said/123/12316
-#EXTINF:-1,Sky Sport 8 HD
-http://smart-hdip.com:6204/said/123/12315
-#EXTINF:-1,Sky Sport 9 FHD
-http://smart-hdip.com:6204/said/123/12314
-#EXTINF:-1,Sky Sport 9 HD
-http://smart-hdip.com:6204/said/123/12313
-#EXTINF:-1,Sky Sport 10 FHD
-http://smart-hdip.com:6204/said/123/12312
-#EXTINF:-1,Sky Sport 10 HD
-http://smart-hdip.com:6204/said/123/12311
-#EXTINF:-1,Sky Sport 11 FHD
-http://smart-hdip.com:6204/said/123/12310
-#EXTINF:-1,Sky Sport 11 HD
-http://smart-hdip.com:6204/said/123/12309
-#EXTINF:-1,Sky Sport Bundesliga 1 FHD
-http://smart-hdip.com:6204/said/123/12308
-#EXTINF:-1,Sky Sport Bundesliga 1 HD
-http://smart-hdip.com:6204/said/123/12307
-#EXTINF:-1,Sky Sport Bundesliga 10 FHD
-http://smart-hdip.com:6204/said/123/12290
-#EXTINF:-1,Sky Sport Bundesliga 10 HD
-http://smart-hdip.com:6204/said/123/12289
-#EXTINF:-1,Sky Sport Bundesliga 2 FHD
-http://smart-hdip.com:6204/said/123/12306
-#EXTINF:-1,Sky Sport Bundesliga 2 HD
-http://smart-hdip.com:6204/said/123/12305
-#EXTINF:-1,Sky Sport Bundesliga 3 FHD
-http://smart-hdip.com:6204/said/123/12304
-#EXTINF:-1,Sky Sport Bundesliga 3 HD
-http://smart-hdip.com:6204/said/123/12303
-#EXTINF:-1,Sky Sport Bundesliga 4 FHD
-http://smart-hdip.com:6204/said/123/12302
-#EXTINF:-1,Sky Sport Bundesliga 4 HD
-http://smart-hdip.com:6204/said/123/12301
-#EXTINF:-1,Sky Sport Bundesliga 5 FHD
-http://smart-hdip.com:6204/said/123/12300
-#EXTINF:-1,Sky Sport Bundesliga 5 HD
-http://smart-hdip.com:6204/said/123/12299
-#EXTINF:-1,Sky Sport Bundesliga 6 FHD
-http://smart-hdip.com:6204/said/123/12298
-#EXTINF:-1,Sky Sport Bundesliga 6 HD
-http://smart-hdip.com:6204/said/123/12297
-#EXTINF:-1,Sky Sport Bundesliga 7 FHD
-http://smart-hdip.com:6204/said/123/12296
-#EXTINF:-1,Sky Sport Bundesliga 7 HD
-http://smart-hdip.com:6204/said/123/12295
-#EXTINF:-1,Sky Sport Bundesliga 8 FHD
-http://smart-hdip.com:6204/said/123/12294
-#EXTINF:-1,Sky Sport Bundesliga 8 HD
-http://smart-hdip.com:6204/said/123/12293
-#EXTINF:-1,Sky Sport Bundesliga 9 FHD
-http://smart-hdip.com:6204/said/123/12292
-#EXTINF:-1,Sky Sport Bundesliga 9 HD
-http://smart-hdip.com:6204/said/123/12291
+http://ip.avov4.us:8000/hulusi07/07hulusi/2058
+#EXTINF:-1,Animal Planet HD 1080P
+http://ip.avov4.us:8000/hulusi07/07hulusi/4909
+#EXTINF:-1,Deluxe Music HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/2114
+#EXTINF:-1,Sky Select 1
+http://ip.avov4.us:8000/hulusi07/07hulusi/424
+#EXTINF:-1,Sky Select 2
+http://ip.avov4.us:8000/hulusi07/07hulusi/429
+#EXTINF:-1,Sky Select 3
+http://ip.avov4.us:8000/hulusi07/07hulusi/427
+#EXTINF:-1,Sky Select 4
+http://ip.avov4.us:8000/hulusi07/07hulusi/426
+#EXTINF:-1,Sky Select 5
+http://ip.avov4.us:8000/hulusi07/07hulusi/425
+#EXTINF:-1,Sky Select 6
+http://ip.avov4.us:8000/hulusi07/07hulusi/271
+#EXTINF:-1,Sky Select 7
+http://ip.avov4.us:8000/hulusi07/07hulusi/416
+#EXTINF:-1,Sky Sport News
+http://ip.avov4.us:8000/hulusi07/07hulusi/2276
+#EXTINF:-1,Sport1 HD 1080P
+http://ip.avov4.us:8000/hulusi07/07hulusi/4902
+#EXTINF:-1,Sky Sport 1 HQ
+http://ip.avov4.us:8000/hulusi07/07hulusi/159
+#EXTINF:-1,Sky Sport HD 1 1080P
+http://ip.avov4.us:8000/hulusi07/07hulusi/4579
+#EXTINF:-1,Sky Sport 2 HQ
+http://ip.avov4.us:8000/hulusi07/07hulusi/160
+#EXTINF:-1,Sky Sport HD 2 1080P
+http://ip.avov4.us:8000/hulusi07/07hulusi/4580
+#EXTINF:-1,DAZN 1 HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/10582
+#EXTINF:-1,DAZN 2 HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/10581
+#EXTINF:-1,Sky Bundesliga 1 HQ
+http://ip.avov4.us:8000/hulusi07/07hulusi/158
+#EXTINF:-1,Sky BUNDESLIGA 1 HD 1080P
+http://ip.avov4.us:8000/hulusi07/07hulusi/4624
+#EXTINF:-1,SKY BUNDESLIGA 2 HD ( During Games only )
+http://ip.avov4.us:8000/hulusi07/07hulusi/1286
+#EXTINF:-1,Sky BUNDESLIGA 3 HD ( During Games only )
+http://ip.avov4.us:8000/hulusi07/07hulusi/1285
+#EXTINF:-1,Sky BUNDESLIGA 4 HD ( During Games only )
+http://ip.avov4.us:8000/hulusi07/07hulusi/1287
+#EXTINF:-1,Sky BUNDESLIGA 5 HD ( During Games only )
+http://ip.avov4.us:8000/hulusi07/07hulusi/1288
+#EXTINF:-1,Sky BUNDESLIGA 6 HD ( During Games only )
+http://ip.avov4.us:8000/hulusi07/07hulusi/1418
+#EXTINF:-1,Sky BUNDESLIGA 7 HD ( During Games only )
+http://ip.avov4.us:8000/hulusi07/07hulusi/1419
+#EXTINF:-1,Sky BUNDESLIGA 8 HD ( During Games only )
+http://ip.avov4.us:8000/hulusi07/07hulusi/1420
+#EXTINF:-1,Sky BUNDESLIGA 9 HD ( During Games only )
+http://ip.avov4.us:8000/hulusi07/07hulusi/1421
+#EXTINF:-1,Sky BUNDESLIGA 10 HD ( During Games only )
+http://ip.avov4.us:8000/hulusi07/07hulusi/1422
+#EXTINF:-1,Motorvision
+http://ip.avov4.us:8000/hulusi07/07hulusi/3685
+#EXTINF:-1,Sky Eurosport 1 HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/165
+#EXTINF:-1,Eurosport 2 HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/8389
+#EXTINF:-1,UPC My Sports HD
+http://ip.avov4.us:8000/hulusi07/07hulusi/8388
+#EXTINF:-1,Auto Motor Sport HD 1080P
+http://ip.avov4.us:8000/hulusi07/07hulusi/4910
