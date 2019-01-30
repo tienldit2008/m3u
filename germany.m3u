@@ -1,259 +1,128 @@
-#EXTM3U
-#EXTINF:-1,Zdf  HD
-http://ip.avov4.us:8000/hulusi07/07hulusi/328
-#EXTINF:-1,ZDF HD 1080P
-http://ip.avov4.us:8000/hulusi07/07hulusi/5234
-#EXTINF:-1,Sat 1 HD
-http://ip.avov4.us:8000/hulusi07/07hulusi/765
-#EXTINF:-1,SAT 1 HD 1080P
-http://ip.avov4.us:8000/hulusi07/07hulusi/4895
-#EXTINF:-1,Pro 7 HD
-http://ip.avov4.us:8000/hulusi07/07hulusi/325
-#EXTINF:-1,PRO 7 HD 1080P
-http://ip.avov4.us:8000/hulusi07/07hulusi/4898
-#EXTINF:-1,Sixx
-http://ip.avov4.us:8000/hulusi07/07hulusi/1235
-#EXTINF:-1,SIXX HD 1080P
-http://ip.avov4.us:8000/hulusi07/07hulusi/4894
-#EXTINF:-1,Arte
-http://ip.avov4.us:8000/hulusi07/07hulusi/985
-#EXTINF:-1,Vox HD
-http://ip.avov4.us:8000/hulusi07/07hulusi/324
-#EXTINF:-1,VOX HD 1080P
-http://ip.avov4.us:8000/hulusi07/07hulusi/4888
-#EXTINF:-1,3sat HD
-http://ip.avov4.us:8000/hulusi07/07hulusi/1673
-#EXTINF:-1,Sat 1 Gold
-http://ip.avov4.us:8000/hulusi07/07hulusi/2699
-#EXTINF:-1,Servus Tv
-http://ip.avov4.us:8000/hulusi07/07hulusi/984
-#EXTINF:-1,Kabel 1 HD
-http://ip.avov4.us:8000/hulusi07/07hulusi/1171
-#EXTINF:-1,Kabel 1 Doku HD
-http://ip.avov4.us:8000/hulusi07/07hulusi/8384
-#EXTINF:-1,Kabel 1 Classic HD
-http://ip.avov4.us:8000/hulusi07/07hulusi/8385
-#EXTINF:-1,Ard 1
-http://ip.avov4.us:8000/hulusi07/07hulusi/986
-#EXTINF:-1,Wdr
-http://ip.avov4.us:8000/hulusi07/07hulusi/1674
-#EXTINF:-1,ATV HD
-http://ip.avov4.us:8000/hulusi07/07hulusi/8387
-#EXTINF:-1,Tele 5
-http://ip.avov4.us:8000/hulusi07/07hulusi/8386
-#EXTINF:-1,Ndr HD
-http://ip.avov4.us:8000/hulusi07/07hulusi/2693
-#EXTINF:-1,Pro Maxx HD
-http://ip.avov4.us:8000/hulusi07/07hulusi/2056
-#EXTINF:-1,PRO 7 Fun
-http://ip.avov4.us:8000/hulusi07/07hulusi/331
-#EXTINF:-1,Phoenix
-http://ip.avov4.us:8000/hulusi07/07hulusi/2692
-#EXTINF:-1,Pro 7 Maxx HD
-http://ip.avov4.us:8000/hulusi07/07hulusi/2055
-#EXTINF:-1,ZMAXX HD 1080P
-http://ip.avov4.us:8000/hulusi07/07hulusi/4887
-#EXTINF:-1,Zdf Neo
-http://ip.avov4.us:8000/hulusi07/07hulusi/1672
-#EXTINF:-1,Zdf Info
-http://ip.avov4.us:8000/hulusi07/07hulusi/2012
-#EXTINF:-1,Rtl HD
-http://ip.avov4.us:8000/hulusi07/07hulusi/326
-#EXTINF:-1,RTL HD 1080P
-http://ip.avov4.us:8000/hulusi07/07hulusi/4896
-#EXTINF:-1,Rtl 2 HD
-http://ip.avov4.us:8000/hulusi07/07hulusi/1233
-#EXTINF:-1,RTL 2 HD 1080P
-http://ip.avov4.us:8000/hulusi07/07hulusi/4897
-#EXTINF:-1,Super RTL
-http://ip.avov4.us:8000/hulusi07/07hulusi/1953
-#EXTINF:-1,SUPER RTL HD 1080P
-http://ip.avov4.us:8000/hulusi07/07hulusi/4889
-#EXTINF:-1,Rtl Nitro HD
-http://ip.avov4.us:8000/hulusi07/07hulusi/1234
-#EXTINF:-1,Rtl Crime HD
-http://ip.avov4.us:8000/hulusi07/07hulusi/2547
-#EXTINF:-1,Rtl Living HD
-http://ip.avov4.us:8000/hulusi07/07hulusi/976
-#EXTINF:-1,Rtl Passion
-http://ip.avov4.us:8000/hulusi07/07hulusi/1678
-#EXTINF:-1,MDR HD
-http://ip.avov4.us:8000/hulusi07/07hulusi/1968
-#EXTINF:-1,N24
-http://ip.avov4.us:8000/hulusi07/07hulusi/2698
-#EXTINF:-1,ZEE Deutschland
-http://ip.avov4.us:8000/hulusi07/07hulusi/3049
-#EXTINF:-1,Spiegel Geschichte HD
-http://ip.avov4.us:8000/hulusi07/07hulusi/3966
-#EXTINF:-1,CH: Srf Info
-http://ip.avov4.us:8000/hulusi07/07hulusi/2697
-#EXTINF:-1,CH: Srf 1
-http://ip.avov4.us:8000/hulusi07/07hulusi/3023
-#EXTINF:-1,CH: Srf 2
-http://ip.avov4.us:8000/hulusi07/07hulusi/3022
-#EXTINF:-1,Orf 1
-http://ip.avov4.us:8000/hulusi07/07hulusi/1170
-#EXTINF:-1,Orf 2
-http://ip.avov4.us:8000/hulusi07/07hulusi/1169
-#EXTINF:-1,Orf Sport
-http://ip.avov4.us:8000/hulusi07/07hulusi/5231
-#EXTINF:-1,TLC
-http://ip.avov4.us:8000/hulusi07/07hulusi/2694
-#EXTINF:-1,Nickelodeon
-http://ip.avov4.us:8000/hulusi07/07hulusi/1973
-#EXTINF:-1,Kika HD
-http://ip.avov4.us:8000/hulusi07/07hulusi/1679
-#EXTINF:-1,Toggo HD
-http://ip.avov4.us:8000/hulusi07/07hulusi/3965
-#EXTINF:-1, Disney Cinemagic HD
-http://ip.avov4.us:8000/hulusi07/07hulusi/2695
-#EXTINF:-1,Disney Cinemagic HD 1080P
-http://ip.avov4.us:8000/hulusi07/07hulusi/4905
-#EXTINF:-1,Disney Channel HD 1080P
-http://ip.avov4.us:8000/hulusi07/07hulusi/4906
-#EXTINF:-1,Sky Disney xd
-http://ip.avov4.us:8000/hulusi07/07hulusi/987
-#EXTINF:-1,Sky Tnt Serie
-http://ip.avov4.us:8000/hulusi07/07hulusi/766
-#EXTINF:-1,Tnt Film HD
-http://ip.avov4.us:8000/hulusi07/07hulusi/415
-#EXTINF:-1,TNT Comedy
-http://ip.avov4.us:8000/hulusi07/07hulusi/762
-#EXTINF:-1,Sky Fox HD
-http://ip.avov4.us:8000/hulusi07/07hulusi/707
-#EXTINF:-1,FOX HD 1080P
-http://ip.avov4.us:8000/hulusi07/07hulusi/4904
-#EXTINF:-1,Syfy HD
-http://ip.avov4.us:8000/hulusi07/07hulusi/327
-#EXTINF:-1,Axn HD
-http://ip.avov4.us:8000/hulusi07/07hulusi/975
-#EXTINF:-1,AXN HD 1080P
-http://ip.avov4.us:8000/hulusi07/07hulusi/4908
-#EXTINF:-1,Sky Krimi
-http://ip.avov4.us:8000/hulusi07/07hulusi/2696
-#EXTINF:-1,Sky Arts HD
-http://ip.avov4.us:8000/hulusi07/07hulusi/3951
-#EXTINF:-1,Sky 1 HD
-http://ip.avov4.us:8000/hulusi07/07hulusi/1969
-#EXTINF:-1,Sky Atlantic HD
-http://ip.avov4.us:8000/hulusi07/07hulusi/411
-#EXTINF:-1,Sky Atlantic HD 1080P
-http://ip.avov4.us:8000/hulusi07/07hulusi/4892
-#EXTINF:-1,Sky Cinema Hits HD
-http://ip.avov4.us:8000/hulusi07/07hulusi/764
-#EXTINF:-1,Sky Hits HD 1080P
-http://ip.avov4.us:8000/hulusi07/07hulusi/4890
-#EXTINF:-1,Sky Cinema HD
-http://ip.avov4.us:8000/hulusi07/07hulusi/409
-#EXTINF:-1,Sky Cinema HD 1080P
-http://ip.avov4.us:8000/hulusi07/07hulusi/4891
-#EXTINF:-1,Sky Action HD
-http://ip.avov4.us:8000/hulusi07/07hulusi/408
-#EXTINF:-1,Sky Action HD 1080P
-http://ip.avov4.us:8000/hulusi07/07hulusi/4893
-#EXTINF:-1,Sky Comedy HD
-http://ip.avov4.us:8000/hulusi07/07hulusi/410
-#EXTINF:-1,Sky Cinema Family HD
-http://ip.avov4.us:8000/hulusi07/07hulusi/5235
-#EXTINF:-1,Sky Emotion HD
-http://ip.avov4.us:8000/hulusi07/07hulusi/760
-#EXTINF:-1,Sky Nostalgie
-http://ip.avov4.us:8000/hulusi07/07hulusi/2038
-#EXTINF:-1,Sky 13 Street HD
-http://ip.avov4.us:8000/hulusi07/07hulusi/418
-#EXTINF:-1,Sky Germany A&E HD
-http://ip.avov4.us:8000/hulusi07/07hulusi/2057
-#EXTINF:-1,Romance TV HD
-http://ip.avov4.us:8000/hulusi07/07hulusi/3025
-#EXTINF:-1,E! Entertainm HD
-http://ip.avov4.us:8000/hulusi07/07hulusi/3024
-#EXTINF:-1,Dmax HD 1080P
-http://ip.avov4.us:8000/hulusi07/07hulusi/3967
-#EXTINF:-1,Dmax HQ
-http://ip.avov4.us:8000/hulusi07/07hulusi/9338
-#EXTINF:-1,History HD
-http://ip.avov4.us:8000/hulusi07/07hulusi/761
-#EXTINF:-1,History HD 1080P
-http://ip.avov4.us:8000/hulusi07/07hulusi/4903
-#EXTINF:-1,National Geo Wild HD
-http://ip.avov4.us:8000/hulusi07/07hulusi/413
-#EXTINF:-1,Nat Geo Wild HD 1080P
-http://ip.avov4.us:8000/hulusi07/07hulusi/4901
-#EXTINF:-1,National Geo HD
-http://ip.avov4.us:8000/hulusi07/07hulusi/412
-#EXTINF:-1,NatGeo HD 1080P
-http://ip.avov4.us:8000/hulusi07/07hulusi/4900
-#EXTINF:-1,National Geographic HD 1080P
-http://ip.avov4.us:8000/hulusi07/07hulusi/4899
-#EXTINF:-1,Discovery HD
-http://ip.avov4.us:8000/hulusi07/07hulusi/2546
-#EXTINF:-1,Discovery HD 1080P
-http://ip.avov4.us:8000/hulusi07/07hulusi/4907
-#EXTINF:-1,Animal Planet HD
-http://ip.avov4.us:8000/hulusi07/07hulusi/2058
-#EXTINF:-1,Animal Planet HD 1080P
-http://ip.avov4.us:8000/hulusi07/07hulusi/4909
-#EXTINF:-1,Deluxe Music HD
-http://ip.avov4.us:8000/hulusi07/07hulusi/2114
-#EXTINF:-1,Sky Select 1
-http://ip.avov4.us:8000/hulusi07/07hulusi/424
-#EXTINF:-1,Sky Select 2
-http://ip.avov4.us:8000/hulusi07/07hulusi/429
-#EXTINF:-1,Sky Select 3
-http://ip.avov4.us:8000/hulusi07/07hulusi/427
-#EXTINF:-1,Sky Select 4
-http://ip.avov4.us:8000/hulusi07/07hulusi/426
-#EXTINF:-1,Sky Select 5
-http://ip.avov4.us:8000/hulusi07/07hulusi/425
-#EXTINF:-1,Sky Select 6
-http://ip.avov4.us:8000/hulusi07/07hulusi/271
-#EXTINF:-1,Sky Select 7
-http://ip.avov4.us:8000/hulusi07/07hulusi/416
-#EXTINF:-1,Sky Sport News
-http://ip.avov4.us:8000/hulusi07/07hulusi/2276
-#EXTINF:-1,Sport1 HD 1080P
-http://ip.avov4.us:8000/hulusi07/07hulusi/4902
-#EXTINF:-1,Sky Sport 1 HQ
-http://ip.avov4.us:8000/hulusi07/07hulusi/159
-#EXTINF:-1,Sky Sport HD 1 1080P
-http://ip.avov4.us:8000/hulusi07/07hulusi/4579
-#EXTINF:-1,Sky Sport 2 HQ
-http://ip.avov4.us:8000/hulusi07/07hulusi/160
-#EXTINF:-1,Sky Sport HD 2 1080P
-http://ip.avov4.us:8000/hulusi07/07hulusi/4580
-#EXTINF:-1,DAZN 1 HD
-http://ip.avov4.us:8000/hulusi07/07hulusi/10582
-#EXTINF:-1,DAZN 2 HD
-http://ip.avov4.us:8000/hulusi07/07hulusi/10581
-#EXTINF:-1,Sky Bundesliga 1 HQ
-http://ip.avov4.us:8000/hulusi07/07hulusi/158
-#EXTINF:-1,Sky BUNDESLIGA 1 HD 1080P
-http://ip.avov4.us:8000/hulusi07/07hulusi/4624
-#EXTINF:-1,SKY BUNDESLIGA 2 HD ( During Games only )
-http://ip.avov4.us:8000/hulusi07/07hulusi/1286
-#EXTINF:-1,Sky BUNDESLIGA 3 HD ( During Games only )
-http://ip.avov4.us:8000/hulusi07/07hulusi/1285
-#EXTINF:-1,Sky BUNDESLIGA 4 HD ( During Games only )
-http://ip.avov4.us:8000/hulusi07/07hulusi/1287
-#EXTINF:-1,Sky BUNDESLIGA 5 HD ( During Games only )
-http://ip.avov4.us:8000/hulusi07/07hulusi/1288
-#EXTINF:-1,Sky BUNDESLIGA 6 HD ( During Games only )
-http://ip.avov4.us:8000/hulusi07/07hulusi/1418
-#EXTINF:-1,Sky BUNDESLIGA 7 HD ( During Games only )
-http://ip.avov4.us:8000/hulusi07/07hulusi/1419
-#EXTINF:-1,Sky BUNDESLIGA 8 HD ( During Games only )
-http://ip.avov4.us:8000/hulusi07/07hulusi/1420
-#EXTINF:-1,Sky BUNDESLIGA 9 HD ( During Games only )
-http://ip.avov4.us:8000/hulusi07/07hulusi/1421
-#EXTINF:-1,Sky BUNDESLIGA 10 HD ( During Games only )
-http://ip.avov4.us:8000/hulusi07/07hulusi/1422
-#EXTINF:-1,Motorvision
-http://ip.avov4.us:8000/hulusi07/07hulusi/3685
-#EXTINF:-1,Sky Eurosport 1 HD
-http://ip.avov4.us:8000/hulusi07/07hulusi/165
-#EXTINF:-1,Eurosport 2 HD
-http://ip.avov4.us:8000/hulusi07/07hulusi/8389
-#EXTINF:-1,UPC My Sports HD
-http://ip.avov4.us:8000/hulusi07/07hulusi/8388
-#EXTINF:-1,Auto Motor Sport HD 1080P
-http://ip.avov4.us:8000/hulusi07/07hulusi/4910
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://4.bp.blogspot.com/-BAcecuCPkK4/VGjDw1zsTdI/AAAAAAAACeE/eSgTcT9nY7Y/s1600/123tv.jpg" group-title="GERMANY",1-2-3 TV
+http://123tv.cdn.ses-ps.com/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Alex_Offener_Kanal_Berlin_Logo.svg/2000px-Alex_Offener_Kanal_Berlin_Logo.svg.png" group-title="GERMANY",ALEX Berlin
+http://alex-stream.rosebud-media.de:80/live/smil:alexlivetv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radioszene.de/wp-content/uploads/2016/12/allgaeu-tv-logo-fb-min.png" group-title="GERMANY",Allgau TV
+http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/1200px-ARD_alpha.svg.png" group-title="GERMANY",ARD-alpha
+http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.iptvdigital.com/images/canal_live/22_canal_live_28_canal_live_baden_tv.png" group-title="GERMANY",Baden TV (Opt-1)
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.iptvdigital.com/images/canal_live/22_canal_live_28_canal_live_baden_tv.png" group-title="GERMANY",Baden TV (Opt-2)
+https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G9R4xyq.jpg" group-title="GERMANY",Berlin Metal TV
+http://autopilot.myowntv.org/content/33816/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/blizztv.png" group-title="GERMANY",Blizz TV
+http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.live-stream.tv/picons/br.png" group-title="GERMANY",BR Worldwide
+https://br_hdslive-f.akamaihd.net/i/bfssued_worldwide@119891/index_3776_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.live-stream.tv/picons/br.png" group-title="GERMANY",BR Germany
+http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8|X-Forwarded-For=91.197.29.78
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.live-stream.tv/picons/br.png" group-title="GERMANY",BR Nord
+http://livestreams.br.de/i/bfsnord_germany@119898/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.live-stream.tv/picons/br.png" group-title="GERMANY",BR Sued
+http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-p6SxYHWfzPA/AAAAAAAAAAI/AAAAAAAAAAA/v8ceLuwU1Qg/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="GERMANY",Campus TV Magdeburg
+http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8?bitrate=800
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="GERMANY",Das Erste
+https://mcdn.daserste.de/daserste/de/profile1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="GERMANY",Das Erste Germany
+http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="GERMANY",Das Erste Int'l
+http://daserste_live-lh.akamaihd.net/i/daserste_int@91203/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.firmenpresse.de/adpics/501621.jpg" group-title="GERMANY",Der Aktionar TV
+http://edge-h.daf.tmt.de/ios-live/daf-ios-live-livetv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" group-title="GERMANY",Deutsche Welle (Opt-1)
+http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" group-title="GERMANY",Deutsche Welle (Opt-2)
+http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" group-title="GERMANY",Deutsche Welle (Opt-3)
+http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/wixedx.jpg" group-title="GERMANY",Deutsches Musik Fernsehen
+http://tv.artcom-venture.de:1322/dmf/tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s100563q.png" group-title="GERMANY",Elbekanal
+http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/eotvhd.png" group-title="GERMANY",EOTV
+http://cdn-europe.smartcast.de:1935/eotv/eotvhd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/06/B-ddZjpJ.png" group-title="GERMANY",Family TV
+http://familytvblizz-lh.akamaihd.net/i/blizzlive_1@36699/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/frankenfernsehen.png" group-title="GERMANY",Franken Fernsehen
+http://frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.broadbandtvnews.com/wp-content/uploads/2015/07/Folx-TV.jpg" group-title="GERMANY",Folx TV
+http://46.101.244.86:8081/folx-abr/live-abr/fle/fle1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/H1-logo.svg/1200px-H1-logo.svg.png" group-title="GERMANY",h1
+http://livestream.htp.tv/livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://programm.ard.de/files/265/2007/2778/28108.jpg" group-title="GERMANY",HR Fernsehen
+http://livestream-1.hr.de:80/i/hr_fernsehen@75910/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/intv.png" group-title="GERMANY",INTV
+https://586c13b083c0d.streamlock.net/ingolstadttv/ingolstadttv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Isar_TV.png" group-title="GERMANY",Isar TV
+http://isar-tv.iptv-playoutcenter.de:1935/isar-tv/isar-tv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://kulturmd.de/images/2018_KMDLogo.png" group-title="GERMANY",kulturmdTV
+http://62.113.210.250/medienasa-live/_definst_/mp4:kulturmd_high/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/LS89GC9.png" group-title="GERMANY",MagentaMusik 360
+http://streaming-magenta-music-360.akamaized.net/hls/live/504581/magentamusik1/magentamusik1_1/magentamusik1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.hms-dev.com/images/logos/references/mdf1_rbw.png" group-title="GERMANY",MDF.1
+http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/580346447574503424/CxEQwneb.png" group-title="GERMANY",Munchen TV
+http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mytvplus.de/arbeitsdaten/png/LOGO%20MyTVplus%2002.png" group-title="GERMANY",MyTVplus
+rtmp://62.67.13.54/MyTVplus/mtvp_livestream_2.stream
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/NDR_HD.svg/240px-NDR_HD.svg.png" group-title="GERMANY",NDR Hamburg
+https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/NDR_HD.svg/240px-NDR_HD.svg.png" group-title="GERMANY",NDR Mecklenburg-Vorpommern
+https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/NDR_HD.svg/240px-NDR_HD.svg.png" group-title="GERMANY",NDR Niedersachsen
+https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/NDR_HD.svg/240px-NDR_HD.svg.png" group-title="GERMANY",NDR Schleswig-Holstein
+https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.vefire.ru/l/en/NOA4.gif" group-title="GERMANY",Noa 4 Norderstedt
+http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.vefire.ru/l/en/NOA4.gif" group-title="GERMANY",Noa 4 Hamburg
+http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.otv.de/wp-content/themes/otv/img/logo.png" group-title="GERMANY",Oberpfalz TV
+http://oberpfalztv.iptv-playoutcenter.de:1935/oberpfalztv/oberpfalztv.stream_1/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ok-magdeburg.de/wp-content/themes/okm/images/logo-offener-kanal-magdeburg.png" group-title="GERMANY",Offener Kanal Magdeburg
+http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-magdeburg_high/hasbahca.m3u8?bitrate=800
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ok54.de/wp-content/uploads/2012/01/ok54.png" group-title="GERMANY",OK54
+http://stream-cdn.ok54.de/hls/ok54.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.youngspeech.de/wp-content/gallery/pop10-konzert/d-logode.jpg" group-title="GERMANY",pop10
+http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8?bitrate=800
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rfo.png" group-title="GERMANY",RFO
+http://rfo.iptv-playoutcenter.de:1935/rfo/rfo.stream_2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rheinmaintv.png" group-title="GERMANY",Rheinmain TV
+http://62.67.13.54:1935/rmtv/rmtv_livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SWR3_Logo.svg/1200px-SWR3_Logo.svg.png" group-title="GERMANY",SWR 3
+http://swr3visual-lh.akamaihd.net/i/swr3visual_live@6410/index_3584_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.goldbachgermany.de/uploads/Sylt1-Logo-1024x449.png" group-title="GERMANY",SYLT1
+http://62.67.13.54:1935/sylt1/sylt1_high.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i67.tinypic.com/1zcz428.jpg" group-title="GERMANY",tagesschau24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tidenet.de/img/navi_tv_logo.png" group-title="GERMANY",Tide TV
+http://62.113.210.8/tide-rtplive/mp4:liveplayout.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/TIROL_TV_Logo.jpg" group-title="GERMANY",Tirol TV
+http://lb.hd-livestream.de:1935/live/TirolTV/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.firstonetv.net/images/logos/de/TV38.png" group-title="GERMANY",TV38
+http://62.113.221.3/tv38-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/TV_Mittelrhein_Logo.svg/2000px-TV_Mittelrhein_Logo.svg.png" group-title="GERMANY",TV Mittelrhein
+https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5714-mbr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvaktuell.com/storage/thumbs/700x/r:1428659201/128312.jpg" group-title="GERMANY",TVA Ostbayern
+http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.teamkral.de/uploads/pics/tvo20logo_01.jpg" group-title="GERMANY",TVO (Opt-1)
+http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.teamkral.de/uploads/pics/tvo20logo_01.jpg" group-title="GERMANY",TVO (Opt-2)
+https://tvo.vedge.infomaniak.com/livecast/tvo/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvtouring.de/storage/thumbs/960x/r:1491827599/12164.jpg" group-title="GERMANY",TV Touring Schweinfurt
+http://tvtourings.iptv-playoutcenter.de:1935/tvtourings/tvtourings.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvtouring.de/storage/thumbs/960x/r:1491827599/12164.jpg" group-title="GERMANY",TV Touring Wurzburg
+http://tvtouringw.iptv-playoutcenter.de:1935/tvtouringw/tvtouringw.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/78/UnserDing_logo_2013_203x143.png" group-title="GERMANY",Unserding
+http://srunserding-lh.akamaihd.net/i/visualradio_ud@197013/index_1662_av-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/1200px-Wdr_fernsehen_logo_2016.svg.png" group-title="GERMANY",WDR Fernsehen
+http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.broadbandtvnews.com/wp-content/uploads/2014/05/Welt-der-Wunder.jpg" group-title="GERMANY",Welt der Wunder
+http://live.vidoo.de/live/weltderwunder/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/DeluxeMusicHD.svg/220px-DeluxeMusicHD.svg.png" group-title="GERMANY",Deluxe Music
+http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png" group-title="GERMANY",QVC
+http://ios-stream.qvc.de/qvc.m3u8
