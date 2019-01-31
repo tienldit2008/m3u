@@ -1,617 +1,217 @@
 #EXTM3U
-#EXTINF:0,RTP 1 FHD
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5702
-#EXTINF:0,RTP 1 HD (LOW)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5694
-#EXTINF:0,RTP 1
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5703
-#EXTINF:0,RTP 2 FHD
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5700
-#EXTINF:0,RTP 2 HD (LOW)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5693
-#EXTINF:0,RTP 2
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5701
-#EXTINF:0,SIC FHD
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5698
-#EXTINF:0,SIC HD (LOW)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5692
-#EXTINF:0,SIC
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5699
-#EXTINF:0,TVI FHD
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5696
-#EXTINF:0,TVI HD (LOW)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5691
-#EXTINF:0,TVI
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5697
-#EXTINF:0,RTP AÁores
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5668
-#EXTINF:0,RTP Africa
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5671
-#EXTINF:0,RTP Madeira
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5669
-#EXTINF:0,RTP MemÛria
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5670
-#EXTINF:0,http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/11
-#EXTINF:0,RTP 3
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5673
-#EXTINF:0,TVI 24 HD
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/9327
-#EXTINF:0,TVI 24
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5695
-#EXTINF:0,TVI 24 (LOW)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10037
-#EXTINF:0,SIC NOTICIAS HD
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5677
-#EXTINF:0,SIC Noticias
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5678
-#EXTINF:0,SIC NotÌcias (LOW)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10529
-#EXTINF:0,CMTV HD
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5675
-#EXTINF:0,CMTV
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5676
-#EXTINF:0,CMTV (LOW)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10036
-#EXTINF:0,Porto Canal HD
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/6975
-#EXTINF:0,Porto Canal
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5674
-#EXTINF:0,TPA INTERNACIONAL
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5672
-#EXTINF:0,Bloomberg
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/9348
-#EXTINF:0,CNBC Europe
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/9349
-#EXTINF:0,CNN
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/9329
-#EXTINF:0,EuroNews
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/9331
-#EXTINF:0,SKY NEWS
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/9324
-#EXTINF:0,TVE 24h
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/9344
-#EXTINF:0,FOX News
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5580
-#EXTINF:0,France 24
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5655
-#EXTINF:0,BBC WORLD NEWS HD
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/9328
-#EXTINF:0,http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/19
-#EXTINF:0,SIC Mulher
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5683
-#EXTINF:0,SIC Caras HD
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5681
-#EXTINF:0,SIC Caras
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5682
-#EXTINF:0,SIC Radical HD
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5679
-#EXTINF:0,SIC Radical
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5680
-#EXTINF:0,TVI FicÁ„o
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5690
-#EXTINF:0,TVI FicÁ„o (LOW)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10531
-#EXTINF:0,24 Kitchen HD
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5548
-#EXTINF:0,Canal Q
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5549
-#EXTINF:0,Kuriakos TV
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10081
-#EXTINF:0,CanÁ„o Nova
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10528
-#EXTINF:0,LOCALVISAO TV HD
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/9333
-#EXTINF:0,SANTUARIO FATIMA
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/9335
-#EXTINF:0,CTV Vaticano
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/6151
-#EXTINF:0,CANAL ANGELUS TV
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/9334
-#EXTINF:0,http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10808
-#EXTINF:0,SPORT TV+
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/12059
-#EXTINF:0,SPORT TV + ALT 2
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/12058
-#EXTINF:0,SPORT TV + ALT 3
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/12057
-#EXTINF:0,SPORT TV + ALT 4
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/12056
-#EXTINF:0,SPORT TV + ALT 5
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/12055
-#EXTINF:0,SPORT TV + ALT 6
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/12054
-#EXTINF:0,Sport TV 1
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/12052
-#EXTINF:0,Sport TV 1 ALT 2
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/12051
-#EXTINF:0,Sport TV 1 ALT 3
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/12050
-#EXTINF:0,Sport TV 1 ALT 4
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/12049
-#EXTINF:0,Sport TV 1 ALT 5
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/12048
-#EXTINF:0,Sport TV 1 ALT 6
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/12047
-#EXTINF:0,Sport TV 1 ALT 7
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/12046
-#EXTINF:0,Sport TV 1 ALT 8
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/12045
-#EXTINF:0,Sport TV 1 ALT 9
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/12044
-#EXTINF:0,Sport TV 1 ALT 10
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/12043
-#EXTINF:0,Sport TV 1 ALT 11
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/12042
-#EXTINF:0,Sport TV 1 ALT 12
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/12041
-#EXTINF:0,Sport TV 1 ALT 13
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/12040
-#EXTINF:0,Sport TV 1 ALT 14
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/12039
-#EXTINF:0,Sport TV 1 ALT 15
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/12038
-#EXTINF:0,Sport TV 2
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/12034
-#EXTINF:0,Sport TV 2 ALT 2
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/12033
-#EXTINF:0,Sport TV 2 ALT 3
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/12032
-#EXTINF:0,Sport TV 2 ALT 4
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/12031
-#EXTINF:0,Sport TV 2 ALT 5
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/12030
-#EXTINF:0,Sport TV 2 ALT 6
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/12029
-#EXTINF:0,Sport TV 2 ALT 7
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/12028
-#EXTINF:0,Sport TV 2 ALT 8
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/12027
-#EXTINF:0,Sport TV 2 ALT 9
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/12026
-#EXTINF:0,Sport TV 2 ALT 10
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/12025
-#EXTINF:0,Sport TV 2 ALT 11
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/12024
-#EXTINF:0,Sport TV 3
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/12020
-#EXTINF:0,Sport TV 3 ALT 2
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/12019
-#EXTINF:0,Sport TV 3 ALT 3
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/12018
-#EXTINF:0,Sport TV 3 ALT 4
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/12017
-#EXTINF:0,Sport TV 3 ALT 5
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/12016
-#EXTINF:0,Sport TV 3 ALT 6
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/12015
-#EXTINF:0,Sport TV 3 ALT 7
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/12014
-#EXTINF:0,Sport TV 3 ALT 8
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/12013
-#EXTINF:0,Sport TV 3 ALT 9
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/12012
-#EXTINF:0,Sport TV 3 ALT 10
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/12011
-#EXTINF:0,Sport TV 3 ALT 11
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/12010
-#EXTINF:0,Sport TV 3 ALT 12
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/12009
-#EXTINF:0,Sport TV 3 ALT 13
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/12008
-#EXTINF:0,Sport TV 3 ALT 14
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/12007
-#EXTINF:0,Sport TV 3 ALT 15
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/12006
-#EXTINF:0,Sport TV 4
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/12003
-#EXTINF:0,Sport TV 4 ALT 2
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/12002
-#EXTINF:0,Sport TV 4 ALT 3
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/12001
-#EXTINF:0,Sport TV 4 ALT 4
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/12000
-#EXTINF:0,Sport TV 4 ALT 5
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/11999
-#EXTINF:0,Sport TV 4 ALT 6
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/11998
-#EXTINF:0,Sport TV 4 ALT 7
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/11997
-#EXTINF:0,Sport TV 4 ALT 8
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/11996
-#EXTINF:0,Sport TV 4 ALT 9
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/11995
-#EXTINF:0,Sport TV 4 ALT 10
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/11994
-#EXTINF:0,Sport TV 4 ALT 11
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/11993
-#EXTINF:0,Sport TV 5
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/11990
-#EXTINF:0,Sport TV 5 ALT 2
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/11989
-#EXTINF:0,Sport TV 5 ALT 3
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/11988
-#EXTINF:0,Sport TV 5 ALT 4
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/11987
-#EXTINF:0,Sport TV 5 ALT 5
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/11986
-#EXTINF:0,Sport TV 5 ALT 6
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/11985
-#EXTINF:0,Sport TV 5 ALT 7
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/11984
-#EXTINF:0,Sport TV 5 ALT 8
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/11983
-#EXTINF:0,Sport TV 5 ALT 9
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/11982
-#EXTINF:0,Sport TV 5 ALT 10
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/11981
-#EXTINF:0,ELEVEN Sports 1 (ALT 1)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/14613
-#EXTINF:0,ELEVEN Sports 1 (ALT 2)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/15465
-#EXTINF:0,ELEVEN Sports 1 (ALT 3)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/15468
-#EXTINF:0,ELEVEN Sports 1 (ALT 4)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/15470
-#EXTINF:0,ELEVEN Sports 1 (ALT 5)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/15467
-#EXTINF:0,ELEVEN Sports 1 (ALT 6)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/15469
-#EXTINF:0,ELEVEN Sports 1 (ALT 7)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/15466
-#EXTINF:0,ELEVEN Sports 1 (ALT 8)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/14607
-#EXTINF:0,ELEVEN Sports 1 (ALT 9)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/15443
-#EXTINF:0,ELEVEN Sports 1 (ALT 10)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/14803
-#EXTINF:0,ELEVEN Sports 1 (LOW)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/14800
-#EXTINF:0,ELEVEN Sports 2 (ALT 1)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/14606
-#EXTINF:0,ELEVEN Sports 2 (ALT 2)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/15437
-#EXTINF:0,ELEVEN Sports 2 (ALT 3)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/15464
-#EXTINF:0,ELEVEN Sports 2 (ALT 4)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/15460
-#EXTINF:0,ELEVEN Sports 2 (ALT 5)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/15459
-#EXTINF:0,ELEVEN Sports 2 (ALT 6)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/15463
-#EXTINF:0,ELEVEN Sports 2 (ALT 7)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/15461
-#EXTINF:0,ELEVEN Sports 2 (ALT 8)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/15462
-#EXTINF:0,ELEVEN Sports 2 (ALT 9)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/15442
-#EXTINF:0,ELEVEN Sports 2 (ALT 10)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/14612
-#EXTINF:0,ELEVEN Sports 2 (LOW)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/14801
-#EXTINF:0,ELEVEN Sports 3 (ALT 1)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/15458
-#EXTINF:0,ELEVEN Sports 3 (ALT 2)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/15457
-#EXTINF:0,ELEVEN Sports 3 (ALT 3)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/15456
-#EXTINF:0,ELEVEN Sports 3 (ALT 4)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/15455
-#EXTINF:0,ELEVEN Sports 3 (ALT 5)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/15454
-#EXTINF:0,ELEVEN Sports 3 (ALT 6)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/15441
-#EXTINF:0,ELEVEN Sports 3 (ALT 7)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/15436
-#EXTINF:0,ELEVEN Sports 3 (ALT 8)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/14611
-#EXTINF:0,ELEVEN Sports 3 (LOW)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/14802
-#EXTINF:0,ELEVEN Sports 4 (ALT 1)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/14610
-#EXTINF:0,ELEVEN Sports 4 (ALT 2)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/15453
-#EXTINF:0,ELEVEN Sports 4 (ALT 3)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/15452
-#EXTINF:0,ELEVEN Sports 4 (ALT 4)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/15451
-#EXTINF:0,ELEVEN Sports 4 (ALT 5)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/15445
-#EXTINF:0,ELEVEN Sports 4 (ALT 6)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/15440
-#EXTINF:0,ELEVEN Sports 4 (LOW)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/15435
-#EXTINF:0,ELEVEN Sports 5 (ALT 1)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/14609
-#EXTINF:0,ELEVEN Sports 5 (ALT 2)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/15450
-#EXTINF:0,ELEVEN Sports 5 (ALT 3)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/15449
-#EXTINF:0,ELEVEN Sports 5 (ALT 4)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/15448
-#EXTINF:0,ELEVEN Sports 5 (ALT 5)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/15439
-#EXTINF:0,ELEVEN Sports 5 (LOW)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/15434
-#EXTINF:0,ELEVEN Sports 6 (ALT 1)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/14608
-#EXTINF:0,ELEVEN Sports 6 (ALT 2)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/15447
-#EXTINF:0,ELEVEN Sports 6 (ALT 3)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/15446
-#EXTINF:0,ELEVEN Sports 6 (ALT 4)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/15438
-#EXTINF:0,ELEVEN Sports 6 (LOW)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/15433
-#EXTINF:0,Benfica TV 1
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10735
-#EXTINF:0,BTV ALT 2
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10734
-#EXTINF:0,BTV ALT 3
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10733
-#EXTINF:0,BTV ALT 4
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10732
-#EXTINF:0,BTV ALT 5
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10731
-#EXTINF:0,BTV ALT 6
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10730
-#EXTINF:0,BTV ALT 7
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10729
-#EXTINF:0,BTV ALT 8
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10728
-#EXTINF:0,BTV ALT 9
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10727
-#EXTINF:0,BTV ALT 10
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10726
-#EXTINF:0,BTV ALT 11
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10725
-#EXTINF:0,BTV ALT 12
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10724
-#EXTINF:0,BTV ALT 13
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10723
-#EXTINF:0,BTV ALT 14
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10722
-#EXTINF:0,BTV ALT 15
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10721
-#EXTINF:0,Sporting TV HD
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/9338
-#EXTINF:0,Sporting TV HD (LOW)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10026
-#EXTINF:0,Sporting TV
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5622
-#EXTINF:0,CHELSEA TV
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/9339
-#EXTINF:0,REAL MADRID TV
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/9322
-#EXTINF:0,EUROSPORT 1 HD
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/9340
-#EXTINF:0,Eurosport 1
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5618
-#EXTINF:0,Eurosport 2
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5616
-#EXTINF:0,Eurosport News
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/9330
-#EXTINF:0,Fight Network HD
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5555
-#EXTINF:0,Kombat Sport
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5607
-#EXTINF:0,PFC
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5612
-#EXTINF:0,NBA TV
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5615
-#EXTINF:0,Motorvision
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5610
-#EXTINF:0,FUEL TV HD
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/9341
-#EXTINF:0,Fuel TV
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5604
-#EXTINF:0,ABola TV
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5620
-#EXTINF:0,CaÁavision
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5608
-#EXTINF:0,CaÁa e Pesca
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5605
-#EXTINF:0,Toros TV
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5609
-#EXTINF:0,http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/63
-#EXTINF:0,TVCINE 1 HD
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5602
-#EXTINF:0,TVCine 1 HD (LOW)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10035
-#EXTINF:0,TVCine 1
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5603
-#EXTINF:0,TVCine 2 HD
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5600
-#EXTINF:0,TVCine 2 HD (LOW)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10034
-#EXTINF:0,TVCine 2
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5601
-#EXTINF:0,TVcine 2 (LOW)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10540
-#EXTINF:0,TVCine 3 HD
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5598
-#EXTINF:0,TVCine 3 HD (LOW)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10033
-#EXTINF:0,TVCine 3
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5599
-#EXTINF:0,TVCine 3 (LOW)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10541
-#EXTINF:0,TVCINE 4 HD
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5596
-#EXTINF:0,TVCine 4 HD (LOW)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10032
-#EXTINF:0,TVCine 4
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5597
-#EXTINF:0,TVCine 4 (LOW)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10542
-#EXTINF:0,AMC HD
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5585
-#EXTINF:0,AMC
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5586
-#EXTINF:0,AMC (LOW)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10546
-#EXTINF:0,Hollywood HD
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5588
-#EXTINF:0,Hollywood
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5589
-#EXTINF:0,Hollywood (LOW)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10543
-#EXTINF:0,FOX Movies HD
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/9323
-#EXTINF:0,FOX Movies
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5578
-#EXTINF:0,FOX Movies (LOW)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10545
-#EXTINF:0,CINEMUNDO HD
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/9336
-#EXTINF:0,Cinemundo
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5587
-#EXTINF:0,Cinemundo (LOW)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10544
-#EXTINF:0,http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/78
-#EXTINF:0,TV Series HD
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5590
-#EXTINF:0,TV Series (LOW)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10031
-#EXTINF:0,TV SERIES
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5591
-#EXTINF:0,FOX HD
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5581
-#EXTINF:0,FOX HD (LOW)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10549
-#EXTINF:0,FOX COMEDY HD
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/9337
-#EXTINF:0,FOX Comedy
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5575
-#EXTINF:0,FOX Comedy (LOW)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10551
-#EXTINF:0,FOX Crime HD
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5576
-#EXTINF:0,FOX Crime HD (LOW)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10550
-#EXTINF:0,Fox Crime
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/7267
-#EXTINF:0,FOX Life HD
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5579
-#EXTINF:0,FOX Life HD (LOW)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10548
-#EXTINF:0,AXN HD
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5571
-#EXTINF:0,AXN HD (LOW)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10030
-#EXTINF:0,AXN Black HD
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5572
-#EXTINF:0,AXN Black HD (LOW)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10029
-#EXTINF:0,AXN White HD
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5573
-#EXTINF:0,AXN White HD (LOW)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10028
-#EXTINF:0,SyFy HD
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5583
-#EXTINF:0,SyFy
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5584
-#EXTINF:0,SyFy (LOW)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10547
-#EXTINF:0,http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/92
-#EXTINF:0,SIC K
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5529
-#EXTINF:0,Nickelodeon
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5528
-#EXTINF:0,Nick Jr
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10142
-#EXTINF:0,Cartoon Network
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5526
-#EXTINF:0,JimJam
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5527
-#EXTINF:0,Disney Channel
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5532
-#EXTINF:0,Disney Channel (LOW)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10532
-#EXTINF:0,Disney Junior
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5531
-#EXTINF:0,Canal Panda
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5530
-#EXTINF:0,Canal Panda (LOW)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10533
-#EXTINF:0,Biggs
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5523
-#EXTINF:0,Baby First
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5524
-#EXTINF:0,Baby TV
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5525
-#EXTINF:0,http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/103
-#EXTINF:0,TLC
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5545
-#EXTINF:0,National Geographic HD
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5565
-#EXTINF:0,National Geographic HD (LOW)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10556
-#EXTINF:0,Nat Geo Wild HD
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5564
-#EXTINF:0,Nat Geo Wild
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5563
-#EXTINF:0,Travel Channel HD
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5554
-#EXTINF:0,Discovery Channel
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5566
-#EXTINF:0,DISCOVERY SHOWCASE HD
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5567
-#EXTINF:0,DISCOVERY SHOWCASE HD (LOW)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10554
-#EXTINF:0,Fine Living Network FHD
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10121
-#EXTINF:0,Outdoor Channel FHD
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10120
-#EXTINF:0,CBS Reality
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5560
-#EXTINF:0,MCS Extreme
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5552
-#EXTINF:0,MCS Lifestyle
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5546
-#EXTINF:0,Fashion TV
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5550
-#EXTINF:0,E! Entertainment
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5557
-#EXTINF:0,Dog TV FHD
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10125
-#EXTINF:0,A&E
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5547
-#EXTINF:0,Odisseia
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5561
-#EXTINF:0,HistÛria
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5562
-#EXTINF:0,Crime   Investigation
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5559
-#EXTINF:0,http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/138
-#EXTINF:0,Globo Portugal
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5660
-#EXTINF:0,Globo Portugal (LOW)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10552
-#EXTINF:0,Globo Premium
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5661
-#EXTINF:0,TV Record HD
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5664
-#EXTINF:0,TV Record HD (LOW)
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10553
-#EXTINF:0,TV Record
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5663
-#EXTINF:0,SBT BRASIL
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/9342
-#EXTINF:0,TV GALICIA
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/5666
-#EXTINF:0,TVE Internacional
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/9343
-#EXTINF:0,TCV Internacional
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/9326
-#EXTINF:0,Deutsche Welle
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/9350
-#EXTINF:0,M6
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/9347
-#EXTINF:0,TV5 MONDE EUROPE
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/9332
-#EXTINF:0,RTL
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/9346
-#EXTINF:0,SUPER RTL
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/9345
-#EXTINF:0,RTL LUXEMBOURG
-http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/9317
+#EXTINF:-1,24 KITCHEN HD-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/283
+#EXTINF:-1,Sport TV 1 HD
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/295941
+#EXTINF:-1,CM TV Opt 2
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/287627
+#EXTINF:-1,A & E-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/15339
+#EXTINF:-1,A BOLA TV-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/15338
+#EXTINF:-1,AMC-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/15337
+#EXTINF:-1,AXN-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/15336
+#EXTINF:-1,AXN BLACK HD 1080-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/26022
+#EXTINF:-1,AXN WHITE-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/15335
+#EXTINF:-1,BABY TV-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/15334
+#EXTINF:-1,BENFICA TV 1-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/15333
+#EXTINF:-1,BENFICA TV 2-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/15332
+#EXTINF:-1,SIC CARAS HD
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/203
+#EXTINF:-1,TVI International HD
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/201
+#EXTINF:-1,BTV 1 HD 1080-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/26019
+#EXTINF:-1,CAZA & PESCA-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/26017
+#EXTINF:-1,CANAL PANDA-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/15330
+#EXTINF:-1,CANAL Q-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/15329
+#EXTINF:-1,CARTOON NETWORK-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/15328
+#EXTINF:-1,CBS REALITY-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/15326
+#EXTINF:-1,CHELSEA TV-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/15325
+#EXTINF:-1,CINEMUNDO-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/15324
+#EXTINF:-1,CM TV-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/15323
+#EXTINF:-1,DISCOVERY CHANNEL-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/15322
+#EXTINF:-1,Discovery HD Showcase-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/15321
+#EXTINF:-1,DISNEY CHANNEL-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/15320
+#EXTINF:-1,Disney JR-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/287
+#EXTINF:-1,DISNEY JUNIOR-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/15319
+#EXTINF:-1,E! Entertainment-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/15318
+#EXTINF:-1,EUROSPORT-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/15317
+#EXTINF:-1,EUROSPORT 1 HD 1080-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/2615
+#EXTINF:-1,Eurosport new-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/26024
+#EXTINF:-1,FASHION TV HD 1080-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/2613
+#EXTINF:-1,FIGHT NETWORK HD 1080-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/26012
+#EXTINF:-1,Fox Comedy-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/256
+#EXTINF:-1,Fox CRIME-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/15315
+#EXTINF:-1,Fox CRIME HD-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/11901
+#EXTINF:-1,Fox LIFE-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/15314
+#EXTINF:-1,Fox MOVIES-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/15313
+#EXTINF:-1,Fox TV-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/15312
+#EXTINF:-1,FUEL TV-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/15311
+#EXTINF:-1,GLOBO-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/15310
+#EXTINF:-1,Historia-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/15341
+#EXTINF:-1,HOLLYWOOD-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/15309
+#EXTINF:-1,JIM JAM-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/15308
+#EXTINF:-1,MOTORS TV-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/15307
+#EXTINF:-1,MOTORVISION TV-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/15305
+#EXTINF:-1,MTV Portugal-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/240
+#EXTINF:-1,Nat Geo HD-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/276
+#EXTINF:-1,Nat Geo Wild-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/277
+#EXTINF:-1,NATIONAL GEOGRAPHIC-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/15300
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD 1080-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/26001
+#EXTINF:-1,NICKELODEON-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/15299
+#EXTINF:-1,ODISSEIA-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/15298
+#EXTINF:-1,Outdoor Channel HD 1080-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/26000
+#EXTINF:-1,PORTO CANAL-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/221
+#EXTINF:-1,RTP 1-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/205
+#EXTINF:-1,RTP 2-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/15294
+#EXTINF:-1,RTP 3-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/15293
+#EXTINF:-1,RTP A-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/15292
+#EXTINF:-1,RTP AFRICA-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/25997
+#EXTINF:-1,RTP Internacional-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/208
+#EXTINF:-1,RTP MADEIRA-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/222
+#EXTINF:-1,RTP MEM-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/15290
+#EXTINF:-1,Sic-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/212
+#EXTINF:-1,SIC K-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/213
+#EXTINF:-1,SIC MULHER-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/218
+#EXTINF:-1,Sic Noticias-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/285
+#EXTINF:-1,SIC RADICAL-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/15285
+#EXTINF:-1,SPORT TV + HD
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/25988
+#EXTINF:-1,SPORT TV 1 HD 1080P-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/263
+#EXTINF:-1,SPORT TV 2 HD-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/264
+#EXTINF:-1,SPORT TV 3 HD-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/15282
+#EXTINF:-1,SPORT TV 4-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/15280
+#EXTINF:-1,SPORT TV 5HD-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/15277
+#EXTINF:-1,SPORTING TV-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/15276
+#EXTINF:-1,SUNDANCE HD 1080-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/25985
+#EXTINF:-1,SyFy HD 1080-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/25984
+#EXTINF:-1,TLC-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/279
+#EXTINF:-1,TOUROS TV-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/15273
+#EXTINF:-1,TRAVEL CHANNEL HD 1080-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/25983
+#EXTINF:-1,TV CINE 2 HD-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/15271
+#EXTINF:-1,TV CINE 3 HD-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/15270
+#EXTINF:-1,TV CINE 4-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/15269
+#EXTINF:-1,TV Globo Premium-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/15267
+#EXTINF:-1,TV RECORD-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/15266
+#EXTINF:-1,TVC HD-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/25982
+#EXTINF:-1,TVCine 1-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/224
+#EXTINF:-1,TVCseries-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/15264
+#EXTINF:-1,TVI-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/214
+#EXTINF:-1,TVI 24-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/15262
+#EXTINF:-1,TVI REALITY-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/15261
+#EXTINF:-1,TVI Reality (A Quinta)-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/15260
+#EXTINF:-1,VH1-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/15259
+#EXTINF:-1,VH1 CLASSIC-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/15258
+#EXTINF:-1,SPORT TV 1 UHD 4K-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/248359
+#EXTINF:-1,Sport TV SD-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/248360
+#EXTINF:-1,TVI HD-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/41394
+#EXTINF:-1,TVI Ficcao-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/41395
+#EXTINF:-1,Trace Urban-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/41404
+#EXTINF:-1,Panda Biggs-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/41421
+#EXTINF:-1,Eleven Sports 1 HD
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/283229
+#EXTINF:-1,Eleven Sports 2 HD
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/283230
+#EXTINF:-1,Eleven Sports 3 HD
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/283231
+#EXTINF:-1,Eleven Sports 4 HD
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/283232
+#EXTINF:-1,Eleven Sports 5 HD
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/283233
+#EXTINF:-1,Eleven Sports 6 HD
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/283234
+#EXTINF:-1,CaçaVision-
+http://x.mytvxweb.co:25461/chucha1234/chucha1234/41451

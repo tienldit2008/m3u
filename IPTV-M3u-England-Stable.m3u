@@ -1,117 +1,299 @@
 #EXTM3U
-#EXTINF:-1,Al Jazeera English (Opt-1)
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
-#EXTINF:-1,Al Jazeera English (Opt-2)
-http://199.167.151.237:1935/live/sp15_9.stream/gmswf.m3u8
-#EXTINF:-1,Al Jazeera English (Opt-3)
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226109/1.m3u8
-#EXTINF:-1,Animal Planet
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/01.m3u8
-#EXTINF:-1,Arise News
-http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTINF:-1,AXN
-http://cshms1.airtel.tv/wh7f454c46tw2394210507_339596980/PLTV/88888888/224/3221226443/04.m3u8
-#EXTINF:-1,BBC World News (Opt-1)
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226051/01.m3u8
-#EXTINF:-1,BBC World News (Opt-2)
-http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCWorldNewsHD/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1,Bloomberg TV UK
-http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-#EXTINF:-1,Box Hits
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
-#EXTINF:-1,BoxNation (Geo)
-http://50.7.198.170:8081/abcd/boxnation/playlist.m3u8
-#EXTINF:-1,Capital TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
-#EXTINF:-1,CGTN English (Opt-1)
-http://live.cgtn.com/500/prog_index.m3u8
-#EXTINF:-1,CGTN English (Opt-2)
-http://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1,CNBC World
-http://161.0.157.9/PLTV/88888888/224/3221227005/03.m3u8
-#EXTINF:-1,Create and Craft
-https://live-craftuk.simplestreamcdn.com/craftuk/3/prog_index.m3u8
-#EXTINF:-1,Discovery Science
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225778/01.m3u8
-#EXTINF:-1,Discovery World (Opt-1)
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
-#EXTINF:-1,Discovery World (Opt-2)
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/03.m3u8
-#EXTINF:-1,DW English
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-#EXTINF:-1,English Club TV
-http://ott-cdn.ucom.am/s37/index.m3u8
-#EXTINF:-1,Euronews (Opt-1)
-http://61.58.60.230:9000/live/129.m3u8
-#EXTINF:-1,Euronews (Opt-2)
-https://stream-03.nyc.dailymotion.com/25/dm/3/x2j4h4m/live-3.m3u8
-#EXTINF:-1,Extreme Sports Channel
-http://persik.by/stream/1418/252987/10309.m3u8
-#EXTINF:-1,Flow Sports
-http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
-#EXTINF:-1,France 24 English (Opt-1)
-http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
-#EXTINF:-1,France 24 English (Opt-2)
-http://161.0.157.9/PLTV/88888888/224/3221226821/index.m3u8
-#EXTINF:-1,Gemporia
-https://57d6b85685bb8.streamlock.net/abrgemporiaukgfx/livestream_source/chunklist.m3u8
-#EXTINF:-1,Heart
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
-#EXTINF:-1,ITV
-http://62.210.93.115:80/live?channelId=6&uid=3126&deviceMac=00:1A:79:3C:C7:B7
+#EXTINF:-1,BBC One
+http://gorillaiptv.online:25461/abc123/abc123/27
+#EXTINF:-1,BBC Two
+http://gorillaiptv.online:25461/abc123/abc123/26
+#EXTINF:-1,BBC Four
+http://gorillaiptv.online:25461/abc123/abc123/24
+#EXTINF:-1,ITV 1
+http://gorillaiptv.online:25461/abc123/abc123/32
 #EXTINF:-1,ITV 2
-http://62.210.93.115:80/live?channelId=14&uid=3126&deviceMac=00:1A:79:3C:C7:B7
-#EXTINF:-1,Jewellery Maker
-http://edge01.cdn.aws.subset.host/JewelleryMakerLive/JewelleryMakerLive/playlist.m3u8
-#EXTINF:-1,KIX (Asia)
-http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
-#EXTINF:-1,Kool London Radio
-http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
-#EXTINF:-1,Landscape TV
-http://130.88.20.237:1235/monitor.flv
-#EXTINF:-1,London Live
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
-#EXTINF:-1,NHK World (Opt-1)
-http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
-#EXTINF:-1,NHK World (Opt-2)
-http://mhms10.airtel.tv/wh7f454c46tw1262349124_1691091773/PLTV/88888888/224/3221226544/04.m3u8
-#EXTINF:-1,RT UK
-https://secure-streams.akamaized.net/rt-uk/index.m3u8
-#EXTINF:-1,QVC
-http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1,QVC UK +1
-http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/live.m3u8
-#EXTINF:-1,QVC Beauty
-http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1,QVC Style
-http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1,QVC Extra
-http://live.qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1,Sky News (Opt-1)
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:-1,Sky News (Opt-2)
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
-#EXTINF:-1,Sunburn TV
-https://vcndstv.teleosmedia.com/stream/dstv/sunburn/seglist_720p.m3u8
-#EXTINF:-1,TLC HD World (Opt-1)
-http://cshms2.airtel.tv/PLTV/88888888/224/3221226279/01.m3u8
-#EXTINF:-1,TLC HD World (Opt-2)
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/01.m3u8
-#EXTINF:-1,TLC HD World (Opt-3)
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/04.m3u8
-#EXTINF:-1,Travel XP
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225813/01.m3u8
-#EXTINF:-1,TRT World
-http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-#EXTINF:-1,~ Ireland TV ~
-http://www.lengua.com/anthems/Ireland.mp3
-#EXTINF:-1,TG4
-http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
-#EXTINF:-1,RTE News Now
-http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
+http://gorillaiptv.online:25461/abc123/abc123/31
+#EXTINF:-1,ITV 3
+http://gorillaiptv.online:25461/abc123/abc123/30
+#EXTINF:-1,ITV 4
+http://gorillaiptv.online:25461/abc123/abc123/29
+#EXTINF:-1,ITV Be
+http://gorillaiptv.online:25461/abc123/abc123/28
+#EXTINF:-1,Channel 4
+http://gorillaiptv.online:25461/abc123/abc123/898
+#EXTINF:-1,Channel 5
+http://gorillaiptv.online:25461/abc123/abc123/896
+#EXTINF:-1,Alibi
+http://gorillaiptv.online:25461/abc123/abc123/845
+#EXTINF:-1,Sky 1
+http://gorillaiptv.online:25461/abc123/abc123/894
+#EXTINF:-1,Sky Living
+http://gorillaiptv.online:25461/abc123/abc123/891
+#EXTINF:-1,Sky Atlantic
+http://gorillaiptv.online:25461/abc123/abc123/892
+#EXTINF:-1,Comedy Central
+http://gorillaiptv.online:25461/abc123/abc123/880
+#EXTINF:-1,Comedy Central Extra
+http://gorillaiptv.online:25461/abc123/abc123/879
+#EXTINF:-1,Universal
+http://gorillaiptv.online:25461/abc123/abc123/877
+#EXTINF:-1,SyFy
+http://gorillaiptv.online:25461/abc123/abc123/875
+#EXTINF:-1,Fox
+http://gorillaiptv.online:25461/abc123/abc123/849
+#EXTINF:-1,MTV Base
+http://gorillaiptv.online:25461/abc123/abc123/33
+#EXTINF:-1,MTV Classic
+http://gorillaiptv.online:25461/abc123/abc123/34
+#EXTINF:-1,MTV Dance
+http://gorillaiptv.online:25461/abc123/abc123/35
+#EXTINF:-1,MTV Rocks
+http://gorillaiptv.online:25461/abc123/abc123/36
+#EXTINF:-1,Sky News
+http://gorillaiptv.online:25461/abc123/abc123/40
+#EXTINF:-1,Sony Entertainment
+http://gorillaiptv.online:25461/abc123/abc123/22
+#EXTINF:-1,Kerrang!
+http://gorillaiptv.online:25461/abc123/abc123/786
+#EXTINF:-1,Kiss
+http://gorillaiptv.online:25461/abc123/abc123/787
+#EXTINF:-1,Magic
+http://gorillaiptv.online:25461/abc123/abc123/785
+#EXTINF:-1,MTV OMG
+http://gorillaiptv.online:25461/abc123/abc123/799
+#EXTINF:-1,MTV Live
+http://gorillaiptv.online:25461/abc123/abc123/797
+#EXTINF:-1,The Box
+http://gorillaiptv.online:25461/abc123/abc123/790
+#EXTINF:-1,The-Vault
+http://gorillaiptv.online:25461/abc123/abc123/792
+#EXTINF:-1,Box Hits
+http://gorillaiptv.online:25461/abc123/abc123/789
+#EXTINF:-1,ChartShow Hits
+http://gorillaiptv.online:25461/abc123/abc123/793
+#EXTINF:-1,ChartShow TV
+http://gorillaiptv.online:25461/abc123/abc123/794
+#EXTINF:-1,Chilled-90s
+http://gorillaiptv.online:25461/abc123/abc123/782
+#EXTINF:-1,4Music
+http://gorillaiptv.online:25461/abc123/abc123/784
+#EXTINF:-1,3E
+http://gorillaiptv.online:25461/abc123/abc123/853
+#EXTINF:-1,4Seven
+http://gorillaiptv.online:25461/abc123/abc123/837
+#EXTINF:-1,5Select
+http://gorillaiptv.online:25461/abc123/abc123/808
+#EXTINF:-1,5Star
+http://gorillaiptv.online:25461/abc123/abc123/809
+#EXTINF:-1,5USA
+http://gorillaiptv.online:25461/abc123/abc123/810
+#EXTINF:-1,AMC
+http://gorillaiptv.online:25461/abc123/abc123/874
+#EXTINF:-1,be3
+http://gorillaiptv.online:25461/abc123/abc123/855
+#EXTINF:-1,Blaze
+http://gorillaiptv.online:25461/abc123/abc123/819
+#EXTINF:-1,CBS Action
+http://gorillaiptv.online:25461/abc123/abc123/832
+#EXTINF:-1,CBS Drama
+http://gorillaiptv.online:25461/abc123/abc123/831
+#EXTINF:-1,CBS Reality
+http://gorillaiptv.online:25461/abc123/abc123/833
+#EXTINF:-1,Challenge
+http://gorillaiptv.online:25461/abc123/abc123/834
+#EXTINF:-1,Create & Craft
+http://gorillaiptv.online:25461/abc123/abc123/818
+#EXTINF:-1,Dave
+http://gorillaiptv.online:25461/abc123/abc123/883
+#EXTINF:-1,Dave Ja vu
+http://gorillaiptv.online:25461/abc123/abc123/882
+#EXTINF:-1,DMAX
+http://gorillaiptv.online:25461/abc123/abc123/812
+#EXTINF:-1,Drama
+http://gorillaiptv.online:25461/abc123/abc123/822
+#EXTINF:-1,E!
+http://gorillaiptv.online:25461/abc123/abc123/830
+#EXTINF:-1,E4
+http://gorillaiptv.online:25461/abc123/abc123/841
+#EXTINF:-1,Forces TV
+http://gorillaiptv.online:25461/abc123/abc123/817
+#EXTINF:-1,Gold
+http://gorillaiptv.online:25461/abc123/abc123/885
+#EXTINF:-1,Good Food
+http://gorillaiptv.online:25461/abc123/abc123/843
+#EXTINF:-1,Home
+http://gorillaiptv.online:25461/abc123/abc123/800
+#EXTINF:-1,Lifetime
+http://gorillaiptv.online:25461/abc123/abc123/826
+#EXTINF:-1,Quest
+http://gorillaiptv.online:25461/abc123/abc123/836
+#EXTINF:-1,Quest Red
+http://gorillaiptv.online:25461/abc123/abc123/835
+#EXTINF:-1,Real Lives
+http://gorillaiptv.online:25461/abc123/abc123/811
+#EXTINF:-1,Really
+http://gorillaiptv.online:25461/abc123/abc123/828
+#EXTINF:-1,RTE News
+http://gorillaiptv.online:25461/abc123/abc123/861
 #EXTINF:-1,RTE 1
-http://akamai.rasset.ie/hls-live/_definst_/rte1/rte1-720.m3u8
+http://gorillaiptv.online:25461/abc123/abc123/865
 #EXTINF:-1,RTE 2
-http://akamai.rasset.ie/hls-live/_definst_/rte2/rte2-720.m3u8
-#EXTINF:-1,RTE Jr.
-https://cdn.rasset.ie/hls-live/_definst_/rtejr/rtejr-576.m3u8
+http://gorillaiptv.online:25461/abc123/abc123/863
+#EXTINF:-1,S4C
+http://gorillaiptv.online:25461/abc123/abc123/814
+#EXTINF:-1,Sky Arts
+http://gorillaiptv.online:25461/abc123/abc123/851
+#EXTINF:-1,Sky 2
+http://gorillaiptv.online:25461/abc123/abc123/846
+#EXTINF:-1,Sony Channel
+http://gorillaiptv.online:25461/abc123/abc123/824
+#EXTINF:-1,Sony Crime
+http://gorillaiptv.online:25461/abc123/abc123/823
+#EXTINF:-1,Spike
+http://gorillaiptv.online:25461/abc123/abc123/820
+#EXTINF:-1,STV
+http://gorillaiptv.online:25461/abc123/abc123/815
+#EXTINF:-1,TG4
+http://gorillaiptv.online:25461/abc123/abc123/854
+#EXTINF:-1,TLC
+http://gorillaiptv.online:25461/abc123/abc123/847
+#EXTINF:-1,True Crime
+http://gorillaiptv.online:25461/abc123/abc123/804
+#EXTINF:-1,True Entertainment
+http://gorillaiptv.online:25461/abc123/abc123/805
+#EXTINF:-1,True Movies
+http://gorillaiptv.online:25461/abc123/abc123/802
+#EXTINF:-1,True Movies +1
+http://gorillaiptv.online:25461/abc123/abc123/801
+#EXTINF:-1,truTV
+http://gorillaiptv.online:25461/abc123/abc123/821
+#EXTINF:-1,TV3
+http://gorillaiptv.online:25461/abc123/abc123/857
+#EXTINF:-1,UTV
+http://gorillaiptv.online:25461/abc123/abc123/813
+#EXTINF:-1,VH1
+http://gorillaiptv.online:25461/abc123/abc123/795
+#EXTINF:-1,Vice
+http://gorillaiptv.online:25461/abc123/abc123/825
+#EXTINF:-1,TCM HD
+http://gorillaiptv.online:25461/abc123/abc123/910
+#EXTINF:-1,TCM
+http://gorillaiptv.online:25461/abc123/abc123/909
+#EXTINF:-1,Baby TV
+http://gorillaiptv.online:25461/abc123/abc123/966
+#EXTINF:-1,Boomerang
+http://gorillaiptv.online:25461/abc123/abc123/958
+#EXTINF:-1,Cartoon Network
+http://gorillaiptv.online:25461/abc123/abc123/956
+#EXTINF:-1,Cartoon Network HD
+http://gorillaiptv.online:25461/abc123/abc123/957
+#EXTINF:-1,Cartoonito
+http://gorillaiptv.online:25461/abc123/abc123/955
+#EXTINF:-1,CBBC HD
+http://gorillaiptv.online:25461/abc123/abc123/965
+#EXTINF:-1,CBBC SD
+http://gorillaiptv.online:25461/abc123/abc123/964
+#EXTINF:-1,CBeebies HD
+http://gorillaiptv.online:25461/abc123/abc123/963
+#EXTINF:-1,CBeebies SD
+http://gorillaiptv.online:25461/abc123/abc123/962
+#EXTINF:-1,CITV
+http://gorillaiptv.online:25461/abc123/abc123/961
+#EXTINF:-1,Disney Channel
+http://gorillaiptv.online:25461/abc123/abc123/974
+#EXTINF:-1,Disney Channel HD
+http://gorillaiptv.online:25461/abc123/abc123/975
+#EXTINF:-1,Disney Junior
+http://gorillaiptv.online:25461/abc123/abc123/972
+#EXTINF:-1,Disney XD
+http://gorillaiptv.online:25461/abc123/abc123/973
+#EXTINF:-1,More 4
+http://gorillaiptv.online:25461/abc123/abc123/839
+#EXTINF:-1,MTV
+http://gorillaiptv.online:25461/abc123/abc123/866
+#EXTINF:-1,Nick Junior
+http://gorillaiptv.online:25461/abc123/abc123/968
+#EXTINF:-1,Nick Junior Too
+http://gorillaiptv.online:25461/abc123/abc123/967
+#EXTINF:-1,Nick Toons
+http://gorillaiptv.online:25461/abc123/abc123/969
+#EXTINF:-1,Nickelodeon
+http://gorillaiptv.online:25461/abc123/abc123/970
+#EXTINF:-1,Paramount
+http://gorillaiptv.online:25461/abc123/abc123/888
+#EXTINF:-1,Pick
+http://gorillaiptv.online:25461/abc123/abc123/829
+#EXTINF:-1,Pop
+http://gorillaiptv.online:25461/abc123/abc123/959
+#EXTINF:-1,Pop Max
+http://gorillaiptv.online:25461/abc123/abc123/954
+#EXTINF:-1,Tiny Pop
+http://gorillaiptv.online:25461/abc123/abc123/960
+#EXTINF:-1,Animal Planet
+http://gorillaiptv.online:25461/abc123/abc123/1048
+#EXTINF:-1,Animal Planet HD
+http://gorillaiptv.online:25461/abc123/abc123/1049
+#EXTINF:-1,Arsenal TV
+http://gorillaiptv.online:25461/abc123/abc123/1000
+#EXTINF:-1,At The Races
+http://gorillaiptv.online:25461/abc123/abc123/999
+#EXTINF:-1,BBC News HD
+http://gorillaiptv.online:25461/abc123/abc123/979
+#EXTINF:-1,BBC News SD
+http://gorillaiptv.online:25461/abc123/abc123/978
+#EXTINF:-1,BoxNation
+http://gorillaiptv.online:25461/abc123/abc123/987
+#EXTINF:-1,Chelsea TV HD
+http://gorillaiptv.online:25461/abc123/abc123/1001
+#EXTINF:-1,CNN
+http://gorillaiptv.online:25461/abc123/abc123/976
+#EXTINF:-1,Crime Investigation
+http://gorillaiptv.online:25461/abc123/abc123/1034
+#EXTINF:-1,ID HD
+http://gorillaiptv.online:25461/abc123/abc123/1035
+#EXTINF:-1,Discovery Channel
+http://gorillaiptv.online:25461/abc123/abc123/1046
+#EXTINF:-1,Discovery HD
+http://gorillaiptv.online:25461/abc123/abc123/1047
+#EXTINF:-1,Discovery History
+http://gorillaiptv.online:25461/abc123/abc123/1042
+#EXTINF:-1,Discovery Science
+http://gorillaiptv.online:25461/abc123/abc123/1043
+#EXTINF:-1,Discovery Shed
+http://gorillaiptv.online:25461/abc123/abc123/1045
+#EXTINF:-1,Discovery Turbo
+http://gorillaiptv.online:25461/abc123/abc123/1044
+#EXTINF:-1,Eden
+http://gorillaiptv.online:25461/abc123/abc123/1028
+#EXTINF:-1,Eden HD
+http://gorillaiptv.online:25461/abc123/abc123/1029
+#EXTINF:-1,H2
+http://gorillaiptv.online:25461/abc123/abc123/1030
+#EXTINF:-1,H2 HD
+http://gorillaiptv.online:25461/abc123/abc123/1031
+#EXTINF:-1,History
+http://gorillaiptv.online:25461/abc123/abc123/1032
+#EXTINF:-1,History HD
+http://gorillaiptv.online:25461/abc123/abc123/1033
+#EXTINF:-1,Home & Health
+http://gorillaiptv.online:25461/abc123/abc123/1037
+#EXTINF:-1,ID
+http://gorillaiptv.online:25461/abc123/abc123/1036
+#EXTINF:-1,ITV Box Office
+http://gorillaiptv.online:25461/abc123/abc123/985
+#EXTINF:-1,LFC TV HD
+http://gorillaiptv.online:25461/abc123/abc123/1003
+#EXTINF:-1,LFC TV SD
+http://gorillaiptv.online:25461/abc123/abc123/1002
+#EXTINF:-1,Live Events Channel
+http://gorillaiptv.online:25461/abc123/abc123/982
+#EXTINF:-1,Motorsport TV
+http://gorillaiptv.online:25461/abc123/abc123/986
+#EXTINF:-1,MUTV HD
+http://gorillaiptv.online:25461/abc123/abc123/1005
+#EXTINF:-1,MUTV SD
+http://gorillaiptv.online:25461/abc123/abc123/1004
+#EXTINF:-1,Nat Geo
+http://gorillaiptv.online:25461/abc123/abc123/1040
+#EXTINF:-1,Nat Geo HD
+http://gorillaiptv.online:25461/abc123/abc123/1041
+#EXTINF:-1,Nat Geo Wild
+http://gorillaiptv.online:25461/abc123/abc123/1038
+#EXTINF:-1,Nat Geo Wild HD
+http://gorillaiptv.online:25461/abc123/abc123/1039
