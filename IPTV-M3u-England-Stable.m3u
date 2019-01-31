@@ -1,37 +1,593 @@
 #EXTM3U
-#EXTINF:-1,History 2
-http://ip.avov4.us:8000/tunaabi/13122018/515
-#EXTINF:-1,Animal Planet HD
-http://ip.avov4.us:8000/tunaabi/13122018/125
-#EXTINF:-1,Discovery Channel
-http://ip.avov4.us:8000/tunaabi/13122018/124
-#EXTINF:-1,Discovery History
-http://ip.avov4.us:8000/tunaabi/13122018/153
-#EXTINF:-1,Discovery Science HD
-http://ip.avov4.us:8000/tunaabi/13122018/123
-#EXTINF:-1,Travel Channel
-http://ip.avov4.us:8000/tunaabi/13122018/129
-#EXTINF:-1,Viceland HD
-http://ip.avov4.us:8000/tunaabi/13122018/2128
+#EXTINF:-1,CARTONITO  ( NOT 24H )
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/169
+#EXTINF:-1, BBC2
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/8
+#EXTINF:-1,3E/VIRGIN2
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/3145
+#EXTINF:-1,4 SEVEN
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/3151
+#EXTINF:-1,4Music
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/19550
+#EXTINF:-1,5 Star
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/3150
+#EXTINF:-1,5 USA
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/15689
+#EXTINF:-1,5Star
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/15690
+#EXTINF:-1,AAJ TAK
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/9700
+#EXTINF:-1,ABP NEWS
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/9699
+#EXTINF:-1,Akaal Channel
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/57330
+#EXTINF:-1,AL JAZEERA
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/188
+#EXTINF:-1,ALIBI
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/3149
+#EXTINF:-1,AMC
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/1
+#EXTINF:-1,ANIMAL PLANET
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/3148
+#EXTINF:-1,Animal Planet  1
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/19562
+#EXTINF:-1,SKY SPORTS RACING SD
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/84
+#EXTINF:-1,B4U MOVIES
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/9651
+#EXTINF:-1,BABY TV
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/170
+#EXTINF:-1,BBC ALBA
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/3146
+#EXTINF:-1,BBC News
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/3144
+#EXTINF:-1,Bbc One Cambridge
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/16641
+#EXTINF:-1,Bbc One Cumbria
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/16640
+#EXTINF:-1,Bbc One East Midlands
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/16637
+#EXTINF:-1,Bbc One Islands
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/16636
+#EXTINF:-1,Bbc One London
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/16635
+#EXTINF:-1,Bbc One Midlands
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/16634
+#EXTINF:-1,Bbc One Ni
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/16633
+#EXTINF:-1,Bbc One North East
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/16639
+#EXTINF:-1,Bbc One North West
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/16632
+#EXTINF:-1,Bbc One Oxford
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/16631
+#EXTINF:-1,BBC ONE SCOTLAND
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/3142
+#EXTINF:-1,Bbc One South
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/16630
+#EXTINF:-1,Bbc One South East (alt)
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/16638
+#EXTINF:-1,Bbc One Wales
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/16629
+#EXTINF:-1,Bbc One West
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/16628
+#EXTINF:-1,Bbc One Yorkshire
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/16627
+#EXTINF:-1,Bbc Two England
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/16626
+#EXTINF:-1,Bbc Two Ni
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/16625
+#EXTINF:-1,BBC TWO SCOTLAND
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/3138
+#EXTINF:-1,BBC3
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/7
+#EXTINF:-1,BBC4
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/6
+#EXTINF:-1,BE3 IRELAND
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/9666
+#EXTINF:-1,BET
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/3136
+#EXTINF:-1,BLAZE
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/48218
+#EXTINF:-1,Bloomberg
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/187
+#EXTINF:-1,BOOMERANG
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/3092
+#EXTINF:-1,Boomerang  1
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/19560
+#EXTINF:-1,BOX HITS
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/48222
+#EXTINF:-1,BOX UPFRONT
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/48223
+#EXTINF:-1,CARTOON NETWORK
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/168
+#EXTINF:-1,CBS Action
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/3133
+#EXTINF:-1,CBS DRAMA
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/16
+#EXTINF:-1,CBS Reality
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/15
+#EXTINF:-1,CBS Reality+1
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/3132
+#EXTINF:-1,CHALLENGE
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/14
+#EXTINF:-1,CHANNEL 4
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/13
+#EXTINF:-1,Channel 5
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/12
+#EXTINF:-1,Channel 5 Plus 1
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/19557
+#EXTINF:-1,Citv (Not 24/7)
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/20103
+#EXTINF:-1,CNBC
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/185
+#EXTINF:-1,CNN
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/184
+#EXTINF:-1,COLORS
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/9657
+#EXTINF:-1,COMEDY CENTRAL
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/11
+#EXTINF:-1,COMEDY CENTRAL EXTRA
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/10
+#EXTINF:-1,CRIMEnINVESTIGATION
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/148
+#EXTINF:-1,DAVE
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/25
+#EXTINF:-1,DAVE JA VU
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/27498
+#EXTINF:-1,DISCOVERY
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/143
+#EXTINF:-1,DISCOVERY HISTORY
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/142
+#EXTINF:-1,DISCOVERY HOME HEALTH
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/3129
+#EXTINF:-1,DISCOVERY SCIENCE
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/140
+#EXTINF:-1,DISCOVERY SHED
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/139
+#EXTINF:-1,DISCOVERY TURBO
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/138
+#EXTINF:-1,DISNEY CHANNEL
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/167
+#EXTINF:-1,DISNEY JUNIOR
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/166
+#EXTINF:-1,DMAX
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/23
+#EXTINF:-1,DRAMA
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/22
+#EXTINF:-1,E! ENTERTAINMENT
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/3089
+#EXTINF:-1,E4
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/21
+#EXTINF:-1,EDEN
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/20
+#EXTINF:-1,Film 4
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/3126
+#EXTINF:-1,FOOD NETWORK
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/24
+#EXTINF:-1,Food Network PLUS 1
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/19522
+#EXTINF:-1,FOX
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/3123
+#EXTINF:-1,FOX NEWS
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/3122
+#EXTINF:-1,FREESPORT
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/27705
+#EXTINF:-1,GEO TV
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/9661
+#EXTINF:-1,GOLD
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/3121
+#EXTINF:-1,GOOD FOOD
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/3120
+#EXTINF:-1,HISTORY
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/137
+#EXTINF:-1,HOME
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/135
+#EXTINF:-1,HORROR CHANNEL
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/134
+#EXTINF:-1,Horror Channel PLUS 1
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/19512
+#EXTINF:-1,Horror Channel UK
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/2401
+#EXTINF:-1,ITV BE
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/35
+#EXTINF:-1,ITV HD 1
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/29
+#EXTINF:-1,ITV HD 2
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/28
+#EXTINF:-1,ITV HD 3
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/27
+#EXTINF:-1,ITV HD 4
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/26
+#EXTINF:-1,ITV2
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/32
+#EXTINF:-1,ITV3
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/31
+#EXTINF:-1,ITV4
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/30
+#EXTINF:-1,Kanshi TV
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/57331
+#EXTINF:-1,Kerrang
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/57294
+#EXTINF:-1,Kiss
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/19548
+#EXTINF:-1,LIFETIME
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/3118
+#EXTINF:-1,Magic
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/20101
+#EXTINF:-1,More4
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/36
+#EXTINF:-1,CHRISTMAS 24
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/3099
+#EXTINF:-1,MOVIES 4 MEN
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/3116
+#EXTINF:-1,Movies4men PLUS 1
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/19514
+#EXTINF:-1,MTV BASE
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/116
+#EXTINF:-1,MTV CLASSIC
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/110
+#EXTINF:-1,MTV DANCE
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/115
+#EXTINF:-1,UK FHD : MTV
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/57313
+#EXTINF:-1,MTV HD
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/507
+#EXTINF:-1,MTV HITS
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/114
+#EXTINF:-1,MTV LIVE HD
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/506
+#EXTINF:-1,MTV MUSIC UK
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/113
+#EXTINF:-1,MTV OMG
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/112
+#EXTINF:-1,MTV ROCKS
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/111
+#EXTINF:-1,MUTV
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/3117
+#EXTINF:-1,MUTV HD
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73
+#EXTINF:-1,NAT GEO
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/3115
+#EXTINF:-1,NAT GEO WILD
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/3114
+#EXTINF:-1,NICK JR TOO
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/164
+#EXTINF:-1,NICK JUNIOR
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/163
+#EXTINF:-1,NICK TOONS
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/162
+#EXTINF:-1,NICKELODEON EUROPE
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/161
+#EXTINF:-1,PBS
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/3112
+#EXTINF:-1,PBS America
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/9683
+#EXTINF:-1,PICK TV
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/3111
+#EXTINF:-1,POP
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/3109
+#EXTINF:-1,POP MAX
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/3119
+#EXTINF:-1,Pop Max PLUS 1
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/19542
+#EXTINF:-1,PREMIER SPORTS HD
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/72
+#EXTINF:-1,QUEST
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/3108
+#EXTINF:-1,RACING UK
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/71
+#EXTINF:-1,REALLY
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/40
+#EXTINF:-1,RISHTEY TV
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/3107
+#EXTINF:-1,RishteyCine
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/57332
+#EXTINF:-1,RTE JUNIOR
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/3106
+#EXTINF:-1,RTE NEWS
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/186
+#EXTINF:-1,RTE ONE
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/39
+#EXTINF:-1,RTE TWO
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/38
+#EXTINF:-1,SAB TV
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/3096
+#EXTINF:-1,Safeer TV
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/57335
+#EXTINF:-1,SYFY
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/45
+#EXTINF:-1,TCM
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/54
+#EXTINF:-1,TG4
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/53
+#EXTINF:-1,The Box
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/57295
+#EXTINF:-1,THE VAULT
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/109
+#EXTINF:-1,TINY POP
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/160
+#EXTINF:-1,TLC
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/52
+#EXTINF:-1,TRAVEL CHANNEL
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/49
+#EXTINF:-1,Tru TV
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/16717
+#EXTINF:-1,TRUE ENTERTAINMENT
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/47
+#EXTINF:-1,TRUE MOVIES
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/96
+#EXTINF:-1,TRUE MOVIES PLUS 1
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/95
+#EXTINF:-1,TV3
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/56
+#EXTINF:-1,Universal Channel
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/57
+#EXTINF:-1,VH1
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/61
+#EXTINF:-1,VICE LAND
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/9652
+#EXTINF:-1,VINTAGE TV
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/60
 #EXTINF:-1,W HD
-http://ip.avov4.us:8000/tunaabi/13122018/2127
-#EXTINF:-1,Cnn
-http://ip.avov4.us:8000/tunaabi/13122018/321
-#EXTINF:-1,MTV Music
-http://ip.avov4.us:8000/tunaabi/13122018/115
-#EXTINF:-1,MTV Hits
-http://ip.avov4.us:8000/tunaabi/13122018/422
-#EXTINF:-1,MTV Dance
-http://ip.avov4.us:8000/tunaabi/13122018/2113
-#EXTINF:-1,Mtv Rocks
-http://ip.avov4.us:8000/tunaabi/13122018/3388
-#EXTINF:-1,Mtv Classic
-http://ip.avov4.us:8000/tunaabi/13122018/3387
-#EXTINF:-1,VH1 +
-http://ip.avov4.us:8000/tunaabi/13122018/240
-#EXTINF:-1,VH1 Classic HD
-http://ip.avov4.us:8000/tunaabi/13122018/4484
-#EXTINF:-1,VH1 Classic HQ
-http://ip.avov4.us:8000/tunaabi/13122018/10555
-#EXTINF:-1,The Voice
-http://ip.avov4.us:8000/tunaabi/13122018/2036
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/502
+#EXTINF:-1,WATCH
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/62
+#EXTINF:-1,YESTERDAY
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/58
+#EXTINF:-1,CLUBLAND
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/67013
+#EXTINF:-1,&TV
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73585
+#EXTINF:-1,5 SELECT
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/64197
+#EXTINF:-1,92 News
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73646
+#EXTINF:-1,Aastha
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73623
+#EXTINF:-1,Ahlebait TV
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73644
+#EXTINF:-1,Ahlulbayt TV
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73700
+#EXTINF:-1,Al Jazeera Eng
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73699
+#EXTINF:-1,Aplus TV
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73643
+#EXTINF:-1,Arise News
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73688
+#EXTINF:-1,ARY Family
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73689
+#EXTINF:-1,ATN Bangla UK
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73645
+#EXTINF:-1,B4U Music
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73658
+#EXTINF:-1,Believe TV
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73687
+#EXTINF:-1,Best Direct
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73597
+#EXTINF:-1,Brit Asia TV
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73686
+#EXTINF:-1,Chat Box
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73685
+#EXTINF:-1,CHSTV
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73642
+#EXTINF:-1,Clubland TV
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73619
+#EXTINF:-1,Cruise Channel
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73584
+#EXTINF:-1,Dunya News
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73684
+#EXTINF:-1,EWTN Catholic
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73673
+#EXTINF:-1,Faith UK
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73683
+#EXTINF:-1,Faith World TV
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73640
+#EXTINF:-1,FreeSports
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73663
+#EXTINF:-1,Gems TV
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73662
+#EXTINF:-1,GEO Kahani
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73618
+#EXTINF:-1,GEO News
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73682
+#EXTINF:-1,GN Radio
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73639
+#EXTINF:-1,GOD Channel
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73596
+#EXTINF:-1,Hidayat TV
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73656
+#EXTINF:-1,High Street TV 1
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73595
+#EXTINF:-1,High Street TV 2
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73617
+#EXTINF:-1,High Street TV 4
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73616
+#EXTINF:-1,Hillsong
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73698
+#EXTINF:-1,Hits Radio
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73615
+#EXTINF:-1,Hochanda
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73614
+#EXTINF:-1,Horse & Country
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73594
+#EXTINF:-1,HUM Masala
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73637
+#EXTINF:-1,HUM News
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73636
+#EXTINF:-1,Inspiration TV
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73697
+#EXTINF:-1,iON TV
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73624
+#EXTINF:-1,Islam Ch Urdu
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73672
+#EXTINF:-1,Islam Channel
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73681
+#EXTINF:-1,JML Direct
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73593
+#EXTINF:-1,Juwelo UK
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73613
+#EXTINF:-1,Keep It Country
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73694
+#EXTINF:-1,Kerrang!
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73576
+#EXTINF:-1,Khushkhabri
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73612
+#EXTINF:-1,KICC TV
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73634
+#EXTINF:-1,KTV
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73695
+#EXTINF:-1,Jazz FM
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73635
+#EXTINF:-1,Liberty
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73633
+#EXTINF:-1,London Live
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73655
+#EXTINF:-1,LOVEWORLD TV
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73693
+#EXTINF:-1,Madani Chnl
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73654
+#EXTINF:-1,MATV National
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73680
+#EXTINF:-1,mta-muslim tv
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73667
+#EXTINF:-1,mytv
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73598
+#EXTINF:-1,New Vision TV
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73679
+#EXTINF:-1,Noor TV
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73609
+#EXTINF:-1,NOW 90s
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73610
+#EXTINF:-1,NTAI
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73592
+#EXTINF:-1,PaversShoes.tv
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73692
+#EXTINF:-1,PCNE Chinese
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73671
+#EXTINF:-1,Peace TV
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73670
+#EXTINF:-1,Peace TV Urdu
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73669
+#EXTINF:-1,Planet Rock
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73606
+#EXTINF:-1,Price Crash
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73582
+#EXTINF:-1,PTC PUNJABI
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73608
+#EXTINF:-1,PTV Global
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73653
+#EXTINF:-1,PTV Prime
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73607
+#EXTINF:-1,Quest Red
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73570
+#EXTINF:-1,QVC
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73574
+#EXTINF:-1,QVC Beauty
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73573
+#EXTINF:-1,QVC Style
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73572
+#EXTINF:-1,QVC Extra
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73571
+#EXTINF:-1,Radio X
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73605
+#EXTINF:-1,Retail TV
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73589
+#EXTINF:-1,revelation
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73666
+#EXTINF:-1,ROK
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73591
+#EXTINF:-1,RT
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73590
+#EXTINF:-1,Samaa
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73677
+#EXTINF:-1,Sangat
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73604
+#EXTINF:-1,Sanskar
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73676
+#EXTINF:-1,Shop Now
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73581
+#EXTINF:-1,Showcase
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73691
+#EXTINF:-1,Sikh Channel
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73690
+#EXTINF:-1,Smooth Radio
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73602
+#EXTINF:-1,SmoothExtra
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73601
+#EXTINF:-1,Solar Radio
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73632
+#EXTINF:-1,SONY MIX
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73588
+#EXTINF:-1,SONY SAB
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73587
+#EXTINF:-1,Studio 66
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73675
+#EXTINF:-1,TalkingPictures
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73629
+#EXTINF:-1,TBN UK
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73668
+#EXTINF:-1,Television X
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73580
+#EXTINF:-1,TRT World
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73652
+#EXTINF:-1,TV 99
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73631
+#EXTINF:-1,TV Warehouse
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73586
+#EXTINF:-1,TV5 MONDE
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73659
+#EXTINF:-1,TVC News
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73651
+#EXTINF:-1,TWR
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73630
+#EXTINF:-1,UCB Ireland
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73600
+#EXTINF:-1,Venus TV
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73649
+#EXTINF:-1,Vox Africa
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73648
+#EXTINF:-1,VTV
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73650
+#EXTINF:-1,W
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73578
+#EXTINF:-1,Word Network
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73627
+#EXTINF:-1,WRN Europe
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73628
+#EXTINF:-1,Xpanded TV
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73626
+#EXTINF:-1,Xpanded TV2
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73625
+#EXTINF:-1,YANGA!
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/73599
+#EXTINF:-1,MOVIES 24
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/74725
+#EXTINF:-1,CHART SHOW TV
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/74733
+#EXTINF:-1,HOME AND HEALTH
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/64271
+#EXTINF:-1,Nick
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/74778
+#EXTINF:-1,S4C
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/74777
+#EXTINF:-1,VH1 Classic
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/74776
+#EXTINF:-1,Babe Station
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/74775
+#EXTINF:-1,Eman Channel
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/74774
+#EXTINF:-1,TCM  Plus 1
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/74773
+#EXTINF:-1,Propeller
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/74772
+#EXTINF:-1,Property Show
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/74771
+#EXTINF:-1,Psychic Today
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/74770
+#EXTINF:-1,Sony Max
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/74769
+#EXTINF:-1,TV X
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/74767
+#EXTINF:-1,Adult Channel
+http://local-iptv.ddns.net:8000/kingexchangenew/glvoujmgOIj68/74766
