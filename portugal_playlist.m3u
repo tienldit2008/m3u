@@ -1,71 +1,431 @@
 #EXTM3U
-#EXTINF:-1,24Kitchen
-http://iptv.jinbox.nl:1339/arsenaliverpool/K6BHdnN9KL/1236
-#EXTINF:-1,CMTV
-http://iptv.jinbox.nl:1339/arsenaliverpool/K6BHdnN9KL/2709
-#EXTINF:-1,MOV HD+
-http://iptv.jinbox.nl:1339/arsenaliverpool/K6BHdnN9KL/2706
+#EXTINF:-1,AMC
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40384.ts
+#EXTINF:-1,TLC
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40383.ts
+#EXTINF:-1,AXN BLACK HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40382.ts
+#EXTINF:-1,AXN HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40381.ts
+#EXTINF:-1,AXN WHITE HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40380.ts
+#EXTINF:-1,CINEMUNDO HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40379.ts
 #EXTINF:-1,FOX HD
-http://iptv.jinbox.nl:1339/arsenaliverpool/K6BHdnN9KL/1232
-#EXTINF:-1,Fox Movies
-http://iptv.jinbox.nl:1339/arsenaliverpool/K6BHdnN9KL/1235
-#EXTINF:-1,Fox Life
-http://iptv.jinbox.nl:1339/arsenaliverpool/K6BHdnN9KL/1234
-#EXTINF:-1,Globo Premium
-http://iptv.jinbox.nl:1339/arsenaliverpool/K6BHdnN9KL/2731
-#EXTINF:-1,Porto Canal
-http://iptv.jinbox.nl:1339/arsenaliverpool/K6BHdnN9KL/2704
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40378.ts
+#EXTINF:-1,FOX COMEDY
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40377.ts
+#EXTINF:-1,FOX CRIME HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40376.ts
+#EXTINF:-1,FOX MOVIES
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40375.ts
+#EXTINF:-1,FOX LIFE HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40374.ts
+#EXTINF:-1,HOLLYWOOD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40373.ts
+#EXTINF:-1,HOLLYWOOD HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40372.ts
+#EXTINF:-1,SYFY
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40371.ts
+#EXTINF:-1,CINEMUNDO
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40370.ts
+#EXTINF:-1,TVCINE 1
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40369.ts
+#EXTINF:-1,TVCINE 2
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40368.ts
+#EXTINF:-1,TVCINE 3
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40367.ts
+#EXTINF:-1,TVCINE 4
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40366.ts
+#EXTINF:-1,GLOBO
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40365.ts
+#EXTINF:-1,GLOBO NOW
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40364.ts
+#EXTINF:-1,TRACE URBAN
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40363.ts
+#EXTINF:-1,SIC K
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40362.ts
+#EXTINF:-1,SIC CARAS
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40361.ts
+#EXTINF:-1,SIC
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40360.ts
+#EXTINF:-1,SIC MULHER
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40359.ts
+#EXTINF:-1,SIC RADICAL
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40358.ts
+#EXTINF:-1,SIC NOTÍCIAS
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40357.ts
 #EXTINF:-1,RTP 1
-http://iptv.jinbox.nl:1339/arsenaliverpool/K6BHdnN9KL/1215
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40356.ts
 #EXTINF:-1,RTP 2
-http://iptv.jinbox.nl:1339/arsenaliverpool/K6BHdnN9KL/1216
-#EXTINF:-1,RTP Memoria
-http://iptv.jinbox.nl:1339/arsenaliverpool/K6BHdnN9KL/2712
-#EXTINF:-1,SIC HD
-http://iptv.jinbox.nl:1339/arsenaliverpool/K6BHdnN9KL/1217
-#EXTINF:-1,SIC Kids
-http://iptv.jinbox.nl:1339/arsenaliverpool/K6BHdnN9KL/2720
-#EXTINF:-1,SIC Mulher
-http://iptv.jinbox.nl:1339/arsenaliverpool/K6BHdnN9KL/2716
-#EXTINF:-1,SIC Noticias
-http://iptv.jinbox.nl:1339/arsenaliverpool/K6BHdnN9KL/2703
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40355.ts
+#EXTINF:-1,RTP 3
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40354.ts
+#EXTINF:-1,RTP AÇORES
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40353.ts
+#EXTINF:-1,RTP ÁFRICA
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40352.ts
+#EXTINF:-1,RTP MADEIRA
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40351.ts
+#EXTINF:-1,RTP MEMÓRIA
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40350.ts
+#EXTINF:-1,BIGGS
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40349.ts
+#EXTINF:-1,BLAZE
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40348.ts
+#EXTINF:-1,BLOOMBERG
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40347.ts
+#EXTINF:-1,CAÇAVISION
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40346.ts
+#EXTINF:-1,CANAL Q
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40345.ts
+#EXTINF:-1,CANÇÃO NOVA
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40344.ts
+#EXTINF:-1,KURIAKOS TV
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40343.ts
+#EXTINF:-1,CBS REALITY
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40341.ts
+#EXTINF:-1,TV SÉRIES
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40340.ts
+#EXTINF:-1,EUROCHANNEL
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40339.ts
+#EXTINF:-1,BABY TV
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40337.ts
+#EXTINF:-1,CANAL PANDA
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40336.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40334.ts
+#EXTINF:-1,DISNEY JÚNIOR
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40333.ts
+#EXTINF:-1,JIM JAM
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40332.ts
+#EXTINF:-1,A BOLA TV
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40330.ts
+#EXTINF:-1,KOMBAT SPORT
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40329.ts
+#EXTINF:-1,EUROSPORT 1
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40328.ts
+#EXTINF:-1,EUROSPORT 2
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40327.ts
+#EXTINF:-1,EUROSPORT 1 HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40326.ts
+#EXTINF:-1,SPORTING TV HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40325.ts
+#EXTINF:-1,SPORT TV 1 HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40324.ts
+#EXTINF:-1,SPORT TV 2 HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40323.ts
+#EXTINF:-1,SPORT TV 3 HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40322.ts
+#EXTINF:-1,SPORT TV 4K UHD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40321.ts
+#EXTINF:-1,SPORT TV
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40320.ts
+#EXTINF:-1,SPORT TV 1
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40319.ts
+#EXTINF:-1,SPORT TV 2
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40318.ts
+#EXTINF:-1,SPORT TV 3
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40317.ts
+#EXTINF:-1,SPORT TV 4
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40316.ts
+#EXTINF:-1,SPORT TV 5
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40315.ts
+#EXTINF:-1,SPORTING TV
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40314.ts
+#EXTINF:-1,REAL MADRID TV
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40313.ts
+#EXTINF:-1,BTV HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40312.ts
+#EXTINF:-1,CMTV
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40311.ts
+#EXTINF:-1,ANGELUS TV
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40309.ts
+#EXTINF:-1,24 KITCHEN HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40308.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40307.ts
+#EXTINF:-1,HISTÓRIA
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40306.ts
+#EXTINF:-1,NAT GEO WILD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40305.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40304.ts
+#EXTINF:-1,TRAVEL CHANNEL HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40303.ts
+#EXTINF:-1,DISCOVERY HD SHOWCASE
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40302.ts
+#EXTINF:-1,CRIME INVESTIGATION
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40301.ts
+#EXTINF:-1,AFRO MUSIC
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40299.ts
+#EXTINF:-1,MCM POP
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40298.ts
+#EXTINF:-1,MTV PORTUGAL
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40297.ts
+#EXTINF:-1,MTV PORTUGAL HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40296.ts
+#EXTINF:-1,VH1
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40295.ts
+#EXTINF:-1,TV GALICIA
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40294.ts
+#EXTINF:-1,ARTV
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40292.ts
+#EXTINF:-1,BBC WORLD NEWS
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40291.ts
+#EXTINF:-1,CHANNEL 1 RUSSIA
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40290.ts
+#EXTINF:-1,CNBC Europe
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40289.ts
+#EXTINF:-1,CNN
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40288.ts
+#EXTINF:-1,DEUTSCHE WELLE
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40287.ts
+#EXTINF:-1,E! ENTERTAINMENT
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40286.ts
+#EXTINF:-1,EURONEWS
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40285.ts
+#EXTINF:-1,FOX NEWS
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40284.ts
+#EXTINF:-1,FRANCE 24
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40283.ts
+#EXTINF:-1,FTV
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40282.ts
+#EXTINF:-1,HISPASAT 4K
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40281.ts
+#EXTINF:-1,MEZZO
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40280.ts
+#EXTINF:-1,MY CUISINE
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40279.ts
+#EXTINF:-1,NBA TV
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40278.ts
+#EXTINF:-1,NHK WORLD JAPAN
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40277.ts
+#EXTINF:-1,ODISSEIA
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40276.ts
+#EXTINF:-1,PFC
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40275.ts
+#EXTINF:-1,PORTO CANAL
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40274.ts
+#EXTINF:-1,SKY NEWS
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40273.ts
+#EXTINF:-1,TOROS TV
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40272.ts
+#EXTINF:-1,TV RECORD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40271.ts
+#EXTINF:-1,TV5 MONDE
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40270.ts
+#EXTINF:-1,TVE 24H
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40269.ts
+#EXTINF:-1,TVEI
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40268.ts
 #EXTINF:-1,TVI
-http://iptv.jinbox.nl:1339/arsenaliverpool/K6BHdnN9KL/1218
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40267.ts
 #EXTINF:-1,TVI 24
-http://iptv.jinbox.nl:1339/arsenaliverpool/K6BHdnN9KL/2734
-#EXTINF:-1,Canal Panda
-http://iptv.jinbox.nl:1339/arsenaliverpool/K6BHdnN9KL/2710
-#EXTINF:-1,E! Entertainment
-http://iptv.jinbox.nl:1339/arsenaliverpool/K6BHdnN9KL/2725
-#EXTINF:-1,Disney Junior
-http://iptv.jinbox.nl:1339/arsenaliverpool/K6BHdnN9KL/2717
-#EXTINF:-1,AXN White HD+
-http://iptv.jinbox.nl:1339/arsenaliverpool/K6BHdnN9KL/2708
-#EXTINF:-1,Nat Geo Wild
-http://iptv.jinbox.nl:1339/arsenaliverpool/K6BHdnN9KL/2705
-#EXTINF:-1,Benfica 1
-http://iptv.jinbox.nl:1339/arsenaliverpool/K6BHdnN9KL/1171
-#EXTINF:-1,Eurosport 1 HD+
-http://iptv.jinbox.nl:1339/arsenaliverpool/K6BHdnN9KL/2739
-#EXTINF:-1,Sporting TV HD+
-http://iptv.jinbox.nl:1339/arsenaliverpool/K6BHdnN9KL/2732
-#EXTINF:-1,Sport TV 1 HD
-http://iptv.jinbox.nl:1339/arsenaliverpool/K6BHdnN9KL/864
-#EXTINF:-1,Sport TV 3 HD
-http://iptv.jinbox.nl:1339/arsenaliverpool/K6BHdnN9KL/862
-#EXTINF:-1,Sport TV 4 HD
-http://iptv.jinbox.nl:1339/arsenaliverpool/K6BHdnN9KL/1021
-#EXTINF:-1,Sport TV 5
-http://iptv.jinbox.nl:1339/arsenaliverpool/K6BHdnN9KL/1022
-#EXTINF:-1,AXN HD+
-http://iptv.jinbox.nl:1339/arsenaliverpool/K6BHdnN9KL/1227
-#EXTINF:-1,TVC 1 HD+
-http://iptv.jinbox.nl:1339/arsenaliverpool/K6BHdnN9KL/1220
-#EXTINF:-1,TVC 2 HD+
-http://iptv.jinbox.nl:1339/arsenaliverpool/K6BHdnN9KL/1221
-#EXTINF:-1,TVC 3 HD+
-http://iptv.jinbox.nl:1339/arsenaliverpool/K6BHdnN9KL/1222
-#EXTINF:-1,TVC 4 HD+
-http://iptv.jinbox.nl:1339/arsenaliverpool/K6BHdnN9KL/1223
-#EXTINF:-1,Fox Crime
-http://iptv.jinbox.nl:1339/arsenaliverpool/K6BHdnN9KL/1230
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40266.ts
+#EXTINF:-1,TVI FICÇÃO
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40265.ts
+#EXTINF:-1,AMC HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40263.ts
+#EXTINF:-1,AXN HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40262.ts
+#EXTINF:-1,BBC ENTERTAINMENT
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40261.ts
+#EXTINF:-1,BLAZE
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40260.ts
+#EXTINF:-1,BLAZE HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40259.ts
+#EXTINF:-1,BTV 1 HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40258.ts
+#EXTINF:-1,CAÇA E PESCA HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40257.ts
+#EXTINF:-1,CANAL 180
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40256.ts
+#EXTINF:-1,CMTV HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40255.ts
+#EXTINF:-1,DOGTV
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40254.ts
+#EXTINF:-1,E! ENTERTAINMENT
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40253.ts
+#EXTINF:-1,E! ENTERTAINMENT HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40252.ts
+#EXTINF:-1,FIGHT NETWORK HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40251.ts
+#EXTINF:-1,FINE LIVING NETWORK HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40250.ts
+#EXTINF:-1,FOX COMEDY HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40249.ts
+#EXTINF:-1,FOX CRIME HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40248.ts
+#EXTINF:-1,FOX HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40247.ts
+#EXTINF:-1,FOX LIFE HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40246.ts
+#EXTINF:-1,FOX MOVIES HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40245.ts
+#EXTINF:-1,FTV
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40244.ts
+#EXTINF:-1,FTV HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40243.ts
+#EXTINF:-1,FUEL TV HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40242.ts
+#EXTINF:-1,GLOBO HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40241.ts
+#EXTINF:-1,GLOBO NOW HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40240.ts
+#EXTINF:-1,HOLLYWOOD HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40239.ts
+#EXTINF:-1,HOT HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40238.ts
+#EXTINF:-1,ICONCERTS HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40237.ts
+#EXTINF:-1,ID INVESTIGATION DISCOVERY
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40236.ts
+#EXTINF:-1,IUTV
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40235.ts
+#EXTINF:-1,KBS WORLD HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40234.ts
+#EXTINF:-1,LOCALVISÃO TV HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40233.ts
+#EXTINF:-1,MCS TV ULTRA HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40232.ts
+#EXTINF:-1,MEZZO LIVE HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40231.ts
+#EXTINF:-1,MOTORVISION HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40230.ts
+#EXTINF:-1,MYZEN TV
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40229.ts
+#EXTINF:-1,NAT GEO WILD HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40228.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40227.ts
+#EXTINF:-1,ODISSEIA HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40226.ts
+#EXTINF:-1,OUTDOOR HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40225.ts
+#EXTINF:-1,PENTHOUSE HD1
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40224.ts
+#EXTINF:-1,PLAYBOY TV HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40223.ts
+#EXTINF:-1,RTP 1 HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40221.ts
+#EXTINF:-1,S   HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40220.ts
+#EXTINF:-1,SIC CARAS HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40219.ts
+#EXTINF:-1,SIC HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40218.ts
+#EXTINF:-1,SIC MULHER HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40217.ts
+#EXTINF:-1,SIC NOTÍCIAS HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40216.ts
+#EXTINF:-1,SIC RADICAL HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40215.ts
+#EXTINF:-1,SPORT TV   HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40214.ts
+#EXTINF:-1,SPORT TV 1 HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40213.ts
+#EXTINF:-1,SPORT TV 1 HD [540P]
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40212.ts
+#EXTINF:-1,SPORT TV 1 HD [720P]
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40211.ts
+#EXTINF:-1,SPORT TV 2 HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40210.ts
+#EXTINF:-1,SPORT TV 2 HD [540P]
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40209.ts
+#EXTINF:-1,SPORT TV 2 HD [720P]
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40208.ts
+#EXTINF:-1,SPORT TV 3 HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40207.ts
+#EXTINF:-1,SPORT TV 3 HD [540P]
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40206.ts
+#EXTINF:-1,SPORT TV 3 HD [720P]
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40205.ts
+#EXTINF:-1,SPORT TV 4 HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40204.ts
+#EXTINF:-1,SPORT TV 4 HD [540P]
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40203.ts
+#EXTINF:-1,SPORT TV 4 HD [720P]
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40202.ts
+#EXTINF:-1,SPORT TV 5 HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40201.ts
+#EXTINF:-1,SPORT TV 5 HD [540P]
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40200.ts
+#EXTINF:-1,SPORT TV 5 HD [720P]
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40199.ts
+#EXTINF:-1,SPORT TV NBA
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40198.ts
+#EXTINF:-1,SUNDANCE HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40197.ts
+#EXTINF:-1,SYFY HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40196.ts
+#EXTINF:-1,TOROS TV HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40195.ts
+#EXTINF:-1,TRACE URBAN HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40194.ts
+#EXTINF:-1,TV RECORD HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40193.ts
+#EXTINF:-1,TVCINE 1 HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40192.ts
+#EXTINF:-1,TVCINE 2 HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40191.ts
+#EXTINF:-1,TVCINE 3 HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40190.ts
+#EXTINF:-1,TVCINE 4 HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40189.ts
+#EXTINF:-1,TVSÉRIES HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40188.ts
+#EXTINF:-1,BOOMERANG
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40187.ts
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40186.ts
+#EXTINF:-1,ELEVEN SPORTS 1 HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40185.ts
+#EXTINF:-1,ELEVEN SPORTS 1 HD [540p]
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40184.ts
+#EXTINF:-1,ELEVEN SPORTS 1 HD [720p]
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40183.ts
+#EXTINF:-1,ELEVEN SPORTS 2 HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40182.ts
+#EXTINF:-1,ELEVEN SPORTS 2 HD [540p]
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40181.ts
+#EXTINF:-1,ELEVEN SPORTS 2 HD [720p]
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40180.ts
+#EXTINF:-1,ELEVEN SPORTS 3 HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40179.ts
+#EXTINF:-1,ELEVEN SPORTS 3 HD [540p]
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40178.ts
+#EXTINF:-1,ELEVEN SPORTS 3 HD [720p]
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40177.ts
+#EXTINF:-1,ELEVEN SPORTS 4 HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40176.ts
+#EXTINF:-1,ELEVEN SPORTS 4 HD [540p]
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40175.ts
+#EXTINF:-1,ELEVEN SPORTS 4 HD [720p]
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40174.ts
+#EXTINF:-1,ELEVEN SPORTS 5 HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40173.ts
+#EXTINF:-1,ELEVEN SPORTS 5 HD [540p]
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40172.ts
+#EXTINF:-1,ELEVEN SPORTS 5 HD [720p]
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40171.ts
+#EXTINF:-1,ELEVEN SPORTS 6 HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40170.ts
+#EXTINF:-1,ELEVEN SPORTS 6 HD [540p]
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40169.ts
+#EXTINF:-1,ELEVEN SPORTS 6 HD [720p]
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40168.ts
+#EXTINF:-1,EUROSPORT 2 HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40167.ts
+#EXTINF:-1,FIGHT SPORTS HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40166.ts
+#EXTINF:-1,FRANCE 24 HD FR
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40165.ts
+#EXTINF:-1,FRANCE 24 HD ING
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40164.ts
+#EXTINF:-1,LUXE TV HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40163.ts
+#EXTINF:-1,QYOU HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40162.ts
+#EXTINF:-1,TRACE SPORTS STARS HD
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/40161.ts
