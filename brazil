@@ -1,7 +1,3 @@
-#EXTINF:-1,##### |BR| BRASIL #####
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42542.ts
-#EXTINF:-1,TV Brasil
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42541.ts
 #EXTINF:-1,Globo SP
 http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42540.ts
 #EXTINF:-1,Globo Minas
@@ -26,50 +22,6 @@ http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42531.ts
 http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42530.ts
 #EXTINF:-1,CNN Internacional
 http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42529.ts
-#EXTINF:-1,A&E
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42528.ts
-#EXTINF:-1,A&E [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42527.ts
-#EXTINF:-1,A&E [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42526.ts
-#EXTINF:-1,AMC
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42525.ts
-#EXTINF:-1,AMC [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42524.ts
-#EXTINF:-1,AMC [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42523.ts
-#EXTINF:-1,AXN
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42522.ts
-#EXTINF:-1,AXN [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42521.ts
-#EXTINF:-1,AXN [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42520.ts
-#EXTINF:-1,Cinebrasil
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42519.ts
-#EXTINF:-1,Cinemax
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42518.ts
-#EXTINF:-1,Cinemax [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42517.ts
-#EXTINF:-1,Cinemax [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42516.ts
-#EXTINF:-1,Comedy Central
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42515.ts
-#EXTINF:-1,Comedy Central [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42514.ts
-#EXTINF:-1,Comedy Central [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42513.ts
-#EXTINF:-1,Fox
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42512.ts
-#EXTINF:-1,Fox [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42511.ts
-#EXTINF:-1,Fox [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42510.ts
-#EXTINF:-1,Fox life
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42509.ts
-#EXTINF:-1,Fox life [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42508.ts
-#EXTINF:-1,Fox life [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42507.ts
 #EXTINF:-1,TC Action
 http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42506.ts
 #EXTINF:-1,TC Cult
@@ -82,96 +34,6 @@ http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42503.ts
 http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42502.ts
 #EXTINF:-1,TC Touch
 http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42501.ts
-#EXTINF:-1,Fox Premium 1
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42500.ts
-#EXTINF:-1,Fox Premium 1 [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42499.ts
-#EXTINF:-1,Fox Premium 1 [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42498.ts
-#EXTINF:-1,Fox Premium 2
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42497.ts
-#EXTINF:-1,Fox Premium 2 [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42496.ts
-#EXTINF:-1,Fox Premium 2 [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42495.ts
-#EXTINF:-1,Fx
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42494.ts
-#EXTINF:-1,Fx [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42493.ts
-#EXTINF:-1,Fx [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42492.ts
-#EXTINF:-1,ID
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42491.ts
-#EXTINF:-1,ID [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42490.ts
-#EXTINF:-1,ID [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42489.ts
-#EXTINF:-1,H2
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42488.ts
-#EXTINF:-1,H2 [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42487.ts
-#EXTINF:-1,H2 [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42486.ts
-#EXTINF:-1,HBO
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42485.ts
-#EXTINF:-1,HBO [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42484.ts
-#EXTINF:-1,HBO [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42483.ts
-#EXTINF:-1,HBO2
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42482.ts
-#EXTINF:-1,HBO Family
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42481.ts
-#EXTINF:-1,HBO Family [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42480.ts
-#EXTINF:-1,HBO Family [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42479.ts
-#EXTINF:-1,HBO Plus
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42478.ts
-#EXTINF:-1,HBO Plus [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42477.ts
-#EXTINF:-1,HBO Plus [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42476.ts
-#EXTINF:-1,HBO Signature
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42475.ts
-#EXTINF:-1,HBO Signature [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42474.ts
-#EXTINF:-1,HBO Signature [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42473.ts
-#EXTINF:-1,Lifetime
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42472.ts
-#EXTINF:-1,Lifetime [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42471.ts
-#EXTINF:-1,Lifetime [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42470.ts
-#EXTINF:-1,MAX
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42469.ts
-#EXTINF:-1,MAX [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42468.ts
-#EXTINF:-1,MAX [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42467.ts
-#EXTINF:-1,MAX Prime
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42466.ts
-#EXTINF:-1,MAX Prime [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42465.ts
-#EXTINF:-1,MAX Prime [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42464.ts
-#EXTINF:-1,Max UP
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42463.ts
-#EXTINF:-1,Max UP [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42462.ts
-#EXTINF:-1,Max UP [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42461.ts
-#EXTINF:-1,Paramount
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42460.ts
-#EXTINF:-1,Paramount [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42459.ts
-#EXTINF:-1,Paramount [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42458.ts
-#EXTINF:-1,Play TV
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42457.ts
-#EXTINF:-1,Premiere 2
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42456.ts
 #EXTINF:-1,Premiere 3
 http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42455.ts
 #EXTINF:-1,Premiere 4
