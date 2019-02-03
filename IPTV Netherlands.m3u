@@ -1,45 +1,97 @@
 #EXTM3U
-#EXTINF:-1,NPO 1
-http://turkisch.club:8000/lokman/23082018/496
-#EXTINF:-1,NPO 2
-http://turkisch.club:8000/lokman/23082018/497
-#EXTINF:-1,NPO 3
-http://turkisch.club:8000/lokman/23082018/498
-#EXTINF:-1,HBO 1
-http://turkisch.club:8000/lokman/23082018/499
-#EXTINF:-1,HBO 2
-http://turkisch.club:8000/lokman/23082018/500
-#EXTINF:-1,SBS 6
-http://turkisch.club:8000/lokman/23082018/490
-#EXTINF:-1,SBS 9
-http://turkisch.club:8000/lokman/23082018/491
-#EXTINF:-1,RTL 4
-http://turkisch.club:8000/lokman/23082018/492
-#EXTINF:-1,RTL 5
-http://turkisch.club:8000/lokman/23082018/493
-#EXTINF:-1,RTL 7
-http://turkisch.club:8000/lokman/23082018/494
+#EXTINF:-1,RTL7
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/588.m3u8
+#EXTINF:-1,RTL5
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/587.m3u8
+#EXTINF:-1,NET5
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/586.m3u8
+#EXTINF:-1,HBO1
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/590.m3u8
+#EXTINF:-1,HBO2
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/591.m3u8
+#EXTINF:-1,HBO3
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/592.m3u8
+#EXTINF:-1,FOX HD
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/4385.m3u8
+#EXTINF:-1,DISCOVEY HD
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/593.m3u8
+#EXTINF:-1,SPORT1.SELECT
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/580.m3u8
 #EXTINF:-1,RTL 8
-http://turkisch.club:8000/lokman/23082018/495
-#EXTINF:-1,FILM 1 ACTION
-http://turkisch.club:8000/lokman/23082018/510
-#EXTINF:-1,NICKELODEON
-http://turkisch.club:8000/lokman/23082018/503
-#EXTINF:-1,VERONICA DISNEY XD
-http://turkisch.club:8000/lokman/23082018/502
-#EXTINF:-1,FILM 1 SPOTLIGHT
-http://turkisch.club:8000/lokman/23082018/513
-#EXTINF:-1,FILM 1 COMEDY
-http://turkisch.club:8000/lokman/23082018/511
-#EXTINF:-1,FILM 1 PREMIERE
-http://turkisch.club:8000/lokman/23082018/512
-#EXTINF:-1,FOX SPORT 1
-http://turkisch.club:8000/lokman/23082018/508
-#EXTINF:-1,FOX SPORT 2
-http://turkisch.club:8000/lokman/23082018/507
-#EXTINF:-1,FOX SPORT 3
-http://turkisch.club:8000/lokman/23082018/506
-#EXTINF:-1,FOX SPORT 4
-http://turkisch.club:8000/lokman/23082018/505
-#EXTINF:-1,FOX SPORT 5
-http://turkisch.club:8000/lokman/23082018/504
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/589.m3u8
+#EXTINF:-1,Veronica Disney XD
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/4379.m3u8
+#EXTINF:-1,Ziggo Sport Voetbal
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/4387.m3u8
+#EXTINF:-1,Ziggo Sport Select HD
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/4388.m3u8
+#EXTINF:-1,Ziggo Sport Racing
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/4389.m3u8
+#EXTINF:-1,Ziggo Sport Golf
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/4390.m3u8
+#EXTINF:-1,Ziggo Sport eXtra 1
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/4391.m3u8
+#EXTINF:-1,TLC
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/4382.m3u8
+#EXTINF:-1,SBS 9
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/4377.m3u8
+#EXTINF:-1,SBS 6 HD
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/4376.m3u8
+#EXTINF:-1,RTL Z
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/4381.m3u8
+#EXTINF:-1,RTL 4
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/4375.m3u8
+#EXTINF:-1,NPO Zappelin Xtra/Humor TV
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/4410.m3u8
+#EXTINF:-1,Nickelodeon
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/4403.m3u8
+#EXTINF:-1,Net5 HD
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/4378.m3u8
+#EXTINF:-1,National Geographic HD
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/4409.m3u8
+#EXTINF:-1,MTV HD
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/4419.m3u8
+#EXTINF:-1,Ketnet HD
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/4407.m3u8
+#EXTINF:-1,Fox Sport 1 HD
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/4393.m3u8
+#EXTINF:-1,Fox Sports 2 HD
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/4394.m3u8
+#EXTINF:-1,Fox Sports 3 HD
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/4395.m3u8
+#EXTINF:-1,Fox Sports 4 HD
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/4396.m3u8
+#EXTINF:-1,Fox Sports 5 HD
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/4397.m3u8
+#EXTINF:-1,Fox Sports 6 HD
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/4398.m3u8
+#EXTINF:-1,FOX-SPORTS1HD
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/582.m3u8
+#EXTINF:-1,FOX-SPORTS2HD
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/581.m3u8
+#EXTINF:-1,FILM PREMIERE
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/595.m3u8
+#EXTINF:-1,FILM KIDS & COMEDY
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/596.m3u8
+#EXTINF:-1,Film family
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/4400.m3u8
+#EXTINF:-1,Film 1 Spotlight
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/4401.m3u8
+#EXTINF:-1,Film 1 Comedy
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/4402.m3u8
+#EXTINF:-1,E! entertainement HD
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/4421.m3u8
+#EXTINF:-1,Disney Junior
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/4408.m3u8
+#EXTINF:-1,Disney Channel HD
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/4404.m3u8
+#EXTINF:-1,Crime & Investigation
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/4411.m3u8
+#EXTINF:-1,Comedy Central
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/4413.m3u8
+#EXTINF:-1,BBC Entertainment
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/4423.m3u8
+#EXTINF:-1,24 Kitchen HD
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/4384.m3u8
+#EXTINF:-1,FILM ACTION
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/597.m3u8
