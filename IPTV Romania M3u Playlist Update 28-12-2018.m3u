@@ -1,97 +1,164 @@
 #EXTM3U
+#EXTINF:-1,Ro- 1 Music Channel
+http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9057
+#EXTINF:-1,Ro- Acasa Gold
+http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9056
+#EXTINF:-1,Ro- Acasa TV
+http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/5904
+#EXTINF:-1,Ro- Antena 1
+http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9055
+#EXTINF:-1,Ro- Antena 3
+http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9054
+#EXTINF:-1,Ro- Antena Stars
+http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9053
+#EXTINF:-1,Ro- B1 TV
+http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/5798
+#EXTINF:-1,Ro- CBS Reality
+http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9051
+#EXTINF:-1,Ro- Digi 24
+http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9050
+#EXTINF:-1,Ro- Dolce Sport 1 HD
+http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9049
+#EXTINF:-1,Ro- Dolce Sport 2 HD
+http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9048
+#EXTINF:-1,Ro- HBO
+http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9045
+#EXTINF:-1,Ro- Kanal D
+http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9044
+#EXTINF:-1,Ro- Kiss TV
+http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9043
+#EXTINF:-1,Ro- Na?ional TV
+http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9041
+#EXTINF:-1,Ro- National Geographic Wild
+http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9039
+#EXTINF:-1,Ro- Prima TV
+http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9038
+#EXTINF:-1,Ro- Pro TV
+http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9036
+#EXTINF:-1,Ro- Pro TV International
+http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9035
+#EXTINF:-1,Ro- Realitatea TV
+http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9034
+#EXTINF:-1,Ro- Romania TV
+http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9033
+#EXTINF:-1,Ro- Taraf TV
+http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9032
+
+#EXTINF:-1,Acasa TV
+http://pro.falconiptv.com:25461/0987654321/1234567890/37648
+#EXTINF:-1,Agro TV
+http://pro.falconiptv.com:25461/0987654321/1234567890/37639
 #EXTINF:-1,Antena 1
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20094
+http://pro.falconiptv.com:25461/0987654321/1234567890/37638
 #EXTINF:-1,Antena 3
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/11292
-#EXTINF:-1,Kiss TV
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/11157
-#EXTINF:-1,HBO Romania
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/1798
-#EXTINF:-1,Hbo
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/11307
-#EXTINF:-1,Hbo 2
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/11293
-#EXTINF:-1,HBO 3
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20089
-#EXTINF:-1,Acasa tv
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/11291
-#EXTINF:-1,Agro tv
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/11297
-#EXTINF:-1,Axn Romania
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/11295
-#EXTINF:-1,Realitatea
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/11306
-#EXTINF:-1,Romania TV
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20087
-#EXTINF:-1,Prima
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/11304
-#EXTINF:-1,Paramount Channel
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20104
-#EXTINF:-1,Paprika
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/28493
-#EXTINF:-1,Kanal D
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20088
-#EXTINF:-1,Look Plus
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/11300
-#EXTINF:-1,National TV
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20105
-#EXTINF:-1,TV 1000
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20086
-#EXTINF:-1,TVR 1
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20095
-#EXTINF:-1,TVR 2
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20085
-#EXTINF:-1,U TV
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20097
-#EXTINF:-1,Megamax
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/11301
-#EXTINF:-1,Minimax
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/11302
-#EXTINF:-1,Music Channel HU
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20106
-#EXTINF:-1,ProTV
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20102
-#EXTINF:-1,Taraf Tv
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20100
-#EXTINF:-1,TNT
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20099
-#EXTINF:-1,Trinitras
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/11305
-#EXTINF:-1,Favorid
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/11296
-#EXTINF:-1,Etno Tv
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20107
-#EXTINF:-1,B1 tv
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/11290
+http://pro.falconiptv.com:25461/0987654321/1234567890/37637
+#EXTINF:-1,Antena Stars
+http://pro.falconiptv.com:25461/0987654321/1234567890/37649
+#EXTINF:-1,AXN Romania
+http://pro.falconiptv.com:25461/0987654321/1234567890/37636
+#EXTINF:-1,AXN White
+http://pro.falconiptv.com:25461/0987654321/1234567890/37635
+#EXTINF:-1,B1
+http://pro.falconiptv.com:25461/0987654321/1234567890/37647
+#EXTINF:-1,Boomerang
+http://pro.falconiptv.com:25461/0987654321/1234567890/37634
+#EXTINF:-1,Cinemax
+http://pro.falconiptv.com:25461/0987654321/1234567890/37632
 #EXTINF:-1,Cinemax 2
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/11308
-#EXTINF:-1,Cinemax Ro
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20110
-#EXTINF:-1,DIGI 24 Craiova
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20109
-#EXTINF:-1,DIGI 24 Galati
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20108
-#EXTINF:-1,DIGI Life
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20093
-#EXTINF:-1,DIGI World
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20092
-#EXTINF:-1,DIGI Sport 1
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20111
-#EXTINF:-1,DIGI Sport 2
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20112
-#EXTINF:-1,DIGI Sport 3
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20113
-#EXTINF:-1,DIGI Sport 4
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20114
-#EXTINF:-1,Dolce Sport 1
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20115
-#EXTINF:-1,Dolce Sport 2
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20116
-#EXTINF:-1,EuroSport 1
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20091
-#EXTINF:-1,EuroSport 2
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20090
+http://pro.falconiptv.com:25461/0987654321/1234567890/37633
+#EXTINF:-1,Digi 24
+http://pro.falconiptv.com:25461/0987654321/1234567890/37631
+#EXTINF:-1,Digi Animal World
+http://pro.falconiptv.com:25461/0987654321/1234567890/37630
+#EXTINF:-1,Digi Film
+http://pro.falconiptv.com:25461/0987654321/1234567890/37629
+#EXTINF:-1,Digi Life
+http://pro.falconiptv.com:25461/0987654321/1234567890/37628
+#EXTINF:-1,Digi Sport 1
+http://pro.falconiptv.com:25461/0987654321/1234567890/37627
+#EXTINF:-1,Digi Sport 2
+http://pro.falconiptv.com:25461/0987654321/1234567890/37626
+#EXTINF:-1,Digi Sport 3
+http://pro.falconiptv.com:25461/0987654321/1234567890/37625
+#EXTINF:-1,Digi Sport 4
+http://pro.falconiptv.com:25461/0987654321/1234567890/37624
+#EXTINF:-1,Digi World
+http://pro.falconiptv.com:25461/0987654321/1234567890/37623
+#EXTINF:-1,Disney Junior
+http://pro.falconiptv.com:25461/0987654321/1234567890/37622
+#EXTINF:-1,Etno TV
+http://pro.falconiptv.com:25461/0987654321/1234567890/37621
+#EXTINF:-1,Eurosport
+http://pro.falconiptv.com:25461/0987654321/1234567890/37620
+#EXTINF:-1,Eurosport 2
+http://pro.falconiptv.com:25461/0987654321/1234567890/37619
+#EXTINF:-1,Favorit TV
+http://pro.falconiptv.com:25461/0987654321/1234567890/37599
+#EXTINF:-1,Fishing & Hunting
+http://pro.falconiptv.com:25461/0987654321/1234567890/37618
+#EXTINF:-1,Happy Channel
+http://pro.falconiptv.com:25461/0987654321/1234567890/37646
+#EXTINF:-1,HBO 2
+http://pro.falconiptv.com:25461/0987654321/1234567890/37617
+#EXTINF:-1,HBO 3
+http://pro.falconiptv.com:25461/0987654321/1234567890/37651
+#EXTINF:-1,HBO Romania
+http://pro.falconiptv.com:25461/0987654321/1234567890/37650
+#EXTINF:-1,History Channel
+http://pro.falconiptv.com:25461/0987654321/1234567890/37616
+#EXTINF:-1,Kanal D
+http://pro.falconiptv.com:25461/0987654321/1234567890/37652
+#EXTINF:-1,Kiss TV
+http://pro.falconiptv.com:25461/0987654321/1234567890/37642
+#EXTINF:-1,Look TV
+http://pro.falconiptv.com:25461/0987654321/1234567890/37645
+#EXTINF:-1,Megamax
+http://pro.falconiptv.com:25461/0987654321/1234567890/37641
+#EXTINF:-1,Minimax
+http://pro.falconiptv.com:25461/0987654321/1234567890/37615
+#EXTINF:-1,Music Channel.Hu
+http://pro.falconiptv.com:25461/0987654321/1234567890/37614
+#EXTINF:-1,National TV
+http://pro.falconiptv.com:25461/0987654321/1234567890/37653
+#EXTINF:-1,Ngc
+http://pro.falconiptv.com:25461/0987654321/1234567890/37613
+#EXTINF:-1,Ngc Wild
+http://pro.falconiptv.com:25461/0987654321/1234567890/37612
+#EXTINF:-1,Nickelodeon
+http://pro.falconiptv.com:25461/0987654321/1234567890/37611
+#EXTINF:-1,Paramount Channel
+http://pro.falconiptv.com:25461/0987654321/1234567890/37610
+#EXTINF:-1,Prima TV
+http://pro.falconiptv.com:25461/0987654321/1234567890/37654
+#EXTINF:-1,Pro Cinema
+http://pro.falconiptv.com:25461/0987654321/1234567890/37609
+#EXTINF:-1,Pro TV
+http://pro.falconiptv.com:25461/0987654321/1234567890/37655
+#EXTINF:-1,Realitatea
+http://pro.falconiptv.com:25461/0987654321/1234567890/37644
+#EXTINF:-1,Romania TV
+http://pro.falconiptv.com:25461/0987654321/1234567890/37608
+#EXTINF:-1,Sport.Ro
+http://pro.falconiptv.com:25461/0987654321/1234567890/37607
+#EXTINF:-1,Taraf TV
+http://pro.falconiptv.com:25461/0987654321/1234567890/37643
+#EXTINF:-1,TNT
+http://pro.falconiptv.com:25461/0987654321/1234567890/37606
+#EXTINF:-1,Trinitas
+http://pro.falconiptv.com:25461/0987654321/1234567890/37605
+#EXTINF:-1,TV 1000
+http://pro.falconiptv.com:25461/0987654321/1234567890/37604
+#EXTINF:-1,TV5 MONDE
+http://pro.falconiptv.com:25461/0987654321/1234567890/37603
+#EXTINF:-1,TVR 1
+http://pro.falconiptv.com:25461/0987654321/1234567890/37656
+#EXTINF:-1,TVR 2
+http://pro.falconiptv.com:25461/0987654321/1234567890/37657
+#EXTINF:-1,TVR International
+http://pro.falconiptv.com:25461/0987654321/1234567890/37602
+#EXTINF:-1,U TV
+http://pro.falconiptv.com:25461/0987654321/1234567890/37658
 #EXTINF:-1,Viasat History
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20096
+http://pro.falconiptv.com:25461/0987654321/1234567890/37601
 #EXTINF:-1,Viasat Nature
-http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20084
+http://pro.falconiptv.com:25461/0987654321/1234567890/37600
