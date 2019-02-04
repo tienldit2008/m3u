@@ -1,119 +1,97 @@
 #EXTM3U
-#EXTINF:-1,1 MUSIC CHANNEL
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2782.ts
-#EXTINF:-1,ACASA TV
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2809.ts
-#EXTINF:-1,AGRO TV
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2835.ts
-#EXTINF:-1,ANTENA 1
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2811.ts
-#EXTINF:-1,ANTENA 3
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2810.ts
-#EXTINF:-1,ANTENA STARS
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2807.ts
-#EXTINF:-1,AXN ROMANIA
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2824.ts
-#EXTINF:-1,AXN WHITE
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2823.ts
-#EXTINF:-1,B1
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2812.ts
-#EXTINF:-1,BOOMERANG
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2803.ts
-#EXTINF:-1,CINEMAX 2
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2815.ts
-#EXTINF:-1,CINEMAX RO
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2816.ts
-#EXTINF:-1,DIGI 24
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2817.ts
-#EXTINF:-1,DIGI ANIMAL WORLD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2818.ts
-#EXTINF:-1,DIGI LIFE
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2820.ts
-#EXTINF:-1,DIGI SPORT 1
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2789.ts
-#EXTINF:-1,DIGI SPORT 2
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2788.ts
-#EXTINF:-1,DIGI SPORT 3
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2787.ts
-#EXTINF:-1,DIGI SPORT 4
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2786.ts
-#EXTINF:-1,DIGI WORLD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2821.ts
-#EXTINF:-1,DISNEY JUNIOR
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2822.ts
-#EXTINF:-1,ETNO TV
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2795.ts
-#EXTINF:-1,EUROSPORT
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2784.ts
-#EXTINF:-1,EUROSPORT 2
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2783.ts
-#EXTINF:-1,FAVORIT TV
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2791.ts
-#EXTINF:-1,FISHING & HUNTING
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2793.ts
-#EXTINF:-1,HAPPY CHANNEL
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2805.ts
-#EXTINF:-1,HBO 2
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2825.ts
+#EXTINF:-1,Antena 1
+http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20094
+#EXTINF:-1,Antena 3
+http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/11292
+#EXTINF:-1,Kiss TV
+http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/11157
+#EXTINF:-1,HBO Romania
+http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/1798
+#EXTINF:-1,Hbo
+http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/11307
+#EXTINF:-1,Hbo 2
+http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/11293
 #EXTINF:-1,HBO 3
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2800.ts
-#EXTINF:-1,HBO ROMANIA
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2826.ts
-#EXTINF:-1,HISTORY CHANNEL
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2827.ts
-#EXTINF:-1,KANAL D
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2828.ts
-#EXTINF:-1,KISS TV
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2829.ts
-#EXTINF:-1,LOOK PLUS TV
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2813.ts
-#EXTINF:-1,LOOK TV
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2814.ts
-#EXTINF:-1,MEGAMAX
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2830.ts
-#EXTINF:-1,MINIMAX
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2802.ts
-#EXTINF:-1,MUSIC CHANNEL.HU
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2831.ts
-#EXTINF:-1,NATIONAL TV
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2804.ts
-#EXTINF:-1,NGC
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2792.ts
-#EXTINF:-1,NGC WILD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2832.ts
-#EXTINF:-1,NICKELODEON
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2833.ts
-#EXTINF:-1,PARAMOUNT CHANNEL
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2799.ts
-#EXTINF:-1,PRIMA TV
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2806.ts
-#EXTINF:-1,PRO TV
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2834.ts
-#EXTINF:-1,REALITATEA
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2836.ts
-#EXTINF:-1,ROMANIA TV
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2837.ts
-#EXTINF:-1,SPORT.RO
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2785.ts
-#EXTINF:-1,TARAF TV
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2794.ts
-#EXTINF:-1,TNT
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2796.ts
-#EXTINF:-1,TRINITAS
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2797.ts
+http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20089
+#EXTINF:-1,Acasa tv
+http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/11291
+#EXTINF:-1,Agro tv
+http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/11297
+#EXTINF:-1,Axn Romania
+http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/11295
+#EXTINF:-1,Realitatea
+http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/11306
+#EXTINF:-1,Romania TV
+http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20087
+#EXTINF:-1,Prima
+http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/11304
+#EXTINF:-1,Paramount Channel
+http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20104
+#EXTINF:-1,Paprika
+http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/28493
+#EXTINF:-1,Kanal D
+http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20088
+#EXTINF:-1,Look Plus
+http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/11300
+#EXTINF:-1,National TV
+http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20105
 #EXTINF:-1,TV 1000
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2838.ts
-#EXTINF:-1,TV5 MONDE
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2798.ts
+http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20086
 #EXTINF:-1,TVR 1
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2843.ts
+http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20095
 #EXTINF:-1,TVR 2
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2842.ts
-#EXTINF:-1,TVR INTERNATIONAL
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2808.ts
+http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20085
 #EXTINF:-1,U TV
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2841.ts
-#EXTINF:-1,VIASAT HISTORY
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2839.ts
-#EXTINF:-1,VIASAT NATURE
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2840.ts
+http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20097
+#EXTINF:-1,Megamax
+http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/11301
+#EXTINF:-1,Minimax
+http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/11302
+#EXTINF:-1,Music Channel HU
+http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20106
+#EXTINF:-1,ProTV
+http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20102
+#EXTINF:-1,Taraf Tv
+http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20100
+#EXTINF:-1,TNT
+http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20099
+#EXTINF:-1,Trinitras
+http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/11305
+#EXTINF:-1,Favorid
+http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/11296
+#EXTINF:-1,Etno Tv
+http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20107
+#EXTINF:-1,B1 tv
+http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/11290
+#EXTINF:-1,Cinemax 2
+http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/11308
+#EXTINF:-1,Cinemax Ro
+http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20110
+#EXTINF:-1,DIGI 24 Craiova
+http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20109
+#EXTINF:-1,DIGI 24 Galati
+http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20108
+#EXTINF:-1,DIGI Life
+http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20093
+#EXTINF:-1,DIGI World
+http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20092
+#EXTINF:-1,DIGI Sport 1
+http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20111
+#EXTINF:-1,DIGI Sport 2
+http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20112
+#EXTINF:-1,DIGI Sport 3
+http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20113
+#EXTINF:-1,DIGI Sport 4
+http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20114
+#EXTINF:-1,Dolce Sport 1
+http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20115
+#EXTINF:-1,Dolce Sport 2
+http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20116
+#EXTINF:-1,EuroSport 1
+http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20091
+#EXTINF:-1,EuroSport 2
+http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20090
+#EXTINF:-1,Viasat History
+http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20096
+#EXTINF:-1,Viasat Nature
+http://clientportal.pro:8000/Burhan_Gushavci_swe/u9zKXv3tgf/20084
