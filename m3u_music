@@ -52,4 +52,39 @@ http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vibee-tv" group-title="MUSIC", V2BEAT HD
 http://139.59.166.48:8081/live/live3/playlist.m3u8
-
+#EXTINF:-1,Music | Box Hits
+http://formen1.com:8080/live/omer/omer/11139.m3u8
+#EXTINF:-1,Music | Capital
+http://formen1.com:8080/live/omer/omer/11138.m3u8
+#EXTINF:-1,Music | Channel Aka
+http://formen1.com:8080/live/omer/omer/11142.m3u8
+#EXTINF:-1,Music | Heart
+http://formen1.com:8080/live/omer/omer/11137.m3u8
+#EXTINF:-1,Music | Hip Hop 24/7
+http://formen1.com:8080/live/omer/omer/11136.m3u8
+#EXTINF:-1,Music | Kiss Tv
+http://formen1.com:8080/live/omer/omer/11140.m3u8
+#EXTINF:-1,MUSIC | MTV BASE
+http://formen1.com:8080/live/omer/omer/11148.m3u8
+#EXTINF:-1,Music | Mtv Classic
+http://formen1.com:8080/live/omer/omer/11144.m3u8
+#EXTINF:-1,Music | Mtv Dance
+http://formen1.com:8080/live/omer/omer/11147.m3u8
+#EXTINF:-1,Music | Mtv Hits
+http://formen1.com:8080/live/omer/omer/11146.m3u8
+#EXTINF:-1,Music | Mtv Music
+http://formen1.com:8080/live/omer/omer/11145.m3u8
+#EXTINF:-1,Music | Trace Mizki
+http://formen1.com:8080/live/omer/omer/11131.m3u8
+#EXTINF:-1,Music | Trace Naija
+http://formen1.com:8080/live/omer/omer/11130.m3u8
+#EXTINF:-1,Music | Trace Toca
+http://formen1.com:8080/live/omer/omer/11129.m3u8
+#EXTINF:-1,Music | Trace Urban
+http://formen1.com:8080/live/omer/omer/11132.m3u8
+#EXTINF:-1,Music | Vh1
+http://formen1.com:8080/live/omer/omer/11135.m3u8
+#EXTINF:-1,Music | Vh1 Classic
+http://formen1.com:8080/live/omer/omer/11134.m3u8
+#EXTINF:-1,Music | Vintage Tv
+http://formen1.com:8080/live/omer/omer/11133.m3u8
