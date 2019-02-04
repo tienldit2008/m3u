@@ -1,265 +1,175 @@
 #EXTM3U
-#EXTINF:-1,DAS ERSTE (ARD)
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33573.ts
-#EXTINF:-1,DAS ERSTE HD (ARD)
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33572.ts
-#EXTINF:-1,ARTE HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33571.ts
+#EXTINF:-1,ZDF
+http://www.nilsattv.com:8080/live/serhat/serhat123/1678.m3u8
 #EXTINF:-1,ZDF HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33570.ts
-#EXTINF:-1,ZDF NEO
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33569.ts
-#EXTINF:-1,3 SAT
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33568.ts
-#EXTINF:-1,RTL
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33567.ts
-#EXTINF:-1,RTL2
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33566.ts
-#EXTINF:-1,RTL PLUS
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33565.ts
-#EXTINF:-1,RTL CRIME HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33564.ts
-#EXTINF:-1,RTL PASSION HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33563.ts
-#EXTINF:-1,RTL NITRO
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33562.ts
-#EXTINF:-1,SUPER RTL
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33561.ts
+http://www.nilsattv.com:8080/live/serhat/serhat123/564.m3u8
+#EXTINF:-1,ZDFneo
+http://www.nilsattv.com:8080/live/serhat/serhat123/801.m3u8
+#EXTINF:-1,ZDFneo HD
+http://www.nilsattv.com:8080/live/serhat/serhat123/1745.m3u8
+#EXTINF:-1,ZDFinfo
+http://www.nilsattv.com:8080/live/serhat/serhat123/1187.m3u8
+#EXTINF:-1,WDR HD
+http://www.nilsattv.com:8080/live/serhat/serhat123/565.m3u8
+#EXTINF:-1,ARTE
+http://www.nilsattv.com:8080/live/serhat/serhat123/1624.m3u8
+#EXTINF:-1,ARTE HD
+http://www.nilsattv.com:8080/live/serhat/serhat123/148.m3u8
 #EXTINF:-1,VOX
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33560.ts
-#EXTINF:-1,EOTV
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33559.ts
-#EXTINF:-1,ZEE ONE
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33558.ts
-#EXTINF:-1,SWR FERNSEHEN BW
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33557.ts
-#EXTINF:-1,NITRO
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33556.ts
-#EXTINF:-1,RTL HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33554.ts
-#EXTINF:-1,RTL 2 HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33553.ts
-#EXTINF:-1,SAT 1 HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33552.ts
-#EXTINF:-1,SAT 1 GOLD HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33551.ts
-#EXTINF:-1,SIXX HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33550.ts
+http://www.nilsattv.com:8080/live/serhat/serhat123/1742.m3u8
 #EXTINF:-1,VOX HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33549.ts
-#EXTINF:-1,KABEL 1 HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33548.ts
-#EXTINF:-1,PROSIEBEN HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33547.ts
-#EXTINF:-1,PROSIEBEN MAXX HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33546.ts
-#EXTINF:-1,DMAX HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33545.ts
-#EXTINF:-1,TELE 5 HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33544.ts
-#EXTINF:-1,ZEE ONE HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33543.ts
-#EXTINF:-1,SKY 1 HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33541.ts
-#EXTINF:-1,SKY CINEMA HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33540.ts
-#EXTINF:-1,SKY CINEMA  1 HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33539.ts
-#EXTINF:-1,SKY CINEMA  24 HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33538.ts
-#EXTINF:-1,SKY CINEMA FAMILY HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33537.ts
-#EXTINF:-1,SKY CINEMA ACTION HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33536.ts
-#EXTINF:-1,SKY CINEMA EMOTION
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33535.ts
-#EXTINF:-1,SKY CINEMA NOSTALGIE
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33534.ts
-#EXTINF:-1,SKY CINEMA HITS HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33533.ts
-#EXTINF:-1,TNT COMEDY HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33532.ts
-#EXTINF:-1,SKY ATLANTIC HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33531.ts
-#EXTINF:-1,MOVIESINEMA GERMAN 1 HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33530.ts
-#EXTINF:-1,MOVIESINEMA GERMAN 2 HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33529.ts
-#EXTINF:-1,MOVIESINEMA GERMAN 3 HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33528.ts
-#EXTINF:-1,MOVIESINEMA GERMAN 4 HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33527.ts
-#EXTINF:-1,MOVIESINEMA GERMAN 5 HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33526.ts
-#EXTINF:-1,SKY SELECT 1 HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33524.ts
-#EXTINF:-1,SKY SELECT 2 HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33523.ts
-#EXTINF:-1,SKY SELECT 3 HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33522.ts
-#EXTINF:-1,SKY SELECT 4 HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33521.ts
-#EXTINF:-1,SKY SELECT 5 HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33520.ts
-#EXTINF:-1,SKY ATLANTIC
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33519.ts
-#EXTINF:-1,KINOWELT TV
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33518.ts
-#EXTINF:-1,FOX HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33515.ts
-#EXTINF:-1,13TH STREET HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33514.ts
-#EXTINF:-1,SYFY HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33513.ts
-#EXTINF:-1,TNT SERIE HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33512.ts
-#EXTINF:-1,SKY TNT SERIE HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33511.ts
-#EXTINF:-1,ROMANCE TV
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33510.ts
-#EXTINF:-1,FOX SERIE
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33509.ts
-#EXTINF:-1,SKY KRIMI
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33508.ts
-#EXTINF:-1,13TH STREET
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33507.ts
-#EXTINF:-1,E! ENTERTAINMENT HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33506.ts
-#EXTINF:-1,MTV HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33505.ts
-#EXTINF:-1,NICK /MTV HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33504.ts
-#EXTINF:-1,DELUXE MUSIC HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33503.ts
-#EXTINF:-1,VIVA/COMEDY CENTRAL
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33502.ts
-#EXTINF:-1,VH1
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33501.ts
-#EXTINF:-1,JUKEBOX
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33500.ts
-#EXTINF:-1,DISCOVERY HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33498.ts
-#EXTINF:-1,NGC HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33497.ts
-#EXTINF:-1,NGC WILD HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33496.ts
-#EXTINF:-1,HISTORY HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33495.ts
-#EXTINF:-1,TLC HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33494.ts
-#EXTINF:-1,SKY ARTS HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33493.ts
-#EXTINF:-1,NGC
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33492.ts
-#EXTINF:-1,NGC WILD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33491.ts
-#EXTINF:-1,HISTORY CHANNEL
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33490.ts
-#EXTINF:-1,SPIEGEL GESCHICHTE
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33489.ts
-#EXTINF:-1,A&E
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33488.ts
-#EXTINF:-1,N24
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/41644.ts
-#EXTINF:-1,DISNEY CHANNEL HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33486.ts
-#EXTINF:-1,DISNEY JUNIOR HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33485.ts
-#EXTINF:-1,DISNEY CINEMAGIC
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33484.ts
-#EXTINF:-1,NICK /MTV
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33483.ts
+http://www.nilsattv.com:8080/live/serhat/serhat123/566.m3u8
+#EXTINF:-1,SIXX HD
+http://www.nilsattv.com:8080/live/serhat/serhat123/804.m3u8
+#EXTINF:-1,ProSieben Maxx HD
+http://www.nilsattv.com:8080/live/serhat/serhat123/1557.m3u8
+#EXTINF:-1,RTL
+http://www.nilsattv.com:8080/live/serhat/serhat123/1659.m3u8
+#EXTINF:-1,RTL HD
+http://www.nilsattv.com:8080/live/serhat/serhat123/853.m3u8
+#EXTINF:-1,RTL II
+http://www.nilsattv.com:8080/live/serhat/serhat123/1660.m3u8
+#EXTINF:-1,RTL II HD
+http://www.nilsattv.com:8080/live/serhat/serhat123/571.m3u8
+#EXTINF:-1,RTL Nitro
+http://www.nilsattv.com:8080/live/serhat/serhat123/803.m3u8
+#EXTINF:-1,kabel eins
+http://www.nilsattv.com:8080/live/serhat/serhat123/862.m3u8
+#EXTINF:-1,Das Erste HD
+http://www.nilsattv.com:8080/live/serhat/serhat123/852.m3u8
+#EXTINF:-1,phoenix
+http://www.nilsattv.com:8080/live/serhat/serhat123/1655.m3u8
+#EXTINF:-1,SRF 1 HD
+http://www.nilsattv.com:8080/live/serhat/serhat123/779.m3u8
+#EXTINF:-1,ORF eins
+http://www.nilsattv.com:8080/live/serhat/serhat123/1834.m3u8
+#EXTINF:-1,ORF 2 HD
+http://www.nilsattv.com:8080/live/serhat/serhat123/1835.m3u8
+#EXTINF:-1,Sat.1
+http://www.nilsattv.com:8080/live/serhat/serhat123/1186.m3u8
+#EXTINF:-1,Sat1 Gold
+http://www.nilsattv.com:8080/live/serhat/serhat123/781.m3u8
+#EXTINF:-1,ProSieben
+http://www.nilsattv.com:8080/live/serhat/serhat123/776.m3u8
 #EXTINF:-1,KIKA
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33482.ts
-#EXTINF:-1,BOOMERANG
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33480.ts
-#EXTINF:-1,EURONEWS
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33478.ts
-#EXTINF:-1,N TV
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33477.ts
-#EXTINF:-1,JUWELO HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33475.ts
-#EXTINF:-1,PEARL TV HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33474.ts
-#EXTINF:-1,123TV HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33473.ts
-#EXTINF:-1,ANIXE HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33472.ts
-#EXTINF:-1,QVC HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33471.ts
-#EXTINF:-1,QVC2 HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33470.ts
-#EXTINF:-1,HSE 24 HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33469.ts
-#EXTINF:-1,HSE 24 EXTRA HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33468.ts
-#EXTINF:-1,MDR CRINGEN HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33467.ts
-#EXTINF:-1,MDR S-ANHALT HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33466.ts
-#EXTINF:-1,MDR SACHSEN HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33465.ts
-#EXTINF:-1,WDR AACHEN HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33464.ts
-#EXTINF:-1,WDR BONN HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33463.ts
-#EXTINF:-1,WDR DUISBURG HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33462.ts
-#EXTINF:-1,RBB BERLIN HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33461.ts
-#EXTINF:-1,RBB BRANDEN BURG
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33460.ts
-#EXTINF:-1,SONNENKLAR HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33459.ts
-#EXTINF:-1,WDR WUPPERTAL HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33458.ts
-#EXTINF:-1,WELT HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33457.ts
-#EXTINF:-1,HEIMAT KANAL
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33456.ts
-#EXTINF:-1,CLASSICA
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33455.ts
+http://www.nilsattv.com:8080/live/serhat/serhat123/1725.m3u8
+#EXTINF:-1,KIKA HD
+http://www.nilsattv.com:8080/live/serhat/serhat123/777.m3u8
+#EXTINF:-1,SUPER RTL
+http://www.nilsattv.com:8080/live/serhat/serhat123/1662.m3u8
+#EXTINF:-1,One
+http://www.nilsattv.com:8080/live/serhat/serhat123/1714.m3u8
+#EXTINF:-1,n-tv HD
+http://www.nilsattv.com:8080/live/serhat/serhat123/1730.m3u8
+#EXTINF:-1,3sat
+http://www.nilsattv.com:8080/live/serhat/serhat123/1684.m3u8
+#EXTINF:-1,3sat HD
+http://www.nilsattv.com:8080/live/serhat/serhat123/1685.m3u8
+#EXTINF:-1,Zee One HD
+http://www.nilsattv.com:8080/live/serhat/serhat123/1779.m3u8
+#EXTINF:-1,Sky Action HD
+http://www.nilsattv.com:8080/live/serhat/serhat123/1294.m3u8
+#EXTINF:-1,Sky Atlantic HD
+http://www.nilsattv.com:8080/live/serhat/serhat123/1781.m3u8
+#EXTINF:-1,Sky Cinema HD
+http://www.nilsattv.com:8080/live/serhat/serhat123/878.m3u8
+#EXTINF:-1,Sky 1 HD
+http://www.nilsattv.com:8080/live/serhat/serhat123/1858.m3u8
+#EXTINF:-1,Sky Nostalgie
+http://www.nilsattv.com:8080/live/serhat/serhat123/1859.m3u8
+#EXTINF:-1,Sky Cinema Hits HD
+http://www.nilsattv.com:8080/live/serhat/serhat123/1782.m3u8
+#EXTINF:-1,Sky Krimi HD
+http://www.nilsattv.com:8080/live/serhat/serhat123/825.m3u8
+#EXTINF:-1,Sky Comedy HD
+http://www.nilsattv.com:8080/live/serhat/serhat123/912.m3u8
+#EXTINF:-1,Sky Cinema +24
+http://www.nilsattv.com:8080/live/serhat/serhat123/879.m3u8
+#EXTINF:-1,TNT Film HD
+http://www.nilsattv.com:8080/live/serhat/serhat123/492.m3u8
+#EXTINF:-1,TNT Comedy HD
+http://www.nilsattv.com:8080/live/serhat/serhat123/2538.m3u8
+#EXTINF:-1,tagesschau24
+http://www.nilsattv.com:8080/live/serhat/serhat123/1739.m3u8
+#EXTINF:-1,Nickelodeon HD
+http://www.nilsattv.com:8080/live/serhat/serhat123/1129.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+http://www.nilsattv.com:8080/live/serhat/serhat123/690.m3u8
+#EXTINF:-1,Nat Geographic
+http://www.nilsattv.com:8080/live/serhat/serhat123/746.m3u8
+#EXTINF:-1,Nat Geo People
+http://www.nilsattv.com:8080/live/serhat/serhat123/1918.m3u8
+#EXTINF:-1,TVA
+http://www.nilsattv.com:8080/live/serhat/serhat123/22.m3u8
+#EXTINF:-1,Syfy HD
+http://www.nilsattv.com:8080/live/serhat/serhat123/563.m3u8
+#EXTINF:-1,Sky Emotion HD
+http://www.nilsattv.com:8080/live/serhat/serhat123/568.m3u8
+#EXTINF:-1,FOX HD
+http://www.nilsattv.com:8080/live/serhat/serhat123/573.m3u8
+#EXTINF:-1,CLASSICA HD
+http://www.nilsattv.com:8080/live/serhat/serhat123/1317.m3u8
+#EXTINF:-1,TV Touring
+http://www.nilsattv.com:8080/live/serhat/serhat123/21.m3u8
+#EXTINF:-1,Disney
+http://www.nilsattv.com:8080/live/serhat/serhat123/826.m3u8
+#EXTINF:-1,13th Street HD
+http://www.nilsattv.com:8080/live/serhat/serhat123/828.m3u8
+#EXTINF:-1,NDR HD
+http://www.nilsattv.com:8080/live/serhat/serhat123/143.m3u8
+#EXTINF:-1,TNT Serie HD
+http://www.nilsattv.com:8080/live/serhat/serhat123/1905.m3u8
+#EXTINF:-1,DMAX
+http://www.nilsattv.com:8080/live/serhat/serhat123/2539.m3u8
+#EXTINF:-1,Sky Select 1
+http://www.nilsattv.com:8080/live/serhat/serhat123/1130.m3u8
+#EXTINF:-1,Sky Select 2
+http://www.nilsattv.com:8080/live/serhat/serhat123/1131.m3u8
+#EXTINF:-1,Sky Select 3
+http://www.nilsattv.com:8080/live/serhat/serhat123/1132.m3u8
+#EXTINF:-1,Sky Select 4
+http://www.nilsattv.com:8080/live/serhat/serhat123/1133.m3u8
+#EXTINF:-1,Sky Select 5
+http://www.nilsattv.com:8080/live/serhat/serhat123/1134.m3u8
+#EXTINF:-1,Sky Select 6
+http://www.nilsattv.com:8080/live/serhat/serhat123/1290.m3u8
+#EXTINF:-1,Sky Select 7
+http://www.nilsattv.com:8080/live/serhat/serhat123/2651.m3u8
+#EXTINF:-1,Sky Select 8
+http://www.nilsattv.com:8080/live/serhat/serhat123/2652.m3u8
+#EXTINF:-1,SKY SPORTS 1 HD
+http://www.nilsattv.com:8080/live/serhat/serhat123/849.m3u8
+#EXTINF:-1,SKY SPORTS 2 HD
+http://www.nilsattv.com:8080/live/serhat/serhat123/850.m3u8
+#EXTINF:-1,Sky Bundesliga 1 HD
+http://www.nilsattv.com:8080/live/serhat/serhat123/899.m3u8
+#EXTINF:-1,Sky Bundesliga 2 HD
+http://www.nilsattv.com:8080/live/serhat/serhat123/2662.m3u8
+#EXTINF:-1,Sky Bundesliga 3 HD
+http://www.nilsattv.com:8080/live/serhat/serhat123/2663.m3u8
+#EXTINF:-1,Sky Bundesliga 4 HD
+http://www.nilsattv.com:8080/live/serhat/serhat123/2664.m3u8
+#EXTINF:-1,Sky Bundesliga 5 HD
+http://www.nilsattv.com:8080/live/serhat/serhat123/2665.m3u8
 #EXTINF:-1,SKY SPORT NEWS HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33453.ts
-#EXTINF:-1,SPORT 1  HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33452.ts
-#EXTINF:-1,EUROSPORT 1 HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33451.ts
-#EXTINF:-1,EUROSPORT 2 HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33450.ts
-#EXTINF:-1,EUROSPORT 2  XTRA HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33449.ts
-#EXTINF:-1,MOTORVISION
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33448.ts
-#EXTINF:-1,DAZN 1 BAR FHD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33447.ts
-#EXTINF:-1,DAZN 2 BAR FHD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33446.ts
-#EXTINF:-1,SKY SPORT 1 HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33445.ts
-#EXTINF:-1,SKY SPORT 2 HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33444.ts
-#EXTINF:-1,SKY SPORT 1
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33443.ts
-#EXTINF:-1,SKY SPORT 2
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33442.ts
-#EXTINF:-1,SKY BUNDESLIGA 1 HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33441.ts
-#EXTINF:-1,SKY BUNDESLIGA 2 HD (ON MATCH TIME)
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33440.ts
-#EXTINF:-1,SKY BUNDESLIGA 3 HD (ON MATCH TIME)
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33439.ts
-#EXTINF:-1,SKY BUNDESLIGA 4 HD (ON MATCH TIME)
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33438.ts
-#EXTINF:-1,SKY BUNDESLIGA 5 HD (ON MATCH TIME)
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33437.ts
-#EXTINF:-1,SKY BUNDESLIGA 6 HD (ON MATCH TIME)
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33436.ts
-#EXTINF:-1,SKY BUNDESLIGA 7 HD (ON MATCH TIME)
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33435.ts
-#EXTINF:-1,SKY BUNDESLIGA 8 HD (ON MATCH TIME)
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33434.ts
-#EXTINF:-1,SKY BUNDESLIGA 9 HD (ON MATCH TIME)
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33433.ts
-#EXTINF:-1,SKY BUNDESLIGA 10 HD (ON MATCH TIME)
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/33432.ts
+http://www.nilsattv.com:8080/live/serhat/serhat123/1291.m3u8
+#EXTINF:-1,Animal Planet
+http://www.nilsattv.com:8080/live/serhat/serhat123/1634.m3u8
+#EXTINF:-1,ANIXE HD
+http://www.nilsattv.com:8080/live/serhat/serhat123/2418.m3u8
+#EXTINF:-1,DISNEY CHANNEL HD
+http://www.nilsattv.com:8080/live/serhat/serhat123/2425.m3u8
+#EXTINF:-1,DISNEY JUNIOR HD
+http://www.nilsattv.com:8080/live/serhat/serhat123/2423.m3u8
+#EXTINF:-1,DISNEY XD HD
+http://www.nilsattv.com:8080/live/serhat/serhat123/2424.m3u8
+#EXTINF:-1,KINOWELT TV HD
+http://www.nilsattv.com:8080/live/serhat/serhat123/2421.m3u8
+#EXTINF:-1,NICK JR
+http://www.nilsattv.com:8080/live/serhat/serhat123/2422.m3u8
+#EXTINF:-1,PHOENIX HD
+http://www.nilsattv.com:8080/live/serhat/serhat123/2419.m3u8
+#EXTINF:-1,PLANET HD
+http://www.nilsattv.com:8080/live/serhat/serhat123/2420.m3u8
+#EXTINF:-1,E! ENTERTAINMENT HD
+http://www.nilsattv.com:8080/live/serhat/serhat123/2427.m3u8
