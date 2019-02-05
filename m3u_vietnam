@@ -29,13 +29,13 @@ https://live.vieplay.vn/live/htv2-channel/playlist.m3u8
 http://hplus.tranvinh.tk/?id=htv2hd&type=playlist.m3u8
 #EXTINF:-1 tvg-logo="http://assets.htv.com.vn/Images/1/Banner/107.png",HTV3
 http://live.cdn.mobifonetv.vn/motv/myhtv3_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/460x260/poster/2018/08/14/359584-htv-key-web.png",HTV Key
+#EXTINF:-1 tvg-logo="http://assets.htv.com.vn/Images/1/Banner/htvkey.png",HTV Key
 http://live.cdn.mobifonetv.vn/motv/myhtv4_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://assets.htv.com.vn/Images/1/Banner/102.png",HTV7
 http://live.cdn.mobifonetv.vn/motv/myhtv7_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://assets.htv.com.vn/Images/1/Banner/103.png",HTV9
 http://live.cdn.mobifonetv.vn/motv/myhtv9_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.htvc.vn/uploads/channel/2015/02/13/1028005-logo-htvthethao.png",HTV THE THAO
+#EXTINF:-1 tvg-logo="http://assets.htv.com.vn/Images/1/Banner/104.png",HTV THE THAO
 http://live.cdn.mobifonetv.vn/motv/myhtvcthethao_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2017-04-10/2028200-ca-nhac-01.png",HTVC CA NHAC
 http://live.cdn.mobifonetv.vn/motv/myhtvccanhac_hls.smil/playlist.m3u8
