@@ -1,181 +1,808 @@
 #EXTM3U
-#EXTINF:-1,TVCINE 1 HD
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8795
-#EXTINF:-1,TVCINE 2 HD
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8794
-#EXTINF:-1,TVCINE 3 HD
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8793
-#EXTINF:-1,TVCINE 4 HD
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8792
-#EXTINF:-1,TVE Internacional
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8791
-#EXTINF:-1,TVI
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8790
-#EXTINF:-1,Tvi 24
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8789
-#EXTINF:-1,TVI FICCAO
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8788
-#EXTINF:-1,TVI REALITY
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8787
-#EXTINF:-1,24 Kitchen HD
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8876
-#EXTINF:-1,A&E
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8875
-#EXTINF:-1,ABOLA TV
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8874
-#EXTINF:-1,Afro Music
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8873
+#EXTINF:-1,CARTOON NETWORK [VIP]
+http://niobzca.cf:8080/george01/george02/141861
+#EXTINF:-1,MCS EXTREME [VIP]
+http://niobzca.cf:8080/george01/george02/141898
+#EXTINF:-1,NAT GEO HD [VIP]
+http://niobzca.cf:8080/george01/george02/141902
+#EXTINF:-1,Sport TV 3 HD [VIP]
+http://niobzca.cf:8080/george01/george02/141930
+#EXTINF:-1,Sport TV 4 [VIP]
+http://niobzca.cf:8080/george01/george02/141932
+#EXTINF:-1,Sport TV 5 [VIP]
+http://niobzca.cf:8080/george01/george02/141933
+#EXTINF:-1,24 KITCHEN FHD
+http://niobzca.cf:8080/george01/george02/65589
+#EXTINF:-1,A and E
+http://niobzca.cf:8080/george01/george02/169005
+#EXTINF:-1,A BOLA TV
+http://niobzca.cf:8080/george01/george02/156377
+#EXTINF:-1,A&E HD
+http://niobzca.cf:8080/george01/george02/65596
+#EXTINF:-1,AFRO MUSIC
+http://niobzca.cf:8080/george01/george02/88151
+#EXTINF:-1,AMC FHD
+http://niobzca.cf:8080/george01/george02/141663
+#EXTINF:-1,Angelus TV
+http://niobzca.cf:8080/george01/george02/106935
+#EXTINF:-1,ARTV
+http://niobzca.cf:8080/george01/george02/91654
 #EXTINF:-1,AXN BLACK HD
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8872
-#EXTINF:-1,AXN HD
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8871
-#EXTINF:-1,AXN WHITE
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8870
-#EXTINF:-1,Baby Tv
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8869
+http://niobzca.cf:8080/george01/george02/65649
+#EXTINF:-1,AXN FHD
+http://niobzca.cf:8080/george01/george02/65638
+#EXTINF:-1,AXN WHITE FHD
+http://niobzca.cf:8080/george01/george02/65640
+#EXTINF:-1,Baby First TV
+http://niobzca.cf:8080/george01/george02/87008
+#EXTINF:-1,BABY TV
+http://niobzca.cf:8080/george01/george02/156378
+#EXTINF:-1,BBC ENTERTAINMENT A
+http://niobzca.cf:8080/george01/george02/169227
+#EXTINF:-1,BBC WORLD NEWS
+http://niobzca.cf:8080/george01/george02/91662
+#EXTINF:-1,Benfica TV 1 HD
+http://niobzca.cf:8080/george01/george02/65586
+#EXTINF:-1,BENFICA TV 2 HD
+http://niobzca.cf:8080/george01/george02/65585
+#EXTINF:-1,Benfica TV FHD
+http://niobzca.cf:8080/george01/george02/115676
 #EXTINF:-1,Biggs
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8868
+http://niobzca.cf:8080/george01/george02/156546
+#EXTINF:-1,Blaze
+http://niobzca.cf:8080/george01/george02/105184
+#EXTINF:-1,BLOOMBERG
+http://niobzca.cf:8080/george01/george02/91666
 #EXTINF:-1,BTV 1 HD
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8867
-#EXTINF:-1,Caca & Pesca
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8866
-#EXTINF:-1,Canal Historia
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8865
-#EXTINF:-1,CANAL PANDA
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8864
+http://niobzca.cf:8080/george01/george02/156379
+#EXTINF:-1,BTV FHD
+http://niobzca.cf:8080/george01/george02/88976
+#EXTINF:-1,Caavision
+http://niobzca.cf:8080/george01/george02/177008
+#EXTINF:-1,CACA E PESCA
+http://niobzca.cf:8080/george01/george02/156567
+#EXTINF:-1,CACA VISION
+http://niobzca.cf:8080/george01/george02/154298
+#EXTINF:-1,CANAL CINEMUNDO
+http://niobzca.cf:8080/george01/george02/107663
+#EXTINF:-1,Canal de Historia
+http://niobzca.cf:8080/george01/george02/95034
+#EXTINF:-1,CANAL HISTORIA HD
+http://niobzca.cf:8080/george01/george02/84807
+#EXTINF:-1,Canal Nos
+http://niobzca.cf:8080/george01/george02/130339
+#EXTINF:-1,Canal Panda HD
+http://niobzca.cf:8080/george01/george02/65590
+#EXTINF:-1,Canal Porto
+http://niobzca.cf:8080/george01/george02/136087
+#EXTINF:-1,CANAL Q
+http://niobzca.cf:8080/george01/george02/156381
 #EXTINF:-1,Cancao Nova
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8863
-#EXTINF:-1,Cartoon NetWork
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8862
-#EXTINF:-1,CBS Reality
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8861
-#EXTINF:-1,CINEMUNDO
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8860
-#EXTINF:-1,CMTV
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8859
-#EXTINF:-1,Discovery Channel
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8858
-#EXTINF:-1,Discovery Showcase HD
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8857
-#EXTINF:-1,Disney Channel
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8856
-#EXTINF:-1,E! Entertaunment
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8855
-#EXTINF:-1,EUroNews
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8854
-#EXTINF:-1,EUROSPORT 1
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8853
-#EXTINF:-1,EUROSPORT 2
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8852
-#EXTINF:-1,EuroSport 2 XTRA HD
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8851
-#EXTINF:-1,EUROSPORT NEWS
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8850
-#EXTINF:-1,FOX COMEDY
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8849
-#EXTINF:-1,FOX Crime HD
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8848
-#EXTINF:-1,FOX HD
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8847
-#EXTINF:-1,Fox Life HD
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8846
-#EXTINF:-1,FOX Movies
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8845
-#EXTINF:-1,Fuel TV
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8844
+http://niobzca.cf:8080/george01/george02/95008
+#EXTINF:-1,Cano Nova
+http://niobzca.cf:8080/george01/george02/177009
+#EXTINF:-1,CAPELA DE FATIMA
+http://niobzca.cf:8080/george01/george02/117627
+#EXTINF:-1,CARTOON NETWORK
+http://niobzca.cf:8080/george01/george02/157903
+#EXTINF:-1,Casa E Pesca
+http://niobzca.cf:8080/george01/george02/65602
+#EXTINF:-1,Casavision
+http://niobzca.cf:8080/george01/george02/101051
+#EXTINF:-1,CAÃ‡A E PESCA
+http://niobzca.cf:8080/george01/george02/168996
+#EXTINF:-1,CBS REALITY
+http://niobzca.cf:8080/george01/george02/156382
+#EXTINF:-1,CBSN
+http://niobzca.cf:8080/george01/george02/91661
+#EXTINF:-1,Channel 1 Russia
+http://niobzca.cf:8080/george01/george02/141673
+#EXTINF:-1,Chelsea TV HD
+http://niobzca.cf:8080/george01/george02/65584
+#EXTINF:-1,CINE MUNDO HD
+http://niobzca.cf:8080/george01/george02/65643
+#EXTINF:-1,CINEMAX 1
+http://niobzca.cf:8080/george01/george02/100829
+#EXTINF:-1,CM TV HD
+http://niobzca.cf:8080/george01/george02/84220
+#EXTINF:-1,CMTV FHD
+http://niobzca.cf:8080/george01/george02/102317
+#EXTINF:-1,CNBC
+http://niobzca.cf:8080/george01/george02/91660
+#EXTINF:-1,CNN
+http://niobzca.cf:8080/george01/george02/106942
+#EXTINF:-1,Crime e Investigation
+http://niobzca.cf:8080/george01/george02/115705
+#EXTINF:-1,CRIME INVESTIGATION
+http://niobzca.cf:8080/george01/george02/133681
+#EXTINF:-1,Crimen & Investigation
+http://niobzca.cf:8080/george01/george02/88981
+#EXTINF:-1,Discovery Channel HD
+http://niobzca.cf:8080/george01/george02/84181
+#EXTINF:-1,DISCOVERY CHANNEL SPAIN & AMP PORTUGA
+http://niobzca.cf:8080/george01/george02/107675
+#EXTINF:-1,DISCOVERY HD SHOWCASE
+http://niobzca.cf:8080/george01/george02/65604
+#EXTINF:-1,Disney Channel HD
+http://niobzca.cf:8080/george01/george02/118273
+#EXTINF:-1,Disney JR
+http://niobzca.cf:8080/george01/george02/93188
+#EXTINF:-1,DOG TV FHD
+http://niobzca.cf:8080/george01/george02/85096
+#EXTINF:-1,E! Entertainment HD
+http://niobzca.cf:8080/george01/george02/84827
+#EXTINF:-1,E!ENTERTAINMENT
+http://niobzca.cf:8080/george01/george02/154301
+#EXTINF:-1,ELEVEN 1 HD
+http://niobzca.cf:8080/george01/george02/139854
+#EXTINF:-1,ELEVEN 2 HD
+http://niobzca.cf:8080/george01/george02/139856
+#EXTINF:-1,ELEVEN 5 HD
+http://niobzca.cf:8080/george01/george02/139862
+#EXTINF:-1,ELEVEN 6 HD
+http://niobzca.cf:8080/george01/george02/145267
+#EXTINF:-1,ELEVEN SPORTS 1 FHD
+http://niobzca.cf:8080/george01/george02/127738
+#EXTINF:-1,ELEVEN SPORTS 1 HD NET FRACA
+http://niobzca.cf:8080/george01/george02/133685
+#EXTINF:-1,ELEVEN SPORTS 2 FHD
+http://niobzca.cf:8080/george01/george02/127739
+#EXTINF:-1,ELEVEN SPORTS 2 HD NET FRACA
+http://niobzca.cf:8080/george01/george02/133687
+#EXTINF:-1,Eleven Sports 3 HD
+http://niobzca.cf:8080/george01/george02/127740
+#EXTINF:-1,Eleven Sports 4 HD
+http://niobzca.cf:8080/george01/george02/127741
+#EXTINF:-1,ELEVEN SPORTS 5 FHD
+http://niobzca.cf:8080/george01/george02/127742
+#EXTINF:-1,Eleven Sports 6 HD
+http://niobzca.cf:8080/george01/george02/127743
+#EXTINF:-1,ENTERTAINMENT
+http://niobzca.cf:8080/george01/george02/65601
+#EXTINF:-1,Euronews
+http://niobzca.cf:8080/george01/george02/65588
+#EXTINF:-1,EUROSPORT 1 FHD
+http://niobzca.cf:8080/george01/george02/84177
+#EXTINF:-1,Eurosport 2 HD
+http://niobzca.cf:8080/george01/george02/84216
+#EXTINF:-1,Eurosport News
+http://niobzca.cf:8080/george01/george02/84217
+#EXTINF:-1,FASHION TV
+http://niobzca.cf:8080/george01/george02/91646
+#EXTINF:-1,Fatima TV
+http://niobzca.cf:8080/george01/george02/114296
+#EXTINF:-1,Fight Box
+http://niobzca.cf:8080/george01/george02/101057
+#EXTINF:-1,Fight Network HD
+http://niobzca.cf:8080/george01/george02/169032
+#EXTINF:-1,FINE LIVING FHD
+http://niobzca.cf:8080/george01/george02/157911
+#EXTINF:-1,FINE LIVING NETWORK HD
+http://niobzca.cf:8080/george01/george02/148417
+#EXTINF:-1,Food Network HD
+http://niobzca.cf:8080/george01/george02/84813
+#EXTINF:-1,FOX COMEDY HD
+http://niobzca.cf:8080/george01/george02/65645
+#EXTINF:-1,FOX CRIME HD
+http://niobzca.cf:8080/george01/george02/118277
+#EXTINF:-1,FOX FHD
+http://niobzca.cf:8080/george01/george02/100841
+#EXTINF:-1,FOX LIFE FHD
+http://niobzca.cf:8080/george01/george02/118278
+#EXTINF:-1,Fox Movies HD
+http://niobzca.cf:8080/george01/george02/62342
+#EXTINF:-1,FOX NEWS HD
+http://niobzca.cf:8080/george01/george02/88987
+#EXTINF:-1,France 24
+http://niobzca.cf:8080/george01/george02/141688
+#EXTINF:-1,FTV
+http://niobzca.cf:8080/george01/george02/106944
+#EXTINF:-1,FUEL TV HD
+http://niobzca.cf:8080/george01/george02/118279
 #EXTINF:-1,FX
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8843
-#EXTINF:-1,Globo
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8842
+http://niobzca.cf:8080/george01/george02/107711
+#EXTINF:-1,Globo Now HD
+http://niobzca.cf:8080/george01/george02/134587
 #EXTINF:-1,Globo Premium
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8841
-#EXTINF:-1,Historia
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8840
-#EXTINF:-1,Hollywood HD
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8839
-#EXTINF:-1,MCM Pop
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8838
+http://niobzca.cf:8080/george01/george02/114285
+#EXTINF:-1,Globo TV
+http://niobzca.cf:8080/george01/george02/156539
+#EXTINF:-1,HISTORIA
+http://niobzca.cf:8080/george01/george02/95033
+#EXTINF:-1,HOLLYWOOD HD
+http://niobzca.cf:8080/george01/george02/118280
+#EXTINF:-1,Jim Jam
+http://niobzca.cf:8080/george01/george02/157586
+#EXTINF:-1,KITCHEN HD
+http://niobzca.cf:8080/george01/george02/107710
+#EXTINF:-1,Kombat Sports
+http://niobzca.cf:8080/george01/george02/65605
+#EXTINF:-1,LOCALVISAO TV HD
+http://niobzca.cf:8080/george01/george02/115661
+#EXTINF:-1,MACAU TV
+http://niobzca.cf:8080/george01/george02/91651
+#EXTINF:-1,MCM POP
+http://niobzca.cf:8080/george01/george02/106946
+#EXTINF:-1,MCM TOP
+http://niobzca.cf:8080/george01/george02/109734
+#EXTINF:-1,MCS
+http://niobzca.cf:8080/george01/george02/139827
+#EXTINF:-1,MCS EXTREME
+http://niobzca.cf:8080/george01/george02/65624
+#EXTINF:-1,MCS LifeStyle
+http://niobzca.cf:8080/george01/george02/84254
+#EXTINF:-1,Mezzo
+http://niobzca.cf:8080/george01/george02/177020
 #EXTINF:-1,Motors TV
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8837
-#EXTINF:-1,Motorvision
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8836
-#EXTINF:-1,MOV
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8835
-#EXTINF:-1,MTV Portugal
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8834
-#EXTINF:-1,Nat Geo Wild
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8833
-#EXTINF:-1,National Geographic HD
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8832
-#EXTINF:-1,Nickelodeon
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8831
-#EXTINF:-1,Odisseia
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8830
-#EXTINF:-1,PFC
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8829
-#EXTINF:-1,Porto Canal
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8828
-#EXTINF:-1,Record News
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8827
-#EXTINF:-1,RTP 1
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8826
-#EXTINF:-1,RTP 2
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8825
-#EXTINF:-1,RTP 3
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8824
-#EXTINF:-1,RTP Acores
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8823
-#EXTINF:-1,RTP Ãfrica
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8822
+http://niobzca.cf:8080/george01/george02/153836
+#EXTINF:-1,MOTORVISION FHD
+http://niobzca.cf:8080/george01/george02/65609
+#EXTINF:-1,MOV HD
+http://niobzca.cf:8080/george01/george02/65636
+#EXTINF:-1,MTV
+http://niobzca.cf:8080/george01/george02/107680
+#EXTINF:-1,MTV DANCE
+http://niobzca.cf:8080/george01/george02/107709
+#EXTINF:-1,MTV Portugal HD
+http://niobzca.cf:8080/george01/george02/158335
+#EXTINF:-1,My cuisine
+http://niobzca.cf:8080/george01/george02/123325
+#EXTINF:-1,NAT GEO FHD
+http://niobzca.cf:8080/george01/george02/84180
+#EXTINF:-1,NAT GEO Wild HD
+http://niobzca.cf:8080/george01/george02/65592
+#EXTINF:-1,NBA FHD
+http://niobzca.cf:8080/george01/george02/65621
+#EXTINF:-1,NFL NOW
+http://niobzca.cf:8080/george01/george02/88993
+#EXTINF:-1,Nick Jr
+http://niobzca.cf:8080/george01/george02/106949
+#EXTINF:-1,Nicke
+http://niobzca.cf:8080/george01/george02/101070
+#EXTINF:-1,NICKELODEON
+http://niobzca.cf:8080/george01/george02/139359
+#EXTINF:-1,Niclelodeon HD
+http://niobzca.cf:8080/george01/george02/65628
+#EXTINF:-1,ODISSEIA
+http://niobzca.cf:8080/george01/george02/139813
+#EXTINF:-1,PANDA BIGGS
+http://niobzca.cf:8080/george01/george02/65630
+#EXTINF:-1,PANDA HD
+http://niobzca.cf:8080/george01/george02/91642
+#EXTINF:-1,PFC HD
+http://niobzca.cf:8080/george01/george02/64163
+#EXTINF:-1,Playboy TV
+http://niobzca.cf:8080/george01/george02/177022
+#EXTINF:-1,PORTO
+http://niobzca.cf:8080/george01/george02/102328
+#EXTINF:-1,PORTO CANAL HD
+http://niobzca.cf:8080/george01/george02/141702
+#EXTINF:-1,Q CANAL
+http://niobzca.cf:8080/george01/george02/65614
+#EXTINF:-1,RCI RADICAL
+http://niobzca.cf:8080/george01/george02/102329
+#EXTINF:-1,Real Madrid TV
+http://niobzca.cf:8080/george01/george02/84178
+#EXTINF:-1,RECORD NEWS
+http://niobzca.cf:8080/george01/george02/113651
+#EXTINF:-1,Record TV
+http://niobzca.cf:8080/george01/george02/88153
+#EXTINF:-1,RTP 1 FHD
+http://niobzca.cf:8080/george01/george02/94996
+#EXTINF:-1,RTP 2 FHD
+http://niobzca.cf:8080/george01/george02/65657
+#EXTINF:-1,RTP 3 FHD
+http://niobzca.cf:8080/george01/george02/65655
+#EXTINF:-1,RTP ACORES
+http://niobzca.cf:8080/george01/george02/65652
+#EXTINF:-1,RTP AFRICA
+http://niobzca.cf:8080/george01/george02/65651
+#EXTINF:-1,RTP Aores
+http://niobzca.cf:8080/george01/george02/177025
+#EXTINF:-1,RTP frica
+http://niobzca.cf:8080/george01/george02/177024
+#EXTINF:-1,RTP INTERNACIONAL
+http://niobzca.cf:8080/george01/george02/177233
+#EXTINF:-1,RTP International
+http://niobzca.cf:8080/george01/george02/88154
 #EXTINF:-1,RTP Madeira
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8821
+http://niobzca.cf:8080/george01/george02/65654
 #EXTINF:-1,RTP Memoria
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8820
-#EXTINF:-1,SIC
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8819
-#EXTINF:-1,SIC Caras
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8818
-#EXTINF:-1,SIC HD
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8817
-#EXTINF:-1,SIC K
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8816
-#EXTINF:-1,SIC Kids HD
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8815
-#EXTINF:-1,SIC Mulher
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8814
-#EXTINF:-1,SIC Noticias
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8813
-#EXTINF:-1,SIC Noticias HD
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8812
-#EXTINF:-1,SIC Radical
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8811
-#EXTINF:-1,SPORT TV
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8810
-#EXTINF:-1,SPORT TV   HD
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8809
-#EXTINF:-1,SPORTING TV
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8808
-#EXTINF:-1,SPORTTV 1 HD
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8807
-#EXTINF:-1,SPORTTV 1 SD
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8806
-#EXTINF:-1,SPORTTV 2 HD
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8805
-#EXTINF:-1,SPORTTV 2 SD
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8804
-#EXTINF:-1,SPORTTV 3 HD
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8803
-#EXTINF:-1,SPORTTV 3 SD
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8802
-#EXTINF:-1,SPORTTV 4 HD
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8801
-#EXTINF:-1,SPORTTV 5 HD
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8800
+http://niobzca.cf:8080/george01/george02/65653
+#EXTINF:-1,RTP MEMORIA LOW
+http://niobzca.cf:8080/george01/george02/155224
+#EXTINF:-1,Russia Today English
+http://niobzca.cf:8080/george01/george02/177049
+#EXTINF:-1,SANTUARIO DE FATIMA HD
+http://niobzca.cf:8080/george01/george02/85091
+#EXTINF:-1,SIC CARAS FHD
+http://niobzca.cf:8080/george01/george02/141707
+#EXTINF:-1,SIC FHD
+http://niobzca.cf:8080/george01/george02/95001
+#EXTINF:-1,Sic K HD
+http://niobzca.cf:8080/george01/george02/85092
+#EXTINF:-1,SIC Kids
+http://niobzca.cf:8080/george01/george02/101076
+#EXTINF:-1,SIC LOW
+http://niobzca.cf:8080/george01/george02/155228
+#EXTINF:-1,SIC MULHER FHD
+http://niobzca.cf:8080/george01/george02/118285
+#EXTINF:-1,SIC NOTICIAS FHD
+http://niobzca.cf:8080/george01/george02/118286
+#EXTINF:-1,SIC Notocias
+http://niobzca.cf:8080/george01/george02/177027
+#EXTINF:-1,SIC RADICAL HD
+http://niobzca.cf:8080/george01/george02/118287
+#EXTINF:-1,SKY NEWS
+http://niobzca.cf:8080/george01/george02/91663
+#EXTINF:-1,SPORT TV 1 FHD
+http://niobzca.cf:8080/george01/george02/65574
+#EXTINF:-1,SPORT TV 2 FHD
+http://niobzca.cf:8080/george01/george02/65573
+#EXTINF:-1,SPORT TV 3 FHD
+http://niobzca.cf:8080/george01/george02/65571
+#EXTINF:-1,SPORT TV 4 FHD
+http://niobzca.cf:8080/george01/george02/65570
+#EXTINF:-1,SPORT TV 5 FHD
+http://niobzca.cf:8080/george01/george02/65569
+#EXTINF:-1,SPORT TV FHD
+http://niobzca.cf:8080/george01/george02/95019
+#EXTINF:-1,Sport TV Mais
+http://niobzca.cf:8080/george01/george02/114314
+#EXTINF:-1,SPORT TV+ FHD
+http://niobzca.cf:8080/george01/george02/84174
+#EXTINF:-1,SPORTING TV FHD
+http://niobzca.cf:8080/george01/george02/65568
+#EXTINF:-1,SportT TV 5 FHD
+http://niobzca.cf:8080/george01/george02/107824
+#EXTINF:-1,SportTV 2 FHD
+http://niobzca.cf:8080/george01/george02/107821
+#EXTINF:-1,SportTV 3 FHD
+http://niobzca.cf:8080/george01/george02/107822
+#EXTINF:-1,SportTV 4 FHD
+http://niobzca.cf:8080/george01/george02/107823
+#EXTINF:-1,SYFY FHD
+http://niobzca.cf:8080/george01/george02/65641
+#EXTINF:-1,TBN Espana
+http://niobzca.cf:8080/george01/george02/177043
 #EXTINF:-1,TLC
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8799
-#EXTINF:-1,TPA Angola
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8798
-#EXTINF:-1,Travel Channel HD
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8797
+http://niobzca.cf:8080/george01/george02/118294
+#EXTINF:-1,TLC EUROPE
+http://niobzca.cf:8080/george01/george02/107681
+#EXTINF:-1,Toros TV HD
+http://niobzca.cf:8080/george01/george02/68725
+#EXTINF:-1,TPA
+http://niobzca.cf:8080/george01/george02/85105
+#EXTINF:-1,TPA INTERNACIONAL
+http://niobzca.cf:8080/george01/george02/139832
+#EXTINF:-1,Trace
+http://niobzca.cf:8080/george01/george02/114292
+#EXTINF:-1,Trace Urban TV
+http://niobzca.cf:8080/george01/george02/91659
+#EXTINF:-1,Travel Channel FHD
+http://niobzca.cf:8080/george01/george02/65591
+#EXTINF:-1,TV 7
+http://niobzca.cf:8080/george01/george02/177044
+#EXTINF:-1,TV CINE 1 FHD
+http://niobzca.cf:8080/george01/george02/118296
+#EXTINF:-1,TV CINE 3 FHD
+http://niobzca.cf:8080/george01/george02/100831
+#EXTINF:-1,TV Cine 4 FHD
+http://niobzca.cf:8080/george01/george02/118300
+#EXTINF:-1,TV CINE HD
+http://niobzca.cf:8080/george01/george02/107665
+#EXTINF:-1,TV Galicia
+http://niobzca.cf:8080/george01/george02/106958
+#EXTINF:-1,TV GLOBO
+http://niobzca.cf:8080/george01/george02/144231
+#EXTINF:-1,TV GLOBO PREMIUM
+http://niobzca.cf:8080/george01/george02/104587
+#EXTINF:-1,TV Kujawy
+http://niobzca.cf:8080/george01/george02/114777
+#EXTINF:-1,TV Record HD
+http://niobzca.cf:8080/george01/george02/65650
+#EXTINF:-1,TV Senior
+http://niobzca.cf:8080/george01/george02/177046
+#EXTINF:-1,TV SERIES FHD
+http://niobzca.cf:8080/george01/george02/100834
+#EXTINF:-1,TV Severka
+http://niobzca.cf:8080/george01/george02/177047
+#EXTINF:-1,TV Vega
+http://niobzca.cf:8080/george01/george02/177048
+#EXTINF:-1,TV5 Monde
+http://niobzca.cf:8080/george01/george02/106960
+#EXTINF:-1,TVC 1
+http://niobzca.cf:8080/george01/george02/101092
+#EXTINF:-1,TVC 2 FHD
+http://niobzca.cf:8080/george01/george02/101093
+#EXTINF:-1,TVC 3
+http://niobzca.cf:8080/george01/george02/157023
+#EXTINF:-1,TVC 4 FHD
+http://niobzca.cf:8080/george01/george02/97252
+#EXTINF:-1,TVC Series HD
+http://niobzca.cf:8080/george01/george02/116240
+#EXTINF:-1,TVCINE 2 FHD
+http://niobzca.cf:8080/george01/george02/118297
+#EXTINF:-1,TVE 24H
+http://niobzca.cf:8080/george01/george02/156542
+#EXTINF:-1,TVE Internacional
+http://niobzca.cf:8080/george01/george02/156541
+#EXTINF:-1,TVI 24 HD
+http://niobzca.cf:8080/george01/george02/118303
+#EXTINF:-1,TVI 24 HD LOW
+http://niobzca.cf:8080/george01/george02/155236
+#EXTINF:-1,TVI Camara Exclusiva
+http://niobzca.cf:8080/george01/george02/114288
+#EXTINF:-1,TVI FHD
+http://niobzca.cf:8080/george01/george02/65595
+#EXTINF:-1,TVI Fic
+http://niobzca.cf:8080/george01/george02/168992
+#EXTINF:-1,TVI FICCAO
+http://niobzca.cf:8080/george01/george02/118304
+#EXTINF:-1,TVI FICCIO HD
+http://niobzca.cf:8080/george01/george02/156540
+#EXTINF:-1,TVI Fico
+http://niobzca.cf:8080/george01/george02/177041
+#EXTINF:-1,TVI LOW
+http://niobzca.cf:8080/george01/george02/155238
+#EXTINF:-1,TVI REALITY
+http://niobzca.cf:8080/george01/george02/118305
+#EXTINF:-1,TVI REALITY CAMARA 1
+http://niobzca.cf:8080/george01/george02/85081
+#EXTINF:-1,TVI REALITY CAMARA 2
+http://niobzca.cf:8080/george01/george02/85082
+#EXTINF:-1,TVI REALITY CAMARA 3
+http://niobzca.cf:8080/george01/george02/85083
+#EXTINF:-1,TVI REALITY CAMARA 4
+http://niobzca.cf:8080/george01/george02/85084
+#EXTINF:-1,TVS sries
+http://niobzca.cf:8080/george01/george02/177042
+#EXTINF:-1,VH1
+http://niobzca.cf:8080/george01/george02/65582
+#EXTINF:-1,VH1 Classic
+http://niobzca.cf:8080/george01/george02/98020
+
+#EXTINF:-1,24 Kitchen FHD
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14084
+#EXTINF:-1,A Bola TV
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14029
+#EXTINF:-1,A&E
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14040
+#EXTINF:-1,Afro Music Channel
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/13998
+#EXTINF:-1,AMC
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14096
+#EXTINF:-1,AXN Black
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14097
+#EXTINF:-1,AXN FHD
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/13953
+#EXTINF:-1,AXN White FHD
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14086
+#EXTINF:-1,AXN White HD
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/13954
+#EXTINF:-1,Baby First
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14034
+#EXTINF:-1,Baby TV
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14028
+#EXTINF:-1,BBC Entertainment
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14012
+#EXTINF:-1,BBC World News
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/13989
+#EXTINF:-1,Benfica TV1
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/13978
+#EXTINF:-1,Biggs
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14036
+#EXTINF:-1,Bloomberg
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/13985
+#EXTINF:-1,BTV 1
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14056
+#EXTINF:-1,BTV 1 (ALT)
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/13964
+#EXTINF:-1,BTV 1 FHD
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14055
+#EXTINF:-1,BTV 1 FHD (ALT)
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/13963
+#EXTINF:-1,BTV 1 HD (LBR)
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/13962
+#EXTINF:-1,Caca e Pesca
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14006
+#EXTINF:-1,Cacavision
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/13976
+#EXTINF:-1,Canal Historia
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14043
+#EXTINF:-1,Canal Hollywood
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14013
+#EXTINF:-1,Canal Panda
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14037
+#EXTINF:-1,Canal Q
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14093
+#EXTINF:-1,Cancao Nova
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/13975
+#EXTINF:-1,Cartoon Network
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14033
+#EXTINF:-1,Caza & Pesca
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/13974
+#EXTINF:-1,CBS Reality
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/13977
+#EXTINF:-1,Cine Mundo
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/13983
+#EXTINF:-1,CM TV
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14106
+#EXTINF:-1,CMTV
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/13961
+#EXTINF:-1,CMTV HD
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14098
+#EXTINF:-1,CNN
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/13987
+#EXTINF:-1,Crime Investigation
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14041
+#EXTINF:-1,Discovery Channel
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14049
+#EXTINF:-1,Discovery Showcase FHD
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14046
+#EXTINF:-1,Disney Channel
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14039
+#EXTINF:-1,Disney JR
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14031
+#EXTINF:-1,Disney Junior
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14035
+#EXTINF:-1,Dog TV FHD
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14081
+#EXTINF:-1,E! Entertainment
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/13973
+#EXTINF:-1,Euronews
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/13990
+#EXTINF:-1,Eurosport 1
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14011
+#EXTINF:-1,Eurosport 2
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14010
+#EXTINF:-1,Eurosport News
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14009
+#EXTINF:-1,Fashion TV
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/13960
+#EXTINF:-1,Fight Network FHD
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14003
+#EXTINF:-1,Fine Living Network FHD
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14082
+#EXTINF:-1,Food Network HD
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14083
+#EXTINF:-1,Fox Comedy
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14094
+#EXTINF:-1,Fox Crime
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14095
+#EXTINF:-1,Fox FHD
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14090
+#EXTINF:-1,Fox HD
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14089
+#EXTINF:-1,Fox Life FHD
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14091
+#EXTINF:-1,Fox Movies FHD
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14087
+#EXTINF:-1,Fox News
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/13988
+#EXTINF:-1,Fuel TV
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14008
+#EXTINF:-1,Globo Premium
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/13959
+#EXTINF:-1,Globo TV
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14105
+#EXTINF:-1,Historia
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14042
+#EXTINF:-1,iConcerts HD
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/13958
+#EXTINF:-1,Jim Jam
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14030
+#EXTINF:-1,Kombat Sports
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14051
+#EXTINF:-1,LIfestyle TV
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/13972
+#EXTINF:-1,Localvisao
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/13991
+#EXTINF:-1,MCM Pop
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/13999
+#EXTINF:-1,MCS Extreme
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/13955
+#EXTINF:-1,MCS LifeStyle
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/13957
+#EXTINF:-1,Motors TV FHD
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14053
+#EXTINF:-1,Motorvision
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14005
+#EXTINF:-1,MOV
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/13980
+#EXTINF:-1,MOV FHD
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/13979
+#EXTINF:-1,MTV
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14001
+#EXTINF:-1,Nat Geo Wild FHD
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14048
+#EXTINF:-1,National Geographic FHD
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14047
+#EXTINF:-1,NBA TV
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14052
+#EXTINF:-1,Nickelodeon
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14038
+#EXTINF:-1,Odisseia
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14044
+#EXTINF:-1,Outdoor Channel FHD
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14004
+#EXTINF:-1,Panda Biggs
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14027
+#EXTINF:-1,PFC
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14002
+#EXTINF:-1,Porto Canal
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14100
+#EXTINF:-1,Real Madrid Channel
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14050
+#EXTINF:-1,Record
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/13970
+#EXTINF:-1,Rede TV
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/13971
+#EXTINF:-1,RTP 1
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14117
+#EXTINF:-1,RTP 1 FHD
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14116
+#EXTINF:-1,RTP 2
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14115
+#EXTINF:-1,RTP 2 FHD
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14114
+#EXTINF:-1,RTP 3
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14113
+#EXTINF:-1,RTP Acores
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/13995
+#EXTINF:-1,RTP Africa
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/13994
+#EXTINF:-1,RTP Internacional
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/13993
+#EXTINF:-1,RTP Madeira
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/13992
+#EXTINF:-1,RTP Memoria
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14099
+#EXTINF:-1,Santuario Fatima
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/13969
+#EXTINF:-1,SIC Caras
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14103
+#EXTINF:-1,SIC HD
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14112
+#EXTINF:-1,SIC K
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/13981
+#EXTINF:-1,Sic Kids
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14032
+#EXTINF:-1,SIC Mulher
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14104
+#EXTINF:-1,SIC Noticias
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14102
+#EXTINF:-1,SIC Radical
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14101
+#EXTINF:-1,Sky News
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/13986
+#EXTINF:-1,Sport TV
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14080
+#EXTINF:-1,Sport TV   FHD
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14078
+#EXTINF:-1,Sport TV   HD
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14079
+#EXTINF:-1,Sport TV 1
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14076
+#EXTINF:-1,Sport TV 1 FHD
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14073
+#EXTINF:-1,Sport TV 1 HD
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14077
+#EXTINF:-1,Sport TV 1 HD (ALT)
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14075
+#EXTINF:-1,Sport TV 1 HD (LBR)
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14074
+#EXTINF:-1,Sport TV 2
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14072
+#EXTINF:-1,Sport TV 2 FHD
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14069
+#EXTINF:-1,Sport TV 2 HD
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14071
+#EXTINF:-1,Sport TV 2 HD (LBR)
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14070
+#EXTINF:-1,Sport TV 3
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14068
+#EXTINF:-1,Sport TV 3 FHD
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14065
+#EXTINF:-1,Sport TV 3 HD
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14067
+#EXTINF:-1,Sport TV 3 HD (LBR)
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14066
+#EXTINF:-1,Sport TV 4
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14064
+#EXTINF:-1,Sport TV 4 FHD
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14061
+#EXTINF:-1,Sport TV 4 HD
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14063
+#EXTINF:-1,Sport TV 4 HD (LBR)
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14062
+#EXTINF:-1,Sport TV 5
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14060
+#EXTINF:-1,Sport TV 5 FHD
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14057
+#EXTINF:-1,Sport TV 5 HD
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14059
+#EXTINF:-1,Sport TV 5 HD (LBR)
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14058
+#EXTINF:-1,Sporting TV FHD
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14054
+#EXTINF:-1,STV Noticias
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/13946
+#EXTINF:-1,Sundance FHD
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14085
+#EXTINF:-1,Syfy
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/13982
+#EXTINF:-1,Syfy HD
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14088
+#EXTINF:-1,TLC
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14092
+#EXTINF:-1,Toros TV
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14007
+#EXTINF:-1,Trace Urban
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/13997
+#EXTINF:-1,Trace Urban HD
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/13996
+#EXTINF:-1,Travel Channel FHD
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14045
+#EXTINF:-1,TV Cine 1
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14026
+#EXTINF:-1,TV Cine 1 FHD
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14024
+#EXTINF:-1,TV Cine 1 HD
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14025
+#EXTINF:-1,TV Cine 2
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14023
+#EXTINF:-1,TV Cine 2 FHD
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14021
+#EXTINF:-1,TV Cine 2 HD
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14022
+#EXTINF:-1,TV Cine 3
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14020
+#EXTINF:-1,TV Cine 3 FHD
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14018
+#EXTINF:-1,TV Cine 3 HD
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14019
+#EXTINF:-1,TV Cine 4
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14017
+#EXTINF:-1,TV Cine 4 FHD
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14015
+#EXTINF:-1,TV Cine 4 HD
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14016
+#EXTINF:-1,TV Globo Portugal
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/13968
 #EXTINF:-1,TV Globo Premium
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/8796
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/13967
+#EXTINF:-1,TV Record
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/13966
+#EXTINF:-1,TV Series FHD
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14014
+#EXTINF:-1,TVE 24H
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/13984
+#EXTINF:-1,TVEi
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/13956
+#EXTINF:-1,TVI
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14111
+#EXTINF:-1,TVI 24
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14108
+#EXTINF:-1,TVI FHD
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14109
+#EXTINF:-1,TVI Ficcao
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/13965
+#EXTINF:-1,TVI HD
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14110
+#EXTINF:-1,TVI Reality
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14107
+#EXTINF:-1,TVI Reality Camara Exclusiva 1
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/13952
+#EXTINF:-1,TVI Reality Camara Exclusiva 2
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/13951
+#EXTINF:-1,TVI Reality Camara Exclusiva 3
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/13950
+#EXTINF:-1,TVI Reality Camara Exclusiva 4
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/13949
+#EXTINF:-1,TVI Reality Mosaico
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/13948
+#EXTINF:-1,VH1
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/14000
+#EXTINF:-1,VH1 Classic
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/13947
