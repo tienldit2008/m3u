@@ -1,368 +1,1529 @@
-#EXTINF:-1,Globo SP
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42540.ts
-#EXTINF:-1,Globo Minas
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42539.ts
-#EXTINF:-1,Globo Nordeste
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42538.ts
-#EXTINF:-1,Globo Rio
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42537.ts
-#EXTINF:-1,Record
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42536.ts
-#EXTINF:-1,Rede TV
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42535.ts
-#EXTINF:-1,##### NEWS #####
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42534.ts
-#EXTINF:-1,Globo News
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42533.ts
-#EXTINF:-1,Record News
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42532.ts
-#EXTINF:-1,Band News
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42531.ts
-#EXTINF:-1,CNN Espanhol
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42530.ts
-#EXTINF:-1,CNN Internacional
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42529.ts
-#EXTINF:-1,TC Action
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42506.ts
-#EXTINF:-1,TC Cult
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42505.ts
-#EXTINF:-1,TC fun
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42504.ts
-#EXTINF:-1,TC Pipoca
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42503.ts
-#EXTINF:-1,TC Premium
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42502.ts
-#EXTINF:-1,TC Touch
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42501.ts
-#EXTINF:-1,Premiere 3
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42455.ts
-#EXTINF:-1,Premiere 4
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42454.ts
-#EXTINF:-1,Premiere 5
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42453.ts
-#EXTINF:-1,Premiere 6
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42452.ts
-#EXTINF:-1,Premiere 7
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42451.ts
-#EXTINF:-1,Premiere 8
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42450.ts
-#EXTINF:-1,Premiere Clubes
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42449.ts
-#EXTINF:-1,Prime Box
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42448.ts
-#EXTINF:-1,Rede Século 21
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42447.ts
-#EXTINF:-1,Rede Século 21 [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42446.ts
-#EXTINF:-1,Rede Século 21 [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42445.ts
-#EXTINF:-1,Rede Super
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42444.ts
-#EXTINF:-1,Rede Super [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42443.ts
-#EXTINF:-1,Rede Super [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42442.ts
-#EXTINF:-1,Sony
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42441.ts
-#EXTINF:-1,Sony [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42440.ts
-#EXTINF:-1,Sony [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42439.ts
-#EXTINF:-1,Space
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42438.ts
-#EXTINF:-1,Space [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42437.ts
-#EXTINF:-1,Space [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42436.ts
-#EXTINF:-1,Sundance Channel
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42435.ts
-#EXTINF:-1,Sundance Channel [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42434.ts
-#EXTINF:-1,Sundance Channel [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42433.ts
-#EXTINF:-1,Warner
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42432.ts
-#EXTINF:-1,Warner [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42431.ts
-#EXTINF:-1,Warner [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42430.ts
-#EXTINF:-1,TBS
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42429.ts
-#EXTINF:-1,TBS [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42428.ts
-#EXTINF:-1,TBS [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42427.ts
-#EXTINF:-1,TCM
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42426.ts
-#EXTINF:-1,TCM [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42425.ts
-#EXTINF:-1,TCM [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42424.ts
-#EXTINF:-1,TLC
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42423.ts
-#EXTINF:-1,TLC [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42422.ts
-#EXTINF:-1,TLC [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42421.ts
-#EXTINF:-1,E!
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42420.ts
-#EXTINF:-1,E! [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42419.ts
-#EXTINF:-1,E! [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42418.ts
-#EXTINF:-1,TNT
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42417.ts
-#EXTINF:-1,TNT [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42416.ts
-#EXTINF:-1,TNT [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42415.ts
-#EXTINF:-1,TNT Series
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42414.ts
-#EXTINF:-1,TNT Series [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42413.ts
-#EXTINF:-1,TNT Series [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42412.ts
-#EXTINF:-1,Woohoo
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42411.ts
-#EXTINF:-1,Zoomoo
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42410.ts
-#EXTINF:-1,##### SPORT #####
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42409.ts
-#EXTINF:-1,Band Sports
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42408.ts
-#EXTINF:-1,Combate
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42407.ts
-#EXTINF:-1,ESPN BR
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42406.ts
-#EXTINF:-1,ESPN Extra
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42405.ts
-#EXTINF:-1,ESPN Extra [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42404.ts
-#EXTINF:-1,ESPN Extra [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42403.ts
-#EXTINF:-1,ESPN Int.
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42402.ts
-#EXTINF:-1,ESPN Int. [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42401.ts
-#EXTINF:-1,ESPN Int. [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42400.ts
-#EXTINF:-1,ESPN Plus
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42399.ts
-#EXTINF:-1,ESPN Plus [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42398.ts
-#EXTINF:-1,ESPN Plus [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42397.ts
-#EXTINF:-1,Fox Sports
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42396.ts
-#EXTINF:-1,Fox Sports [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42395.ts
-#EXTINF:-1,Fox Sports [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42394.ts
-#EXTINF:-1,Fox Sports 2
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42393.ts
-#EXTINF:-1,Fox Sports 2 [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42392.ts
-#EXTINF:-1,Fox Sports 2 [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42391.ts
-#EXTINF:-1,SporTV
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42390.ts
-#EXTINF:-1,SporTV 2
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42389.ts
-#EXTINF:-1,SporTV 3
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42388.ts
-#EXTINF:-1,##### KIDS #####
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42387.ts
-#EXTINF:-1,Boomerang
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42386.ts
-#EXTINF:-1,Boomerang [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42385.ts
-#EXTINF:-1,Boomerang [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42384.ts
-#EXTINF:-1,Cartoon Network
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42383.ts
-#EXTINF:-1,Cartoon Network [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42382.ts
-#EXTINF:-1,Cartoon Network [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42381.ts
-#EXTINF:-1,Discovery Kids
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42380.ts
-#EXTINF:-1,Discovery Kids [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42379.ts
-#EXTINF:-1,Discovery Kids [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42378.ts
-#EXTINF:-1,Disney Channel
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42377.ts
-#EXTINF:-1,Disney Channel [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42376.ts
-#EXTINF:-1,Disney Channel [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42375.ts
-#EXTINF:-1,Disney JR
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42374.ts
-#EXTINF:-1,Disney JR [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42373.ts
-#EXTINF:-1,Disney JR [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42372.ts
-#EXTINF:-1,Disney XD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42371.ts
-#EXTINF:-1,Disney XD [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42370.ts
-#EXTINF:-1,Disney XD [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42369.ts
-#EXTINF:-1,NatGeo Kids [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42368.ts
-#EXTINF:-1,NatGeo Kids [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42367.ts
-#EXTINF:-1,Nick JR
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42366.ts
-#EXTINF:-1,Nick JR [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42365.ts
-#EXTINF:-1,Nick JR [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42364.ts
-#EXTINF:-1,Nickelodeon
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42363.ts
-#EXTINF:-1,Nickelodeon [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42362.ts
-#EXTINF:-1,Nickelodeon [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42361.ts
-#EXTINF:-1,Tooncast
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42360.ts
-#EXTINF:-1,Tooncast [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42359.ts
-#EXTINF:-1,Tooncast [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42358.ts
-#EXTINF:-1,##### DOCUMANTARY #####
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42357.ts
-#EXTINF:-1,Animal Planet
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42356.ts
-#EXTINF:-1,Animal Planet [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42355.ts
-#EXTINF:-1,Animal Planet [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42354.ts
-#EXTINF:-1,Discovery
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42353.ts
-#EXTINF:-1,Discovery [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42352.ts
-#EXTINF:-1,Discovery [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42351.ts
-#EXTINF:-1,Discovery Civilization
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42350.ts
-#EXTINF:-1,Discovery Civilization [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42349.ts
-#EXTINF:-1,Discovery Civilization [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42348.ts
-#EXTINF:-1,Discovery H&H
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42347.ts
-#EXTINF:-1,Discovery H&H [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42346.ts
-#EXTINF:-1,Discovery H&H [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42345.ts
-#EXTINF:-1,Discovery Science
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42344.ts
-#EXTINF:-1,Discovery Science [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42343.ts
-#EXTINF:-1,Discovery Science [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42342.ts
-#EXTINF:-1,Discovery Theater
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42341.ts
-#EXTINF:-1,Discovery Theater [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42340.ts
-#EXTINF:-1,Discovery Theater [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42339.ts
-#EXTINF:-1,Discovery Turbo
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42338.ts
-#EXTINF:-1,Discovery Turbo [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42337.ts
-#EXTINF:-1,Discovery Turbo [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42336.ts
-#EXTINF:-1,Discovery World
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42335.ts
-#EXTINF:-1,Discovery World [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42334.ts
-#EXTINF:-1,Discovery World [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42333.ts
-#EXTINF:-1,History
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42332.ts
-#EXTINF:-1,History [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42331.ts
-#EXTINF:-1,History [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42330.ts
-#EXTINF:-1,Trutv
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42329.ts
-#EXTINF:-1,Trutv [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42328.ts
-#EXTINF:-1,Trutv [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42327.ts
-#EXTINF:-1,NatGeo
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42326.ts
-#EXTINF:-1,NatGeo [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42325.ts
-#EXTINF:-1,NatGeo [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42324.ts
-#EXTINF:-1,NatGeo Kids
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42323.ts
-#EXTINF:-1,NatGeo Wild
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42322.ts
-#EXTINF:-1,NatGeo Wild [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42321.ts
-#EXTINF:-1,NatGeo Wild [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42320.ts
-#EXTINF:-1,##### MUSIC #####
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42319.ts
-#EXTINF:-1,MTV HD
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42318.ts
-#EXTINF:-1,MTV HD [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42317.ts
-#EXTINF:-1,MTV HD [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42316.ts
-#EXTINF:-1,Music Box Brasil
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42315.ts
-#EXTINF:-1,VH1 Mega Hits
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42314.ts
-#EXTINF:-1,VH1 Mega Hits [AUDIO 1]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42313.ts
-#EXTINF:-1,VH1 Mega Hits [AUDIO 2]
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42312.ts
-#EXTINF:-1,##### GENERAL #####
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42311.ts
-#EXTINF:-1,Agro canal
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42310.ts
-#EXTINF:-1,Arte1
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42309.ts
-#EXTINF:-1,BAND
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42308.ts
-#EXTINF:-1,BBB
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42307.ts
-#EXTINF:-1,Canal do Boi
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42306.ts
-#EXTINF:-1,Chef TV
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42305.ts
-#EXTINF:-1,Cultura
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42304.ts
-#EXTINF:-1,Fashion TV Brasil
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42303.ts
-#EXTINF:-1,Fish TV
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42302.ts
-#EXTINF:-1,Food Networks
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42301.ts
-#EXTINF:-1,Isat
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42300.ts
-#EXTINF:-1,Mais Globosat
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42299.ts
-#EXTINF:-1,NBR
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42298.ts
-#EXTINF:-1,SBT
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42297.ts
-#EXTINF:-1,Shoptime
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42296.ts
-#EXTINF:-1,Travel Box Brasil
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42295.ts
-#EXTINF:-1,TV Camara
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42294.ts
-#EXTINF:-1,TV Escola
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42293.ts
-#EXTINF:-1,TV Justiça
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42292.ts
-#EXTINF:-1,TV Rá Tim Bum
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42291.ts
-#EXTINF:-1,TV Senado
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/42290.ts
+#EXTM3U
+#EXTINF:-1,Peru | America Peru
+http://ecuaplaytv.com:8000/live/nando/nando/42559.m3u8
+#EXTINF:-1,Peru | Antares TV
+http://ecuaplaytv.com:8000/live/nando/nando/42558.m3u8
+#EXTINF:-1,Peru | ATV
+http://ecuaplaytv.com:8000/live/nando/nando/42557.m3u8
+#EXTINF:-1,Peru | ATV Plus
+http://ecuaplaytv.com:8000/live/nando/nando/42556.m3u8
+#EXTINF:-1,Peru | Capital TV
+http://ecuaplaytv.com:8000/live/nando/nando/42555.m3u8
+#EXTINF:-1,Peru | Digital TV HD
+http://ecuaplaytv.com:8000/live/nando/nando/42554.m3u8
+#EXTINF:-1,Peru | Enlace
+http://ecuaplaytv.com:8000/live/nando/nando/42553.m3u8
+#EXTINF:-1,Peru | Frecuencia Latina
+http://ecuaplaytv.com:8000/live/nando/nando/42551.m3u8
+#EXTINF:-1,Peru | Gol Peru
+http://ecuaplaytv.com:8000/live/nando/nando/42550.m3u8
+#EXTINF:-1,Peru | Ips
+http://ecuaplaytv.com:8000/live/nando/nando/42549.m3u8
+#EXTINF:-1,Peru | La Tele
+http://ecuaplaytv.com:8000/live/nando/nando/42548.m3u8
+#EXTINF:-1,Peru | Monterrico TV
+http://ecuaplaytv.com:8000/live/nando/nando/42547.m3u8
+#EXTINF:-1,Peru | Movistar Deportes
+http://ecuaplaytv.com:8000/live/nando/nando/42546.m3u8
+#EXTINF:-1,Peru | Movistar Plus
+http://ecuaplaytv.com:8000/live/nando/nando/42545.m3u8
+#EXTINF:-1,Peru | Nex TV
+http://ecuaplaytv.com:8000/live/nando/nando/42544.m3u8
+#EXTINF:-1,Peru | Panamericana
+http://ecuaplaytv.com:8000/live/nando/nando/42543.m3u8
+#EXTINF:-1,Peru | Peru Magico
+http://ecuaplaytv.com:8000/live/nando/nando/42542.m3u8
+#EXTINF:-1,Peru | TV Noticias 7.3
+http://ecuaplaytv.com:8000/live/nando/nando/42541.m3u8
+#EXTINF:-1,Peru | TV Peru HD
+http://ecuaplaytv.com:8000/live/nando/nando/42540.m3u8
+#EXTINF:-1,Peru | Willax HD
+http://ecuaplaytv.com:8000/live/nando/nando/42539.m3u8
+#EXTINF:-1,--------------------------ARGENTINA----------------------
+http://ecuaplaytv.com:8000/live/nando/nando/27006.m3u8
+#EXTINF:-1,Argentina | 24/7 Noticias
+http://ecuaplaytv.com:8000/live/nando/nando/42470.m3u8
+#EXTINF:-1,Argentina | A24 FHD
+http://ecuaplaytv.com:8000/live/nando/nando/42469.m3u8
+#EXTINF:-1,Argentina | A24 HD
+http://ecuaplaytv.com:8000/live/nando/nando/42468.m3u8
+#EXTINF:-1,Argentina | America (1080)
+http://ecuaplaytv.com:8000/live/nando/nando/42467.m3u8
+#EXTINF:-1,Argentina | America HD
+http://ecuaplaytv.com:8000/live/nando/nando/42466.m3u8
+#EXTINF:-1,Argentina | America Sports
+http://ecuaplaytv.com:8000/live/nando/nando/42465.m3u8
+#EXTINF:-1,Argentina | C5N
+http://ecuaplaytv.com:8000/live/nando/nando/42464.m3u8
+#EXTINF:-1,Argentina | Canal 26
+http://ecuaplaytv.com:8000/live/nando/nando/42463.m3u8
+#EXTINF:-1,Argentina | Canal 4 Esquel
+http://ecuaplaytv.com:8000/live/nando/nando/42462.m3u8
+#EXTINF:-1,Argentina | Canal 9 Salta
+http://ecuaplaytv.com:8000/live/nando/nando/42461.m3u8
+#EXTINF:-1,Argentina | Canal Encuentro
+http://ecuaplaytv.com:8000/live/nando/nando/42460.m3u8
+#EXTINF:-1,Argentina | CN23
+http://ecuaplaytv.com:8000/live/nando/nando/42457.m3u8
+#EXTINF:-1,Argentina | Cronica
+http://ecuaplaytv.com:8000/live/nando/nando/42456.m3u8
+#EXTINF:-1,Argentina | DeporTV FHD
+http://ecuaplaytv.com:8000/live/nando/nando/42455.m3u8
+#EXTINF:-1,Argentina | Deportv (720)
+http://ecuaplaytv.com:8000/live/nando/nando/42454.m3u8
+#EXTINF:-1,Argentina | El Garage TV HD
+http://ecuaplaytv.com:8000/live/nando/nando/42453.m3u8
+#EXTINF:-1,Argentina | El Nueve 9 FHD
+http://ecuaplaytv.com:8000/live/nando/nando/42452.m3u8
+#EXTINF:-1,Argentina | El Nueve 9 HD
+http://ecuaplaytv.com:8000/live/nando/nando/42451.m3u8
+#EXTINF:-1,Argentina | El Trece 13 FHD
+http://ecuaplaytv.com:8000/live/nando/nando/42450.m3u8
+#EXTINF:-1,Argentina | El Trece 13 HD
+http://ecuaplaytv.com:8000/live/nando/nando/42449.m3u8
+#EXTINF:-1,Argentina | LN
+http://ecuaplaytv.com:8000/live/nando/nando/42448.m3u8
+#EXTINF:-1,Argentina | Net TV FHD
+http://ecuaplaytv.com:8000/live/nando/nando/42447.m3u8
+#EXTINF:-1,Argentina | Paka Paka
+http://ecuaplaytv.com:8000/live/nando/nando/42446.m3u8
+#EXTINF:-1,Argentina | TEC TV
+http://ecuaplaytv.com:8000/live/nando/nando/42445.m3u8
+#EXTINF:-1,Argentina | Telefe FHD
+http://ecuaplaytv.com:8000/live/nando/nando/42444.m3u8
+#EXTINF:-1,Argentina | Telefe HD
+http://ecuaplaytv.com:8000/live/nando/nando/42443.m3u8
+#EXTINF:-1,Argentina | Telemax
+http://ecuaplaytv.com:8000/live/nando/nando/42442.m3u8
+#EXTINF:-1,Argentina | Television Publica Argentina FHD
+http://ecuaplaytv.com:8000/live/nando/nando/42441.m3u8
+#EXTINF:-1,Argentina | Television Publica Argentina HD
+http://ecuaplaytv.com:8000/live/nando/nando/42440.m3u8
+#EXTINF:-1,Argentina | TN Buenos Aires
+http://ecuaplaytv.com:8000/live/nando/nando/42439.m3u8
+#EXTINF:-1,Argentina | TNT Sports HD
+http://ecuaplaytv.com:8000/live/nando/nando/42438.m3u8
+#EXTINF:-1,Argentina | TR Telered
+http://ecuaplaytv.com:8000/live/nando/nando/42437.m3u8
+#EXTINF:-1,Argentina | Trece Max HD
+http://ecuaplaytv.com:8000/live/nando/nando/42436.m3u8
+#EXTINF:-1,---------------------------------------CHILE--------------------------------------------
+http://ecuaplaytv.com:8000/live/nando/nando/41308.m3u8
+#EXTINF:-1,Chile |13C HD
+http://ecuaplaytv.com:8000/live/nando/nando/42488.m3u8
+#EXTINF:-1,Chile |24 Horas
+http://ecuaplaytv.com:8000/live/nando/nando/42487.m3u8
+#EXTINF:-1,Chile |Canal 13 HD
+http://ecuaplaytv.com:8000/live/nando/nando/42486.m3u8
+#EXTINF:-1,Chile |CDF Basico
+http://ecuaplaytv.com:8000/live/nando/nando/42485.m3u8
+#EXTINF:-1,Chile |CDF HD
+http://ecuaplaytv.com:8000/live/nando/nando/42484.m3u8
+#EXTINF:-1,Chile |CDO Premium HD
+http://ecuaplaytv.com:8000/live/nando/nando/42483.m3u8
+#EXTINF:-1,Chile |Chilevision
+http://ecuaplaytv.com:8000/live/nando/nando/42482.m3u8
+#EXTINF:-1,Chile |Chilevision HD
+http://ecuaplaytv.com:8000/live/nando/nando/42481.m3u8
+#EXTINF:-1,Chile |Estadio CDF HD
+http://ecuaplaytv.com:8000/live/nando/nando/42480.m3u8
+#EXTINF:-1,Chile |Etc TV
+http://ecuaplaytv.com:8000/live/nando/nando/42479.m3u8
+#EXTINF:-1,Chile |Fox Sports HD
+http://ecuaplaytv.com:8000/live/nando/nando/42478.m3u8
+#EXTINF:-1,Chile |La Red HD
+http://ecuaplaytv.com:8000/live/nando/nando/42477.m3u8
+#EXTINF:-1,Chile |Mega HD
+http://ecuaplaytv.com:8000/live/nando/nando/42476.m3u8
+#EXTINF:-1,Chile  | CDF Estadio
+http://ecuaplaytv.com:8000/live/nando/nando/42475.m3u8
+#EXTINF:-1,Chile |T13 Movil
+http://ecuaplaytv.com:8000/live/nando/nando/42474.m3u8
+#EXTINF:-1,Chile |Teletrak
+http://ecuaplaytv.com:8000/live/nando/nando/42473.m3u8
+#EXTINF:-1,Chile |TVN HD
+http://ecuaplaytv.com:8000/live/nando/nando/42472.m3u8
+#EXTINF:-1,Chile |UCV HD
+http://ecuaplaytv.com:8000/live/nando/nando/42471.m3u8
+#EXTINF:-1,Chile  | Cnn Español
+http://ecuaplaytv.com:8000/live/nando/nando/254.m3u8
+#EXTINF:-1,--------------------------------Satelite Ecuador HD-------------------------
+http://ecuaplaytv.com:8000/live/nando/nando/17550.m3u8
+#EXTINF:-1,Latinos | Animal Planet
+http://ecuaplaytv.com:8000/live/nando/nando/37109.m3u8
+#EXTINF:-1,Latinos | CNN en Español
+http://ecuaplaytv.com:8000/live/nando/nando/37095.m3u8
+#EXTINF:-1,Latinos | CNN INTERNACIONAL
+http://ecuaplaytv.com:8000/live/nando/nando/37094.m3u8
+#EXTINF:-1,Latinos | Discovery Channel
+http://ecuaplaytv.com:8000/live/nando/nando/37089.m3u8
+#EXTINF:-1,Latinos | Discovery home & healt
+http://ecuaplaytv.com:8000/live/nando/nando/37088.m3u8
+#EXTINF:-1,Latinos | Discovery Sciencie
+http://ecuaplaytv.com:8000/live/nando/nando/37086.m3u8
+#EXTINF:-1,Latinos |  Discovery Theater
+http://ecuaplaytv.com:8000/live/nando/nando/37085.m3u8
+#EXTINF:-1,Latinos |  Discovery World
+http://ecuaplaytv.com:8000/live/nando/nando/37084.m3u8
+#EXTINF:-1,Latinos | Gourmet
+http://ecuaplaytv.com:8000/live/nando/nando/37059.m3u8
+#EXTINF:-1,Latinos | Glitz
+http://ecuaplaytv.com:8000/live/nando/nando/37063.m3u8
+#EXTINF:-1,Latinos | History Channel
+http://ecuaplaytv.com:8000/live/nando/nando/37053.m3u8
+#EXTINF:-1,Latinos | ISAT
+http://ecuaplaytv.com:8000/live/nando/nando/37049.m3u8
+#EXTINF:-1,Latinos | NATGEO
+http://ecuaplaytv.com:8000/live/nando/nando/37040.m3u8
+#EXTINF:-1,Latinos | Nat Geo WILD
+http://ecuaplaytv.com:8000/live/nando/nando/37038.m3u8
+#EXTINF:-1,Latinos | ESPN
+http://ecuaplaytv.com:8000/live/nando/nando/37078.m3u8
+#EXTINF:-1,Latinos | ESPN 2
+http://ecuaplaytv.com:8000/live/nando/nando/37080.m3u8
+#EXTINF:-1,Latinos | ESPN 3
+http://ecuaplaytv.com:8000/live/nando/nando/37079.m3u8
+#EXTINF:-1,Latinos |  ESPN Plus
+http://ecuaplaytv.com:8000/live/nando/nando/37077.m3u8
+#EXTINF:-1,Latinos | Fox Sports
+http://ecuaplaytv.com:8000/live/nando/nando/37065.m3u8
+#EXTINF:-1,Latinos | Fox Sports 2
+http://ecuaplaytv.com:8000/live/nando/nando/37067.m3u8
+#EXTINF:-1,Latinos | Fox Sports 3
+http://ecuaplaytv.com:8000/live/nando/nando/37066.m3u8
+#EXTINF:-1,Latinos | Golf Channel
+http://ecuaplaytv.com:8000/live/nando/nando/37060.m3u8
+#EXTINF:-1,Latinos | Win Sports
+http://ecuaplaytv.com:8000/live/nando/nando/37015.m3u8
+#EXTINF:-1,Latinos |  Baby TV
+http://ecuaplaytv.com:8000/live/nando/nando/37105.m3u8
+#EXTINF:-1,Latinos | Cartoon Network
+http://ecuaplaytv.com:8000/live/nando/nando/37101.m3u8
+#EXTINF:-1,Latinos | Boomerang
+http://ecuaplaytv.com:8000/live/nando/nando/37103.m3u8
+#EXTINF:-1,Latinos | Tooncast
+http://ecuaplaytv.com:8000/live/nando/nando/37023.m3u8
+#EXTINF:-1,Latinos | Discovery Kids
+http://ecuaplaytv.com:8000/live/nando/nando/37087.m3u8
+#EXTINF:-1,Latinos | Disney JR
+http://ecuaplaytv.com:8000/live/nando/nando/37083.m3u8
+#EXTINF:-1,Latinos | Disney XD
+http://ecuaplaytv.com:8000/live/nando/nando/37082.m3u8
+#EXTINF:-1,Latinos | Nat Geo Kids
+http://ecuaplaytv.com:8000/live/nando/nando/37039.m3u8
+#EXTINF:-1,Latinos | Nick 2
+http://ecuaplaytv.com:8000/live/nando/nando/37036.m3u8
+#EXTINF:-1,Latinos | Nick Jr
+http://ecuaplaytv.com:8000/live/nando/nando/37035.m3u8
+#EXTINF:-1,Latinos | Nickelodeon
+http://ecuaplaytv.com:8000/live/nando/nando/37037.m3u8
+#EXTINF:-1,Latinos |  Bloomberg
+http://ecuaplaytv.com:8000/live/nando/nando/37104.m3u8
+#EXTINF:-1,Latinos |  Fox Action
+http://ecuaplaytv.com:8000/live/nando/nando/37074.m3u8
+#EXTINF:-1,Latinos | Fox Cinema
+http://ecuaplaytv.com:8000/live/nando/nando/37071.m3u8
+#EXTINF:-1,Latinos | Fox Comedy
+http://ecuaplaytv.com:8000/live/nando/nando/37069.m3u8
+#EXTINF:-1,Latinos | Fox Family
+http://ecuaplaytv.com:8000/live/nando/nando/37073.m3u8
+#EXTINF:-1,Latinos | Fox Life
+http://ecuaplaytv.com:8000/live/nando/nando/37068.m3u8
+#EXTINF:-1,Latinos |  Fox Movies
+http://ecuaplaytv.com:8000/live/nando/nando/37072.m3u8
+#EXTINF:-1,Latinos | FX
+http://ecuaplaytv.com:8000/live/nando/nando/37064.m3u8
+#EXTINF:-1,Latinos | Fox Classic
+http://ecuaplaytv.com:8000/live/nando/nando/37070.m3u8
+#EXTINF:-1,Latinos | Golden
+http://ecuaplaytv.com:8000/live/nando/nando/37062.m3u8
+#EXTINF:-1,Latinos | Golden Premier
+http://ecuaplaytv.com:8000/live/nando/nando/37061.m3u8
+#EXTINF:-1,Latinos | HBO 2
+http://ecuaplaytv.com:8000/live/nando/nando/37057.m3u8
+#EXTINF:-1,Latinos | HBO Family
+http://ecuaplaytv.com:8000/live/nando/nando/37056.m3u8
+#EXTINF:-1,Latinos | HBO Plus
+http://ecuaplaytv.com:8000/live/nando/nando/37055.m3u8
+#EXTINF:-1,Latinos | HBO Signature
+http://ecuaplaytv.com:8000/live/nando/nando/37054.m3u8
+#EXTINF:-1,Latinos | Lifetime
+http://ecuaplaytv.com:8000/live/nando/nando/37047.m3u8
+#EXTINF:-1,Latinos |  Cinemax
+http://ecuaplaytv.com:8000/live/nando/nando/37097.m3u8
+#EXTINF:-1,Latinos |  Cinecanal
+http://ecuaplaytv.com:8000/live/nando/nando/37100.m3u8
+#EXTINF:-1,Latinos | Az Cinema
+http://ecuaplaytv.com:8000/live/nando/nando/37098.m3u8
+#EXTINF:-1,Latinos | Comedy Central
+http://ecuaplaytv.com:8000/live/nando/nando/37093.m3u8
+#EXTINF:-1,Latinos | DE PELICULA +
+http://ecuaplaytv.com:8000/live/nando/nando/37091.m3u8
+#EXTINF:-1,Latinos | DHE
+http://ecuaplaytv.com:8000/live/nando/nando/37090.m3u8
+#EXTINF:-1,Latinos | Axn
+http://ecuaplaytv.com:8000/live/nando/nando/37108.m3u8
+#EXTINF:-1,Latinos | Max Prime
+http://ecuaplaytv.com:8000/live/nando/nando/37045.m3u8
+#EXTINF:-1,Latinos | MultiPremier
+http://ecuaplaytv.com:8000/live/nando/nando/37041.m3u8
+#EXTINF:-1,Latinos | Paramount
+http://ecuaplaytv.com:8000/live/nando/nando/37034.m3u8
+#EXTINF:-1,Latinos  | AE MUNDO
+http://ecuaplaytv.com:8000/live/nando/nando/37111.m3u8
+#EXTINF:-1,Latinos | AMC
+http://ecuaplaytv.com:8000/live/nando/nando/37110.m3u8
+#EXTINF:-1,Latinos | Space
+http://ecuaplaytv.com:8000/live/nando/nando/37031.m3u8
+#EXTINF:-1,Latinos | Studio Universal
+http://ecuaplaytv.com:8000/live/nando/nando/37030.m3u8
+#EXTINF:-1,Latinos | Sundance
+http://ecuaplaytv.com:8000/live/nando/nando/37029.m3u8
+#EXTINF:-1,Latinos | TCM
+http://ecuaplaytv.com:8000/live/nando/nando/37027.m3u8
+#EXTINF:-1,Latinos | The Film Zone
+http://ecuaplaytv.com:8000/live/nando/nando/37026.m3u8
+#EXTINF:-1,Latinos | TNT
+http://ecuaplaytv.com:8000/live/nando/nando/37025.m3u8
+#EXTINF:-1,Latinos | TNT Series
+http://ecuaplaytv.com:8000/live/nando/nando/37024.m3u8
+#EXTINF:-1,Latinos | TBS
+http://ecuaplaytv.com:8000/live/nando/nando/37028.m3u8
+#EXTINF:-1,Latinos | Unicable
+http://ecuaplaytv.com:8000/live/nando/nando/37020.m3u8
+#EXTINF:-1,Latinos | Universal Channel
+http://ecuaplaytv.com:8000/live/nando/nando/37019.m3u8
+#EXTINF:-1,Latinos | Warner Channel
+http://ecuaplaytv.com:8000/live/nando/nando/37016.m3u8
+#EXTINF:-1,Latinos | Canal SONY
+http://ecuaplaytv.com:8000/live/nando/nando/37032.m3u8
+#EXTINF:-1,Latinos | Canal de las estrellas
+http://ecuaplaytv.com:8000/live/nando/nando/37102.m3u8
+#EXTINF:-1,Latinos | Más Chic
+http://ecuaplaytv.com:8000/live/nando/nando/37046.m3u8
+#EXTINF:-1,Latinos | Az Corazon
+http://ecuaplaytv.com:8000/live/nando/nando/37107.m3u8
+#EXTINF:-1,Latinos | Az Mundo
+http://ecuaplaytv.com:8000/live/nando/nando/37106.m3u8
+#EXTINF:-1,Latinos | RCN Novelas
+http://ecuaplaytv.com:8000/live/nando/nando/37033.m3u8
+#EXTINF:-1,Latinos | E!
+http://ecuaplaytv.com:8000/live/nando/nando/37081.m3u8
+#EXTINF:-1,Latinos | ¡Hola! TV
+http://ecuaplaytv.com:8000/live/nando/nando/37052.m3u8
+#EXTINF:-1,Latinos | TruTV
+http://ecuaplaytv.com:8000/live/nando/nando/37022.m3u8
+#EXTINF:-1,Latinos | Fox Series.
+http://ecuaplaytv.com:8000/live/nando/nando/37075.m3u8
+#EXTINF:-1,Latinos | H2
+http://ecuaplaytv.com:8000/live/nando/nando/37058.m3u8
+#EXTINF:-1,Latinos | ID
+http://ecuaplaytv.com:8000/live/nando/nando/37050.m3u8
+#EXTINF:-1,-----------------------------------Musica-----------------------------------------
+http://ecuaplaytv.com:8000/live/nando/nando/36976.m3u8
+#EXTINF:-1,MUSIC: CONCERT CHANNEL
+http://ecuaplaytv.com:8000/live/nando/nando/37092.m3u8
+#EXTINF:-1,MUSIC: HTV
+http://ecuaplaytv.com:8000/live/nando/nando/37051.m3u8
+#EXTINF:-1,Latinos | Music Top
+http://ecuaplaytv.com:8000/live/nando/nando/37048.m3u8
+#EXTINF:-1,MUSIC:MTV HD Lat.
+http://ecuaplaytv.com:8000/live/nando/nando/37044.m3u8
+#EXTINF:-1,MUSIC:MTV Hits HD Lat.
+http://ecuaplaytv.com:8000/live/nando/nando/37043.m3u8
+#EXTINF:-1,MUSIC:MTV Live HD Lat.
+http://ecuaplaytv.com:8000/live/nando/nando/37042.m3u8
+#EXTINF:-1,Latinos | TVE
+http://ecuaplaytv.com:8000/live/nando/nando/37021.m3u8
+#EXTINF:-1,MUSIC: VH1 Classic Lat HD
+http://ecuaplaytv.com:8000/live/nando/nando/37018.m3u8
+#EXTINF:-1,MUSIC:VH1
+http://ecuaplaytv.com:8000/live/nando/nando/306.m3u8
+#EXTINF:-1,MUSIC:VH1 CLASSICS
+http://ecuaplaytv.com:8000/live/nando/nando/305.m3u8
+#EXTINF:-1,Musica | VH1 Mega Hits
+http://ecuaplaytv.com:8000/live/nando/nando/235.m3u8
+#EXTINF:-1,MUSIC:MTV HIT.
+http://ecuaplaytv.com:8000/live/nando/nando/311.m3u8
+#EXTINF:-1,MUSIC:MTV Sur
+http://ecuaplaytv.com:8000/live/nando/nando/32561.m3u8
+#EXTINF:-1,MUSIC:MTV
+http://ecuaplaytv.com:8000/live/nando/nando/397.m3u8
+#EXTINF:-1,MUSIC:Hit Tv
+http://ecuaplaytv.com:8000/live/nando/nando/5139.m3u8
+#EXTINF:-1,-------------------------------------DEPORTES LATINOS--------------------------------
+http://ecuaplaytv.com:8000/live/nando/nando/11066.m3u8
+#EXTINF:-1,Deportes| Directv Sports
+http://ecuaplaytv.com:8000/live/nando/nando/41711.m3u8
+#EXTINF:-1,Deportes |  Directv Sports (1080)
+http://ecuaplaytv.com:8000/live/nando/nando/41710.m3u8
+#EXTINF:-1,Deportes | Directv Sports 2  (1080)
+http://ecuaplaytv.com:8000/live/nando/nando/41706.m3u8
+#EXTINF:-1,Deportes | Directv Sports 2.
+http://ecuaplaytv.com:8000/live/nando/nando/41709.m3u8
+#EXTINF:-1,Deportes | Directv Sports 2 (1080).
+http://ecuaplaytv.com:8000/live/nando/nando/41708.m3u8
+#EXTINF:-1,Deportes | Directv Sports.
+http://ecuaplaytv.com:8000/live/nando/nando/41707.m3u8
+#EXTINF:-1,Deportes | ESPN  (1080)
+http://ecuaplaytv.com:8000/live/nando/nando/41728.m3u8
+#EXTINF:-1,Deportes | ESPN (1080).
+http://ecuaplaytv.com:8000/live/nando/nando/41737.m3u8
+#EXTINF:-1,Deportes |  ESPN (1080)
+http://ecuaplaytv.com:8000/live/nando/nando/41739.m3u8
+#EXTINF:-1,Deportes | ESPN (1080)
+http://ecuaplaytv.com:8000/live/nando/nando/41738.m3u8
+#EXTINF:-1,Deportes | ESPN 2.
+http://ecuaplaytv.com:8000/live/nando/nando/41736.m3u8
+#EXTINF:-1,Deportes | ESPN 2   (1080) .
+http://ecuaplaytv.com:8000/live/nando/nando/41733.m3u8
+#EXTINF:-1,Deportes | ESPN 2  (1080)
+http://ecuaplaytv.com:8000/live/nando/nando/41735.m3u8
+#EXTINF:-1,Deportes | ESPN 2  (1080).
+http://ecuaplaytv.com:8000/live/nando/nando/41734.m3u8
+#EXTINF:-1,Deportes |ESPN 3
+http://ecuaplaytv.com:8000/live/nando/nando/41732.m3u8
+#EXTINF:-1,Deportes | Espn 3 (1080)
+http://ecuaplaytv.com:8000/live/nando/nando/41730.m3u8
+#EXTINF:-1,Deportes | Espn 3 (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41729.m3u8
+#EXTINF:-1,Deportes | Fox Sports ARG HD
+http://ecuaplaytv.com:8000/live/nando/nando/42609.m3u8
+#EXTINF:-1,Deportes | Fox Sports 2 ARG (720)
+http://ecuaplaytv.com:8000/live/nando/nando/42608.m3u8
+#EXTINF:-1,Deportes | Fox Sports 3 ARG (720)
+http://ecuaplaytv.com:8000/live/nando/nando/42607.m3u8
+#EXTINF:-1,Deportes | Fox Sports
+http://ecuaplaytv.com:8000/live/nando/nando/41726.m3u8
+#EXTINF:-1,Deportes | Fox Sports (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41724.m3u8
+#EXTINF:-1,Deportes | Fox Sports (1080)
+http://ecuaplaytv.com:8000/live/nando/nando/41723.m3u8
+#EXTINF:-1,Deportes |Fox Sports 2
+http://ecuaplaytv.com:8000/live/nando/nando/41722.m3u8
+#EXTINF:-1,Deportes | Fox Sports 2 (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41720.m3u8
+#EXTINF:-1,Deportes |Fox Sports (1080)
+http://ecuaplaytv.com:8000/live/nando/nando/41719.m3u8
+#EXTINF:-1,Deportes |Fox Sports 3
+http://ecuaplaytv.com:8000/live/nando/nando/41718.m3u8
+#EXTINF:-1,Deportes | Fox Sports 3 (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41716.m3u8
+#EXTINF:-1,Deportes |Fox Sports 3 (1080)
+http://ecuaplaytv.com:8000/live/nando/nando/41715.m3u8
+#EXTINF:-1,Deportes | Cdf Estadio
+http://ecuaplaytv.com:8000/live/nando/nando/41701.m3u8
+#EXTINF:-1,Deportes | Cdf Premium
+http://ecuaplaytv.com:8000/live/nando/nando/41700.m3u8
+#EXTINF:-1,Deportes | Cdo Basico
+http://ecuaplaytv.com:8000/live/nando/nando/41698.m3u8
+#EXTINF:-1,Deportes | Cdo Premium Chile
+http://ecuaplaytv.com:8000/live/nando/nando/41697.m3u8
+#EXTINF:-1,Deportes | Gol Perú
+http://ecuaplaytv.com:8000/live/nando/nando/41705.m3u8
+#EXTINF:-1,Deportes | Golf Channel.
+http://ecuaplaytv.com:8000/live/nando/nando/41692.m3u8
+#EXTINF:-1,Deportes  | Directv Sports Ecuador
+http://ecuaplaytv.com:8000/live/nando/nando/43614.m3u8
+#EXTINF:-1,Deportes | GolTv Ecuador
+http://ecuaplaytv.com:8000/live/nando/nando/41950.m3u8
+#EXTINF:-1,Deportes | Goltv Ecuador (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41696.m3u8
+#EXTINF:-1,Deportes | Goltv Latinoamerica
+http://ecuaplaytv.com:8000/live/nando/nando/41695.m3u8
+#EXTINF:-1,Deportes | Movistar Deportes
+http://ecuaplaytv.com:8000/live/nando/nando/41704.m3u8
+#EXTINF:-1,Deportes | Movistar Deportes 1
+http://ecuaplaytv.com:8000/live/nando/nando/41702.m3u8
+#EXTINF:-1,Deportes | Liga 123
+http://ecuaplaytv.com:8000/live/nando/nando/43644.m3u8
+#EXTINF:-1,Deportes | Movistar Plus
+http://ecuaplaytv.com:8000/live/nando/nando/41703.m3u8
+#EXTINF:-1,Deportes | Tigo Sports
+http://ecuaplaytv.com:8000/live/nando/nando/45198.m3u8
+#EXTINF:-1,Deportes | Tigo Sports (1080)
+http://ecuaplaytv.com:8000/live/nando/nando/45200.m3u8
+#EXTINF:-1,Deportes | Tigo Sports (720)
+http://ecuaplaytv.com:8000/live/nando/nando/45199.m3u8
+#EXTINF:-1,Deportes | Tnt Sports (1080)
+http://ecuaplaytv.com:8000/live/nando/nando/41712.m3u8
+#EXTINF:-1,Deportes | TyC Sports (1080)
+http://ecuaplaytv.com:8000/live/nando/nando/41694.m3u8
+#EXTINF:-1,Deportes | TyC Sports (720.)
+http://ecuaplaytv.com:8000/live/nando/nando/41693.m3u8
+#EXTINF:-1,Deportes | Win Sports
+http://ecuaplaytv.com:8000/live/nando/nando/41714.m3u8
+#EXTINF:-1,-----------------------------------------------MUNDOS-------------------------------------------------
+http://ecuaplaytv.com:8000/live/nando/nando/41897.m3u8
+#EXTINF:-1,Mundos |Animal Planet (1080)
+http://ecuaplaytv.com:8000/live/nando/nando/42099.m3u8
+#EXTINF:-1,Mundos |Azteca Cinema
+http://ecuaplaytv.com:8000/live/nando/nando/41824.m3u8
+#EXTINF:-1,Mundos |Azteca Corazon
+http://ecuaplaytv.com:8000/live/nando/nando/41823.m3u8
+#EXTINF:-1,Mundos |Azteca Plus
+http://ecuaplaytv.com:8000/live/nando/nando/41822.m3u8
+#EXTINF:-1,Mundos |Bbc World News
+http://ecuaplaytv.com:8000/live/nando/nando/41848.m3u8
+#EXTINF:-1,Mundos |Bloomberg
+http://ecuaplaytv.com:8000/live/nando/nando/41849.m3u8
+#EXTINF:-1,Mundos |Canal 26
+http://ecuaplaytv.com:8000/live/nando/nando/41847.m3u8
+#EXTINF:-1,Mundos |Caracol (720)
+http://ecuaplaytv.com:8000/live/nando/nando/42091.m3u8
+#EXTINF:-1,Mundos |Caracol Internacional
+http://ecuaplaytv.com:8000/live/nando/nando/41843.m3u8
+#EXTINF:-1,Mundos |Cable Noticias
+http://ecuaplaytv.com:8000/live/nando/nando/41851.m3u8
+#EXTINF:-1,Mundos | Cnn Chile
+http://ecuaplaytv.com:8000/live/nando/nando/41840.m3u8
+#EXTINF:-1,Mundos |Cnn Español
+http://ecuaplaytv.com:8000/live/nando/nando/41860.m3u8
+#EXTINF:-1,Mundos |Cnn Internacional
+http://ecuaplaytv.com:8000/live/nando/nando/42096.m3u8
+#EXTINF:-1,Mundos |DHE (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41876.m3u8
+#EXTINF:-1,Mundos |DHE (1080)
+http://ecuaplaytv.com:8000/live/nando/nando/41875.m3u8
+#EXTINF:-1,Mundos |Discovery Channel  (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41874.m3u8
+#EXTINF:-1,Mundos |Discovery Channel  (1080)
+http://ecuaplaytv.com:8000/live/nando/nando/41873.m3u8
+#EXTINF:-1,Mundos |Discovery Civilization   (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41872.m3u8
+#EXTINF:-1,Mundos |Discovery Civilization   (1080)
+http://ecuaplaytv.com:8000/live/nando/nando/41871.m3u8
+#EXTINF:-1,Mundos |Discovery Science  (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41870.m3u8
+#EXTINF:-1,Mundos |Discovery Science (1080)
+http://ecuaplaytv.com:8000/live/nando/nando/41869.m3u8
+#EXTINF:-1,Mundos |Discovery Theater   (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41862.m3u8
+#EXTINF:-1,Mundos |Discovery Theater  (1080)
+http://ecuaplaytv.com:8000/live/nando/nando/41861.m3u8
+#EXTINF:-1,Mundos |Discovery Turbo  (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41868.m3u8
+#EXTINF:-1,Mundos |Discovery Turbo (1080)
+http://ecuaplaytv.com:8000/live/nando/nando/41867.m3u8
+#EXTINF:-1,Mundos | Discovery World (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41866.m3u8
+#EXTINF:-1,Mundos |Natgeo Wild
+http://ecuaplaytv.com:8000/live/nando/nando/41881.m3u8
+#EXTINF:-1,Mundos | DW
+http://ecuaplaytv.com:8000/live/nando/nando/41845.m3u8
+#EXTINF:-1,Mundos | DW (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41844.m3u8
+#EXTINF:-1,Mundos | El Trece
+http://ecuaplaytv.com:8000/live/nando/nando/41839.m3u8
+#EXTINF:-1,Mundos | Film&Arts
+http://ecuaplaytv.com:8000/live/nando/nando/41846.m3u8
+#EXTINF:-1,Mundos | Fox News
+http://ecuaplaytv.com:8000/live/nando/nando/41856.m3u8
+#EXTINF:-1,Mundos | Fox News (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41855.m3u8
+#EXTINF:-1,Mundos | Galavision
+http://ecuaplaytv.com:8000/live/nando/nando/41827.m3u8
+#EXTINF:-1,Mundos | Garage TV (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41826.m3u8
+#EXTINF:-1,Mundos | Globovisión
+http://ecuaplaytv.com:8000/live/nando/nando/41852.m3u8
+#EXTINF:-1,Mundos | H2 (1080)
+http://ecuaplaytv.com:8000/live/nando/nando/45196.m3u8
+#EXTINF:-1,Mundos | H2 (720)
+http://ecuaplaytv.com:8000/live/nando/nando/45197.m3u8
+#EXTINF:-1,Mundos | History
+http://ecuaplaytv.com:8000/live/nando/nando/41888.m3u8
+#EXTINF:-1,Mundos | History (1080)
+http://ecuaplaytv.com:8000/live/nando/nando/41864.m3u8
+#EXTINF:-1,Mundos | History (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41887.m3u8
+#EXTINF:-1,Mundos | Panamericana TV (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41836.m3u8
+#EXTINF:-1,Mundos | Panamericana TV
+http://ecuaplaytv.com:8000/live/nando/nando/41835.m3u8
+#EXTINF:-1,Mundos | Paravision
+http://ecuaplaytv.com:8000/live/nando/nando/41834.m3u8
+#EXTINF:-1,Mundos | RCN Novelas
+http://ecuaplaytv.com:8000/live/nando/nando/41837.m3u8
+#EXTINF:-1,Mundos | RCN
+http://ecuaplaytv.com:8000/live/nando/nando/41838.m3u8
+#EXTINF:-1,Mundos | RED GUARANI
+http://ecuaplaytv.com:8000/live/nando/nando/41833.m3u8
+#EXTINF:-1,Mundos | RTPA
+http://ecuaplaytv.com:8000/live/nando/nando/41832.m3u8
+#EXTINF:-1,Mundos | Telesur
+http://ecuaplaytv.com:8000/live/nando/nando/41853.m3u8
+#EXTINF:-1,Mundos | TELEVEN
+http://ecuaplaytv.com:8000/live/nando/nando/41828.m3u8
+#EXTINF:-1,Mundos | TVE
+http://ecuaplaytv.com:8000/live/nando/nando/41879.m3u8
+#EXTINF:-1,Mundos | TVE  (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41878.m3u8
+#EXTINF:-1,Mundos | TVN Chile
+http://ecuaplaytv.com:8000/live/nando/nando/41841.m3u8
+#EXTINF:-1,Mundos | VTV Plus  (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41821.m3u8
+#EXTINF:-1,Mundos | VTV Uruguay (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41820.m3u8
+#EXTINF:-1,Mundos | Venevision
+http://ecuaplaytv.com:8000/live/nando/nando/41830.m3u8
+#EXTINF:-1,Mundos | Venevision Plus
+http://ecuaplaytv.com:8000/live/nando/nando/41829.m3u8
+#EXTINF:-1,Mundos | Bethel
+http://ecuaplaytv.com:8000/live/nando/nando/41896.m3u8
+#EXTINF:-1,Mundos | Bethel (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41895.m3u8
+#EXTINF:-1,Mundos | El Sembrador.
+http://ecuaplaytv.com:8000/live/nando/nando/41894.m3u8
+#EXTINF:-1,Mundos | El Sembrador (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41893.m3u8
+#EXTINF:-1,Mundos | Enlace.
+http://ecuaplaytv.com:8000/live/nando/nando/41892.m3u8
+#EXTINF:-1,Mundos | Enlace (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41891.m3u8
+#EXTINF:-1,Mundos | EWTN
+http://ecuaplaytv.com:8000/live/nando/nando/41890.m3u8
+#EXTINF:-1,Mundos | EWTN (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41889.m3u8
+#EXTINF:-1,Mundos | Maria Vision
+http://ecuaplaytv.com:8000/live/nando/nando/41886.m3u8
+#EXTINF:-1,Mundos | Maria Vision (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41885.m3u8
+#EXTINF:-1,------------------------- Satelite Sur-------------------------
+http://ecuaplaytv.com:8000/live/nando/nando/6756.m3u8
+#EXTINF:-1,Sur | America TV
+http://ecuaplaytv.com:8000/live/nando/nando/32617.m3u8
+#EXTINF:-1,Sur | ATV
+http://ecuaplaytv.com:8000/live/nando/nando/32616.m3u8
+#EXTINF:-1,Sur | AXN
+http://ecuaplaytv.com:8000/live/nando/nando/32615.m3u8
+#EXTINF:-1,Sur | Bang TV
+http://ecuaplaytv.com:8000/live/nando/nando/32614.m3u8
+#EXTINF:-1,Sur | C9N
+http://ecuaplaytv.com:8000/live/nando/nando/32613.m3u8
+#EXTINF:-1,Sur | Canal 13
+http://ecuaplaytv.com:8000/live/nando/nando/32612.m3u8
+#EXTINF:-1,Sur | Canal Claro
+http://ecuaplaytv.com:8000/live/nando/nando/32611.m3u8
+#EXTINF:-1,Sur | Canal J
+http://ecuaplaytv.com:8000/live/nando/nando/32610.m3u8
+#EXTINF:-1,Sur | Canal Uno
+http://ecuaplaytv.com:8000/live/nando/nando/32609.m3u8
+#EXTINF:-1,Sur | Canal Uno TV Ecua
+http://ecuaplaytv.com:8000/live/nando/nando/32608.m3u8
+#EXTINF:-1,Sur | Capital TV
+http://ecuaplaytv.com:8000/live/nando/nando/32607.m3u8
+#EXTINF:-1,Sur | Cartoon Network
+http://ecuaplaytv.com:8000/live/nando/nando/32606.m3u8
+#EXTINF:-1,Sur | CDF Premium
+http://ecuaplaytv.com:8000/live/nando/nando/32605.m3u8
+#EXTINF:-1,Sur | CHV
+http://ecuaplaytv.com:8000/live/nando/nando/32604.m3u8
+#EXTINF:-1,Sur | Cinecanal
+http://ecuaplaytv.com:8000/live/nando/nando/32603.m3u8
+#EXTINF:-1,Sur | Cinema Dinamita
+http://ecuaplaytv.com:8000/live/nando/nando/32602.m3u8
+#EXTINF:-1,Sur | Cinemax
+http://ecuaplaytv.com:8000/live/nando/nando/32601.m3u8
+#EXTINF:-1,Sur | Ciudadano TV
+http://ecuaplaytv.com:8000/live/nando/nando/32600.m3u8
+#EXTINF:-1,Sur | Claro Cinema
+http://ecuaplaytv.com:8000/live/nando/nando/32599.m3u8
+#EXTINF:-1,Sur | Claro Sports
+http://ecuaplaytv.com:8000/live/nando/nando/32597.m3u8
+#EXTINF:-1,Sur | CNN Chile
+http://ecuaplaytv.com:8000/live/nando/nando/32596.m3u8
+#EXTINF:-1,Sur | CNN Espanol
+http://ecuaplaytv.com:8000/live/nando/nando/32595.m3u8
+#EXTINF:-1,Sur | Discovery ID
+http://ecuaplaytv.com:8000/live/nando/nando/32594.m3u8
+#EXTINF:-1,Sur | Discovery Kids
+http://ecuaplaytv.com:8000/live/nando/nando/32593.m3u8
+#EXTINF:-1,Sur | Discovery Turbo
+http://ecuaplaytv.com:8000/live/nando/nando/32592.m3u8
+#EXTINF:-1,Sur | Disney Jr
+http://ecuaplaytv.com:8000/live/nando/nando/32591.m3u8
+#EXTINF:-1,Sur | Disney XD
+http://ecuaplaytv.com:8000/live/nando/nando/32590.m3u8
+#EXTINF:-1,Sur | Ecuavisa
+http://ecuaplaytv.com:8000/live/nando/nando/32588.m3u8
+#EXTINF:-1,Sur | Enlace
+http://ecuaplaytv.com:8000/live/nando/nando/32587.m3u8
+#EXTINF:-1,Sur | EsneTV
+http://ecuaplaytv.com:8000/live/nando/nando/32586.m3u8
+#EXTINF:-1,Sur | ESPN 2
+http://ecuaplaytv.com:8000/live/nando/nando/32585.m3u8
+#EXTINF:-1,Sur | ESPN 3
+http://ecuaplaytv.com:8000/live/nando/nando/32584.m3u8
+#EXTINF:-1,Sur | Fox Channel
+http://ecuaplaytv.com:8000/live/nando/nando/32583.m3u8
+#EXTINF:-1,Sur | Fox Life
+http://ecuaplaytv.com:8000/live/nando/nando/32582.m3u8
+#EXTINF:-1,Sur | Fox P Action
+http://ecuaplaytv.com:8000/live/nando/nando/32581.m3u8
+#EXTINF:-1,Sur | Fox P Movies
+http://ecuaplaytv.com:8000/live/nando/nando/32580.m3u8
+#EXTINF:-1,Sur | Fox P Series
+http://ecuaplaytv.com:8000/live/nando/nando/32579.m3u8
+#EXTINF:-1,Sur | Fox Sports  PY
+http://ecuaplaytv.com:8000/live/nando/nando/32578.m3u8
+#EXTINF:-1,Sur | Fox Sports Premium
+http://ecuaplaytv.com:8000/live/nando/nando/32577.m3u8
+#EXTINF:-1,Sur | Frecuencia Latina
+http://ecuaplaytv.com:8000/live/nando/nando/32576.m3u8
+#EXTINF:-1,Sur | FX
+http://ecuaplaytv.com:8000/live/nando/nando/32575.m3u8
+#EXTINF:-1,Sur | FX Movies
+http://ecuaplaytv.com:8000/live/nando/nando/32574.m3u8
+#EXTINF:-1,Sur | GamaTV
+http://ecuaplaytv.com:8000/live/nando/nando/32573.m3u8
+#EXTINF:-1,Sur | HBO
+http://ecuaplaytv.com:8000/live/nando/nando/32572.m3u8
+#EXTINF:-1,Sur | HBO 2
+http://ecuaplaytv.com:8000/live/nando/nando/32571.m3u8
+#EXTINF:-1,Sur | HBO Family
+http://ecuaplaytv.com:8000/live/nando/nando/32570.m3u8
+#EXTINF:-1,Sur | HBO Plus
+http://ecuaplaytv.com:8000/live/nando/nando/32569.m3u8
+#EXTINF:-1,Sur | History Channel
+http://ecuaplaytv.com:8000/live/nando/nando/32568.m3u8
+#EXTINF:-1,Sur | Home and Health
+http://ecuaplaytv.com:8000/live/nando/nando/32567.m3u8
+#EXTINF:-1,Sur | La Red
+http://ecuaplaytv.com:8000/live/nando/nando/32565.m3u8
+#EXTINF:-1,Sur | La Tele
+http://ecuaplaytv.com:8000/live/nando/nando/32564.m3u8
+#EXTINF:-1,Sur | Max Prime
+http://ecuaplaytv.com:8000/live/nando/nando/32563.m3u8
+#EXTINF:-1,Sur | Mega
+http://ecuaplaytv.com:8000/live/nando/nando/32562.m3u8
+#EXTINF:-1,Sur | Nat Geo
+http://ecuaplaytv.com:8000/live/nando/nando/32560.m3u8
+#EXTINF:-1,Sur | NatGeo Kids
+http://ecuaplaytv.com:8000/live/nando/nando/32559.m3u8
+#EXTINF:-1,Sur | Nick Jr
+http://ecuaplaytv.com:8000/live/nando/nando/32558.m3u8
+#EXTINF:-1,Sur | Nickelodeon
+http://ecuaplaytv.com:8000/live/nando/nando/32557.m3u8
+#EXTINF:-1,Sur | Panamericana TV
+http://ecuaplaytv.com:8000/live/nando/nando/32556.m3u8
+#EXTINF:-1,Sur | Paraguay TV
+http://ecuaplaytv.com:8000/live/nando/nando/32555.m3u8
+#EXTINF:-1,Sur | Paravision
+http://ecuaplaytv.com:8000/live/nando/nando/32554.m3u8
+#EXTINF:-1,Sur | Red Guarani
+http://ecuaplaytv.com:8000/live/nando/nando/32553.m3u8
+#EXTINF:-1,Sur | RPC
+http://ecuaplaytv.com:8000/live/nando/nando/32552.m3u8
+#EXTINF:-1,Sur | RTS
+http://ecuaplaytv.com:8000/live/nando/nando/32551.m3u8
+#EXTINF:-1,Sur | SNT
+http://ecuaplaytv.com:8000/live/nando/nando/32550.m3u8
+#EXTINF:-1,Sur | Sony
+http://ecuaplaytv.com:8000/live/nando/nando/32549.m3u8
+#EXTINF:-1,Sur | Space
+http://ecuaplaytv.com:8000/live/nando/nando/32548.m3u8
+#EXTINF:-1,Sur | Sur TV
+http://ecuaplaytv.com:8000/live/nando/nando/32547.m3u8
+#EXTINF:-1,Sur | SUR I-Sat
+http://ecuaplaytv.com:8000/live/nando/nando/32566.m3u8
+#EXTINF:-1,Sur | TBS
+http://ecuaplaytv.com:8000/live/nando/nando/32546.m3u8
+#EXTINF:-1,Sur | TC Television
+http://ecuaplaytv.com:8000/live/nando/nando/32545.m3u8
+#EXTINF:-1,Sur | TCM
+http://ecuaplaytv.com:8000/live/nando/nando/32544.m3u8
+#EXTINF:-1,Sur | Teleamazonas
+http://ecuaplaytv.com:8000/live/nando/nando/32543.m3u8
+#EXTINF:-1,Sur | Teleantioquia
+http://ecuaplaytv.com:8000/live/nando/nando/32542.m3u8
+#EXTINF:-1,Sur | Telecaribe
+http://ecuaplaytv.com:8000/live/nando/nando/32541.m3u8
+#EXTINF:-1,Sur | Telefe
+http://ecuaplaytv.com:8000/live/nando/nando/32540.m3u8
+#EXTINF:-1,Sur | Telefuturo
+http://ecuaplaytv.com:8000/live/nando/nando/32539.m3u8
+#EXTINF:-1,Sur | Telepacifico
+http://ecuaplaytv.com:8000/live/nando/nando/32538.m3u8
+#EXTINF:-1,Sur | TNT
+http://ecuaplaytv.com:8000/live/nando/nando/32537.m3u8
+#EXTINF:-1,Sur | TVE
+http://ecuaplaytv.com:8000/live/nando/nando/32536.m3u8
+#EXTINF:-1,Sur | TVN
+http://ecuaplaytv.com:8000/live/nando/nando/32535.m3u8
+#EXTINF:-1,Sur | Unicanal
+http://ecuaplaytv.com:8000/live/nando/nando/32534.m3u8
+#EXTINF:-1,Sur | Universal
+http://ecuaplaytv.com:8000/live/nando/nando/32533.m3u8
+#EXTINF:-1,Sur | Win Sport
+http://ecuaplaytv.com:8000/live/nando/nando/32532.m3u8
+#EXTINF:-1,Sur | Zona Latina
+http://ecuaplaytv.com:8000/live/nando/nando/32531.m3u8
+#EXTINF:-1,Sur | Zoom
+http://ecuaplaytv.com:8000/live/nando/nando/32530.m3u8
+#EXTINF:-1,--------------------INFANTILES--------------------
+http://ecuaplaytv.com:8000/live/nando/nando/21003.m3u8
+#EXTINF:-1,Infantiles | Baby Tv
+http://ecuaplaytv.com:8000/live/nando/nando/41773.m3u8
+#EXTINF:-1,Infantiles |Boomerang
+http://ecuaplaytv.com:8000/live/nando/nando/41771.m3u8
+#EXTINF:-1,Infantiles | Boomerang (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41769.m3u8
+#EXTINF:-1,Infantiles |Cartoon Network
+http://ecuaplaytv.com:8000/live/nando/nando/41768.m3u8
+#EXTINF:-1,Infantiles |Cartoon Network  (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41767.m3u8
+#EXTINF:-1,Infantiles |Disney Channel
+http://ecuaplaytv.com:8000/live/nando/nando/41766.m3u8
+#EXTINF:-1,Infantiles |Disney Channel  (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41764.m3u8
+#EXTINF:-1,Infantiles |Disney Channel  (1080)
+http://ecuaplaytv.com:8000/live/nando/nando/41763.m3u8
+#EXTINF:-1,Infantiles | Discovery Kids   (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41754.m3u8
+#EXTINF:-1,Infantiles |Discovery Kids  (1080)
+http://ecuaplaytv.com:8000/live/nando/nando/41753.m3u8
+#EXTINF:-1,Infantiles |Disney Jr
+http://ecuaplaytv.com:8000/live/nando/nando/41762.m3u8
+#EXTINF:-1,Infantiles |Disney Jr  (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41760.m3u8
+#EXTINF:-1,Infantiles |Disney Jr   (1080)
+http://ecuaplaytv.com:8000/live/nando/nando/41759.m3u8
+#EXTINF:-1,Infantiles |Disney XD
+http://ecuaplaytv.com:8000/live/nando/nando/41758.m3u8
+#EXTINF:-1,Infantiles |Disney XD  (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41756.m3u8
+#EXTINF:-1,Infantiles |Disney XD   (1080)
+http://ecuaplaytv.com:8000/live/nando/nando/41755.m3u8
+#EXTINF:-1,Infantiles | Nat Geo Kids
+http://ecuaplaytv.com:8000/live/nando/nando/41751.m3u8
+#EXTINF:-1,Infantiles | Nick
+http://ecuaplaytv.com:8000/live/nando/nando/41747.m3u8
+#EXTINF:-1,Infantiles | Nick Jr.
+http://ecuaplaytv.com:8000/live/nando/nando/41750.m3u8
+#EXTINF:-1,Infantiles | Nick Jr (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41749.m3u8
+#EXTINF:-1,Infantiles | Nicktoons
+http://ecuaplaytv.com:8000/live/nando/nando/41746.m3u8
+#EXTINF:-1,Infantiles | Nicktoons (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41745.m3u8
+#EXTINF:-1,Infantiles | Tooncast.
+http://ecuaplaytv.com:8000/live/nando/nando/41744.m3u8
+#EXTINF:-1,Infantiles | Tooncast (720).
+http://ecuaplaytv.com:8000/live/nando/nando/41743.m3u8
+#EXTINF:-1,Mundos | ZooMoo (1080)
+http://ecuaplaytv.com:8000/live/nando/nando/41742.m3u8
+#EXTINF:-1,------------------------------------------CINE--------------------------------------------
+http://ecuaplaytv.com:8000/live/nando/nando/11078.m3u8
+#EXTINF:-1,Cine | Fox Series
+http://ecuaplaytv.com:8000/live/nando/nando/41660.m3u8
+#EXTINF:-1,Cine | Fox Series (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41658.m3u8
+#EXTINF:-1,Cine |Fox Series (1080)
+http://ecuaplaytv.com:8000/live/nando/nando/41657.m3u8
+#EXTINF:-1,Cine | Fox Action
+http://ecuaplaytv.com:8000/live/nando/nando/41679.m3u8
+#EXTINF:-1,Cine |Fox Action  (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41677.m3u8
+#EXTINF:-1,Cine |Fox Action  (1080)
+http://ecuaplaytv.com:8000/live/nando/nando/41676.m3u8
+#EXTINF:-1,Cine |Fox Cinema
+http://ecuaplaytv.com:8000/live/nando/nando/41675.m3u8
+#EXTINF:-1,Cine |Fox Cinema (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41673.m3u8
+#EXTINF:-1,Cine |Fox Cinema  (1080)
+http://ecuaplaytv.com:8000/live/nando/nando/41672.m3u8
+#EXTINF:-1,Cine |Fox Classic  (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41669.m3u8
+#EXTINF:-1,Cine |Fox Classic  (1080)
+http://ecuaplaytv.com:8000/live/nando/nando/41668.m3u8
+#EXTINF:-1,Cine |Fox Comedy
+http://ecuaplaytv.com:8000/live/nando/nando/41671.m3u8
+#EXTINF:-1,Cine |Fox Family
+http://ecuaplaytv.com:8000/live/nando/nando/41667.m3u8
+#EXTINF:-1,Cine |Fox Family  (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41665.m3u8
+#EXTINF:-1,Cine |Fox Family  (1080)
+http://ecuaplaytv.com:8000/live/nando/nando/41664.m3u8
+#EXTINF:-1,Cine |Fox Movie
+http://ecuaplaytv.com:8000/live/nando/nando/41663.m3u8
+#EXTINF:-1,Cine |Fox Movie  (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41661.m3u8
+#EXTINF:-1,Cine | FX (1080)
+http://ecuaplaytv.com:8000/live/nando/nando/45191.m3u8
+#EXTINF:-1,Cine | FX (640)
+http://ecuaplaytv.com:8000/live/nando/nando/45190.m3u8
+#EXTINF:-1,Cine | FX (720)
+http://ecuaplaytv.com:8000/live/nando/nando/45192.m3u8
+#EXTINF:-1,Cine | Fox Channel (640)
+http://ecuaplaytv.com:8000/live/nando/nando/45195.m3u8
+#EXTINF:-1,Cine | Fox Channel (720)
+http://ecuaplaytv.com:8000/live/nando/nando/45194.m3u8
+#EXTINF:-1,Cine | Fox Channel (1080)
+http://ecuaplaytv.com:8000/live/nando/nando/45193.m3u8
+#EXTINF:-1,Cine |TNT
+http://ecuaplaytv.com:8000/live/nando/nando/41813.m3u8
+#EXTINF:-1,Cine |TNT (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41608.m3u8
+#EXTINF:-1,Cine |TNT  (1080)
+http://ecuaplaytv.com:8000/live/nando/nando/41607.m3u8
+#EXTINF:-1,Cine | Golden
+http://ecuaplaytv.com:8000/live/nando/nando/41648.m3u8
+#EXTINF:-1,Cine |TCM
+http://ecuaplaytv.com:8000/live/nando/nando/41606.m3u8
+#EXTINF:-1,Cine |Cinecanal
+http://ecuaplaytv.com:8000/live/nando/nando/41688.m3u8
+#EXTINF:-1,Cine |Cinecanal  (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41686.m3u8
+#EXTINF:-1,Cine |Cinecanal (1080)
+http://ecuaplaytv.com:8000/live/nando/nando/41685.m3u8
+#EXTINF:-1,Cine |Studio Universal
+http://ecuaplaytv.com:8000/live/nando/nando/41621.m3u8
+#EXTINF:-1,Cine |Studio Universal  (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41619.m3u8
+#EXTINF:-1,Cine |Studio Universal  (1080)
+http://ecuaplaytv.com:8000/live/nando/nando/41618.m3u8
+#EXTINF:-1,Cine |Cinemax
+http://ecuaplaytv.com:8000/live/nando/nando/41684.m3u8
+#EXTINF:-1,Cine |Paramount
+http://ecuaplaytv.com:8000/live/nando/nando/41814.m3u8
+#EXTINF:-1,Cine |Paramount  (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41614.m3u8
+#EXTINF:-1,Cine |Paramount   (1080)
+http://ecuaplaytv.com:8000/live/nando/nando/41613.m3u8
+#EXTINF:-1,Cine |Cinelatino
+http://ecuaplaytv.com:8000/live/nando/nando/41817.m3u8
+#EXTINF:-1,Cine |De pelicula
+http://ecuaplaytv.com:8000/live/nando/nando/41681.m3u8
+#EXTINF:-1,Cine |Golden Edge
+http://ecuaplaytv.com:8000/live/nando/nando/41818.m3u8
+#EXTINF:-1,Cine |Golden Plus
+http://ecuaplaytv.com:8000/live/nando/nando/41819.m3u8
+#EXTINF:-1,Cine |HBO
+http://ecuaplaytv.com:8000/live/nando/nando/41636.m3u8
+#EXTINF:-1,Cine |HBO  (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41922.m3u8
+#EXTINF:-1,Cine |HBO 2
+http://ecuaplaytv.com:8000/live/nando/nando/41644.m3u8
+#EXTINF:-1,Cine | HBO 2 (1080)
+http://ecuaplaytv.com:8000/live/nando/nando/41923.m3u8
+#EXTINF:-1,Cine |HBO FAMILY
+http://ecuaplaytv.com:8000/live/nando/nando/41642.m3u8
+#EXTINF:-1,Cine |  HBO Plus .
+http://ecuaplaytv.com:8000/live/nando/nando/41640.m3u8
+#EXTINF:-1,Cine | HBO Plus (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41639.m3u8
+#EXTINF:-1,Cine | HBO Signature.
+http://ecuaplaytv.com:8000/live/nando/nando/41638.m3u8
+#EXTINF:-1,Cine | HBO Signature (720.)
+http://ecuaplaytv.com:8000/live/nando/nando/41637.m3u8
+#EXTINF:-1,Cine | Max (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41629.m3u8
+#EXTINF:-1,Cine | Max Prime
+http://ecuaplaytv.com:8000/live/nando/nando/41632.m3u8
+#EXTINF:-1,Cine | Max Prime (720.)
+http://ecuaplaytv.com:8000/live/nando/nando/41631.m3u8
+#EXTINF:-1,Cine | Space (1080).
+http://ecuaplaytv.com:8000/live/nando/nando/41623.m3u8
+#EXTINF:-1,Cine | Space (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41624.m3u8
+#EXTINF:-1,Cine | Space
+http://ecuaplaytv.com:8000/live/nando/nando/41625.m3u8
+#EXTINF:-1,Cine | I.Sat
+http://ecuaplaytv.com:8000/live/nando/nando/41634.m3u8
+#EXTINF:-1,Cine | I.Sat (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41633.m3u8
+#EXTINF:-1,Cine | H2
+http://ecuaplaytv.com:8000/live/nando/nando/41646.m3u8
+#EXTINF:-1,Cine | H2 (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41645.m3u8
+#EXTINF:-1,--------------COLOMBIA---------------
+http://ecuaplaytv.com:8000/live/nando/nando/20858.m3u8
+#EXTINF:-1,Colombia | Cable Noticias
+http://ecuaplaytv.com:8000/live/nando/nando/42586.m3u8
+#EXTINF:-1,Colombia | Canal Uno
+http://ecuaplaytv.com:8000/live/nando/nando/42593.m3u8
+#EXTINF:-1,Colombia | Canal Uno HD
+http://ecuaplaytv.com:8000/live/nando/nando/42594.m3u8
+#EXTINF:-1,Colombia | Canal Waw
+http://ecuaplaytv.com:8000/live/nando/nando/42577.m3u8
+#EXTINF:-1,Colombia | Caracol HD
+http://ecuaplaytv.com:8000/live/nando/nando/42595.m3u8
+#EXTINF:-1,Colombia | Caracol Internacional
+http://ecuaplaytv.com:8000/live/nando/nando/42597.m3u8
+#EXTINF:-1,Colombia | Caracol Nacional
+http://ecuaplaytv.com:8000/live/nando/nando/42596.m3u8
+#EXTINF:-1,Colombia | City Tv
+http://ecuaplaytv.com:8000/live/nando/nando/42575.m3u8
+#EXTINF:-1,Colombia | CristovisiOn
+http://ecuaplaytv.com:8000/live/nando/nando/42585.m3u8
+#EXTINF:-1,Colombia | RCN
+http://ecuaplaytv.com:8000/live/nando/nando/42591.m3u8
+#EXTINF:-1,Colombia | RCN HD
+http://ecuaplaytv.com:8000/live/nando/nando/42592.m3u8
+#EXTINF:-1,Colombia | RCN Novelas
+http://ecuaplaytv.com:8000/live/nando/nando/42589.m3u8
+#EXTINF:-1,Colombia | RCN Novelas_HD
+http://ecuaplaytv.com:8000/live/nando/nando/42590.m3u8
+#EXTINF:-1,Colombia | Rendy Musica
+http://ecuaplaytv.com:8000/live/nando/nando/42569.m3u8
+#EXTINF:-1,Colombia | Techo Pistacho
+http://ecuaplaytv.com:8000/live/nando/nando/42578.m3u8
+#EXTINF:-1,Colombia | Tele Isla
+http://ecuaplaytv.com:8000/live/nando/nando/42572.m3u8
+#EXTINF:-1,Colombia | Tele Vida
+http://ecuaplaytv.com:8000/live/nando/nando/42573.m3u8
+#EXTINF:-1,Colombia | TeleAntoquia
+http://ecuaplaytv.com:8000/live/nando/nando/42571.m3u8
+#EXTINF:-1,Colombia | Telecafe
+http://ecuaplaytv.com:8000/live/nando/nando/42570.m3u8
+#EXTINF:-1,Colombia | TeleCaribe HD
+http://ecuaplaytv.com:8000/live/nando/nando/42582.m3u8
+#EXTINF:-1,Colombia | Telemedellin
+http://ecuaplaytv.com:8000/live/nando/nando/42583.m3u8
+#EXTINF:-1,Colombia | Telepacifico
+http://ecuaplaytv.com:8000/live/nando/nando/42580.m3u8
+#EXTINF:-1,Colombia | TelePacifico HD
+http://ecuaplaytv.com:8000/live/nando/nando/42581.m3u8
+#EXTINF:-1,Colombia | Tv Agro
+http://ecuaplaytv.com:8000/live/nando/nando/42574.m3u8
+#EXTINF:-1,Colombia | Vallenato
+http://ecuaplaytv.com:8000/live/nando/nando/42567.m3u8
+#EXTINF:-1,Colombia | Win Sports
+http://ecuaplaytv.com:8000/live/nando/nando/42566.m3u8
+#EXTINF:-1,Colombia | Win Sports HD
+http://ecuaplaytv.com:8000/live/nando/nando/42564.m3u8
+#EXTINF:-1,Colombia | Win Sports(Opc.1)
+http://ecuaplaytv.com:8000/live/nando/nando/42565.m3u8
+#EXTINF:-1,Colombia | Claro Music
+http://ecuaplaytv.com:8000/live/nando/nando/38313.m3u8
+#EXTINF:-1,---------------VARIEDADES---------------
+http://ecuaplaytv.com:8000/live/nando/nando/17572.m3u8
+#EXTINF:-1,Variedades | Fox Channel
+http://ecuaplaytv.com:8000/live/nando/nando/41812.m3u8
+#EXTINF:-1,Variedades | Fox Life
+http://ecuaplaytv.com:8000/live/nando/nando/41656.m3u8
+#EXTINF:-1,Variedades | FXM
+http://ecuaplaytv.com:8000/live/nando/nando/41654.m3u8
+#EXTINF:-1,Variedades | FXM (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41652.m3u8
+#EXTINF:-1,Variedades | FXM  (1080).
+http://ecuaplaytv.com:8000/live/nando/nando/41651.m3u8
+#EXTINF:-1,Variedades | A3 Series
+http://ecuaplaytv.com:8000/live/nando/nando/41807.m3u8
+#EXTINF:-1,Variedades |A&E
+http://ecuaplaytv.com:8000/live/nando/nando/41594.m3u8
+#EXTINF:-1,Variedades | AMC
+http://ecuaplaytv.com:8000/live/nando/nando/41809.m3u8
+#EXTINF:-1,Variedades | AXN
+http://ecuaplaytv.com:8000/live/nando/nando/41596.m3u8
+#EXTINF:-1,Variedades | AXN (1080)
+http://ecuaplaytv.com:8000/live/nando/nando/41689.m3u8
+#EXTINF:-1,Variedades | Canal de las estrellas
+http://ecuaplaytv.com:8000/live/nando/nando/41790.m3u8
+#EXTINF:-1,Variedades | Comedy Central
+http://ecuaplaytv.com:8000/live/nando/nando/41806.m3u8
+#EXTINF:-1,Variedades | Comedy Central (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41805.m3u8
+#EXTINF:-1,Variedades | Comedy Central (1080).
+http://ecuaplaytv.com:8000/live/nando/nando/41804.m3u8
+#EXTINF:-1,Variedades | Discovery Home and Healt
+http://ecuaplaytv.com:8000/live/nando/nando/41785.m3u8
+#EXTINF:-1,Variedades | Discovery Home and Healt  (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41784.m3u8
+#EXTINF:-1,Variedades | Discovery Home and Healt (1080).
+http://ecuaplaytv.com:8000/live/nando/nando/41783.m3u8
+#EXTINF:-1,Variedades | Discovery Id
+http://ecuaplaytv.com:8000/live/nando/nando/41796.m3u8
+#EXTINF:-1,Variedades | Discovery Id  (1080).
+http://ecuaplaytv.com:8000/live/nando/nando/41794.m3u8
+#EXTINF:-1,Variedades | Discovery (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41795.m3u8
+#EXTINF:-1,Variedades | E entertaiments
+http://ecuaplaytv.com:8000/live/nando/nando/41798.m3u8
+#EXTINF:-1,Variedades | Sony
+http://ecuaplaytv.com:8000/live/nando/nando/41810.m3u8
+#EXTINF:-1,Variedades | Sony (1080)
+http://ecuaplaytv.com:8000/live/nando/nando/41627.m3u8
+#EXTINF:-1,Variedades | Sony (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41628.m3u8
+#EXTINF:-1,Variedades | Food Network
+http://ecuaplaytv.com:8000/live/nando/nando/41777.m3u8
+#EXTINF:-1,Variedades | Glitz
+http://ecuaplaytv.com:8000/live/nando/nando/41650.m3u8
+#EXTINF:-1,Variedades | Glitz  (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41649.m3u8
+#EXTINF:-1,Variedades | ¡Hola! TV
+http://ecuaplaytv.com:8000/live/nando/nando/41800.m3u8
+#EXTINF:-1,Variedades | ¡Hola! TV (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41799.m3u8
+#EXTINF:-1,Variedades | Lifetime.
+http://ecuaplaytv.com:8000/live/nando/nando/41787.m3u8
+#EXTINF:-1,Variedades | Lifetime (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41786.m3u8
+#EXTINF:-1,Variedad | Más Chic
+http://ecuaplaytv.com:8000/live/nando/nando/41782.m3u8
+#EXTINF:-1,Variedad | Más Chic (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41781.m3u8
+#EXTINF:-1,Variedades | Pasiones (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41793.m3u8
+#EXTINF:-1,Variedades | Pasiones (1080).
+http://ecuaplaytv.com:8000/live/nando/nando/41792.m3u8
+#EXTINF:-1,Variedades | Syfy.
+http://ecuaplaytv.com:8000/live/nando/nando/41803.m3u8
+#EXTINF:-1,Variedades | Syfy (1080)
+http://ecuaplaytv.com:8000/live/nando/nando/41616.m3u8
+#EXTINF:-1,Variedades | Syfy (720).
+http://ecuaplaytv.com:8000/live/nando/nando/41617.m3u8
+#EXTINF:-1,Variedades | TBS
+http://ecuaplaytv.com:8000/live/nando/nando/41612.m3u8
+#EXTINF:-1,Variedades | TBS (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41611.m3u8
+#EXTINF:-1,Variedades | Telemundo INTERNACIONAL
+http://ecuaplaytv.com:8000/live/nando/nando/41780.m3u8
+#EXTINF:-1,Variedades | Telenovelas.
+http://ecuaplaytv.com:8000/live/nando/nando/41789.m3u8
+#EXTINF:-1,Variedades | Telenovelas (720).
+http://ecuaplaytv.com:8000/live/nando/nando/41788.m3u8
+#EXTINF:-1,Variedades | TLC.
+http://ecuaplaytv.com:8000/live/nando/nando/41776.m3u8
+#EXTINF:-1,Variedades | TLC (1080).
+http://ecuaplaytv.com:8000/live/nando/nando/41775.m3u8
+#EXTINF:-1,Variedades | TNT Series (1080)
+http://ecuaplaytv.com:8000/live/nando/nando/41610.m3u8
+#EXTINF:-1,Variedades | TNT Series (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41808.m3u8
+#EXTINF:-1,Variedades | Universal Channel (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41603.m3u8
+#EXTINF:-1,Variedades | Universal Channel (1080)
+http://ecuaplaytv.com:8000/live/nando/nando/41602.m3u8
+#EXTINF:-1,Variedades | Warner Channel (1080)
+http://ecuaplaytv.com:8000/live/nando/nando/41599.m3u8
+#EXTINF:-1,Variedades | Warner Channel (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41600.m3u8
+#EXTINF:-1,Variedades | Warner Channel
+http://ecuaplaytv.com:8000/live/nando/nando/41601.m3u8
+#EXTINF:-1,Variedades | Wobi
+http://ecuaplaytv.com:8000/live/nando/nando/45188.m3u8
+#EXTINF:-1,Variedades | Wobi (640)
+http://ecuaplaytv.com:8000/live/nando/nando/45189.m3u8
+#EXTINF:-1,Variedades | TruTV
+http://ecuaplaytv.com:8000/live/nando/nando/41802.m3u8
+#EXTINF:-1,Variedades | TruTV (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41801.m3u8
+#EXTINF:-1,Variedades | El Gourmet
+http://ecuaplaytv.com:8000/live/nando/nando/41779.m3u8
+#EXTINF:-1,Variedades | El Gourmet (720)
+http://ecuaplaytv.com:8000/live/nando/nando/41778.m3u8
+#EXTINF:-1,Bolivia | Tv Deportes
+http://ecuaplaytv.com:8000/live/nando/nando/43612.m3u8
+#EXTINF:-1,Bolivia | ATB
+http://ecuaplaytv.com:8000/live/nando/nando/43590.m3u8
+#EXTINF:-1,Bolivia | Bolivision
+http://ecuaplaytv.com:8000/live/nando/nando/43599.m3u8
+#EXTINF:-1,Bolivia | Bolivia TV en VIVO
+http://ecuaplaytv.com:8000/live/nando/nando/43589.m3u8
+#EXTINF:-1,Bolivia | Canal 7 Bolivia TV
+http://ecuaplaytv.com:8000/live/nando/nando/43608.m3u8
+#EXTINF:-1,Bolivia | Ebo TV
+http://ecuaplaytv.com:8000/live/nando/nando/43607.m3u8
+#EXTINF:-1,Bolivia | Gigavision
+http://ecuaplaytv.com:8000/live/nando/nando/43606.m3u8
+#EXTINF:-1,Bolivia | Mega TV
+http://ecuaplaytv.com:8000/live/nando/nando/43605.m3u8
+#EXTINF:-1,Bolivia | Pat
+http://ecuaplaytv.com:8000/live/nando/nando/43586.m3u8
+#EXTINF:-1,Bolivia | Rec Online
+http://ecuaplaytv.com:8000/live/nando/nando/43603.m3u8
+#EXTINF:-1,Bolivia | RTP
+http://ecuaplaytv.com:8000/live/nando/nando/43600.m3u8
+#EXTINF:-1,Bolivia | Tigo Sports
+http://ecuaplaytv.com:8000/live/nando/nando/43597.m3u8
+#EXTINF:-1,Bolivia | Tigo Sports 2
+http://ecuaplaytv.com:8000/live/nando/nando/43596.m3u8
+#EXTINF:-1,Bolivia | Travel
+http://ecuaplaytv.com:8000/live/nando/nando/43595.m3u8
+#EXTINF:-1,Bolivia | TV Latina Canal 42
+http://ecuaplaytv.com:8000/live/nando/nando/43594.m3u8
+#EXTINF:-1,Bolivia | Unitel
+http://ecuaplaytv.com:8000/live/nando/nando/43592.m3u8
+#EXTINF:-1,Bolivia | TV U
+http://ecuaplaytv.com:8000/live/nando/nando/43593.m3u8
+#EXTINF:-1,---------------------------Varios/Centro America-----------------------
+http://ecuaplaytv.com:8000/live/nando/nando/33089.m3u8
+#EXTINF:-1,Costa Rica | Canal Tico 11
+http://ecuaplaytv.com:8000/live/nando/nando/309.m3u8
+#EXTINF:-1,Costa Rica | Canal Tico 5
+http://ecuaplaytv.com:8000/live/nando/nando/308.m3u8
+#EXTINF:-1,Costa Rica | Canal Tico 6
+http://ecuaplaytv.com:8000/live/nando/nando/307.m3u8
+#EXTINF:-1,Costa Rica | Canal Tico 7
+http://ecuaplaytv.com:8000/live/nando/nando/385.m3u8
+#EXTINF:-1,Puerto Rico |WAPA SD
+http://ecuaplaytv.com:8000/live/nando/nando/321.m3u8
+#EXTINF:-1,Panama | TVN
+http://ecuaplaytv.com:8000/live/nando/nando/200.m3u8
+#EXTINF:-1,-----------------------Espana----------------------------
+http://ecuaplaytv.com:8000/live/nando/nando/11797.m3u8
+#EXTINF:-1,España | AMC
+http://ecuaplaytv.com:8000/live/nando/nando/37855.m3u8
+#EXTINF:-1,España | Andalucia
+http://ecuaplaytv.com:8000/live/nando/nando/37847.m3u8
+#EXTINF:-1,España |Antena 3 (720)
+http://ecuaplaytv.com:8000/live/nando/nando/37933.m3u8
+#EXTINF:-1,España |AXN
+http://ecuaplaytv.com:8000/live/nando/nando/37932.m3u8
+#EXTINF:-1,España | AXN White (720)
+http://ecuaplaytv.com:8000/live/nando/nando/37931.m3u8
+#EXTINF:-1,España |Baby TV
+http://ecuaplaytv.com:8000/live/nando/nando/37930.m3u8
+#EXTINF:-1,España | Barca TV
+http://ecuaplaytv.com:8000/live/nando/nando/37854.m3u8
+#EXTINF:-1,España |Bein La liga Tv1
+http://ecuaplaytv.com:8000/live/nando/nando/37846.m3u8
+#EXTINF:-1,España | Bein La liga Tv2
+http://ecuaplaytv.com:8000/live/nando/nando/37845.m3u8
+#EXTINF:-1,España |Bein La liga Tv3
+http://ecuaplaytv.com:8000/live/nando/nando/37844.m3u8
+#EXTINF:-1,España |Bein LaLiga
+http://ecuaplaytv.com:8000/live/nando/nando/37929.m3u8
+#EXTINF:-1,España |Bein Max 1 (720)
+http://ecuaplaytv.com:8000/live/nando/nando/37843.m3u8
+#EXTINF:-1,España |Bein Max 2 (720)
+http://ecuaplaytv.com:8000/live/nando/nando/37842.m3u8
+#EXTINF:-1,España | Liga de Campeones
+http://ecuaplaytv.com:8000/live/nando/nando/37928.m3u8
+#EXTINF:-1,España |Bein Sports (720)
+http://ecuaplaytv.com:8000/live/nando/nando/37927.m3u8
+#EXTINF:-1,España | Bein Sports La Liga (720)
+http://ecuaplaytv.com:8000/live/nando/nando/37926.m3u8
+#EXTINF:-1,España |Boing
+http://ecuaplaytv.com:8000/live/nando/nando/37925.m3u8
+#EXTINF:-1,España | Calle 13 (720)
+http://ecuaplaytv.com:8000/live/nando/nando/37924.m3u8
+#EXTINF:-1,España |Canal  TeleDeporte
+http://ecuaplaytv.com:8000/live/nando/nando/37923.m3u8
+#EXTINF:-1,España | Canal Cocina
+http://ecuaplaytv.com:8000/live/nando/nando/37922.m3u8
+#EXTINF:-1,España |Canal DeCasa
+http://ecuaplaytv.com:8000/live/nando/nando/37921.m3u8
+#EXTINF:-1,España | Canal Orbe 21
+http://ecuaplaytv.com:8000/live/nando/nando/37841.m3u8
+#EXTINF:-1,España |Canal Panda
+http://ecuaplaytv.com:8000/live/nando/nando/37840.m3u8
+#EXTINF:-1,España |Clan Tve
+http://ecuaplaytv.com:8000/live/nando/nando/37839.m3u8
+#EXTINF:-1,España |Comedy Central
+http://ecuaplaytv.com:8000/live/nando/nando/37919.m3u8
+#EXTINF:-1,España |Cosmo (720)
+http://ecuaplaytv.com:8000/live/nando/nando/37918.m3u8
+#EXTINF:-1,España | Crimen y Investigation
+http://ecuaplaytv.com:8000/live/nando/nando/37917.m3u8
+#EXTINF:-1,España |Cuatro (720)
+http://ecuaplaytv.com:8000/live/nando/nando/37916.m3u8
+#EXTINF:-1,España | Disney Channel
+http://ecuaplaytv.com:8000/live/nando/nando/37915.m3u8
+#EXTINF:-1,España | Disney Junior
+http://ecuaplaytv.com:8000/live/nando/nando/37914.m3u8
+#EXTINF:-1,España |Disney XD
+http://ecuaplaytv.com:8000/live/nando/nando/37913.m3u8
+#EXTINF:-1,España | Divinity
+http://ecuaplaytv.com:8000/live/nando/nando/37852.m3u8
+#EXTINF:-1,España | Energy
+http://ecuaplaytv.com:8000/live/nando/nando/37912.m3u8
+#EXTINF:-1,España |Eurosport
+http://ecuaplaytv.com:8000/live/nando/nando/37911.m3u8
+#EXTINF:-1,España | FDF
+http://ecuaplaytv.com:8000/live/nando/nando/37851.m3u8
+#EXTINF:-1,España | FOX
+http://ecuaplaytv.com:8000/live/nando/nando/37910.m3u8
+#EXTINF:-1,España | Fox Life
+http://ecuaplaytv.com:8000/live/nando/nando/37909.m3u8
+#EXTINF:-1,España | Fox Life (720)
+http://ecuaplaytv.com:8000/live/nando/nando/37908.m3u8
+#EXTINF:-1,España | Galicia TV
+http://ecuaplaytv.com:8000/live/nando/nando/37850.m3u8
+#EXTINF:-1,España | Gol Tv (720)
+http://ecuaplaytv.com:8000/live/nando/nando/37907.m3u8
+#EXTINF:-1,España | Historia
+http://ecuaplaytv.com:8000/live/nando/nando/37906.m3u8
+#EXTINF:-1,España | Hollywood (720)
+http://ecuaplaytv.com:8000/live/nando/nando/37905.m3u8
+#EXTINF:-1,España | Iberalia TV
+http://ecuaplaytv.com:8000/live/nando/nando/37849.m3u8
+#EXTINF:-1,España | La Liga Tv Bar
+http://ecuaplaytv.com:8000/live/nando/nando/37838.m3u8
+#EXTINF:-1,España | La Liga Tv (720)
+http://ecuaplaytv.com:8000/live/nando/nando/37904.m3u8
+#EXTINF:-1,España | La sexta (720)
+http://ecuaplaytv.com:8000/live/nando/nando/37903.m3u8
+#EXTINF:-1,España | LA 1 (720)
+http://ecuaplaytv.com:8000/live/nando/nando/37837.m3u8
+#EXTINF:-1,España |La 2
+http://ecuaplaytv.com:8000/live/nando/nando/37836.m3u8
+#EXTINF:-1,España |M DEPORTES 1 (720)
+http://ecuaplaytv.com:8000/live/nando/nando/37902.m3u8
+#EXTINF:-1,España |M Deportes  (720)
+http://ecuaplaytv.com:8000/live/nando/nando/37901.m3u8
+#EXTINF:-1,España |M Formula 1 (720)
+http://ecuaplaytv.com:8000/live/nando/nando/37900.m3u8
+#EXTINF:-1,España |M Futbol (720)
+http://ecuaplaytv.com:8000/live/nando/nando/37899.m3u8
+#EXTINF:-1,España |M Golf (720)
+http://ecuaplaytv.com:8000/live/nando/nando/37898.m3u8
+#EXTINF:-1,España |M Moto Gp (720)
+http://ecuaplaytv.com:8000/live/nando/nando/37897.m3u8
+#EXTINF:-1,España |Mega
+http://ecuaplaytv.com:8000/live/nando/nando/37896.m3u8
+#EXTINF:-1,España |Mezzo
+http://ecuaplaytv.com:8000/live/nando/nando/37835.m3u8
+#EXTINF:-1,España |Movistar Accion
+http://ecuaplaytv.com:8000/live/nando/nando/37895.m3u8
+#EXTINF:-1,España |Movistar Comedia (720)
+http://ecuaplaytv.com:8000/live/nando/nando/37894.m3u8
+#EXTINF:-1,España |Movistar DCine
+http://ecuaplaytv.com:8000/live/nando/nando/37893.m3u8
+#EXTINF:-1,España |Movistar Estrenos
+http://ecuaplaytv.com:8000/live/nando/nando/37892.m3u8
+#EXTINF:-1,Españs |Movistar F1
+http://ecuaplaytv.com:8000/live/nando/nando/37891.m3u8
+#EXTINF:-1,España |Movistar MotoGP
+http://ecuaplaytv.com:8000/live/nando/nando/37890.m3u8
+#EXTINF:-1,España |Movistar Series
+http://ecuaplaytv.com:8000/live/nando/nando/37889.m3u8
+#EXTINF:-1,España |Movistar Series Xtra
+http://ecuaplaytv.com:8000/live/nando/nando/37888.m3u8
+#EXTINF:-1,España |Movistar SeriSP Xtra
+http://ecuaplaytv.com:8000/live/nando/nando/37887.m3u8
+#EXTINF:-1,España |Movistar Xtra
+http://ecuaplaytv.com:8000/live/nando/nando/37886.m3u8
+#EXTINF:-1,España | Movistar Estrenos
+http://ecuaplaytv.com:8000/live/nando/nando/37885.m3u8
+#EXTINF:-1,España |MTV
+http://ecuaplaytv.com:8000/live/nando/nando/37883.m3u8
+#EXTINF:-1,España |MTV espana
+http://ecuaplaytv.com:8000/live/nando/nando/37884.m3u8
+#EXTINF:-1,España |MULTIDEPORTES 1
+http://ecuaplaytv.com:8000/live/nando/nando/37834.m3u8
+#EXTINF:-1,España |Multideportes 2
+http://ecuaplaytv.com:8000/live/nando/nando/37833.m3u8
+#EXTINF:-1,España |Multideportes 3
+http://ecuaplaytv.com:8000/live/nando/nando/37832.m3u8
+#EXTINF:-1,España |Multifutbol 1
+http://ecuaplaytv.com:8000/live/nando/nando/37831.m3u8
+#EXTINF:-1,España |Multifutbol 2
+http://ecuaplaytv.com:8000/live/nando/nando/37830.m3u8
+#EXTINF:-1,España |Multifutbol 3
+http://ecuaplaytv.com:8000/live/nando/nando/37829.m3u8
+#EXTINF:-1,España |Nat Geo Wild
+http://ecuaplaytv.com:8000/live/nando/nando/37882.m3u8
+#EXTINF:-1,España |National Geographic
+http://ecuaplaytv.com:8000/live/nando/nando/37881.m3u8
+#EXTINF:-1,España |Neox TV
+http://ecuaplaytv.com:8000/live/nando/nando/37880.m3u8
+#EXTINF:-1,España |Nick JR
+http://ecuaplaytv.com:8000/live/nando/nando/37920.m3u8
+#EXTINF:-1,España |Nickelodeon (720)
+http://ecuaplaytv.com:8000/live/nando/nando/37879.m3u8
+#EXTINF:-1,España |NON STOP PEOPLE
+http://ecuaplaytv.com:8000/live/nando/nando/37828.m3u8
+#EXTINF:-1,España |Nova
+http://ecuaplaytv.com:8000/live/nando/nando/37878.m3u8
+#EXTINF:-1,España |Odisea TV
+http://ecuaplaytv.com:8000/live/nando/nando/37877.m3u8
+#EXTINF:-1,España |Paramount Channel
+http://ecuaplaytv.com:8000/live/nando/nando/37876.m3u8
+#EXTINF:-1,España |Real Madrid  tv
+http://ecuaplaytv.com:8000/live/nando/nando/37853.m3u8
+#EXTINF:-1,España |Real Madrid TV
+http://ecuaplaytv.com:8000/live/nando/nando/37875.m3u8
+#EXTINF:-1,España |RTVA
+http://ecuaplaytv.com:8000/live/nando/nando/37874.m3u8
+#EXTINF:-1,España |SYFY
+http://ecuaplaytv.com:8000/live/nando/nando/37873.m3u8
+#EXTINF:-1,España |Taquilla 1
+http://ecuaplaytv.com:8000/live/nando/nando/37872.m3u8
+#EXTINF:-1,España |Taquilla 10
+http://ecuaplaytv.com:8000/live/nando/nando/37871.m3u8
+#EXTINF:-1,España |Taquilla 2
+http://ecuaplaytv.com:8000/live/nando/nando/37870.m3u8
+#EXTINF:-1,España |Taquilla 3
+http://ecuaplaytv.com:8000/live/nando/nando/37869.m3u8
+#EXTINF:-1,España |Taquilla 4
+http://ecuaplaytv.com:8000/live/nando/nando/37868.m3u8
+#EXTINF:-1,España |Taquilla 5
+http://ecuaplaytv.com:8000/live/nando/nando/37867.m3u8
+#EXTINF:-1,España |Taquilla 6
+http://ecuaplaytv.com:8000/live/nando/nando/37866.m3u8
+#EXTINF:-1,España |Taquilla 7
+http://ecuaplaytv.com:8000/live/nando/nando/37865.m3u8
+#EXTINF:-1,España |Taquilla 8
+http://ecuaplaytv.com:8000/live/nando/nando/37864.m3u8
+#EXTINF:-1,España |Taquilla 9
+http://ecuaplaytv.com:8000/live/nando/nando/37863.m3u8
+#EXTINF:-1,España |TCM (720)
+http://ecuaplaytv.com:8000/live/nando/nando/37827.m3u8
+#EXTINF:-1,España |Telecinco (720)
+http://ecuaplaytv.com:8000/live/nando/nando/37862.m3u8
+#EXTINF:-1,España |Teledeportes
+http://ecuaplaytv.com:8000/live/nando/nando/37826.m3u8
+#EXTINF:-1,España |TNT
+http://ecuaplaytv.com:8000/live/nando/nando/37861.m3u8
+#EXTINF:-1,España |Toros Tv
+http://ecuaplaytv.com:8000/live/nando/nando/37860.m3u8
+#EXTINF:-1,España |TV Galicia
+http://ecuaplaytv.com:8000/live/nando/nando/37825.m3u8
+#EXTINF:-1,España |TVE Clan
+http://ecuaplaytv.com:8000/live/nando/nando/37859.m3u8
+#EXTINF:-1,España |TVE LA 1
+http://ecuaplaytv.com:8000/live/nando/nando/37848.m3u8
+#EXTINF:-1,España |TVE LA 1 (720)
+http://ecuaplaytv.com:8000/live/nando/nando/37858.m3u8
+#EXTINF:-1,España |TVE LA 2
+http://ecuaplaytv.com:8000/live/nando/nando/37857.m3u8
+#EXTINF:-1,España |VH1
+http://ecuaplaytv.com:8000/live/nando/nando/37824.m3u8
+#EXTINF:-1,España |Viajar (720)
+http://ecuaplaytv.com:8000/live/nando/nando/37856.m3u8
+#EXTINF:-1,ES:Bein Sports Español
+http://ecuaplaytv.com:8000/live/nando/nando/7087.m3u8
+#EXTINF:-1,----------------------------------CANALES 24/7------------------------------------
+http://ecuaplaytv.com:8000/live/nando/nando/41305.m3u8
+#EXTINF:-1,Video Musicales 24/7
+http://ecuaplaytv.com:8000/live/nando/nando/37783.m3u8
+#EXTINF:-1,Ciencia Ficción 24/7
+http://ecuaplaytv.com:8000/live/nando/nando/37823.m3u8
+#EXTINF:-1,The Walking Dead 24/7
+http://ecuaplaytv.com:8000/live/nando/nando/37360.m3u8
+#EXTINF:-1,Dragon Ball 24/7 (Saga Cell)
+http://ecuaplaytv.com:8000/live/nando/nando/37780.m3u8
+#EXTINF:-1,Los 3 Chiflados 1 Temporada 24/7
+http://ecuaplaytv.com:8000/live/nando/nando/38092.m3u8
+#EXTINF:-1,Pantera Rosa 24/7
+http://ecuaplaytv.com:8000/live/nando/nando/35524.m3u8
+#EXTINF:-1,Peliculas Acción 24/7
+http://ecuaplaytv.com:8000/live/nando/nando/37786.m3u8
+#EXTINF:-1,Bloopers_2  24/7
+http://ecuaplaytv.com:8000/live/nando/nando/35527.m3u8
+#EXTINF:-1,Ficcion de los 90 24/7
+http://ecuaplaytv.com:8000/live/nando/nando/35642.m3u8
+#EXTINF:-1,Peliculas de Accion de los 80 24/7
+http://ecuaplaytv.com:8000/live/nando/nando/35532.m3u8
+#EXTINF:-1,EL PAJARO LOCO 24/7
+http://ecuaplaytv.com:8000/live/nando/nando/286.m3u8
+#EXTINF:-1,Comedia 2000 24/7
+http://ecuaplaytv.com:8000/live/nando/nando/35646.m3u8
+#EXTINF:-1,Comedia 24/7
+http://ecuaplaytv.com:8000/live/nando/nando/35533.m3u8
+#EXTINF:-1,Dragon Ball Super 24/7
+http://ecuaplaytv.com:8000/live/nando/nando/35516.m3u8
+#EXTINF:-1,Dragon Ball (Saga Veguetta) 24/7
+http://ecuaplaytv.com:8000/live/nando/nando/37361.m3u8
+#EXTINF:-1,El Auto Fantastico 24/7
+http://ecuaplaytv.com:8000/live/nando/nando/36939.m3u8
+#EXTINF:-1,El Chavo 24/7
+http://ecuaplaytv.com:8000/live/nando/nando/36612.m3u8
+#EXTINF:-1,El Chavo Animado 24/7
+http://ecuaplaytv.com:8000/live/nando/nando/37010.m3u8
+#EXTINF:-1,Evangelion 24/7
+http://ecuaplaytv.com:8000/live/nando/nando/35520.m3u8
+#EXTINF:-1,Ficcion de los 80  24/7
+http://ecuaplaytv.com:8000/live/nando/nando/35641.m3u8
+#EXTINF:-1,Full Metal Alchemis Brothehood 24/7
+http://ecuaplaytv.com:8000/live/nando/nando/35531.m3u8
+#EXTINF:-1,Full Metal Alchemist 24/7
+http://ecuaplaytv.com:8000/live/nando/nando/35529.m3u8
+#EXTINF:-1,Hellsing 24/7
+http://ecuaplaytv.com:8000/live/nando/nando/35530.m3u8
+#EXTINF:-1,Infantiles 80s 24/7
+http://ecuaplaytv.com:8000/live/nando/nando/35645.m3u8
+#EXTINF:-1,Looney Tunes 24/7
+http://ecuaplaytv.com:8000/live/nando/nando/36985.m3u8
+#EXTINF:-1,Peliculas Disney Pixar 24/7
+http://ecuaplaytv.com:8000/live/nando/nando/35632.m3u8
+#EXTINF:-1,Peliculas Romance de los 80´s 24/7
+http://ecuaplaytv.com:8000/live/nando/nando/35633.m3u8
+#EXTINF:-1,Peliculas Terror 24/7
+http://ecuaplaytv.com:8000/live/nando/nando/35634.m3u8
+#EXTINF:-1,Super Campeones 2018  24/7
+http://ecuaplaytv.com:8000/live/nando/nando/35515.m3u8
+#EXTINF:-1,Thundercats 24/7
+http://ecuaplaytv.com:8000/live/nando/nando/37011.m3u8
+#EXTINF:-1,Doraemon 24/7
+http://ecuaplaytv.com:8000/live/nando/nando/37290.m3u8
+#EXTINF:-1,Gasparin 24/7
+http://ecuaplaytv.com:8000/live/nando/nando/37014.m3u8
+#EXTINF:-1,Las Tortugas Ninja 24/7
+http://ecuaplaytv.com:8000/live/nando/nando/37012.m3u8
+#EXTINF:-1,Los Simpsons 24/7
+http://ecuaplaytv.com:8000/live/nando/nando/36937.m3u8
+#EXTINF:-1,Mr.Bean Animado 24/7
+http://ecuaplaytv.com:8000/live/nando/nando/35522.m3u8
+#EXTINF:-1,Ecuador | Ecuavisa
+http://ecuaplaytv.com:8000/live/nando/nando/376.m3u8
+#EXTINF:-1,Ecuador |Ecuavisa (1080)
+http://ecuaplaytv.com:8000/live/nando/nando/35651.m3u8
+#EXTINF:-1,Ecuador | Ecuavisa (1080)
+http://ecuaplaytv.com:8000/live/nando/nando/29150.m3u8
+#EXTINF:-1,Ecuador | Ecuavisa(480)
+http://ecuaplaytv.com:8000/live/nando/nando/36628.m3u8
+#EXTINF:-1,Ecuador | Ecuavisa (604)
+http://ecuaplaytv.com:8000/live/nando/nando/17510.m3u8
+#EXTINF:-1,Ecuador | RTS (720)
+http://ecuaplaytv.com:8000/live/nando/nando/357.m3u8
+#EXTINF:-1,Ecuador | RTS(720)
+http://ecuaplaytv.com:8000/live/nando/nando/35652.m3u8
+#EXTINF:-1,Ecuador | RTS (480)
+http://ecuaplaytv.com:8000/live/nando/nando/17543.m3u8
+#EXTINF:-1,Ecuador | Teleamazonas (1080)
+http://ecuaplaytv.com:8000/live/nando/nando/29154.m3u8
+#EXTINF:-1,Ecuador |Teleamazonas (480)
+http://ecuaplaytv.com:8000/live/nando/nando/17474.m3u8
+#EXTINF:-1,Ecuador | Teleamazonas (480*)
+http://ecuaplaytv.com:8000/live/nando/nando/354.m3u8
+#EXTINF:-1,Ecuador | TC Television
+http://ecuaplaytv.com:8000/live/nando/nando/355.m3u8
+#EXTINF:-1,Ecuador | TC Television (1080)
+http://ecuaplaytv.com:8000/live/nando/nando/29153.m3u8
+#EXTINF:-1,Ecuador | TC Television (640)
+http://ecuaplaytv.com:8000/live/nando/nando/2382.m3u8
+#EXTINF:-1,Ecuador | TC Television (720)
+http://ecuaplaytv.com:8000/live/nando/nando/9198.m3u8
+#EXTINF:-1,Ecuador |TC Television (480)
+http://ecuaplaytv.com:8000/live/nando/nando/17540.m3u8
+#EXTINF:-1,Ecuador | Ecuador TV (480)
+http://ecuaplaytv.com:8000/live/nando/nando/377.m3u8
+#EXTINF:-1,Ecuador | Gama Tv Ec
+http://ecuaplaytv.com:8000/live/nando/nando/375.m3u8
+#EXTINF:-1,Ecuador | Gamatv (1080)
+http://ecuaplaytv.com:8000/live/nando/nando/29152.m3u8
+#EXTINF:-1,Ecuador | Canal Uno
+http://ecuaplaytv.com:8000/live/nando/nando/6234.m3u8
+#EXTINF:-1,Ecuador | Canal Uno Ecuador (480)
+http://ecuaplaytv.com:8000/live/nando/nando/29680.m3u8
+#EXTINF:-1,Ecuador | Ecuador TV
+http://ecuaplaytv.com:8000/live/nando/nando/32589.m3u8
+#EXTINF:-1,Ecuador | Canela TV
+http://ecuaplaytv.com:8000/live/nando/nando/41274.m3u8
+#EXTINF:-1,Ecuador | Cnt Sports (1080)
+http://ecuaplaytv.com:8000/live/nando/nando/6235.m3u8
+#EXTINF:-1,Ecuador | Cnt Sports (480)
+http://ecuaplaytv.com:8000/live/nando/nando/6636.m3u8
+#EXTINF:-1,Ecuador | CNT Sports Ecuador FHD
+http://ecuaplaytv.com:8000/live/nando/nando/25372.m3u8
+#EXTINF:-1,Ecuador | Directv Sports Ecuador (720)
+http://ecuaplaytv.com:8000/live/nando/nando/43582.m3u8
+#EXTINF:-1,Ecuador  | Directv Sports Ecuador
+http://ecuaplaytv.com:8000/live/nando/nando/43583.m3u8
+#EXTINF:-1,Ecuador | Gamatv (480)
+http://ecuaplaytv.com:8000/live/nando/nando/17495.m3u8
+#EXTINF:-1,Ecuador | Oromar HD
+http://ecuaplaytv.com:8000/live/nando/nando/35073.m3u8
+#EXTINF:-1,Ecuador | Programa Mensuales JW Broadcasting: Enero del 2019 Testigos de Jehova
+http://ecuaplaytv.com:8000/live/nando/nando/3009.m3u8
+#EXTINF:-1,Ecuador | Televicentro
+http://ecuaplaytv.com:8000/live/nando/nando/42361.m3u8
+#EXTINF:-1,Ecuador | Tv Manabita
+http://ecuaplaytv.com:8000/live/nando/nando/41285.m3u8
+#EXTINF:-1,Ecuador | TVN
+http://ecuaplaytv.com:8000/live/nando/nando/43617.m3u8
