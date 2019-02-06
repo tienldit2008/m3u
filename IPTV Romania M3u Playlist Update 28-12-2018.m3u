@@ -1,222 +1,135 @@
 #EXTM3U
-#EXTINF:-1,Digi 24
-http://linux-app.tv:6204/RDWAN/123/9050
-#EXTINF:-1,Dolce Sport 1 HD
-http://linux-app.tv:6204/RDWAN/123/9049
-#EXTINF:-1,Dolce Sport 2 HD
-http://linux-app.tv:6204/RDWAN/123/9048
-#EXTINF:-1,HBO
-http://linux-app.tv:6204/RDWAN/123/9045
-#EXTINF:-1,Kanal D
-http://linux-app.tv:6204/RDWAN/123/9044
-#EXTINF:-1,Kiss TV
-http://linux-app.tv:6204/RDWAN/123/9043
-#EXTINF:-1,Na?ional TV
-http://linux-app.tv:6204/RDWAN/123/9041
-#EXTINF:-1,National Geographic Wild
-http://linux-app.tv:6204/RDWAN/123/9039
-#EXTINF:-1,Prima TV
-http://linux-app.tv:6204/RDWAN/123/9038
-#EXTINF:-1,Pro TV
-http://linux-app.tv:6204/RDWAN/123/9036
-#EXTINF:-1,Pro TV International
-http://linux-app.tv:6204/RDWAN/123/9035
-#EXTINF:-1,Realitatea TV
-http://linux-app.tv:6204/RDWAN/123/9034
-#EXTINF:-1,Romania TV
-http://linux-app.tv:6204/RDWAN/123/9033
-#EXTINF:-1,Taraf TV
-http://linux-app.tv:6204/RDWAN/123/9032
 #EXTINF:-1,1 Music Channel
-http://linux-app.tv:6204/RDWAN/123/9057
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/700
 #EXTINF:-1,Acasa Gold
-http://linux-app.tv:6204/RDWAN/123/9056
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/699
 #EXTINF:-1,Acasa TV
-http://linux-app.tv:6204/RDWAN/123/5904
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/698
+#EXTINF:-1,Agro Tv
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/697
+#EXTINF:-1,Alfa & Omega
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/696
+#EXTINF:-1,Animal Planet
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/695
 #EXTINF:-1,Antena 1
-http://linux-app.tv:6204/RDWAN/123/9055
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/694
 #EXTINF:-1,Antena 3
-http://linux-app.tv:6204/RDWAN/123/9054
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/693
 #EXTINF:-1,Antena Stars
-http://linux-app.tv:6204/RDWAN/123/9053
-#EXTINF:-1,B1 TV
-http://linux-app.tv:6204/RDWAN/123/5798
-
-#EXTINF:-1,RO: Digi Sport 1
-http://bfc-ip.ddns.net:8000/8n6tWPPvQ4/wUzvM76duK/2968
-#EXTINF:-1,RO: Digi Sport 2
-http://bfc-ip.ddns.net:8000/8n6tWPPvQ4/wUzvM76duK/2969
-#EXTINF:-1,RO: Digi Sport 4
-http://bfc-ip.ddns.net:8000/8n6tWPPvQ4/wUzvM76duK/2941
-#EXTINF:-1,RO: Eurosport
-http://bfc-ip.ddns.net:8000/8n6tWPPvQ4/wUzvM76duK/2929
-#EXTINF:-1,RO: Eurosport 2
-http://bfc-ip.ddns.net:8000/8n6tWPPvQ4/wUzvM76duK/2961
-#EXTINF:-1,RO:Sport.ro
-http://bfc-ip.ddns.net:8000/8n6tWPPvQ4/wUzvM76duK/2927
-
-#EXTINF:-1,RO: Antena 1
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37638.ts
-#EXTINF:-1,RO: Antena 3
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37637.ts
-#EXTINF:-1,RO: Antena Stars
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37649.ts
-#EXTINF:-1,RO: AXN Romania
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37636.ts
-#EXTINF:-1,RO: AXN White
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37635.ts
-#EXTINF:-1,RO: B1
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37647.ts
-#EXTINF:-1,RO: Boomerang
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37634.ts
-#EXTINF:-1,RO: Cinemax
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37632.ts
-#EXTINF:-1,RO: Cinemax 2
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37633.ts
-#EXTINF:-1,RO: Digi 24
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37631.ts
-#EXTINF:-1,RO: Digi Animal World
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37630.ts
-#EXTINF:-1,RO: Digi Film
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37629.ts
-#EXTINF:-1,RO: Digi Life
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37628.ts
-#EXTINF:-1,RO: Digi Sport 1
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37627.ts
-#EXTINF:-1,RO: Digi Sport 2
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37626.ts
-#EXTINF:-1,RO: Digi Sport 3
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37625.ts
-#EXTINF:-1,RO: Digi Sport 4
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37624.ts
-#EXTINF:-1,RO: Digi World
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37623.ts
-#EXTINF:-1,RO: Disney Junior
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37622.ts
-#EXTINF:-1,RO: Etno TV
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37621.ts
-#EXTINF:-1,RO: Eurosport
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37620.ts
-#EXTINF:-1,RO: Eurosport 2
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37619.ts
-#EXTINF:-1,RO: Favorit TV
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37599.ts
-#EXTINF:-1,RO: Fishing & Hunting
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37618.ts
-#EXTINF:-1,RO: Happy Channel
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37646.ts
-#EXTINF:-1,RO: HBO 2
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37617.ts
-#EXTINF:-1,RO: HBO 3
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37651.ts
-#EXTINF:-1,RO: HBO Romania
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37650.ts
-#EXTINF:-1,RO: History Channel
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37616.ts
-#EXTINF:-1,RO: Kanal D
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37652.ts
-#EXTINF:-1,RO: Kiss TV
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37642.ts
-#EXTINF:-1,RO: Look TV
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37645.ts
-#EXTINF:-1,RO: Megamax
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37641.ts
-#EXTINF:-1,RO: Minimax
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37615.ts
-#EXTINF:-1,RO: Music Channel.Hu
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37614.ts
-#EXTINF:-1,RO: National TV
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37653.ts
-#EXTINF:-1,RO: Ngc
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37613.ts
-#EXTINF:-1,RO: Ngc Wild
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37612.ts
-#EXTINF:-1,RO: Nickelodeon
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37611.ts
-#EXTINF:-1,RO: Paramount Channel
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37610.ts
-#EXTINF:-1,RO: Prima TV
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37654.ts
-#EXTINF:-1,RO: Pro Cinema
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37609.ts
-#EXTINF:-1,RO: Pro TV
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37655.ts
-#EXTINF:-1,RO: Realitatea
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37644.ts
-#EXTINF:-1,RO: Romania TV
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37608.ts
-#EXTINF:-1,RO: Sport.Ro
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37607.ts
-#EXTINF:-1,RO: Taraf TV
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37643.ts
-#EXTINF:-1,RO: TNT
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37606.ts
-#EXTINF:-1,RO: Trinitas
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37605.ts
-#EXTINF:-1,RO: TV 1000
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37604.ts
-#EXTINF:-1,RO: TV5 MONDE
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37603.ts
-#EXTINF:-1,RO: TVR 1
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37656.ts
-#EXTINF:-1,RO: TVR 2
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37657.ts
-#EXTINF:-1,RO: TVR International
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37602.ts
-#EXTINF:-1,RO: U TV
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37658.ts
-#EXTINF:-1,RO: Viasat History
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37601.ts
-#EXTINF:-1,RO: Viasat Nature
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37600.ts
-#EXTINF:-1,RO: 1 Music Channel
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37640.ts
-#EXTINF:-1,RO: Acasa TV
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37648.ts
-#EXTINF:-1,RO: Agro TV
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37639.ts
-
-#EXTINF:-1,1 Music Channel
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9057
-#EXTINF:-1,Acasa Gold
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9056
-#EXTINF:-1,Acasa TV
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/5904
-#EXTINF:-1,Antena 1
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9055
-#EXTINF:-1,Antena 3
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9054
-#EXTINF:-1,Antena Stars
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9053
-#EXTINF:-1,B1 TV
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/5798
-#EXTINF:-1,CBS Reality
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9051
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/692
+#EXTINF:-1,AXN Black
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/691
+#EXTINF:-1,AXN Romania
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/690
+#EXTINF:-1,AXN White
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/689
+#EXTINF:-1,B1 Tv
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/688
+#EXTINF:-1,Cartoon Network
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/687
+#EXTINF:-1,Ciné Thronix
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/686
+#EXTINF:-1,Cinemax 2
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/685
+#EXTINF:-1,Cinemax Ro
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/684
+#EXTINF:-1,Comedy Central
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/683
 #EXTINF:-1,Digi 24
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9050
-#EXTINF:-1,Dolce Sport 1 HD
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9049
-#EXTINF:-1,Dolce Sport 2 HD
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9048
-#EXTINF:-1,HBO
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9045
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/682
+#EXTINF:-1,Digi Animal World
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/681
+#EXTINF:-1,Digi Film
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/680
+#EXTINF:-1,Digi Life
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/679
+#EXTINF:-1,Digi Sport 1
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/678
+#EXTINF:-1,Digi Sport 2
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/677
+#EXTINF:-1,Digi Sport 3
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/676
+#EXTINF:-1,Digi Sport 4
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/675
+#EXTINF:-1,Digi World
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/674
+#EXTINF:-1,Discovery
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/673
+#EXTINF:-1,Disney Junior
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/671
+#EXTINF:-1,DTX
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/670
+#EXTINF:-1,Etno Tv
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/669
+#EXTINF:-1,Eurosport
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/668
+#EXTINF:-1,Eurosport 2
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/667
+#EXTINF:-1,Favorit Tv
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/666
+#EXTINF:-1,Fishing & Hunting
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/665
+#EXTINF:-1,Happy Channel
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/664
+#EXTINF:-1,HBO 2
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/663
+#EXTINF:-1,HBO 3
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/662
+#EXTINF:-1,HBO Romania
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/661
+#EXTINF:-1,History Channel
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/660
+#EXTINF:-1,HIT
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/659
 #EXTINF:-1,Kanal D
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9044
-#EXTINF:-1,Kiss TV
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9043
-#EXTINF:-1,Na?ional TV
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9041
-#EXTINF:-1,National Geographic Wild
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9039
-#EXTINF:-1,Prima TV
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9038
-#EXTINF:-1,Pro TV
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9036
-#EXTINF:-1,Pro TV International
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9035
-#EXTINF:-1,Realitatea TV
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9034
-#EXTINF:-1,Romania TV
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9033
-#EXTINF:-1,Taraf TV
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9032
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/658
+#EXTINF:-1,KISS TV
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/657
+#EXTINF:-1,Look Plus
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/656
+#EXTINF:-1,Megamax
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/655
+#EXTINF:-1,Minimax
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/654
+#EXTINF:-1,Music Channe hu
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/653
+#EXTINF:-1,N24
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/652
+#EXTINF:-1,Nat Geo Wild
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/651
+#EXTINF:-1,National Tv
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/650
+#EXTINF:-1,Nickelodeon
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/649
+#EXTINF:-1,Paramount Channel
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/648
+#EXTINF:-1,Prima Tv
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/647
+#EXTINF:-1,ProCinema
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/646
+#EXTINF:-1,ProTV
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/645
+#EXTINF:-1,Realitatea Tv
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/643
+#EXTINF:-1,Romania Tv
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/642
+#EXTINF:-1,Sport Ro
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/641
+#EXTINF:-1,Taraf Tv
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/640
+#EXTINF:-1,Trinitas
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/639
+#EXTINF:-1,TV5 MONDE
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/638
+#EXTINF:-1,TVH 20
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/637
+#EXTINF:-1,TVR 1
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/635
+#EXTINF:-1,TVR 2
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/634
+#EXTINF:-1,Viasat History
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/626
+#EXTINF:-1,Viasat Nature
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/625
+#EXTINF:-1,ZU TV
+http://master1.ipfox.online:25461/Etronics_tlRCcY/99EDfer0/624
