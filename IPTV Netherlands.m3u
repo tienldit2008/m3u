@@ -1,393 +1,104 @@
-#EXTM3U
-#EXTINF:-1,Discovery Science [VIP]
-http://niobzca.cf:8080/live/george01/george02/141770.m3u8
-#EXTINF:-1,Fox Sports 1 HD [VIP]
-http://niobzca.cf:8080/live/george01/george02/141784.m3u8
-#EXTINF:-1,L1MBURG [VIP]
-http://niobzca.cf:8080/live/george01/george02/141794.m3u8
-#EXTINF:-1,NGC HD [VIP]
-http://niobzca.cf:8080/live/george01/george02/141802.m3u8
-#EXTINF:-1,Omroep Zeeland Televisie [VIP]
-http://niobzca.cf:8080/live/george01/george02/145798.m3u8
-#EXTINF:-1,Omrop Fryslan Televisie [VIP]
-http://niobzca.cf:8080/live/george01/george02/141808.m3u8
-#EXTINF:-1,SBS6 HD [VIP]
-http://niobzca.cf:8080/live/george01/george02/141817.m3u8
-#EXTINF:-1,SBS9 [VIP]
-http://niobzca.cf:8080/live/george01/george02/141818.m3u8
-#EXTINF:-1,TV Gelderland [VIP]
-http://niobzca.cf:8080/live/george01/george02/141826.m3u8
-#EXTINF:-1,100% NL TV
-http://niobzca.cf:8080/live/george01/george02/160205.m3u8
-#EXTINF:-1,13th
-http://niobzca.cf:8080/live/george01/george02/98076.m3u8
-#EXTINF:-1,192 TV HD
-http://niobzca.cf:8080/live/george01/george02/74953.m3u8
-#EXTINF:-1,24 KITCHEN
-http://niobzca.cf:8080/live/george01/george02/176408.m3u8
-#EXTINF:-1,24 Kitchen NL
-http://niobzca.cf:8080/live/george01/george02/160206.m3u8
-#EXTINF:-1,AMC FHD
-http://niobzca.cf:8080/live/george01/george02/97323.m3u8
-#EXTINF:-1,ANIMAL PLANET HD
-http://niobzca.cf:8080/live/george01/george02/158131.m3u8
-#EXTINF:-1,ARD HD
-http://niobzca.cf:8080/live/george01/george02/97320.m3u8
-#EXTINF:-1,AT5 HD
-http://niobzca.cf:8080/live/george01/george02/133206.m3u8
-#EXTINF:-1,BABY TV
-http://niobzca.cf:8080/live/george01/george02/157767.m3u8
-#EXTINF:-1,BBC Entertainment
-http://niobzca.cf:8080/live/george01/george02/110634.m3u8
-#EXTINF:-1,BBC First FHD
-http://niobzca.cf:8080/live/george01/george02/97321.m3u8
-#EXTINF:-1,BBC ONE HD
-http://niobzca.cf:8080/live/george01/george02/97322.m3u8
-#EXTINF:-1,BOOMERANG
-http://niobzca.cf:8080/live/george01/george02/158132.m3u8
-#EXTINF:-1,Brava NL
-http://niobzca.cf:8080/live/george01/george02/160207.m3u8
-#EXTINF:-1,CAZ
-http://niobzca.cf:8080/live/george01/george02/130795.m3u8
-#EXTINF:-1,CBS Reality HD
-http://niobzca.cf:8080/live/george01/george02/106237.m3u8
-#EXTINF:-1,Comedy Central Extra HD
-http://niobzca.cf:8080/live/george01/george02/75003.m3u8
-#EXTINF:-1,Comedy Central Family
-http://niobzca.cf:8080/live/george01/george02/75004.m3u8
-#EXTINF:-1,Comedy Central HD
-http://niobzca.cf:8080/live/george01/george02/74960.m3u8
-#EXTINF:-1,Crime & Investigation HD
-http://niobzca.cf:8080/live/george01/george02/75005.m3u8
-#EXTINF:-1,DANCE TRIPPIN HD
-http://niobzca.cf:8080/live/george01/george02/97318.m3u8
-#EXTINF:-1,Den Haag TV
-http://niobzca.cf:8080/live/george01/george02/160211.m3u8
-#EXTINF:-1,Discovery Channel FHD
-http://niobzca.cf:8080/live/george01/george02/74961.m3u8
-#EXTINF:-1,Discovery ID FHD
-http://niobzca.cf:8080/live/george01/george02/74971.m3u8
-#EXTINF:-1,DISCOVERY INVESTIGATION HD
-http://niobzca.cf:8080/live/george01/george02/175815.m3u8
-#EXTINF:-1,Discovery Science FHD
-http://niobzca.cf:8080/live/george01/george02/93824.m3u8
-#EXTINF:-1,DISCOVERY SHOWCASE FHD
-http://niobzca.cf:8080/live/george01/george02/175816.m3u8
-#EXTINF:-1,Discovery World HD
-http://niobzca.cf:8080/live/george01/george02/93823.m3u8
-#EXTINF:-1,Disney Channel FHD
-http://niobzca.cf:8080/live/george01/george02/75008.m3u8
-#EXTINF:-1,DISNEY JUNIOR
-http://niobzca.cf:8080/live/george01/george02/157769.m3u8
-#EXTINF:-1,Disney XD FHD
-http://niobzca.cf:8080/live/george01/george02/115845.m3u8
-#EXTINF:-1,Djazz tv
-http://niobzca.cf:8080/live/george01/george02/160213.m3u8
-#EXTINF:-1,Duck TV
-http://niobzca.cf:8080/live/george01/george02/130798.m3u8
-#EXTINF:-1,E! Entertainment HD
-http://niobzca.cf:8080/live/george01/george02/89194.m3u8
-#EXTINF:-1,EDE TV
-http://niobzca.cf:8080/live/george01/george02/130799.m3u8
-#EXTINF:-1,Edge Sport
-http://niobzca.cf:8080/live/george01/george02/75009.m3u8
-#EXTINF:-1,Eurosport 1 FHD
-http://niobzca.cf:8080/live/george01/george02/74964.m3u8
-#EXTINF:-1,Eurosport 2 HD
-http://niobzca.cf:8080/live/george01/george02/158140.m3u8
-#EXTINF:-1,Extreme Sports Channel HD
-http://niobzca.cf:8080/live/george01/george02/64236.m3u8
-#EXTINF:-1,FASHION TV HD
-http://niobzca.cf:8080/live/george01/george02/97324.m3u8
-#EXTINF:-1,FILM 1 ACTION HD
-http://niobzca.cf:8080/live/george01/george02/133163.m3u8
-#EXTINF:-1,Film 1 Comedy
-http://niobzca.cf:8080/live/george01/george02/74966.m3u8
-#EXTINF:-1,Film 1 Comedy & Kids
-http://niobzca.cf:8080/live/george01/george02/96856.m3u8
-#EXTINF:-1,FILM 1 DRAMA HD
-http://niobzca.cf:8080/live/george01/george02/158141.m3u8
-#EXTINF:-1,FILM 1 PREMIERE HD
-http://niobzca.cf:8080/live/george01/george02/133162.m3u8
-#EXTINF:-1,FILM 1 SPOTLIGHT
-http://niobzca.cf:8080/live/george01/george02/133807.m3u8
-#EXTINF:-1,Film Action
-http://niobzca.cf:8080/live/george01/george02/87642.m3u8
-#EXTINF:-1,Film Drama
-http://niobzca.cf:8080/live/george01/george02/111043.m3u8
-#EXTINF:-1,Film Europe HD
-http://niobzca.cf:8080/live/george01/george02/113757.m3u8
-#EXTINF:-1,FILM PREMIERE
-http://niobzca.cf:8080/live/george01/george02/87645.m3u8
-#EXTINF:-1,Film1 Family FHD
-http://niobzca.cf:8080/live/george01/george02/93828.m3u8
-#EXTINF:-1,Film1 Sundance
-http://niobzca.cf:8080/live/george01/george02/75011.m3u8
-#EXTINF:-1,Fine Living HD
-http://niobzca.cf:8080/live/george01/george02/127860.m3u8
-#EXTINF:-1,Food Network FHD
-http://niobzca.cf:8080/live/george01/george02/103196.m3u8
-#EXTINF:-1,Fox Channel FHD
-http://niobzca.cf:8080/live/george01/george02/156675.m3u8
-#EXTINF:-1,FOX SPORT 1 HD
-http://niobzca.cf:8080/live/george01/george02/65203.m3u8
-#EXTINF:-1,FOX SPORT 2 HD
-http://niobzca.cf:8080/live/george01/george02/65202.m3u8
-#EXTINF:-1,FOX SPORT 3 HD
-http://niobzca.cf:8080/live/george01/george02/64221.m3u8
-#EXTINF:-1,FOX SPORT 4 HD
-http://niobzca.cf:8080/live/george01/george02/65200.m3u8
-#EXTINF:-1,FOX SPORT 5 HD
-http://niobzca.cf:8080/live/george01/george02/65199.m3u8
-#EXTINF:-1,FOX SPORT 6 HD
-http://niobzca.cf:8080/live/george01/george02/133170.m3u8
-#EXTINF:-1,FOX SPORTS 1 Full HD
-http://niobzca.cf:8080/live/george01/george02/154275.m3u8
-#EXTINF:-1,FOX SPORTS 2 INTERNATIONAL
-http://niobzca.cf:8080/live/george01/george02/93527.m3u8
-#EXTINF:-1,FOX SPORTS 3 EREDIVISIE
-http://niobzca.cf:8080/live/george01/george02/93526.m3u8
-#EXTINF:-1,FOX SPORTS 4 INTERNATIONAL
-http://niobzca.cf:8080/live/george01/george02/93525.m3u8
-#EXTINF:-1,FOX SPORTS 5 EREDIVISIE HD
-http://niobzca.cf:8080/live/george01/george02/93524.m3u8
-#EXTINF:-1,FOX SPORTS 6 INTERNATIONAL
-http://niobzca.cf:8080/live/george01/george02/106249.m3u8
-#EXTINF:-1,FOX Sports EDL 1 HD
-http://niobzca.cf:8080/live/george01/george02/96865.m3u8
-#EXTINF:-1,FOX Sports EDL 3 HD
-http://niobzca.cf:8080/live/george01/george02/96866.m3u8
-#EXTINF:-1,Fox Sports1
-http://niobzca.cf:8080/live/george01/george02/158896.m3u8
-#EXTINF:-1,Fox Sports3
-http://niobzca.cf:8080/live/george01/george02/158897.m3u8
-#EXTINF:-1,Fox Sports6
-http://niobzca.cf:8080/live/george01/george02/158898.m3u8
-#EXTINF:-1,Golf HD
-http://niobzca.cf:8080/live/george01/george02/64232.m3u8
-#EXTINF:-1,HBO 1 HD
-http://niobzca.cf:8080/live/george01/george02/87653.m3u8
-#EXTINF:-1,HBO 2 HD
-http://niobzca.cf:8080/live/george01/george02/64224.m3u8
-#EXTINF:-1,HBO 3 HD
-http://niobzca.cf:8080/live/george01/george02/64222.m3u8
-#EXTINF:-1,HBO HD
-http://niobzca.cf:8080/live/george01/george02/64225.m3u8
-#EXTINF:-1,history channel
-http://niobzca.cf:8080/live/george01/george02/158146.m3u8
-#EXTINF:-1,Horse & Country TV HD
-http://niobzca.cf:8080/live/george01/george02/118931.m3u8
-#EXTINF:-1,Investigation Discovery NL
-http://niobzca.cf:8080/live/george01/george02/160223.m3u8
-#EXTINF:-1,JimJam
-http://niobzca.cf:8080/live/george01/george02/163582.m3u8
-#EXTINF:-1,Ketnet
-http://niobzca.cf:8080/live/george01/george02/136195.m3u8
-#EXTINF:-1,KetOp12
-http://niobzca.cf:8080/live/george01/george02/113760.m3u8
-#EXTINF:-1,L1 LIMBURG TV
-http://niobzca.cf:8080/live/george01/george02/93843.m3u8
-#EXTINF:-1,L1MBURG
-http://niobzca.cf:8080/live/george01/george02/96869.m3u8
-#EXTINF:-1,Mezzo HD
-http://niobzca.cf:8080/live/george01/george02/93820.m3u8
-#EXTINF:-1,Motors TV
-http://niobzca.cf:8080/live/george01/george02/96870.m3u8
-#EXTINF:-1,MTV 24 Music HD
-http://niobzca.cf:8080/live/george01/george02/65264.m3u8
-#EXTINF:-1,MTV Brand New HD
-http://niobzca.cf:8080/live/george01/george02/97316.m3u8
-#EXTINF:-1,MTV HD
-http://niobzca.cf:8080/live/george01/george02/158147.m3u8
-#EXTINF:-1,MTV LIVE HD
-http://niobzca.cf:8080/live/george01/george02/93818.m3u8
-#EXTINF:-1,Mtv Music
-http://niobzca.cf:8080/live/george01/george02/137493.m3u8
-#EXTINF:-1,MTV MUSIC 24
-http://niobzca.cf:8080/live/george01/george02/93819.m3u8
-#EXTINF:-1,MTV NL
-http://niobzca.cf:8080/live/george01/george02/160224.m3u8
-#EXTINF:-1,MTV.Nederland
-http://niobzca.cf:8080/live/george01/george02/154361.m3u8
-#EXTINF:-1,NAT GEO CHANNEL
-http://niobzca.cf:8080/live/george01/george02/74978.m3u8
-#EXTINF:-1,NAT GEO WILD HD
-http://niobzca.cf:8080/live/george01/george02/158148.m3u8
-#EXTINF:-1,NET 5 HD
-http://niobzca.cf:8080/live/george01/george02/133143.m3u8
-#EXTINF:-1,NGC HD
-http://niobzca.cf:8080/live/george01/george02/97332.m3u8
-#EXTINF:-1,NGC WILD HD
-http://niobzca.cf:8080/live/george01/george02/97333.m3u8
-#EXTINF:-1,Nick Hits
-http://niobzca.cf:8080/live/george01/george02/135737.m3u8
-#EXTINF:-1,NICK JUNIOR
-http://niobzca.cf:8080/live/george01/george02/176426.m3u8
-#EXTINF:-1,Nick Music HD
-http://niobzca.cf:8080/live/george01/george02/74981.m3u8
-#EXTINF:-1,Nick toons
-http://niobzca.cf:8080/live/george01/george02/158917.m3u8
-#EXTINF:-1,NICKELODEON
-http://niobzca.cf:8080/live/george01/george02/158149.m3u8
-#EXTINF:-1,NPO 1 FHD
-http://niobzca.cf:8080/live/george01/george02/133133.m3u8
-#EXTINF:-1,NPO 2 HD
-http://niobzca.cf:8080/live/george01/george02/133134.m3u8
-#EXTINF:-1,NPO 3 EXTRA
-http://niobzca.cf:8080/live/george01/george02/158151.m3u8
-#EXTINF:-1,NPO 3 HD
-http://niobzca.cf:8080/live/george01/george02/133135.m3u8
-#EXTINF:-1,NPO CULTURA
-http://niobzca.cf:8080/live/george01/george02/175521.m3u8
-#EXTINF:-1,Npo Nieuws
-http://niobzca.cf:8080/live/george01/george02/136186.m3u8
-#EXTINF:-1,NPO Politiek
-http://niobzca.cf:8080/live/george01/george02/158889.m3u8
-#EXTINF:-1,NPO Zapp Xtra
-http://niobzca.cf:8080/live/george01/george02/113762.m3u8
-#EXTINF:-1,OMROEP BRABANT
-http://niobzca.cf:8080/live/george01/george02/74986.m3u8
-#EXTINF:-1,Omroep Flevoland
-http://niobzca.cf:8080/live/george01/george02/136243.m3u8
-#EXTINF:-1,Omroep Fryslan
-http://niobzca.cf:8080/live/george01/george02/127909.m3u8
-#EXTINF:-1,OMROEP FRYSLAND
-http://niobzca.cf:8080/live/george01/george02/93851.m3u8
-#EXTINF:-1,OMROEP GELDERLAND
-http://niobzca.cf:8080/live/george01/george02/74987.m3u8
-#EXTINF:-1,OMROEP ZEELAND
-http://niobzca.cf:8080/live/george01/george02/93850.m3u8
-#EXTINF:-1,OMROP FRYSLAN
-http://niobzca.cf:8080/live/george01/george02/97365.m3u8
-#EXTINF:-1,ONS
-http://niobzca.cf:8080/live/george01/george02/158152.m3u8
-#EXTINF:-1,Pebble TV HD
-http://niobzca.cf:8080/live/george01/george02/96877.m3u8
-#EXTINF:-1,QMUSIC
-http://niobzca.cf:8080/live/george01/george02/175537.m3u8
-#EXTINF:-1,RADIO
-http://niobzca.cf:8080/live/george01/george02/175539.m3u8
-#EXTINF:-1,RTL
-http://niobzca.cf:8080/live/george01/george02/169263.m3u8
-#EXTINF:-1,RTL 4 FHD
-http://niobzca.cf:8080/live/george01/george02/133136.m3u8
-#EXTINF:-1,RTL 5 HD
-http://niobzca.cf:8080/live/george01/george02/133137.m3u8
-#EXTINF:-1,RTL 7 HD
-http://niobzca.cf:8080/live/george01/george02/133139.m3u8
-#EXTINF:-1,RTL 8 HD
-http://niobzca.cf:8080/live/george01/george02/176431.m3u8
-#EXTINF:-1,RTL Crime
-http://niobzca.cf:8080/live/george01/george02/133148.m3u8
-#EXTINF:-1,RTL lounge
-http://niobzca.cf:8080/live/george01/george02/158891.m3u8
-#EXTINF:-1,RTL Telekids FHD
-http://niobzca.cf:8080/live/george01/george02/75020.m3u8
-#EXTINF:-1,RTL Z HD
-http://niobzca.cf:8080/live/george01/george02/133151.m3u8
-#EXTINF:-1,RTV
-http://niobzca.cf:8080/live/george01/george02/130805.m3u8
-#EXTINF:-1,RTV 7
-http://niobzca.cf:8080/live/george01/george02/98031.m3u8
-#EXTINF:-1,RTV Drenthe
-http://niobzca.cf:8080/live/george01/george02/74992.m3u8
-#EXTINF:-1,RTV Noord
-http://niobzca.cf:8080/live/george01/george02/127910.m3u8
-#EXTINF:-1,RTV OOST
-http://niobzca.cf:8080/live/george01/george02/89212.m3u8
-#EXTINF:-1,RTV Utrecht
-http://niobzca.cf:8080/live/george01/george02/136239.m3u8
-#EXTINF:-1,SALTO LIVE
-http://niobzca.cf:8080/live/george01/george02/133820.m3u8
-#EXTINF:-1,SBS 6 HD
-http://niobzca.cf:8080/live/george01/george02/133138.m3u8
-#EXTINF:-1,SBS 9 FHD
-http://niobzca.cf:8080/live/george01/george02/106266.m3u8
-#EXTINF:-1,SBS 9Q
-http://niobzca.cf:8080/live/george01/george02/97168.m3u8
-#EXTINF:-1,SBS6 FHD
-http://niobzca.cf:8080/live/george01/george02/74993.m3u8
-#EXTINF:-1,SBS9 FHD
-http://niobzca.cf:8080/live/george01/george02/74994.m3u8
-#EXTINF:-1,Shorts TV FHD
-http://niobzca.cf:8080/live/george01/george02/75021.m3u8
-#EXTINF:-1,SKY RADIO
-http://niobzca.cf:8080/live/george01/george02/175540.m3u8
-#EXTINF:-1,Slam!TV
-http://niobzca.cf:8080/live/george01/george02/160236.m3u8
-#EXTINF:-1,Spike HD
-http://niobzca.cf:8080/live/george01/george02/133146.m3u8
-#EXTINF:-1,Sport 1 Voetbal
-http://niobzca.cf:8080/live/george01/george02/93105.m3u8
-#EXTINF:-1,Sport1 Golf
-http://niobzca.cf:8080/live/george01/george02/93102.m3u8
-#EXTINF:-1,Sport1 Racing
-http://niobzca.cf:8080/live/george01/george02/93103.m3u8
-#EXTINF:-1,Sport1 Select
-http://niobzca.cf:8080/live/george01/george02/93104.m3u8
-#EXTINF:-1,Stingray Lite TV
-http://niobzca.cf:8080/live/george01/george02/127886.m3u8
-#EXTINF:-1,Syfy
-http://niobzca.cf:8080/live/george01/george02/75022.m3u8
-#EXTINF:-1,TLC HD
-http://niobzca.cf:8080/live/george01/george02/133157.m3u8
-#EXTINF:-1,Travel Channel FHD
-http://niobzca.cf:8080/live/george01/george02/93821.m3u8
-#EXTINF:-1,TRAVEL XP HD
-http://niobzca.cf:8080/live/george01/george02/158156.m3u8
-#EXTINF:-1,TV 538
-http://niobzca.cf:8080/live/george01/george02/75023.m3u8
-#EXTINF:-1,TV DRENTHE
-http://niobzca.cf:8080/live/george01/george02/93848.m3u8
-#EXTINF:-1,TV Gelderland
-http://niobzca.cf:8080/live/george01/george02/113767.m3u8
-#EXTINF:-1,TV NOORD
-http://niobzca.cf:8080/live/george01/george02/93844.m3u8
-#EXTINF:-1,TV OOST
-http://niobzca.cf:8080/live/george01/george02/136240.m3u8
-#EXTINF:-1,TV ORANJE
-http://niobzca.cf:8080/live/george01/george02/158158.m3u8
-#EXTINF:-1,TV Rijnmond
-http://niobzca.cf:8080/live/george01/george02/127927.m3u8
-#EXTINF:-1,TV West
-http://niobzca.cf:8080/live/george01/george02/74999.m3u8
-#EXTINF:-1,Veronica
-http://niobzca.cf:8080/live/george01/george02/87663.m3u8
-#EXTINF:-1,VERONICA / DISNEY XD HD
-http://niobzca.cf:8080/live/george01/george02/158159.m3u8
-#EXTINF:-1,VH1 CLASSIC
-http://niobzca.cf:8080/live/george01/george02/97331.m3u8
-#EXTINF:-1,Viceland FHD
-http://niobzca.cf:8080/live/george01/george02/97317.m3u8
-#EXTINF:-1,XITE HD
-http://niobzca.cf:8080/live/george01/george02/175529.m3u8
-#EXTINF:-1,ZDF HD
-http://niobzca.cf:8080/live/george01/george02/97319.m3u8
-#EXTINF:-1,Ziggo Extra 1
-http://niobzca.cf:8080/live/george01/george02/146540.m3u8
-#EXTINF:-1,Ziggo Golf
-http://niobzca.cf:8080/live/george01/george02/111044.m3u8
-#EXTINF:-1,Ziggo Racing
-http://niobzca.cf:8080/live/george01/george02/110639.m3u8
-#EXTINF:-1,Ziggo Select
-http://niobzca.cf:8080/live/george01/george02/111045.m3u8
-#EXTINF:-1,ZIGGO SPORT EXTRA 1 HD
-http://niobzca.cf:8080/live/george01/george02/156676.m3u8
-#EXTINF:-1,ZIGGO SPORT EXTRA 2 HD
-http://niobzca.cf:8080/live/george01/george02/133177.m3u8
-#EXTINF:-1,Ziggo Sport FHD
-http://niobzca.cf:8080/live/george01/george02/75001.m3u8
-#EXTINF:-1,ZIGGO SPORT GOLF HD
-http://niobzca.cf:8080/live/george01/george02/158160.m3u8
-#EXTINF:-1,Ziggo Sport Racing FHD
-http://niobzca.cf:8080/live/george01/george02/65189.m3u8
-#EXTINF:-1,Ziggo Sport RacingQ
-http://niobzca.cf:8080/live/george01/george02/158905.m3u8
-#EXTINF:-1,ZIGGO SPORT SELECT 1 HD
-http://niobzca.cf:8080/live/george01/george02/126486.m3u8
-#EXTINF:-1,ZIGGO SPORT SELECT HD
-http://niobzca.cf:8080/live/george01/george02/176439.m3u8
-#EXTINF:-1,ZIGGO SPORT VOETBAL HD
-http://niobzca.cf:8080/live/george01/george02/65193.m3u8
-#EXTINF:-1,Ziggo TV
-http://niobzca.cf:8080/live/george01/george02/135742.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NPO 1HD" tvg-logo="" group-title="NETHERLAND",NPO 1HD
+http://rb-group-server.com:25461/benjamine/benjamine/4209
+#EXTINF:-1 tvg-id="" tvg-name="NPO 2HD" tvg-logo="" group-title="NETHERLAND",NPO 2HD
+http://rb-group-server.com:25461/benjamine/benjamine/4167
+#EXTINF:-1 tvg-id="" tvg-name="NPO 3 HD" tvg-logo="" group-title="NETHERLAND",NPO 3 HD
+http://rb-group-server.com:25461/benjamine/benjamine/4205
+#EXTINF:-1 tvg-id="" tvg-name="RTL4 HD" tvg-logo="" group-title="NETHERLAND",RTL4 HD
+http://rb-group-server.com:25461/benjamine/benjamine/4187
+#EXTINF:-1 tvg-id="" tvg-name="RTL5 HD" tvg-logo="" group-title="NETHERLAND",RTL5 HD
+http://rb-group-server.com:25461/benjamine/benjamine/4186
+#EXTINF:-1 tvg-id="" tvg-name="SBS6 HD" tvg-logo="" group-title="NETHERLAND",SBS6 HD
+http://rb-group-server.com:25461/benjamine/benjamine/4191
+#EXTINF:-1 tvg-id="" tvg-name="RTL7 HD" tvg-logo="" group-title="NETHERLAND",RTL7 HD
+http://rb-group-server.com:25461/benjamine/benjamine/4181
+#EXTINF:-1 tvg-id="" tvg-name="RTL 8" tvg-logo="" group-title="NETHERLAND",RTL 8
+http://rb-group-server.com:25461/benjamine/benjamine/4180
+#EXTINF:-1 tvg-id="" tvg-name="SBS 9" tvg-logo="" group-title="NETHERLAND",SBS 9
+http://rb-group-server.com:25461/benjamine/benjamine/4179
+#EXTINF:-1 tvg-id="" tvg-name="RTL Z" tvg-logo="" group-title="NETHERLAND",RTL Z
+http://rb-group-server.com:25461/benjamine/benjamine/4172
+#EXTINF:-1 tvg-id="" tvg-name="RTL LOUNGE" tvg-logo="" group-title="NETHERLAND",RTL LOUNGE
+http://rb-group-server.com:25461/benjamine/benjamine/4178
+#EXTINF:-1 tvg-id="" tvg-name="Net 5 HD" tvg-logo="" group-title="NETHERLAND",Net 5 HD
+http://rb-group-server.com:25461/benjamine/benjamine/4175
+#EXTINF:-1 tvg-id="" tvg-name="NPO Politiek" tvg-logo="" group-title="NETHERLAND",NPO Politiek
+http://rb-group-server.com:25461/benjamine/benjamine/4208
+#EXTINF:-1 tvg-id="" tvg-name="FOX HD." tvg-logo="" group-title="NETHERLAND",FOX HD.
+http://rb-group-server.com:25461/benjamine/benjamine/4169
+#EXTINF:-1 tvg-id="" tvg-name="Film FAMILY" tvg-logo="" group-title="NETHERLAND",Film FAMILY
+http://rb-group-server.com:25461/benjamine/benjamine/4196
+#EXTINF:-1 tvg-id="" tvg-name="Film DRAMA" tvg-logo="" group-title="NETHERLAND",Film DRAMA
+http://rb-group-server.com:25461/benjamine/benjamine/4195
+#EXTINF:-1 tvg-id="" tvg-name="Film 1 Sundance" tvg-logo="" group-title="NETHERLAND",Film 1 Sundance
+http://rb-group-server.com:25461/benjamine/benjamine/4194
+#EXTINF:-1 tvg-id="" tvg-name="Film 1 Premiere HD" tvg-logo="" group-title="NETHERLAND",Film 1 Premiere HD
+http://rb-group-server.com:25461/benjamine/benjamine/4192
+#EXTINF:-1 tvg-id="" tvg-name="RTL Telekids" tvg-logo="" group-title="NETHERLAND",RTL Telekids
+http://rb-group-server.com:25461/benjamine/benjamine/7974
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central Extra." tvg-logo="" group-title="NETHERLAND",Comedy Central Extra.
+http://rb-group-server.com:25461/benjamine/benjamine/7963
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central," tvg-logo="" group-title="NETHERLAND",Comedy Central,
+http://rb-group-server.com:25461/benjamine/benjamine/7964
+#EXTINF:-1 tvg-id="" tvg-name="Crime & Investigation," tvg-logo="" group-title="NETHERLAND",Crime & Investigation,
+http://rb-group-server.com:25461/benjamine/benjamine/7962
+#EXTINF:-1 tvg-id="" tvg-name="RTL Crime." tvg-logo="" group-title="NETHERLAND",RTL Crime.
+http://rb-group-server.com:25461/benjamine/benjamine/7968
+#EXTINF:-1 tvg-id="" tvg-name="Omroep Zeeland" tvg-logo="" group-title="NETHERLAND",Omroep Zeeland
+http://rb-group-server.com:25461/benjamine/benjamine/7970
+#EXTINF:-1 tvg-id="" tvg-name="Omroep Brabant Televisie" tvg-logo="" group-title="NETHERLAND",Omroep Brabant Televisie
+http://rb-group-server.com:25461/benjamine/benjamine/7971
+#EXTINF:-1 tvg-id="" tvg-name="TV GELDERLAND" tvg-logo="" group-title="NETHERLAND",TV GELDERLAND
+http://rb-group-server.com:25461/benjamine/benjamine/7973
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="NETHERLAND",TLC
+http://rb-group-server.com:25461/benjamine/benjamine/4171
+#EXTINF:-1 tvg-id="" tvg-name="24 Kitchen HD." tvg-logo="" group-title="NETHERLAND",24 Kitchen HD.
+http://rb-group-server.com:25461/benjamine/benjamine/4170
+#EXTINF:-1 tvg-id="" tvg-name="E! entertainement HD," tvg-logo="" group-title="NETHERLAND",E! entertainement HD,
+http://rb-group-server.com:25461/benjamine/benjamine/7966
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild." tvg-logo="" group-title="NETHERLAND",Nat Geo Wild.
+http://rb-group-server.com:25461/benjamine/benjamine/4166
+#EXTINF:-1 tvg-id="" tvg-name="Discovery." tvg-logo="" group-title="NETHERLAND",Discovery.
+http://rb-group-server.com:25461/benjamine/benjamine/4168
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY," tvg-logo="" group-title="NETHERLAND",DISCOVERY,
+http://rb-group-server.com:25461/benjamine/benjamine/7961
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic HD," tvg-logo="" group-title="NETHERLAND",National Geographic HD,
+http://rb-group-server.com:25461/benjamine/benjamine/7960
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel HD," tvg-logo="" group-title="NETHERLAND",Disney Channel HD,
+http://rb-group-server.com:25461/benjamine/benjamine/7956
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior;" tvg-logo="" group-title="NETHERLAND",Disney Junior;
+http://rb-group-server.com:25461/benjamine/benjamine/7958
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network;" tvg-logo="" group-title="NETHERLAND",Cartoon Network;
+http://rb-group-server.com:25461/benjamine/benjamine/7955
+#EXTINF:-1 tvg-id="" tvg-name="NICK TOONS," tvg-logo="" group-title="NETHERLAND",NICK TOONS,
+http://rb-group-server.com:25461/benjamine/benjamine/7959
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD," tvg-logo="" group-title="NETHERLAND",MTV HD,
+http://rb-group-server.com:25461/benjamine/benjamine/7965
+#EXTINF:-1 tvg-id="" tvg-name="NPO Zapp Xtra" tvg-logo="" group-title="NETHERLAND",NPO Zapp Xtra
+http://rb-group-server.com:25461/benjamine/benjamine/4207
+#EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport Golf" tvg-logo="" group-title="NETHERLAND",Ziggo Sport Golf
+http://rb-group-server.com:25461/benjamine/benjamine/4200
+#EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport Racing" tvg-logo="" group-title="NETHERLAND",Ziggo Sport Racing
+http://rb-group-server.com:25461/benjamine/benjamine/4201
+#EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport Voetbal HD" tvg-logo="" group-title="NETHERLAND",Ziggo Sport Voetbal HD
+http://rb-group-server.com:25461/benjamine/benjamine/4204
+#EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport eXtra 1" tvg-logo="" group-title="NETHERLAND",Ziggo Sport eXtra 1
+http://rb-group-server.com:25461/benjamine/benjamine/4199
+#EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport eXtra 2" tvg-logo="" group-title="NETHERLAND",Ziggo Sport eXtra 2
+http://rb-group-server.com:25461/benjamine/benjamine/4197
+#EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport Select HD" tvg-logo="" group-title="NETHERLAND",Ziggo Sport Select HD
+http://rb-group-server.com:25461/benjamine/benjamine/4202
+#EXTINF:-1 tvg-id="" tvg-name="Veronica Disney XD" tvg-logo="" group-title="NETHERLAND",Veronica Disney XD
+http://rb-group-server.com:25461/benjamine/benjamine/4173
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 HD" tvg-logo="" group-title="NETHERLAND",Fox Sports 1 HD
+http://rb-group-server.com:25461/benjamine/benjamine/4185
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD" tvg-logo="" group-title="NETHERLAND",Fox Sports 2 HD
+http://rb-group-server.com:25461/benjamine/benjamine/4165
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3 HD" tvg-logo="" group-title="NETHERLAND",Fox Sports 3 HD
+http://rb-group-server.com:25461/benjamine/benjamine/4183
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 4 HD" tvg-logo="" group-title="NETHERLAND",Fox Sports 4 HD
+http://rb-group-server.com:25461/benjamine/benjamine/4184
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 5 Hd" tvg-logo="" group-title="NETHERLAND",Fox Sports 5 Hd
+http://rb-group-server.com:25461/benjamine/benjamine/4206
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 6 HD" tvg-logo="" group-title="NETHERLAND",Fox Sports 6 HD
+http://rb-group-server.com:25461/benjamine/benjamine/4182
