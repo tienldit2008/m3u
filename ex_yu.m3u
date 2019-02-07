@@ -1,203 +1,619 @@
 #EXTM3U
-#EXTINF:0,HRT 1
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/78
-#EXTINF:0,HRT 2
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/79
-#EXTINF:0,HRT 3
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/80
-#EXTINF:0,HRT 4
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/81
-#EXTINF:0,HRT 5
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/82
-#EXTINF:0,RTL
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/2
-#EXTINF:0,RTL 2
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/3
-#EXTINF:0,RTL Crime
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/4
-#EXTINF:0,RTL Passion
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/25
-#EXTINF:0,RTL Living
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/24
-#EXTINF:0,Nova TV
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/5
-#EXTINF:0,Nova TV HD
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/6
-#EXTINF:0,Nova World
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/133
-#EXTINF:0,Doma TV
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/95
-#EXTINF:0,Doma TV HD
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/96
-#EXTINF:0,Klasik TV
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/109
-#EXTINF:0,Z1
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/114
-#EXTINF:0,Laudato TV
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/135
-#EXTINF:0,Osjecka TV
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/110
-#EXTINF:0,Slavonska TV
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/111
-#EXTINF:0,Vinkovacka TV
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/112
-#EXTINF:0,RTV Banovina
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/113
-#EXTINF:0,Jabuka TV
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/134
-#EXTINF:0,TV Jadran
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/140
-#EXTINF:0,Kanal R
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/139
-#EXTINF:0,Srce TV
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/138
-#EXTINF:0,TV Istra
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/137
-#EXTINF:0,Dubrovacka TV
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/141
-#EXTINF:0,Varazdinska TV
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/136
-#EXTINF:0,RTS 1
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/491
-#EXTINF:0,RTS 2
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/492
-#EXTINF:0,RTS 3
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/493
 #EXTINF:0,RTS HD
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/496
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/104.ts
+#EXTINF:0,RTS 1
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/101.ts
+#EXTINF:0,RTS 2
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/102.ts
+#EXTINF:0,RTS 3
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/103.ts
 #EXTINF:0,RTS Svet
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/494
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/105.ts
 #EXTINF:0,RTS Drama
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/495
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/106.ts
 #EXTINF:0,RTS Trezor
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/506
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/107.ts
+#EXTINF:0,Pink
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/304.ts
 #EXTINF:0,Prva
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/497
-#EXTINF:0,Prva Max
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/499
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/108.ts
 #EXTINF:0,Prva Plus
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/498
-#EXTINF:0,Prva Kick
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/500
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/110.ts
+#EXTINF:0,Prva Max
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/109.ts
 #EXTINF:0,Prva World
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/501
-#EXTINF:0,Happy TV
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/502
-#EXTINF:0,TOP HD
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/503
-#EXTINF:0,O2 TV
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/533
-#EXTINF:0,Studio B
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/538
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/112.ts
+#EXTINF:0,Prva Kick
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/111.ts
+#EXTINF:0,O2
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/115.ts
+#EXTINF:0,Happy
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/113.ts
+#EXTINF:0,TOP
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/114.ts
 #EXTINF:0,Nova RS
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/532
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/117.ts
+#EXTINF:0,Studio B
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/116.ts
 #EXTINF:0,RTV 1
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/535
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/118.ts
 #EXTINF:0,RTV 2
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/536
-#EXTINF:0,RTV Novi Pazar
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/537
-#EXTINF:0,YU Planet
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/542
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/119.ts
 #EXTINF:0,Palma Plus
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/534
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/122.ts
 #EXTINF:0,TV Bor
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/539
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/123.ts
+#EXTINF:0,YU Planet
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/121.ts
+#EXTINF:0,RTV Novi Pazar
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/120.ts
 #EXTINF:0,TV Hram
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/540
-#EXTINF:0,= = = = = = Q FILMOVI I SERIJE = = = = = =
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/258
-#EXTINF:0,HBO HD
-http://185.180.12.73:80/QStalker/Ip5gOEoeSw/3
-#EXTINF:0,HBO 2 HD
-http://185.180.12.73:80/QStalker/Ip5gOEoeSw/12
-#EXTINF:0,HBO 3 HD
-http://185.180.12.73:80/QStalker/Ip5gOEoeSw/13
-#EXTINF:0,Cinemax HD
-http://185.180.12.73:80/QStalker/Ip5gOEoeSw/14
-#EXTINF:0,Cinemax 2 HD
-http://185.180.12.73:80/QStalker/Ip5gOEoeSw/15
-#EXTINF:0,CineStar TV
-http://185.180.12.73:80/QStalker/Ip5gOEoeSw/26
-#EXTINF:0,CineStar TV Fantasy
-http://185.180.12.73:80/QStalker/Ip5gOEoeSw/27
-#EXTINF:0,CineStar TV Action & Thriller
-http://185.180.12.73:80/QStalker/Ip5gOEoeSw/28
-#EXTINF:0,CineStar TV Premiere 1 HD
-http://185.180.12.73:80/QStalker/Ip5gOEoeSw/29
-#EXTINF:0,CineStar TV Premiere 2 HD
-http://185.180.12.73:80/QStalker/Ip5gOEoeSw/30
-#EXTINF:0,FOX HD
-http://185.180.12.73:80/QStalker/Ip5gOEoeSw/39
-#EXTINF:0,FOX Life HD
-http://185.180.12.73:80/QStalker/Ip5gOEoeSw/40
-#EXTINF:0,FOX Crime HD
-http://185.180.12.73:80/QStalker/Ip5gOEoeSw/41
-#EXTINF:0,FOX Movies HD
-http://185.180.12.73:80/QStalker/Ip5gOEoeSw/42
-#EXTINF:0,AXN
-http://185.180.12.73:80/QStalker/Ip5gOEoeSw/51
-#EXTINF:0,AXN Spin
-http://185.180.12.73:80/QStalker/Ip5gOEoeSw/52
-#EXTINF:0,M1 Film
-http://185.180.12.73:80/QStalker/Ip5gOEoeSw/53
-#EXTINF:0,M1 Gold
-http://185.180.12.73:80/QStalker/Ip5gOEoeSw/54
-#EXTINF:0,Filmbox Plus HD
-http://185.180.12.73:80/QStalker/Ip5gOEoeSw/63
-#EXTINF:0,Filmbox Extra HD
-http://185.180.12.73:80/QStalker/Ip5gOEoeSw/64
-#EXTINF:0,SciFi
-http://185.180.12.73:80/QStalker/Ip5gOEoeSw/65
-#EXTINF:0,TV 1000
-http://185.180.12.73:80/QStalker/Ip5gOEoeSw/66
-#EXTINF:0,AMC HD
-http://185.180.12.73:80/QStalker/Ip5gOEoeSw/73
-#EXTINF:0,Kino TV HD
-http://185.180.12.73:80/QStalker/Ip5gOEoeSw/74
-#EXTINF:0,Diva Universal
-http://185.180.12.73:80/QStalker/Ip5gOEoeSw/75
-#EXTINF:0,Pickbox TV HD
-http://185.180.12.73:80/QStalker/Ip5gOEoeSw/82
-#EXTINF:0,Cinemania
-http://185.180.12.73:80/QStalker/Ip5gOEoeSw/83
-#EXTINF:0,Comedy Central Extra
-http://185.180.12.73:80/QStalker/Ip5gOEoeSw/84
-#EXTINF:0,= = = = = = Q CRNOGORSKI = = = = = =
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/370
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/124.ts
+#EXTINF:0,= = = = = = HRVATSKI = = = = = =
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/70.ts
+#EXTINF:0,HTV 1
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/71.ts
+#EXTINF:0,HTV 2
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/72.ts
+#EXTINF:0,HTV 3
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/73.ts
+#EXTINF:0,HTV 4
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/74.ts
+#EXTINF:0,HTV 5
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/75.ts
+#EXTINF:0,RTL
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/76.ts
+#EXTINF:0,RTL 2
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/77.ts
+#EXTINF:0,RTL Crime
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/78.ts
+#EXTINF:0,RTL Living
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/80.ts
+#EXTINF:0,RTL Passion
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/79.ts
+#EXTINF:0,Nova TV
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/81.ts
+#EXTINF:0,Nova TV HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/82.ts
+#EXTINF:0,Nova World
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/83.ts
+#EXTINF:0,Doma TV
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/84.ts
+#EXTINF:0,Doma TV HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/85.ts
+#EXTINF:0,Klasik TV
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/86.ts
+#EXTINF:0,Z1
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/87.ts
+#EXTINF:0,Varazdinska TV
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/99.ts
+#EXTINF:0,Dubrovacka TV
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/98.ts
+#EXTINF:0,TV Istra
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/97.ts
+#EXTINF:0,Srce TV
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/96.ts
+#EXTINF:0,Kanal R
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/95.ts
+#EXTINF:0,Jabuka TV
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/93.ts
+#EXTINF:0,TV Jadran
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/94.ts
+#EXTINF:0,Vinkovacka TV
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/91.ts
+#EXTINF:0,RTV Banovina
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/92.ts
+#EXTINF:0,Slavonska TV
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/90.ts
+#EXTINF:0,Laudato TV
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/88.ts
+#EXTINF:0,Osjecka TV
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/89.ts
+#EXTINF:0,= = = = = = BOSANSKI = = = = = =
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/351.ts
+#EXTINF:0,BHT
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/331.ts
+#EXTINF:0,BHT HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/332.ts
+#EXTINF:0,Federalna TV
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/333.ts
+#EXTINF:0,Alternativna TV
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/345.ts
+#EXTINF:0,OBN
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/336.ts
+#EXTINF:0,OBN Sat
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/337.ts
+#EXTINF:0,Face TV
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/338.ts
+#EXTINF:0,Face TV HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/339.ts
+#EXTINF:0,BN TV
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/343.ts
+#EXTINF:0,BN SAT
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/344.ts
+#EXTINF:0,Nova BH
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/340.ts
+#EXTINF:0,RTRS
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/334.ts
+#EXTINF:0,RTRS Plus
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/335.ts
+#EXTINF:0,HAYAT TV
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/341.ts
+#EXTINF:0,Hayat Plus
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/342.ts
+#EXTINF:0,MTV Igman HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/348.ts
+#EXTINF:0,Kanal 6 HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/350.ts
+#EXTINF:0,TV1
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/349.ts
+#EXTINF:0,Al Jazeera Balkans
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/346.ts
+#EXTINF:0,Al Jazeera Balkans HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/347.ts
+#EXTINF:0,= = = = = = CRNOGORSKI = = = = = =
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/201.ts
 #EXTINF:0,TVCG 1
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/363
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/202.ts
 #EXTINF:0,TVCG 2
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/364
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/203.ts
 #EXTINF:0,TVCG Sat
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/365
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/204.ts
 #EXTINF:0,Prva CG
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/366
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/205.ts
 #EXTINF:0,24 Vijesti
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/368
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/206.ts
 #EXTINF:0,Sandzak TV
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/367
-#EXTINF:0,= = = = = = Q MAKEDONSKI = = = = = =
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/394
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/207.ts
+#EXTINF:0,= = = = = = PINK MEDIA = = = = = =
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/427.ts
+#EXTINF:0,Pink 2
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/428.ts
+#EXTINF:0,Pink 3 Info
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/429.ts
+#EXTINF:0,Pink Zabava
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/459.ts
+#EXTINF:0,Pink M
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/443.ts
+#EXTINF:0,Pink BH
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/442.ts
+#EXTINF:0,Pink Extra
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/434.ts
+#EXTINF:0,Pink Plus
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/446.ts
+#EXTINF:0,Pink Family
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/435.ts
+#EXTINF:0,Pink Reality
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/448.ts
+#EXTINF:0,Pink Show
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/452.ts
+#EXTINF:0,Pink Film
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/437.ts
+#EXTINF:0,Pink Crime & Mystery
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/433.ts
+#EXTINF:0,Pink Comedy
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/432.ts
+#EXTINF:0,Pink Classic
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/431.ts
+#EXTINF:0,Pink Action
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/430.ts
+#EXTINF:0,Pink World Cinema
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/458.ts
+#EXTINF:0,Pink World
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/457.ts
+#EXTINF:0,Pink Western
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/456.ts
+#EXTINF:0,Pink Thriller
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/455.ts
+#EXTINF:0,Pink Style
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/454.ts
+#EXTINF:0,Pink Soap
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/453.ts
+#EXTINF:0,Pink Serije
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/451.ts
+#EXTINF:0,Pink Sci-Fi/Fantasy
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/450.ts
+#EXTINF:0,Pink Romance
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/449.ts
+#EXTINF:0,Pink Premium
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/447.ts
+#EXTINF:0,Pink Pedia
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/445.ts
+#EXTINF:0,Pink Movies
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/444.ts
+#EXTINF:0,Pink Horror
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/439.ts
+#EXTINF:0,Pink Fashion
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/436.ts
+#EXTINF:0,Pink Kuvar
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/440.ts
+#EXTINF:0,LOL
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/441.ts
+#EXTINF:0,HA HA
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/438.ts
+#EXTINF:0,= = = = = = SLOVENACKI = = = = = =
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/374.ts
+#EXTINF:0,SLO 1
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/352.ts
+#EXTINF:0,SLO 2
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/353.ts
+#EXTINF:0,SLO 3
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/354.ts
+#EXTINF:0,Pop TV
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/358.ts
+#EXTINF:0,Pop Oto
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/359.ts
+#EXTINF:0,Pop Kino
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/361.ts
+#EXTINF:0,Pop Brio
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/360.ts
+#EXTINF:0,Planet TV HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/366.ts
+#EXTINF:0,Planet TV HD 2
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/367.ts
+#EXTINF:0,Kanal A HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/357.ts
+#EXTINF:0,= = = = = = MAKEDONSKI = = = = = =
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/208.ts
 #EXTINF:0,MRT 1
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/387
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/209.ts
 #EXTINF:0,MRT 2
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/388
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/210.ts
 #EXTINF:0,MRT 3
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/411
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/211.ts
 #EXTINF:0,Kanal 5
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/389
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/212.ts
 #EXTINF:0,Kanal 5 Plus
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/390
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/213.ts
 #EXTINF:0,Sitel
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/391
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/214.ts
 #EXTINF:0,Telma
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/392
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/215.ts
 #EXTINF:0,Alfa TV
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/393
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/216.ts
 #EXTINF:0,24 Vesti
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/395
-#EXTINF:0,IN TV
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/409
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/217.ts
 #EXTINF:0,TV Sonce
-http://185.180.12.70:80/QStalker/ALVZTT8G2p/408
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/219.ts
+#EXTINF:0,IN TV
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/218.ts
+#EXTINF:0,Sutel TV
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/220.ts
+#EXTINF:0,Sky Folk HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/221.ts
+#EXTINF:0,= = = = = = DOKUMENTARNI = = = = = =
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/406.ts
+#EXTINF:0,Animal Planet
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/376.ts
+#EXTINF:0,Animal Planet HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/377.ts
+#EXTINF:0,Planet Earth HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/404.ts
+#EXTINF:0,BBC Earth HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/398.ts
+#EXTINF:0,Nat Geo
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/385.ts
+#EXTINF:0,Nat Geo HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/386.ts
+#EXTINF:0,Nat Geo Wild HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/387.ts
+#EXTINF:0,Discovery Channel
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/381.ts
+#EXTINF:0,Discovery Channel HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/382.ts
+#EXTINF:0,Discovery Science HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/401.ts
+#EXTINF:0,Discovery Showcase HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/384.ts
+#EXTINF:0,Discovery ID
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/383.ts
+#EXTINF:0,History
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/378.ts
+#EXTINF:0,History Channel HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/380.ts
+#EXTINF:0,History 2
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/379.ts
+#EXTINF:0,Viasat Nature
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/394.ts
+#EXTINF:0,Viasat Explore
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/403.ts
+#EXTINF:0,Viasat History
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/395.ts
+#EXTINF:0,Travel Channel
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/396.ts
+#EXTINF:0,Doku TV
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/399.ts
+#EXTINF:0,Docubox HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/393.ts
+#EXTINF:0,Da Vinci Learning HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/405.ts
+#EXTINF:0,Crime & Investigation
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/388.ts
+#EXTINF:0,TLC
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/391.ts
+#EXTINF:0,E! Entertainment
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/390.ts
+#EXTINF:0,Fine Living
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/397.ts
+#EXTINF:0,Woman TV HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/402.ts
+#EXTINF:0,Dr. Fit HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/400.ts
+#EXTINF:0,Food Network
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/392.ts
+#EXTINF:0,24 Kitchen
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/375.ts
+#EXTINF:0,Lov i Ribolov
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/389.ts
+#EXTINF:0,= = = = = = FILMOVI I SERIJE = = = = = =
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/127.ts
+#EXTINF:0,HBO HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/128.ts
+#EXTINF:0,HBO 2 HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/129.ts
+#EXTINF:0,HBO 3 HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/130.ts
+#EXTINF:0,Cinemax HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/131.ts
+#EXTINF:0,Cinemax 2 HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/132.ts
+#EXTINF:0,CineStar TV
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/133.ts
+#EXTINF:0,CineStar TV Fantasy
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/134.ts
+#EXTINF:0,CineStar TV Action & Thriller
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/135.ts
+#EXTINF:0,CineStar TV Premiere 1 HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/136.ts
+#EXTINF:0,CineStar TV Premiere 2 HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/137.ts
+#EXTINF:0,FOX HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/138.ts
+#EXTINF:0,FOX Crime HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/140.ts
+#EXTINF:0,FOX Movies HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/141.ts
+#EXTINF:0,FOX Life HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/139.ts
+#EXTINF:0,AXN
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/142.ts
+#EXTINF:0,AXN Spin
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/143.ts
+#EXTINF:0,M1 Film
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/144.ts
+#EXTINF:0,M1 Gold
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/145.ts
+#EXTINF:0,Filmbox Plus HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/146.ts
+#EXTINF:0,Filmbox Extra HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/147.ts
+#EXTINF:0,SciFi
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/148.ts
+#EXTINF:0,AMC HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/150.ts
+#EXTINF:0,Cinemania
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/154.ts
+#EXTINF:0,Kino TV HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/151.ts
+#EXTINF:0,Pickbox TV HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/153.ts
+#EXTINF:0,Diva Universal
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/152.ts
+#EXTINF:0,TV 1000
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/149.ts
+#EXTINF:0,Comedy Central Extra
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/155.ts
+#EXTINF:0,OYO Cinema
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/632.ts
+#EXTINF:0,OYO Family
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/631.ts
+#EXTINF:0,= = = = = = DECJI = = = = = =
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/407.ts
+#EXTINF:0,Cartoon Network
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/409.ts
+#EXTINF:0,Cartoon Network HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/410.ts
+#EXTINF:0,Disney Channel HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/411.ts
+#EXTINF:0,Disney Cinemagic HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/412.ts
+#EXTINF:0,Disney Junior HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/413.ts
+#EXTINF:0,Disney XD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/414.ts
+#EXTINF:0,Nickelodeon
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/420.ts
+#EXTINF:0,Nickelodeon HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/421.ts
+#EXTINF:0,Boomerang
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/426.ts
+#EXTINF:0,Minimax
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/418.ts
+#EXTINF:0,Hayatovci
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/415.ts
+#EXTINF:0,Ultra TV
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/425.ts
+#EXTINF:0,Pink Super Kids
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/423.ts
+#EXTINF:0,Pink Kids
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/422.ts
+#EXTINF:0,Mini Ultra
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/417.ts
+#EXTINF:0,Mini TV
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/416.ts
+#EXTINF:0,RTL Kockica
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/424.ts
+#EXTINF:0,Baby TV
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/408.ts
+#EXTINF:0,= = = = = = SPORT = = = = = =
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/461.ts
+#EXTINF:0,Arena Sport 1 Srb
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/462.ts
+#EXTINF:0,Arena Sport 2 Srb
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/463.ts
+#EXTINF:0,Arena Sport 3 Srb
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/464.ts
+#EXTINF:0,Arena Sport 4 Srb
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/465.ts
+#EXTINF:0,Arena Sport 5 Srb
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/466.ts
+#EXTINF:0,Arena Sport 1 HD Srb
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/467.ts
+#EXTINF:0,Arena Sport 2 HD Srb
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/468.ts
+#EXTINF:0,Arena Sport 3 HD Srb
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/469.ts
+#EXTINF:0,Arena Sport 4 HD Srb
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/470.ts
+#EXTINF:0,Arena Sport 1 HD Hr
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/471.ts
+#EXTINF:0,Arena Sport 2 HD Hr
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/472.ts
+#EXTINF:0,Arena Sport 3 HD Hr
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/473.ts
+#EXTINF:0,Arena Sport 4 HD Hr
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/474.ts
+#EXTINF:0,Arena Sport 5 HD Hr
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/475.ts
+#EXTINF:0,Sport Klub HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/477.ts
+#EXTINF:0,Sport Klub Golf HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/478.ts
+#EXTINF:0,Sport Klub 1
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/479.ts
+#EXTINF:0,Sport Klub 2
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/480.ts
+#EXTINF:0,Sport Klub 3
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/481.ts
+#EXTINF:0,Sport Klub 4
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/482.ts
+#EXTINF:0,Sport Klub 5
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/483.ts
+#EXTINF:0,Sport Klub 6
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/484.ts
+#EXTINF:0,Sport Klub 7
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/485.ts
+#EXTINF:0,Sport Klub 8
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/486.ts
+#EXTINF:0,Sport Klub 9
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/487.ts
+#EXTINF:0,Sport Klub 10
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/488.ts
+#EXTINF:0,Planet Sport 1 HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/614.ts
+#EXTINF:0,Planet Sport 2 HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/615.ts
+#EXTINF:0,Planet Sport 3 HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/616.ts
+#EXTINF:0,Planet Sport 4 HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/617.ts
+#EXTINF:0,Planet Sport 5 HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/618.ts
+#EXTINF:0,Eurosport 1 HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/489.ts
+#EXTINF:0,Eurosport 2 HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/490.ts
+#EXTINF:0,Sport Klub 1 SLO
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/371.ts
+#EXTINF:0,Sport klub 2 SLO
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/372.ts
+#EXTINF:0,Sport klub 3 SLO
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/373.ts
+#EXTINF:0,SOS Kanal
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/492.ts
+#EXTINF:0,Sport TV 3 SLO
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/370.ts
+#EXTINF:0,Sport TV 2 SLO
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/369.ts
+#EXTINF:0,Sport TV 1 SLO
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/368.ts
+#EXTINF:0,HNTV
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/493.ts
+#EXTINF:0,Sky Sports News HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/602.ts
+#EXTINF:0,Sky Sports Mix HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/601.ts
+#EXTINF:0,Sky Sports F1
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/620.ts
+#EXTINF:0,Sky Sport 1 HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/591.ts
+#EXTINF:0,Sky Sport 2 HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/592.ts
+#EXTINF:0,Sky Sport 3 HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/593.ts
+#EXTINF:0,Sky Sport 4 HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/594.ts
+#EXTINF:0,Sky Sport 5 HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/595.ts
+#EXTINF:0,Sky Sport 6 HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/596.ts
+#EXTINF:0,Sky Sport 7 HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/597.ts
+#EXTINF:0,Sky Sport 8 HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/598.ts
+#EXTINF:0,Sky Sport 9 HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/599.ts
+#EXTINF:0,Sky Sport 10 HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/600.ts
+#EXTINF:0,BT Sport 1 HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/589.ts
+#EXTINF:0,BT Sport 2 HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/590.ts
+#EXTINF:0,BT Sport 3 HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/625.ts
+#EXTINF:0,BT Sport ESPN FHD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/626.ts
+#EXTINF:0,Eleven Sports 1 FHD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/606.ts
+#EXTINF:0,Eleven Sports 2 FHD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/607.ts
+#EXTINF:0,Eleven Sports 3 FHD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/608.ts
+#EXTINF:0,Eleven Sports 4 FHD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/609.ts
+#EXTINF:0,Canal  Sport FHD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/628.ts
+#EXTINF:0,Canal  Sport 2 FHD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/627.ts
+#EXTINF:0,Bein Sports HD 1
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/610.ts
+#EXTINF:0,Bein Sports HD 2
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/612.ts
+#EXTINF:0,Bein Sports HD 3
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/613.ts
+#EXTINF:0,Bein Sports HD 4
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/708.ts
+#EXTINF:0,Bein Sports HD 5
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/709.ts
+#EXTINF:0,Bein Sports HD 6
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/710.ts
+#EXTINF:0,Bein Sports HD 7
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/711.ts
+#EXTINF:0,Bein Sports HD 8
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/712.ts
+#EXTINF:0,Bein Sports HD 9
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/619.ts
+#EXTINF:0,Bein Sports HD 10
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/713.ts
+#EXTINF:0,NFL Network HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/624.ts
+#EXTINF:0,Dazn 1 HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/604.ts
+#EXTINF:0,Dazn 2 HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/605.ts
+#EXTINF:0,NBA TV
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/623.ts
+#EXTINF:0,Golf Channel
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/630.ts
+#EXTINF:0,Chelsea TV
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/603.ts
+#EXTINF:0,Viasat Footboll
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/316.ts
+#EXTINF:0,Fight Box HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/629.ts
+#EXTINF:0,Box Nation HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/622.ts
+#EXTINF:0,Racing UK HD
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/621.ts
+#EXTINF:0,Fight Channel
+http://hunter.myddns.me:25461/live/hvAl3gv5Cm/PqmvgRTIiH/495.ts
