@@ -1,45 +1,45 @@
 #EXTM3U
-#EXTINF:-1,1 Music Channel
-http://smart-hdip.com:6204/RDWAN/123/9057
-#EXTINF:-1,Acasa Gold
-http://smart-hdip.com:6204/RDWAN/123/9056
-#EXTINF:-1,Acasa TV
-http://smart-hdip.com:6204/RDWAN/123/5904
 #EXTINF:-1,Antena 1
-http://smart-hdip.com:6204/RDWAN/123/9055
+http://smart-hdip.com:6204/faiez/123/9055
 #EXTINF:-1,Antena 3
-http://smart-hdip.com:6204/RDWAN/123/9054
+http://smart-hdip.com:6204/faiez/123/9054
 #EXTINF:-1,Antena Stars
-http://smart-hdip.com:6204/RDWAN/123/9053
-#EXTINF:-1,B1 TV
-http://smart-hdip.com:6204/RDWAN/123/5798
-#EXTINF:-1,CBS Reality
-http://smart-hdip.com:6204/RDWAN/123/9051
-#EXTINF:-1,Digi 24
-http://smart-hdip.com:6204/RDWAN/123/9050
-#EXTINF:-1,Dolce Sport 1 HD
-http://smart-hdip.com:6204/RDWAN/123/9049
-#EXTINF:-1,Dolce Sport 2 HD
-http://smart-hdip.com:6204/RDWAN/123/9048
-#EXTINF:-1,HBO
-http://smart-hdip.com:6204/RDWAN/123/9045
+http://smart-hdip.com:6204/faiez/123/9053
 #EXTINF:-1,Kanal D
-http://smart-hdip.com:6204/RDWAN/123/9044
-#EXTINF:-1,Kiss TV
-http://smart-hdip.com:6204/RDWAN/123/9043
-#EXTINF:-1,Na?ional TV
-http://smart-hdip.com:6204/RDWAN/123/9041
-#EXTINF:-1,National Geographic Wild
-http://smart-hdip.com:6204/RDWAN/123/9039
-#EXTINF:-1,Prima TV
-http://smart-hdip.com:6204/RDWAN/123/9038
-#EXTINF:-1,Pro TV
-http://smart-hdip.com:6204/RDWAN/123/9036
-#EXTINF:-1,Pro TV International
-http://smart-hdip.com:6204/RDWAN/123/9035
-#EXTINF:-1,Realitatea TV
-http://smart-hdip.com:6204/RDWAN/123/9034
+http://smart-hdip.com:6204/faiez/123/9044
+#EXTINF:-1,Acasa TV
+http://smart-hdip.com:6204/faiez/123/5904
+#EXTINF:-1,Acasa Gold
+http://smart-hdip.com:6204/faiez/123/9056
+#EXTINF:-1,B1 TV
+http://smart-hdip.com:6204/faiez/123/5798
 #EXTINF:-1,Romania TV
-http://smart-hdip.com:6204/RDWAN/123/9033
+http://smart-hdip.com:6204/faiez/123/9033
+#EXTINF:-1,Prima TV
+http://smart-hdip.com:6204/faiez/123/9038
+#EXTINF:-1,Pro TV
+http://smart-hdip.com:6204/faiez/123/9036
+#EXTINF:-1,Pro TV International
+http://smart-hdip.com:6204/faiez/123/9035
+#EXTINF:-1,Realitatea TV
+http://smart-hdip.com:6204/faiez/123/9034
+#EXTINF:-1,Na?ional TV
+http://smart-hdip.com:6204/faiez/123/9041
+#EXTINF:-1,CBS Reality
+http://smart-hdip.com:6204/faiez/123/9051
+#EXTINF:-1,Digi 24
+http://smart-hdip.com:6204/faiez/123/9050
+#EXTINF:-1,HBO
+http://smart-hdip.com:6204/faiez/123/9045
+#EXTINF:-1,Kiss TV
+http://smart-hdip.com:6204/faiez/123/9043
 #EXTINF:-1,Taraf TV
-http://smart-hdip.com:6204/RDWAN/123/9032
+http://smart-hdip.com:6204/faiez/123/9032
+#EXTINF:-1,1 Music Channel
+http://smart-hdip.com:6204/faiez/123/9057
+#EXTINF:-1,National Geographic Wild
+http://smart-hdip.com:6204/faiez/123/9039
+#EXTINF:-1,Dolce Sport 1 HD
+http://smart-hdip.com:6204/faiez/123/9049
+#EXTINF:-1,Dolce Sport 2 HD
+http://smart-hdip.com:6204/faiez/123/9048

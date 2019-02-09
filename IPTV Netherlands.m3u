@@ -1,81 +1,67 @@
 #EXTM3U
-#EXTINF:-1,Cartoon.Network
-http://iptv.am000.tv:8000/ammar/ammar123/2285
-#EXTINF:-1,Comedy.central
-http://iptv.am000.tv:8000/ammar/ammar123/2284
-#EXTINF:-1,Comedy.Central.extra
-http://iptv.am000.tv:8000/ammar/ammar123/2283
-#EXTINF:-1,Crime&Investigation
-http://iptv.am000.tv:8000/ammar/ammar123/2276
-#EXTINF:-1,Discovery
-http://iptv.am000.tv:8000/ammar/ammar123/2282
-#EXTINF:-1,Film1.Action
-http://iptv.am000.tv:8000/ammar/ammar123/2281
-#EXTINF:-1,Disney.Channel
-http://iptv.am000.tv:8000/ammar/ammar123/2280
-#EXTINF:-1,Film1.Drama
-http://iptv.am000.tv:8000/ammar/ammar123/2287
-#EXTINF:-1,Film1.Family
-http://iptv.am000.tv:8000/ammar/ammar123/2286
-#EXTINF:-1,Film1.Premiere
-http://iptv.am000.tv:8000/ammar/ammar123/2289
-#EXTINF:-1,Film1.Sundance
-http://iptv.am000.tv:8000/ammar/ammar123/2279
-#EXTINF:-1,Fox
-http://iptv.am000.tv:8000/ammar/ammar123/2290
-#EXTINF:-1,FoxSport1
-http://iptv.am000.tv:8000/ammar/ammar123/2266
-#EXTINF:-1,FoxSport2
-http://iptv.am000.tv:8000/ammar/ammar123/2265
-#EXTINF:-1,FoxSport3
-http://iptv.am000.tv:8000/ammar/ammar123/2264
-#EXTINF:-1,FoxSport4
-http://iptv.am000.tv:8000/ammar/ammar123/2263
-#EXTINF:-1,FoxSport5
-http://iptv.am000.tv:8000/ammar/ammar123/2262
-#EXTINF:-1,FoxSport6
-http://iptv.am000.tv:8000/ammar/ammar123/2278
-#EXTINF:-1,History.Channel
-http://iptv.am000.tv:8000/ammar/ammar123/2277
-#EXTINF:-1,Nat.Geo.Wild
-http://iptv.am000.tv:8000/ammar/ammar123/2275
-#EXTINF:-1,National.Geographic
-http://iptv.am000.tv:8000/ammar/ammar123/2274
-#EXTINF:-1,Net5
-http://iptv.am000.tv:8000/ammar/ammar123/2295
-#EXTINF:-1,Nickelodeon
-http://iptv.am000.tv:8000/ammar/ammar123/2273
-#EXTINF:-1,Npo1
-http://iptv.am000.tv:8000/ammar/ammar123/2298
-#EXTINF:-1,Npo2
-http://iptv.am000.tv:8000/ammar/ammar123/2297
-#EXTINF:-1,Npo3
-http://iptv.am000.tv:8000/ammar/ammar123/2296
-#EXTINF:-1,RTL.Z
-http://iptv.am000.tv:8000/ammar/ammar123/2292
-#EXTINF:-1,Rtl4
-http://iptv.am000.tv:8000/ammar/ammar123/2302
-#EXTINF:-1,Rtl5
-http://iptv.am000.tv:8000/ammar/ammar123/2301
-#EXTINF:-1,Rtl7
-http://iptv.am000.tv:8000/ammar/ammar123/2300
-#EXTINF:-1,Rtl8
-http://iptv.am000.tv:8000/ammar/ammar123/2299
-#EXTINF:-1,Sbs6
-http://iptv.am000.tv:8000/ammar/ammar123/2294
-#EXTINF:-1,Sbs9
-http://iptv.am000.tv:8000/ammar/ammar123/2293
-#EXTINF:-1,TLC
-http://iptv.am000.tv:8000/ammar/ammar123/2291
-#EXTINF:-1,Veronica
-http://iptv.am000.tv:8000/ammar/ammar123/2272
-#EXTINF:-1,Ziggo Sport.Voetba
-http://iptv.am000.tv:8000/ammar/ammar123/2271
-#EXTINF:-1,Ziggo.Sport
-http://iptv.am000.tv:8000/ammar/ammar123/2270
-#EXTINF:-1,Ziggo.Sport.Golf
-http://iptv.am000.tv:8000/ammar/ammar123/2269
-#EXTINF:-1,Ziggo.Sport.Racing
-http://iptv.am000.tv:8000/ammar/ammar123/2268
-#EXTINF:-1,Ziggo.Sport.Select
-http://iptv.am000.tv:8000/ammar/ammar123/2267
+#EXTINF:-1,ZIGGO SPORT Select HD
+http://tv24serwis2.eu:8000/45879541/stalker/287
+#EXTINF:-1,ZIGGO SPORT Golf
+http://tv24serwis2.eu:8000/45879541/stalker/288
+#EXTINF:-1,VERONIKA DISNEY XD
+http://tv24serwis2.eu:8000/45879541/stalker/232
+#EXTINF:-1,TV West
+http://tv24serwis2.eu:8000/45879541/stalker/250
+#EXTINF:-1,TLC HD
+http://tv24serwis2.eu:8000/45879541/stalker/253
+#EXTINF:-1,SPORT 1 FOETBAL
+http://tv24serwis2.eu:8000/45879541/stalker/237
+#EXTINF:-1,SBS 6
+http://tv24serwis2.eu:8000/45879541/stalker/222
+#EXTINF:-1,RTL TELEKIDS
+http://tv24serwis2.eu:8000/45879541/stalker/254
+#EXTINF:-1,RTL 8
+http://tv24serwis2.eu:8000/45879541/stalker/224
+#EXTINF:-1,RTL 7
+http://tv24serwis2.eu:8000/45879541/stalker/223
+#EXTINF:-1,RTL 5
+http://tv24serwis2.eu:8000/45879541/stalker/220
+#EXTINF:-1,NICKLODEON
+http://tv24serwis2.eu:8000/45879541/stalker/264
+#EXTINF:-1,NICK JR
+http://tv24serwis2.eu:8000/45879541/stalker/255
+#EXTINF:-1,NET 5
+http://tv24serwis2.eu:8000/45879541/stalker/221
+#EXTINF:-1,NEDERLAND 1
+http://tv24serwis2.eu:8000/45879541/stalker/219
+#EXTINF:-1,NAT GEO WILD
+http://tv24serwis2.eu:8000/45879541/stalker/265
+#EXTINF:-1,ID
+http://tv24serwis2.eu:8000/45879541/stalker/258
+#EXTINF:-1,HISTORYHD
+http://tv24serwis2.eu:8000/45879541/stalker/252
+#EXTINF:-1,FOX SPORT 6
+http://tv24serwis2.eu:8000/45879541/stalker/266
+#EXTINF:-1,FOX SPORT 5
+http://tv24serwis2.eu:8000/45879541/stalker/243
+#EXTINF:-1,FOX SPORT 4
+http://tv24serwis2.eu:8000/45879541/stalker/242
+#EXTINF:-1,FOX SPORT 3
+http://tv24serwis2.eu:8000/45879541/stalker/241
+#EXTINF:-1,FOX SPORT 2
+http://tv24serwis2.eu:8000/45879541/stalker/240
+#EXTINF:-1,FOX SPORT 1
+http://tv24serwis2.eu:8000/45879541/stalker/239
+#EXTINF:-1,FILM1 DRAMA
+http://tv24serwis2.eu:8000/45879541/stalker/263
+#EXTINF:-1,FILM ACTION NL
+http://tv24serwis2.eu:8000/45879541/stalker/228
+#EXTINF:-1,FILM 1 PREMIERE
+http://tv24serwis2.eu:8000/45879541/stalker/249
+#EXTINF:-1,DISCOVERY WORLD
+http://tv24serwis2.eu:8000/45879541/stalker/256
+#EXTINF:-1,DISCOVERY SCINCE
+http://tv24serwis2.eu:8000/45879541/stalker/257
+#EXTINF:-1,Discovery Channel HD
+http://tv24serwis2.eu:8000/45879541/stalker/251
+#EXTINF:-1,Cartoon Network
+http://tv24serwis2.eu:8000/45879541/stalker/245
+#EXTINF:-1,Boomerang
+http://tv24serwis2.eu:8000/45879541/stalker/247
+#EXTINF:-1,Baby TV
+http://tv24serwis2.eu:8000/45879541/stalker/246
