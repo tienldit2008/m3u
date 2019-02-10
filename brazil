@@ -1,233 +1,691 @@
 #EXTM3U
-#EXTINF:0,GLOBO RJ-
-http://x.mytvxweb.me:25461/hung/123456789/247917
-#EXTINF:0,A&E-
-http://x.mytvxweb.me:25461/hung/123456789/14613
-#EXTINF:0,ANIMAL PLANET-
-http://x.mytvxweb.me:25461/hung/123456789/14612
-#EXTINF:0,Aparceida-
-http://x.mytvxweb.me:25461/hung/123456789/27487
-#EXTINF:0,SPORT TV 1-
-http://x.mytvxweb.me:25461/hung/123456789/25999
-#EXTINF:0,Arte 1-
-http://x.mytvxweb.me:25461/hung/123456789/27488
-#EXTINF:0,AXN-
-http://x.mytvxweb.me:25461/hung/123456789/14610
-#EXTINF:0,BAND-
-http://x.mytvxweb.me:25461/hung/123456789/14609
-#EXTINF:0,BAND NEWS-
-http://x.mytvxweb.me:25461/hung/123456789/14608
-#EXTINF:0,BAND SPORTS-
-http://x.mytvxweb.me:25461/hung/123456789/14607
-#EXTINF:0,Boomerang-
-http://x.mytvxweb.me:25461/hung/123456789/27490
-#EXTINF:0,Brazil 2-
-http://x.mytvxweb.me:25461/hung/123456789/14606
-#EXTINF:0,Canal Brasil-
-http://x.mytvxweb.me:25461/hung/123456789/27491
-#EXTINF:0,Canal Do Boi-
-http://x.mytvxweb.me:25461/hung/123456789/18877
-#EXTINF:0,Canal DO TV-
-http://x.mytvxweb.me:25461/hung/123456789/27492
-#EXTINF:0,CANAL ESCOLA-
-http://x.mytvxweb.me:25461/hung/123456789/27493
-#EXTINF:0,Canal Sony-
-http://x.mytvxweb.me:25461/hung/123456789/27494
-#EXTINF:0,Canao Nova-
-http://x.mytvxweb.me:25461/hung/123456789/27495
-#EXTINF:0,Cartoon Network-
-http://x.mytvxweb.me:25461/hung/123456789/27496
-#EXTINF:0,CINEMAX-
-http://x.mytvxweb.me:25461/hung/123456789/14604
-#EXTINF:0,Combate-
-http://x.mytvxweb.me:25461/hung/123456789/27497
-#EXTINF:0,Conexaobr Tv-
-http://x.mytvxweb.me:25461/hung/123456789/14603
-#EXTINF:0,DISCOVERY-
-http://x.mytvxweb.me:25461/hung/123456789/14602
-#EXTINF:0,Discovery Civilization-
-http://x.mytvxweb.me:25461/hung/123456789/27498
-#EXTINF:0,Discovery Home Health-
-http://x.mytvxweb.me:25461/hung/123456789/27499
-#EXTINF:0,Discovery Science-
-http://x.mytvxweb.me:25461/hung/123456789/27500
-#EXTINF:0,Discovery Turbo-
-http://x.mytvxweb.me:25461/hung/123456789/27501
-#EXTINF:0,Disney-
-http://x.mytvxweb.me:25461/hung/123456789/27502
-#EXTINF:0,Disney Jr-
-http://x.mytvxweb.me:25461/hung/123456789/27503
-#EXTINF:0,Disney XD Brasil-
-http://x.mytvxweb.me:25461/hung/123456789/27504
-#EXTINF:0,DW Latin-
-http://x.mytvxweb.me:25461/hung/123456789/27505
-#EXTINF:0,Eimax 1-
-http://x.mytvxweb.me:25461/hung/123456789/27508
-#EXTINF:0,ESPN Brasil-
-http://x.mytvxweb.me:25461/hung/123456789/14600
-#EXTINF:0,ESPN HD-
-http://x.mytvxweb.me:25461/hung/123456789/14599
-#EXTINF:0,ESPN Plus-
-http://x.mytvxweb.me:25461/hung/123456789/10193
-#EXTINF:0,ESPN vivo-
-http://x.mytvxweb.me:25461/hung/123456789/10194
-#EXTINF:0,Fish TV-
-http://x.mytvxweb.me:25461/hung/123456789/27510
-#EXTINF:0,Fox-
-http://x.mytvxweb.me:25461/hung/123456789/14597
-#EXTINF:0,Fox Life-
-http://x.mytvxweb.me:25461/hung/123456789/27511
-#EXTINF:0,Fox Sports-
-http://x.mytvxweb.me:25461/hung/123456789/14596
-#EXTINF:0,FOX Sports 1-
-http://x.mytvxweb.me:25461/hung/123456789/27512
-#EXTINF:0,Fox Sports 2-
-http://x.mytvxweb.me:25461/hung/123456789/14595
-#EXTINF:0,FUTURA-
-http://x.mytvxweb.me:25461/hung/123456789/27513
-#EXTINF:0,FX-
-http://x.mytvxweb.me:25461/hung/123456789/27514
-#EXTINF:0,GLOBAL TV-
-http://x.mytvxweb.me:25461/hung/123456789/27515
-#EXTINF:0,Globo News-
-http://x.mytvxweb.me:25461/hung/123456789/27516
-#EXTINF:0,Globo Premium-
-http://x.mytvxweb.me:25461/hung/123456789/27517
-#EXTINF:0,Globo SP-
-http://x.mytvxweb.me:25461/hung/123456789/27518
-#EXTINF:0,Gloob-
-http://x.mytvxweb.me:25461/hung/123456789/27519
-#EXTINF:0,GNT-
-http://x.mytvxweb.me:25461/hung/123456789/27520
-#EXTINF:0,H2-
-http://x.mytvxweb.me:25461/hung/123456789/27521
-#EXTINF:0,HBO-
-http://x.mytvxweb.me:25461/hung/123456789/14594
-#EXTINF:0,HBO 2-
-http://x.mytvxweb.me:25461/hung/123456789/14593
-#EXTINF:0,HBO Family-
-http://x.mytvxweb.me:25461/hung/123456789/27522
-#EXTINF:0,HBO Plus-
-http://x.mytvxweb.me:25461/hung/123456789/27523
-#EXTINF:0,HBO Signature-
-http://x.mytvxweb.me:25461/hung/123456789/27524
-#EXTINF:0,Investigao Discovery-
-http://x.mytvxweb.me:25461/hung/123456789/27525
-#EXTINF:0,Mais Globosat HD-
-http://x.mytvxweb.me:25461/hung/123456789/27526
-#EXTINF:0,MANA SAT-
-http://x.mytvxweb.me:25461/hung/123456789/27527
-#EXTINF:0,Max-
-http://x.mytvxweb.me:25461/hung/123456789/27528
-#EXTINF:0,Max Prime-
-http://x.mytvxweb.me:25461/hung/123456789/27529
-#EXTINF:0,Max Up-
-http://x.mytvxweb.me:25461/hung/123456789/27530
-#EXTINF:0,MegaPix-
-http://x.mytvxweb.me:25461/hung/123456789/27531
-#EXTINF:0,Multishow-
-http://x.mytvxweb.me:25461/hung/123456789/27532
-#EXTINF:0,Nick Jr-
-http://x.mytvxweb.me:25461/hung/123456789/27536
-#EXTINF:0,Novo Tempo-
-http://x.mytvxweb.me:25461/hung/123456789/27537
-#EXTINF:0,Paramount-
-http://x.mytvxweb.me:25461/hung/123456789/27539
-#EXTINF:0,PFC-
-http://x.mytvxweb.me:25461/hung/123456789/27540
-#EXTINF:0,PREMIER CLUBES-
-http://x.mytvxweb.me:25461/hung/123456789/14589
-#EXTINF:0,Premiere 2-
-http://x.mytvxweb.me:25461/hung/123456789/27541
-#EXTINF:0,Premiere 6-
-http://x.mytvxweb.me:25461/hung/123456789/27542
-#EXTINF:0,Premiere 7-
-http://x.mytvxweb.me:25461/hung/123456789/27543
-#EXTINF:0,Premiere 8-
-http://x.mytvxweb.me:25461/hung/123456789/27544
-#EXTINF:0,Premiere 9-
-http://x.mytvxweb.me:25461/hung/123456789/27545
-#EXTINF:0,Prime Box Brasil-
-http://x.mytvxweb.me:25461/hung/123456789/27547
-#EXTINF:0,Proyecto 40-
-http://x.mytvxweb.me:25461/hung/123456789/27548
-#EXTINF:0,RCTV-
-http://x.mytvxweb.me:25461/hung/123456789/27549
-#EXTINF:0,Record News-
-http://x.mytvxweb.me:25461/hung/123456789/27550
-#EXTINF:0,REDE 21-
-http://x.mytvxweb.me:25461/hung/123456789/14588
-#EXTINF:0,REDE Meio Norte-
-http://x.mytvxweb.me:25461/hung/123456789/14587
-#EXTINF:0,RECORD-
-http://x.mytvxweb.me:25461/hung/123456789/27551
-#EXTINF:0,REDE TV-
-http://x.mytvxweb.me:25461/hung/123456789/27552
-#EXTINF:0,REDE TV RONDONIA-
-http://x.mytvxweb.me:25461/hung/123456789/14586
-#EXTINF:0,SBT-
-http://x.mytvxweb.me:25461/hung/123456789/27553
-#EXTINF:0,SBT HD-
-http://x.mytvxweb.me:25461/hung/123456789/8947
-#EXTINF:0,Space Brasil-
-http://x.mytvxweb.me:25461/hung/123456789/27555
-#EXTINF:0,SPORT TV 2-
-http://x.mytvxweb.me:25461/hung/123456789/14584
-#EXTINF:0,SPORT TV 3-
-http://x.mytvxweb.me:25461/hung/123456789/14583
-#EXTINF:0,Studio Universal-
-http://x.mytvxweb.me:25461/hung/123456789/27559
-#EXTINF:0,TBS Brasil-
-http://x.mytvxweb.me:25461/hung/123456789/27561
-#EXTINF:0,TC Action-
-http://x.mytvxweb.me:25461/hung/123456789/27562
-#EXTINF:0,TC Cult-
-http://x.mytvxweb.me:25461/hung/123456789/27563
-#EXTINF:0,TC Fun-
-http://x.mytvxweb.me:25461/hung/123456789/27564
-#EXTINF:0,TC Pipoca-
-http://x.mytvxweb.me:25461/hung/123456789/27565
-#EXTINF:0,TC Premium-
-http://x.mytvxweb.me:25461/hung/123456789/27566
-#EXTINF:0,TC Touch-
-http://x.mytvxweb.me:25461/hung/123456789/27567
-#EXTINF:0,TCM-
-http://x.mytvxweb.me:25461/hung/123456789/27568
-#EXTINF:0,The History Channel-
-http://x.mytvxweb.me:25461/hung/123456789/27569
-#EXTINF:0,TLC-
-http://x.mytvxweb.me:25461/hung/123456789/14582
-#EXTINF:0,TNT-
-http://x.mytvxweb.me:25461/hung/123456789/14581
-#EXTINF:0,TNT Series-
-http://x.mytvxweb.me:25461/hung/123456789/27570
-#EXTINF:0,Tooncast-
-http://x.mytvxweb.me:25461/hung/123456789/27571
-#EXTINF:0,Tru TV-
-http://x.mytvxweb.me:25461/hung/123456789/27572
-#EXTINF:0,TV Brasil-
-http://x.mytvxweb.me:25461/hung/123456789/27573
-#EXTINF:0,TV BRASIL CENTRAL-
-http://x.mytvxweb.me:25461/hung/123456789/27574
-#EXTINF:0,TV Diario Brasil-
-http://x.mytvxweb.me:25461/hung/123456789/14580
-#EXTINF:0,Tv Escola-
-http://x.mytvxweb.me:25461/hung/123456789/27576
-#EXTINF:0,TV GAZETA HD-
-http://x.mytvxweb.me:25461/hung/123456789/27577
-#EXTINF:0,TV GERAL-
-http://x.mytvxweb.me:25461/hung/123456789/27578
-#EXTINF:0,TV Globo-
-http://x.mytvxweb.me:25461/hung/123456789/14579
-#EXTINF:0,TV Globo Premium-
-http://x.mytvxweb.me:25461/hung/123456789/14578
-#EXTINF:0,TV Urbana Brasil-
-http://x.mytvxweb.me:25461/hung/123456789/14575
-#EXTINF:0,TVE HD 720 Brasil-
-http://x.mytvxweb.me:25461/hung/123456789/14573
-#EXTINF:0,TVI-
-http://x.mytvxweb.me:25461/hung/123456789/27579
-#EXTINF:0,Universal Brasil-
-http://x.mytvxweb.me:25461/hung/123456789/27580
-#EXTINF:0,WARNER-
-http://x.mytvxweb.me:25461/hung/123456789/14572
+#EXTINF:0,A&E
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2346
+#EXTINF:0,A&E [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7495
+#EXTINF:0,A&E [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13681
+#EXTINF:0,AMC
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2345
+#EXTINF:0,AMC [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7493
+#EXTINF:0,AMC [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13683
+#EXTINF:0,Animal Planet
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2343
+#EXTINF:0,Animal Planet [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7491
+#EXTINF:0,Animal Planet [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13695
+#EXTINF:0,Aparecida
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2341
+#EXTINF:0,Agro Canal
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/11206
+#EXTINF:0,Arte 1
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2339
+#EXTINF:0,Arte 1 [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7489
+#EXTINF:0,AXN
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2338
+#EXTINF:0,AXN [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7487
+#EXTINF:0,AXN [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13697
+#EXTINF:0,Baby TV
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2336
+#EXTINF:0,Baby TV [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7485
+#EXTINF:0,Band
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2335
+#EXTINF:0,Band [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7484
+#EXTINF:0,Band [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13699
+#EXTINF:0,Band News
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2333
+#EXTINF:0,Band News [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7482
+#EXTINF:0,Band News [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13771
+#EXTINF:0,Band Sports
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2332
+#EXTINF:0,Band Sports [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7480
+#EXTINF:0,Band Sports [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13773
+#EXTINF:0,Boomerang
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2328
+#EXTINF:0,Boomerang [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7475
+#EXTINF:0,Canal Brasil [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7473
+#EXTINF:0,Canal do Boi
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/11574
+#EXTINF:0,Canal Sony
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2325
+#EXTINF:0,Canal Sony [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7471
+#EXTINF:0,Cancao Nova
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2323
+#EXTINF:0,Cancao Nova [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7469
+#EXTINF:0,Cartoon Network
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2322
+#EXTINF:0,Cartoon Network [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7468
+#EXTINF:0,Cartoon Network [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13701
+#EXTINF:0,Cinemax
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2320
+#EXTINF:0,Cinemax [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7466
+#EXTINF:0,Combate
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2319
+#EXTINF:0,Combate [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7464
+#EXTINF:0,Comedy Central
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2317
+#EXTINF:0,Comedy Central [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7462
+#EXTINF:0,Curta
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7110
+#EXTINF:0,Curta [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7460
+#EXTINF:0,Discovery Channel
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2316
+#EXTINF:0,Discovery Channel [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7458
+#EXTINF:0,Discovery Channel [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13703
+#EXTINF:0,Discovery Civilization [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7456
+#EXTINF:0,Discovery Civilization [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13705
+#EXTINF:0,Discovery Home Health
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2314
+#EXTINF:0,Discovery Home Health [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7454
+#EXTINF:0,Discovery Home Health [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13707
+#EXTINF:0,Discovery Kids
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2312
+#EXTINF:0,Discovery Kids [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7452
+#EXTINF:0,Discovery Kids [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13709
+#EXTINF:0,Discovery Science [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7450
+#EXTINF:0,Discovery Science [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13711
+#EXTINF:0,Discovery Theater [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7448
+#EXTINF:0,Discovery Theater [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13713
+#EXTINF:0,Discovery Turbo
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2310
+#EXTINF:0,Discovery Turbo [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7446
+#EXTINF:0,Discovery Turbo [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13715
+#EXTINF:0,Discovery World [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7444
+#EXTINF:0,Disney Channel
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2307
+#EXTINF:0,Disney Channel [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7442
+#EXTINF:0,Disney Junior
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2306
+#EXTINF:0,Disney Junior [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7440
+#EXTINF:0,Disney XD
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2305
+#EXTINF:0,Disney XD [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7439
+#EXTINF:0,ESPN
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2303
+#EXTINF:0,ESPN [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7434
+#EXTINF:0,ESPN [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13956
+#EXTINF:0,ESPN +
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7111
+#EXTINF:0,ESPN + [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13960
+#EXTINF:0,ESPN Brasil
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2301
+#EXTINF:0,ESPN Brasil [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7431
+#EXTINF:0,ESPN Brasil [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13959
+#EXTINF:0,ESPN Extra
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7429
+#EXTINF:0,ESPN+  [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7433
+#EXTINF:0,Fish TV
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2294
+#EXTINF:0,Fish TV [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7420
+#EXTINF:0,Food Network
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2293
+#EXTINF:0,Food Network [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7418
+#EXTINF:0,FOX
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2292
+#EXTINF:0,FOX [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7416
+#EXTINF:0,Fox Life
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2290
+#EXTINF:0,Fox Life [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7414
+#EXTINF:0,Fox Premium 1 [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7412
+#EXTINF:0,Fox Premium 2 [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7410
+#EXTINF:0,Fox Sports
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2285
+#EXTINF:0,Fox Sports [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7408
+#EXTINF:0,Fox Sports 2
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2284
+#EXTINF:0,Fox Sports 2 [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7406
+#EXTINF:0,Fox Sports [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13757
+#EXTINF:0,Futura
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2282
+#EXTINF:0,Futura [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7404
+#EXTINF:0,FX
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2281
+#EXTINF:0,FX [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7402
+#EXTINF:0,Gospel Cartoon
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/11095
+#EXTINF:0,Gospel Movies Television
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/11512
+#EXTINF:0,Globo Bahia
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7105
+#EXTINF:0,Globo Bahia [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13751
+#EXTINF:0,Globo Bauru
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2139
+#EXTINF:0,Globo Bauru [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13753
+#EXTINF:0,Globo Brasilia
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2143
+#EXTINF:0,Globo Brasilia [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7400
+#EXTINF:0,Globo Brasilia [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13731
+#EXTINF:0,Globo Centro America Cuiaba
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/11667
+#EXTINF:0,Globo Eptv Campinas
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/11663
+#EXTINF:0,Globo Eptv Campinas [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7398
+#EXTINF:0,Globo Eptv Campinas [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13733
+#EXTINF:0,Globo Eptv Ribeirao Preto
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/11664
+#EXTINF:0,Globo Eptv Ribeirao Preto [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7395
+#EXTINF:0,Globo Eptv Ribeirao Preto [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13735
+#EXTINF:0,Globo Minas
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7112
+#EXTINF:0,Globo Minas [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7394
+#EXTINF:0,Globo Minas [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13737
+#EXTINF:0,Globo News
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2274
+#EXTINF:0,Globo News [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7392
+#EXTINF:0,Globo News [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13739
+#EXTINF:0,Globo Nordeste
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7104
+#EXTINF:0,Globo Nordeste [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7390
+#EXTINF:0,Globo Nordeste [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13741
+#EXTINF:0,Globo Nsc Tv Florianopolis
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7388
+#EXTINF:0,Globo Nsc Tv Florianopolis [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13743
+#EXTINF:0,Globo Rbs Tv Porto Alegre
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7386
+#EXTINF:0,Globo Rbs Tv Porto Alegre [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13745
+#EXTINF:0,Globo RJ
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2278
+#EXTINF:0,Globo RJ [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7384
+#EXTINF:0,Globo RJ [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13427
+#EXTINF:0,Globo Rpc Curitiba
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/11666
+#EXTINF:0,Globo Rpc Curitiba [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7382
+#EXTINF:0,Globo Rpc Curitiba [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13747
+#EXTINF:0,Globo Sorocaba
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2138
+#EXTINF:0,Globo Sorocaba [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13756
+#EXTINF:0,Globo SP
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2276
+#EXTINF:0,Globo SP [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7380
+#EXTINF:0,Globo SP [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13426
+#EXTINF:0,Globo EPTV S„o Carlos [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/8674
+#EXTINF:0,Globo Inter TV Natal
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/8675
+#EXTINF:0,Globo TV Anhanguera [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7378
+#EXTINF:0,Globo TV Anhanguera [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13749
+#EXTINF:0,Globo TV Gazeta Alagoas
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/15139
+#EXTINF:0,Globo TV Verdes mares [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/8673
+#EXTINF:0,Globo Bahia [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7376
+#EXTINF:0,Globo Bauru [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7374
+#EXTINF:0,Globo TV Tem S.J. do Rio Preto
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7372
+#EXTINF:0,Globo TV Tem S.J. do Rio Preto [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13755
+#EXTINF:0,Globo Sorocaba [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7371
+#EXTINF:0,Gloob
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2272
+#EXTINF:0,Gloob [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7370
+#EXTINF:0,TV Gloobinho [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7367
+#EXTINF:0,GNT
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2271
+#EXTINF:0,GNT [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7366
+#EXTINF:0,H2
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2269
+#EXTINF:0,H2 [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7364
+#EXTINF:0,HBO
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2267
+#EXTINF:0,HBO [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7362
+#EXTINF:0,HBO [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13670
+#EXTINF:0,HBO 2 [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13672
+#EXTINF:0,HBO 2
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2266
+#EXTINF:0,HBO 2 [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7361
+#EXTINF:0,HBO Family
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2264
+#EXTINF:0,HBO Family [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7359
+#EXTINF:0,HBO Family [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13674
+#EXTINF:0,HBO Plus
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2261
+#EXTINF:0,HBO Plus [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7356
+#EXTINF:0,HBO Plus [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13676
+#EXTINF:0,HBO Signature
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2258
+#EXTINF:0,HBO Signature [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7353
+#EXTINF:0,HBO Signature [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13679
+#EXTINF:0,The History Channel [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7351
+#EXTINF:0,ID - Investigacao Discovery
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2254
+#EXTINF:0,Inter TV Cabugi
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7106
+#EXTINF:0,Investigacao Discovery [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7349
+#EXTINF:0,Lifetime
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2252
+#EXTINF:0,Lifetime [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7347
+#EXTINF:0,Globo TV Vanguarda
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/11668
+#EXTINF:0,Globo TV Vanguarda [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/10455
+#EXTINF:0,Mais Globosat
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2251
+#EXTINF:0,Globo NSC TV Chapeco
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13792
+#EXTINF:0,Globo RPC Foz do Iguacu
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13791
+#EXTINF:0,Globo TV Clube Teresina
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13788
+#EXTINF:0,Globo TV Gazeta Vitoria
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13785
+#EXTINF:0,Globo TV Sergipe
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13782
+#EXTINF:0,Mais Globosat [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7345
+#EXTINF:0,MAX
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2250
+#EXTINF:0,MAX [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7343
+#EXTINF:0,MAX Prime
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2249
+#EXTINF:0,MAX Prime [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7341
+#EXTINF:0,MAX UP
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2247
+#EXTINF:0,MAX UP [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7338
+#EXTINF:0,Megapix
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2246
+#EXTINF:0,Megapix [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7336
+#EXTINF:0,National Geographic [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7328
+#EXTINF:0,NatGeo Kids [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7326
+#EXTINF:0,NatGeo Kids
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2240
+#EXTINF:0,NatGeo Wild
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2239
+#EXTINF:0,NatGeo Wild [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7323
+#EXTINF:0,National Geographic
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2237
+#EXTINF:0,NBR
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2235
+#EXTINF:0,NBR [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7322
+#EXTINF:0,NHK
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2234
+#EXTINF:0,Nick Jr
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2233
+#EXTINF:0,Nick Jr [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7321
+#EXTINF:0,Nickelodeon [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7319
+#EXTINF:0,Nickelodeon
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2232
+#EXTINF:0,NovoTempo
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2231
+#EXTINF:0,OFF
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2230
+#EXTINF:0,OFF [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7317
+#EXTINF:0,Paramount
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2228
+#EXTINF:0,Paramount [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7315
+#EXTINF:0,PlayKids SD
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/16208
+#EXTINF:0,Premiere 2
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2222
+#EXTINF:0,Premiere 2 [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7313
+#EXTINF:0,Premiere 2 [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13633
+#EXTINF:0,Premiere 3
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2220
+#EXTINF:0,Premiere 3 [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7311
+#EXTINF:0,Premiere 3 [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13634
+#EXTINF:0,Premiere 4
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2218
+#EXTINF:0,Premiere 4 [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7309
+#EXTINF:0,Premiere 4 [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13635
+#EXTINF:0,Premiere 5
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2216
+#EXTINF:0,Premiere 5 [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7307
+#EXTINF:0,Premiere 5 [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13636
+#EXTINF:0,Premiere 6
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2214
+#EXTINF:0,Premiere 6 [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7305
+#EXTINF:0,Premiere 6 [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13637
+#EXTINF:0,Premiere 7
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2213
+#EXTINF:0,Premiere 7 [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7303
+#EXTINF:0,Premiere 7 [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13638
+#EXTINF:0,Premiere 8
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2212
+#EXTINF:0,Premiere 8 [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13639
+#EXTINF:0,Premiere 9
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2211
+#EXTINF:0,Premiere Clubes
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2224
+#EXTINF:0,Premiere Clubes [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7301
+#EXTINF:0,Prime Box Brazil [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7299
+#EXTINF:0,Prime Box Brazil
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2210
+#EXTINF:0,RBI
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2209
+#EXTINF:0,RBS TV Porto Alegre
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2208
+#EXTINF:0,Record
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2207
+#EXTINF:0,Record [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7297
+#EXTINF:0,Record [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13657
+#EXTINF:0,Record RJ
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/16351
+#EXTINF:0,Record MG SD
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/16206
+#EXTINF:0,Record News
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2205
+#EXTINF:0,Record News [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7295
+#EXTINF:0,Record SP [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7293
+#EXTINF:0,Record BA - SD
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/18414
+#EXTINF:0,Record DF - SD
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/18417
+#EXTINF:0,Rede Amazonica
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7101
+#EXTINF:0,Rede Brasil
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2204
+#EXTINF:0,Rede Brasil [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7291
+#EXTINF:0,Rede TV
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2203
+#EXTINF:0,Rede TV [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7290
+#EXTINF:0,Rede Vida
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2201
+#EXTINF:0,Rede Vida [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7288
+#EXTINF:0,Rede Super
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/8677
+#EXTINF:0,RIT
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2199
+#EXTINF:0,SBT
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2198
+#EXTINF:0,SBT [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7287
+#EXTINF:0,SBT [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13796
+#EXTINF:0,SBT SP Interior [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7285
+#EXTINF:0,SIC Internacional
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2194
+#EXTINF:0,Space
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2193
+#EXTINF:0,Space [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7282
+#EXTINF:0,SporTV
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2188
+#EXTINF:0,SporTV [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7280
+#EXTINF:0,SporTV [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13423
+#EXTINF:0,SporTV 2
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2187
+#EXTINF:0,SporTV 2 [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7279
+#EXTINF:0,SporTV 3
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2186
+#EXTINF:0,SporTV 3 [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7277
+#EXTINF:0,Studio Universal
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2185
+#EXTINF:0,Studio Universal [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7274
+#EXTINF:0,SundanceTV
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7272
+#EXTINF:0,Syfy
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2184
+#EXTINF:0,Syfy [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7284
+#EXTINF:0,Premiere Clubes [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13425
+#EXTINF:0,Tabela Jogos Premiere [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7225
+#EXTINF:0,TBS
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2183
+#EXTINF:0,TBS [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7270
+#EXTINF:0,TCM
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2181
+#EXTINF:0,TCM [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7268
+#EXTINF:0,Telecine Action
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2180
+#EXTINF:0,Telecine Action [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7267
+#EXTINF:0,Telecine Action [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13658
+#EXTINF:0,Telecine Cult
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2178
+#EXTINF:0,Telecine Cult [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7265
+#EXTINF:0,Telecine Cult [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13660
+#EXTINF:0,Telecine Fun
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2177
+#EXTINF:0,Telecine Fun [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7263
+#EXTINF:0,Telecine Fun [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13662
+#EXTINF:0,Telecine Pipoca
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2175
+#EXTINF:0,Telecine Pipoca [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7261
+#EXTINF:0,Telecine Pipoca [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13664
+#EXTINF:0,Telecine Premium [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13666
+#EXTINF:0,Telecine Premium
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2173
+#EXTINF:0,Telecine Premium [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7259
+#EXTINF:0,Telecine Touch
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2171
+#EXTINF:0,Telecine Touch [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7257
+#EXTINF:0,Telecine Touch [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13668
+#EXTINF:0,The History Channel [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13721
+#EXTINF:0,The History Channel
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2168
+#EXTINF:0,TLC
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2167
+#EXTINF:0,TLC [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7254
+#EXTINF:0,TNT
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2166
+#EXTINF:0,TNT [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7252
+#EXTINF:0,TNT Series
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2164
+#EXTINF:0,TNT Series [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7250
+#EXTINF:0,Tooncast
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2162
+#EXTINF:0,Tooncast [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7248
+#EXTINF:0,TruTV
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2161
+#EXTINF:0,TruTV [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7238
+#EXTINF:0,Tv Anhanguera
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7109
+#EXTINF:0,TV Aparecida [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7245
+#EXTINF:0,TV Brasil
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2160
+#EXTINF:0,TV Brasil [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7244
+#EXTINF:0,TV C‚mara
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7243
+#EXTINF:0,TV Cultura
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2159
+#EXTINF:0,TV Cultura [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/15136
+#EXTINF:0,TV Di·rio
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2158
+#EXTINF:0,Tv Evangelizar
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/11611
+#EXTINF:0,Tv Seculo 21
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/11610
+#EXTINF:0,TV Escola
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7242
+#EXTINF:0,TV JustiÁa
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7246
+#EXTINF:0,TV Liberal Belem
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7102
+#EXTINF:0,TV Ra tim bum
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2157
+#EXTINF:0,TV Ra tim bum [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7240
+#EXTINF:0,TV Verdes Mares
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7103
+#EXTINF:0,TVE
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2156
+#EXTINF:0,Universal Channel
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2155
+#EXTINF:0,Universal Channel [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7236
+#EXTINF:0,Megapix [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13719
+#EXTINF:0,Space [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13717
+#EXTINF:0,Warner Channel
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2150
+#EXTINF:0,Warner Channel [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7229
+#EXTINF:0,Woohoo
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/2148
+#EXTINF:0,Woohoo [Alter]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/7227
+#EXTINF:0,Combate [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13630
+#EXTINF:0,Food Network [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13723
+#EXTINF:0,Fox Sports 2 [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13759
+#EXTINF:0,GNT [Alter 2]
+http://sspitv.liss.fun:8880/lulaDS0ntoJugM/UBh6FFqUSq/13769
