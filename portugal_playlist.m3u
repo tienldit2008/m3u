@@ -1,155 +1,227 @@
 #EXTM3U
-#EXTINF:0,BENFICA TV 1
-http://89.39.104.115:8000/bilo445/bilo445112conections/4575
-#EXTINF:0,BENFICA TV 2
-http://89.39.104.115:8000/bilo445/bilo445112conections/4574
-#EXTINF:0,SPORT TV 1 HD
-http://89.39.104.115:8000/bilo445/bilo445112conections/1246
-#EXTINF:0,SPORT TV 1
-http://89.39.104.115:8000/bilo445/bilo445112conections/5164
-#EXTINF:0,SPORT Tv 2 HD
-http://89.39.104.115:8000/bilo445/bilo445112conections/1243
-#EXTINF:0,SPORT TV 2
-http://89.39.104.115:8000/bilo445/bilo445112conections/5163
-#EXTINF:0,SPORT Tv 3 HD
-http://89.39.104.115:8000/bilo445/bilo445112conections/1238
-#EXTINF:0,SPORT TV 3
-http://89.39.104.115:8000/bilo445/bilo445112conections/5162
-#EXTINF:0,SPORT TV4 HD
-http://89.39.104.115:8000/bilo445/bilo445112conections/1244
-#EXTINF:0,SPORT TV 4
-http://89.39.104.115:8000/bilo445/bilo445112conections/5161
-#EXTINF:0,SPORT Tv 5 HD
-http://89.39.104.115:8000/bilo445/bilo445112conections/1245
-#EXTINF:0,SPORT TV 5
-http://89.39.104.115:8000/bilo445/bilo445112conections/5160
-#EXTINF:0,EUROSPORT HD 1
-http://89.39.104.115:8000/bilo445/bilo445112conections/5196
-#EXTINF:0,EUROSPORT 2 HD
-http://89.39.104.115:8000/bilo445/bilo445112conections/6597
-#EXTINF:0,TVCINE 1 HD
-http://89.39.104.115:8000/bilo445/bilo445112conections/1248
-#EXTINF:0,TV CINE 1
-http://89.39.104.115:8000/bilo445/bilo445112conections/5159
-#EXTINF:0,TVCINE 2 HD
-http://89.39.104.115:8000/bilo445/bilo445112conections/1249
-#EXTINF:0,TV CINE 2
-http://89.39.104.115:8000/bilo445/bilo445112conections/5158
-#EXTINF:0,TVCINE 3 HD
-http://89.39.104.115:8000/bilo445/bilo445112conections/1250
-#EXTINF:0,TV CINE 3
-http://89.39.104.115:8000/bilo445/bilo445112conections/5157
-#EXTINF:0,TV CINE 4 HD
-http://89.39.104.115:8000/bilo445/bilo445112conections/5156
-#EXTINF:0,TVCINE 4
-http://89.39.104.115:8000/bilo445/bilo445112conections/1251
-#EXTINF:0,TVI Reality
-http://89.39.104.115:8000/bilo445/bilo445112conections/5149
-#EXTINF:0,TVI
-http://89.39.104.115:8000/bilo445/bilo445112conections/5152
-#EXTINF:0,TV RECORD
-http://89.39.104.115:8000/bilo445/bilo445112conections/5154
-#EXTINF:0,TV GlOBO
-http://89.39.104.115:8000/bilo445/bilo445112conections/5155
-#EXTINF:0,SIC MULHER
-http://89.39.104.115:8000/bilo445/bilo445112conections/5165
-#EXTINF:0,SIC KIDS
-http://89.39.104.115:8000/bilo445/bilo445112conections/5166
-#EXTINF:0,SIC
-http://89.39.104.115:8000/bilo445/bilo445112conections/5168
-#EXTINF:0,RTP MEMORIA
-http://89.39.104.115:8000/bilo445/bilo445112conections/5169
-#EXTINF:0,RTP MADEIRA
-http://89.39.104.115:8000/bilo445/bilo445112conections/5170
-#EXTINF:0,RTP Africa
-http://89.39.104.115:8000/bilo445/bilo445112conections/5171
-#EXTINF:0,RTP 3
-http://89.39.104.115:8000/bilo445/bilo445112conections/5172
-#EXTINF:0,RTP 2
-http://89.39.104.115:8000/bilo445/bilo445112conections/5174
-#EXTINF:0,PORTO CANAL
-http://89.39.104.115:8000/bilo445/bilo445112conections/5175
-#EXTINF:0,PANDA BIGGS
-http://89.39.104.115:8000/bilo445/bilo445112conections/5177
-#EXTINF:0,CANAL PANDA
-http://89.39.104.115:8000/bilo445/bilo445112conections/5178
-#EXTINF:0,ODISSEIA
-http://89.39.104.115:8000/bilo445/bilo445112conections/5179
-#EXTINF:0,NATIONAL GEOGRAPHIC HD
-http://89.39.104.115:8000/bilo445/bilo445112conections/5180
-#EXTINF:0,NAT GEO Wild
-http://89.39.104.115:8000/bilo445/bilo445112conections/5181
-#EXTINF:0,MOTORVISION
-http://89.39.104.115:8000/bilo445/bilo445112conections/5182
-#EXTINF:0,HOLLYWOOD
-http://89.39.104.115:8000/bilo445/bilo445112conections/5187
-#EXTINF:0,GLOBO PREMIUM
-http://89.39.104.115:8000/bilo445/bilo445112conections/5188
-#EXTINF:0,FOX Movies
-http://89.39.104.115:8000/bilo445/bilo445112conections/5190
-#EXTINF:0,FOX LIFE HD
-http://89.39.104.115:8000/bilo445/bilo445112conections/5191
-#EXTINF:0,FOX HD
-http://89.39.104.115:8000/bilo445/bilo445112conections/5192
-#EXTINF:0,FOX CRIME HD
-http://89.39.104.115:8000/bilo445/bilo445112conections/5193
-#EXTINF:0,FOX Comedy
-http://89.39.104.115:8000/bilo445/bilo445112conections/5194
-#EXTINF:0,Discovery Channel
-http://89.39.104.115:8000/bilo445/bilo445112conections/5197
-#EXTINF:0,CMTV
-http://89.39.104.115:8000/bilo445/bilo445112conections/5198
-#EXTINF:0,CINEMUNDO
-http://89.39.104.115:8000/bilo445/bilo445112conections/5199
-#EXTINF:0,CANAL HISTORIA
-http://89.39.104.115:8000/bilo445/bilo445112conections/5200
-#EXTINF:0,CA«√VISION
-http://89.39.104.115:8000/bilo445/bilo445112conections/5201
-#EXTINF:0,KOMBAT SPORT
-http://89.39.104.115:8000/bilo445/bilo445112conections/5202
-#EXTINF:0,BTV 1 HD
-http://89.39.104.115:8000/bilo445/bilo445112conections/5203
-#EXTINF:0,BABY TV
-http://89.39.104.115:8000/bilo445/bilo445112conections/5204
-#EXTINF:0,AXN WHITE HD
-http://89.39.104.115:8000/bilo445/bilo445112conections/5205
-#EXTINF:0,AXN BLACK HD
-http://89.39.104.115:8000/bilo445/bilo445112conections/5206
-#EXTINF:0,AMC
-http://89.39.104.115:8000/bilo445/bilo445112conections/5207
-#EXTINF:0,A&E
-http://89.39.104.115:8000/bilo445/bilo445112conections/5209
-#EXTINF:0,A Bola TV
-http://89.39.104.115:8000/bilo445/bilo445112conections/5210
-#EXTINF:0,TV SERIES
-http://89.39.104.115:8000/bilo445/bilo445112conections/1247
-#EXTINF:0,CMTV PT
-http://89.39.104.115:8000/bilo445/bilo445112conections/1242
-#EXTINF:0,CINE MUNDO
-http://89.39.104.115:8000/bilo445/bilo445112conections/1241
-#EXTINF:0,SYFY
-http://89.39.104.115:8000/bilo445/bilo445112conections/1239
-#EXTINF:0,SIC RADICAL
-http://89.39.104.115:8000/bilo445/bilo445112conections/1237
-#EXTINF:0,SIC NOTICIAS
-http://89.39.104.115:8000/bilo445/bilo445112conections/1236
-#EXTINF:0,RTP ACORES
-http://89.39.104.115:8000/bilo445/bilo445112conections/1235
-#EXTINF:0,RTP 1
-http://89.39.104.115:8000/bilo445/bilo445112conections/1253
-#EXTINF:0,NICKELODEON
-http://89.39.104.115:8000/bilo445/bilo445112conections/1234
-#EXTINF:0,HISTORY
-http://89.39.104.115:8000/bilo445/bilo445112conections/1255
-#EXTINF:0,EUROSPORT
-http://89.39.104.115:8000/bilo445/bilo445112conections/1233
-#EXTINF:0,EURONEWS
-http://89.39.104.115:8000/bilo445/bilo445112conections/1256
-#EXTINF:0,DISNEY JUNIOUR
-http://89.39.104.115:8000/bilo445/bilo445112conections/1257
-#EXTINF:0,DISNEY ChANNEL
-http://89.39.104.115:8000/bilo445/bilo445112conections/1258
-#EXTINF:0,JIM JAM
-http://89.39.104.115:8000/bilo445/bilo445112conections/1259
-#EXTINF:0,AXN HD
-http://89.39.104.115:8000/bilo445/bilo445112conections/1240
+#EXTINF:-1,RTP 1 HD
+http://siptv-online.com:8789/18291/stevenjuz@564/23261
+#EXTINF:-1,RTP 1
+http://siptv-online.com:8789/18291/stevenjuz@564/23260
+#EXTINF:-1,RTP2 HD
+http://siptv-online.com:8789/18291/stevenjuz@564/23259
+#EXTINF:-1,RTP 2
+http://siptv-online.com:8789/18291/stevenjuz@564/23258
+#EXTINF:-1,RTP 3
+http://siptv-online.com:8789/18291/stevenjuz@564/23257
+#EXTINF:-1,RTP MEMORIA
+http://siptv-online.com:8789/18291/stevenjuz@564/23256
+#EXTINF:-1,RTP AFRICA
+http://siptv-online.com:8789/18291/stevenjuz@564/23255
+#EXTINF:-1,TCV
+http://siptv-online.com:8789/18291/stevenjuz@564/23254
+#EXTINF:-1,RTP ACORES
+http://siptv-online.com:8789/18291/stevenjuz@564/23253
+#EXTINF:-1,SIC RADICAL
+http://siptv-online.com:8789/18291/stevenjuz@564/23252
+#EXTINF:-1,SIC MULHER
+http://siptv-online.com:8789/18291/stevenjuz@564/23251
+#EXTINF:-1,SIC CARAS
+http://siptv-online.com:8789/18291/stevenjuz@564/23250
+#EXTINF:-1,SIC NOTICIAS
+http://siptv-online.com:8789/18291/stevenjuz@564/23249
+#EXTINF:-1,SIC HD
+http://siptv-online.com:8789/18291/stevenjuz@564/23248
+#EXTINF:-1,SIC
+http://siptv-online.com:8789/18291/stevenjuz@564/23247
+#EXTINF:-1,TVI HD
+http://siptv-online.com:8789/18291/stevenjuz@564/23246
+#EXTINF:-1,TVI
+http://siptv-online.com:8789/18291/stevenjuz@564/23245
+#EXTINF:-1,TVI FICCAO
+http://siptv-online.com:8789/18291/stevenjuz@564/23244
+#EXTINF:-1,CANAL Q
+http://siptv-online.com:8789/18291/stevenjuz@564/23243
+#EXTINF:-1,GLOBO PREM
+http://siptv-online.com:8789/18291/stevenjuz@564/23242
+#EXTINF:-1,TV RECORD
+http://siptv-online.com:8789/18291/stevenjuz@564/23241
+#EXTINF:-1,TVI24
+http://siptv-online.com:8789/18291/stevenjuz@564/23240
+#EXTINF:-1,CM TV
+http://siptv-online.com:8789/18291/stevenjuz@564/23239
+#EXTINF:-1,TV GLOBO
+http://siptv-online.com:8789/18291/stevenjuz@564/23238
+#EXTINF:-1,RECORD NEWS
+http://siptv-online.com:8789/18291/stevenjuz@564/1061
+#EXTINF:-1,EURONEWS
+http://siptv-online.com:8789/18291/stevenjuz@564/23237
+#EXTINF:-1,PORTO CANAL
+http://siptv-online.com:8789/18291/stevenjuz@564/23236
+#EXTINF:-1,SPORT TV
+http://siptv-online.com:8789/18291/stevenjuz@564/14108
+#EXTINF:-1,SPORT TV1 HD
+http://siptv-online.com:8789/18291/stevenjuz@564/14102
+#EXTINF:-1,SPORT TV1
+http://siptv-online.com:8789/18291/stevenjuz@564/14107
+#EXTINF:-1,SPORT TV2 HD
+http://siptv-online.com:8789/18291/stevenjuz@564/14101
+#EXTINF:-1,SPORT TV2
+http://siptv-online.com:8789/18291/stevenjuz@564/14106
+#EXTINF:-1,SPORT TV3 HD
+http://siptv-online.com:8789/18291/stevenjuz@564/14100
+#EXTINF:-1,SPORT TV3
+http://siptv-online.com:8789/18291/stevenjuz@564/14105
+#EXTINF:-1,SPORT TV4 HD
+http://siptv-online.com:8789/18291/stevenjuz@564/14099
+#EXTINF:-1,SPORT TV4
+http://siptv-online.com:8789/18291/stevenjuz@564/14104
+#EXTINF:-1,SPORT TV5 HD
+http://siptv-online.com:8789/18291/stevenjuz@564/14098
+#EXTINF:-1,SPORT TV5
+http://siptv-online.com:8789/18291/stevenjuz@564/14103
+#EXTINF:-1,ELEVEN SPORTS 1 FHD
+http://siptv-online.com:8789/18291/stevenjuz@564/29988
+#EXTINF:-1,ELEVEN SPORTS 2 FHD
+http://siptv-online.com:8789/18291/stevenjuz@564/29987
+#EXTINF:-1,ELEVEN SPORTS 3 FHD
+http://siptv-online.com:8789/18291/stevenjuz@564/29986
+#EXTINF:-1,ELEVEN SPORTS 4 HD
+http://siptv-online.com:8789/18291/stevenjuz@564/29985
+#EXTINF:-1,ELEVEN SPORTS 5 FHD
+http://siptv-online.com:8789/18291/stevenjuz@564/29984
+#EXTINF:-1,ELEVEN SPORTS 6 HD
+http://siptv-online.com:8789/18291/stevenjuz@564/29983
+#EXTINF:-1,BENIFICA TV FHD
+http://siptv-online.com:8789/18291/stevenjuz@564/14092
+#EXTINF:-1,BENIFICA TV
+http://siptv-online.com:8789/18291/stevenjuz@564/14093
+#EXTINF:-1,SPORTING TV
+http://siptv-online.com:8789/18291/stevenjuz@564/14091
+#EXTINF:-1,A BOLA TV
+http://siptv-online.com:8789/18291/stevenjuz@564/14087
+#EXTINF:-1,PFC
+http://siptv-online.com:8789/18291/stevenjuz@564/14086
+#EXTINF:-1,KOMBATSPORT
+http://siptv-online.com:8789/18291/stevenjuz@564/14090
+#EXTINF:-1,EUROSPORT NEWS
+http://siptv-online.com:8789/18291/stevenjuz@564/14096
+#EXTINF:-1,EUROSPORT 1HD
+http://siptv-online.com:8789/18291/stevenjuz@564/14097
+#EXTINF:-1,EUROSPORT 1
+http://siptv-online.com:8789/18291/stevenjuz@564/14095
+#EXTINF:-1,EUROSPORT 2
+http://siptv-online.com:8789/18291/stevenjuz@564/14094
+#EXTINF:-1,FUEL TV
+http://siptv-online.com:8789/18291/stevenjuz@564/23234
+#EXTINF:-1,MOTORSPORT TV
+http://siptv-online.com:8789/18291/stevenjuz@564/14089
+#EXTINF:-1,MOTORVISION
+http://siptv-online.com:8789/18291/stevenjuz@564/14088
+#EXTINF:-1,TOROS
+http://siptv-online.com:8789/18291/stevenjuz@564/23233
+#EXTINF:-1,JIM JAM
+http://siptv-online.com:8789/18291/stevenjuz@564/23231
+#EXTINF:-1,BABY FIRST
+http://siptv-online.com:8789/18291/stevenjuz@564/23230
+#EXTINF:-1,BABY TV
+http://siptv-online.com:8789/18291/stevenjuz@564/23229
+#EXTINF:-1,CANAL PANDA
+http://siptv-online.com:8789/18291/stevenjuz@564/23228
+#EXTINF:-1,BIGGS
+http://siptv-online.com:8789/18291/stevenjuz@564/23227
+#EXTINF:-1,NICKELODEON
+http://siptv-online.com:8789/18291/stevenjuz@564/23226
+#EXTINF:-1,DISNEY JUNIOR
+http://siptv-online.com:8789/18291/stevenjuz@564/23225
+#EXTINF:-1,DISNEY CHANNEL
+http://siptv-online.com:8789/18291/stevenjuz@564/23224
+#EXTINF:-1,CARTOONNETWORK
+http://siptv-online.com:8789/18291/stevenjuz@564/23223
+#EXTINF:-1,SIC K
+http://siptv-online.com:8789/18291/stevenjuz@564/23222
+#EXTINF:-1,TVCINE1 HD
+http://siptv-online.com:8789/18291/stevenjuz@564/23220
+#EXTINF:-1,TVCINE1
+http://siptv-online.com:8789/18291/stevenjuz@564/23219
+#EXTINF:-1,TVCINE 2HD
+http://siptv-online.com:8789/18291/stevenjuz@564/23218
+#EXTINF:-1,TVCINE2
+http://siptv-online.com:8789/18291/stevenjuz@564/23217
+#EXTINF:-1,TVCINE  3HD
+http://siptv-online.com:8789/18291/stevenjuz@564/23216
+#EXTINF:-1,TVCINE3
+http://siptv-online.com:8789/18291/stevenjuz@564/23215
+#EXTINF:-1,TVCINE 4HD
+http://siptv-online.com:8789/18291/stevenjuz@564/23214
+#EXTINF:-1,TVCINE4
+http://siptv-online.com:8789/18291/stevenjuz@564/23213
+#EXTINF:-1,HOLLYWOOD
+http://siptv-online.com:8789/18291/stevenjuz@564/23212
+#EXTINF:-1,NATGEO HD
+http://siptv-online.com:8789/18291/stevenjuz@564/23211
+#EXTINF:-1,FOX MOVIES
+http://siptv-online.com:8789/18291/stevenjuz@564/23210
+#EXTINF:-1,AMC
+http://siptv-online.com:8789/18291/stevenjuz@564/23209
+#EXTINF:-1,CINEMUNDO
+http://siptv-online.com:8789/18291/stevenjuz@564/23208
+#EXTINF:-1,ODISSEIA
+http://siptv-online.com:8789/18291/stevenjuz@564/23206
+#EXTINF:-1,NATGEO WILD
+http://siptv-online.com:8789/18291/stevenjuz@564/23205
+#EXTINF:-1,DISCOVERY
+http://siptv-online.com:8789/18291/stevenjuz@564/23204
+#EXTINF:-1,DISCOVERY SHOWCASE FHD
+http://siptv-online.com:8789/18291/stevenjuz@564/23203
+#EXTINF:-1,TRAVEL CHANNEL HD
+http://siptv-online.com:8789/18291/stevenjuz@564/23202
+#EXTINF:-1, HISTORIA
+http://siptv-online.com:8789/18291/stevenjuz@564/23201
+#EXTINF:-1,CAÃ‡A E PESCA
+http://siptv-online.com:8789/18291/stevenjuz@564/23200
+#EXTINF:-1,FOOD
+http://siptv-online.com:8789/18291/stevenjuz@564/23199
+#EXTINF:-1,NATGEO
+http://siptv-online.com:8789/18291/stevenjuz@564/23198
+#EXTINF:-1,CASAVISION
+http://siptv-online.com:8789/18291/stevenjuz@564/23197
+#EXTINF:-1,FOX HD
+http://siptv-online.com:8789/18291/stevenjuz@564/23195
+#EXTINF:-1,FOX CRIME FHD
+http://siptv-online.com:8789/18291/stevenjuz@564/23194
+#EXTINF:-1,FOX CRIME
+http://siptv-online.com:8789/18291/stevenjuz@564/23193
+#EXTINF:-1,FOX COMEDY
+http://siptv-online.com:8789/18291/stevenjuz@564/23192
+#EXTINF:-1,FOX LIFE HD
+http://siptv-online.com:8789/18291/stevenjuz@564/23191
+#EXTINF:-1,AXN WHITE HD
+http://siptv-online.com:8789/18291/stevenjuz@564/23190
+#EXTINF:-1,AXN HD
+http://siptv-online.com:8789/18291/stevenjuz@564/23189
+#EXTINF:-1,AXN BLACK FHD
+http://siptv-online.com:8789/18291/stevenjuz@564/23188
+#EXTINF:-1,AXN BLACK
+http://siptv-online.com:8789/18291/stevenjuz@564/23187
+#EXTINF:-1,SYFY HD
+http://siptv-online.com:8789/18291/stevenjuz@564/23186
+#EXTINF:-1,SYFY
+http://siptv-online.com:8789/18291/stevenjuz@564/23185
+#EXTINF:-1,TLC
+http://siptv-online.com:8789/18291/stevenjuz@564/23184
+#EXTINF:-1,TVSERIE FHD
+http://siptv-online.com:8789/18291/stevenjuz@564/23183
+#EXTINF:-1,TVSERIES
+http://siptv-online.com:8789/18291/stevenjuz@564/23182
+#EXTINF:-1,MCS LIFESTYLE
+http://siptv-online.com:8789/18291/stevenjuz@564/23181
+#EXTINF:-1,CBSREALITY
+http://siptv-online.com:8789/18291/stevenjuz@564/23180
+#EXTINF:-1,TVI REALITY
+http://siptv-online.com:8789/18291/stevenjuz@564/23179
+#EXTINF:-1,E!
+http://siptv-online.com:8789/18291/stevenjuz@564/23178
+#EXTINF:-1,A&E
+http://siptv-online.com:8789/18291/stevenjuz@564/23177
+#EXTINF:-1,24 KITCHEN HD
+http://siptv-online.com:8789/18291/stevenjuz@564/23176
+#EXTINF:-1,MTV
+http://siptv-online.com:8789/18291/stevenjuz@564/23363
+#EXTINF:-1,AFRO MUSIC
+http://siptv-online.com:8789/18291/stevenjuz@564/23362
