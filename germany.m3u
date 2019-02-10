@@ -1,283 +1,155 @@
 #EXTM3U
-#EXTINF:-1,7 MAXX HD
-http://vip.fibertv.nl:8000/yunus/yunus/915
-#EXTINF:-1,DAS ERSTE HD
-http://vip.fibertv.nl:8000/yunus/yunus/870
-#EXTINF:-1,Arte TV
-http://vip.fibertv.nl:8000/yunus/yunus/2732
-#EXTINF:-1,DMAX HD
-http://vip.fibertv.nl:8000/yunus/yunus/2920
-#EXTINF:-1,FOX HD
-http://vip.fibertv.nl:8000/yunus/yunus/2922
-#EXTINF:-1,ARD HD
-http://vip.fibertv.nl:8000/yunus/yunus/9910
-#EXTINF:-1,Kabel Eins HD
-http://vip.fibertv.nl:8000/yunus/yunus/859
-#EXTINF:-1,ORF 2 HD
-http://vip.fibertv.nl:8000/yunus/yunus/2042
-#EXTINF:-1,ORF 3 HD
-http://vip.fibertv.nl:8000/yunus/yunus/2617
-#EXTINF:-1,ORF Eins
-http://vip.fibertv.nl:8000/yunus/yunus/2041
-#EXTINF:-1,PROSIEBEN HD
-http://vip.fibertv.nl:8000/yunus/yunus/582
-#EXTINF:-1,RTL 2 HD
-http://vip.fibertv.nl:8000/yunus/yunus/134
-#EXTINF:-1,RTL HD
-http://vip.fibertv.nl:8000/yunus/yunus/133
-#EXTINF:-1,SKY Krimi
-http://vip.fibertv.nl:8000/yunus/yunus/2728
-#EXTINF:-1,RTL Living HD
-http://vip.fibertv.nl:8000/yunus/yunus/2003
-#EXTINF:-1,RTL PLUS HD
-http://vip.fibertv.nl:8000/yunus/yunus/1321
-#EXTINF:-1,SAT 1 HD
-http://vip.fibertv.nl:8000/yunus/yunus/793
-#EXTINF:-1,SIXX HD
-http://vip.fibertv.nl:8000/yunus/yunus/2733
-#EXTINF:-1,SKY Bundesliga 1 HD
-http://vip.fibertv.nl:8000/yunus/yunus/1309
-#EXTINF:-1,SKY Bundesliga 1 FHD
-http://vip.fibertv.nl:8000/yunus/yunus/144
-#EXTINF:-1,Sky Bundesliga 3 [ON MATCHDAY]
-http://vip.fibertv.nl:8000/yunus/yunus/1174
-#EXTINF:-1,SKY Bundesliga 4 [ON MATCHDAY]
-http://vip.fibertv.nl:8000/yunus/yunus/578
-#EXTINF:-1,SKY Bundesliga 5[ON MATCHDAY]
-http://vip.fibertv.nl:8000/yunus/yunus/1546
-#EXTINF:-1,SKY Bundesliga 6 [ON MATCHDAY]
-http://vip.fibertv.nl:8000/yunus/yunus/1999
-#EXTINF:-1,SKY Bundesliga 7 [ON MATCHDAY]
-http://vip.fibertv.nl:8000/yunus/yunus/9547
-#EXTINF:-1,SKY Bundesliga 8 [ON MATCHDAY]
-http://vip.fibertv.nl:8000/yunus/yunus/9548
-#EXTINF:-1,SKY Bundesliga 9 [ON MATCHDAY]
-http://vip.fibertv.nl:8000/yunus/yunus/9549
-#EXTINF:-1,SKY Bundesliga10 [ON MATCHDAY]
-http://vip.fibertv.nl:8000/yunus/yunus/9550
-#EXTINF:-1,PRO 7 FUN HD
-http://vip.fibertv.nl:8000/yunus/yunus/2000
-#EXTINF:-1,SPORT DIGITAL HD
-http://vip.fibertv.nl:8000/yunus/yunus/2001
-#EXTINF:-1,SPORT 1  HD
-http://vip.fibertv.nl:8000/yunus/yunus/2002
-#EXTINF:-1,SKY SELECT 1 HD
-http://vip.fibertv.nl:8000/yunus/yunus/283
-#EXTINF:-1,SKY SELECT 2 HD
-http://vip.fibertv.nl:8000/yunus/yunus/117
-#EXTINF:-1,SKY SELECT 3 HD
-http://vip.fibertv.nl:8000/yunus/yunus/118
-#EXTINF:-1,SKY SELECT 4 HD
-http://vip.fibertv.nl:8000/yunus/yunus/119
-#EXTINF:-1,SKY SELECT 5 HD
-http://vip.fibertv.nl:8000/yunus/yunus/120
-#EXTINF:-1,SKY SELECT 6 HD
-http://vip.fibertv.nl:8000/yunus/yunus/121
-#EXTINF:-1,SKY SELECT 7 HD
-http://vip.fibertv.nl:8000/yunus/yunus/2925
-#EXTINF:-1,SKY SELECT 8 HD
-http://vip.fibertv.nl:8000/yunus/yunus/2926
-#EXTINF:-1,MaGicBoX Kino1 HD
-http://vip.fibertv.nl:8000/yunus/yunus/6665
-#EXTINF:-1,MaGicBoX Kino2 HD
-http://vip.fibertv.nl:8000/yunus/yunus/6666
-#EXTINF:-1,MaGicBoX Kino3 HD
-http://vip.fibertv.nl:8000/yunus/yunus/6667
-#EXTINF:-1,MaGicBoX Kino4 HD
-http://vip.fibertv.nl:8000/yunus/yunus/6668
-#EXTINF:-1,MaGicBoX Kino5 HD
-http://vip.fibertv.nl:8000/yunus/yunus/6669
-#EXTINF:-1,RTL Crime
-http://vip.fibertv.nl:8000/yunus/yunus/5015
-#EXTINF:-1,Sky 1 HD
-http://vip.fibertv.nl:8000/yunus/yunus/6013
-#EXTINF:-1,Sky Sport 1 HD
-http://vip.fibertv.nl:8000/yunus/yunus/125
-#EXTINF:-1,Sky Sport 2 HD
-http://vip.fibertv.nl:8000/yunus/yunus/126
-#EXTINF:-1,SKY Sport News
-http://vip.fibertv.nl:8000/yunus/yunus/1887
-#EXTINF:-1,SKY Bundesliga 2 HD
-http://vip.fibertv.nl:8000/yunus/yunus/139
-#EXTINF:-1,Super RTL HD
-http://vip.fibertv.nl:8000/yunus/yunus/547
-#EXTINF:-1,Vox HD
-http://vip.fibertv.nl:8000/yunus/yunus/132
-#EXTINF:-1,ZDF HD
-http://vip.fibertv.nl:8000/yunus/yunus/143
-#EXTINF:-1,ZDF HD (1080)
-http://vip.fibertv.nl:8000/yunus/yunus/9925
+#EXTINF:-1, ZDF INFO
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2936
 #EXTINF:-1,13 STREET HD
-http://vip.fibertv.nl:8000/yunus/yunus/2624
-#EXTINF:-1,DISCOVERY HD
-http://vip.fibertv.nl:8000/yunus/yunus/2613
-#EXTINF:-1,Disney Junior
-http://vip.fibertv.nl:8000/yunus/yunus/868
-#EXTINF:-1,DISNEY CINEMAGIC HD
-http://vip.fibertv.nl:8000/yunus/yunus/2731
-#EXTINF:-1,HISTORY HD
-http://vip.fibertv.nl:8000/yunus/yunus/2627
-#EXTINF:-1,JUNIOR
-http://vip.fibertv.nl:8000/yunus/yunus/2730
-#EXTINF:-1,KIKA HD
-http://vip.fibertv.nl:8000/yunus/yunus/1553
-#EXTINF:-1,ZEE ONE HD
-http://vip.fibertv.nl:8000/yunus/yunus/913
-#EXTINF:-1,Nat Geo Wild HD
-http://vip.fibertv.nl:8000/yunus/yunus/872
-#EXTINF:-1,NDR HD
-http://vip.fibertv.nl:8000/yunus/yunus/2615
-#EXTINF:-1,ORF SPORT + HD
-http://vip.fibertv.nl:8000/yunus/yunus/2625
-#EXTINF:-1,ROMANCE TV
-http://vip.fibertv.nl:8000/yunus/yunus/3236
-#EXTINF:-1,SAT 1 GOLD HD
-http://vip.fibertv.nl:8000/yunus/yunus/2614
-#EXTINF:-1,SKY ACTION HD
-http://vip.fibertv.nl:8000/yunus/yunus/128
-#EXTINF:-1,SKY AXN HD
-http://vip.fibertv.nl:8000/yunus/yunus/2616
-#EXTINF:-1,SKY CINEMA 1 HD
-http://vip.fibertv.nl:8000/yunus/yunus/2923
-#EXTINF:-1,SKY COMEDY HD
-http://vip.fibertv.nl:8000/yunus/yunus/1552
-#EXTINF:-1,SKY HITS HD
-http://vip.fibertv.nl:8000/yunus/yunus/871
-#EXTINF:-1,SKY NOSTALGIE HD
-http://vip.fibertv.nl:8000/yunus/yunus/2623
-#EXTINF:-1,SKY RTL PASSION
-http://vip.fibertv.nl:8000/yunus/yunus/866
-#EXTINF:-1,TNT COMEDY HD
-http://vip.fibertv.nl:8000/yunus/yunus/2018
-#EXTINF:-1,SKY SPORT 3 HD [ON MATCHDAY]
-http://vip.fibertv.nl:8000/yunus/yunus/2012
-#EXTINF:-1,SKY SPORT 4 HD [ON MATCHDAY]
-http://vip.fibertv.nl:8000/yunus/yunus/2013
-#EXTINF:-1,SKY SPORT 5 HD [ON MATCHDAY]
-http://vip.fibertv.nl:8000/yunus/yunus/2014
-#EXTINF:-1,SKY SPORT 6 HD [ON MATCHDAY]
-http://vip.fibertv.nl:8000/yunus/yunus/2015
-#EXTINF:-1,SKY SPORT 7 HD [ON MATCHDAY]
-http://vip.fibertv.nl:8000/yunus/yunus/2016
-#EXTINF:-1,SKY SPORT 8 HD [ON MATCHDAY]
-http://vip.fibertv.nl:8000/yunus/yunus/2017
-#EXTINF:-1,SKY TNT SERIES HD
-http://vip.fibertv.nl:8000/yunus/yunus/2924
-#EXTINF:-1,SPORT+1 HD
-http://vip.fibertv.nl:8000/yunus/yunus/1317
-#EXTINF:-1,Syfy HD
-http://vip.fibertv.nl:8000/yunus/yunus/2621
-#EXTINF:-1,TLC TV HD
-http://vip.fibertv.nl:8000/yunus/yunus/2919
-#EXTINF:-1,TNT FILM HD
-http://vip.fibertv.nl:8000/yunus/yunus/129
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2917
 #EXTINF:-1,3SAT HD
-http://vip.fibertv.nl:8000/yunus/yunus/4112
-#EXTINF:-1,Nickelodeon HD
-http://vip.fibertv.nl:8000/yunus/yunus/8489
-#EXTINF:-1,Disney Channel HD
-http://vip.fibertv.nl:8000/yunus/yunus/4117
-#EXTINF:-1,Cartoon Network HD
-http://vip.fibertv.nl:8000/yunus/yunus/9737
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2937
+#EXTINF:-1,ARD HD
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2918
+#EXTINF:-1,DE
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2916
+#EXTINF:-1,DISCOVERY HD
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2919
+#EXTINF:-1,DISNEY CHANNEL
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2920
 #EXTINF:-1,DISNEY XD
-http://vip.fibertv.nl:8000/yunus/yunus/1327
-#EXTINF:-1,E! Entertainment HD
-http://vip.fibertv.nl:8000/yunus/yunus/4119
-#EXTINF:-1,Dazn Sport 1
-http://vip.fibertv.nl:8000/yunus/yunus/10441
-#EXTINF:-1,Dazn Sport 2
-http://vip.fibertv.nl:8000/yunus/yunus/10442
-#EXTINF:-1,Eurosport 1 HD
-http://vip.fibertv.nl:8000/yunus/yunus/4113
-#EXTINF:-1,Eurosport 2 HD
-http://vip.fibertv.nl:8000/yunus/yunus/6922
-#EXTINF:-1,A&E HD
-http://vip.fibertv.nl:8000/yunus/yunus/7053
-#EXTINF:-1,Eurosport 2 Exra
-http://vip.fibertv.nl:8000/yunus/yunus/6979
-#EXTINF:-1,Sky Sport 1 FHD
-http://vip.fibertv.nl:8000/yunus/yunus/4116
-#EXTINF:-1,Kinowelt TV
-http://vip.fibertv.nl:8000/yunus/yunus/4118
-#EXTINF:-1,Sky Emotion HD
-http://vip.fibertv.nl:8000/yunus/yunus/4114
-#EXTINF:-1,SKY ATLANTIC
-http://vip.fibertv.nl:8000/yunus/yunus/864
-#EXTINF:-1,Sky Cinema 24 HD
-http://vip.fibertv.nl:8000/yunus/yunus/138
-#EXTINF:-1,Sky Cinema HD
-http://vip.fibertv.nl:8000/yunus/yunus/127
-#EXTINF:-1,Sport1+ US HD
-http://vip.fibertv.nl:8000/yunus/yunus/4111
-#EXTINF:-1,National Geographic HD
-http://vip.fibertv.nl:8000/yunus/yunus/1007
-#EXTINF:-1,ANIXE HD 1080P
-http://vip.fibertv.nl:8000/yunus/yunus/4415
-#EXTINF:-1,SKY CINEMA EMOTION 1080P HD
-http://vip.fibertv.nl:8000/yunus/yunus/4417
-#EXTINF:-1,History HD 1080P
-http://vip.fibertv.nl:8000/yunus/yunus/4414
-#EXTINF:-1,Motor Vision
-http://vip.fibertv.nl:8000/yunus/yunus/4418
-#EXTINF:-1,SKY CINEMA 1 1080P HD
-http://vip.fibertv.nl:8000/yunus/yunus/4416
-#EXTINF:-1,Sky Action HD 1080P
-http://vip.fibertv.nl:8000/yunus/yunus/4424
-#EXTINF:-1,Sky Atlantic HD 1080P
-http://vip.fibertv.nl:8000/yunus/yunus/4421
-#EXTINF:-1,Sky Hits HD 1080P
-http://vip.fibertv.nl:8000/yunus/yunus/4423
-#EXTINF:-1,TNT Serie HD 1080P
-http://vip.fibertv.nl:8000/yunus/yunus/4422
-#EXTINF:-1,13th Street HD 1080P
-http://vip.fibertv.nl:8000/yunus/yunus/4848
-#EXTINF:-1,SKY CINEMA FAMILY HD 1080P
-http://vip.fibertv.nl:8000/yunus/yunus/4847
-#EXTINF:-1,Animal Planet HD 1080P
-http://vip.fibertv.nl:8000/yunus/yunus/4846
-#EXTINF:-1,Deluxe Music HD 1080P
-http://vip.fibertv.nl:8000/yunus/yunus/4845
-#EXTINF:-1,Discovery Channel HD 1080P
-http://vip.fibertv.nl:8000/yunus/yunus/4834
-#EXTINF:-1,BOOMERANG HD 1080P
-http://vip.fibertv.nl:8000/yunus/yunus/4844
-#EXTINF:-1,FOX HD 1080P
-http://vip.fibertv.nl:8000/yunus/yunus/4843
-#EXTINF:-1,Kabel Eins Doku HD
-http://vip.fibertv.nl:8000/yunus/yunus/7831
-#EXTINF:-1,n-tv HD 1080P
-http://vip.fibertv.nl:8000/yunus/yunus/4826
-#EXTINF:-1,N24 Doku
-http://vip.fibertv.nl:8000/yunus/yunus/10649
-#EXTINF:-1,N24 1080P HD
-http://vip.fibertv.nl:8000/yunus/yunus/4827
-#EXTINF:-1,Nat Geo Wild HD 1080P
-http://vip.fibertv.nl:8000/yunus/yunus/4828
-#EXTINF:-1,National Geographic HD 1080P
-http://vip.fibertv.nl:8000/yunus/yunus/4829
-#EXTINF:-1,ProSieben HD 1080P
-http://vip.fibertv.nl:8000/yunus/yunus/4842
-#EXTINF:-1,ProSieben Maxx HD 1080P
-http://vip.fibertv.nl:8000/yunus/yunus/4841
-#EXTINF:-1,Sky 3D 1080P
-http://vip.fibertv.nl:8000/yunus/yunus/4833
-#EXTINF:-1,RTL HD 1080P
-http://vip.fibertv.nl:8000/yunus/yunus/4839
-#EXTINF:-1,RTL II HD 1080P
-http://vip.fibertv.nl:8000/yunus/yunus/4840
-#EXTINF:-1,RTL NITRO HD 1080P
-http://vip.fibertv.nl:8000/yunus/yunus/4838
-#EXTINF:-1,SAT.1 HD 1080P
-http://vip.fibertv.nl:8000/yunus/yunus/4830
-#EXTINF:-1,SIXX HD 1080P
-http://vip.fibertv.nl:8000/yunus/yunus/4831
-#EXTINF:-1,Sky Cinema HD 1080P
-http://vip.fibertv.nl:8000/yunus/yunus/4835
-#EXTINF:-1,SPIEGEL TV Wissen HD 1080P
-http://vip.fibertv.nl:8000/yunus/yunus/4836
-#EXTINF:-1,Super RTL HD 1080P
-http://vip.fibertv.nl:8000/yunus/yunus/4825
-#EXTINF:-1,Syfy HD 1080P
-http://vip.fibertv.nl:8000/yunus/yunus/4832
-#EXTINF:-1,VOX HD 1080P
-http://vip.fibertv.nl:8000/yunus/yunus/4837
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2921
+#EXTINF:-1,Eurosport 1
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2922
+#EXTINF:-1,FOX HD
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2923
+#EXTINF:-1,HISTORY HD
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2924
+#EXTINF:-1,JUNIOR
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2925
+#EXTINF:-1,KABEL 1 HD
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2926
+#EXTINF:-1,KIKA
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2927
+#EXTINF:-1,Kinowelt HD
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2928
+#EXTINF:-1,MGM HD
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2929
+#EXTINF:-1,N-TV
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2930
+#EXTINF:-1,N24 HD
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2931
+#EXTINF:-1,National Geographic People HD
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2932
+#EXTINF:-1,ORF 1 HD
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2933
+#EXTINF:-1,ORF 2 HD
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2934
+#EXTINF:-1,Phoenix HD
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2938
+#EXTINF:-1,PRO 7 HD
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2935
+#EXTINF:-1,Pro7 Fun HD
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2939
+#EXTINF:-1,ProSieben HD
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2941
+#EXTINF:-1,ProSieben Maxx
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2942
+#EXTINF:-1,RTL 2 HD
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2943
+#EXTINF:-1,RTL CRIME
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2944
+#EXTINF:-1,RTL HD
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2945
+#EXTINF:-1,RTL NITRO
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2946
+#EXTINF:-1,RTL PASSION HD
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2947
+#EXTINF:-1,SAT 1 HD
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2948
+#EXTINF:-1,SIXX HD
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2949
+#EXTINF:-1,SKY ACTION HD
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2950
+#EXTINF:-1,Sky Animal Planet HD
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2951
+#EXTINF:-1,Sky Atlantic  1 HD
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2952
+#EXTINF:-1,SKY ATLANTIC HD
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2953
+#EXTINF:-1,SKY AXN HD
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2954
+#EXTINF:-1,SKY BL 1
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2955
+#EXTINF:-1,SKY BL 2
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2956
+#EXTINF:-1,SKY CINEMA 24 HD
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2957
+#EXTINF:-1,SKY CINEMA HD
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2958
+#EXTINF:-1,SKY CINEMAGIC 24h
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2959
+#EXTINF:-1,SKY COMEDY HD
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2960
+#EXTINF:-1,Sky Disney Cinemagic HD
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2961
+#EXTINF:-1,SKY DMAX HD
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2962
+#EXTINF:-1,SKY EMOTION HD
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2963
+#EXTINF:-1,SKY HITS HD
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2964
+#EXTINF:-1,SKY KRIMI HD
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2965
+#EXTINF:-1,SKY NAT GEO HD
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2966
+#EXTINF:-1,SKY NAT GEO WILD HD
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2967
+#EXTINF:-1,SKY NOSTALGIE
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2968
+#EXTINF:-1,SKY SELECT 1 HD
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2969
+#EXTINF:-1,SKY SELECT 10
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2970
+#EXTINF:-1,SKY SELECT 2 HD
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2971
+#EXTINF:-1,SKY SELECT 3 HD
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2972
+#EXTINF:-1,SKY SELECT 4 HD
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2973
+#EXTINF:-1,SKY SELECT 5 HD
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2974
+#EXTINF:-1,SKY SELECT 6
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2975
+#EXTINF:-1,SKY SELECT 7 HD
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2976
+#EXTINF:-1,SKY SELECT 8
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2977
+#EXTINF:-1,SKY SELECT 9
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2978
+#EXTINF:-1,SKY SPORT 1 HD
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2979
+#EXTINF:-1,SKY SPORT 2 HD
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2980
+#EXTINF:-1,SKY SPORT AUSTRIA
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2981
+#EXTINF:-1,SKY SPORT NEWS HD
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2982
+#EXTINF:-1,SONY TV HD
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2983
+#EXTINF:-1,SPORT1  HD
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2984
+#EXTINF:-1,SUPER RTL HD
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2985
+#EXTINF:-1,SYFY HD
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2986
+#EXTINF:-1,Tele 5 HD
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2940
+#EXTINF:-1,TNT FILM HD
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2987
+#EXTINF:-1,TNT SERIE HD
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2988
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2989
+#EXTINF:-1,VOX HD
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2990
+#EXTINF:-1,WDR HD
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2991
+#EXTINF:-1,ZDF HD
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/2992

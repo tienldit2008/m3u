@@ -1,51 +1,325 @@
 #EXTM3U
-#EXTINF:0,Cinemax Moremax HD
-http://vip.fibertv.nl:8000/yunus/yunus/7384
-#EXTINF:0,Comedy Central HD
-http://vip.fibertv.nl:8000/yunus/yunus/7387
-#EXTINF:0,Discovery Channel HD
-http://vip.fibertv.nl:8000/yunus/yunus/7386
-#EXTINF:0,Hallmark Channe HD
-http://vip.fibertv.nl:8000/yunus/yunus/7383
-#EXTINF:0,Showtime HD
-http://vip.fibertv.nl:8000/yunus/yunus/7385
-#EXTINF:0,TBS HD
-http://vip.fibertv.nl:8000/yunus/yunus/6544
-#EXTINF:0,TNT HD
-http://vip.fibertv.nl:8000/yunus/yunus/3768
-#EXTINF:0,FX HD
-http://vip.fibertv.nl:8000/yunus/yunus/2023
-#EXTINF:0,CNN HD
-http://vip.fibertv.nl:8000/yunus/yunus/2020
-#EXTINF:0,Starz Cinema
-http://vip.fibertv.nl:8000/yunus/yunus/2022
-#EXTINF:0,AMC HD
-http://vip.fibertv.nl:8000/yunus/yunus/2021
-#EXTINF:0,The CW 11
-http://vip.fibertv.nl:8000/yunus/yunus/11804
-#EXTINF:0,NBA TV
-http://vip.fibertv.nl:8000/yunus/yunus/3737
-#EXTINF:0,NICKELODEN HD
-http://vip.fibertv.nl:8000/yunus/yunus/3738
-#EXTINF:0,FOX SPORT 1 HD
-http://vip.fibertv.nl:8000/yunus/yunus/3730
-#EXTINF:0,FOX SPORT 2 HD
-http://vip.fibertv.nl:8000/yunus/yunus/3731
-#EXTINF:0,HBO Family HD
-http://vip.fibertv.nl:8000/yunus/yunus/3739
-#EXTINF:0,NBC Golf HD
-http://vip.fibertv.nl:8000/yunus/yunus/3742
-#EXTINF:0,SPIKE HD
-http://vip.fibertv.nl:8000/yunus/yunus/3740
-#EXTINF:0,HISTORY HD
-http://vip.fibertv.nl:8000/yunus/yunus/3741
-#EXTINF:0,TSN 1 HD
-http://vip.fibertv.nl:8000/yunus/yunus/3732
-#EXTINF:0,TSN 2 HD
-http://vip.fibertv.nl:8000/yunus/yunus/3733
-#EXTINF:0,TSN 3 HD
-http://vip.fibertv.nl:8000/yunus/yunus/3734
-#EXTINF:0,TSN 4 HD
-http://vip.fibertv.nl:8000/yunus/yunus/3735
-#EXTINF:0,TSN 5 HD
-http://vip.fibertv.nl:8000/yunus/yunus/3736
+#EXTINF:-1,USA : A and E HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11130
+#EXTINF:-1,USA : ABC HD* (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11129
+#EXTINF:-1,USA : ABC NEWS HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11128
+#EXTINF:-1,USA : ABC Spark HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11127
+#EXTINF:-1,USA : AETV US HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11126
+#EXTINF:-1,USA : AFN PRIME ATLANTIC (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11125
+#EXTINF:-1,USA : AFN PRIME PACIFIC (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11124
+#EXTINF:-1,USA : AFN SPORTS (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11123
+#EXTINF:-1,USA : AFN SPORTS 2 (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11122
+#EXTINF:-1,USA : BBC America HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11121
+#EXTINF:-1,USA : BIG TEN NETWORK (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11120
+#EXTINF:-1,USA : Bloomberg HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11119
+#EXTINF:-1,USA : BRAVO HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11118
+#EXTINF:-1,USA : BTN HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11117
+#EXTINF:-1,USA : C-SPAN 1 HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11116
+#EXTINF:-1,USA : C-SPAN 2 HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11115
+#EXTINF:-1,USA : C-SPAN 3 HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11114
+#EXTINF:-1,USA : CARTOON NETWORK (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11113
+#EXTINF:-1,USA : CBN HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11112
+#EXTINF:-1,USA : CBN NEWS (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11111
+#EXTINF:-1,USA : CBS Sports Network HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11110
+#EXTINF:-1,USA : CINEMAX HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11109
+#EXTINF:-1,USA : Cinemax MoreMax HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11108
+#EXTINF:-1,USA : Cinemax ThrillerMax HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11107
+#EXTINF:-1,USA : COMEDY CENTRAL (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11106
+#EXTINF:-1,USA : DESTINATION AMERICA (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11105
+#EXTINF:-1,USA : Discovery HD? (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11104
+#EXTINF:-1,USA : DISCOVERY VELOCITY HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11103
+#EXTINF:-1,USA : Disney HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11102
+#EXTINF:-1,USA : DTX HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11101
+#EXTINF:-1,USA : E! HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11100
+#EXTINF:-1,USA : ELEVEN SPORTS HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11099
+#EXTINF:-1,USA : Epix (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11098
+#EXTINF:-1,USA : Epix 2 HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11097
+#EXTINF:-1,USA : ESPN NEWS HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11096
+#EXTINF:-1,USA : FOX 43 HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11095
+#EXTINF:-1,USA : FOX BUSINESS NETWORK HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11094
+#EXTINF:-1,USA : Fox Sports 1 HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11093
+#EXTINF:-1,USA : Fox Sports 2 HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11092
+#EXTINF:-1,USA : FREEFORM HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11091
+#EXTINF:-1,USA : FUSION HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11090
+#EXTINF:-1,USA : GOLF HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11089
+#EXTINF:-1,USA : GSN HD* (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11088
+#EXTINF:-1,USA : H2 (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11087
+#EXTINF:-1,USA : Hall Mark HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11086
+#EXTINF:-1,USA : HBO Comedy HD East (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11085
+#EXTINF:-1,USA : HBO HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11084
+#EXTINF:-1,USA : HBO Zone (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11083
+#EXTINF:-1,USA : HGTV HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11082
+#EXTINF:-1,USA : ID HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11081
+#EXTINF:-1,USA : IFC HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11080
+#EXTINF:-1,USA : LMN HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11079
+#EXTINF:-1,USA : MLB NETWORK (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11078
+#EXTINF:-1,USA : MoreMax HD* (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11077
+#EXTINF:-1,USA : Nat Geo hd (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11076
+#EXTINF:-1,USA : NBA TV HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11075
+#EXTINF:-1,USA : NFL NETWORK HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11074
+#EXTINF:-1,USA : NFL NOW HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11073
+#EXTINF:-1,USA : NFL REDZONE HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11072
+#EXTINF:-1,USA : NHL NETWORK HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11071
+#EXTINF:-1,USA : NICK HD* (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11070
+#EXTINF:-1,USA : Nick Jr. HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11069
+#EXTINF:-1,USA : Nicktoons (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11068
+#EXTINF:-1,USA : NO TV New Orleans (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11067
+#EXTINF:-1,USA : OUTSIDE HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11066
+#EXTINF:-1,USA : OXYGEN HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11065
+#EXTINF:-1,USA : PAC-12 (ARIZONA) (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11064
+#EXTINF:-1,USA : PAC-12 (BAY AREA) (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11063
+#EXTINF:-1,USA : PAC-12 (Los Angeles) (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11062
+#EXTINF:-1,USA : PAC-12 (MOUNTAIN) (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11061
+#EXTINF:-1,USA : PAC-12 (NATIONAL) (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11060
+#EXTINF:-1,USA : PAC-12 (OREGON) (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11059
+#EXTINF:-1,USA : PAC-12 (WASHINGTON) (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11058
+#EXTINF:-1,USA : PBS HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11057
+#EXTINF:-1,USA : Reelz HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11056
+#EXTINF:-1,USA : SEC NETWORK (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11055
+#EXTINF:-1,USA : SEC Network HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11054
+#EXTINF:-1,USA : SHOWTIME HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11053
+#EXTINF:-1,USA : Slice HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11052
+#EXTINF:-1,USA : SN CENTRAL HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11051
+#EXTINF:-1,USA : SPIKE HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11050
+#EXTINF:-1,USA : Starz Edge (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11049
+#EXTINF:-1,USA : Starz kids family (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11048
+#EXTINF:-1,USA : SYFY HD? (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11047
+#EXTINF:-1,USA : TBS (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11046
+#EXTINF:-1,USA : TENNIS HD* (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11045
+#EXTINF:-1,USA : THE Travel Channel HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11044
+#EXTINF:-1,USA : TNT HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11043
+#EXTINF:-1,USA : TRAVEL CHANNEL HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11042
+#EXTINF:-1,USA : TRU TV HD * (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11041
+#EXTINF:-1,USA : TV LAND HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11040
+#EXTINF:-1,USA : UNIVERSAL HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11039
+#EXTINF:-1,USA : VH1 HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11038
+#EXTINF:-1,USA : Viceland HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11037
+#EXTINF:-1,USA : WE HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11036
+#EXTINF:-1,USA : WGN HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11035
+#EXTINF:-1,USA . BET HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11034
+#EXTINF:-1,USA . Boomerang HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11033
+#EXTINF:-1,USA . CMT HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11032
+#EXTINF:-1,USA . Cooking Channel HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11031
+#EXTINF:-1,USA . Crime & Investigation HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11030
+#EXTINF:-1,USA . Disney Jr. HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11029
+#EXTINF:-1,USA . Disney XD HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11028
+#EXTINF:-1,USA . ESPNDeportes HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11027
+#EXTINF:-1,USA . Hallmark Movies&Mysteries HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11026
+#EXTINF:-1,USA . HBOComedy HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11025
+#EXTINF:-1,USA . HBOFamily (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11024
+#EXTINF:-1,USA . HBOSignature HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11023
+#EXTINF:-1,USA . MTV HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11022
+#EXTINF:-1,USA . MTVLive HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11021
+#EXTINF:-1,USA . ShowtimeFamily Zone HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11020
+#EXTINF:-1,USA . Sprout HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11019
+#EXTINF:-1,USA . StarzKids & Family HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11018
+#EXTINF:-1,USA . Sundance HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11017
+#EXTINF:-1,USA | Pac12 Arizona HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11016
+#EXTINF:-1,USA | Pac12 Bay Area HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11015
+#EXTINF:-1,USA | Pac12 Los Angeles HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11014
+#EXTINF:-1,USA | Pac12 Mountain HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11013
+#EXTINF:-1,USA | Pac12 National HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11012
+#EXTINF:-1,USA | Pac12 Oregon HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11011
+#EXTINF:-1,USA | Pac12 Washington HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11010
+#EXTINF:-1,USA Discovery Family HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11009
+#EXTINF:-1,USA: BEIN SPORTS HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11008
+#EXTINF:-1,USA: CINEMAX 5
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11007
+#EXTINF:-1,USA: CINEMAX 5 (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11006
+#EXTINF:-1,USA: CNBC HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11005
+#EXTINF:-1,USA: CW HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11004
+#EXTINF:-1,USA: ESPN 2 HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11003
+#EXTINF:-1,USA: ESPN HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11002
+#EXTINF:-1,USA: ESPN U
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11001
+#EXTINF:-1,USA: ESPN U (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/11000
+#EXTINF:-1,USA: ESPN U HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/10999
+#EXTINF:-1,USA: FOX NEWS (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/10998
+#EXTINF:-1,USA: FOX SPORTS 1 HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/10997
+#EXTINF:-1,USA: FOX SPORTS 2 HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/10996
+#EXTINF:-1,USA: NBC HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/10995
+#EXTINF:-1,USA: NBCSN HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/10994
+#EXTINF:-1,USA: USA NETWORK (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/10993
+#EXTINF:-1,USA: VirginTV Radio
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/10992
+#EXTINF:-1,USA: WWE NETWORK HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/10991
+#EXTINF:-1,AMC HD* (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/10990
+#EXTINF:-1,Animal Planet HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/10989
+#EXTINF:-1,BEIN USA HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/10988
+#EXTINF:-1,CBS (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/10987
+#EXTINF:-1,CNN HD USA (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/10986
+#EXTINF:-1,Discovery HD* (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/10985
+#EXTINF:-1,DISCOVERY SCIENCE HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/10984
+#EXTINF:-1,Disney HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/10983
+#EXTINF:-1,DIY NETWORK HD** (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/10982
+#EXTINF:-1,Food Network HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/10981
+#EXTINF:-1,FOX HD** (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/10980
+#EXTINF:-1,FX HD* (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/10979
+#EXTINF:-1,FXX HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/10978
+#EXTINF:-1,HBO HD 1* (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/10977
+#EXTINF:-1,HBO HD 2* (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/10976
+#EXTINF:-1,Lifetime HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/10975
+#EXTINF:-1,MSNBC HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/10974
+#EXTINF:-1,NAT GEO WILD HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/10973
+#EXTINF:-1,OWN HD (OPRAH WINFRY NETWORK) (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/10972
+#EXTINF:-1,TLC HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/10971
+#EXTINF:-1,USA/CA: HISTORY HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/10970
+#EXTINF:-1,USA/CA: VELOCITY HD (G)
+http://dreamtv.info:2086/jawadefesss/8LIQcr3sxW/10969
