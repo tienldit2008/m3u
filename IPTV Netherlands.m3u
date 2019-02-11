@@ -1,99 +1,221 @@
 #EXTM3U
-#EXTINF:0,NED 1HD
-http://leon-iptv.ddns.net:1155/trina/123456/4197
-#EXTINF:0,NED 2HD
-http://leon-iptv.ddns.net:1155/trina/123456/4196
-#EXTINF:0,NED 3HD
-http://leon-iptv.ddns.net:1155/trina/123456/4195
-#EXTINF:0,NAT GEO WILD HD
-http://leon-iptv.ddns.net:1155/trina/123456/4193
-#EXTINF:0,NATIONAL GEO HD
-http://leon-iptv.ddns.net:1155/trina/123456/4194
-#EXTINF:0,FOX SPORT 1FHD
-http://leon-iptv.ddns.net:1155/trina/123456/4190
-#EXTINF:0,FOX SPORT 2FHD
-http://leon-iptv.ddns.net:1155/trina/123456/4189
-#EXTINF:0,DISNEY JUNIOR HD
-http://leon-iptv.ddns.net:1155/trina/123456/4192
-#EXTINF:0,FILM 1 PREMIUM HD 
-http://leon-iptv.ddns.net:1155/trina/123456/4191
-#EXTINF:0, FILM1 COMEDY HD
-http://leon-iptv.ddns.net:1155/trina/123456/993
-#EXTINF:0,FILM1 PREMIERE HD
-http://leon-iptv.ddns.net:1155/trina/123456/990
-#EXTINF:0,FILM 1 SPORTLIGHT HD
-http://leon-iptv.ddns.net:1155/trina/123456/994
-#EXTINF:0,FILM1 SUNDANCE HD
-http://leon-iptv.ddns.net:1155/trina/123456/991
-#EXTINF:0,FOX HD
-http://leon-iptv.ddns.net:1155/trina/123456/989
-#EXTINF:0,HBO 1HD
-http://leon-iptv.ddns.net:1155/trina/123456/986
-#EXTINF:0,HBO 2HD
-http://leon-iptv.ddns.net:1155/trina/123456/987
-#EXTINF:0,HBO-3HD
-http://leon-iptv.ddns.net:1155/trina/123456/988
-#EXTINF:0,NPO 1HD
-http://leon-iptv.ddns.net:1155/trina/123456/1485
-#EXTINF:0,NPO 2HD
-http://leon-iptv.ddns.net:1155/trina/123456/1486
-#EXTINF:0,NPO 3HD
-http://leon-iptv.ddns.net:1155/trina/123456/1487
-#EXTINF:0,RTL 4HD
-http://leon-iptv.ddns.net:1155/trina/123456/144
-#EXTINF:0,RTL 5HD
-http://leon-iptv.ddns.net:1155/trina/123456/145
-#EXTINF:0,RTL 7HD
-http://leon-iptv.ddns.net:1155/trina/123456/2367
-#EXTINF:0,RTL 8HD
-http://leon-iptv.ddns.net:1155/trina/123456/2366
-#EXTINF:0,SBS 6HD
-http://leon-iptv.ddns.net:1155/trina/123456/2356
-#EXTINF:0,SBS 9HD
-http://leon-iptv.ddns.net:1155/trina/123456/2355
-#EXTINF:0,NICKELODEON HD
-http://leon-iptv.ddns.net:1155/trina/123456/2363
-#EXTINF:0,CARTOON NETWORK HD
-http://leon-iptv.ddns.net:1155/trina/123456/2361
-#EXTINF:0,DISCOVERY HD
-http://leon-iptv.ddns.net:1155/trina/123456/2357
-#EXTINF:0,DISNEY CHANNEL HD
-http://leon-iptv.ddns.net:1155/trina/123456/2360
-#EXTINF:0,NAT GEO HD
-http://leon-iptv.ddns.net:1155/trina/123456/2359
-#EXTINF:0,NAT GEO WILD HD
-http://leon-iptv.ddns.net:1155/trina/123456/2358
-#EXTINF:0,NICK Jr HD
-http://leon-iptv.ddns.net:1155/trina/123456/2364
-#EXTINF:0,NICK TOONS HD
-http://leon-iptv.ddns.net:1155/trina/123456/2362
-#EXTINF:0,TLC HD
-http://leon-iptv.ddns.net:1155/trina/123456/2365
-#EXTINF:0,VERONICA DISNEY HD
-http://leon-iptv.ddns.net:1155/trina/123456/2354
-#EXTINF:0,FOX SPORT 1HD
-http://leon-iptv.ddns.net:1155/trina/123456/995
-#EXTINF:0,FOX SPORT 2HD
-http://leon-iptv.ddns.net:1155/trina/123456/996
-#EXTINF:0,FOX SPORT 3HD
-http://leon-iptv.ddns.net:1155/trina/123456/997
-#EXTINF:0,FOX SPORT 4HD
-http://leon-iptv.ddns.net:1155/trina/123456/998
-#EXTINF:0,FOX SPORT 5HD
-http://leon-iptv.ddns.net:1155/trina/123456/999
-#EXTINF:0,FOX SPORT 6HD
-http://leon-iptv.ddns.net:1155/trina/123456/1000
-#EXTINF:0,ZIGGO SPORT XTRA 1HD
-http://leon-iptv.ddns.net:1155/trina/123456/1492
-#EXTINF:0,ZIGGO SPORT XTRA 2HD
-http://leon-iptv.ddns.net:1155/trina/123456/1491
-#EXTINF:0,ZIGGO SPORT GOLF HD
-http://leon-iptv.ddns.net:1155/trina/123456/1490
-#EXTINF:0,ZIGGO SPORT RACING HD
-http://leon-iptv.ddns.net:1155/trina/123456/1489
-#EXTINF:0,ZIGGO SPORT SELECT HD
-http://leon-iptv.ddns.net:1155/trina/123456/1488
-#EXTINF:0,(Holland) Sport EXTRA 1 HD
-http://leon-iptv.ddns.net:1155/trina/123456/1001
-#EXTINF:0,(Holland) Sport EXTRA 2 HD
-http://leon-iptv.ddns.net:1155/trina/123456/1002
+#EXTINF:-1,NPO 1 HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5628.m3u8
+#EXTINF:-1,NPO 1
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5627.m3u8
+#EXTINF:-1,NPO 101 HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5626.m3u8
+#EXTINF:-1,NPO 2 HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5625.m3u8
+#EXTINF:-1,NPO 2
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5624.m3u8
+#EXTINF:-1,NPO 3 HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5623.m3u8
+#EXTINF:-1,NPO 3
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5622.m3u8
+#EXTINF:-1,RTL 4 HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5621.m3u8
+#EXTINF:-1,|NL| RTL 5 HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5620.m3u8
+#EXTINF:-1,RTL 7 HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5619.m3u8
+#EXTINF:-1,|NL| RTL 8 HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5618.m3u8
+#EXTINF:-1,RTL CRIME HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5617.m3u8
+#EXTINF:-1,|NL| RTLZ HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5616.m3u8
+#EXTINF:-1,RTL Telekids
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5615.m3u8
+#EXTINF:-1,RTL Lounge
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5614.m3u8
+#EXTINF:-1,SBS 6 HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5613.m3u8
+#EXTINF:-1,SBS 9 HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5612.m3u8
+#EXTINF:-1,[NL]...SPORT...[NL]
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5611.m3u8
+#EXTINF:-1,|NL| Fox Sports HD 1
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5610.m3u8
+#EXTINF:-1,Fox Sports HD 2
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5609.m3u8
+#EXTINF:-1,|NL| Fox Sports HD 3
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5608.m3u8
+#EXTINF:-1,|NL| Fox Sports HD 4
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5607.m3u8
+#EXTINF:-1,|NL| Fox Sports HD 5
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5606.m3u8
+#EXTINF:-1,|NL| Fox Sports HD 6
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5605.m3u8
+#EXTINF:-1,|NL| Extreme Sports
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5604.m3u8
+#EXTINF:-1,|NL|....CULTURE...|NL|
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5603.m3u8
+#EXTINF:-1,|NL| DISCOVERY HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5602.m3u8
+#EXTINF:-1,Discovery Showcase HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5601.m3u8
+#EXTINF:-1,DISCO INVESTIGATION HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5600.m3u8
+#EXTINF:-1,NATIONAL GEO HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5599.m3u8
+#EXTINF:-1,NATIONAL GEO WILD HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5598.m3u8
+#EXTINF:-1,TRAVEL CHANNEL HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5597.m3u8
+#EXTINF:-1,ANIMAL PLANET HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5596.m3u8
+#EXTINF:-1,HISTORY CHANEL HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5595.m3u8
+#EXTINF:-1,[NL]....KINO...[NL]
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5594.m3u8
+#EXTINF:-1,Film 1 Action HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5593.m3u8
+#EXTINF:-1,Film 1 Premiere HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5592.m3u8
+#EXTINF:-1,Film1 Family HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5591.m3u8
+#EXTINF:-1,Film1 SUNDANCE HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5590.m3u8
+#EXTINF:-1,HBO 1HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5589.m3u8
+#EXTINF:-1,HBO 2HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5588.m3u8
+#EXTINF:-1,HBO 3HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5587.m3u8
+#EXTINF:-1,*****AMUSEMENT*****[NL]
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5586.m3u8
+#EXTINF:-1,FOX HD.
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5585.m3u8
+#EXTINF:-1,E Entertainment HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5584.m3u8
+#EXTINF:-1,COMEDY CENTRAL Extra.
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5583.m3u8
+#EXTINF:-1,|NL| Comedy Central Family
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5582.m3u8
+#EXTINF:-1,COMEDY CENTRAL HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5581.m3u8
+#EXTINF:-1,13th Street HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5580.m3u8
+#EXTINF:-1,TLC HD 
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5579.m3u8
+#EXTINF:-1,[NL]....KINDEREN...[NL]
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5578.m3u8
+#EXTINF:-1,BOOMERANG HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5576.m3u8
+#EXTINF:-1,CARTON NETWORK HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5575.m3u8
+#EXTINF:-1,BABY TV HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5577.m3u8
+#EXTINF:-1,DISNEY CHANEL HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5574.m3u8
+#EXTINF:-1,DISNEY.JUNIOR HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5573.m3u8
+#EXTINF:-1,NICKE.LODEON HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5570.m3u8
+#EXTINF:-1,NICK JR HD 
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5572.m3u8
+#EXTINF:-1,NICK.TOONS HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/5571.m3u8
+#EXTINF:-1,====NEDERLAND_CHANNEL====
+http://leon-iptv.ddns.net:1155/live/vieux/123456/985.m3u8
+#EXTINF:-1,NED 1HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/4197.m3u8
+#EXTINF:-1,NED 2HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/4196.m3u8
+#EXTINF:-1,NED 3HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/4195.m3u8
+#EXTINF:-1,NAT GEO WILD HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/4193.m3u8
+#EXTINF:-1,NATIONAL GEO HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/4194.m3u8
+#EXTINF:-1,FOX SPORT 1FHD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/4190.m3u8
+#EXTINF:-1,FOX SPORT 2FHD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/4189.m3u8
+#EXTINF:-1,FILM 1 ACTION HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/992.m3u8
+#EXTINF:-1,DISNEY JUNIOR HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/4192.m3u8
+#EXTINF:-1,FILM 1 PREMIUM HD 
+http://leon-iptv.ddns.net:1155/live/vieux/123456/4191.m3u8
+#EXTINF:-1, FILM1 COMEDY HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/993.m3u8
+#EXTINF:-1,FILM1 PREMIERE HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/990.m3u8
+#EXTINF:-1,FILM 1 SPORTLIGHT HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/994.m3u8
+#EXTINF:-1,FILM1 SUNDANCE HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/991.m3u8
+#EXTINF:-1,FOX HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/989.m3u8
+#EXTINF:-1,HBO 1HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/986.m3u8
+#EXTINF:-1,HBO 2HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/987.m3u8
+#EXTINF:-1,HBO-3HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/988.m3u8
+#EXTINF:-1,NPO 1HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/1485.m3u8
+#EXTINF:-1,NPO 2HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/1486.m3u8
+#EXTINF:-1,NPO 3HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/1487.m3u8
+#EXTINF:-1,RTL 4HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/144.m3u8
+#EXTINF:-1,RTL 5HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/145.m3u8
+#EXTINF:-1,RTL 7HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/2367.m3u8
+#EXTINF:-1,RTL 8HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/2366.m3u8
+#EXTINF:-1,SBS 6HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/2356.m3u8
+#EXTINF:-1,SBS 9HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/2355.m3u8
+#EXTINF:-1,NICKELODEON HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/2363.m3u8
+#EXTINF:-1,CARTOON NETWORK HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/2361.m3u8
+#EXTINF:-1,DISCOVERY HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/2357.m3u8
+#EXTINF:-1,DISNEY CHANNEL HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/2360.m3u8
+#EXTINF:-1,NAT GEO HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/2359.m3u8
+#EXTINF:-1,NAT GEO WILD HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/2358.m3u8
+#EXTINF:-1,NICK Jr HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/2364.m3u8
+#EXTINF:-1,NICK TOONS HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/2362.m3u8
+#EXTINF:-1,TLC HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/2365.m3u8
+#EXTINF:-1,VERONICA DISNEY HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/2354.m3u8
+#EXTINF:-1,FOX SPORT 1HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/995.m3u8
+#EXTINF:-1,FOX SPORT 2HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/996.m3u8
+#EXTINF:-1,FOX SPORT 3HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/997.m3u8
+#EXTINF:-1,FOX SPORT 4HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/998.m3u8
+#EXTINF:-1,FOX SPORT 5HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/999.m3u8
+#EXTINF:-1,FOX SPORT 6HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/1000.m3u8
+#EXTINF:-1,ZIGGO SPORT XTRA 1HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/1492.m3u8
+#EXTINF:-1,ZIGGO SPORT XTRA 2HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/1491.m3u8
+#EXTINF:-1,ZIGGO SPORT GOLF HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/1490.m3u8
+#EXTINF:-1,ZIGGO SPORT RACING HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/1489.m3u8
+#EXTINF:-1,ZIGGO SPORT SELECT HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/1488.m3u8
+#EXTINF:-1,(Holland) Sport EXTRA 1 HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/1001.m3u8
+#EXTINF:-1,(Holland) Sport EXTRA 2 HD
+http://leon-iptv.ddns.net:1155/live/vieux/123456/1002.m3u8
