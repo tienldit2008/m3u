@@ -1,67 +1,99 @@
 #EXTM3U
-#EXTINF:-1,ZIGGO SPORT Select HD
-http://tv24serwis2.eu:8000/45879541/stalker/287
-#EXTINF:-1,ZIGGO SPORT Golf
-http://tv24serwis2.eu:8000/45879541/stalker/288
-#EXTINF:-1,VERONIKA DISNEY XD
-http://tv24serwis2.eu:8000/45879541/stalker/232
-#EXTINF:-1,TV West
-http://tv24serwis2.eu:8000/45879541/stalker/250
-#EXTINF:-1,TLC HD
-http://tv24serwis2.eu:8000/45879541/stalker/253
-#EXTINF:-1,SPORT 1 FOETBAL
-http://tv24serwis2.eu:8000/45879541/stalker/237
-#EXTINF:-1,SBS 6
-http://tv24serwis2.eu:8000/45879541/stalker/222
-#EXTINF:-1,RTL TELEKIDS
-http://tv24serwis2.eu:8000/45879541/stalker/254
-#EXTINF:-1,RTL 8
-http://tv24serwis2.eu:8000/45879541/stalker/224
-#EXTINF:-1,RTL 7
-http://tv24serwis2.eu:8000/45879541/stalker/223
-#EXTINF:-1,RTL 5
-http://tv24serwis2.eu:8000/45879541/stalker/220
-#EXTINF:-1,NICKLODEON
-http://tv24serwis2.eu:8000/45879541/stalker/264
-#EXTINF:-1,NICK JR
-http://tv24serwis2.eu:8000/45879541/stalker/255
-#EXTINF:-1,NET 5
-http://tv24serwis2.eu:8000/45879541/stalker/221
-#EXTINF:-1,NEDERLAND 1
-http://tv24serwis2.eu:8000/45879541/stalker/219
-#EXTINF:-1,NAT GEO WILD
-http://tv24serwis2.eu:8000/45879541/stalker/265
-#EXTINF:-1,ID
-http://tv24serwis2.eu:8000/45879541/stalker/258
-#EXTINF:-1,HISTORYHD
-http://tv24serwis2.eu:8000/45879541/stalker/252
-#EXTINF:-1,FOX SPORT 6
-http://tv24serwis2.eu:8000/45879541/stalker/266
-#EXTINF:-1,FOX SPORT 5
-http://tv24serwis2.eu:8000/45879541/stalker/243
-#EXTINF:-1,FOX SPORT 4
-http://tv24serwis2.eu:8000/45879541/stalker/242
-#EXTINF:-1,FOX SPORT 3
-http://tv24serwis2.eu:8000/45879541/stalker/241
-#EXTINF:-1,FOX SPORT 2
-http://tv24serwis2.eu:8000/45879541/stalker/240
-#EXTINF:-1,FOX SPORT 1
-http://tv24serwis2.eu:8000/45879541/stalker/239
-#EXTINF:-1,FILM1 DRAMA
-http://tv24serwis2.eu:8000/45879541/stalker/263
-#EXTINF:-1,FILM ACTION NL
-http://tv24serwis2.eu:8000/45879541/stalker/228
-#EXTINF:-1,FILM 1 PREMIERE
-http://tv24serwis2.eu:8000/45879541/stalker/249
-#EXTINF:-1,DISCOVERY WORLD
-http://tv24serwis2.eu:8000/45879541/stalker/256
-#EXTINF:-1,DISCOVERY SCINCE
-http://tv24serwis2.eu:8000/45879541/stalker/257
-#EXTINF:-1,Discovery Channel HD
-http://tv24serwis2.eu:8000/45879541/stalker/251
-#EXTINF:-1,Cartoon Network
-http://tv24serwis2.eu:8000/45879541/stalker/245
-#EXTINF:-1,Boomerang
-http://tv24serwis2.eu:8000/45879541/stalker/247
-#EXTINF:-1,Baby TV
-http://tv24serwis2.eu:8000/45879541/stalker/246
+#EXTINF:0,NED 1HD
+http://leon-iptv.ddns.net:1155/trina/123456/4197
+#EXTINF:0,NED 2HD
+http://leon-iptv.ddns.net:1155/trina/123456/4196
+#EXTINF:0,NED 3HD
+http://leon-iptv.ddns.net:1155/trina/123456/4195
+#EXTINF:0,NAT GEO WILD HD
+http://leon-iptv.ddns.net:1155/trina/123456/4193
+#EXTINF:0,NATIONAL GEO HD
+http://leon-iptv.ddns.net:1155/trina/123456/4194
+#EXTINF:0,FOX SPORT 1FHD
+http://leon-iptv.ddns.net:1155/trina/123456/4190
+#EXTINF:0,FOX SPORT 2FHD
+http://leon-iptv.ddns.net:1155/trina/123456/4189
+#EXTINF:0,DISNEY JUNIOR HD
+http://leon-iptv.ddns.net:1155/trina/123456/4192
+#EXTINF:0,FILM 1 PREMIUM HD 
+http://leon-iptv.ddns.net:1155/trina/123456/4191
+#EXTINF:0, FILM1 COMEDY HD
+http://leon-iptv.ddns.net:1155/trina/123456/993
+#EXTINF:0,FILM1 PREMIERE HD
+http://leon-iptv.ddns.net:1155/trina/123456/990
+#EXTINF:0,FILM 1 SPORTLIGHT HD
+http://leon-iptv.ddns.net:1155/trina/123456/994
+#EXTINF:0,FILM1 SUNDANCE HD
+http://leon-iptv.ddns.net:1155/trina/123456/991
+#EXTINF:0,FOX HD
+http://leon-iptv.ddns.net:1155/trina/123456/989
+#EXTINF:0,HBO 1HD
+http://leon-iptv.ddns.net:1155/trina/123456/986
+#EXTINF:0,HBO 2HD
+http://leon-iptv.ddns.net:1155/trina/123456/987
+#EXTINF:0,HBO-3HD
+http://leon-iptv.ddns.net:1155/trina/123456/988
+#EXTINF:0,NPO 1HD
+http://leon-iptv.ddns.net:1155/trina/123456/1485
+#EXTINF:0,NPO 2HD
+http://leon-iptv.ddns.net:1155/trina/123456/1486
+#EXTINF:0,NPO 3HD
+http://leon-iptv.ddns.net:1155/trina/123456/1487
+#EXTINF:0,RTL 4HD
+http://leon-iptv.ddns.net:1155/trina/123456/144
+#EXTINF:0,RTL 5HD
+http://leon-iptv.ddns.net:1155/trina/123456/145
+#EXTINF:0,RTL 7HD
+http://leon-iptv.ddns.net:1155/trina/123456/2367
+#EXTINF:0,RTL 8HD
+http://leon-iptv.ddns.net:1155/trina/123456/2366
+#EXTINF:0,SBS 6HD
+http://leon-iptv.ddns.net:1155/trina/123456/2356
+#EXTINF:0,SBS 9HD
+http://leon-iptv.ddns.net:1155/trina/123456/2355
+#EXTINF:0,NICKELODEON HD
+http://leon-iptv.ddns.net:1155/trina/123456/2363
+#EXTINF:0,CARTOON NETWORK HD
+http://leon-iptv.ddns.net:1155/trina/123456/2361
+#EXTINF:0,DISCOVERY HD
+http://leon-iptv.ddns.net:1155/trina/123456/2357
+#EXTINF:0,DISNEY CHANNEL HD
+http://leon-iptv.ddns.net:1155/trina/123456/2360
+#EXTINF:0,NAT GEO HD
+http://leon-iptv.ddns.net:1155/trina/123456/2359
+#EXTINF:0,NAT GEO WILD HD
+http://leon-iptv.ddns.net:1155/trina/123456/2358
+#EXTINF:0,NICK Jr HD
+http://leon-iptv.ddns.net:1155/trina/123456/2364
+#EXTINF:0,NICK TOONS HD
+http://leon-iptv.ddns.net:1155/trina/123456/2362
+#EXTINF:0,TLC HD
+http://leon-iptv.ddns.net:1155/trina/123456/2365
+#EXTINF:0,VERONICA DISNEY HD
+http://leon-iptv.ddns.net:1155/trina/123456/2354
+#EXTINF:0,FOX SPORT 1HD
+http://leon-iptv.ddns.net:1155/trina/123456/995
+#EXTINF:0,FOX SPORT 2HD
+http://leon-iptv.ddns.net:1155/trina/123456/996
+#EXTINF:0,FOX SPORT 3HD
+http://leon-iptv.ddns.net:1155/trina/123456/997
+#EXTINF:0,FOX SPORT 4HD
+http://leon-iptv.ddns.net:1155/trina/123456/998
+#EXTINF:0,FOX SPORT 5HD
+http://leon-iptv.ddns.net:1155/trina/123456/999
+#EXTINF:0,FOX SPORT 6HD
+http://leon-iptv.ddns.net:1155/trina/123456/1000
+#EXTINF:0,ZIGGO SPORT XTRA 1HD
+http://leon-iptv.ddns.net:1155/trina/123456/1492
+#EXTINF:0,ZIGGO SPORT XTRA 2HD
+http://leon-iptv.ddns.net:1155/trina/123456/1491
+#EXTINF:0,ZIGGO SPORT GOLF HD
+http://leon-iptv.ddns.net:1155/trina/123456/1490
+#EXTINF:0,ZIGGO SPORT RACING HD
+http://leon-iptv.ddns.net:1155/trina/123456/1489
+#EXTINF:0,ZIGGO SPORT SELECT HD
+http://leon-iptv.ddns.net:1155/trina/123456/1488
+#EXTINF:0,(Holland) Sport EXTRA 1 HD
+http://leon-iptv.ddns.net:1155/trina/123456/1001
+#EXTINF:0,(Holland) Sport EXTRA 2 HD
+http://leon-iptv.ddns.net:1155/trina/123456/1002
