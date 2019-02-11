@@ -1,309 +1,463 @@
 #EXTM3U
-#EXTINF:0,Arena Sport 1 - Arena Sport 1
-http://stream1.tvit.ba:8088/live?channelId=1&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Arena Sport 2 - Arena Sport 2
-http://stream1.tvit.ba:8088/live?channelId=2&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Arena Sport 3 - Arena Sport 3
-http://stream4.tvit.ba:8088/live?channelId=3&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Arena Sport 4 - Arena Sport 4
-http://stream2.tvit.ba:80/live?channelId=4&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,BHT - BHT
-http://stream1.tvit.ba:8088/live?channelId=5&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,FTV - FTV
-http://stream2.tvit.ba:80/live?channelId=6&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,TVSA - TV Sarajevo
-http://stream1.tvit.ba:8088/live?channelId=7&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,HAYAT - HAYAT
-http://stream2.tvit.ba:80/live?channelId=8&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,PINK BiH - PINK BiH
-http://stream4.tvit.ba:8088/live?channelId=10&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,SPORT KLUB 2 - SPORT KLUB 2
-http://stream1.tvit.ba:8088/live?channelId=22&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,LOV I RIBOLOV - LOV I RIBOLOV
-http://stream3.tvit.ba:8088/live?channelId=23&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,OBN - OBN
-http://stream2.tvit.ba:80/live?channelId=24&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,DM SAT - DM SAT
-http://stream2.tvit.ba:80/live?channelId=25&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,BALKANIKA - BALKANIKA
-http://stream2.tvit.ba:80/live?channelId=27&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,OTV VALENTINO - OTV VALENTINO
-http://stream4.tvit.ba:8088/live?channelId=29&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,RTRS - RTRS
-http://cms.tvit.ba:80/live?channelId=30&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,NAT GEO - NAT GEO
-http://stream4.tvit.ba:8088/live?channelId=32&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,NAT GEO Wild - NAT GEO Wild
-http://stream4.tvit.ba:8088/live?channelId=33&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,DISCOVERY - DISCOVERY
-http://stream4.tvit.ba:8088/live?channelId=37&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,EUROSPORT - EUROSPORT
-http://stream3.tvit.ba:8088/live?channelId=38&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,ANIMAL PLANET - docs
-http://stream4.tvit.ba:8088/live?channelId=42&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,FOX LIFE sat - FOX LIFE sat
-http://stream4.tvit.ba:8088/live?channelId=43&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,VOX - VOX
-http://stream3.tvit.ba:8088/live?channelId=49&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,CNN - CNN
-http://stream2.tvit.ba:80/live?channelId=52&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,GRAND TV - GRAND TV
-http://stream2.tvit.ba:80/live?channelId=55&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Pink Kids - Pink Kids
-http://stream2.tvit.ba:80/live?channelId=60&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,TV 1000 - TV 1000
-http://stream2.tvit.ba:80/live?channelId=61&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,SPORT KLUB 1 - SPORT KLUB 1
-http://stream1.tvit.ba:8088/live?channelId=64&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,RTS HD - RTS HD
-http://stream3.tvit.ba:8088/live?channelId=65&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,BN Televizija - BN Televizija
-http://stream3.tvit.ba:8088/live?channelId=66&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,HRT 1 - HRT 1
-http://stream4.tvit.ba:8088/live?channelId=67&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,HRT 2 - HRT 2
-http://stream4.tvit.ba:8088/live?channelId=68&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,HRT 3 - HRT 3
-http://stream4.tvit.ba:8088/live?channelId=69&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,HRT 4 - HRT 4
-http://stream1.tvit.ba:8088/live?channelId=70&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,RTL HR Sat - RTL HR Sat
-http://stream4.tvit.ba:8088/live?channelId=71&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,RTL 2 HR Sat - RTL 2 HR Sat
-http://stream4.tvit.ba:8088/live?channelId=72&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,ALJAZEERA Balkans - ALJAZEERA Balkans
-http://stream1.tvit.ba:8088/live?channelId=73&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,CARTOON NETWORK - CARTOON NETWORK
-http://stream1.tvit.ba:8088/live?channelId=74&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,BOOMERANG - BOOMERANG
-http://stream1.tvit.ba:8088/live?channelId=75&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,FACE TV - FACE TV
-http://stream1.tvit.ba:8088/live?channelId=77&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,PRO 7 - PRO 7
-http://stream3.tvit.ba:8088/live?channelId=78&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,24 Kitchen Sat - 24 Kitchen Sat
-http://stream4.tvit.ba:8088/live?channelId=82&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,HBO Adria - HBO Adria
-http://stream4.tvit.ba:8088/live?channelId=84&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,HBO Comedy - HBO Comedy
-http://stream1.tvit.ba:8088/live?channelId=85&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Cinestar Premiere - Cinestar Premiere
-http://stream1.tvit.ba:8088/live?channelId=86&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Cinestar Premiere 2 - Cinestar Premiere 2
-http://stream3.tvit.ba:8088/live?channelId=87&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,PINK 3 - PINK 3
-http://stream2.tvit.ba:80/live?channelId=89&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,PINK M - PINK M
-http://stream2.tvit.ba:80/live?channelId=90&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Pink - Pink
-http://stream3.tvit.ba:8088/live?channelId=91&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,PINK FILM - PINK FILM
-http://stream3.tvit.ba:8088/live?channelId=92&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Pink Premium - Pink Premium
-http://stream4.tvit.ba:8088/live?channelId=93&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Cinemax HD - Cinemax HD
-http://stream3.tvit.ba:8088/live?channelId=94&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Cinemax 2 HD - Cinemax 2 HD
-http://stream2.tvit.ba:80/live?channelId=95&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Pink Western - Pink Western
-http://stream2.tvit.ba:80/live?channelId=96&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Pink Folk - Pink Folk
-http://stream4.tvit.ba:8088/live?channelId=101&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Pink Folk 2 - Pink Folk 2
-http://stream4.tvit.ba:8088/live?channelId=102&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Pink Rock - Pink Rock
-http://stream3.tvit.ba:8088/live?channelId=103&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Pink Bravo - Pink Bravo
-http://stream2.tvit.ba:80/live?channelId=105&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Pink Family - Pink Family
-http://stream1.tvit.ba:8088/live?channelId=108&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Pink Action - Pink Action
-http://stream2.tvit.ba:80/live?channelId=109&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Pink Movies - Pink Movies
-http://stream3.tvit.ba:8088/live?channelId=110&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Nickelodeon srb - Nickelodeon srb
-http://stream1.tvit.ba:8088/live?channelId=111&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Pink Serije - Pink Serije
-http://stream1.tvit.ba:8088/live?channelId=114&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Pink World Cinema - Pink World Cinema
-http://stream1.tvit.ba:8088/live?channelId=115&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Pink Show - Pink Show
-http://stream1.tvit.ba:8088/live?channelId=116&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Pink Kuvar - Pink Kuvar
-http://stream3.tvit.ba:8088/live?channelId=117&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,RTL Crime Sat - RTL Crime Sat
-http://stream4.tvit.ba:8088/live?channelId=119&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,RTL Kockica - RTL Kockica
-http://stream2.tvit.ba:80/live?channelId=120&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Pink Pedia - Pink Pedia
-http://stream4.tvit.ba:8088/live?channelId=129&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Pink Fashion - Pink Fashion
-http://80.65.168.166:8088/live?channelId=130&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Pink Soap - Pink Soap
-http://stream4.tvit.ba:8088/live?channelId=131&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Pink Horor - Pink Horor
-http://stream4.tvit.ba:8088/live?channelId=132&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Fight Channel - Fight Channel
-http://stream3.tvit.ba:8088/live?channelId=134&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,NOVA BH - NOVA BH
-http://stream4.tvit.ba:8088/live?channelId=135&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Arena Sport 5 HD - Arena Sport 5 HD
-http://stream2.tvit.ba:80/live?channelId=136&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,SPORT KLUB 3 - SPORT KLUB 3
-http://stream2.tvit.ba:80/live?channelId=137&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,AXN - AXN
-http://stream4.tvit.ba:8088/live?channelId=138&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Viasat History - Viasat History
-http://stream1.tvit.ba:8088/live?channelId=142&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,KIKA - KIKA
-http://stream3.tvit.ba:8088/live?channelId=143&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Cinestar TV Sat - Cinestar TV Sat
-http://stream4.tvit.ba:8088/live?channelId=144&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,HAHA - HAHA
-http://stream2.tvit.ba:80/live?channelId=145&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Rtl Passion sat - Rtl Passion Sat
-http://stream4.tvit.ba:8088/live?channelId=147&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Mini TV Sat - Mini TV SAt
-http://stream4.tvit.ba:8088/live?channelId=149&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Doma Sat - Doma Sat
-http://stream4.tvit.ba:8088/live?channelId=150&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Nova TV Sat - Nova TV Sat
-http://stream4.tvit.ba:8088/live?channelId=152&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Fox Movies Sat - Fox Movies Sat
-http://stream4.tvit.ba:8088/live?channelId=153&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Disney Sat - Disney Sat
-http://stream4.tvit.ba:8088/live?channelId=154&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Orlando Kids Sat - Orlando Kids Sat
-http://stream4.tvit.ba:8088/live?channelId=155&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Discovery Science Sat - Discovery Science Sat
-http://stream4.tvit.ba:8088/live?channelId=156&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Nick Jr Sat - Nick Jr Sat
-http://stream4.tvit.ba:8088/live?channelId=159&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Viasat Nature CEE sat - Viasat Nature CEE sat
-http://stream4.tvit.ba:8088/live?channelId=160&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Baby TV Sat - Baby TV Sat
-http://stream4.tvit.ba:8088/live?channelId=161&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,CMC - CMC
-http://stream4.tvit.ba:8088/live?channelId=163&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,History Channel Sat - History Channel Sat
-http://stream4.tvit.ba:8088/live?channelId=164&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,RTL Living Sat - RTL Living Sat
-http://stream4.tvit.ba:8088/live?channelId=166&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,FOX Adria Sat - FOX Adria Sat
-http://stream4.tvit.ba:8088/live?channelId=167&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Jugoton Sat - Jugoton Sat
-http://stream4.tvit.ba:8088/live?channelId=169&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Prva - Prva
-http://stream3.tvit.ba:8088/live?channelId=171&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Epic Drama - Epic Drama
-http://stream4.tvit.ba:8088/live?channelId=173&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Happy TV - Happy TV
-http://stream2.tvit.ba:80/live?channelId=174&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,N1 BiH - N1 BiH
-http://stream1.tvit.ba:8088/live?channelId=177&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Hayat Folk - Hayat Folk
-http://stream4.tvit.ba:8088/live?channelId=179&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Pink Comedy - Pink Comedy
-http://stream4.tvit.ba:8088/live?channelId=184&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Pink Zabava - Pink Zabava
-http://stream4.tvit.ba:8088/live?channelId=185&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Pink Reality - Pink Reality
-http://stream4.tvit.ba:8088/live?channelId=186&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,TV Igman - TV Igman
-http://cms.tvit.ba:80/live?channelId=191&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,HRT 5 - HRT 5
-http://stream3.tvit.ba:8088/live?channelId=193&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,ZDF - ZDF
-http://stream3.tvit.ba:8088/live?channelId=194&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,History II - History II
-http://stream2.tvit.ba:80/live?channelId=195&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,SMART TV - SMART TV
-http://stream1.tvit.ba:8088/live?channelId=197&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,SAT 1 - SAT 1
-http://stream1.tvit.ba:8088/live?channelId=198&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,RTL DE - RTL DE
-http://stream1.tvit.ba:8088/live?channelId=200&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Hayatovci - Hayatovci
-http://stream4.tvit.ba:8088/live?channelId=201&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,RTRS Plus - RTRS Plus
-http://stream1.tvit.ba:8088/live?channelId=204&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Pink Thriller - Pink Thriller
-http://stream4.tvit.ba:8088/live?channelId=206&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Pink Crime & Mystery - Pink Crime & Mystery
-http://stream4.tvit.ba:8088/live?channelId=207&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Pink Romance - Pink Romance
-http://stream4.tvit.ba:8088/live?channelId=208&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Pink Koncert - Pink Koncert
-http://stream4.tvit.ba:8088/live?channelId=210&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,RTL Television - RTL Television
-http://stream3.tvit.ba:8088/live?channelId=223&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,n-TV - n-TV
-http://stream3.tvit.ba:8088/live?channelId=224&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Sonnenklar TV - Sonnenklar TV
-http://stream3.tvit.ba:8088/live?channelId=225&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Sport 1 Germany - Sport 1 Germany
-http://80.65.168.166:8088/live?channelId=227&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Alfa TV - Alfa TV
-http://stream2.tvit.ba:80/live?channelId=231&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,FOX Crime - FOX Crime
-http://stream4.tvit.ba:8088/live?channelId=233&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Arena Liga - Arena liga
-http://stream2.tvit.ba:80/live?channelId=234&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,ARENA 2 SR HD - ARENA 2 SR HD
-http://stream2.tvit.ba:80/live?channelId=235&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,ARENA 3 SR HD - ARENA 3 SR HD
-http://stream2.tvit.ba:80/live?channelId=236&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,ARENA 4 SR HD - ARENA 4 SR HD
-http://stream4.tvit.ba:8088/live?channelId=237&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,ARENA 1 SR HD - ARENA 1 SR HD
-http://stream3.tvit.ba:8088/live?channelId=238&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Eurosport 2 - Eurosport 2
-http://stream2.tvit.ba:80/live?channelId=239&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Sport Klub 1 HD - Sport Klub 1 HD
-http://stream4.tvit.ba:8088/live?channelId=240&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Sport Klub 2 HD - Sport Klub 2 HD
-http://stream2.tvit.ba:80/live?channelId=241&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Sport Klub 3 HD - Sport Klub 3 HD
-http://stream1.tvit.ba:8088/live?channelId=242&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Sport Klub HD - Sport Klub HD
-http://stream2.tvit.ba:80/live?channelId=243&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Pink World - Pink World
-http://stream4.tvit.ba:8088/live?channelId=247&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Cinestar Fantasy - Cinestar Fantasy
-http://stream4.tvit.ba:8088/live?channelId=248&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Comedy Central - Comedy Central
-http://stream3.tvit.ba:8088/live?channelId=251&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,CBS Reality - CBS Reality
-http://stream3.tvit.ba:8088/live?channelId=253&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,ORF 1 - ORF 1
-http://stream3.tvit.ba:8088/live?channelId=263&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,ORF 2 - ORF 2
-http://stream3.tvit.ba:8088/live?channelId=264&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,ATV Austrija - ATV Austrija
-http://stream3.tvit.ba:8088/live?channelId=265&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,ORF 2 Tirol - ORF 2 Tirol
-http://stream3.tvit.ba:8088/live?channelId=266&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Bibel TV HD - Bibel TV HD
-http://80.65.168.166:8088/live?channelId=268&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,pink extra - pink extra
-http://stream2.tvit.ba:80/live?channelId=287&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,HBO 3 - HBO 3
-http://stream4.tvit.ba:8088/live?channelId=292&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,M1 Film - M1 Film
-http://stream4.tvit.ba:8088/live?channelId=272&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,TV 1 - TV 1
-http://stream3.tvit.ba:8088/live?channelId=12&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Pink Classic - Pink Classic
-http://stream2.tvit.ba:80/live?channelId=291&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,PINK Plus - PINK Plus
-http://stream3.tvit.ba:8088/live?channelId=290&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Stv 1 - Stv 1
-http://stream2.tvit.ba:80/live?channelId=296&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Svt 1 - Svt 1
-http://stream1.tvit.ba:8088/live?channelId=297&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,TV 4 Film - TV 4 FIlm
-http://stream1.tvit.ba:8088/live?channelId=300&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Tv 6 - Tv 6
-http://stream1.tvit.ba:8088/live?channelId=298&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Viasat Premiere - Viasat Premiere
-http://stream3.tvit.ba:8088/live?channelId=303&uid=844&deviceMac=00:1A:79:40:CD:DA
+#EXTINF:-1,24 Kitchen
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17062.m3u8
+#EXTINF:-1,5 TV Islam
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17061.m3u8
+#EXTINF:-1,777 TV
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17060.m3u8
+#EXTINF:-1,A TV
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17180.m3u8
+#EXTINF:-1,A1 BALKAN HD
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17177.m3u8
+#EXTINF:-1,A1 ISLAM HD
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17059.m3u8
+#EXTINF:-1,Al Jazzera Balkan
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17215.m3u8
+#EXTINF:-1,Alfa TV Mk
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17058.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17178.m3u8
+#EXTINF:-1,ATLAS
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17179.m3u8
+#EXTINF:-1,ATV Banja Luka
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/13557.m3u8
+#EXTINF:-1,AXN
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17052.m3u8
+#EXTINF:-1,B92
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17157.m3u8
+#EXTINF:-1,Balkanika HD
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17051.m3u8
+#EXTINF:-1,BANOVINA TV
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17181.m3u8
+#EXTINF:-1,BHT 1
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17227.m3u8
+#EXTINF:-1,BN Music
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17174.m3u8
+#EXTINF:-1,BN TV
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17175.m3u8
+#EXTINF:-1,Boomerang
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17050.m3u8
+#EXTINF:-1,Bravo Music
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17049.m3u8
+#EXTINF:-1,Cartoon Network HD
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17048.m3u8
+#EXTINF:-1,Cinemax 2 HD
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17244.m3u8
+#EXTINF:-1,Cinemax HD
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17243.m3u8
+#EXTINF:-1,CineStar ACTION
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17245.m3u8
+#EXTINF:-1,CineStar Premiere 1
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17246.m3u8
+#EXTINF:-1,CineStar Premiere 2
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17247.m3u8
+#EXTINF:-1,CineStar Tv
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/13556.m3u8
+#EXTINF:-1,City TV
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17047.m3u8
+#EXTINF:-1,CMC
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17207.m3u8
+#EXTINF:-1,CRIME & INVESTIGATION
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17046.m3u8
+#EXTINF:-1,Discovery Channel
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17045.m3u8
+#EXTINF:-1,DM Sat
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17228.m3u8
+#EXTINF:-1,Docubox
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/13555.m3u8
+#EXTINF:-1,DOMA TV
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17208.m3u8
+#EXTINF:-1,DUGA TV
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17182.m3u8
+#EXTINF:-1,E!
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17183.m3u8
+#EXTINF:-1,Face Tv
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17158.m3u8
+#EXTINF:-1,Fashion TV
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17043.m3u8
+#EXTINF:-1,Federalna TV
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17248.m3u8
+#EXTINF:-1,FIGHT BOX HD
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17185.m3u8
+#EXTINF:-1,Fight Channel
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/13554.m3u8
+#EXTINF:-1,Film Klub
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17042.m3u8
+#EXTINF:-1,Film Klub Extra
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17041.m3u8
+#EXTINF:-1,FilmBox Arthouse
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17040.m3u8
+#EXTINF:-1,FilmBox Extra HD
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17039.m3u8
+#EXTINF:-1,FilmBox Plus
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17038.m3u8
+#EXTINF:-1,FOX CRIME
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17159.m3u8
+#EXTINF:-1,FOX HD
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17229.m3u8
+#EXTINF:-1,FOX LIFE
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17160.m3u8
+#EXTINF:-1,FOX MOVIES
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17230.m3u8
+#EXTINF:-1,FTV
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17161.m3u8
+#EXTINF:-1,Glas Drine
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/13553.m3u8
+#EXTINF:-1,Grand TV
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17209.m3u8
+#EXTINF:-1,Grand Tv 2
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17037.m3u8
+#EXTINF:-1,H2
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17036.m3u8
+#EXTINF:-1,HA HA
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17035.m3u8
+#EXTINF:-1,HAPPY TV
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17231.m3u8
+#EXTINF:-1,HAYAT
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17162.m3u8
+#EXTINF:-1,HAYAT Folk
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17163.m3u8
+#EXTINF:-1,HAYAT HD
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17249.m3u8
+#EXTINF:-1,HAYAT Music
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17186.m3u8
+#EXTINF:-1,Hayat Plus
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17210.m3u8
+#EXTINF:-1,Hayatovci
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17236.m3u8
+#EXTINF:-1,HBO 2
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17212.m3u8
+#EXTINF:-1,HBO 3
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17034.m3u8
+#EXTINF:-1,HBO Adria
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17211.m3u8
+#EXTINF:-1,Hema
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/13552.m3u8
+#EXTINF:-1,History 2
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/13551.m3u8
+#EXTINF:-1,History Channel
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17033.m3u8
+#EXTINF:-1,HIT Brcko
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/13550.m3u8
+#EXTINF:-1,HNTV
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/13549.m3u8
+#EXTINF:-1,HRT 1
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17152.m3u8
+#EXTINF:-1,HRT 2
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17153.m3u8
+#EXTINF:-1,HRT 3
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17154.m3u8
+#EXTINF:-1,HRT 4
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17155.m3u8
+#EXTINF:-1,HRT INT
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17032.m3u8
+#EXTINF:-1,Investigation Discovery
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/13548.m3u8
+#EXTINF:-1,Izorna Tv
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/13547.m3u8
+#EXTINF:-1,Jugoton TV
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17031.m3u8
+#EXTINF:-1,K3
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/13546.m3u8
+#EXTINF:-1,Kanal 5 Mk
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17030.m3u8
+#EXTINF:-1,Kanal 5 Plus
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17029.m3u8
+#EXTINF:-1,Kanal 6 HD
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17028.m3u8
+#EXTINF:-1,KCN 1
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17027.m3u8
+#EXTINF:-1,KCN 2
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17026.m3u8
+#EXTINF:-1,KCN 3
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17025.m3u8
+#EXTINF:-1,Kino TV
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17024.m3u8
+#EXTINF:-1,Klasik TV
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17196.m3u8
+#EXTINF:-1,LOL
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17023.m3u8
+#EXTINF:-1,Lov i Ribolov
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17237.m3u8
+#EXTINF:-1,M1 Film
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/13545.m3u8
+#EXTINF:-1,MAX SELECT 1 HD
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/13535.m3u8
+#EXTINF:-1,MAX SELECT 10 HD
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/13526.m3u8
+#EXTINF:-1,MAX SELECT 11 HD
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/13525.m3u8
+#EXTINF:-1,MAX SELECT 12 HD
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/13524.m3u8
+#EXTINF:-1,MAX SELECT 2 HD
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/13534.m3u8
+#EXTINF:-1,MAX SELECT 3 HD
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/13533.m3u8
+#EXTINF:-1,MAX SELECT 4 HD
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/13532.m3u8
+#EXTINF:-1,MAX SELECT 5 HD
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/13531.m3u8
+#EXTINF:-1,MAX SELECT 6 HD
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/13530.m3u8
+#EXTINF:-1,MAX SELECT 7 HD
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/13529.m3u8
+#EXTINF:-1,MAX SELECT 8 HD
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/13528.m3u8
+#EXTINF:-1,MAX SELECT 9 HD
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/13527.m3u8
+#EXTINF:-1,MAXCRO SELECT 1 HD
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/13544.m3u8
+#EXTINF:-1,MAXCRO SELECT 2 HD
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/13543.m3u8
+#EXTINF:-1,MAXCRO SELECT 3 HD
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/13542.m3u8
+#EXTINF:-1,MAXCRO SELECT 4 HD
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/13541.m3u8
+#EXTINF:-1,MAXCRO SELECT 5 HD
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/13540.m3u8
+#EXTINF:-1,MAXCRO SELECT 6 HD
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/13539.m3u8
+#EXTINF:-1,MAXCRO SELECT 7 HD
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/13538.m3u8
+#EXTINF:-1,MAXCRO SELECT 8 HD
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/13537.m3u8
+#EXTINF:-1,MAXCRO SELECT 9 HD
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/13536.m3u8
+#EXTINF:-1,Mini TV
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17022.m3u8
+#EXTINF:-1,MINI ULTRA TV
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/16967.m3u8
+#EXTINF:-1,Minimax
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17021.m3u8
+#EXTINF:-1,MRT 1 Mk
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17020.m3u8
+#EXTINF:-1,MTV Adria
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17019.m3u8
+#EXTINF:-1,MTV IGMAN
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17187.m3u8
+#EXTINF:-1,N1 TV
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17197.m3u8
+#EXTINF:-1,Narodna Tv
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/13523.m3u8
+#EXTINF:-1,NASA Tv Mostar
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/13522.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17018.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17213.m3u8
+#EXTINF:-1,Nick Junior
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17017.m3u8
+#EXTINF:-1,Nickelodeon
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17016.m3u8
+#EXTINF:-1,Nova 24 TV
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17015.m3u8
+#EXTINF:-1,NOVA TV ( CRO )
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17014.m3u8
+#EXTINF:-1,NOVA TV ( RS )
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17170.m3u8
+#EXTINF:-1,NOVA TV BH
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17013.m3u8
+#EXTINF:-1,Nova World
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/13521.m3u8
+#EXTINF:-1,Novi Pazar
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17012.m3u8
+#EXTINF:-1,NTV 101 HD
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/13520.m3u8
+#EXTINF:-1,O2 TV
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17011.m3u8
+#EXTINF:-1,OBN
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17171.m3u8
+#EXTINF:-1,Osjecka Tv
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/13519.m3u8
+#EXTINF:-1,OTO TV
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17010.m3u8
+#EXTINF:-1,PINK
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17172.m3u8
+#EXTINF:-1,Pink 1
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17009.m3u8
+#EXTINF:-1,PINK 2
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17173.m3u8
+#EXTINF:-1,PINK 3 Info
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17176.m3u8
+#EXTINF:-1,PINK ACTION
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17169.m3u8
+#EXTINF:-1,Pink BH
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17198.m3u8
+#EXTINF:-1,Pink Classic
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17008.m3u8
+#EXTINF:-1,Pink Comedy
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17199.m3u8
+#EXTINF:-1,Pink Crime & Mystery
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17238.m3u8
+#EXTINF:-1,Pink Extra
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17200.m3u8
+#EXTINF:-1,Pink Family
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17007.m3u8
+#EXTINF:-1,Pink Film
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17201.m3u8
+#EXTINF:-1,Pink Folk
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17202.m3u8
+#EXTINF:-1,Pink Folk 2
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17232.m3u8
+#EXTINF:-1,Pink Hits
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17006.m3u8
+#EXTINF:-1,Pink Hits 2
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17005.m3u8
+#EXTINF:-1,Pink Horror
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17239.m3u8
+#EXTINF:-1,Pink Kids
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17203.m3u8
+#EXTINF:-1,PINK KUVAR
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17188.m3u8
+#EXTINF:-1,Pink M
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17240.m3u8
+#EXTINF:-1,Pink Movies
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17241.m3u8
+#EXTINF:-1,Pink Music
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17204.m3u8
+#EXTINF:-1,Pink Music 2
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17004.m3u8
+#EXTINF:-1,Pink Pedia
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17205.m3u8
+#EXTINF:-1,PINK PLUS
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17156.m3u8
+#EXTINF:-1,PINK Premium
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17190.m3u8
+#EXTINF:-1,PINK REALITY
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17206.m3u8
+#EXTINF:-1,Pink Romance
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17003.m3u8
+#EXTINF:-1,PINK SCI-FI & FANTASY
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17164.m3u8
+#EXTINF:-1,PINK Serije
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/13518.m3u8
+#EXTINF:-1,Pink Show
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/13517.m3u8
+#EXTINF:-1,PINK SOAP
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17165.m3u8
+#EXTINF:-1,Pink Style
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17002.m3u8
+#EXTINF:-1,Pink Super Kids
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17001.m3u8
+#EXTINF:-1,PINK THRILLER
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17166.m3u8
+#EXTINF:-1,Pink Western
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17167.m3u8
+#EXTINF:-1,PINK WORLD
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17168.m3u8
+#EXTINF:-1,Pink World Cinema
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17000.m3u8
+#EXTINF:-1,Pink Zabava
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17242.m3u8
+#EXTINF:-1,Planeta tv
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/16999.m3u8
+#EXTINF:-1,POP TV
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/16998.m3u8
+#EXTINF:-1,POSAVINA TV
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/16997.m3u8
+#EXTINF:-1,Prva Kick
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/16996.m3u8
+#EXTINF:-1,Prva Max
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/16995.m3u8
+#EXTINF:-1,Prva Plus
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17214.m3u8
+#EXTINF:-1,PRVA TV
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17191.m3u8
+#EXTINF:-1,Prva World
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/16994.m3u8
+#EXTINF:-1,RTCG
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/16993.m3u8
+#EXTINF:-1,RTL
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17189.m3u8
+#EXTINF:-1,RTL 2
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17192.m3u8
+#EXTINF:-1,RTL Crime
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/16992.m3u8
+#EXTINF:-1,RTL HR
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17250.m3u8
+#EXTINF:-1,RTL Kockica
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17233.m3u8
+#EXTINF:-1,RTL Living
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17193.m3u8
+#EXTINF:-1,RTL Passion
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/16991.m3u8
+#EXTINF:-1,RTL Telewizja
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/13515.m3u8
+#EXTINF:-1,RTRS
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/16990.m3u8
+#EXTINF:-1,RTRS Plus
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/16989.m3u8
+#EXTINF:-1,RTS 1
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17194.m3u8
+#EXTINF:-1,RTS 2
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17195.m3u8
+#EXTINF:-1,RTS 3
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/16988.m3u8
+#EXTINF:-1,RTS Drama
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/16987.m3u8
+#EXTINF:-1,RTS HD
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17234.m3u8
+#EXTINF:-1,RTS SVET
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/16986.m3u8
+#EXTINF:-1,RTS Zivot
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/16985.m3u8
+#EXTINF:-1,RTV 1
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/16984.m3u8
+#EXTINF:-1,RTV 2
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/13514.m3u8
+#EXTINF:-1,RTV Sana
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/13513.m3u8
+#EXTINF:-1,SANDZAK TV
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/16983.m3u8
+#EXTINF:-1,Sehara TV HD
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/16982.m3u8
+#EXTINF:-1,Sitel
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/16981.m3u8
+#EXTINF:-1,Sitel 3
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/16980.m3u8
+#EXTINF:-1,Slavonska Tv
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/13512.m3u8
+#EXTINF:-1,SLO Tv
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/16979.m3u8
+#EXTINF:-1,SLO TV 2 HD
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/16978.m3u8
+#EXTINF:-1,SLON TV
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/16977.m3u8
+#EXTINF:-1,SOS
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/16976.m3u8
+#EXTINF:-1,Studio B
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/16973.m3u8
+#EXTINF:-1,Sutel TV
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/16972.m3u8
+#EXTINF:-1,Telma Mk
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/16971.m3u8
+#EXTINF:-1,TK
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/16970.m3u8
+#EXTINF:-1,TLC
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/16969.m3u8
+#EXTINF:-1,TOP Kanal
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/13511.m3u8
+#EXTINF:-1,Travel Channel
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/13510.m3u8
+#EXTINF:-1,Tv 1000
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/13509.m3u8
+#EXTINF:-1,TV Sarajevo HD
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/16968.m3u8
+#EXTINF:-1,TV1
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/17235.m3u8
+#EXTINF:-1,USK HD
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/16966.m3u8
+#EXTINF:-1,Valentino TV
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/16965.m3u8
+#EXTINF:-1,VH1
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/16964.m3u8
+#EXTINF:-1,Viasat Explorer
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/13508.m3u8
+#EXTINF:-1,Viasat History
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/16963.m3u8
+#EXTINF:-1,Viasat Nature
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/16962.m3u8
+#EXTINF:-1,Z1
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/16961.m3u8
+#EXTINF:-1,Zenica Tv
+http://smart.hdtv11.com:91/live/mFAMWirEEv/bIi2Bq74Sr/13507.m3u8
