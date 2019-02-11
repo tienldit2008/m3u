@@ -1,101 +1,213 @@
 #EXTM3U
-#EXTINF:-1,BBC One HD
-http://smart-hdip.com:6204/faiez/123/8587
-#EXTINF:-1,BBC Two HD
-http://smart-hdip.com:6204/faiez/123/8585
-#EXTINF:-1,BBC Three HD
-http://smart-hdip.com:6204/faiez/123/8586
-#EXTINF:-1,BBC Four HD
-http://smart-hdip.com:6204/faiez/123/8588
-#EXTINF:-1,More 4 HD
-http://smart-hdip.com:6204/faiez/123/8547
-#EXTINF:-1,Sports Box Office HD
-http://smart-hdip.com:6204/faiez/123/11115
-#EXTINF:-1,Atlantic
-http://smart-hdip.com:6204/faiez/123/8591
-#EXTINF:-1,Cbs Action
-http://smart-hdip.com:6204/faiez/123/8575
-#EXTINF:-1,Cbs Drama
-http://smart-hdip.com:6204/faiez/123/8574
-#EXTINF:-1,CBS Reality
-http://smart-hdip.com:6204/faiez/123/8573
-#EXTINF:-1,RTE One
-http://smart-hdip.com:6204/faiez/123/8525
-#EXTINF:-1,RTE Two
-http://smart-hdip.com:6204/faiez/123/8524
-#EXTINF:-1,ITV 1
-http://smart-hdip.com:6204/faiez/123/8552
-#EXTINF:-1,ITV 2
-http://smart-hdip.com:6204/faiez/123/8551
-#EXTINF:-1,ITV 3
-http://smart-hdip.com:6204/faiez/123/8550
-#EXTINF:-1,ITV 4
-http://smart-hdip.com:6204/faiez/123/8549
-#EXTINF:-1,1
-http://smart-hdip.com:6204/faiez/123/11120
-#EXTINF:-1,2
-http://smart-hdip.com:6204/faiez/123/11119
-#EXTINF:-1,Living HD
-http://smart-hdip.com:6204/faiez/123/11116
-#EXTINF:-1,Quest
-http://smart-hdip.com:6204/faiez/123/8529
-#EXTINF:-1,Racing
-http://smart-hdip.com:6204/faiez/123/8528
-#EXTINF:-1,Really
-http://smart-hdip.com:6204/faiez/123/8527
-#EXTINF:-1,Ci
-http://smart-hdip.com:6204/faiez/123/8571
-#EXTINF:-1,4 Music
-http://smart-hdip.com:6204/faiez/123/8595
-#EXTINF:-1,5 USA
-http://smart-hdip.com:6204/faiez/123/8594
-#EXTINF:-1,Arts 1 HD
-http://smart-hdip.com:6204/faiez/123/8592
-#EXTINF:-1,Gold
-http://smart-hdip.com:6204/faiez/123/8557
-#EXTINF:-1,Comedy Central
-http://smart-hdip.com:6204/faiez/123/8569
-#EXTINF:-1,Home & Health
-http://smart-hdip.com:6204/faiez/123/8554
-#EXTINF:-1,Horse & Country
-http://smart-hdip.com:6204/faiez/123/8553
-#EXTINF:-1,Food Network
-http://smart-hdip.com:6204/faiez/123/8558
-#EXTINF:-1,Good Food HD
-http://smart-hdip.com:6204/faiez/123/8556
-#EXTINF:-1,History HD
-http://smart-hdip.com:6204/faiez/123/8555
-#EXTINF:-1,Discovery
-http://smart-hdip.com:6204/faiez/123/8568
-#EXTINF:-1,Discovery Shed
-http://smart-hdip.com:6204/faiez/123/8565
-#EXTINF:-1,Discovery Turbo
-http://smart-hdip.com:6204/faiez/123/8564
-#EXTINF:-1,Discovery History
-http://smart-hdip.com:6204/faiez/123/8567
-#EXTINF:-1,Discovery Science
-http://smart-hdip.com:6204/faiez/123/8566
-#EXTINF:-1,Animal Planet HD
-http://smart-hdip.com:6204/faiez/123/8593
-#EXTINF:-1,Nat Geo Wild HD
-http://smart-hdip.com:6204/faiez/123/8535
-#EXTINF:-1,National Geographic HD
-http://smart-hdip.com:6204/faiez/123/8534
-#EXTINF:-1,Travel Channel
-http://smart-hdip.com:6204/faiez/123/8508
-#EXTINF:-1,Baby
-http://smart-hdip.com:6204/faiez/123/8590
-#EXTINF:-1,Bloomberg HD
-http://smart-hdip.com:6204/faiez/123/8584
-#EXTINF:-1,NickToons
-http://smart-hdip.com:6204/faiez/123/8530
-#EXTINF:-1,Nickelodeon
-http://smart-hdip.com:6204/faiez/123/8532
-#EXTINF:-1,Disney Chaneel HD
-http://smart-hdip.com:6204/faiez/123/8563
-#EXTINF:-1,Disney Junior HD
-http://smart-hdip.com:6204/faiez/123/8562
-#EXTINF:-1,Disney XD HD
-http://smart-hdip.com:6204/faiez/123/8561
-#EXTINF:-1,Nickelodeon JR
-http://smart-hdip.com:6204/faiez/123/8531
+#EXTINF:-1,[UK] BT_Sports_1_HD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5905.ts
+#EXTINF:-1,[UK] BT_Sports_1_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5904.ts
+#EXTINF:-1,[UK] BT_Sports_2_HD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5903.ts
+#EXTINF:-1,[UK] BT_Sports_2_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5902.ts
+#EXTINF:-1,[UK] BT_Sports_3_HD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5901.ts
+#EXTINF:-1,[UK] BT_Sports_3_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5900.ts
+#EXTINF:-1,[UK] BT_Sport_ESPN_HD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5899.ts
+#EXTINF:-1,[UK] BT_Sport_ESPN_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5898.ts
+#EXTINF:-1,[UK] Bein_Sports_USA_HD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5910.ts
+#EXTINF:-1,[UK] Bein_Sports_USA_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5909.ts
+#EXTINF:-1,[UK] Eurosport_1_HD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5880.ts
+#EXTINF:-1,[UK] Fox_Sports_1_HD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5879.ts
+#EXTINF:-1,[UK] Fox_Sports_1_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5878.ts
+#EXTINF:-1,[UK] Fox_Sports_2_HD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5877.ts
+#EXTINF:-1,[UK] Fox_Sports_2_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5876.ts
+#EXTINF:-1,[UK] Golf_Channel_HD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5874.ts
+#EXTINF:-1,[UK] Golf_Channel_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5873.ts
+#EXTINF:-1,[UK] Sky_Sports_1_HD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5829.ts
+#EXTINF:-1,[UK] Sky_Sports_1_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5828.ts
+#EXTINF:-1,[UK] Sky_Sports_2_HD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5827.ts
+#EXTINF:-1,[UK] Sky_Sports_2_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5826.ts
+#EXTINF:-1,[UK] Sky_Sports_3_HD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5825.ts
+#EXTINF:-1,[UK] Sky_Sports_3_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5824.ts
+#EXTINF:-1,[UK] Sky_Sports_4_HD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5823.ts
+#EXTINF:-1,[UK] Sky_Sports_4_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5822.ts
+#EXTINF:-1,[UK] Sky_Sports_5_HD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5821.ts
+#EXTINF:-1,[UK] Sky_Sports_5_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5820.ts
+#EXTINF:-1,[UK] Sky_Sports_F1/Darts_HD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5819.ts
+#EXTINF:-1,[UK] Sky_Sports_F1/Darts_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5818.ts
+#EXTINF:-1,[UK] Sky_Sports_Mix_HD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5817.ts
+#EXTINF:-1,[UK] Sky_Sports_Mix_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5816.ts
+#EXTINF:-1,[UK] Sky_Sports_News_HD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5815.ts
+#EXTINF:-1,[UK] Sky_Sports_News_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5814.ts
+#EXTINF:-1,[UK] Sky_Arts_1_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5849.ts
+#EXTINF:-1,[UK] Sky_Atlantic_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5848.ts
+#EXTINF:-1,[UK] Sky_Cinema_80s_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5847.ts
+#EXTINF:-1,[UK] Sky_Cinema_Action_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5846.ts
+#EXTINF:-1,[UK] Sky_Cinema_Comedy_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5845.ts
+#EXTINF:-1,[UK] Sky_Cinema_Disney_HD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5844.ts
+#EXTINF:-1,[UK] Sky_Cinema_Disney_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5843.ts
+#EXTINF:-1,[UK] Sky_Cinema_Drama_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5842.ts
+#EXTINF:-1,[UK] Sky_Cinema_Family_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5841.ts
+#EXTINF:-1,[UK] Sky_Cinema_Hits_HD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5840.ts
+#EXTINF:-1,[UK] Sky_Cinema_Hits_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5839.ts
+#EXTINF:-1,[UK] Sky_Cinema_Premiere_HD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5838.ts
+#EXTINF:-1,[UK] Sky_Cinema_Premiere_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5837.ts
+#EXTINF:-1,[UK] Sky_Cinema_Sci-Fi_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5836.ts
+#EXTINF:-1,[UK] Sky_Cinema_Select_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5835.ts
+#EXTINF:-1,[UK] Sky_Cinema_Thriller_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5834.ts
+#EXTINF:-1,[UK] Sky_Living_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5833.ts
+#EXTINF:-1,[UK] Sky_One_HD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5832.ts
+#EXTINF:-1,[UK] Sky_One_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5831.ts
+#EXTINF:-1,[UK] Sky_Real_Lives_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5830.ts
+#EXTINF:-1,[UK] 5USA_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5916.ts
+#EXTINF:-1,[UK] At_the_races_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5915.ts
+#EXTINF:-1,[UK] USA_TV_HD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5813.ts
+#EXTINF:-1,[UK] Setanta_TV_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5850.ts
+#EXTINF:-1,[UK] Really_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5851.ts
+#EXTINF:-1,[UK] Racing_UK_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5852.ts
+#EXTINF:-1,[UK] Racing_UK_HD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5853.ts
+#EXTINF:-1,[UK] Quest_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5854.ts
+#EXTINF:-1,[UK] Premier_Sports_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5855.ts
+#EXTINF:-1,[UK] Pick_TV_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5856.ts
+#EXTINF:-1,[UK] Nicktoons_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5859.ts
+#EXTINF:-1,[UK] Nick_Junior_Too_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5857.ts
+#EXTINF:-1,[UK] Nick_Junior_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5858.ts
+#EXTINF:-1,[UK] NBCSN_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5864.ts
+#EXTINF:-1,[UK] NBCSN_HD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5889.ts
+#EXTINF:-1,[UK] National_Geographic_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5812.ts
+#EXTINF:-1,[UK] Nat_Geo_Wild_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5913.ts
+#EXTINF:-1,[UK] MUTV_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5811.ts
+#EXTINF:-1,[UK] MUTV_HD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5865.ts
+#EXTINF:-1,[UK] More4_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5866.ts
+#EXTINF:-1,[UK] LFC_TV_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5867.ts
+#EXTINF:-1,[UK] ITV4_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5868.ts
+#EXTINF:-1,[UK] ITV3_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5869.ts
+#EXTINF:-1,[UK] ITV2_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5870.ts
+#EXTINF:-1,[UK] ITV1_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5871.ts
+#EXTINF:-1,[UK] BBC_One_HD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5863.ts
+#EXTINF:-1,[UK] USA_TV_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5861.ts
+#EXTINF:-1,[UK] E4_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5881.ts
+#EXTINF:-1,[UK] Disney_XD_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5882.ts
+#EXTINF:-1,[UK] Disney_Junior_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5883.ts
+#EXTINF:-1,[UK] Disney_Channel_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5884.ts
+#EXTINF:-1,[UK] Discovery_Turbo_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5885.ts
+#EXTINF:-1,[UK] Discovery_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5886.ts
+#EXTINF:-1,[UK] Discovery_Science_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5887.ts
+#EXTINF:-1,[UK] Discovery_HD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5888.ts
+#EXTINF:-1,[UK] Dave_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5862.ts
+#EXTINF:-1,[UK] Crime_Investigtion_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5890.ts
+#EXTINF:-1,[UK] Comedy_Central_Extra_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5891.ts
+#EXTINF:-1,[UK] Chelsea_TV_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5892.ts
+#EXTINF:-1,[UK] Channel_5_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5893.ts
+#EXTINF:-1,[UK] Channel_4_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5894.ts
+#EXTINF:-1,[UK] CBS_Reality_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5895.ts
+#EXTINF:-1,[UK] CBS_Drama_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5896.ts
+#EXTINF:-1,[UK] CBEEBIES_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5897.ts
+#EXTINF:-1,[UK] British_Eurosport_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5906.ts
+#EXTINF:-1,[UK] British_Eurosport_2_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5907.ts
+#EXTINF:-1,[UK] Box_Nation_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5908.ts
+#EXTINF:-1,[UK] BBC_Two_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5911.ts
+#EXTINF:-1,[UK] BBC_One_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5912.ts
+#EXTINF:-1,[UK] BBC_News_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5914.ts
+#EXTINF:-1,[UK] History_Channel_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5872.ts
+#EXTINF:-1,[UK] Yesterday_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5860.ts
+#EXTINF:-1,[UK] Fox_UK_SD
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5875.ts
