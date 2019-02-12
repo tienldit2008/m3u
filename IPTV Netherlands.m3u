@@ -1,221 +1,297 @@
 #EXTM3U
-#EXTINF:-1,NPO 1 HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5628.m3u8
-#EXTINF:-1,NPO 1
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5627.m3u8
-#EXTINF:-1,NPO 101 HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5626.m3u8
-#EXTINF:-1,NPO 2 HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5625.m3u8
-#EXTINF:-1,NPO 2
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5624.m3u8
-#EXTINF:-1,NPO 3 HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5623.m3u8
-#EXTINF:-1,NPO 3
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5622.m3u8
-#EXTINF:-1,RTL 4 HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5621.m3u8
-#EXTINF:-1,|NL| RTL 5 HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5620.m3u8
-#EXTINF:-1,RTL 7 HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5619.m3u8
-#EXTINF:-1,|NL| RTL 8 HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5618.m3u8
-#EXTINF:-1,RTL CRIME HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5617.m3u8
-#EXTINF:-1,|NL| RTLZ HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5616.m3u8
-#EXTINF:-1,RTL Telekids
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5615.m3u8
+#EXTINF:-1,RTL 4 FHD
+http://smart-hdip.com:6204/denis/123/9534
+#EXTINF:-1,RTL 5 FHD
+http://smart-hdip.com:6204/denis/123/9533
+#EXTINF:-1,RTL 7 FHD
+http://smart-hdip.com:6204/denis/123/9532
+#EXTINF:-1,RTL 8 FHD
+http://smart-hdip.com:6204/denis/123/9531
+#EXTINF:-1,RTL Crime HD
+http://smart-hdip.com:6204/denis/123/9530
 #EXTINF:-1,RTL Lounge
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5614.m3u8
-#EXTINF:-1,SBS 6 HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5613.m3u8
-#EXTINF:-1,SBS 9 HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5612.m3u8
-#EXTINF:-1,[NL]...SPORT...[NL]
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5611.m3u8
-#EXTINF:-1,|NL| Fox Sports HD 1
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5610.m3u8
-#EXTINF:-1,Fox Sports HD 2
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5609.m3u8
-#EXTINF:-1,|NL| Fox Sports HD 3
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5608.m3u8
-#EXTINF:-1,|NL| Fox Sports HD 4
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5607.m3u8
-#EXTINF:-1,|NL| Fox Sports HD 5
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5606.m3u8
-#EXTINF:-1,|NL| Fox Sports HD 6
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5605.m3u8
-#EXTINF:-1,|NL| Extreme Sports
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5604.m3u8
-#EXTINF:-1,|NL|....CULTURE...|NL|
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5603.m3u8
-#EXTINF:-1,|NL| DISCOVERY HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5602.m3u8
-#EXTINF:-1,Discovery Showcase HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5601.m3u8
-#EXTINF:-1,DISCO INVESTIGATION HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5600.m3u8
-#EXTINF:-1,NATIONAL GEO HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5599.m3u8
-#EXTINF:-1,NATIONAL GEO WILD HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5598.m3u8
-#EXTINF:-1,TRAVEL CHANNEL HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5597.m3u8
-#EXTINF:-1,ANIMAL PLANET HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5596.m3u8
-#EXTINF:-1,HISTORY CHANEL HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5595.m3u8
-#EXTINF:-1,[NL]....KINO...[NL]
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5594.m3u8
-#EXTINF:-1,Film 1 Action HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5593.m3u8
-#EXTINF:-1,Film 1 Premiere HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5592.m3u8
+http://smart-hdip.com:6204/denis/123/9529
+#EXTINF:-1,RTL Z
+http://smart-hdip.com:6204/denis/123/9528
+#EXTINF:-1,RTL 4 FHD Backup
+http://smart-hdip.com:6204/denis/123/13537
+#EXTINF:-1,RTL 5 FHD Backup
+http://smart-hdip.com:6204/denis/123/13536
+#EXTINF:-1,RTL 7 FHD Backup
+http://smart-hdip.com:6204/denis/123/13535
+#EXTINF:-1,RTL 8 FHD Backup
+http://smart-hdip.com:6204/denis/123/13534
+#EXTINF:-1,RTL Crime HD Backup
+http://smart-hdip.com:6204/denis/123/13533
+#EXTINF:-1,RTL Lounge Backup
+http://smart-hdip.com:6204/denis/123/13532
+#EXTINF:-1,RTL Z Backup
+http://smart-hdip.com:6204/denis/123/13529
+#EXTINF:-1,RTL Telekids FHD
+http://smart-hdip.com:6204/denis/123/13531
+#EXTINF:-1,RTL Telekids HD
+http://smart-hdip.com:6204/denis/123/13530
+#EXTINF:-1,RTL Telekids
+http://smart-hdip.com:6204/denis/123/11051
+#EXTINF:-1,NPO 101
+http://smart-hdip.com:6204/denis/123/9540
+#EXTINF:-1,NPO 1 HD
+http://smart-hdip.com:6204/denis/123/9541
+#EXTINF:-1,NPO 2 HD
+http://smart-hdip.com:6204/denis/123/9539
+#EXTINF:-1,NPO 3 HD
+http://smart-hdip.com:6204/denis/123/9538
+#EXTINF:-1,NPO HUMOR
+http://smart-hdip.com:6204/denis/123/9537
+#EXTINF:-1,NPO Politiek
+http://smart-hdip.com:6204/denis/123/9536
+#EXTINF:-1,NPO Zapp Xtra/NPO Humor TV
+http://smart-hdip.com:6204/denis/123/9535
+#EXTINF:-1,NPO Best/Zapp Xtra NL
+http://smart-hdip.com:6204/denis/123/11055
+#EXTINF:-1,NPO Cultura NL
+http://smart-hdip.com:6204/denis/123/11054
+#EXTINF:-1,NPO Humor TV NL
+http://smart-hdip.com:6204/denis/123/11053
+#EXTINF:-1,NPO Politiek NL
+http://smart-hdip.com:6204/denis/123/11052
+#EXTINF:-1,NPO 1 HD Backup
+http://smart-hdip.com:6204/denis/123/13543
+#EXTINF:-1,NPO 2 HD Backup
+http://smart-hdip.com:6204/denis/123/13542
+#EXTINF:-1,NPO 3 Backup
+http://smart-hdip.com:6204/denis/123/13541
+#EXTINF:-1,NPO 3 Extra Backup
+http://smart-hdip.com:6204/denis/123/13540
+#EXTINF:-1,NPO Politiek Backup
+http://smart-hdip.com:6204/denis/123/13539
+#EXTINF:-1,NPO Zapp HD Backup
+http://smart-hdip.com:6204/denis/123/13538
+#EXTINF:-1,SBS 9
+http://smart-hdip.com:6204/denis/123/9527
+#EXTINF:-1,SBS6 HD
+http://smart-hdip.com:6204/denis/123/9526
+#EXTINF:-1,SBS 9 HD Backup
+http://smart-hdip.com:6204/denis/123/13551
+#EXTINF:-1,SBS6 HD Backup
+http://smart-hdip.com:6204/denis/123/13550
+#EXTINF:-1,Film1 Action HD
+http://smart-hdip.com:6204/denis/123/9567
 #EXTINF:-1,Film1 Family HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5591.m3u8
-#EXTINF:-1,Film1 SUNDANCE HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5590.m3u8
-#EXTINF:-1,HBO 1HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5589.m3u8
-#EXTINF:-1,HBO 2HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5588.m3u8
-#EXTINF:-1,HBO 3HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5587.m3u8
-#EXTINF:-1,*****AMUSEMENT*****[NL]
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5586.m3u8
-#EXTINF:-1,FOX HD.
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5585.m3u8
-#EXTINF:-1,E Entertainment HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5584.m3u8
-#EXTINF:-1,COMEDY CENTRAL Extra.
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5583.m3u8
-#EXTINF:-1,|NL| Comedy Central Family
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5582.m3u8
-#EXTINF:-1,COMEDY CENTRAL HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5581.m3u8
-#EXTINF:-1,13th Street HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5580.m3u8
-#EXTINF:-1,TLC HD 
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5579.m3u8
-#EXTINF:-1,[NL]....KINDEREN...[NL]
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5578.m3u8
-#EXTINF:-1,BOOMERANG HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5576.m3u8
-#EXTINF:-1,CARTON NETWORK HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5575.m3u8
-#EXTINF:-1,BABY TV HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5577.m3u8
-#EXTINF:-1,DISNEY CHANEL HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5574.m3u8
-#EXTINF:-1,DISNEY.JUNIOR HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5573.m3u8
-#EXTINF:-1,NICKE.LODEON HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5570.m3u8
-#EXTINF:-1,NICK JR HD 
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5572.m3u8
-#EXTINF:-1,NICK.TOONS HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/5571.m3u8
-#EXTINF:-1,====NEDERLAND_CHANNEL====
-http://leon-iptv.ddns.net:1155/live/vieux/123456/985.m3u8
-#EXTINF:-1,NED 1HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/4197.m3u8
-#EXTINF:-1,NED 2HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/4196.m3u8
-#EXTINF:-1,NED 3HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/4195.m3u8
-#EXTINF:-1,NAT GEO WILD HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/4193.m3u8
-#EXTINF:-1,NATIONAL GEO HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/4194.m3u8
-#EXTINF:-1,FOX SPORT 1FHD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/4190.m3u8
-#EXTINF:-1,FOX SPORT 2FHD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/4189.m3u8
-#EXTINF:-1,FILM 1 ACTION HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/992.m3u8
-#EXTINF:-1,DISNEY JUNIOR HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/4192.m3u8
-#EXTINF:-1,FILM 1 PREMIUM HD 
-http://leon-iptv.ddns.net:1155/live/vieux/123456/4191.m3u8
-#EXTINF:-1, FILM1 COMEDY HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/993.m3u8
-#EXTINF:-1,FILM1 PREMIERE HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/990.m3u8
-#EXTINF:-1,FILM 1 SPORTLIGHT HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/994.m3u8
-#EXTINF:-1,FILM1 SUNDANCE HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/991.m3u8
-#EXTINF:-1,FOX HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/989.m3u8
-#EXTINF:-1,HBO 1HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/986.m3u8
-#EXTINF:-1,HBO 2HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/987.m3u8
-#EXTINF:-1,HBO-3HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/988.m3u8
-#EXTINF:-1,NPO 1HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/1485.m3u8
-#EXTINF:-1,NPO 2HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/1486.m3u8
-#EXTINF:-1,NPO 3HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/1487.m3u8
-#EXTINF:-1,RTL 4HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/144.m3u8
-#EXTINF:-1,RTL 5HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/145.m3u8
-#EXTINF:-1,RTL 7HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/2367.m3u8
-#EXTINF:-1,RTL 8HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/2366.m3u8
-#EXTINF:-1,SBS 6HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/2356.m3u8
-#EXTINF:-1,SBS 9HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/2355.m3u8
-#EXTINF:-1,NICKELODEON HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/2363.m3u8
-#EXTINF:-1,CARTOON NETWORK HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/2361.m3u8
-#EXTINF:-1,DISCOVERY HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/2357.m3u8
-#EXTINF:-1,DISNEY CHANNEL HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/2360.m3u8
-#EXTINF:-1,NAT GEO HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/2359.m3u8
-#EXTINF:-1,NAT GEO WILD HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/2358.m3u8
-#EXTINF:-1,NICK Jr HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/2364.m3u8
-#EXTINF:-1,NICK TOONS HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/2362.m3u8
-#EXTINF:-1,TLC HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/2365.m3u8
-#EXTINF:-1,VERONICA DISNEY HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/2354.m3u8
-#EXTINF:-1,FOX SPORT 1HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/995.m3u8
-#EXTINF:-1,FOX SPORT 2HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/996.m3u8
-#EXTINF:-1,FOX SPORT 3HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/997.m3u8
-#EXTINF:-1,FOX SPORT 4HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/998.m3u8
-#EXTINF:-1,FOX SPORT 5HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/999.m3u8
-#EXTINF:-1,FOX SPORT 6HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/1000.m3u8
-#EXTINF:-1,ZIGGO SPORT XTRA 1HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/1492.m3u8
-#EXTINF:-1,ZIGGO SPORT XTRA 2HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/1491.m3u8
-#EXTINF:-1,ZIGGO SPORT GOLF HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/1490.m3u8
-#EXTINF:-1,ZIGGO SPORT RACING HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/1489.m3u8
-#EXTINF:-1,ZIGGO SPORT SELECT HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/1488.m3u8
-#EXTINF:-1,(Holland) Sport EXTRA 1 HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/1001.m3u8
-#EXTINF:-1,(Holland) Sport EXTRA 2 HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/1002.m3u8
+http://smart-hdip.com:6204/denis/123/9566
+#EXTINF:-1,Film1 Premiere HD
+http://smart-hdip.com:6204/denis/123/9565
+#EXTINF:-1,Film1 Drama HD
+http://smart-hdip.com:6204/denis/123/9564
+#EXTINF:-1,Film1 Action HD Backup
+http://smart-hdip.com:6204/denis/123/13528
+#EXTINF:-1,Film1 Family HD Backup
+http://smart-hdip.com:6204/denis/123/13526
+#EXTINF:-1,Film1 Premiere HD Backup
+http://smart-hdip.com:6204/denis/123/13525
+#EXTINF:-1,Film1 Drama HD Backup
+http://smart-hdip.com:6204/denis/123/13527
+#EXTINF:-1,Look TV
+http://smart-hdip.com:6204/denis/123/9553
+#EXTINF:-1,192TV
+http://smart-hdip.com:6204/denis/123/9584
+#EXTINF:-1,24 Kitchen HD
+http://smart-hdip.com:6204/denis/123/9583
+#EXTINF:-1,Comedy Central HD
+http://smart-hdip.com:6204/denis/123/9577
+#EXTINF:-1,Crime & Investigation
+http://smart-hdip.com:6204/denis/123/9576
+#EXTINF:-1,Comedy Central Eextra
+http://smart-hdip.com:6204/denis/123/9578
+#EXTINF:-1,Duck TV
+http://smart-hdip.com:6204/denis/123/9572
+#EXTINF:-1,E!
+http://smart-hdip.com:6204/denis/123/9571
+#EXTINF:-1,iConcerts HD
+http://smart-hdip.com:6204/denis/123/9551
+#EXTINF:-1,Ketnet HD
+http://smart-hdip.com:6204/denis/123/9548
+#EXTINF:-1,NET 5 HD
+http://smart-hdip.com:6204/denis/123/9545
+#EXTINF:-1,Omroep Brabant NL
+http://smart-hdip.com:6204/denis/123/11019
+#EXTINF:-1,Omroep Flevoland NL
+http://smart-hdip.com:6204/denis/123/11018
+#EXTINF:-1,Omroep Gelderland NL
+http://smart-hdip.com:6204/denis/123/11017
+#EXTINF:-1,Omroep West NL
+http://smart-hdip.com:6204/denis/123/11016
+#EXTINF:-1,Omroep Zeeland NL
+http://smart-hdip.com:6204/denis/123/11015
+#EXTINF:-1,Omrop Fryslan NL
+http://smart-hdip.com:6204/denis/123/11014
+#EXTINF:-1,RTV Drenthe NL
+http://smart-hdip.com:6204/denis/123/11012
+#EXTINF:-1,RTV Noord NL
+http://smart-hdip.com:6204/denis/123/11011
+#EXTINF:-1,RTV Oost NL
+http://smart-hdip.com:6204/denis/123/11010
+#EXTINF:-1,RTV Dordrecht NL
+http://smart-hdip.com:6204/denis/123/11050
+#EXTINF:-1,RTV Purmerend NL
+http://smart-hdip.com:6204/denis/123/11049
+#EXTINF:-1,RTV Rijnmond NL
+http://smart-hdip.com:6204/denis/123/11048
+#EXTINF:-1,RTV Slingeland NL
+http://smart-hdip.com:6204/denis/123/11047
+#EXTINF:-1,RTV Slos NL
+http://smart-hdip.com:6204/denis/123/11046
+#EXTINF:-1,RTV Totaal NL
+http://smart-hdip.com:6204/denis/123/11045
+#EXTINF:-1,RTV Utrecht NL
+http://smart-hdip.com:6204/denis/123/11044
+#EXTINF:-1,MTV NL
+http://smart-hdip.com:6204/denis/123/11057
+#EXTINF:-1,MTV Hits NL
+http://smart-hdip.com:6204/denis/123/11059
+#EXTINF:-1,MTV Music 24 NL
+http://smart-hdip.com:6204/denis/123/11058
+#EXTINF:-1,AT 5 NL
+http://smart-hdip.com:6204/denis/123/11024
+#EXTINF:-1,L1 TV NL
+http://smart-hdip.com:6204/denis/123/11022
+#EXTINF:-1,Nick Music NL
+http://smart-hdip.com:6204/denis/123/11021
+#EXTINF:-1,ONS NL
+http://smart-hdip.com:6204/denis/123/11013
+#EXTINF:-1,Spike NL
+http://smart-hdip.com:6204/denis/123/11009
+#EXTINF:-1,TV 538 NL
+http://smart-hdip.com:6204/denis/123/11007
+#EXTINF:-1,WOS NL
+http://smart-hdip.com:6204/denis/123/11006
+#EXTINF:-1,The Q You HD NL
+http://smart-hdip.com:6204/denis/123/11008
+#EXTINF:-1,TLC
+http://smart-hdip.com:6204/denis/123/9525
+#EXTINF:-1,TV Oranje
+http://smart-hdip.com:6204/denis/123/9524
+#EXTINF:-1,Fox Channel HD
+http://smart-hdip.com:6204/denis/123/9562
+#EXTINF:-1,BBC Entertainment NL
+http://smart-hdip.com:6204/denis/123/11066
+#EXTINF:-1,EDE TV NL
+http://smart-hdip.com:6204/denis/123/11063
+#EXTINF:-1,Feel Good TV NL
+http://smart-hdip.com:6204/denis/123/11061
+#EXTINF:-1,Klipkar TV NL
+http://smart-hdip.com:6204/denis/123/11060
+#EXTINF:-1,Salto 1 NL
+http://smart-hdip.com:6204/denis/123/11043
+#EXTINF:-1,Salto 2 NL
+http://smart-hdip.com:6204/denis/123/11042
+#EXTINF:-1,Slam! NL
+http://smart-hdip.com:6204/denis/123/11041
+#EXTINF:-1,Slotstad RTV NL
+http://smart-hdip.com:6204/denis/123/11040
+#EXTINF:-1,Viceland HD NL
+http://smart-hdip.com:6204/denis/123/11038
+#EXTINF:-1,Animal Planet
+http://smart-hdip.com:6204/denis/123/9582
+#EXTINF:-1,Nat Geo Wild HD
+http://smart-hdip.com:6204/denis/123/9546
+#EXTINF:-1,National Geographic HD NL
+http://smart-hdip.com:6204/denis/123/11056
+#EXTINF:-1,History HD DUT
+http://smart-hdip.com:6204/denis/123/9552
+#EXTINF:-1,Discovery Channel
+http://smart-hdip.com:6204/denis/123/9575
+#EXTINF:-1,Discovery Showcase HD
+http://smart-hdip.com:6204/denis/123/9574
+#EXTINF:-1,Investigation Discovery
+http://smart-hdip.com:6204/denis/123/9550
+#EXTINF:-1,Baby TV
+http://smart-hdip.com:6204/denis/123/9581
+#EXTINF:-1,Boomerang
+http://smart-hdip.com:6204/denis/123/9580
+#EXTINF:-1,Disney Channel
+http://smart-hdip.com:6204/denis/123/9573
+#EXTINF:-1,Disney Channel NL
+http://smart-hdip.com:6204/denis/123/11065
+#EXTINF:-1,Disney Junior NL
+http://smart-hdip.com:6204/denis/123/11064
+#EXTINF:-1,Veronica Disney XD Full HD
+http://smart-hdip.com:6204/denis/123/11191
+#EXTINF:-1,Veronica/DisneyXD
+http://smart-hdip.com:6204/denis/123/9523
+#EXTINF:-1,JimJam
+http://smart-hdip.com:6204/denis/123/9549
+#EXTINF:-1,Nick JR.
+http://smart-hdip.com:6204/denis/123/9544
+#EXTINF:-1,Nick Toons
+http://smart-hdip.com:6204/denis/123/9543
+#EXTINF:-1,Nickenldeon HD / Spike Channel
+http://smart-hdip.com:6204/denis/123/9542
+#EXTINF:-1,Motors TV
+http://smart-hdip.com:6204/denis/123/9547
+#EXTINF:-1,Extreme Sports
+http://smart-hdip.com:6204/denis/123/9568
+#EXTINF:-1,EuroSport 1 HD
+http://smart-hdip.com:6204/denis/123/9570
+#EXTINF:-1,EuroSport 2 HD
+http://smart-hdip.com:6204/denis/123/9569
+#EXTINF:-1,EDGE Sport HD NL
+http://smart-hdip.com:6204/denis/123/11062
+#EXTINF:-1,Ziggo Sport Voetbal
+http://smart-hdip.com:6204/denis/123/9517
+#EXTINF:-1,Ziggo Sport Select HD
+http://smart-hdip.com:6204/denis/123/9518
+#EXTINF:-1,Ziggo Sport Golf
+http://smart-hdip.com:6204/denis/123/9520
+#EXTINF:-1,Ziggo Sport Racing
+http://smart-hdip.com:6204/denis/123/9519
+#EXTINF:-1,Ziggo Sport Extra 1
+http://smart-hdip.com:6204/denis/123/9522
+#EXTINF:-1,Ziggo Sport Extra 2
+http://smart-hdip.com:6204/denis/123/9521
+#EXTINF:-1,Ziggo Sport Voetbal Backup
+http://smart-hdip.com:6204/denis/123/11192
+#EXTINF:-1,Ziggo Sport Select HD Backup
+http://smart-hdip.com:6204/denis/123/11193
+#EXTINF:-1,Ziggo Sport Golf Backup
+http://smart-hdip.com:6204/denis/123/11194
+#EXTINF:-1,Ziggo Sport Extra 1 Backup
+http://smart-hdip.com:6204/denis/123/11196
+#EXTINF:-1,Ziggo Sport Extra 2 Backup
+http://smart-hdip.com:6204/denis/123/11195
+#EXTINF:-1,Fox Sport 1 HD
+http://smart-hdip.com:6204/denis/123/9561
+#EXTINF:-1,Fox Sport 2 HD
+http://smart-hdip.com:6204/denis/123/9560
+#EXTINF:-1,Fox Sport 3 HD
+http://smart-hdip.com:6204/denis/123/9559
+#EXTINF:-1,Fox Sport 4 HD
+http://smart-hdip.com:6204/denis/123/9558
+#EXTINF:-1,Fox Sport 5 HD
+http://smart-hdip.com:6204/denis/123/9557
+#EXTINF:-1,Fox Sport 6 HD
+http://smart-hdip.com:6204/denis/123/9556
+#EXTINF:-1,Fox Sport 1 HD backup
+http://smart-hdip.com:6204/denis/123/11202
+#EXTINF:-1,Fox Sport 2 HD backup
+http://smart-hdip.com:6204/denis/123/11201
+#EXTINF:-1,Fox Sport 3 HD backup
+http://smart-hdip.com:6204/denis/123/11200
+#EXTINF:-1,Fox Sport 4 HD backup
+http://smart-hdip.com:6204/denis/123/11199
+#EXTINF:-1,Fox Sport 5 HD backup
+http://smart-hdip.com:6204/denis/123/11198
+#EXTINF:-1,Fox Sport 6 HD backup
+http://smart-hdip.com:6204/denis/123/11197
+#EXTINF:-1,FOX Sports 1 HD Backup2
+http://smart-hdip.com:6204/denis/123/13549
+#EXTINF:-1,FOX Sports 2 HD Backup2
+http://smart-hdip.com:6204/denis/123/13548
+#EXTINF:-1,FOX Sports 3 HD Backup2
+http://smart-hdip.com:6204/denis/123/13547
+#EXTINF:-1,FOX Sports 4 HD Backup2
+http://smart-hdip.com:6204/denis/123/13546
+#EXTINF:-1,FOX Sports 5 HD Backup2
+http://smart-hdip.com:6204/denis/123/13545
+#EXTINF:-1,FOX Sports 6 HD Backup2
+http://smart-hdip.com:6204/denis/123/13544

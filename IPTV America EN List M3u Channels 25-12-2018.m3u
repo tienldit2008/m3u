@@ -1,67 +1,135 @@
 #EXTM3U
-#EXTINF:-1,[USA] HBO
-http://leon-iptv.ddns.net:1155/live/vieux/123456/2192.m3u8
-#EXTINF:-1,[USA] HBO ZONE
-http://leon-iptv.ddns.net:1155/live/vieux/123456/2987.m3u8
-#EXTINF:-1,[USA] HBO COMEDY
-http://leon-iptv.ddns.net:1155/live/vieux/123456/2989.m3u8
-#EXTINF:-1,[USA] HBO SIGNATURE
-http://leon-iptv.ddns.net:1155/live/vieux/123456/2988.m3u8
-#EXTINF:-1,[USA] NBS GOLF HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/2196.m3u8
-#EXTINF:-1,[USA] CBS ACTION HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/2331.m3u8
-#EXTINF:-1,[USA] FX HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/2195.m3u8
-#EXTINF:-1,[USA] SYFY HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/2328.m3u8
-#EXTINF:-1,[USA]  TBS  HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/2994.m3u8
-#EXTINF:-1,[USA] ABC News
-http://leon-iptv.ddns.net:1155/live/vieux/123456/2997.m3u8
-#EXTINF:-1,[USA]  Discovery Investigation ID
-http://leon-iptv.ddns.net:1155/live/vieux/123456/2191.m3u8
-#EXTINF:-1,[USA]  ANIMAL PLANET HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/2996.m3u8
-#EXTINF:-1,[USA] DISCOVERY HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/2993.m3u8
-#EXTINF:-1,[USA] ABC NEWS BK
-http://leon-iptv.ddns.net:1155/live/vieux/123456/2990.m3u8
-#EXTINF:-1,[USA] DISCOVERY SCIENCE HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/2992.m3u8
-#EXTINF:-1,[USA] DISCOVERY SHED
-http://leon-iptv.ddns.net:1155/live/vieux/123456/2991.m3u8
-#EXTINF:-1,[USA] National Geographic HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/1765.m3u8
-#EXTINF:-1,[USA] A&E TV HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/1458.m3u8
-#EXTINF:-1,[USA]  Food Network HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/1461.m3u8
-#EXTINF:-1,[USA] CNN HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/2995.m3u8
-#EXTINF:-1,[USA] CNBC HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/2330.m3u8
-#EXTINF:-1,[USA] WWE
-http://leon-iptv.ddns.net:1155/live/vieux/123456/2986.m3u8
-#EXTINF:-1,[USA] BOOMBERANG
-http://leon-iptv.ddns.net:1155/live/vieux/123456/2190.m3u8
-#EXTINF:-1,[USA] TSN 1HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/1460.m3u8
-#EXTINF:-1,[USA] TSN 2HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/1459.m3u8
-#EXTINF:-1,[USA] TSN 3 HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/1456.m3u8
-#EXTINF:-1,[USA] TSN 4 HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/1455.m3u8
-#EXTINF:-1,[USA] TSN 5 HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/1454.m3u8
-#EXTINF:-1,[USA] Astro SUPER SPORT 1HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/49.m3u8
-#EXTINF:-1,[USA] ASTRO SUPER SPORT 2HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/53.m3u8
-#EXTINF:-1,[USA] ASTRO SUPER SPORT 3HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/149.m3u8
-#EXTINF:-1,[USA] Bein Sports USA HD
-http://leon-iptv.ddns.net:1155/live/vieux/123456/2329.m3u8
-#EXTINF:-1,[USA] C SPAN1
-http://leon-iptv.ddns.net:1155/live/vieux/123456/3000.m3u8
+#EXTINF:-1,Bein Sports
+http://smart-hdip.com:6204/denis/123/10646
+#EXTINF:-1,TSN 1 HD
+http://smart-hdip.com:6204/denis/123/10636
+#EXTINF:-1,TSN 2 HD
+http://smart-hdip.com:6204/denis/123/10635
+#EXTINF:-1,TSN 3 HD
+http://smart-hdip.com:6204/denis/123/10634
+#EXTINF:-1,TSN 4 HD
+http://smart-hdip.com:6204/denis/123/10633
+#EXTINF:-1,TSN 5 HD
+http://smart-hdip.com:6204/denis/123/10632
+#EXTINF:-1,PAC-12 Arizona HD
+http://smart-hdip.com:6204/denis/123/10642
+#EXTINF:-1,PAC-12 Bay Area HD
+http://smart-hdip.com:6204/denis/123/10641
+#EXTINF:-1,PAC-12 Los Angeles HD
+http://smart-hdip.com:6204/denis/123/10640
+#EXTINF:-1,PAC-12 Mountain HD-
+http://smart-hdip.com:6204/denis/123/10639
+#EXTINF:-1,PAC-12 Oregon HD
+http://smart-hdip.com:6204/denis/123/10638
+#EXTINF:-1,A&E  US
+http://smart-hdip.com:6204/denis/123/10441
+#EXTINF:-1,ABC US
+http://smart-hdip.com:6204/denis/123/10440
+#EXTINF:-1,CNBC US
+http://smart-hdip.com:6204/denis/123/10429
+#EXTINF:-1,CNN US HD
+http://smart-hdip.com:6204/denis/123/10428
+#EXTINF:-1,MTV HD US
+http://smart-hdip.com:6204/denis/123/10403
+#EXTINF:-1,Starz HD US
+http://smart-hdip.com:6204/denis/123/10390
+#EXTINF:-1,SyFy HD USA
+http://smart-hdip.com:6204/denis/123/10387
+#EXTINF:-1,TBS USA
+http://smart-hdip.com:6204/denis/123/10386
+#EXTINF:-1,TNT US
+http://smart-hdip.com:6204/denis/123/10384
+#EXTINF:-1,VH1 HD US
+http://smart-hdip.com:6204/denis/123/10380
+#EXTINF:-1,History HD US
+http://smart-hdip.com:6204/denis/123/10405
+#EXTINF:-1,Nat Geo Wild HD US
+http://smart-hdip.com:6204/denis/123/10402
+#EXTINF:-1,NatGeo HD USA
+http://smart-hdip.com:6204/denis/123/10401
+#EXTINF:-1,Discovery Channel US HD
+http://smart-hdip.com:6204/denis/123/10424
+#EXTINF:-1,Discovery Science US HD
+http://smart-hdip.com:6204/denis/123/10421
+#EXTINF:-1,Bloomberg US
+http://smart-hdip.com:6204/denis/123/10436
+#EXTINF:-1,Cartoon Network US
+http://smart-hdip.com:6204/denis/123/10434
+#EXTINF:-1,Disney Channel US
+http://smart-hdip.com:6204/denis/123/10420
+#EXTINF:-1,Disney Junior US
+http://smart-hdip.com:6204/denis/123/10419
+#EXTINF:-1,Nick Junior US
+http://smart-hdip.com:6204/denis/123/10397
+#EXTINF:-1,Nick Toons US
+http://smart-hdip.com:6204/denis/123/10396
+#EXTINF:-1,CBS Sport HD
+http://smart-hdip.com:6204/denis/123/10433
+#EXTINF:-1,CBS US
+http://smart-hdip.com:6204/denis/123/10432
+#EXTINF:-1,HBO Comedy HD
+http://smart-hdip.com:6204/denis/123/10411
+#EXTINF:-1,HBO Signature
+http://smart-hdip.com:6204/denis/123/10410
+#EXTINF:-1,HBO US HD
+http://smart-hdip.com:6204/denis/123/10409
+#EXTINF:-1,HBO ZONE HD
+http://smart-hdip.com:6204/denis/123/10408
+#EXTINF:-1,Animal Planet HD
+http://smart-hdip.com:6204/denis/123/10439
+#EXTINF:-1,BET HD
+http://smart-hdip.com:6204/denis/123/10645
+#EXTINF:-1,Bravo HD
+http://smart-hdip.com:6204/denis/123/10435
+#EXTINF:-1,CINEMAX HD
+http://smart-hdip.com:6204/denis/123/10431
+#EXTINF:-1,DISCOVERY FAMILY
+http://smart-hdip.com:6204/denis/123/10423
+#EXTINF:-1,Discovery Investigation
+http://smart-hdip.com:6204/denis/123/10422
+#EXTINF:-1,Fox sport 1 HD
+http://smart-hdip.com:6204/denis/123/10416
+#EXTINF:-1,Fox sport 2 HD
+http://smart-hdip.com:6204/denis/123/10415
+#EXTINF:-1,FX HD
+http://smart-hdip.com:6204/denis/123/10414
+#EXTINF:-1,GSN HD
+http://smart-hdip.com:6204/denis/123/10412
+#EXTINF:-1,HGTV HD
+http://smart-hdip.com:6204/denis/123/10407
+#EXTINF:-1,History
+http://smart-hdip.com:6204/denis/123/10406
+#EXTINF:-1,Life Time HD
+http://smart-hdip.com:6204/denis/123/10404
+#EXTINF:-1,NBA HD
+http://smart-hdip.com:6204/denis/123/10400
+#EXTINF:-1,NBC EAST HD
+http://smart-hdip.com:6204/denis/123/10399
+#EXTINF:-1,NBCSN HD
+http://smart-hdip.com:6204/denis/123/10398
+#EXTINF:-1,NEWS 12
+http://smart-hdip.com:6204/denis/123/10643
+#EXTINF:-1,OWN HD
+http://smart-hdip.com:6204/denis/123/10395
+#EXTINF:-1,SHOWTIME FAMILY ZONE
+http://smart-hdip.com:6204/denis/123/10393
+#EXTINF:-1,SLICE HD
+http://smart-hdip.com:6204/denis/123/10392
+#EXTINF:-1,Syfy HD
+http://smart-hdip.com:6204/denis/123/10388
+#EXTINF:-1,STARZ KIDS & Family HD
+http://smart-hdip.com:6204/denis/123/10389
+#EXTINF:-1,TLC HD
+http://smart-hdip.com:6204/denis/123/10385
+#EXTINF:-1,TRU TV HD
+http://smart-hdip.com:6204/denis/123/10383
+#EXTINF:-1,TV Land HD
+http://smart-hdip.com:6204/denis/123/10382
+#EXTINF:-1,Viceland TV
+http://smart-hdip.com:6204/denis/123/10379
+#EXTINF:-1,WE HD
+http://smart-hdip.com:6204/denis/123/10378
+#EXTINF:-1,Weather channel
+http://smart-hdip.com:6204/denis/123/10377
+#EXTINF:-1,WWE HD
+http://smart-hdip.com:6204/denis/123/10376
