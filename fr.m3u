@@ -1,111 +1,59 @@
 #EXTM3U
-#EXTINF:-1,Fr | Tf1 Hd
-http://red-vip.com:8080/cafer20/cafer20/12539
-#EXTINF:-1,Fr | France 2 Hd
-http://red-vip.com:8080/cafer20/cafer20/12532
-#EXTINF:-1,Fr | France 3 Hd
-http://red-vip.com:8080/cafer20/cafer20/12531
-#EXTINF:-1,Fr | France 4 Hd
-http://red-vip.com:8080/cafer20/cafer20/12530
-#EXTINF:-1,Fr | France 5
-http://red-vip.com:8080/cafer20/cafer20/12529
-#EXTINF:-1,Fr | France O Hd
-http://red-vip.com:8080/cafer20/cafer20/12533
-#EXTINF:-1,Fr | France 24
-http://red-vip.com:8080/cafer20/cafer20/12491
-#EXTINF:-1,Fr | Rtl9
-http://red-vip.com:8080/cafer20/cafer20/12514
-#EXTINF:-1,Fr | M6 Hd
-http://red-vip.com:8080/cafer20/cafer20/12535
-#EXTINF:-1,Fr | M6 Music
-http://red-vip.com:8080/cafer20/cafer20/12494
-#EXTINF:-1,Fr | Arte Hd
-http://red-vip.com:8080/cafer20/cafer20/12513
-#EXTINF:-1,Fr | 13 Eme Rue
-http://red-vip.com:8080/cafer20/cafer20/12477
-#EXTINF:-1,Fr | 6ter Hd
-http://red-vip.com:8080/cafer20/cafer20/12478
-#EXTINF:-1,Fr | Rmc Decouverte
-http://red-vip.com:8080/cafer20/cafer20/12500
-#EXTINF:-1,Fr | W9
-http://red-vip.com:8080/cafer20/cafer20/12504
-#EXTINF:-1,Fr | Teva Hd
-http://red-vip.com:8080/cafer20/cafer20/12508
-#EXTINF:-1,Fr | Tv Breitz
-http://red-vip.com:8080/cafer20/cafer20/12503
-#EXTINF:-1,Fr | Cherie 25 Hd
-http://red-vip.com:8080/cafer20/cafer20/12512
-#EXTINF:-1,Fr | Nrj 12 Hd
-http://red-vip.com:8080/cafer20/cafer20/12520
-#EXTINF:-1,Fr | Ab1 Hd
-http://red-vip.com:8080/cafer20/cafer20/12507
-#EXTINF:-1,Fr | Ab3
-http://red-vip.com:8080/cafer20/cafer20/12480
-#EXTINF:-1,Fr | Ab Moteurs Hd
-http://red-vip.com:8080/cafer20/cafer20/12479
-#EXTINF:-1,Fr | Syfy Hd
-http://red-vip.com:8080/cafer20/cafer20/12501
-#EXTINF:-1,Fr | Nt 1
-http://red-vip.com:8080/cafer20/cafer20/12518
-#EXTINF:-1,Fr | Disney Channel
-http://red-vip.com:8080/cafer20/cafer20/12490
-#EXTINF:-1,Fr | Disney Xd
-http://red-vip.com:8080/cafer20/cafer20/12516
-#EXTINF:-1,FR: DISNEY CHANNEL
+#EXTINF:-1,DISNEY CHANNEL
 http://loca.eurovipserver.com:8080/baran1903/baran1903/63710
-#EXTINF:-1,FR: DISNEY CHANNEL HD
+#EXTINF:-1,DISNEY CHANNEL HD
 http://loca.eurovipserver.com:8080/baran1903/baran1903/63711
-#EXTINF:-1,FR: DISNEY CINEM HD
+#EXTINF:-1,DISNEY CINEM HD
 http://loca.eurovipserver.com:8080/baran1903/baran1903/63709
-#EXTINF:-1,FR: DISNEY JUNIOR
+#EXTINF:-1,DISNEY JUNIOR
 http://loca.eurovipserver.com:8080/baran1903/baran1903/63706
-#EXTINF:-1,FR: DISNEY JUNIOR HD
+#EXTINF:-1,DISNEY JUNIOR HD
 http://loca.eurovipserver.com:8080/baran1903/baran1903/63707
-#EXTINF:-1,FR: Disney XD HD
+#EXTINF:-1,Disney XD HD
 http://loca.eurovipserver.com:8080/baran1903/baran1903/63705
-#EXTINF:-1,FR: EQUIDIA LIVE HD
+#EXTINF:-1,EQUIDIA LIVE HD
 http://loca.eurovipserver.com:8080/baran1903/baran1903/63668
-#EXTINF:-1,FR: EQUIDIA LIVIE.
+#EXTINF:-1,EQUIDIA LIVIE.
 http://loca.eurovipserver.com:8080/baran1903/baran1903/63667
-#EXTINF:-1,FR: GULLI
+#EXTINF:-1,GULLI
 http://loca.eurovipserver.com:8080/baran1903/baran1903/63704
-#EXTINF:-1,FR: Gulli HD
+#EXTINF:-1,Gulli HD
 http://loca.eurovipserver.com:8080/baran1903/baran1903/63703
-#EXTINF:-1,FR: INFOSPORT
+#EXTINF:-1,INFOSPORT
 http://loca.eurovipserver.com:8080/baran1903/baran1903/63663
-#EXTINF:-1,FR: L'EQUIPE 21
+#EXTINF:-1,L'EQUIPE 21
 http://loca.eurovipserver.com:8080/baran1903/baran1903/63662
-#EXTINF:-1,FR: MANGAS
+#EXTINF:-1,MANGAS
 http://loca.eurovipserver.com:8080/baran1903/baran1903/63702
-#EXTINF:-1,FR: MANGAS HD
+#EXTINF:-1,MANGAS HD
 http://loca.eurovipserver.com:8080/baran1903/baran1903/63701
-#EXTINF:-1,FR: NICKELODEON
+#EXTINF:-1,NICKELODEON
 http://loca.eurovipserver.com:8080/baran1903/baran1903/63700
-#EXTINF:-1,FR: NICKELODEON JUNIOR
+#EXTINF:-1,NICKELODEON JUNIOR
 http://loca.eurovipserver.com:8080/baran1903/baran1903/63699
-#EXTINF:-1,FR: RMC SPORT 1
+#EXTINF:-1,RMC SPORT 1
 http://loca.eurovipserver.com:8080/baran1903/baran1903/63673
-#EXTINF:-1,FR: RMC SPORT 2
+#EXTINF:-1,RMC SPORT 2
 http://loca.eurovipserver.com:8080/baran1903/baran1903/63672
-#EXTINF:-1,FR: France 2 FHD
+#EXTINF:-1,France 2 FHD
 http://loca.eurovipserver.com:8080/baran1903/baran1903/68015
-#EXTINF:-1,FR: France 24 ENG
+#EXTINF:-1,France 24 ENG
 http://loca.eurovipserver.com:8080/baran1903/baran1903/68011
-#EXTINF:-1,FR: France 24 HD
+#EXTINF:-1,France 24 HD
 http://loca.eurovipserver.com:8080/baran1903/baran1903/68010
-#EXTINF:-1,FR: France 3 FHD
+#EXTINF:-1,France 3 FHD
 http://loca.eurovipserver.com:8080/baran1903/baran1903/68014
-#EXTINF:-1,FR: FRANCE 4 FHD
+#EXTINF:-1,FRANCE 4 FHD
 http://loca.eurovipserver.com:8080/baran1903/baran1903/68013
-#EXTINF:-1,FR: FRANCE 5 FHD
+#EXTINF:-1,FRANCE 5 FHD
 http://loca.eurovipserver.com:8080/baran1903/baran1903/68012
-#EXTINF:-1,FR: France Info HD
+#EXTINF:-1,France Info HD
 http://loca.eurovipserver.com:8080/baran1903/baran1903/68009
-#EXTINF:-1,FR: FRANCE O FHD
+#EXTINF:-1,FRANCE O FHD
 http://loca.eurovipserver.com:8080/baran1903/baran1903/68008
-#EXTINF:-1,FR: TF1 FHD
+#EXTINF:-1,TF1 FHD
 http://loca.eurovipserver.com:8080/baran1903/baran1903/68193
-#EXTINF:-1,FR: WEO HD
+#EXTINF:-1,WEO HD
 http://loca.eurovipserver.com:8080/baran1903/baran1903/68158
-#EXTINF:-1,FR: ZOUZOU HD
+#EXTINF:-1,ZOUZOU HD
 http://loca.eurovipserver.com:8080/baran1903/baran1903/68157
