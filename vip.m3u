@@ -1,0 +1,783 @@
+#EXTM3U
+#EXTINF:-1,TRT 1
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/651.m3u8
+#EXTINF:-1,TRT 1 HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/36.m3u8
+#EXTINF:-1,STAR TV
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/921.m3u8
+#EXTINF:-1,STAR TV HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/17.m3u8
+#EXTINF:-1,KANAL D
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/922.m3u8
+#EXTINF:-1,KANAL D HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/19.m3u8
+#EXTINF:-1,ATV
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/919.m3u8
+#EXTINF:-1,ATV HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/21.m3u8
+#EXTINF:-1,A2 TV
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/940.m3u8
+#EXTINF:-1,A2 TV HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/820.m3u8
+#EXTINF:-1,SHOW
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/923.m3u8
+#EXTINF:-1,SHOW HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/23.m3u8
+#EXTINF:-1,360
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/603.m3u8
+#EXTINF:-1,TV8
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/920.m3u8
+#EXTINF:-1,TV8 HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/573.m3u8
+#EXTINF:-1,TV 8.5
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/944.m3u8
+#EXTINF:-1,TV 8.5 HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/758.m3u8
+#EXTINF:-1,KANAL 7
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/939.m3u8
+#EXTINF:-1,KANAL 7 HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/35.m3u8
+#EXTINF:-1,BEYAZ TV
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/938.m3u8
+#EXTINF:-1,BEYAZ TV HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/33.m3u8
+#EXTINF:-1,TEVE 2 HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/833.m3u8
+#EXTINF:-1,FOX TV
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/924.m3u8
+#EXTINF:-1,FOX TV HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/28.m3u8
+#EXTINF:-1,beIN GURME HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/623.m3u8
+#EXTINF:-1,FOOD NETWORK HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1279.m3u8
+#EXTINF:-1,FLASH TV
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1254.m3u8
+#EXTINF:-1,TLC
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1602.m3u8
+#EXTINF:-1,##### TR NEWS #####
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/192.m3u8
+#EXTINF:-1,NTV HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/29.m3u8
+#EXTINF:-1,CNN TURK HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/30.m3u8
+#EXTINF:-1,TRT HABER HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/37.m3u8
+#EXTINF:-1,ULKE TV HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/834.m3u8
+#EXTINF:-1,A HABER HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/31.m3u8
+#EXTINF:-1,HABER TURK HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/32.m3u8
+#EXTINF:-1,24 HABER
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1171.m3u8
+#EXTINF:-1,BLOOMBERG HT HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/835.m3u8
+#EXTINF:-1,HALK TV
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/634.m3u8
+#EXTINF:-1,TRT TURK
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1224.m3u8
+#EXTINF:-1,TRT AVAZ
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1225.m3u8
+#EXTINF:-1,AKIT TV
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1255.m3u8
+#EXTINF:-1,##### TR SPORT #####
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/472.m3u8
+#EXTINF:-1,beINSPORTS 1 UHD (MAÇ ZAMANI AÇIK)
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1612.m3u8
+#EXTINF:-1,beINSPORTS 1 HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1613.m3u8
+#EXTINF:-1,beINSPORTS 1 SD (MAÇ ZAMANI AÇIK)
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1614.m3u8
+#EXTINF:-1,beINSPORTS 2 HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/2.m3u8
+#EXTINF:-1,beINSPORTS 2 SD (MAÇ ZAMANI AÇIK)
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1374.m3u8
+#EXTINF:-1,beINSPORTS 3 HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/3.m3u8
+#EXTINF:-1,beINSPORTS 4 HD (MAC ZAMANLARİ AÇIK)
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/123.m3u8
+#EXTINF:-1,beINSPORTS MAX 1 HD (MAÇ ZAMANI AÇIK)
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1349.m3u8
+#EXTINF:-1,beINSPORTS MAX 2 HD (MAÇ ZAMANI AÇIK)
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1147.m3u8
+#EXTINF:-1,BeIn Sports HABER
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1348.m3u8
+#EXTINF:-1,NBA TV HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1347.m3u8
+#EXTINF:-1,S SPORT HD.
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1615.m3u8
+#EXTINF:-1,SPOR SMART SD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1326.m3u8
+#EXTINF:-1,SPOR SMART UHD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/4.m3u8
+#EXTINF:-1,TIVIBU SPOR 82 KANAL
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1343.m3u8
+#EXTINF:-1,TIVIBU SPOR 82 KANAL HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1344.m3u8
+#EXTINF:-1,TIVIBU SPOR  HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/6.m3u8
+#EXTINF:-1,TIVIBU SPOR
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1051.m3u8
+#EXTINF:-1,TIVIBU SPOR 2 HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/7.m3u8
+#EXTINF:-1,TIVIBU SPOR 2
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/712.m3u8
+#EXTINF:-1,TIVIBU SPOR 3 HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/619.m3u8
+#EXTINF:-1,TIVIBU SPOR 3
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1052.m3u8
+#EXTINF:-1,TIVIBU SPOR 4 HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1243.m3u8
+#EXTINF:-1,TIVIBU SPOR 4
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1053.m3u8
+#EXTINF:-1,DİGİTURK PLAY 1 [SADECE MAÇ ZAMANLARI AÇIK]
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1364.m3u8
+#EXTINF:-1,DİGİTURK PLAY 2 [SADECE MAÇ ZAMANLARI AÇIK]
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1365.m3u8
+#EXTINF:-1,DİGİTURK PLAY 3 [SADECE MAÇ ZAMANLARI AÇIK]
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1366.m3u8
+#EXTINF:-1,DİGİTURK PLAY 4 [SADECE MAÇ ZAMANLARI AÇIK]
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1367.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/575.m3u8
+#EXTINF:-1,EUROSPORT 2 HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/576.m3u8
+#EXTINF:-1,SPORTS TV HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/739.m3u8
+#EXTINF:-1,FAST AND FUN BOX HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1280.m3u8
+#EXTINF:-1,BJK TV HD TR
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/301.m3u8
+#EXTINF:-1,FB TV HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/300.m3u8
+#EXTINF:-1,GS TV HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/370.m3u8
+#EXTINF:-1,A SPOR
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/942.m3u8
+#EXTINF:-1,A SPOR HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/14.m3u8
+#EXTINF:-1,DMAX
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/941.m3u8
+#EXTINF:-1,TRT SPOR
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1335.m3u8
+#EXTINF:-1,TRT SPOR HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/571.m3u8
+#EXTINF:-1,##### TR CHILDREN #####
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/193.m3u8
+#EXTINF:-1,TRT COCUK HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/933.m3u8
+#EXTINF:-1,BABY TV
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/930.m3u8
+#EXTINF:-1,MINIKA GO
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/951.m3u8
+#EXTINF:-1,MINIKA COCUK HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1146.m3u8
+#EXTINF:-1,DISNEY CHANNEL HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/46.m3u8
+#EXTINF:-1,DISNEY JUNIOR
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/982.m3u8
+#EXTINF:-1,CARTOON NETWORK HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/392.m3u8
+#EXTINF:-1,NICKEOLODON HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/755.m3u8
+#EXTINF:-1,NICKEOLODON HD JUNIOR HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/754.m3u8
+#EXTINF:-1,##### TR MUSIC #####
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/957.m3u8
+#EXTINF:-1,TRT MUZIK HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1307.m3u8
+#EXTINF:-1,KRAL TV
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/954.m3u8
+#EXTINF:-1,KRAL POP HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1148.m3u8
+#EXTINF:-1,NR1 HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1306.m3u8
+#EXTINF:-1,NR1 TURK HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/956.m3u8
+#EXTINF:-1,POWER TURK HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1150.m3u8
+#EXTINF:-1,DREAM TURK HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1149.m3u8
+#EXTINF:-1,DREAM TV HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1305.m3u8
+#EXTINF:-1,##### TR CINEMA #####
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/195.m3u8
+#EXTINF:-1,FOX LIFE HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/752.m3u8
+#EXTINF:-1,FX HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/806.m3u8
+#EXTINF:-1,FOXCRIME HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/751.m3u8
+#EXTINF:-1,FIL TV HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/965.m3u8
+#EXTINF:-1,TURKMAX HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1190.m3u8
+#EXTINF:-1,DİZİ SMART HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/992.m3u8
+#EXTINF:-1,BEINMOVIES OSCARS HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1355.m3u8
+#EXTINF:-1,beINMOVIES TURK HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/812.m3u8
+#EXTINF:-1,BeINMOVIES ACTION HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1244.m3u8
+#EXTINF:-1,BEİNMOVIES ACTION HD 2
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1357.m3u8
+#EXTINF:-1,BeINMOVIES COMEDY HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1245.m3u8
+#EXTINF:-1,beINMOVIES FAMILY HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1246.m3u8
+#EXTINF:-1,beINMOVIES FESTIVAL HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1247.m3u8
+#EXTINF:-1,beINMOVIES PREMIER HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1248.m3u8
+#EXTINF:-1,BEİNMOVIES PREMIERE HD 2
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1356.m3u8
+#EXTINF:-1,bEINMOVIES STARS HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1249.m3u8
+#EXTINF:-1,beINSERIES COMEDY HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1250.m3u8
+#EXTINF:-1,beINSERIES DRAMA HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1251.m3u8
+#EXTINF:-1,beINSERIES Sci-Fi HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1252.m3u8
+#EXTINF:-1,beINSERIES VICE HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1253.m3u8
+#EXTINF:-1,MOVIE SMART TURK HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1319.m3u8
+#EXTINF:-1,MOVIE SMART PREMIUM HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1315.m3u8
+#EXTINF:-1,MOVİESMART PREMİUM 2 HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1313.m3u8
+#EXTINF:-1,MOVIE SMART FEST
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1316.m3u8
+#EXTINF:-1,MOVIE SMART AKSIYON HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1311.m3u8
+#EXTINF:-1,MOVİESMART PLATİN HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1361.m3u8
+#EXTINF:-1,MOVİESMART PLATİN 2 HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1362.m3u8
+#EXTINF:-1,MOVİESMART CLASSİC HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1358.m3u8
+#EXTINF:-1,MOVİESMART COCUK HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1359.m3u8
+#EXTINF:-1,MOVIE SMART FAMILY HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1312.m3u8
+#EXTINF:-1,MOVİESMART GOLD HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1363.m3u8
+#EXTINF:-1,MOVİESMART TURK HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1603.m3u8
+#EXTINF:-1,TIVIBU FOX LİFE
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1599.m3u8
+#EXTINF:-1,TIVIBU FX
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1601.m3u8
+#EXTINF:-1,TIVIBU FOX CRAME
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1600.m3u8
+#EXTINF:-1,TIVIBU ADRENALIN HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1372.m3u8
+#EXTINF:-1,TIVIBU ADRENALIN HD 2
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1373.m3u8
+#EXTINF:-1,TIVIBU TURK HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1370.m3u8
+#EXTINF:-1,TIVIBU TURK HD 2
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1371.m3u8
+#EXTINF:-1,TIVIBU VİZYON HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1368.m3u8
+#EXTINF:-1,TIVIBU VİZYON HD 2
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1369.m3u8
+#EXTINF:-1,SINEMATV AILE
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/788.m3u8
+#EXTINF:-1,SINEMATV AKSIYON
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/784.m3u8
+#EXTINF:-1,SINEMATV AKSIYON 2
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/786.m3u8
+#EXTINF:-1,SINEMA TV
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1341.m3u8
+#EXTINF:-1,SINEMATV KOMEDI2
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/789.m3u8
+#EXTINF:-1,SINEMATV 1001
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/783.m3u8
+#EXTINF:-1,SINEMA TV2
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/983.m3u8
+#EXTINF:-1,SINEMATV KOMEDI
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/913.m3u8
+#EXTINF:-1,FILMBOX AKSIYON
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1617.m3u8
+#EXTINF:-1,FILMBOX DRAMA
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1621.m3u8
+#EXTINF:-1,FILMBOX FANTASTIK
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1619.m3u8
+#EXTINF:-1,FILMBOX KEMALSUNALTV
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1625.m3u8
+#EXTINF:-1,FILMBOX KOMEDI
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1620.m3u8
+#EXTINF:-1,FILMBOX KORKU
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1622.m3u8
+#EXTINF:-1,FILMBOX SCI-FI
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1618.m3u8
+#EXTINF:-1,FILMBOX SINEVIZYON
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1616.m3u8
+#EXTINF:-1,FILMBOX YESILCAM
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1623.m3u8
+#EXTINF:-1,FILMBOXTURK
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1624.m3u8
+#EXTINF:-1,##### TR DOCUMENTARY #####
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/196.m3u8
+#EXTINF:-1,TRT BELGESEL HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1151.m3u8
+#EXTINF:-1,YABAN TV
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1172.m3u8
+#EXTINF:-1,TREK HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1275.m3u8
+#EXTINF:-1,ANIMAUX
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1281.m3u8
+#EXTINF:-1,AB MOTEURS HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1282.m3u8
+#EXTINF:-1,SCIENCE ET VIE HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1277.m3u8
+#EXTINF:-1,TRAVEL CHANNEL HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1276.m3u8
+#EXTINF:-1,CHASSE & PECHE
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1278.m3u8
+#EXTINF:-1,beIN IZ HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/367.m3u8
+#EXTINF:-1,BBC EARTH HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/674.m3u8
+#EXTINF:-1,DAVINCI-LEARNING HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/779.m3u8
+#EXTINF:-1,ANIMAL PLANET HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/675.m3u8
+#EXTINF:-1,HISTORY CHANNEL HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/368.m3u8
+#EXTINF:-1,VIASAT EXPLORE HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1283.m3u8
+#EXTINF:-1,VIASAT NATURE HISTORY
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/780.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC CHANNEL HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/41.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC WILD HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/42.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC PEOPLE HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/436.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/40.m3u8
+#EXTINF:-1,DISCOVERY SHOWCASE HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/343.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/588.m3u8
+#EXTINF:-1,DISCOVERY IDX HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/892.m3u8
+#EXTINF:-1,DISCOVERY TURBO EXTRA HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/893.m3u8
+#EXTINF:-1,##### TR RELIGION #####
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1262.m3u8
+#EXTINF:-1,TRT DIYANET
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1260.m3u8
+#EXTINF:-1,SEMERKAND TV HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1261.m3u8
+#EXTINF:-1,##### GERMANY #####
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/197.m3u8
+#EXTINF:-1,DE: 13th Street |HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1431.m3u8
+#EXTINF:-1,DE: |Tele 5 HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1544.m3u8
+#EXTINF:-1,SINEMATV AILE2
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/787.m3u8
+#EXTINF:-1,DE | MOVIESINEMA GERMAN 1 HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1556.m3u8
+#EXTINF:-1,DE | MOVIESINEMA GERMAN 2 HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1557.m3u8
+#EXTINF:-1,DE | MOVIESINEMA GERMAN 3 HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1558.m3u8
+#EXTINF:-1,DE | MOVIESINEMA GERMAN 4 HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1559.m3u8
+#EXTINF:-1,DE | MOVIESINEMA GERMAN 5 HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1560.m3u8
+#EXTINF:-1,DE | SKY SELECT 1 UHD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1561.m3u8
+#EXTINF:-1,DE | SKY SELECT 2 UHD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1562.m3u8
+#EXTINF:-1,DE | SKY SELECT 3 UHD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1563.m3u8
+#EXTINF:-1,DE | SKY SELECT 4 UHD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1564.m3u8
+#EXTINF:-1,DE | SKY SELECT 5 UHD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1565.m3u8
+#EXTINF:-1,DE | SKY SELECT 6 UHD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1566.m3u8
+#EXTINF:-1,DE | SKY SELECT 7 UHD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1567.m3u8
+#EXTINF:-1,DE: ||Arte HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1555.m3u8
+#EXTINF:-1,DE: |A&E HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1438.m3u8
+#EXTINF:-1,DE: |Animal Planet HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1440.m3u8
+#EXTINF:-1,DE: |AXN HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1444.m3u8
+#EXTINF:-1,DE: |Boomerang HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1446.m3u8
+#EXTINF:-1,DE: |Cartoon Network HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1448.m3u8
+#EXTINF:-1,DE: |Das Erste HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1449.m3u8
+#EXTINF:-1,DE: |Discovery Channel HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1450.m3u8
+#EXTINF:-1,DE: |Disney Channel HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1451.m3u8
+#EXTINF:-1,DE: |Disney Cinemagic HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1452.m3u8
+#EXTINF:-1,DE: |Disney Jr. HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1453.m3u8
+#EXTINF:-1,DE: |Disney XD HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1454.m3u8
+#EXTINF:-1,DE: |DMAX HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1455.m3u8
+#EXTINF:-1,DE: |E! Entertainment HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1457.m3u8
+#EXTINF:-1,DE: |Fix&Foxi
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1463.m3u8
+#EXTINF:-1,DE: |Fox HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1464.m3u8
+#EXTINF:-1,DE: |History Channel HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1467.m3u8
+#EXTINF:-1,DE: |Junior [6:00-20:00]
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1469.m3u8
+#EXTINF:-1,DE: |Kabel 1 Classic HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1470.m3u8
+#EXTINF:-1,DE: |Kabel 1 Doku
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1471.m3u8
+#EXTINF:-1,DE: |Kabel 1 HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1472.m3u8
+#EXTINF:-1,DE: |Kika HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1473.m3u8
+#EXTINF:-1,DE: |Kinowelt HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1474.m3u8
+#EXTINF:-1,DE: |N24 Doku
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1478.m3u8
+#EXTINF:-1,DE: |N24 HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1479.m3u8
+#EXTINF:-1,DE: |NatGeo HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1480.m3u8
+#EXTINF:-1,DE: |NatGeo Wild HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1481.m3u8
+#EXTINF:-1,DE: |National Geo HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1482.m3u8
+#EXTINF:-1,DE: |NDR HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1484.m3u8
+#EXTINF:-1,DE: |Nick Jr. HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1485.m3u8
+#EXTINF:-1,DE: |ORF 1 HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1488.m3u8
+#EXTINF:-1,DE: |ORF 2 HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1489.m3u8
+#EXTINF:-1,DE: |ORF 3 HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1490.m3u8
+#EXTINF:-1,DE: |ORF Sport Plus
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1491.m3u8
+#EXTINF:-1,DE: |Prosieben Fun HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1494.m3u8
+#EXTINF:-1,DE: |ProSieben HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1495.m3u8
+#EXTINF:-1,DE: |ProSieben MAXX HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1496.m3u8
+#EXTINF:-1,DE: |RTL Crime HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1502.m3u8
+#EXTINF:-1,DE: |RTL HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1503.m3u8
+#EXTINF:-1,DE: |RTL Living HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1504.m3u8
+#EXTINF:-1,DE: |RTL Nitro HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1505.m3u8
+#EXTINF:-1,DE: |RTL Passion HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1506.m3u8
+#EXTINF:-1,DE: |RTL2 HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1507.m3u8
+#EXTINF:-1,DE: |SAT.1 Gold HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1509.m3u8
+#EXTINF:-1,DE: |SAT.1 HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1510.m3u8
+#EXTINF:-1,DE: |ServusTV HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1512.m3u8
+#EXTINF:-1,DE: |Silverline
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1514.m3u8
+#EXTINF:-1,DE: |SIXX HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1515.m3u8
+#EXTINF:-1,DE: |Sky 1 HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1516.m3u8
+#EXTINF:-1,DE: |Sky Action HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1517.m3u8
+#EXTINF:-1,DE: |Sky Arts HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1518.m3u8
+#EXTINF:-1,DE: |Sky Atlantic HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1519.m3u8
+#EXTINF:-1,DE: |Sky Cinema   1 HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1520.m3u8
+#EXTINF:-1,DE: |Sky Cinema   24 HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1521.m3u8
+#EXTINF:-1,DE: |Sky Cinema Family HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1522.m3u8
+#EXTINF:-1,DE: |Sky Cinema HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1523.m3u8
+#EXTINF:-1,DE: |Sky Comedy
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1524.m3u8
+#EXTINF:-1,DE: |Sky Emotion
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1525.m3u8
+#EXTINF:-1,DE: |Sky Hits HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1526.m3u8
+#EXTINF:-1,DE: |Sky Krimi
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1527.m3u8
+#EXTINF:-1,DE: |Sky Nostalgie
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1528.m3u8
+#EXTINF:-1,DE: |Sony Entertainment TV HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1532.m3u8
+#EXTINF:-1,DE: |Spiegel TV Geschichte
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1533.m3u8
+#EXTINF:-1,DE: |SRF HD 1
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1540.m3u8
+#EXTINF:-1,DE: |SRF HD 2
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1541.m3u8
+#EXTINF:-1,DE: |Super RTL HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1542.m3u8
+#EXTINF:-1,DE: |Teleclub Cinema Full HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1545.m3u8
+#EXTINF:-1,DE: |Teleclub Prime Full HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1546.m3u8
+#EXTINF:-1,DE: |Teleclub Star Full HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1547.m3u8
+#EXTINF:-1,DE: |TLC HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1548.m3u8
+#EXTINF:-1,DE: |TNT Comedy HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1549.m3u8
+#EXTINF:-1,DE: |TNT Film HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1550.m3u8
+#EXTINF:-1,DE: |TNT Serie HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1551.m3u8
+#EXTINF:-1,DE: |TOGGO Plus
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1552.m3u8
+#EXTINF:-1,DE: |Universal HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1553.m3u8
+#EXTINF:-1,##### DE SPORT #####
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/198.m3u8
+#EXTINF:-1,DE: |Sky Bundesliga 1 HD [24/7]
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1568.m3u8
+#EXTINF:-1,DE: |Sky Bundesliga 2 HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1569.m3u8
+#EXTINF:-1,DE: |Sky Bundesliga 3 HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1570.m3u8
+#EXTINF:-1,DE: |Sky Bundesliga 4 HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1571.m3u8
+#EXTINF:-1,DE: |Sky Bundesliga 5
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1572.m3u8
+#EXTINF:-1,DE: |Sky Bundesliga 6
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1573.m3u8
+#EXTINF:-1,DE: |Sky Bundesliga 7
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1574.m3u8
+#EXTINF:-1,DE: |Sky Bundesliga 8
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1575.m3u8
+#EXTINF:-1,DE: |Sky Bundesliga 9
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1576.m3u8
+#EXTINF:-1,DE: |Sky Bundesliga 10
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1577.m3u8
+#EXTINF:-1,DE: |Sky Sport 1 HD [24/7]
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1578.m3u8
+#EXTINF:-1,DE: |Sky Sport 2 HD [24/7]
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1579.m3u8
+#EXTINF:-1,DE: |Sky Sport 3 HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1580.m3u8
+#EXTINF:-1,DE: |Sky Sport 4 HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1581.m3u8
+#EXTINF:-1,DE: |Sky Sport 5 HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1582.m3u8
+#EXTINF:-1,DE: |Sky Sport 6
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1583.m3u8
+#EXTINF:-1,DE: |Sky Sport 7
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1584.m3u8
+#EXTINF:-1,DE: |Sky Sport 8
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1585.m3u8
+#EXTINF:-1,DE: |Sky Sport 9
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1586.m3u8
+#EXTINF:-1,DE: |Sky Sport 10
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1587.m3u8
+#EXTINF:-1,DE: |Sky Sport Austria HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1529.m3u8
+#EXTINF:-1,DE: |Sky Sport News HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1530.m3u8
+#EXTINF:-1,DE: |Sky Sports News HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1531.m3u8
+#EXTINF:-1,DE: |Euronews
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1459.m3u8
+#EXTINF:-1,DE: |Eurosport 1 HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1460.m3u8
+#EXTINF:-1,DE: |Eurosport 2 HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1461.m3u8
+#EXTINF:-1,DE: |Eurosport 2 HD Xtra
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1462.m3u8
+#EXTINF:-1,DE: |Sport1 HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1537.m3u8
+#EXTINF:-1,DE: |Sport1 US HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1538.m3u8
+#EXTINF:-1,DE: |Sportdigital HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1539.m3u8
+#EXTINF:-1,##### ADULT #####
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/841.m3u8
+#EXTINF:-1,BRAZERS HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/836.m3u8
+#EXTINF:-1,REDLIGHT HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/840.m3u8
+#EXTINF:-1,PENTHOUSE TV HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1610.m3u8
+#EXTINF:-1,PENTHOUSE TV2 HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1611.m3u8
+#EXTINF:-1,PENTHOUSE TV3 HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1192.m3u8
+#EXTINF:-1,SENSO TV
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1430.m3u8
+#EXTINF:-1,CentoxCento TV
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1609.m3u8
+#EXTINF:-1,Dorcel Tv
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1604.m3u8
+#EXTINF:-1,Hustler Tv
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1608.m3u8
+#EXTINF:-1,Pinko Tv
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1605.m3u8
+#EXTINF:-1,PrivateTv
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1607.m3u8
+#EXTINF:-1,Sct Tv
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1606.m3u8
+#EXTINF:-1,##### 2018 VOD FİLMLER #####
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1381.m3u8
+#EXTINF:-1,DAĞ 2
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1375.mp4
+#EXTINF:-1,MAVİ KORKU 2-DEEP BLUE SEA 2
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1378.mp4
+#EXTINF:-1,S W A T : UNDER SİEGE
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1376.mp4
+#EXTINF:-1,SAHİL GÜVENLİK
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1379.mp4
+#EXTINF:-1,ZOMBİ EXPRESİ--TRAİN TO BUSAN
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1377.mp4
+#EXTINF:-1,ARİF V216
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1383.mp4
+#EXTINF:-1,###YERLİ SİNEMA KUŞAĞI###
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1385.m3u8
+#EXTINF:-1,DABBE 6
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1384.mp4
+#EXTINF:-1,OFLU HOCANIN ŞİFRESİ 2
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1401.mp4
+#EXTINF:-1,CİNGÖZ RECAİ
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1422.mp4
+#EXTINF:-1,FUNDEMENTALS
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1423.mp4
+#EXTINF:-1,HADİ BE OĞLUM
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1424.mp4
+#EXTINF:-1,KARDEŞİM BENİM 2
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1425.mp4
+#EXTINF:-1,MAİDE ' NİN ALTIN GÜNÜ
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1426.mp4
+#EXTINF:-1,ÖTEKİ TARAF
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1427.mp4
+#EXTINF:-1,RÜZGAR
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1428.mp4
+#EXTINF:-1,YOL AYIRIMI
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1429.mp4
+#EXTINF:-1,AYLA
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1421.mp4
+#EXTINF:-1,HABABAM SINIF UYANIYOR
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1405.mp4
+#EXTINF:-1,HABABAM SINIFI DOKUZ DOĞURUYOR
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1402.mp4
+#EXTINF:-1,HABABAM SINIFI GÜLE GÜLE
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1403.mp4
+#EXTINF:-1,HABABAM SINIFI DOKUZ DOĞURUYOR
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1651.mp4
+#EXTINF:-1,HABABAM SINIFI TATİLDE
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1404.mp4
+#EXTINF:-1,KATMA DEĞER ŞABAN
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1650.mp4
+#EXTINF:-1,KOLONYA CUMHURİYETİ
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1648.mp4
+#EXTINF:-1,###YABANCI SİNEMA KUŞAĞI###
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1386.m3u8
+#EXTINF:-1,SAHİL GÜVENLİK & BAYWATCH
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1387.mp4
+#EXTINF:-1,MAD MAX : FURY ROAD
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1392.mp4
+#EXTINF:-1,SIKIYSA YAKALA & CATCH ME İF YOU CAN
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1393.mp4
+#EXTINF:-1,SON DURAK 1 & FİNAL DESTİNATİON
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1394.mp4
+#EXTINF:-1,SON DURAK 2 & FİNAL DESTİNATİON
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1395.mp4
+#EXTINF:-1,SON DURAK 3 & FİNAL DESTİNATİON
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1396.mp4
+#EXTINF:-1,SON DURAK 4 & FİNAL DESTİNATİON
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1397.mp4
+#EXTINF:-1,SON DURAK 5 & FİNAL DESTİNATİON
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1398.mp4
+#EXTINF:-1,ŞİRİNLER 3 Kayıp Köy & SMURFS THE LOST VİLLAGE
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1399.mp4
+#EXTINF:-1,BİR ZAMANLAR VENEDİK'TE
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1636.mp4
+#EXTINF:-1,BU DUNYANIN DISINDAN
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1638.mp4
+#EXTINF:-1,CAN DOSTUM
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1644.mp4
+#EXTINF:-1,DOKUZUNCU HAYAT
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1637.mp4
+#EXTINF:-1,GİZLİ DOSYA
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1643.mp4
+#EXTINF:-1,HIZLI VE ÖFKELİ 8
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1645.mp4
+#EXTINF:-1,KİNG ARTHUR : KILIÇ EFSANESİ
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1639.mp4
+#EXTINF:-1,MAYIN
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1635.mp4
+#EXTINF:-1,Power Rangers
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1633.mp4
+#EXTINF:-1,Resident Evil: Vendetta
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1642.mp4
+#EXTINF:-1,SEYTAN TÜYÜ
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1634.mp4
+#EXTINF:-1,SIKIYSA YAKALA
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1641.mp4
+#EXTINF:-1,WARCRAFT
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1647.mp4
+#EXTINF:-1,WAR DOGS & VURGUNCULAR
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1410.mp4
+#EXTINF:-1,##### İMDB TOP 100 #####
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1588.m3u8
+#EXTINF:-1,ESARETİN BEDELİ & THE SHAWSHANK REDEMPTİON
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1389.mp4
+#EXTINF:-1,3 APTAL & 3 İDİOTS
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1400.mp4
+#EXTINF:-1,KÖSTEBEK & THE DEPARTED
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1391.mp4
+#EXTINF:-1,AKIL DEFTERİ & MEMENTO
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1390.mp4
+#EXTINF:-1,DÖVÜŞ KULÜBÜ & FİGHT CLUB
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1388.mp4
+#EXTINF:-1,BABA & THE GODFATHER
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1497.mp4
+#EXTINF:-1,BABA 2 & THE GODFATHER 2
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1500.mp4
+#EXTINF:-1,BABA 3& THE GODFATHER 3
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1595.mp4
+#EXTINF:-1,THE LORD OF THE RİNGS FELLOWSHİP OF THE RİNG SHİ& YÜZÜKLERİN EFENDİSİ : YÜZÜK KARDEŞLİĞİ
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1589.mp4
+#EXTINF:-1,THE LORD OF THE RİNGS:TWO TOWERS& YÜZÜKLERİN EFENDİSİ : İKİ KULE
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1590.mp4
+#EXTINF:-1,THE LORD OF THE RİNGS: RETURN OF THE KİNG& YÜZÜKLERİN EFENDİSİ : KRALIN DÖNÜŞÜ
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1591.mp4
+#EXTINF:-1,THE HOBBİT:AN UNEXPECTED JOURNEY&HOBBİT:BEKLENMEDİK YOLCULUK
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1592.mp4
+#EXTINF:-1,THE HOBBİT:DESOLATİON OF SMAUG & HOBBİT:SMAUG'UN ÇORAK TOPRAKLARI
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1593.mp4
+#EXTINF:-1,THE HOBBİT: BATTLE OF THE FİVE ARMİES&HOBBİT: 5 ORDUNUN SAVAŞI
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1594.mp4
+#EXTINF:-1,BAŞLANGIÇ & THE İNCEPTİON
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1598.mp4
+#EXTINF:-1,FORREST GUMP
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1596.mp4
+#EXTINF:-1,YEŞİL YOL & THE GREEN MİLE
+http://atlasiptv.org:8000/movie/Fq35WsZj6/I79Nw0i1vo/1597.mp4
