@@ -1,83 +1,449 @@
 #EXTM3U
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Agro Brasil TV
-http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Canal Futura
-http://srv3.zoeweb.tv:1935/z01-live/stream/livestream.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Canal Ricos
-http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/playlist.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",CANÇÃO NOVA [720p]
-http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",CANÇÃO NOVA [720p]
-http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",CBTV Internacional [1080p]
-https://na-all7.secdn.net/cbtv-channel/play/mp4:stream/chunklist_w1097631749.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",CLASSIQUE TV [480p]
-http://45.43.208.2:1935/classique/classique/live.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",CLASSIQUE TV [480p]
-http://stmv2.euroti.com.br:1935/classique/classique/playlist.m3u8?MEGAMAXIPTV
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",CLASSIQUE TV [480p]
-http://stmv2.srvstm.com/classique/classique/playlist.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",COTIA FILMES [PT][268p]
-http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",REDE FAMILIA
-http://srv9.zoeweb.tv:1935/zw901/smil:zw901.smil/playlist.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",REDE FAMÍLIA
-http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Rede Gospel (Brazil)
-http://media01.s12.com.br:1935/live/redegospel/Rede_Gospel.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",REDE GOSPEL
-http://media.igospel.com.br:1935/live/redegospel/waldo_paes.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Rede Meio Norte
-http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",REDE SECULO 21
-http://tvseculo21-lh.akamaihd.net:80/i/tvseculo_1@16110/master.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Rede Seculo 21
-https://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/index_1200_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",REDE TV RONDONIA 
-http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",RedeNew [720p]
-http://srv3.zoeweb.tv:1935/z474-live/aovivo/chunklist_w231520491.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",SBT [720p]
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1497612515_b216000_sleng.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",TV ALESP
-http://srv3.zoeweb.tv:1935/z93-live/stream/livestream.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",TV APARECIDA 2
-http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",TV CIDADE FARROUPILHA
-http://209.126.127.101:1935/tvcidade/tvcidade/live.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",TV CLIMA
-http://45.43.208.98:1935/tvcadm/tvcadm/live.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",TV CLIMA
-http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",TV Escola
-http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",TV Faap
-http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",TV FAAP
-http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",TV JUSTIÇA
-http://www.tvmpf.mpf.mp.br:1935/event549/event549.stream_720p/playlist.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",TV MCJ
-http://wse5.player.tv.br:1935/tvmcj/tvmcj/playlist.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",TV PANTANAL MS
-http://177.36.192.78:1935/tvpantanalms/tvpantanalms/playlist.m3u8?
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",TV SENADO
-http://tvmpf.mpf.mp.br:1935/event426/event426.stream_480p/playlist.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",TVE BAHIA
-http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",TVE BOA ESPERAN
-http://stmv2.srvstm.com/16692/16692/playlist.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",TVE RIO GRANDE DO SUL
-http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",TVE RS
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",TVE
-http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",WEB TV MINAS
-http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",Brazil 4 FTA [720p]
-http://media01.s12.com.br:1935/live/redegospel/livestream.m3u8
-#EXTINF:-1 group-title="Sport" tvg-id="" tvg-name="" tvg-logo="",All Sports Brasil [480p]
-http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
+#EXTINF:0,AXN
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/5675
+#EXTINF:0,BAND NEWS
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/5677
+#EXTINF:0,CINEMAX
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/5679
+#EXTINF:0,DISCOVERY
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/5681
+#EXTINF:0,FOX Sports 1
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/5322
+#EXTINF:0,FOX
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/5687
+#EXTINF:0,ESPN plus
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/5326
+#EXTINF:0,ESPN HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/5327
+#EXTINF:0,ANIMAL PLANET
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/5674
+#EXTINF:0,REDE TV
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/5290
+#EXTINF:0,HBO
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/5685
+#EXTINF:0,HBO 2
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/5686
+#EXTINF:0,Fox Sports 2
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/5320
+#EXTINF:0,BAND SPORTS
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/5678
+#EXTINF:0,SPORT TV 2
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/5318
+#EXTINF:0,BAND
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/5676
+#EXTINF:0,TV Diario Brasil
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/5311
+#EXTINF:0,TLC
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/5694
+#EXTINF:0,TNT
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/5695
+#EXTINF:0,SPORT TV 3
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/5317
+#EXTINF:0,A&E
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/5673
+#EXTINF:0,TV Globo Premium
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/5310
+#EXTINF:0,TV Globo
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/5309
+#EXTINF:0,TV Record
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/5308
+#EXTINF:0,Brazil 2
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/5277
+#EXTINF:0,TV Urbana Brasil
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/5283
+#EXTINF:0,Conexaobr Tv
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/5302
+#EXTINF:0,TVE HD 720 Brasil
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/5281
+#EXTINF:0,WARNER
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/5697
+#EXTINF:0,ESPN Brasil
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/5328
+#EXTINF:0,Aparceida
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/8084
+#EXTINF:0,Arte 1
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/8056
+#EXTINF:0,BIS
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/8055
+#EXTINF:0,Boomerang
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7368
+#EXTINF:0,Canal Brasil
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7367
+#EXTINF:0,Canal DO TV
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/8063
+#EXTINF:0,CANAL ESCOLA
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7923
+#EXTINF:0,Canal Sony
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7366
+#EXTINF:0,CanÁao Nova
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/8083
+#EXTINF:0,Cartoon Network
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/8062
+#EXTINF:0,Combate
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7302
+#EXTINF:0,Discovery Civilization
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7364
+#EXTINF:0,Discovery Home Health
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/8074
+#EXTINF:0,Discovery Science
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7363
+#EXTINF:0,Discovery Turbo
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7362
+#EXTINF:0,Disney
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7361
+#EXTINF:0,Disney Jr
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7360
+#EXTINF:0,Disney XD Brasil
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/8061
+#EXTINF:0,E!
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7359
+#EXTINF:0,E! MAXX 2
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/8060
+#EXTINF:0,Eimax 1
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7929
+#EXTINF:0,ESPN
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7357
+#EXTINF:0,Fish TV
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7924
+#EXTINF:0,Fox Life
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7356
+#EXTINF:0,FUTURA
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/8059
+#EXTINF:0,FX
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7925
+#EXTINF:0,GLOBAL TV
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/8072
+#EXTINF:0,Globo News
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7303
+#EXTINF:0,Globo Premium
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7355
+#EXTINF:0,Globo SP
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7842
+#EXTINF:0,Gloob
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7353
+#EXTINF:0,GNT
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7352
+#EXTINF:0,H2
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7351
+#EXTINF:0,HBO Family
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7350
+#EXTINF:0,HBO Plus
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7349
+#EXTINF:0,HBO Signature
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7348
+#EXTINF:0,InvestigaÁ„o Discovery
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7347
+#EXTINF:0,Mais Globosat HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7921
+#EXTINF:0,MANA SAT
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/8081
+#EXTINF:0,Max
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7346
+#EXTINF:0,Max Prime
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7345
+#EXTINF:0,Max Up
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7344
+#EXTINF:0,MegaPix
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/8054
+#EXTINF:0,Multishow
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7343
+#EXTINF:0,National Geographic
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7342
+#EXTINF:0,Nick
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7341
+#EXTINF:0,Nick Jr
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/8071
+#EXTINF:0,Novo Tempo
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/8052
+#EXTINF:0,OFF
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/8051
+#EXTINF:0,Paramount
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7340
+#EXTINF:0,PFC
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7339
+#EXTINF:0,Premiere 2
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7338
+#EXTINF:0,Premiere 3
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7337
+#EXTINF:0,Premiere 4
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7336
+#EXTINF:0,Premiere 5
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7335
+#EXTINF:0,Premiere 9
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7334
+#EXTINF:0,Premiere Clubes
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7333
+#EXTINF:0,Prime Box Brasil
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7332
+#EXTINF:0,Proyecto 40
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/8079
+#EXTINF:0,Record News
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7926
+#EXTINF:0,REDE RECORD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7927
+#EXTINF:0,SBT
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/8070
+#EXTINF:0,SBT Brasil
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7928
+#EXTINF:0,Space Brasil
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/8058
+#EXTINF:0,Sport TV
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7331
+#EXTINF:0,Sport TV2
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7330
+#EXTINF:0,Sport TV3
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7329
+#EXTINF:0,Studio Universal
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7922
+#EXTINF:0,Syfy
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/8050
+#EXTINF:0,TBS Brasil
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/8066
+#EXTINF:0,TC Action
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7326
+#EXTINF:0,TC Cult
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7325
+#EXTINF:0,TC Fun
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7324
+#EXTINF:0,TC Pipoca
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7323
+#EXTINF:0,TC Premium
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7322
+#EXTINF:0,TC Touch
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7321
+#EXTINF:0,TCM
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7320
+#EXTINF:0,History Channel
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7319
+#EXTINF:0,TNT Series
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7318
+#EXTINF:0,Tooncast
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/8065
+#EXTINF:0,TV Brasil
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7317
+#EXTINF:0,TV BRASIL CENTRAL
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/8088
+#EXTINF:0,TV Diario
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/8078
+#EXTINF:0,Tv Escola
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/8076
+#EXTINF:0,TV GAZETA HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/8069
+#EXTINF:0,TV GERAL
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/8067
+#EXTINF:0,TVI
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/8068
+#EXTINF:0,Universal Brasil
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/8064
+#EXTINF:0,Woohoo Brasil
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/8057
+#EXTINF:0,Animal Planet HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17071
+#EXTINF:0,AXN HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17070
+#EXTINF:0,Combate HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17069
+#EXTINF:0,Discovery Channel HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17068
+#EXTINF:0,Discovery Home & Health HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17067
+#EXTINF:0,Discovery Theater HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17066
+#EXTINF:0,Discovery Turbo HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17065
+#EXTINF:0,Discovery World HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17064
+#EXTINF:0,ESPN  HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17063
+#EXTINF:0,ESPN Brasil HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17062
+#EXTINF:0,Esporte Interativo 2 HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17061
+#EXTINF:0,Esporte Interativo HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17059
+#EXTINF:0,FOX HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17058
+#EXTINF:0,FOX Life HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17057
+#EXTINF:0,FOX Premium 1 HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17056
+#EXTINF:0,FOX Premium 2 HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17055
+#EXTINF:0,Fox Sport HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17054
+#EXTINF:0,FX HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17053
+#EXTINF:0,Globo RJ HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17052
+#EXTINF:0,GNT HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17051
+#EXTINF:0,H2 HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17050
+#EXTINF:0,HBO 2 HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17049
+#EXTINF:0,HBO Family HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17048
+#EXTINF:0,HBO HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17047
+#EXTINF:0,HBO Plus HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17046
+#EXTINF:0,HBO Signature HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17045
+#EXTINF:0,History Channel HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17044
+#EXTINF:0,ID - InvestigaÁ„o Discovery HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17043
+#EXTINF:0,Megapix HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17042
+#EXTINF:0,OFF HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17041
+#EXTINF:0,Paramount HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17040
+#EXTINF:0,Premiere 2 HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17039
+#EXTINF:0,Premiere 3 HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17038
+#EXTINF:0,Premiere 4 HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17037
+#EXTINF:0,Premiere 5 HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17036
+#EXTINF:0,Premiere Clubes HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17035
+#EXTINF:0,Record HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17034
+#EXTINF:0,SBT HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17033
+#EXTINF:0,Space HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17032
+#EXTINF:0,Sport TV 2 HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17031
+#EXTINF:0,Sport TV 3 HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17030
+#EXTINF:0,Sport TV HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17029
+#EXTINF:0,TBS HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17028
+#EXTINF:0,Telecine Action HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17027
+#EXTINF:0,Telecine Fun HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17026
+#EXTINF:0,Telecine Pipoca HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17025
+#EXTINF:0,Telecine Premium HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17024
+#EXTINF:0,TNT HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17023
+#EXTINF:0,TNT SÈries HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17022
+#EXTINF:0,Universal Channels HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17021
+#EXTINF:0,Warner Channel HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17020
+#EXTINF:0,Baby TV
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17535
+#EXTINF:0,Comedy Central
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17534
+#EXTINF:0,Discovery H&H
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17532
+#EXTINF:0,Discovery Kids
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17533
+#EXTINF:0,Disney Channel
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17531
+#EXTINF:0,Disney Junior
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17530
+#EXTINF:0,Disney XD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17529
+#EXTINF:0,Food Network
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17527
+#EXTINF:0,HBO Plus e
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17526
+#EXTINF:0,I-SAT
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17525
+#EXTINF:0,Lifetime
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17524
+#EXTINF:0,Mais Globosat
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17523
+#EXTINF:0,Nickelodeon
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17519
+#EXTINF:0,NovoTempo
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17518
+#EXTINF:0,Premiere 6
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17517
+#EXTINF:0,Premiere 7
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17516
+#EXTINF:0,Premiere 8
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17515
+#EXTINF:0,Prime Box Brazil
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17514
+#EXTINF:0,RBS TV Porto Alegre
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17512
+#EXTINF:0,Record sp
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17511
+#EXTINF:0,Rede Brasil
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17510
+#EXTINF:0,Universal Channel
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17498
+#EXTINF:0,Warner Channel
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17497
+#EXTINF:0,Woohoo
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17496
+#EXTINF:0,OfFHD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/18918
+#EXTINF:0,A&E FHD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/29083
+#EXTINF:0,AXN FHD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/29082
+#EXTINF:0,Canal OFF FHD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/29081
+#EXTINF:0,Discovery Kids HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/29080
+#EXTINF:0,Disney JR FHD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/29079
+#EXTINF:0,Espn Brasil FHD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/29078
+#EXTINF:0,Esporte Interativo FHD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/29077
+#EXTINF:0,Fox FHD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/29076
+#EXTINF:0,Globo Nordeste FHD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/29075
+#EXTINF:0,HBO FHD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/29074
+#EXTINF:0,History FHD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/29073
+#EXTINF:0,Multishow FHD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/29072
+#EXTINF:0,Nat Geo FHD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/29071
+#EXTINF:0,Nova Nordeste FHD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/29070
+#EXTINF:0,Premiere Clubes FHD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/29069
+#EXTINF:0,Record NORDESTE FHD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/29068
+#EXTINF:0,SBT NORDESTE FHD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/29067
+#EXTINF:0,Space FHD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/29066
+#EXTINF:0,SporTV FHD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/29065
+#EXTINF:0,Studio Universal FHD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/29064
+#EXTINF:0,SyFy FHD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/29063
+#EXTINF:0,AMC FHD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/31549
+#EXTINF:0,COMBATE FHD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/31905
+#EXTINF:0,FOX LIFE FHD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/31901
+#EXTINF:0,RECORD FHD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/31885
+#EXTINF:0,TELECINE ACTION FHD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/31880
+#EXTINF:0,TELECINE FUN FHD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/31879
+#EXTINF:0,TELECINE PIPOCA  FHD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/31878
+#EXTINF:0,TELECINE PREMIUM FHD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/31877
