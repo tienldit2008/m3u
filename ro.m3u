@@ -1,19 +1,139 @@
 #EXTM3U
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",ANTENA 1
-http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Bit TV (ROM)
-http://46.214.146.46:81/tv2/playlist.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Bucuresti TV
-http://77.36.61.147/hls/channel3/bitrate4.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",Credo TV [720p]
-http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",UTV
-http://81.196.0.126:80/utvedge/utvlive/index.m3u8
-#EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-logo="",DIGI 24 HD [576p]
-http://81.196.0.126:80/digi24edge/digi24hdhqhls/index.m3u8
-#EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-logo="",DIGI 24 HD [576p]
-http://82.76.40.76/digi24edge/digi24hdhqhls/index.m3u8
-#EXTINF:-1 group-title="Radio" tvg-id="" tvg-name="" tvg-logo="",PROFM DANCEFM
-http://edge126.rdsnet.ro/profm/dancefm/index.m3u8
-#EXTINF:-1 group-title="Radio" tvg-id="" tvg-name="" tvg-logo="",PROFM
-http://edge126.rdsnet.ro/profm/profm/index.m3u8
+#EXTINF:-1,VIASAT NATURE
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4485.m3u8
+#EXTINF:-1,VIASAT EXPLORER
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4486.m3u8
+#EXTINF:-1,U TV
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4570.m3u8
+#EXTINF:-1,TVR 2
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4572.m3u8
+#EXTINF:-1,TVR 1
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4569.m3u8
+#EXTINF:-1,TV1000
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4573.m3u8
+#EXTINF:-1,TV Kino
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4547.m3u8
+#EXTINF:-1,TV 1000
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4487.m3u8
+#EXTINF:-1,Trinitas
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4574.m3u8
+#EXTINF:-1,TNT
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4575.m3u8
+#EXTINF:-1,TeleMoldovaPlus
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4550.m3u8
+#EXTINF:-1,Taraf Tv
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4576.m3u8
+#EXTINF:-1,Sport.ro
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4577.m3u8
+#EXTINF:-1,Romania Tv
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4578.m3u8
+#EXTINF:-1,Realtaea TV
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4557.m3u8
+#EXTINF:-1,Realitatea Tv
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4579.m3u8
+#EXTINF:-1,ProTV
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4580.m3u8
+#EXTINF:-1,Pro Cinema
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4581.m3u8
+#EXTINF:-1,Prima Love
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4558.m3u8
+#EXTINF:-1,prima cool
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4559.m3u8
+#EXTINF:-1,Prima
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4560.m3u8
+#EXTINF:-1,Paramount Channel
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4582.m3u8
+#EXTINF:-1,Noe
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4562.m3u8
+#EXTINF:-1,Neptun
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4601.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4488.m3u8
+#EXTINF:-1,NATIONAL Geo wild
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4489.m3u8
+#EXTINF:-1,NatGeographic
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4602.m3u8
+#EXTINF:-1,MUSIC CHANNEL
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4583.m3u8
+#EXTINF:-1,Music Channe hu
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4584.m3u8
+#EXTINF:-1,Minimax
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4603.m3u8
+#EXTINF:-1,Megamax
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4604.m3u8
+#EXTINF:-1,Look Plus
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4561.m3u8
+#EXTINF:-1,Kiss
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4605.m3u8
+#EXTINF:-1,Kanal D
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4585.m3u8
+#EXTINF:-1,Hit Music Channel
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4586.m3u8
+#EXTINF:-1,History
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4606.m3u8
+#EXTINF:-1,HISTORI CHANNEL
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4490.m3u8
+#EXTINF:-1,HBO Romania
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4587.m3u8
+#EXTINF:-1,HBO 3
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4491.m3u8
+#EXTINF:-1,HBO 2
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4492.m3u8
+#EXTINF:-1,Happy
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4607.m3u8
+#EXTINF:-1,FISHING & HUNTING
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4493.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4494.m3u8
+#EXTINF:-1,EUROSPORT 1
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4495.m3u8
+#EXTINF:-1,Etno Tv
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4588.m3u8
+#EXTINF:-1,DISNEY JUNIOR
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4496.m3u8
+#EXTINF:-1,Digi24
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4610.m3u8
+#EXTINF:-1,DIGI WORLD
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4497.m3u8
+#EXTINF:-1,Digi Sport 4
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4484.m3u8
+#EXTINF:-1,Digi Sport 3
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4483.m3u8
+#EXTINF:-1,Digi Sport 2
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4482.m3u8
+#EXTINF:-1,Digi Sport 1
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4481.m3u8
+#EXTINF:-1,Digi Life
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4609.m3u8
+#EXTINF:-1,DIGI FILM
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4498.m3u8
+#EXTINF:-1,DIGI ANIMAL WORLD
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4589.m3u8
+#EXTINF:-1,DIGI 24 CRAIOVA
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4591.m3u8
+#EXTINF:-1,DIGI 24
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4590.m3u8
+#EXTINF:-1,CINEMAX 2
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4499.m3u8
+#EXTINF:-1,B1 TV
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4592.m3u8
+#EXTINF:-1,B1
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4611.m3u8
+#EXTINF:-1,AXN WHITE
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4593.m3u8
+#EXTINF:-1,AXN BLACK
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4594.m3u8
+#EXTINF:-1,AXN
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4595.m3u8
+#EXTINF:-1,ANTENA STARS
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4596.m3u8
+#EXTINF:-1,ANTENA 3
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4597.m3u8
+#EXTINF:-1,Antena 1
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4598.m3u8
+#EXTINF:-1,AGRO TV
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4599.m3u8
+#EXTINF:-1,ACASA TV
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/4600.m3u8
+#EXTINF:-1,MegaMax-HD
+http://premium-iptv.link:6969/live/master.280/4zyxoHhAVw/3193.m3u8
