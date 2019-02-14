@@ -1,565 +1,927 @@
 #EXTM3U
-#EXTINF:-1,MBC 2
-http://tv.teledunet.com:25461/live/free/free/74.m3u8
-#EXTINF:-1,Teledunet TV
-http://tv.teledunet.com:25461/live/free/free/1.m3u8
-#EXTINF:-1,Al Jazeera Channel
-http://tv.teledunet.com:25461/live/free/free/33.m3u8
-#EXTINF:-1,Elhiwar Ettounsi TV
-http://tv.teledunet.com:25461/live/free/free/49.m3u8
-#EXTINF:-1,Atessia TV
-http://tv.teledunet.com:25461/live/free/free/51.m3u8
-#EXTINF:-1,Rotana Drama
-http://tv.teledunet.com:25461/live/free/free/83.m3u8
-#EXTINF:-1,Rotana Cinema
-http://tv.teledunet.com:25461/live/free/free/84.m3u8
-#EXTINF:-1,Rotana Classic
-http://tv.teledunet.com:25461/live/free/free/85.m3u8
-
-#EXTINF:-1,BEIN SPORTS 1
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD1.m3u8
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-#EXTINF:-1,BEIN SPORTS 2
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD2.m3u8
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-#EXTINF:-1,BEIN SPORTS 3
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD3.m3u8
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-#EXTINF:-1,BEIN SPORTS 4
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD4.m3u8
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-#EXTINF:-1,BEIN SPORTS 5
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD5.m3u8
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-#EXTINF:-1,BEIN SPORTS 6
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD6.m3u8
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-#EXTINF:-1,BEIN SPORTS 7
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD7.m3u8
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-#EXTINF:-1,BEIN SPORTS 8
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD8.m3u8
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-#EXTINF:-1,BEIN SPORTS 9
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD9.m3u8
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-#EXTINF:-1,BEIN SPORTS 10
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD10.m3u8
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-#EXTINF:-1,BEIN SPORTS 11
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD11.m3u8
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-#EXTINF:-1,BEIN SPORTS 12
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD12.m3u8
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-#EXTINF:-1,BEIN SPORTS 13
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD13.m3u8
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-#EXTINF:-1,BEIN SPORTS 14
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD14.m3u8
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-#EXTINF:-1,BEIN SPORTS 15
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD15.m3u8
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-#EXTINF:-1,BEIN SPORTS 16
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD16.m3u8
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-#EXTINF:-1,BEIN SPORTS 17
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD17.m3u8
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-#EXTINF:-1,BEIN SPORTS NBA
-http://95.170.215.120/hls/m3u8/Bein-Sport-NBA.m3u8
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-#EXTINF:-1,AD-Sport-HD4
-http://95.170.215.120/hls/m3u8/AD-Sport-HD4.m3u8
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-#EXTINF:-1,AD-Sport-HD3
-http://95.170.215.118/hls/m3u8/AD-Sport-HD3.m3u8
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-#EXTINF:-1,Tivibu-sport-1
-http://95.170.215.120/hls/m3u8/Tivibu-sport-1.m3u8
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-#EXTINF:-1,Tivibu-sport-2
-http://95.170.215.120/hls/m3u8/Tivibu-sport-2.m3u8
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-#EXTINF:-1,Tivibu-sport-3
-http://95.170.215.120/hls/m3u8/Tivibu-sport-3.m3u8
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-#EXTINF:-1,Tivibu-sport-4
-http://95.170.215.120/hls/m3u8/Tivibu-sport-4.m3u8
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-#EXTINF:-1,Aso-Sport
-http://95.170.215.118/hls/m3u8/Aso-Sport.m3u8
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-#EXTINF:-1,sport2
-http://tv.utv-live.com:1935/2020/sport2/playlist.m3u8
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-#EXTINF:-1,sport1
-http://tv.utv-live.com:1935/2020/sport1/playlist.m3u8
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-#EXTINF:-1,sport3
-http://tv.utv-live.com:1935/2020/sport3/playlist.m3u8
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-#EXTINF:-1,Alfajertv
-http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/chunks.m3u8
-#EXTVLCOPT:http-user-agent=tvkeyfi.apqnf/9.1 (Linux;Android 4.4.2) ExoPlayerLib/2.8.4
-#EXTINF:-1,TR Bein_Sports1
-http://185-8-178-138.livesports24.online/bsporttur1.m3u8
-#EXTVLCOPT:http-user-agent=tvkeyfi.apqnf/9.1 (Linux;Android 4.4.2) ExoPlayerLib/2.8.4
-#EXTINF:-1,TR Bein_Sports2
-http://185-8-178-139.livesports24.online/turbein2.m3u8
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-#EXTINF:-1,Bein-Sport-News
-http://95.170.215.120/hls/m3u8/Bein-Sport-News.m3u8
-#EXTVLCOPT:http-user-agent=mode
-#EXTINF:-1,BeinMax1HD
-http://sport.genius-stream.com/GeniusStreamAPK/BeinMax1HD.m3u8
-
-#EXTINF:-1,AR:BEINSPORTS-1 HD
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3221
-#EXTINF:-1,Bein 1
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3349
-#EXTINF:-1,Bein -1
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3342
-#EXTINF:-1,Bein 1*
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3341
-#EXTINF:-1,Bein 1**
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3340
-#EXTINF:-1,AR:BEINSPORTS-2 HD
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3220
-#EXTINF:-1,AR:BEINSPORTS-3 HD
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3219
-#EXTINF:-1,AR:BEINSPORTS-4 HD
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3218
-#EXTINF:-1,AR:BEINSPORTS-5 HD
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3217
-#EXTINF:-1,AR:BEINSPORTS-6 HD
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3216
-#EXTINF:-1,AR:BEINSPORTS-7 HD
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3215
-#EXTINF:-1,AR:BEINSPORTS-8 HD
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3214
-#EXTINF:-1,Bein 2
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3348
-#EXTINF:-1,Bein 3
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3347
-#EXTINF:-1,Bein 4
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3346
-#EXTINF:-1,Bein 5
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3345
-#EXTINF:-1,Bein 6
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3344
-#EXTINF:-1,Bein 7
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3343
-#EXTINF:-1,http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/488
-#EXTINF:-1,AR:BEINSPORTS-1 SD
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3237
-#EXTINF:-1,AR:BEINSPORTS-2 SD
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3236
-#EXTINF:-1,AR:BEINSPORTS-3 SD
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3235
-#EXTINF:-1,AR:BEINSPORTS-4 SD
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3234
-#EXTINF:-1,AR:BEINSPORTS-5 SD
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3233
-#EXTINF:-1,AR:BEINSPORTS-6 SD
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3232
-#EXTINF:-1,AR:BEINSPORTS-7 SD
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3231
-#EXTINF:-1,AR:BEINSPORTS-8 SD
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3230
-#EXTINF:-1,http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3380
-#EXTINF:-1,Sky-Sports-1HD
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3375
-#EXTINF:-1,Sky-Sports-2HD
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3376
-#EXTINF:-1,Sky-Sports-3HD
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3377
-#EXTINF:-1,Sky-Sports-4HD
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3378
-#EXTINF:-1,Sky-Sports-5HD
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3379
-#EXTINF:-1,http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/448
-#EXTINF:-1,AlfajertvHD1
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3357
-#EXTINF:-1,AlfajertvHD3
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3358
-#EXTINF:-1,AlfajertvHD4
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3359
-#EXTINF:-1,AlfajertvHD5
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3360
-#EXTINF:-1,Aso-Sport
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3327
-#EXTINF:-1,Sport1
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3330
-#EXTINF:-1,Sport2
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3331
-#EXTINF:-1,Sport3
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3361
-#EXTINF:-1,Astera-Sport
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3332
-#EXTINF:-1,Ajyal TV Mada*
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/451
-#EXTINF:-1,Almahed*
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/452
-#EXTINF:-1,AlSalam TV*
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/457
-#EXTINF:-1,Bethlehem TV*
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/449
-#EXTINF:-1,Byaban Sports*
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/453
-#EXTINF:-1,Falcon-Eye-1*
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/456
-#EXTINF:-1,Falcon-Eye-2*
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/455
-#EXTINF:-1,Falcon-Family*
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/454
-#EXTINF:-1,Watar1*
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/450
-#EXTINF:-1,ON SPORT
-http://185.27.116.54:1935/livestream/sno/chunklist_w1177349334.m3u8
-#EXTINF:-1,AD-Sport-HD1
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3364
-#EXTINF:-1,AD-Sport-HD2
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3365
-#EXTINF:-1,AD-Sport-HD3
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3366
-#EXTINF:-1,AD-Sport-HD4
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3367
-#EXTINF:-1,http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/483
-#EXTINF:-1,AR-MBC1
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/482
-#EXTINF:-1,AR-MBC 2
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/481
-#EXTINF:-1,AR-MBC3
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/480
-#EXTINF:-1,AR-MBC4
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/479
-#EXTINF:-1,AR-MBCDrama
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/474
-#EXTINF:-1,AR-MBCAction
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/478
-#EXTINF:-1,AR-MBCMax
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/473
-#EXTINF:-1,B4u Aflam
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/476
-#EXTINF:-1,MBC DRAMA+
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/475
-#EXTINF:-1,AR-MBC Bollywood
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/477
-#EXTINF:-1,http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3251
-#EXTINF:-1,OSN Musalsalat
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3362
-#EXTINF:-1,Cartoon Network
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3363
-#EXTINF:-1,MY-FILM-BOX-HD
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3329
-#EXTINF:-1,My-Cinema-HD
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3373
-#EXTINF:-1,Star-Movies-HD
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3372
-#EXTINF:-1,Star-World-HD
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3374
-#EXTINF:-1,AD_Nat_Geo
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3315
-#EXTINF:-1,ART-AFLAM-1
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3314
-#EXTINF:-1,ART-AFLAM-2
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3313
-#EXTINF:-1,ART-CINEMA
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3312
-#EXTINF:-1,OSN-MOVIES-AC
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3318
-#EXTINF:-1,OSN-Movies-First
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3317
-#EXTINF:-1,OSN-MOVIES-HD
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3320
-#EXTINF:-1,OSN-Movies-Kids
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3311
-#EXTINF:-1,OSN-Yahala-Cinem
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3319
-#EXTINF:-1,OSN-YHALA-HD
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3316
-#EXTINF:-1,Bein Drama
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3353
-#EXTINF:-1,Bein Series
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3354
-#EXTINF:-1,TEST
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3355
-#EXTINF:-1,http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/120
-#EXTINF:-1,Alarabiya
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/119
-#EXTINF:-1,Alarabiya Alhadath
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/118
-#EXTINF:-1,Alaraby
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/111
-#EXTINF:-1,Aljazeera News
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/117
-#EXTINF:-1,Ann
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/112
-#EXTINF:-1,BBC ARABIC
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/115
-#EXTINF:-1,Cnbc arabia
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/113
-#EXTINF:-1,RT Arabic
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/116
-#EXTINF:-1,RT Arabic old
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/110
-#EXTINF:-1,Sky news arabia
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/114
-#EXTINF:-1,http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/109
-#EXTINF:-1,Ajyal
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/107
-#EXTINF:-1,Nour kids
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/101
-#EXTINF:-1,Spacetoon
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/106
-#EXTINF:-1,Toyor aljanah
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/108
-#EXTINF:-1,http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/3310
-#EXTINF:-1,Suriya tv*
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/35
-#EXTINF:-1,Syria 1 HD*
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/38
-#EXTINF:-1,Syria Drama HD*
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/36
-#EXTINF:-1,Syria EDU*
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/32
-#EXTINF:-1,Syria news HD*
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/37
-#EXTINF:-1,Alminber*
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/24
-#EXTINF:-1,HALAB TODAY*
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/26
-#EXTINF:-1,LANA SYRIA*
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/34
-#EXTINF:-1,NOOR ALSHAM HD*
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/31
-#EXTINF:-1,ORIENT NEWS*
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/25
-#EXTINF:-1,Sama tv*
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/29
-#EXTINF:-1,Ugarit*
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/33
-#EXTINF:-1,http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/71
-#EXTINF:-1,Future
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/63
-#EXTINF:-1,Future backup
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/62
-#EXTINF:-1,LBC HD
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/66
-#EXTINF:-1,LDC HD
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/67
-#EXTINF:-1,NBN
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/59
-#EXTINF:-1,New TELE LEBANON
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/70
-#EXTINF:-1,OTV
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/60
-#EXTINF:-1,http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/141
-#EXTINF:-1,CBC HD
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/135
-#EXTINF:-1,Cbc1
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/140
-#EXTINF:-1,Cbcdrama
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/139
-#EXTINF:-1,Cbcsofra
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/138
-#EXTINF:-1,CBCSOFRA HD
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/134
-#EXTINF:-1,Dmc
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/137
-#EXTINF:-1,Dmcdrama
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/136
-#EXTINF:-1,SADA ELBALAD HD
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/133
-#EXTINF:-1,ZEE AFLAM HD
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/124
-#EXTINF:-1,Zee alwan
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/121
-#EXTINF:-1,ZEE ALWAN HD
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/123
-#EXTINF:-1,Zeeaflam
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/122
-#EXTINF:-1,http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/100
-#EXTINF:-1,AL Etejah
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/87
-#EXTINF:-1,AL Rasheed TV
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/86
-#EXTINF:-1,AL Rasheed TV backup
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/85
-#EXTINF:-1,Alahad
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/75
-#EXTINF:-1,Alfaloja
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/98
-#EXTINF:-1,Alforat
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/74
-#EXTINF:-1,Alhura
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/72
-#EXTINF:-1,Alqanat
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/90
-#EXTINF:-1,Sumaria
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/99
-#EXTINF:-1,ALSHARQIA HD
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/94
-#EXTINF:-1,AlSharqiya sd
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/92
-#EXTINF:-1,AlsharqiyaNews sd
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/91
-#EXTINF:-1,ALSUMARIA HD
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/95
-#EXTINF:-1,Altaghier
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/89
-#EXTINF:-1,Anb iraq
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/76
-#EXTINF:-1,Asia TV
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/79
-#EXTINF:-1,Baghdad
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/84
-#EXTINF:-1,Dejlah
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/88
-#EXTINF:-1,DIJLAH HD
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/96
-#EXTINF:-1,Hadath Iraq TV
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/77
-#EXTINF:-1,HOUNA BAGHDAD HD
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/97
-#EXTINF:-1,Samaraa
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/83
-#EXTINF:-1,http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/162
-#EXTINF:-1,Abudhabi
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/153
-#EXTINF:-1,Abudhabi drama
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/149
-#EXTINF:-1,Abudhabi drama HD
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/148
-#EXTINF:-1,Abudhabi emarat
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/151
-#EXTINF:-1,Abudhabi emarat HD
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/150
-#EXTINF:-1,Abudhabi HD
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/152
-#EXTINF:-1,Alan
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/155
-#EXTINF:-1,Aldhafra
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/154
-#EXTINF:-1,Alsharqa
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/145
-#EXTINF:-1,Alsharqiya from kalba
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/144
-#EXTINF:-1,Alwoustatv
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/142
-#EXTINF:-1,Dubai one HD
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/160
-#EXTINF:-1,Dubai one sd
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/159
-#EXTINF:-1,Dubai TV
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/161
-#EXTINF:-1,Dubai zaman
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/157
-#EXTINF:-1,Natgeo abudhabi
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/147
-#EXTINF:-1,Natgeo abudhabi HD
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/146
-#EXTINF:-1,Noor dubai
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/156
-#EXTINF:-1,Sama Dubai
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/158
-#EXTINF:-1,Sharqa sport
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/143
-#EXTINF:-1,http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/172
-#EXTINF:-1,ALDAWAA alshafy
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/164
-#EXTINF:-1,ALordon Alyoom
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/168
-#EXTINF:-1,Amn
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/167
-#EXTINF:-1,Jordan lights
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/165
-#EXTINF:-1,Jordan sport
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/170
-#EXTINF:-1,Jordan Tv
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/171
-#EXTINF:-1,Kife
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/163
-#EXTINF:-1,Manaseer
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/166
-#EXTINF:-1,Roya
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/169
-#EXTINF:-1,http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/182
-#EXTINF:-1,2M HD
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/180
-#EXTINF:-1,Al aoula laayoune
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/178
-#EXTINF:-1,Al maghribia
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/175
-#EXTINF:-1,Aloula
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/179
-#EXTINF:-1,Arriadia
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/177
-#EXTINF:-1,Assadissa
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/174
-#EXTINF:-1,Athaqafia 4
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/176
-#EXTINF:-1,tamazight tv8
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/173
-#EXTINF:-1,http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/191
-#EXTINF:-1,ALRAI
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/183
-#EXTINF:-1,Ktv 2
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/189
-#EXTINF:-1,Ktv almajlis
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/186
-#EXTINF:-1,Ktv arabe
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/187
-#EXTINF:-1,Ktv plus
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/185
-#EXTINF:-1,Ktv sports plus
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/184
-#EXTINF:-1,Ktvethraalive
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/188
-#EXTINF:-1,Kuwait1
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/190
-#EXTINF:-1,http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/196
-#EXTINF:-1,Alnabaa
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/194
-#EXTINF:-1,Altanasuh
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/193
-#EXTINF:-1,Libya 218 tv
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/192
-#EXTINF:-1,Libya news
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/195
-#EXTINF:-1,http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/205
-#EXTINF:-1,Yemen
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/204
-#EXTINF:-1,Almasira TV
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/199
-#EXTINF:-1,Belqees TV
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/202
-#EXTINF:-1,Hadramout
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/197
-#EXTINF:-1,Rushd
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/203
-#EXTINF:-1,Sanaa
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/201
-#EXTINF:-1,Shabab Yemen
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/198
-#EXTINF:-1,Suhail
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/200
-#EXTINF:-1,http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/214
-#EXTINF:-1,Afriqia1
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/206
-#EXTINF:-1,Afriqia2
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/207
-#EXTINF:-1,Afriqia3
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/208
-#EXTINF:-1,Afriqia4
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/209
-#EXTINF:-1,Alshorooq sudan
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/213
-#EXTINF:-1,Sudan tv
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/211
-#EXTINF:-1,Sudani24
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/212
-#EXTINF:-1,Tayba
-http://iptv-janberyan.com:25461/janberyan12022019/9874022027744/210
+#EXTINF:-1,Quran Al Kareem HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/17639
+#EXTINF:-1,Ksa Sports 1 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/20390
+#EXTINF:-1,Ksa Sports 2 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/20389
+#EXTINF:-1,BeinSports1
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/6616
+#EXTINF:-1,BeinSports2
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/6617
+#EXTINF:-1,BeinSports3
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/6618
+#EXTINF:-1,BeinSports4
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/6619
+#EXTINF:-1,BeinSports5
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/6620
+#EXTINF:-1,BeinSports6
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/6621
+#EXTINF:-1,BeinSports7
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/6622
+#EXTINF:-1,BeinSports8
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/6623
+#EXTINF:-1,BeinSports9
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/7338
+#EXTINF:-1,Beinsport 10
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/7359
+#EXTINF:-1,Beinsport 11
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/7342
+#EXTINF:-1,Beinsport 12
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/7343
+#EXTINF:-1,Beinsport 13
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/7344
+#EXTINF:-1,BeinSport HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/10559
+#EXTINF:-1,Bein News HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/8399
+#EXTINF:-1,Bein Movies HD1
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/7467
+#EXTINF:-1,Bein Movies HD2
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/7466
+#EXTINF:-1,Bein Movies HD3
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/7465
+#EXTINF:-1,Bein Movies HD4
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/7464
+#EXTINF:-1,BEIN Drama HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/12977
+#EXTINF:-1,BEIN SERIE 2 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/12978
+#EXTINF:-1,BEIN GULLI.
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/7634
+#EXTINF:-1,BEIN OUTDOOR.HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/8383
+#EXTINF:-1,BEIN DISCOVERY.LIFE HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/8385
+#EXTINF:-1,BEIN GOURMET HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/8380
+#EXTINF:-1,BEIN JEEM HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/8384
+#EXTINF:-1,BEIN NAT GEO PEAPLE
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/8382
+#EXTINF:-1,Bein BeJunior
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/7632
+#EXTINF:-1,Bein TRAVEL HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/7631
+#EXTINF:-1,Bein SERIE 1 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/7665
+#EXTINF:-1,Bein Discovery Kids HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/7468
+#EXTINF:-1,Bein-Baraem-HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/4834
+#EXTINF:-1,BEIN NAT GEO
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/7463
+#EXTINF:-1,BEIN Nat Geo Wild
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/7462
+#EXTINF:-1,BEIN FATAFEAT HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/8381
+#EXTINF:-1,BEIN AMC HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/8395
+#EXTINF:-1,Bein Cartoon Network HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/8393
+#EXTINF:-1,BEIN FOX  HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/8390
+#EXTINF:-1,Bein Boomerang HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/8394
+#EXTINF:-1,Bein Discovery Max HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/8397
+#EXTINF:-1,Bein Discovery Turbo Xtra
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/8396
+#EXTINF:-1,Bein Dream Works HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/8392
+#EXTINF:-1,BeoutQ SPORTS 1 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/21305
+#EXTINF:-1,BeoutQ SPORTS 2 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/21304
+#EXTINF:-1,BeoutQ SPORTS 3 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/21303
+#EXTINF:-1,BeoutQ SPORTS 4 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/21302
+#EXTINF:-1,BeoutQ SPORTS 5 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/21301
+#EXTINF:-1,BeoutQ SPORTS 6 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/21300
+#EXTINF:-1,BeoutQ SPORTS 7 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/21299
+#EXTINF:-1,VIP| AD Sport 1HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/5475
+#EXTINF:-1,VIP| AD Sport 2HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/5474
+#EXTINF:-1,VIP| Ad Sport 3 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/5472
+#EXTINF:-1,VIP| Ad Sport 4 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/5471
+#EXTINF:-1,OSN YAHALA HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/4885
+#EXTINF:-1,OSN YAHALA HD ola
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/7278
+#EXTINF:-1,OSN YAHALA CINEMA_HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/4888
+#EXTINF:-1,OSN MOVIES HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/4889
+#EXTINF:-1,OSN MOVIES ACTION HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/4891
+#EXTINF:-1,OSN MOVIES PREMIERE_HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/4892
+#EXTINF:-1,OSN First Hbo
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/4894
+#EXTINF:-1,OSN MOVIE FAMILY HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/6565
+#EXTINF:-1,OSN Movies Kids HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/7784
+#EXTINF:-1,OSN Al Fann HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/17897
+#EXTINF:-1,OSN Al Safwa HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/17896
+#EXTINF:-1,OSN Alyoum HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/17895
+#EXTINF:-1,OSN Cinema 1 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/17894
+#EXTINF:-1,OSN Musalsalat HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/17893
+#EXTINF:-1,OSN MOVIES FESTIVAL HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/4890
+#EXTINF:-1,OSN Movies First HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/6587
+#EXTINF:-1,OSN NaT Geo Kid,s
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14992
+#EXTINF:-1,OSN MOVIES COMEDY
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/5805
+#EXTINF:-1,OSN STAR WORLD HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/4903
+#EXTINF:-1,OSN OUTDOOR
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/6575
+#EXTINF:-1,OSN STAR MOVIES HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/6532
+#EXTINF:-1,OSN Nickelodeon HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/6586
+#EXTINF:-1,OSN DIsNEY JUNIOR
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/6576
+#EXTINF:-1,OSN NICK JR
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/6541
+#EXTINF:-1,OSN Disney Channels HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/4870
+#EXTINF:-1,OSN NaT Geo Peopel
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/4878
+#EXTINF:-1,OSN DISCOVERY SCIENCE HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/4899
+#EXTINF:-1,OSN NATIONAL GEOGRAPHIC
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/6542
+#EXTINF:-1,OSN DISCOVERY HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/4854
+#EXTINF:-1,OSN  SERIES First HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/7778
+#EXTINF:-1,OSN Serias Comedy HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/7776
+#EXTINF:-1,OSN MBC VARIETY HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/6608
+#EXTINF:-1,OSN MBC 1 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/5121
+#EXTINF:-1,OSN  MBC_MAX_HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/5114
+#EXTINF:-1,OSN MBC DRAMA HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/5116
+#EXTINF:-1,OSN MBC ACTION HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/5117
+#EXTINF:-1,OSN  MBC_4_HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/5118
+#EXTINF:-1,OSN MBC_3_HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/5119
+#EXTINF:-1,OSN  MBC 2 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/5120
+#EXTINF:-1,OSN ITV Choice
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/6624
+#EXTINF:-1,My-HD-SEEVII ALOULA-HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/7641
+#EXTINF:-1,OSN FINE LIVING
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/6571
+#EXTINF:-1,OSN Series  HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/6566
+#EXTINF:-1,OSN HISTORY
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/6561
+#EXTINF:-1,OSN NAT GEO WILD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/6543
+#EXTINF:-1,OSN TLC
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/7214
+#EXTINF:-1,OSN ENTERTAINMENT! HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/7786
+#EXTINF:-1,OSN Cinema1-leb
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/5133
+#EXTINF:-1,OSN ALSAFWA
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/15532
+#EXTINF:-1,OSN ALYOUM
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/15531
+#EXTINF:-1,OSN CRICKET
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/15539
+#EXTINF:-1,OSN BOLLYWOOD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/15541
+#EXTINF:-1,OSN KIDS ZONE
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/15538
+#EXTINF:-1,OSN Ten SPORT
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/15540
+#EXTINF:-1,OSN Cinema2-leb
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/5131
+#EXTINF:-1,OSN SYFY HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/4904
+#EXTINF:-1,OSN Movies Thriller
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/4879
+#EXTINF:-1,OSN Animal Planet HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/4874
+#EXTINF:-1,OSN Ten CRICKET
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/17412
+#EXTINF:-1,OSN FataFeat
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/10479
+#EXTINF:-1,OSN CNBC
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/10477
+#EXTINF:-1,OSN Crime & Investigation
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/10478
+#EXTINF:-1,OSN Fight BOX HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/10483
+#EXTINF:-1,OSN BoxOffice 3
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/4873
+#EXTINF:-1,OSN BoxOffice 2
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/4872
+#EXTINF:-1,OSN BoxOffice 1
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/4871
+#EXTINF:-1,OSN  MBC DRAMA + HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/6607
+#EXTINF:-1,OSN HOME OF HBO FHD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/15101
+#EXTINF:-1,OSN SPORTS 1 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/10474
+#EXTINF:-1,OSN SPORTS 2 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/10475
+#EXTINF:-1,OSN LIVE Sport 4HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/7782
+#EXTINF:-1,OSN LIVE Sport 3HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/7781
+#EXTINF:-1,OSN wwe HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/4869
+#EXTINF:-1,OSN  Rotana Cinema HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/7351
+#EXTINF:-1,OSN Rotana Classic HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/7350
+#EXTINF:-1,OSN Rotana Khalijia HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/7349
+#EXTINF:-1,OSN Rotana Masriya HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/7348
+#EXTINF:-1,OSN Rotana Aflam HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/7352
+#EXTINF:-1,AR | *AL AAN TV [DUB]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19077
+#EXTINF:-1,AR | *AL HURRA
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19011
+#EXTINF:-1,AR | *AL RAYYAN [QAT]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19009
+#EXTINF:-1,AR | *BBC Arabia
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/18990
+#EXTINF:-1,AR | *KUWAIT 1 [KUW]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19019
+#EXTINF:-1,AR | *KUWAIT 2 [KUW]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19018
+#EXTINF:-1,AR | *OMAN TV
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19022
+#EXTINF:-1,AR | *SAMA TV [SYR]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19014
+#EXTINF:-1,AR | *SAUDI 1 [SAU]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19010
+#EXTINF:-1,AR | *SAUDI KIDS [SAU]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19093
+#EXTINF:-1,AR :  ALJAZEERA DOCU
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/7741
+#EXTINF:-1,AR | *SAUDI QURAN
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/18999
+#EXTINF:-1,AR | *SUNNAH TV [ISL]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/18998
+#EXTINF:-1,AR | 2M Maroc [MAR]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19036
+#EXTINF:-1,AR | ABU DHABI DRAMA (DUB)
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19079
+#EXTINF:-1,AR | ABU DHABI TV [DUB]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19080
+#EXTINF:-1,AR | ADDOUNIA TV [SYR]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19016
+#EXTINF:-1,AR | AL AOULA [MAR]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19035
+#EXTINF:-1,AR | AL ARABIYA
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/18996
+#EXTINF:-1,AR | AL HAYAT 1
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19031
+#EXTINF:-1,AR | AL HAYAT 2
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19030
+#EXTINF:-1,AR | AL JADID [LEB]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19083
+#EXTINF:-1,AR | AL JAZEERA
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/18995
+#EXTINF:-1,AR | AL JAZEERA ENGLISH
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/18992
+#EXTINF:-1,AR | AL JAZEERA MUMBASHER
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/18993
+#EXTINF:-1,AR | AL MAYADEEN [LEB]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19084
+#EXTINF:-1,AR | AL NAHAR CINEMA [EGY]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19046
+#EXTINF:-1,AR | AL NAHAR DRAMA [EGY]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19047
+#EXTINF:-1,AR | AL NAHAR TV [EGY]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19048
+#EXTINF:-1,AR | Al Nayah Mousalsalat
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19032
+#EXTINF:-1,AR | AL RAHMA [ISL]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19000
+#EXTINF:-1,AR | AL SHARIKA [DUB]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19076
+#EXTINF:-1,AR | AL SHARQIYA NEWS [IRQ]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19023
+#EXTINF:-1,AR | ALGERIE 3 [ALG]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19074
+#EXTINF:-1,AR | ALJAMILA [ISL]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19001
+#EXTINF:-1,AR | AlJANOUBYA [TUN]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19062
+#EXTINF:-1,AR | ALJAZEERA DOCU
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/18994
+#EXTINF:-1,AR | ALMAGHRIBIA [MAR]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19034
+#EXTINF:-1,AR | Almajd Kids
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19095
+#EXTINF:-1,AR | ANN NEWS
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/18989
+#EXTINF:-1,AR | ARABICA
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19122
+#EXTINF:-1,AR | ART AFLAM 1
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19117
+#EXTINF:-1,AR | ART AFLAM 2
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19116
+#EXTINF:-1,AR | ART CINEMA
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19118
+#EXTINF:-1,AR | ART HEKAYAT 1
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19115
+#EXTINF:-1,AR | ART HEKAYAT 2
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19114
+#EXTINF:-1,AR | B4U AFLAM
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19125
+#EXTINF:-1,AR | BAHRAIN Quran
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19021
+#EXTINF:-1,AR | BEUR TV [ALG]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19065
+#EXTINF:-1,AR | Cairo Cinema
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19100
+#EXTINF:-1,AR | Cairo Drama
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19099
+#EXTINF:-1,AR | CANAL ALGERIE [ALG]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19070
+#EXTINF:-1,AR | CARTOON NETWORK
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19097
+#EXTINF:-1,AR | CBC Drama [EGY]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19053
+#EXTINF:-1,AR | CBC EXTRA [EGY]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19052
+#EXTINF:-1,AR | DMC [EGY]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19051
+#EXTINF:-1,AR | DMC DRAMA [EGY]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19050
+#EXTINF:-1,AR | DMC SPORTS
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19155
+#EXTINF:-1,AR | DREAM [EGY]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19049
+#EXTINF:-1,AR | DUBAI ONE [DUB]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19082
+#EXTINF:-1,AR | DUBAI RACING
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19148
+#EXTINF:-1,AR | DUBAI SPORT [DUB]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19149
+#EXTINF:-1,AR | DUBAI ZAMAN [DUB]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19081
+#EXTINF:-1,AR | DZAIR TV [ALG]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19069
+#EXTINF:-1,AR | ECHOUROUK TV [ALG]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19072
+#EXTINF:-1,AR | EL DJAZAIRIA [ALG]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19068
+#EXTINF:-1,AR | EL HEDDAF [ALG]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19066
+#EXTINF:-1,AR | EL SHARQ [EGY]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19045
+#EXTINF:-1,AR | ELHIWAR ETTOUNSI [TUN]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19060
+#EXTINF:-1,AR | ENNAHAR TV [ALG]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19071
+#EXTINF:-1,AR | ENTV [ALG]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19075
+#EXTINF:-1,AR | FATAFEAT
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19124
+#EXTINF:-1,AR | GM ALWAN [MAR]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19043
+#EXTINF:-1,AR | GM CARTON [MAR]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19040
+#EXTINF:-1,AR | GM LIB TV [MAR]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19041
+#EXTINF:-1,AR | GM MOVIES [MAR]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19038
+#EXTINF:-1,AR | GM MUSIC [MAR]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19039
+#EXTINF:-1,AR | GM TAMAZIGHT [MAR]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19042
+#EXTINF:-1,AR | HANNIBAL TV [TUN]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19063
+#EXTINF:-1,AR | IQRAA [ISL]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/18997
+#EXTINF:-1,AR | JEEM KIDS
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19094
+#EXTINF:-1,AR | JORDAN TV [JOR]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19020
+#EXTINF:-1,AR | LEBANON TV [LEB]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19092
+#EXTINF:-1,AR | LIBYA TV
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19013
+#EXTINF:-1,AR | M TUNISIA [TUN]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19057
+#EXTINF:-1,AR | MAZZIKA
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19123
+#EXTINF:-1,AR | MBC 1 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19147
+#EXTINF:-1,AR | MECCA [ISL]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19006
+#EXTINF:-1,AR | MEDI 1 SAT [MAR]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19033
+#EXTINF:-1,AR | MTV [LEB]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19088
+#EXTINF:-1,AR | NAT GEO ABU DHABI
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19098
+#EXTINF:-1,AR | NESMA TV [TUN]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19056
+#EXTINF:-1,AR | Nile Cinema
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19107
+#EXTINF:-1,AR | Nile Comedy
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19106
+#EXTINF:-1,AR | NILE DRAMA
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19105
+#EXTINF:-1,AR | Nile Life
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19104
+#EXTINF:-1,AR | NILE SPORT
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19154
+#EXTINF:-1,AR | Panorama Drama 2
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19101
+#EXTINF:-1,AR | Panorama Film
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19102
+#EXTINF:-1,AR | Panorama Food
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19103
+#EXTINF:-1,AR | QATAR TV [QAT]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19008
+#EXTINF:-1,AR | RISALA [ISL]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19003
+#EXTINF:-1,AR | ROTANA AFLAM
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19108
+#EXTINF:-1,AR | ROTANA CINEMA
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19113
+#EXTINF:-1,AR | ROTANA CLASSIC
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19112
+#EXTINF:-1,AR | ROTANA CLIP
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19111
+#EXTINF:-1,AR | ROTANA KHALIGIA
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19110
+#EXTINF:-1,AR | ROTANA MASRIYA
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19109
+#EXTINF:-1,AR | SAMA [DUB]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19064
+#EXTINF:-1,AR | SAMIRA [ALG]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19067
+#EXTINF:-1,AR | SKY NEWS ARABIA
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/18991
+#EXTINF:-1,AR | SPACETOON
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19096
+#EXTINF:-1,AR | SYRIA TV [SYR]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19017
+#EXTINF:-1,AR | SYRIAN DRAMA [SYR]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19015
+#EXTINF:-1,AR | TAMAZIGHT [MAR]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19037
+#EXTINF:-1,AR | TAMAZIGHT TV4 [ALG]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19073
+#EXTINF:-1,AR | TELVZA TV [TUN]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19054
+#EXTINF:-1,AR | TOK TOK CIMA
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19044
+#EXTINF:-1,AR | TUNISIE NAT 1 [TUN]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19059
+#EXTINF:-1,AR | TUNISIE NAT 2 [TUN]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19058
+#EXTINF:-1,AR | TUNISNA TV [TUN]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19061
+#EXTINF:-1,AR | ZEE AFLAM
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19127
+#EXTINF:-1,AR | ZEE ALWAN
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19129
+#EXTINF:-1,AR | ZEE ALWAN (B)
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19128
+#EXTINF:-1,AR | ZITOUNA TV [TUN]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/19055
+#EXTINF:-1,BEIN SPORT HD1
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1064
+#EXTINF:-1,BEIN SPORT HD2
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1057
+#EXTINF:-1,BEIN SPORT HD3
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1056
+#EXTINF:-1,BEIN SPORT HD4
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1055
+#EXTINF:-1,BEIN SPORT HD5
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1054
+#EXTINF:-1,BEIN SPORT HD6
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1053
+#EXTINF:-1,BEIN SPORT HD7
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1052
+#EXTINF:-1,BEIN SPORT HD8
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1051
+#EXTINF:-1,BEIN SPORT HD9
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1050
+#EXTINF:-1,BEIN SPORT HD10
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1063
+#EXTINF:-1,BEIN SPORT HD11
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1062
+#EXTINF:-1,BEIN SPORT HD12
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1061
+#EXTINF:-1,AR: BeinMovies 1HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1755
+#EXTINF:-1,AR: BeinMovies 2HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1756
+#EXTINF:-1,AR: BEIN MOVIES-3HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2617
+#EXTINF:-1,AR: BeINMOVIES-4HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/4250
+#EXTINF:-1,AR_BEIN_SPORTS_1HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2627
+#EXTINF:-1,AR: BEIN_SPORTS_2HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2628
+#EXTINF:-1,AR: BEIN_SPORTS_3HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2629
+#EXTINF:-1,AR: BEIN_SPORTS_4HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2630
+#EXTINF:-1,AR: BEIN_SPORTS_5HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2631
+#EXTINF:-1,AR: BEIN_SPORTS_6HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2632
+#EXTINF:-1,AR: BEIN_SPORTS_7HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2633
+#EXTINF:-1,AR: BEIN_SPORTS_8HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2634
+#EXTINF:-1,AR: BEIN_SPORTS_9HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2635
+#EXTINF:-1,AR: BEIN_SPORTS_10HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2636
+#EXTINF:-1,AR_BEIN_SPORTS_11HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2637
+#EXTINF:-1,AR_BEIN_SPORTS_12HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2638
+#EXTINF:-1,❤❤❤❤❤ ARABIC OSN CH ❤❤❤❤❤
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2298
+#EXTINF:-1,AR: OSN_MOVIES_DRAMA
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1788
+#EXTINF:-1,AR: OSN_MOVIES HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1789
+#EXTINF:-1,AR: OSN_ON_DEMAND_EXTRA
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2247
+#EXTINF:-1,AR: OSN ORBIT CINEMA2
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1806
+#EXTINF:-1,AR: OSN DISCOVERY HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1889
+#EXTINF:-1,AR: OSN BOX OFFICE 3
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1884
+#EXTINF:-1,AR: OSN BOX OFFICE 1
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1881
+#EXTINF:-1,AR: OSN Animal Planet
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1931
+#EXTINF:-1,AR-OSN-ELYOM
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2077
+#EXTINF:-1,❤❤❤❤❤ ARABIC CH ❤❤❤❤❤
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2290
+#EXTINF:-1,AR: Abu Dhabi Emarat
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/5341
+#EXTINF:-1,AR: Abu Dhabi Drama
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/5340
+#EXTINF:-1,AR: Abu Dhabi
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/5339
+#EXTINF:-1,AR: Time-Tuxi
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/5321
+#EXTINF:-1,AR: TEN
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/5322
+#EXTINF:-1,AR: KTV CH1
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/13001
+#EXTINF:-1,AR: KTV SPORT
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/12996
+#EXTINF:-1,AR: LBC SAT
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/12995
+#EXTINF:-1,AR: LIBYA 218
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/12994
+#EXTINF:-1,AR: LIBYA AL Rasmiya
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/12993
+#EXTINF:-1,AR: LIBYA ONE
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/12991
+#EXTINF:-1,AR: Majid Kids HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/12988
+#EXTINF:-1,AR: MODY KIDS
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/12984
+#EXTINF:-1,AR: MOGA COMEDY TV
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/12983
+#EXTINF:-1,AR: Moutawaset
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/12982
+#EXTINF:-1,AR: MTA 3 AI  ARABIYAH
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/12981
+#EXTINF:-1,AR: MTV LEBONAN
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/12980
+#EXTINF:-1,AR: Music alhannen
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/12979
+#EXTINF:-1,AR: ON E LIVE HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/12969
+#EXTINF:-1,AR: TAHA
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/5324
+#EXTINF:-1,AR: Palestine-HQ
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/5320
+#EXTINF:-1,AR: MogaComedy
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/5325
+#EXTINF:-1,AR: Moga-Cinema
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/5326
+#EXTINF:-1,AR: Melody Classic
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/5330
+#EXTINF:-1,AR: Kuwait-Alarabi
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/5317
+#EXTINF:-1,AR: Kuwait-2
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/5318
+#EXTINF:-1,AR: Kuwait-1
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/5319
+#EXTINF:-1,AR: CairoDrama
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/5329
+#EXTINF:-1,AR: Cairo Cinema
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/5328
+#EXTINF:-1,AR:2-Aflam
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/5327
+#EXTINF:-1,AR: MTV LEBANON
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/3548
+#EXTINF:-1,AR: ALJADID
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/3549
+#EXTINF:-1,AR: AL RESALAH
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/3774
+#EXTINF:-1,AR: AL NAHAR TV
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/3775
+#EXTINF:-1,AR: AL NAHAR SPORTS
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/3777
+#EXTINF:-1,AR: TIME COMEDY
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/5312
+#EXTINF:-1,AR: TIME CINEMA
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/5313
+#EXTINF:-1,AR: SPACE TOON
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/5311
+#EXTINF:-1,AR: ALYOUM
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/5310
+#EXTINF:-1,AR:Rotana Aflam
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/5199
+#EXTINF:-1,AR:MBC Drama HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/5201
+#EXTINF:-1,AR: ART Hekayat 2
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/5200
+#EXTINF:-1,AR: AL NAHAR DRAMA
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/3776
+#EXTINF:-1,AR: AL NAHAR ALYAWM
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/3778
+#EXTINF:-1,AR: AL MANAR
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/3779
+#EXTINF:-1,AR: AL MAGHRABIA
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/3780
+#EXTINF:-1,AR: AL MAGHARIBIATWO
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/3781
+#EXTINF:-1,AR: ====+IRAQ CHANNELS+=====
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2931
+#EXTINF:-1,AR: SAUDI SUNNEH
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/3256
+#EXTINF:-1,AR: SAUDI QURAN
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/3257
+#EXTINF:-1,AR: OTV LIBANON
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/3258
+#EXTINF:-1,AR: SHARQIA KARBALA
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2944
+#EXTINF:-1,AR: SHARJAH
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2933
+#EXTINF:-1,AR:  IRAQ tv
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2942
+#EXTINF:-1,AR: NBN
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2938
+#EXTINF:-1,AR: LEBANON
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2934
+#EXTINF:-1,AR: LDC MOVIES
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2935
+#EXTINF:-1,AR: LDC
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2937
+#EXTINF:-1,AR: LBC
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2936
+#EXTINF:-1,AR: IRAQIA SPORT
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2941
+#EXTINF:-1,AR: IRAQ FUTURE
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2940
+#EXTINF:-1,AR: CARTON NETWORK
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2939
+#EXTINF:-1,AR: ALMANAR
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2932
+#EXTINF:-1,AR: ALBAGHDADIA 1
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2949
+#EXTINF:-1,AR: AL SHARQIA TV
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2945
+#EXTINF:-1,AR: AL SHARQIA NEWS
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2946
+#EXTINF:-1,AR: AL HURRA IRAQ
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2948
+#EXTINF:-1,AR: Arriadia Maroc
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2051
+#EXTINF:-1,AR: Medi 1 Sat
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2052
+#EXTINF:-1,AR: Tamazight
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2592
+#EXTINF:-1,AR: SAMIRA-TV
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2594
+#EXTINF:-1,AR: Hannibal TV
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2596
+#EXTINF:-1,AR: Assadissa
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2588
+#EXTINF:-1,AR: Almaghribia-MAROC
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2593
+#EXTINF:-1,AR: 2M-MAROC
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2590
+#EXTINF:-1,AR: Al_Maghribia
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2597
+#EXTINF:-1,ARr: Zaitouna
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2604
+#EXTINF:-1,ARr: NATIONAL1
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2598
+#EXTINF:-1,AR: Tounesna
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2603
+#EXTINF:-1,AR: NATIONAL2
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2599
+#EXTINF:-1,AR: Ajyal TV
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/7496
+#EXTINF:-1,AR: Al Fady TV
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/7503
+#EXTINF:-1,AR: Alkarma TV
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/7500
+#EXTINF:-1,AR: Hewar Tunisi TV
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/7495
+#EXTINF:-1,AR: 2 Al Hayat
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/7501
+#EXTINF:-1,AR: Sat 7 Kids
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/7497
+#EXTINF:-1,AR: FIRST.TV
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2600
+#EXTINF:-1,AR: ETTOUNSIA
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2601
+#EXTINF:-1,AR: NESSMATV
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2595
+#EXTINF:-1,AR:Samira TV
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2612
+#EXTINF:-1,AR: KBCAlgeria
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2608
+#EXTINF:-1,AR: Mekameleen 1
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2605
+#EXTINF:-1,AR: Aljadeed LIVE
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2610
+#EXTINF:-1,AR:ELDJAZAIRIA
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2606
+#EXTINF:-1,AR:  AL JAZEERA NEWS
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/7742
+#EXTINF:-1,AR: AL RAY QATAR
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/7737
+#EXTINF:-1,AR: Alarabya Alhadath
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/7740
+#EXTINF:-1,AR: ALRAYAN QAT
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/7738
+#EXTINF:-1,AR: QATAR TV [QAT]
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/7739
+#EXTINF:-1,AR:Echourouktv
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2611
+#EXTINF:-1,AR:Dzair Tv
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2613
+#EXTINF:-1,AR:Dzair News
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2614
+#EXTINF:-1,AR: ALGERIE 3
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2607
+#EXTINF:-1,AR:Starworld
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2075
+#EXTINF:-1,AR: YAS-SPORTS-HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2086
+#EXTINF:-1,AR: TOYOR_AL-JANAH
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1997
+#EXTINF:-1,AR: RT
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1985
+#EXTINF:-1,AR-SYRIA
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1899
+#EXTINF:-1,AR: Rotana-Music
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1977
+#EXTINF:-1,AR: Rotana-Khalijia
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1976
+#EXTINF:-1,AR: Rotana Masriya
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1770
+#EXTINF:-1,AR: Rotana Clip
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1768
+#EXTINF:-1,AR: Rotana Classic
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1769
+#EXTINF:-1,AR: Rotana Cinema
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1771
+#EXTINF:-1,AR: Rotana
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1767
+#EXTINF:-1,AR: NATIONAL GEO ABUT DHABI
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1892
+#EXTINF:-1,AR: MBC_BOLLYWOOD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1639
+#EXTINF:-1,AR: MBC_ACTION
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1640
+#EXTINF:-1,AR: ON TV
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/3234
+#EXTINF:-1,AR: MBC 3 KIDS
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/3233
+#EXTINF:-1,AR: MBC 1 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/3232
+#EXTINF:-1,AR: MBC_4
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1641
+#EXTINF:-1,AR: MBC_3
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1642
+#EXTINF:-1,AR: MBC_2
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1643
+#EXTINF:-1,AR: MBC-Drama
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1644
+#EXTINF:-1,AR: MBC MAX
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1909
+#EXTINF:-1,AR: MBC MASR 2
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1908
+#EXTINF:-1,AR: MBC MASR 1
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1907
+#EXTINF:-1,AR: France24
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1975
+#EXTINF:-1,AR: DUBAI ZAMAN
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2141
+#EXTINF:-1,AR: DUBAI TV
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1932
+#EXTINF:-1,AR: DUBAI SPORT HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2143
+#EXTINF:-1,AR: DUBAI RACING
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1912
+#EXTINF:-1,AR: Al-Oula-MAROC
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/5473
+#EXTINF:-1,AR: SAUDIA QURAN HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/5667
+#EXTINF:-1,AR: SAUDIA THAQAFIYA HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/5670
+#EXTINF:-1,AR: DUBAI ONE
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2140
+#EXTINF:-1,AR: DUBAI DRAMA
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2142
+#EXTINF:-1,AR: CBC DRAMA
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2083
+#EXTINF:-1,AR: CBC-Extra
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2084
+#EXTINF:-1,AR: Cartoon Network
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2050
+#EXTINF:-1,AR: BBC.ARABIC
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1923
+#EXTINF:-1,AR: BBC-News
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1984
+#EXTINF:-1,AR: BBC-Arabia
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1983
+#EXTINF:-1,AR: Art-Hekayat 1
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1978
+#EXTINF:-1,AR: ART-Cinema
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1979
+#EXTINF:-1,AR: Alkass 4HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1891
+#EXTINF:-1,AR: Alkass 4 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1930
+#EXTINF:-1,AR: Alkass 2 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1911
+#EXTINF:-1,AR: Alkass 1 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1910
+#EXTINF:-1,AR: Aljazeera-Mubasher
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1981
+#EXTINF:-1,AR: Aljazeera
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1980
+#EXTINF:-1,AR: Alarabiya
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1982
+#EXTINF:-1,AR: AL KASS 4
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1877
+#EXTINF:-1,AR: ADALEMARAT-HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2085
+#EXTINF:-1,AR: AD-Sports2
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1925
+#EXTINF:-1,AR: AD-Sports1
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1924
+#EXTINF:-1,AR-ZEE ALWAN HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1905
+#EXTINF:-1,AR-SYRIA DRAMA
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1901
+#EXTINF:-1,AR: SAMA DUBAI
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1898
+#EXTINF:-1,AR: NILE SPORT
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1897
+#EXTINF:-1,AR: NILE LIFE
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1896
+#EXTINF:-1,AR-NILE DRAMA
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1895
+#EXTINF:-1,AR-NILE COMEDY
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1894
+#EXTINF:-1,AR-NILE CINEMA
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1893
