@@ -1,309 +1,171 @@
 #EXTM3U
-#EXTINF:0,Arena Sport 1 - Arena Sport 1
-http://stream1.tvit.ba:8088/live?channelId=1&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Arena Sport 2 - Arena Sport 2
-http://stream1.tvit.ba:8088/live?channelId=2&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Arena Sport 3 - Arena Sport 3
-http://stream4.tvit.ba:8088/live?channelId=3&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Arena Sport 4 - Arena Sport 4
-http://stream2.tvit.ba:80/live?channelId=4&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,BHT - BHT
-http://stream1.tvit.ba:8088/live?channelId=5&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,FTV - FTV
-http://stream2.tvit.ba:80/live?channelId=6&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,TVSA - TV Sarajevo
-http://stream1.tvit.ba:8088/live?channelId=7&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,HAYAT - HAYAT
-http://stream2.tvit.ba:80/live?channelId=8&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,PINK BiH - PINK BiH
-http://stream4.tvit.ba:8088/live?channelId=10&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,SPORT KLUB 2 - SPORT KLUB 2
-http://stream1.tvit.ba:8088/live?channelId=22&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,LOV I RIBOLOV - LOV I RIBOLOV
-http://stream3.tvit.ba:8088/live?channelId=23&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,OBN - OBN
-http://stream2.tvit.ba:80/live?channelId=24&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,DM SAT - DM SAT
-http://stream2.tvit.ba:80/live?channelId=25&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,BALKANIKA - BALKANIKA
-http://stream2.tvit.ba:80/live?channelId=27&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,OTV VALENTINO - OTV VALENTINO
-http://stream4.tvit.ba:8088/live?channelId=29&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,RTRS - RTRS
-http://cms.tvit.ba:80/live?channelId=30&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,NAT GEO - NAT GEO
-http://stream4.tvit.ba:8088/live?channelId=32&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,NAT GEO Wild - NAT GEO Wild
-http://stream4.tvit.ba:8088/live?channelId=33&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,DISCOVERY - DISCOVERY
-http://stream4.tvit.ba:8088/live?channelId=37&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,EUROSPORT - EUROSPORT
-http://stream3.tvit.ba:8088/live?channelId=38&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,ANIMAL PLANET - docs
-http://stream4.tvit.ba:8088/live?channelId=42&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,FOX LIFE sat - FOX LIFE sat
-http://stream4.tvit.ba:8088/live?channelId=43&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,VOX - VOX
-http://stream3.tvit.ba:8088/live?channelId=49&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,CNN - CNN
-http://stream2.tvit.ba:80/live?channelId=52&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,GRAND TV - GRAND TV
-http://stream2.tvit.ba:80/live?channelId=55&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Pink Kids - Pink Kids
-http://stream2.tvit.ba:80/live?channelId=60&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,TV 1000 - TV 1000
-http://stream2.tvit.ba:80/live?channelId=61&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,SPORT KLUB 1 - SPORT KLUB 1
-http://stream1.tvit.ba:8088/live?channelId=64&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,RTS HD - RTS HD
-http://stream3.tvit.ba:8088/live?channelId=65&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,BN Televizija - BN Televizija
-http://stream3.tvit.ba:8088/live?channelId=66&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,HRT 1 - HRT 1
-http://stream4.tvit.ba:8088/live?channelId=67&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,HRT 2 - HRT 2
-http://stream4.tvit.ba:8088/live?channelId=68&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,HRT 3 - HRT 3
-http://stream4.tvit.ba:8088/live?channelId=69&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,HRT 4 - HRT 4
-http://stream1.tvit.ba:8088/live?channelId=70&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,RTL HR Sat - RTL HR Sat
-http://stream4.tvit.ba:8088/live?channelId=71&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,RTL 2 HR Sat - RTL 2 HR Sat
-http://stream4.tvit.ba:8088/live?channelId=72&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,ALJAZEERA Balkans - ALJAZEERA Balkans
-http://stream1.tvit.ba:8088/live?channelId=73&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,CARTOON NETWORK - CARTOON NETWORK
-http://stream1.tvit.ba:8088/live?channelId=74&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,BOOMERANG - BOOMERANG
-http://stream1.tvit.ba:8088/live?channelId=75&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,FACE TV - FACE TV
-http://stream1.tvit.ba:8088/live?channelId=77&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,PRO 7 - PRO 7
-http://stream3.tvit.ba:8088/live?channelId=78&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,24 Kitchen Sat - 24 Kitchen Sat
-http://stream4.tvit.ba:8088/live?channelId=82&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,HBO Adria - HBO Adria
-http://stream4.tvit.ba:8088/live?channelId=84&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,HBO Comedy - HBO Comedy
-http://stream1.tvit.ba:8088/live?channelId=85&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Cinestar Premiere - Cinestar Premiere
-http://stream1.tvit.ba:8088/live?channelId=86&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Cinestar Premiere 2 - Cinestar Premiere 2
-http://stream3.tvit.ba:8088/live?channelId=87&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,PINK 3 - PINK 3
-http://stream2.tvit.ba:80/live?channelId=89&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,PINK M - PINK M
-http://stream2.tvit.ba:80/live?channelId=90&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Pink - Pink
-http://stream3.tvit.ba:8088/live?channelId=91&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,PINK FILM - PINK FILM
-http://stream3.tvit.ba:8088/live?channelId=92&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Pink Premium - Pink Premium
-http://stream4.tvit.ba:8088/live?channelId=93&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Cinemax HD - Cinemax HD
-http://stream3.tvit.ba:8088/live?channelId=94&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Cinemax 2 HD - Cinemax 2 HD
-http://stream2.tvit.ba:80/live?channelId=95&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Pink Western - Pink Western
-http://stream2.tvit.ba:80/live?channelId=96&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Pink Folk - Pink Folk
-http://stream4.tvit.ba:8088/live?channelId=101&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Pink Folk 2 - Pink Folk 2
-http://stream4.tvit.ba:8088/live?channelId=102&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Pink Rock - Pink Rock
-http://stream3.tvit.ba:8088/live?channelId=103&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Pink Bravo - Pink Bravo
-http://stream2.tvit.ba:80/live?channelId=105&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Pink Family - Pink Family
-http://stream1.tvit.ba:8088/live?channelId=108&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Pink Action - Pink Action
-http://stream2.tvit.ba:80/live?channelId=109&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Pink Movies - Pink Movies
-http://stream3.tvit.ba:8088/live?channelId=110&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Nickelodeon srb - Nickelodeon srb
-http://stream1.tvit.ba:8088/live?channelId=111&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Pink Serije - Pink Serije
-http://stream1.tvit.ba:8088/live?channelId=114&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Pink World Cinema - Pink World Cinema
-http://stream1.tvit.ba:8088/live?channelId=115&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Pink Show - Pink Show
-http://stream1.tvit.ba:8088/live?channelId=116&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Pink Kuvar - Pink Kuvar
-http://stream3.tvit.ba:8088/live?channelId=117&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,RTL Crime Sat - RTL Crime Sat
-http://stream4.tvit.ba:8088/live?channelId=119&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,RTL Kockica - RTL Kockica
-http://stream2.tvit.ba:80/live?channelId=120&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Pink Pedia - Pink Pedia
-http://stream4.tvit.ba:8088/live?channelId=129&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Pink Fashion - Pink Fashion
-http://80.65.168.166:8088/live?channelId=130&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Pink Soap - Pink Soap
-http://stream4.tvit.ba:8088/live?channelId=131&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Pink Horor - Pink Horor
-http://stream4.tvit.ba:8088/live?channelId=132&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Fight Channel - Fight Channel
-http://stream3.tvit.ba:8088/live?channelId=134&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,NOVA BH - NOVA BH
-http://stream4.tvit.ba:8088/live?channelId=135&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Arena Sport 5 HD - Arena Sport 5 HD
-http://stream2.tvit.ba:80/live?channelId=136&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,SPORT KLUB 3 - SPORT KLUB 3
-http://stream2.tvit.ba:80/live?channelId=137&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,AXN - AXN
-http://stream4.tvit.ba:8088/live?channelId=138&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Viasat History - Viasat History
-http://stream1.tvit.ba:8088/live?channelId=142&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,KIKA - KIKA
-http://stream3.tvit.ba:8088/live?channelId=143&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Cinestar TV Sat - Cinestar TV Sat
-http://stream4.tvit.ba:8088/live?channelId=144&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,HAHA - HAHA
-http://stream2.tvit.ba:80/live?channelId=145&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Rtl Passion sat - Rtl Passion Sat
-http://stream4.tvit.ba:8088/live?channelId=147&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Mini TV Sat - Mini TV SAt
-http://stream4.tvit.ba:8088/live?channelId=149&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Doma Sat - Doma Sat
-http://stream4.tvit.ba:8088/live?channelId=150&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Nova TV Sat - Nova TV Sat
-http://stream4.tvit.ba:8088/live?channelId=152&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Fox Movies Sat - Fox Movies Sat
-http://stream4.tvit.ba:8088/live?channelId=153&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Disney Sat - Disney Sat
-http://stream4.tvit.ba:8088/live?channelId=154&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Orlando Kids Sat - Orlando Kids Sat
-http://stream4.tvit.ba:8088/live?channelId=155&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Discovery Science Sat - Discovery Science Sat
-http://stream4.tvit.ba:8088/live?channelId=156&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Nick Jr Sat - Nick Jr Sat
-http://stream4.tvit.ba:8088/live?channelId=159&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Viasat Nature CEE sat - Viasat Nature CEE sat
-http://stream4.tvit.ba:8088/live?channelId=160&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Baby TV Sat - Baby TV Sat
-http://stream4.tvit.ba:8088/live?channelId=161&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,CMC - CMC
-http://stream4.tvit.ba:8088/live?channelId=163&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,History Channel Sat - History Channel Sat
-http://stream4.tvit.ba:8088/live?channelId=164&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,RTL Living Sat - RTL Living Sat
-http://stream4.tvit.ba:8088/live?channelId=166&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,FOX Adria Sat - FOX Adria Sat
-http://stream4.tvit.ba:8088/live?channelId=167&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Jugoton Sat - Jugoton Sat
-http://stream4.tvit.ba:8088/live?channelId=169&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Prva - Prva
-http://stream3.tvit.ba:8088/live?channelId=171&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Epic Drama - Epic Drama
-http://stream4.tvit.ba:8088/live?channelId=173&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Happy TV - Happy TV
-http://stream2.tvit.ba:80/live?channelId=174&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,N1 BiH - N1 BiH
-http://stream1.tvit.ba:8088/live?channelId=177&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Hayat Folk - Hayat Folk
-http://stream4.tvit.ba:8088/live?channelId=179&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Pink Comedy - Pink Comedy
-http://stream4.tvit.ba:8088/live?channelId=184&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Pink Zabava - Pink Zabava
-http://stream4.tvit.ba:8088/live?channelId=185&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Pink Reality - Pink Reality
-http://stream4.tvit.ba:8088/live?channelId=186&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,TV Igman - TV Igman
-http://cms.tvit.ba:80/live?channelId=191&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,HRT 5 - HRT 5
-http://stream3.tvit.ba:8088/live?channelId=193&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,ZDF - ZDF
-http://stream3.tvit.ba:8088/live?channelId=194&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,History II - History II
-http://stream2.tvit.ba:80/live?channelId=195&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,SMART TV - SMART TV
-http://stream1.tvit.ba:8088/live?channelId=197&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,SAT 1 - SAT 1
-http://stream1.tvit.ba:8088/live?channelId=198&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,RTL DE - RTL DE
-http://stream1.tvit.ba:8088/live?channelId=200&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Hayatovci - Hayatovci
-http://stream4.tvit.ba:8088/live?channelId=201&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,RTRS Plus - RTRS Plus
-http://stream1.tvit.ba:8088/live?channelId=204&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Pink Thriller - Pink Thriller
-http://stream4.tvit.ba:8088/live?channelId=206&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Pink Crime & Mystery - Pink Crime & Mystery
-http://stream4.tvit.ba:8088/live?channelId=207&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Pink Romance - Pink Romance
-http://stream4.tvit.ba:8088/live?channelId=208&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Pink Koncert - Pink Koncert
-http://stream4.tvit.ba:8088/live?channelId=210&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,RTL Television - RTL Television
-http://stream3.tvit.ba:8088/live?channelId=223&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,n-TV - n-TV
-http://stream3.tvit.ba:8088/live?channelId=224&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Sonnenklar TV - Sonnenklar TV
-http://stream3.tvit.ba:8088/live?channelId=225&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Sport 1 Germany - Sport 1 Germany
-http://80.65.168.166:8088/live?channelId=227&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Alfa TV - Alfa TV
-http://stream2.tvit.ba:80/live?channelId=231&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,FOX Crime - FOX Crime
-http://stream4.tvit.ba:8088/live?channelId=233&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Arena Liga - Arena liga
-http://stream2.tvit.ba:80/live?channelId=234&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,ARENA 2 SR HD - ARENA 2 SR HD
-http://stream2.tvit.ba:80/live?channelId=235&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,ARENA 3 SR HD - ARENA 3 SR HD
-http://stream2.tvit.ba:80/live?channelId=236&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,ARENA 4 SR HD - ARENA 4 SR HD
-http://stream4.tvit.ba:8088/live?channelId=237&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,ARENA 1 SR HD - ARENA 1 SR HD
-http://stream3.tvit.ba:8088/live?channelId=238&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Eurosport 2 - Eurosport 2
-http://stream2.tvit.ba:80/live?channelId=239&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Sport Klub 1 HD - Sport Klub 1 HD
-http://stream4.tvit.ba:8088/live?channelId=240&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Sport Klub 2 HD - Sport Klub 2 HD
-http://stream2.tvit.ba:80/live?channelId=241&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Sport Klub 3 HD - Sport Klub 3 HD
-http://stream1.tvit.ba:8088/live?channelId=242&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Sport Klub HD - Sport Klub HD
-http://stream2.tvit.ba:80/live?channelId=243&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Pink World - Pink World
-http://stream4.tvit.ba:8088/live?channelId=247&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Cinestar Fantasy - Cinestar Fantasy
-http://stream4.tvit.ba:8088/live?channelId=248&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Comedy Central - Comedy Central
-http://stream3.tvit.ba:8088/live?channelId=251&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,CBS Reality - CBS Reality
-http://stream3.tvit.ba:8088/live?channelId=253&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,ORF 1 - ORF 1
-http://stream3.tvit.ba:8088/live?channelId=263&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,ORF 2 - ORF 2
-http://stream3.tvit.ba:8088/live?channelId=264&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,ATV Austrija - ATV Austrija
-http://stream3.tvit.ba:8088/live?channelId=265&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,ORF 2 Tirol - ORF 2 Tirol
-http://stream3.tvit.ba:8088/live?channelId=266&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Bibel TV HD - Bibel TV HD
-http://80.65.168.166:8088/live?channelId=268&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,pink extra - pink extra
-http://stream2.tvit.ba:80/live?channelId=287&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,HBO 3 - HBO 3
-http://stream4.tvit.ba:8088/live?channelId=292&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,M1 Film - M1 Film
-http://stream4.tvit.ba:8088/live?channelId=272&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,TV 1 - TV 1
-http://stream3.tvit.ba:8088/live?channelId=12&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Pink Classic - Pink Classic
-http://stream2.tvit.ba:80/live?channelId=291&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,PINK Plus - PINK Plus
-http://stream3.tvit.ba:8088/live?channelId=290&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Stv 1 - Stv 1
-http://stream2.tvit.ba:80/live?channelId=296&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Svt 1 - Svt 1
-http://stream1.tvit.ba:8088/live?channelId=297&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,TV 4 Film - TV 4 FIlm
-http://stream1.tvit.ba:8088/live?channelId=300&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Tv 6 - Tv 6
-http://stream1.tvit.ba:8088/live?channelId=298&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0,Viasat Premiere - Viasat Premiere
-http://stream3.tvit.ba:8088/live?channelId=303&uid=844&deviceMac=00:1A:79:40:CD:DA
+#EXTINF:0,Arena Sport 1 HR
+http://formen1.com:8080/nusret07/240218/3076
+#EXTINF:0,Arena Sport 2 Hr
+http://formen1.com:8080/nusret07/240218/3077
+#EXTINF:0,Arena Sport 3 Hr
+http://formen1.com:8080/nusret07/240218/3078
+#EXTINF:0,Arena Sport 4 Hr
+http://formen1.com:8080/nusret07/240218/3079
+#EXTINF:0,Bht Hd
+http://formen1.com:8080/nusret07/240218/1913
+#EXTINF:0,Bosnatv1
+http://formen1.com:8080/nusret07/240218/1875
+#EXTINF:0,Discovery Channel
+http://formen1.com:8080/nusret07/240218/1882
+#EXTINF:0,Dm Sat
+http://formen1.com:8080/nusret07/240218/1905
+#EXTINF:0,Doma Tv
+http://formen1.com:8080/nusret07/240218/1919
+#EXTINF:0,Face Tv
+http://formen1.com:8080/nusret07/240218/1909
+#EXTINF:0,Glas Drine
+http://formen1.com:8080/nusret07/240218/1886
+#EXTINF:0,Happy Tv
+http://formen1.com:8080/nusret07/240218/1883
+#EXTINF:0,Hrt 1
+http://formen1.com:8080/nusret07/240218/1890
+#EXTINF:0,Hrt 2
+http://formen1.com:8080/nusret07/240218/1891
+#EXTINF:0,Hrt 3
+http://formen1.com:8080/nusret07/240218/1892
+#EXTINF:0,Ex-Yu| Hrt 4
+http://formen1.com:8080/nusret07/240218/1893
+#EXTINF:0,Kanal 5
+http://formen1.com:8080/nusret07/240218/1885
+#EXTINF:0,Nova
+http://formen1.com:8080/nusret07/240218/1894
+#EXTINF:0,Obn
+http://formen1.com:8080/nusret07/240218/1910
+#EXTINF:0,Pink
+http://formen1.com:8080/nusret07/240218/1895
+#EXTINF:0,Pink Comedy
+http://formen1.com:8080/nusret07/240218/1897
+#EXTINF:0,Pink Crime&mistery
+http://formen1.com:8080/nusret07/240218/1898
+#EXTINF:0,Pink Film
+http://formen1.com:8080/nusret07/240218/1899
+#EXTINF:0,Pink Folk 1
+http://formen1.com:8080/nusret07/240218/1900
+#EXTINF:0,Pink Horror
+http://formen1.com:8080/nusret07/240218/1901
+#EXTINF:0,Pink Plus
+http://formen1.com:8080/nusret07/240218/1904
+#EXTINF:0,Pink Western
+http://formen1.com:8080/nusret07/240218/1911
+#EXTINF:0,Prva
+http://formen1.com:8080/nusret07/240218/1884
+#EXTINF:0,Rtl
+http://formen1.com:8080/nusret07/240218/1915
+#EXTINF:0,Rtl 2
+http://formen1.com:8080/nusret07/240218/1916
+#EXTINF:0,Rtl Kockica
+http://formen1.com:8080/nusret07/240218/1918
+#EXTINF:0,Rtl Kockica
+http://formen1.com:8080/nusret07/240218/1907
+#EXTINF:0,Rts1
+http://formen1.com:8080/nusret07/240218/1920
+#EXTINF:0,Rts2
+http://formen1.com:8080/nusret07/240218/1921
+#EXTINF:0,Valentino Tv
+http://formen1.com:8080/nusret07/240218/1906
+#EXTINF:0,EX YU: SPORT KLUB 1
+http://formen1.com:8080/nusret07/240218/16828
+#EXTINF:0,EX YU: SPORT KLUB 2
+http://formen1.com:8080/nusret07/240218/16827
+#EXTINF:0,EX YU: SPORT KLUB 3
+http://formen1.com:8080/nusret07/240218/16826
+#EXTINF:0,EX YU: SPORT KLUB 4
+http://formen1.com:8080/nusret07/240218/16825
+#EXTINF:0,ARENA SPORT 2 SRB
+http://formen1.com:8080/nusret07/240218/16824
+#EXTINF:0,ARENA SPORT 3 SRB
+http://formen1.com:8080/nusret07/240218/16823
+#EXTINF:0,ARENA SPORT 4 SRB
+http://formen1.com:8080/nusret07/240218/16822
+#EXTINF:0,ARENA SPORT 5 SRB
+http://formen1.com:8080/nusret07/240218/16821
+#EXTINF:0,AXN
+http://formen1.com:8080/nusret07/240218/16839
+#EXTINF:0,AXN SPIN
+http://formen1.com:8080/nusret07/240218/16838
+#EXTINF:0,BABY TV
+http://formen1.com:8080/nusret07/240218/16851
+#EXTINF:0,Arena Sport 1 (SRB)
+http://formen1.com:8080/nusret07/240218/16850
+#EXTINF:0,Eurosport 1
+http://formen1.com:8080/nusret07/240218/16820
+#EXTINF:0,Eurosport 2
+http://formen1.com:8080/nusret07/240218/16819
+#EXTINF:0,FACE TV
+http://formen1.com:8080/nusret07/240218/16861
+#EXTINF:0,FOX
+http://formen1.com:8080/nusret07/240218/16844
+#EXTINF:0,FOX CRIME
+http://formen1.com:8080/nusret07/240218/16843
+#EXTINF:0,FOX LIFE
+http://formen1.com:8080/nusret07/240218/16842
+#EXTINF:0,FOX MOVIES
+http://formen1.com:8080/nusret07/240218/16841
+#EXTINF:0,HBO 1
+http://formen1.com:8080/nusret07/240218/16848
+#EXTINF:0,HBO 2
+http://formen1.com:8080/nusret07/240218/16847
+#EXTINF:0,HBO 3
+http://formen1.com:8080/nusret07/240218/16846
+#EXTINF:0,IDJ TV
+http://formen1.com:8080/nusret07/240218/16854
+#EXTINF:0,JUGOTON TV
+http://formen1.com:8080/nusret07/240218/16864
+#EXTINF:0,KINO TV
+http://formen1.com:8080/nusret07/240218/16845
+#EXTINF:0,KLASIK TV
+http://formen1.com:8080/nusret07/240218/16863
+#EXTINF:0,KREATOR TV
+http://formen1.com:8080/nusret07/240218/16862
+#EXTINF:0,MINI TV
+http://formen1.com:8080/nusret07/240218/16853
+#EXTINF:0,MINIMAX
+http://formen1.com:8080/nusret07/240218/16852
+#EXTINF:0,NARODNI TV
+http://formen1.com:8080/nusret07/240218/16865
+#EXTINF:0,NICK JR.
+http://formen1.com:8080/nusret07/240218/16849
+#EXTINF:0,NOVA TV
+http://formen1.com:8080/nusret07/240218/16867
+#EXTINF:0,NOVA WORLD
+http://formen1.com:8080/nusret07/240218/16866
+#EXTINF:0,PINK CLASSIC
+http://formen1.com:8080/nusret07/240218/16829
+#EXTINF:0,PINK CRIME & MISTERY
+http://formen1.com:8080/nusret07/240218/16835
+#EXTINF:0,PINK FOLK 2
+http://formen1.com:8080/nusret07/240218/16837
+#EXTINF:0,PINK PREMIUM
+http://formen1.com:8080/nusret07/240218/16832
+#EXTINF:0,PINK SCI FI & FANTASY
+http://formen1.com:8080/nusret07/240218/16834
+#EXTINF:0,PINK SERIJE
+http://formen1.com:8080/nusret07/240218/16836
+#EXTINF:0,PINK THRILLER
+http://formen1.com:8080/nusret07/240218/16831
+#EXTINF:0,PINK ZABAVA
+http://formen1.com:8080/nusret07/240218/16830
+#EXTINF:0,Arena Sport 6 HR
+http://formen1.com:8080/nusret07/240218/16858
+#EXTINF:0,PRVA MAX
+http://formen1.com:8080/nusret07/240218/16857
+#EXTINF:0,PRVA PLUS
+http://formen1.com:8080/nusret07/240218/16856
+#EXTINF:0,PRVA WORLD
+http://formen1.com:8080/nusret07/240218/16859
+#EXTINF:0,RTL CRIME
+http://formen1.com:8080/nusret07/240218/16868
+#EXTINF:0,RTL LIVING
+http://formen1.com:8080/nusret07/240218/16870
+#EXTINF:0,RTL PASSION
+http://formen1.com:8080/nusret07/240218/16869
+#EXTINF:0,RTS 2
+http://formen1.com:8080/nusret07/240218/16860
+#EXTINF:0,TV 1000
+http://formen1.com:8080/nusret07/240218/16840

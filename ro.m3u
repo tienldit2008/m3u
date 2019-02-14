@@ -1,45 +1,107 @@
 #EXTM3U
-#EXTINF:-1,Ro- Antena 1
-http://smart-hdip.com:6204/denis/123/9055
-#EXTINF:-1,Ro- Antena 3
-http://smart-hdip.com:6204/denis/123/9054
-#EXTINF:-1,Ro- Antena Stars
-http://smart-hdip.com:6204/denis/123/9053
-#EXTINF:-1,Ro- Kanal D
-http://smart-hdip.com:6204/denis/123/9044
-#EXTINF:-1,Ro- Acasa TV
-http://smart-hdip.com:6204/denis/123/5904
-#EXTINF:-1,Ro- Acasa Gold
-http://smart-hdip.com:6204/denis/123/9056
-#EXTINF:-1,Ro- B1 TV
-http://smart-hdip.com:6204/denis/123/5798
-#EXTINF:-1,Ro- Romania TV
-http://smart-hdip.com:6204/denis/123/9033
-#EXTINF:-1,Ro- Prima TV
-http://smart-hdip.com:6204/denis/123/9038
-#EXTINF:-1,Ro- Pro TV
-http://smart-hdip.com:6204/denis/123/9036
-#EXTINF:-1,Ro- Pro TV International
-http://smart-hdip.com:6204/denis/123/9035
-#EXTINF:-1,Ro- Realitatea TV
-http://smart-hdip.com:6204/denis/123/9034
-#EXTINF:-1,Ro- Na?ional TV
-http://smart-hdip.com:6204/denis/123/9041
-#EXTINF:-1,Ro- CBS Reality
-http://smart-hdip.com:6204/denis/123/9051
-#EXTINF:-1,Ro- Digi 24
-http://smart-hdip.com:6204/denis/123/9050
-#EXTINF:-1,Ro- HBO
-http://smart-hdip.com:6204/denis/123/9045
-#EXTINF:-1,Ro- Kiss TV
-http://smart-hdip.com:6204/denis/123/9043
-#EXTINF:-1,Ro- Taraf TV
-http://smart-hdip.com:6204/denis/123/9032
-#EXTINF:-1,Ro- 1 Music Channel
-http://smart-hdip.com:6204/denis/123/9057
-#EXTINF:-1,Ro- National Geographic Wild
-http://smart-hdip.com:6204/denis/123/9039
-#EXTINF:-1,Ro- Dolce Sport 1 HD
-http://smart-hdip.com:6204/denis/123/9049
-#EXTINF:-1,Ro- Dolce Sport 2 HD
-http://smart-hdip.com:6204/denis/123/9048
+#EXTINF:-1,1 MUSIC CHANNEL
+http://109.236.86.108:28109/live/active/active/4364.ts
+#EXTINF:-1,ACASA TV
+http://109.236.86.108:28109/live/active/active/4363.ts
+#EXTINF:-1,AGRO TV
+http://109.236.86.108:28109/live/active/active/4362.ts
+#EXTINF:-1,ANTENA 1
+http://109.236.86.108:28109/live/active/active/4517.ts
+#EXTINF:-1,ANTENA 3
+http://109.236.86.108:28109/live/active/active/4516.ts
+#EXTINF:-1,ANTENA STARS
+http://109.236.86.108:28109/live/active/active/4515.ts
+#EXTINF:-1,AXN ROMANIA
+http://109.236.86.108:28109/live/active/active/4514.ts
+#EXTINF:-1,AXN WHITE
+http://109.236.86.108:28109/live/active/active/4513.ts
+#EXTINF:-1,B1 TV
+http://109.236.86.108:28109/live/active/active/4512.ts
+#EXTINF:-1,BOOMERANG
+http://109.236.86.108:28109/live/active/active/4511.ts
+#EXTINF:-1,CINEMA RO.
+http://109.236.86.108:28109/live/active/active/4510.ts
+#EXTINF:-1,CINEMAX 2
+http://109.236.86.108:28109/live/active/active/4509.ts
+#EXTINF:-1,DIGI 24
+http://109.236.86.108:28109/live/active/active/4508.ts
+#EXTINF:-1,DIGI ANIMAL WORLD.
+http://109.236.86.108:28109/live/active/active/4507.ts
+#EXTINF:-1,DIGI LIFE
+http://109.236.86.108:28109/live/active/active/4505.ts
+#EXTINF:-1,DIGI SPORT 2
+http://109.236.86.108:28109/live/active/active/4504.ts
+#EXTINF:-1,DIGI SPORT 3
+http://109.236.86.108:28109/live/active/active/4503.ts
+#EXTINF:-1,DIGI SPORT 4
+http://109.236.86.108:28109/live/active/active/4502.ts
+#EXTINF:-1,DIGI WORLD
+http://109.236.86.108:28109/live/active/active/4501.ts
+#EXTINF:-1,DISNEY JUNIOR.
+http://109.236.86.108:28109/live/active/active/4500.ts
+#EXTINF:-1,ETNO TV.
+http://109.236.86.108:28109/live/active/active/4499.ts
+#EXTINF:-1,EUROSPORT.
+http://109.236.86.108:28109/live/active/active/4498.ts
+#EXTINF:-1,EUROSPORT 2.
+http://109.236.86.108:28109/live/active/active/4497.ts
+#EXTINF:-1,FAVORIT TV
+http://109.236.86.108:28109/live/active/active/4496.ts
+#EXTINF:-1,FISHING HUNTING
+http://109.236.86.108:28109/live/active/active/4495.ts
+#EXTINF:-1,HAPPY CHANNEL
+http://109.236.86.108:28109/live/active/active/4494.ts
+#EXTINF:-1,HBO 2.
+http://109.236.86.108:28109/live/active/active/4493.ts
+#EXTINF:-1,HBO 3
+http://109.236.86.108:28109/live/active/active/4492.ts
+#EXTINF:-1,HBO ROMANIA.
+http://109.236.86.108:28109/live/active/active/4491.ts
+#EXTINF:-1,HISTORY CHANNEL.
+http://109.236.86.108:28109/live/active/active/4490.ts
+#EXTINF:-1,KANAL D
+http://109.236.86.108:28109/live/active/active/4489.ts
+#EXTINF:-1,LOOK PLUS
+http://109.236.86.108:28109/live/active/active/4488.ts
+#EXTINF:-1,LOOK TV.
+http://109.236.86.108:28109/live/active/active/4487.ts
+#EXTINF:-1,MEGAMAX
+http://109.236.86.108:28109/live/active/active/4486.ts
+#EXTINF:-1,MINIMAX
+http://109.236.86.108:28109/live/active/active/4485.ts
+#EXTINF:-1,MUSIC CHANNEL HU
+http://109.236.86.108:28109/live/active/active/4484.ts
+#EXTINF:-1,NAT GEO.
+http://109.236.86.108:28109/live/active/active/4483.ts
+#EXTINF:-1,NAT GEO WILD..
+http://109.236.86.108:28109/live/active/active/4482.ts
+#EXTINF:-1,NATIONAL TV
+http://109.236.86.108:28109/live/active/active/4481.ts
+#EXTINF:-1,NICKELODEON..
+http://109.236.86.108:28109/live/active/active/4480.ts
+#EXTINF:-1,PARAMOUNT. CHANNEL
+http://109.236.86.108:28109/live/active/active/4479.ts
+#EXTINF:-1,PRIMA TV
+http://109.236.86.108:28109/live/active/active/4478.ts
+#EXTINF:-1,PRO TV.
+http://109.236.86.108:28109/live/active/active/4476.ts
+#EXTINF:-1,REALITATEA Tv
+http://109.236.86.108:28109/live/active/active/4475.ts
+#EXTINF:-1,ROMANIA TV
+http://109.236.86.108:28109/live/active/active/4474.ts
+#EXTINF:-1,SPORT RO
+http://109.236.86.108:28109/live/active/active/4473.ts
+#EXTINF:-1,TARAF TV
+http://109.236.86.108:28109/live/active/active/4472.ts
+#EXTINF:-1,TNT
+http://109.236.86.108:28109/live/active/active/4471.ts
+#EXTINF:-1,TRINITAS
+http://109.236.86.108:28109/live/active/active/4470.ts
+#EXTINF:-1,TV1000
+http://109.236.86.108:28109/live/active/active/4469.ts
+#EXTINF:-1,TV5 MONDE
+http://109.236.86.108:28109/live/active/active/4468.ts
+#EXTINF:-1,TVR 2
+http://109.236.86.108:28109/live/active/active/4467.ts
+#EXTINF:-1,U TV
+http://109.236.86.108:28109/live/active/active/4466.ts
