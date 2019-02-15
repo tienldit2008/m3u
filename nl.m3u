@@ -1,145 +1,233 @@
 #EXTM3U
-#EXTINF:-1,Npo 1 HD
-http://109.236.86.108:28109/live/active/active/4961.ts
-#EXTINF:-1,Npo 2 HD
-http://109.236.86.108:28109/live/active/active/4958.ts
-#EXTINF:-1,Npo 3 HD
-http://109.236.86.108:28109/live/active/active/4955.ts
-#EXTINF:-1,Rtl 4 HD
-http://109.236.86.108:28109/live/active/active/4949.ts
-#EXTINF:-1,Rtl 5 HD
-http://109.236.86.108:28109/live/active/active/4946.ts
-#EXTINF:-1,Rtl 7 HD
-http://109.236.86.108:28109/live/active/active/4943.ts
-#EXTINF:-1,Rtl 8 HD
-http://109.236.86.108:28109/live/active/active/4939.ts
-#EXTINF:-1,Rtl Z HD
-http://109.236.86.108:28109/live/active/active/4931.ts
-#EXTINF:-1,RTL Lounge NL
-http://109.236.86.108:28109/live/active/active/4925.ts
-#EXTINF:-1,RTL CRIME NL
-http://109.236.86.108:28109/live/active/active/4928.ts
-#EXTINF:-1,Net 5 HD
-http://109.236.86.108:28109/live/active/active/4952.ts
-#EXTINF:-1,Sbs 6 HD
-http://109.236.86.108:28109/live/active/active/4937.ts
-#EXTINF:-1,Sbs 9 HD
-http://109.236.86.108:28109/live/active/active/4934.ts
-#EXTINF:-1,TV Rijnmond
-http://109.236.86.108:28109/live/active/active/4791.ts
-#EXTINF:-1,TV West
-http://109.236.86.108:28109/live/active/active/4790.ts
-#EXTINF:-1,TV Noord
-http://109.236.86.108:28109/live/active/active/4789.ts
-#EXTINF:-1,TV Oost
-http://109.236.86.108:28109/live/active/active/4788.ts
-#EXTINF:-1,Omroep Brabant
-http://109.236.86.108:28109/live/active/active/4787.ts
-#EXTINF:-1,Omroep Flevoland
-http://109.236.86.108:28109/live/active/active/4786.ts
-#EXTINF:-1,Omroep Frysland
-http://109.236.86.108:28109/live/active/active/4785.ts
-#EXTINF:-1,Omroep Zeeland
-http://109.236.86.108:28109/live/active/active/4784.ts
-#EXTINF:-1,L1 MBURG
-http://109.236.86.108:28109/live/active/active/4796.ts
-#EXTINF:-1,Npo Cultura
-http://109.236.86.108:28109/live/active/active/4922.ts
-#EXTINF:-1,Npo Nieuws
-http://109.236.86.108:28109/live/active/active/4921.ts
-#EXTINF:-1,Npo Politiek
-http://109.236.86.108:28109/live/active/active/4783.ts
-#EXTINF:-1,NPO ZAP Extra
-http://109.236.86.108:28109/live/active/active/4919.ts
-#EXTINF:-1,NPO Politiek.Best
-http://109.236.86.108:28109/live/active/active/4920.ts
-#EXTINF:-1,Film 1 Premiere HD
-http://109.236.86.108:28109/live/active/active/4900.ts
+#EXTINF:-1,RTL 4 FHD
+http://m-iptv.net:6204/soso/soso/9534
+#EXTINF:-1,RTL 5 FHD
+http://m-iptv.net:6204/soso/soso/9533
+#EXTINF:-1,RTL 7 FHD
+http://m-iptv.net:6204/soso/soso/9532
+#EXTINF:-1,RTL 8 FHD
+http://m-iptv.net:6204/soso/soso/9531
+#EXTINF:-1,RTL Crime HD
+http://m-iptv.net:6204/soso/soso/9530
+#EXTINF:-1,RTL Lounge
+http://m-iptv.net:6204/soso/soso/9529
+#EXTINF:-1,RTL Z
+http://m-iptv.net:6204/soso/soso/9528
+#EXTINF:-1,RTL 4 FHD Backup
+http://m-iptv.net:6204/soso/soso/13537
+#EXTINF:-1,RTL 5 FHD Backup
+http://m-iptv.net:6204/soso/soso/13536
+#EXTINF:-1,RTL 7 FHD Backup
+http://m-iptv.net:6204/soso/soso/13535
+#EXTINF:-1,RTL 8 FHD Backup
+http://m-iptv.net:6204/soso/soso/13534
+#EXTINF:-1,RTL Crime HD Backup
+http://m-iptv.net:6204/soso/soso/13533
+#EXTINF:-1,RTL Lounge Backup
+http://m-iptv.net:6204/soso/soso/13532
+#EXTINF:-1,RTL Z Backup
+http://m-iptv.net:6204/soso/soso/13529
+#EXTINF:-1,RTL Telekids FHD
+http://m-iptv.net:6204/soso/soso/13531
+#EXTINF:-1,RTL Telekids HD
+http://m-iptv.net:6204/soso/soso/13530
+#EXTINF:-1,RTL Telekids
+http://m-iptv.net:6204/soso/soso/11051
+#EXTINF:-1,NPO 101
+http://m-iptv.net:6204/soso/soso/9540
+#EXTINF:-1,NPO 1 HD
+http://m-iptv.net:6204/soso/soso/9541
+#EXTINF:-1,NPO 2 HD
+http://m-iptv.net:6204/soso/soso/9539
+#EXTINF:-1,NPO 3 HD
+http://m-iptv.net:6204/soso/soso/9538
+#EXTINF:-1,NPO HUMOR
+http://m-iptv.net:6204/soso/soso/9537
+#EXTINF:-1,NPO Politiek
+http://m-iptv.net:6204/soso/soso/9536
+#EXTINF:-1,NPO Zapp Xtra/NPO Humor TV
+http://m-iptv.net:6204/soso/soso/9535
+#EXTINF:-1,NPO Best/Zapp Xtra NL
+http://m-iptv.net:6204/soso/soso/11055
+#EXTINF:-1,NPO Cultura NL
+http://m-iptv.net:6204/soso/soso/11054
+#EXTINF:-1,NPO Humor TV NL
+http://m-iptv.net:6204/soso/soso/11053
+#EXTINF:-1,NPO Politiek NL
+http://m-iptv.net:6204/soso/soso/11052
+#EXTINF:-1,NPO 1 HD Backup
+http://m-iptv.net:6204/soso/soso/13543
+#EXTINF:-1,NPO 2 HD Backup
+http://m-iptv.net:6204/soso/soso/13542
+#EXTINF:-1,NPO 3 Backup
+http://m-iptv.net:6204/soso/soso/13541
+#EXTINF:-1,NPO 3 Extra Backup
+http://m-iptv.net:6204/soso/soso/13540
+#EXTINF:-1,NPO Politiek Backup
+http://m-iptv.net:6204/soso/soso/13539
+#EXTINF:-1,NPO Zapp HD Backup
+http://m-iptv.net:6204/soso/soso/13538
+#EXTINF:-1,SBS 9
+http://m-iptv.net:6204/soso/soso/9527
+#EXTINF:-1,SBS6 HD
+http://m-iptv.net:6204/soso/soso/9526
+#EXTINF:-1,SBS 9 HD Backup
+http://m-iptv.net:6204/soso/soso/13551
+#EXTINF:-1,SBS6 HD Backup
+http://m-iptv.net:6204/soso/soso/13550
 #EXTINF:-1,Film1 Action HD
-http://109.236.86.108:28109/live/active/active/4897.ts
+http://m-iptv.net:6204/soso/soso/9567
 #EXTINF:-1,Film1 Family HD
-http://109.236.86.108:28109/live/active/active/4894.ts
+http://m-iptv.net:6204/soso/soso/9566
+#EXTINF:-1,Film1 Premiere HD
+http://m-iptv.net:6204/soso/soso/9565
 #EXTINF:-1,Film1 Drama HD
-http://109.236.86.108:28109/live/active/active/4891.ts
-#EXTINF:-1,HBO 1 HD
-http://109.236.86.108:28109/live/active/active/4889.ts
-#EXTINF:-1,HBO 2 HD
-http://109.236.86.108:28109/live/active/active/4888.ts
-#EXTINF:-1,HBO 3 HD
-http://109.236.86.108:28109/live/active/active/4887.ts
-#EXTINF:-1, E entertainement HD
-http://109.236.86.108:28109/live/active/active/4804.ts
+http://m-iptv.net:6204/soso/soso/9564
+#EXTINF:-1,Film1 Action HD Backup
+http://m-iptv.net:6204/soso/soso/13528
+#EXTINF:-1,Film1 Family HD Backup
+http://m-iptv.net:6204/soso/soso/13526
+#EXTINF:-1,Film1 Premiere HD Backup
+http://m-iptv.net:6204/soso/soso/13525
+#EXTINF:-1,Film1 Drama HD Backup
+http://m-iptv.net:6204/soso/soso/13527
+#EXTINF:-1,Look TV
+http://m-iptv.net:6204/soso/soso/9553
+#EXTINF:-1,192TV
+http://m-iptv.net:6204/soso/soso/9584
 #EXTINF:-1,24 Kitchen HD
-http://109.236.86.108:28109/live/active/active/4825.ts
-#EXTINF:-1,Spike HD
-http://109.236.86.108:28109/live/active/active/4801.ts
-#EXTINF:-1, Q2 HD
-http://109.236.86.108:28109/live/active/active/4806.ts
-#EXTINF:-1,Syfy
-http://109.236.86.108:28109/live/active/active/4824.ts
-#EXTINF:-1,TLC HD NL
-http://109.236.86.108:28109/live/active/active/4823.ts
-#EXTINF:-1,E HD
-http://109.236.86.108:28109/live/active/active/4805.ts
-#EXTINF:-1,Food Network
-http://109.236.86.108:28109/live/active/active/4967.ts
-#EXTINF:-1,Fox Life
-http://109.236.86.108:28109/live/active/active/4820.ts
-#EXTINF:-1,Fox NL
-http://109.236.86.108:28109/live/active/active/4966.ts
-#EXTINF:-1,Comedy Central Family
-http://109.236.86.108:28109/live/active/active/4818.ts
-#EXTINF:-1,Comedy Central
-http://109.236.86.108:28109/live/active/active/4817.ts
-#EXTINF:-1,Comedy Central extra
-http://109.236.86.108:28109/live/active/active/4815.ts
-#EXTINF:-1,Nick/Spike
-http://109.236.86.108:28109/live/active/active/4802.ts
-#EXTINF:-1,National.Geo
-http://109.236.86.108:28109/live/active/active/4885.ts
-#EXTINF:-1,Ngc Wild HD
-http://109.236.86.108:28109/live/active/active/4882.ts
-#EXTINF:-1,Animal Planet HD
-http://109.236.86.108:28109/live/active/active/4879.ts
-#EXTINF:-1, Comedy  Central
-http://109.236.86.108:28109/live/active/active/4816.ts
-#EXTINF:-1,History HD
-http://109.236.86.108:28109/live/active/active/4869.ts
-#EXTINF:-1,Crime Investigation
-http://109.236.86.108:28109/live/active/active/4965.ts
-#EXTINF:-1,Discovery Investigation HD
-http://109.236.86.108:28109/live/active/active/4873.ts
-#EXTINF:-1, Discovery
-http://109.236.86.108:28109/live/active/active/4875.ts
-#EXTINF:-1,Discovery Science HD
-http://109.236.86.108:28109/live/active/active/4872.ts
+http://m-iptv.net:6204/soso/soso/9583
+#EXTINF:-1,Comedy Central HD
+http://m-iptv.net:6204/soso/soso/9577
+#EXTINF:-1,Crime & Investigation
+http://m-iptv.net:6204/soso/soso/9576
+#EXTINF:-1,Comedy Central Eextra
+http://m-iptv.net:6204/soso/soso/9578
+#EXTINF:-1,Duck TV
+http://m-iptv.net:6204/soso/soso/9572
+#EXTINF:-1,E!
+http://m-iptv.net:6204/soso/soso/9571
+#EXTINF:-1,iConcerts HD
+http://m-iptv.net:6204/soso/soso/9551
+#EXTINF:-1,Ketnet HD
+http://m-iptv.net:6204/soso/soso/9548
+#EXTINF:-1,NET 5 HD
+http://m-iptv.net:6204/soso/soso/9545
+#EXTINF:-1,Omroep Brabant NL
+http://m-iptv.net:6204/soso/soso/11019
+#EXTINF:-1,Omroep Flevoland NL
+http://m-iptv.net:6204/soso/soso/11018
+#EXTINF:-1,Omroep Gelderland NL
+http://m-iptv.net:6204/soso/soso/11017
+#EXTINF:-1,Omroep West NL
+http://m-iptv.net:6204/soso/soso/11016
+#EXTINF:-1,Omroep Zeeland NL
+http://m-iptv.net:6204/soso/soso/11015
+#EXTINF:-1,Omrop Fryslan NL
+http://m-iptv.net:6204/soso/soso/11014
+#EXTINF:-1,RTV Drenthe NL
+http://m-iptv.net:6204/soso/soso/11012
+#EXTINF:-1,RTV Noord NL
+http://m-iptv.net:6204/soso/soso/11011
+#EXTINF:-1,RTV Oost NL
+http://m-iptv.net:6204/soso/soso/11010
+#EXTINF:-1,RTV Dordrecht NL
+http://m-iptv.net:6204/soso/soso/11050
+#EXTINF:-1,RTV Purmerend NL
+http://m-iptv.net:6204/soso/soso/11049
+#EXTINF:-1,RTV Rijnmond NL
+http://m-iptv.net:6204/soso/soso/11048
+#EXTINF:-1,RTV Slingeland NL
+http://m-iptv.net:6204/soso/soso/11047
+#EXTINF:-1,RTV Slos NL
+http://m-iptv.net:6204/soso/soso/11046
+#EXTINF:-1,RTV Totaal NL
+http://m-iptv.net:6204/soso/soso/11045
+#EXTINF:-1,RTV Utrecht NL
+http://m-iptv.net:6204/soso/soso/11044
+#EXTINF:-1,MTV NL
+http://m-iptv.net:6204/soso/soso/11057
+#EXTINF:-1,MTV Hits NL
+http://m-iptv.net:6204/soso/soso/11059
+#EXTINF:-1,MTV Music 24 NL
+http://m-iptv.net:6204/soso/soso/11058
+#EXTINF:-1,AT 5 NL
+http://m-iptv.net:6204/soso/soso/11024
+#EXTINF:-1,L1 TV NL
+http://m-iptv.net:6204/soso/soso/11022
+#EXTINF:-1,Nick Music NL
+http://m-iptv.net:6204/soso/soso/11021
+#EXTINF:-1,ONS NL
+http://m-iptv.net:6204/soso/soso/11013
+#EXTINF:-1,Spike NL
+http://m-iptv.net:6204/soso/soso/11009
+#EXTINF:-1,TV 538 NL
+http://m-iptv.net:6204/soso/soso/11007
+#EXTINF:-1,WOS NL
+http://m-iptv.net:6204/soso/soso/11006
+#EXTINF:-1,The Q You HD NL
+http://m-iptv.net:6204/soso/soso/11008
+#EXTINF:-1,TLC
+http://m-iptv.net:6204/soso/soso/9525
+#EXTINF:-1,TV Oranje
+http://m-iptv.net:6204/soso/soso/9524
+#EXTINF:-1,Fox Channel HD
+http://m-iptv.net:6204/soso/soso/9562
+#EXTINF:-1,BBC Entertainment NL
+http://m-iptv.net:6204/soso/soso/11066
+#EXTINF:-1,EDE TV NL
+http://m-iptv.net:6204/soso/soso/11063
+#EXTINF:-1,Feel Good TV NL
+http://m-iptv.net:6204/soso/soso/11061
+#EXTINF:-1,Klipkar TV NL
+http://m-iptv.net:6204/soso/soso/11060
+#EXTINF:-1,Salto 1 NL
+http://m-iptv.net:6204/soso/soso/11043
+#EXTINF:-1,Salto 2 NL
+http://m-iptv.net:6204/soso/soso/11042
+#EXTINF:-1,Slam! NL
+http://m-iptv.net:6204/soso/soso/11041
+#EXTINF:-1,Slotstad RTV NL
+http://m-iptv.net:6204/soso/soso/11040
+#EXTINF:-1,Viceland HD NL
+http://m-iptv.net:6204/soso/soso/11038
+#EXTINF:-1,Animal Planet
+http://m-iptv.net:6204/soso/soso/9582
+#EXTINF:-1,Nat Geo Wild HD
+http://m-iptv.net:6204/soso/soso/9546
+#EXTINF:-1,National Geographic HD NL
+http://m-iptv.net:6204/soso/soso/11056
+#EXTINF:-1,History HD DUT
+http://m-iptv.net:6204/soso/soso/9552
+#EXTINF:-1,Discovery Channel
+http://m-iptv.net:6204/soso/soso/9575
 #EXTINF:-1,Discovery Showcase HD
-http://109.236.86.108:28109/live/active/active/4870.ts
-#EXTINF:-1,Discovery World
-http://109.236.86.108:28109/live/active/active/4877.ts
-#EXTINF:-1,Travel Channel HD
-http://109.236.86.108:28109/live/active/active/4866.ts
-#EXTINF:-1,Veronica Disney XD
-http://109.236.86.108:28109/live/active/active/4914.ts
-#EXTINF:-1,Disney Channel
-http://109.236.86.108:28109/live/active/active/4977.ts
-#EXTINF:-1,Disney Junior
-http://109.236.86.108:28109/live/active/active/4976.ts
-#EXTINF:-1,Disney XD NL
-http://109.236.86.108:28109/live/active/active/4915.ts
-#EXTINF:-1,Cartoon.Network HD
-http://109.236.86.108:28109/live/active/active/4903.ts
-#EXTINF:-1,Baby TV HD
-http://109.236.86.108:28109/live/active/active/4905.ts
+http://m-iptv.net:6204/soso/soso/9574
+#EXTINF:-1,Investigation Discovery
+http://m-iptv.net:6204/soso/soso/9550
+#EXTINF:-1,Baby TV
+http://m-iptv.net:6204/soso/soso/9581
 #EXTINF:-1,Boomerang
-http://109.236.86.108:28109/live/active/active/4972.ts
-#EXTINF:-1,Nickelodeon HD
-http://109.236.86.108:28109/live/active/active/4974.ts
-#EXTINF:-1,Nicktoons HD
-http://109.236.86.108:28109/live/active/active/4906.ts
+http://m-iptv.net:6204/soso/soso/9580
+#EXTINF:-1,Disney Channel
+http://m-iptv.net:6204/soso/soso/9573
+#EXTINF:-1,Disney Channel NL
+http://m-iptv.net:6204/soso/soso/11065
+#EXTINF:-1,Disney Junior NL
+http://m-iptv.net:6204/soso/soso/11064
+#EXTINF:-1,Veronica Disney XD Full HD
+http://m-iptv.net:6204/soso/soso/11191
+#EXTINF:-1,Veronica/DisneyXD
+http://m-iptv.net:6204/soso/soso/9523
 #EXTINF:-1,JimJam
-http://109.236.86.108:28109/live/active/active/4902.ts
-#EXTINF:-1,Nick  JR
-http://109.236.86.108:28109/live/active/active/4975.ts
-#EXTINF:-1,Nick Music
-http://109.236.86.108:28109/live/active/active/4911.ts
+http://m-iptv.net:6204/soso/soso/9549
+#EXTINF:-1,Nick JR.
+http://m-iptv.net:6204/soso/soso/9544
+#EXTINF:-1,Nick Toons
+http://m-iptv.net:6204/soso/soso/9543
+#EXTINF:-1,Nickenldeon HD / Spike Channel
+http://m-iptv.net:6204/soso/soso/9542
+#EXTINF:-1,Motors TV
+http://m-iptv.net:6204/soso/soso/9547
+#EXTINF:-1,Extreme Sports
+http://m-iptv.net:6204/soso/soso/9568
