@@ -1,1181 +1,560 @@
 #EXTM3U
-#EXTINF:-1,TF1 FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6440.m3u8
-#EXTINF:-1,TF1 HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/13302.m3u8
-#EXTINF:-1,TF1 SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/18648.m3u8
-#EXTINF:-1,TF1 +1 FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/18963.m3u8
-#EXTINF:-1,TF1 +1 SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/21715.m3u8
-#EXTINF:-1,TF1 Séries Films FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/8292.m3u8
-#EXTINF:-1,TF1 Séries Films HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6513.m3u8
-#EXTINF:-1,TF1 Séries Films SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/18639.m3u8
-#EXTINF:-1,M6 FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/21545.m3u8
-#EXTINF:-1,M6 HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/13303.m3u8
-#EXTINF:-1,M6 SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/18642.m3u8
-#EXTINF:-1,M6 Boutique
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/9854.m3u8
-#EXTINF:-1,La Chaîne Météo HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/14024.m3u8
-#EXTINF:-1,France 2 FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/8286.m3u8
-#EXTINF:-1,France 2 HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6253.m3u8
-#EXTINF:-1,France 2 SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/18647.m3u8
-#EXTINF:-1,France 3 FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/8287.m3u8
-#EXTINF:-1,France 3 HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6254.m3u8
-#EXTINF:-1,France 3 SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/18646.m3u8
-#EXTINF:-1,France 4 FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/8288.m3u8
-#EXTINF:-1,France 4 HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6305.m3u8
-#EXTINF:-1,France 4 SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/18645.m3u8
-#EXTINF:-1,France 5 FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/8289.m3u8
-#EXTINF:-1,France 5 HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6306.m3u8
-#EXTINF:-1,France 5 SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/18644.m3u8
-#EXTINF:-1,France Ö FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/8290.m3u8
-#EXTINF:-1,France Ö HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6255.m3u8
-#EXTINF:-1,France Ö SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/18643.m3u8
-#EXTINF:-1,ARTE FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/8291.m3u8
-#EXTINF:-1,ARTE HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6512.m3u8
-#EXTINF:-1,ARTE SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/18630.m3u8
-#EXTINF:-1,Paris Premiere FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/8293.m3u8
-#EXTINF:-1,Paris Premiere HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6511.m3u8
-#EXTINF:-1,Paris Premiere SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/18635.m3u8
-#EXTINF:-1,TMC FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/8294.m3u8
-#EXTINF:-1,TMC HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6514.m3u8
-#EXTINF:-1,TMC SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/18637.m3u8
-#EXTINF:-1,TMC +1 FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/18964.m3u8
-#EXTINF:-1,TMC +1 SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/21717.m3u8
-#EXTINF:-1,TV BREIZH FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/8295.m3u8
-#EXTINF:-1,TV BREIZH HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6515.m3u8
-#EXTINF:-1,TV BREIZH SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/18634.m3u8
-#EXTINF:-1,6TER FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/8296.m3u8
-#EXTINF:-1,6TER HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6516.m3u8
-#EXTINF:-1,6TER SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/18633.m3u8
-#EXTINF:-1,NRJ 12 FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/8297.m3u8
-#EXTINF:-1,NRJ 12 HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6280.m3u8
-#EXTINF:-1,NRJ 12 SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/18636.m3u8
-#EXTINF:-1,VIVOLTA FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/9582.m3u8
-#EXTINF:-1,VIVOLTA HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/14305.m3u8
-#EXTINF:-1,VIVOLTA SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/21721.m3u8
-#EXTINF:-1,ALTICE STUDIO FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/9592.m3u8
-#EXTINF:-1,ALTICE STUDIO HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/13239.m3u8
-#EXTINF:-1,ALTICE STUDIO SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/26255.m3u8
-#EXTINF:-1,Non Stop People FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/13234.m3u8
-#EXTINF:-1,Non Stop People HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/22395.m3u8
-#EXTINF:-1,Non Stop People SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/22396.m3u8
-#EXTINF:-1,Viceland FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/9591.m3u8
-#EXTINF:-1,Viceland HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/22397.m3u8
-#EXTINF:-1,Viceland SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/22398.m3u8
-#EXTINF:-1,Novelas TV FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/17309.m3u8
-#EXTINF:-1,Novelas TV HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/22400.m3u8
-#EXTINF:-1,Novelas TV  SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/22399.m3u8
-#EXTINF:-1,Nautical Channel FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/24785.m3u8
-#EXTINF:-1,Nautical Channel HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/24787.m3u8
-#EXTINF:-1,SUNDANCE FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/9002.m3u8
-#EXTINF:-1,SUNDANCE SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/21678.m3u8
-#EXTINF:-1,LE PERE NOËL TV FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/25079.m3u8
-#EXTINF:-1,NOLLYWOOD FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/17312.m3u8
-#EXTINF:-1,VIA GRAND PARIS FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/23085.m3u8
-#EXTINF:-1,AEROSTAR TV FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/17310.m3u8
-#EXTINF:-1,MELODY TV HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/8276.m3u8
-#EXTINF:-1,Grand Lille TV HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/9003.m3u8
-#EXTINF:-1,NASA TV HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/11104.m3u8
-#EXTINF:-1,Alsace 20 HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/9851.m3u8
-#EXTINF:-1,Astrocenter TV
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/13926.m3u8
-#EXTINF:-1,Men's up TV HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/9853.m3u8
-#EXTINF:-1,Nolife TV HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/9855.m3u8
-#EXTINF:-1,KTO HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/13960.m3u8
-#EXTINF:-1,QVC SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/18623.m3u8
-#EXTINF:-1,•●★ Cinéma FR FHD/HD ★●•
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/20099.m3u8
-#EXTINF:-1,Canal+ FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6689.m3u8
-#EXTINF:-1,Canal+ HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/5942.m3u8
-#EXTINF:-1,Canal+ SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10423.m3u8
-#EXTINF:-1,Canal+ Cinema FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6690.m3u8
-#EXTINF:-1,Canal+ Cinema HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/5939.m3u8
-#EXTINF:-1,Canal+ Cinema SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10422.m3u8
-#EXTINF:-1,Canal+ Family FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6691.m3u8
-#EXTINF:-1,Canal+ Family HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/5940.m3u8
-#EXTINF:-1,Canal+ Family SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10421.m3u8
-#EXTINF:-1,Canal+ Decale FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6692.m3u8
-#EXTINF:-1,Canal+ Decale HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/5938.m3u8
-#EXTINF:-1,Canal+ Decale SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10420.m3u8
-#EXTINF:-1,Canal+ Series FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6693.m3u8
-#EXTINF:-1,Canal+ Series HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/5941.m3u8
-#EXTINF:-1,Canal+ Series SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10419.m3u8
-#EXTINF:-1,OCS Geants FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/8298.m3u8
-#EXTINF:-1,OCS Geants HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6163.m3u8
-#EXTINF:-1,OCS Geants SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/21693.m3u8
-#EXTINF:-1,OCS Max FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/8299.m3u8
-#EXTINF:-1,OCS Max HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6164.m3u8
-#EXTINF:-1,OCS Max SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/21692.m3u8
-#EXTINF:-1,OCS City FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/8300.m3u8
-#EXTINF:-1,OCS City HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6165.m3u8
-#EXTINF:-1,OCS City SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/21691.m3u8
-#EXTINF:-1,OCS Choc FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/8301.m3u8
-#EXTINF:-1,OCS Choc HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6166.m3u8
-#EXTINF:-1,OCS Choc SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/21690.m3u8
-#EXTINF:-1,CINE+ Premier FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/8302.m3u8
-#EXTINF:-1,CINE+ Premier HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/5943.m3u8
-#EXTINF:-1,CINE+ Premier SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/21689.m3u8
-#EXTINF:-1,CINE+ Frisson FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/8303.m3u8
-#EXTINF:-1,CINE+ Frisson HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/5944.m3u8
-#EXTINF:-1,CINE+ Frisson SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/21688.m3u8
-#EXTINF:-1,CINE+ Emotion FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/8304.m3u8
-#EXTINF:-1,CINE+ Emotion HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/5945.m3u8
-#EXTINF:-1,CINE+ Emotion SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/21687.m3u8
-#EXTINF:-1,CINE+ FAMIZ FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/8306.m3u8
-#EXTINF:-1,CINE+ FAMIZ HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6162.m3u8
-#EXTINF:-1,CINE+ FAMIZ SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/21686.m3u8
-#EXTINF:-1,CINE+ CLASSIC FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/8307.m3u8
-#EXTINF:-1,CINE+ CLASSIC HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/5946.m3u8
-#EXTINF:-1,CINE+ CLASSIC SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/21685.m3u8
-#EXTINF:-1,CINE+ CLUB FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6865.m3u8
-#EXTINF:-1,CINE+ CLUB HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/9586.m3u8
-#EXTINF:-1,CINE+ CLUB SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/21684.m3u8
-#EXTINF:-1,Polar+ FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/11699.m3u8
-#EXTINF:-1,Polar+ HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/13240.m3u8
-#EXTINF:-1,TCM CINEMA FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/8310.m3u8
-#EXTINF:-1,TCM CINEMA HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/8311.m3u8
-#EXTINF:-1,Paramount Channel FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/9587.m3u8
-#EXTINF:-1,Paramount Channel HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/8312.m3u8
-#EXTINF:-1,Paramount decale FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6196.m3u8
-#EXTINF:-1,Paramount decale HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10782.m3u8
-#EXTINF:-1,•●★ Sport FR FHD/HD ★●•
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/20100.m3u8
-#EXTINF:-1,beINSport 1 FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6154.m3u8
-#EXTINF:-1,beINSport 1 HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/5426.m3u8
-#EXTINF:-1,beINSport 1 SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6168.m3u8
-#EXTINF:-1,beINSport 2 FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6155.m3u8
-#EXTINF:-1,beINSport 2 HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/5427.m3u8
-#EXTINF:-1,beINSport 2 SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6169.m3u8
-#EXTINF:-1,beINSport 3 FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6156.m3u8
-#EXTINF:-1,beINSport 3 HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/5428.m3u8
-#EXTINF:-1,beINSport 3 SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6170.m3u8
-#EXTINF:-1,Canal+ Sport FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6694.m3u8
-#EXTINF:-1,Canal+ Sport HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/5949.m3u8
-#EXTINF:-1,Canal+ Sport SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10418.m3u8
-#EXTINF:-1,RMC SPORT NEWS FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/4734.m3u8
-#EXTINF:-1,RMC SPORT NEWS HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/21275.m3u8
-#EXTINF:-1,RMC SPORT NEWS SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/62.m3u8
-#EXTINF:-1,RMC Sport 1 FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/9594.m3u8
-#EXTINF:-1,RMC Sport 1 HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/5876.m3u8
-#EXTINF:-1,RMC Sport 1 SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/24298.m3u8
-#EXTINF:-1,RMC Sport 2 FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/9595.m3u8
-#EXTINF:-1,RMC Sport 2 HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6159.m3u8
-#EXTINF:-1,RMC Sport 2 SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/24299.m3u8
-#EXTINF:-1,RMC Sport 3 FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/17233.m3u8
-#EXTINF:-1,RMC Sport 3 HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6160.m3u8
-#EXTINF:-1,RMC Sport 3 SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/24300.m3u8
-#EXTINF:-1,RMC Sport 4 FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/9596.m3u8
-#EXTINF:-1,RMC Sport 4 HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/16841.m3u8
-#EXTINF:-1,RMC Sport 4 SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/875.m3u8
-#EXTINF:-1,RMC Sport 1 Access FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/23349.m3u8
-#EXTINF:-1,RMC Sport 1 Access HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/23690.m3u8
-#EXTINF:-1,RMC Sport 2 Access FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/23348.m3u8
-#EXTINF:-1,RMC Sport 2 Access HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/23691.m3u8
-#EXTINF:-1,RMC Sport 3 Access FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/23347.m3u8
-#EXTINF:-1,RMC Sport 3 Access HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/23692.m3u8
-#EXTINF:-1,RMC Sport Live 5 FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/24314.m3u8
-#EXTINF:-1,RMC Sport Live 6 FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/24313.m3u8
-#EXTINF:-1,RMC Sport Live 7 FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/24312.m3u8
-#EXTINF:-1,RMC Sport Live 8 FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/24311.m3u8
-#EXTINF:-1,RMC Sport Live 9 FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/24310.m3u8
-#EXTINF:-1,RMC Sport Live 10 FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/24309.m3u8
-#EXTINF:-1,RMC Sport Live 11 FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/24308.m3u8
-#EXTINF:-1,RMC Sport Live 12 FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/24307.m3u8
-#EXTINF:-1,RMC Sport Live 13 FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/24306.m3u8
-#EXTINF:-1,RMC Sport Live 14 FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/24305.m3u8
-#EXTINF:-1,RMC Sport Live 15 FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/24304.m3u8
-#EXTINF:-1,RMC Sport Live 16 FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/24303.m3u8
-#EXTINF:-1,BEIN MAX 4 HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6198.m3u8
-#EXTINF:-1,BEIN MAX 4 SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/18616.m3u8
-#EXTINF:-1,BEIN MAX 5 HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6199.m3u8
-#EXTINF:-1,BEIN MAX 5 SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/18615.m3u8
-#EXTINF:-1,BEIN MAX 6 HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6200.m3u8
-#EXTINF:-1,BEIN MAX 6 SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/18614.m3u8
-#EXTINF:-1,BEIN MAX 7 HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6201.m3u8
-#EXTINF:-1,BEIN MAX 7 SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/18613.m3u8
-#EXTINF:-1,BEIN MAX 8 HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6202.m3u8
-#EXTINF:-1,BEIN MAX 8 SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/18612.m3u8
-#EXTINF:-1,BEIN MAX 9 HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6203.m3u8
-#EXTINF:-1,BEIN MAX 9 SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/18611.m3u8
-#EXTINF:-1,BEIN MAX 10 HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6204.m3u8
-#EXTINF:-1,BEIN MAX 10 SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/18610.m3u8
-#EXTINF:-1,Eurosport 1 FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10611.m3u8
-#EXTINF:-1,Eurosport 1 HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6185.m3u8
-#EXTINF:-1,Eurosport 1 SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/13906.m3u8
-#EXTINF:-1,Eurosport 2 FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6186.m3u8
-#EXTINF:-1,Eurosport 2 HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10610.m3u8
-#EXTINF:-1,Eurosport 2 SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/13927.m3u8
-#EXTINF:-1,MultiSport 1 HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10601.m3u8
-#EXTINF:-1,MultiSport 2 HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10602.m3u8
-#EXTINF:-1,MultiSport 3 HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10603.m3u8
-#EXTINF:-1,MultiSport 4 HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10604.m3u8
-#EXTINF:-1,MultiSport 5 HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10605.m3u8
-#EXTINF:-1,MultiSport 6 HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10606.m3u8
-#EXTINF:-1,Foot+ 24/24 HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10607.m3u8
-#EXTINF:-1,InfoSport FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10608.m3u8
-#EXTINF:-1,InfoSport HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10609.m3u8
-#EXTINF:-1,InfoSport SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/63.m3u8
-#EXTINF:-1,OL TV HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/12032.m3u8
-#EXTINF:-1,Equipe 21 FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10612.m3u8
-#EXTINF:-1,Equipe 21 HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10613.m3u8
-#EXTINF:-1,Equipe 21 SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/13961.m3u8
-#EXTINF:-1,Equidia Live FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10615.m3u8
-#EXTINF:-1,Equidia Live HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10614.m3u8
-#EXTINF:-1,Equidia Live SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/18608.m3u8
-#EXTINF:-1,Golf + FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/5528.m3u8
-#EXTINF:-1,Golf + HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10619.m3u8
-#EXTINF:-1,Golf + SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/24608.m3u8
-#EXTINF:-1,Golf Channel FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10620.m3u8
-#EXTINF:-1,Golf Channel HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10621.m3u8
-#EXTINF:-1,Golf Channel SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/5568.m3u8
-#EXTINF:-1,Trace Sport Stars FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/9864.m3u8
-#EXTINF:-1,Trace Sport Stars HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/22401.m3u8
-#EXTINF:-1,Trace Sport Stars SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/22402.m3u8
-#EXTINF:-1,Extreme Sports HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/13971.m3u8
-#EXTINF:-1,Automoto FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10618.m3u8
-#EXTINF:-1,Automoto SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/18620.m3u8
-#EXTINF:-1,Musculation TV HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/17311.m3u8
-#EXTINF:-1,•●★Culture FR FHD/HD ★●•
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/20101.m3u8
-#EXTINF:-1,ULTRA NATURE UHD (4K)
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/14105.m3u8
-#EXTINF:-1,ULTRA NATURE HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/21622.m3u8
-#EXTINF:-1,ULTRA NATURE SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/22403.m3u8
-#EXTINF:-1,Museum Channel FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/9902.m3u8
-#EXTINF:-1,Museum Channel HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/22405.m3u8
-#EXTINF:-1,Museum Channel SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/22404.m3u8
-#EXTINF:-1,MY ZEN TV FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/9603.m3u8
-#EXTINF:-1,MY ZEN TV HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/21712.m3u8
-#EXTINF:-1,My Cuisine FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/8092.m3u8
-#EXTINF:-1,My Cuisine HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/12426.m3u8
-#EXTINF:-1,Crime District FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/9583.m3u8
-#EXTINF:-1,Crime District HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/9584.m3u8
-#EXTINF:-1,Crime District SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/18651.m3u8
-#EXTINF:-1,Discovery ID FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10622.m3u8
-#EXTINF:-1,Discovery ID HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6157.m3u8
-#EXTINF:-1,Discovery Family FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/9863.m3u8
-#EXTINF:-1,Discovery Family HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/21677.m3u8
-#EXTINF:-1,Discovery Channel FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/8313.m3u8
-#EXTINF:-1,Discovery Channel HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6194.m3u8
-#EXTINF:-1,Discovery Channel SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/18037.m3u8
-#EXTINF:-1,Discovery Science FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/8314.m3u8
-#EXTINF:-1,Discovery Science HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6195.m3u8
-#EXTINF:-1,Discovery Science SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/18038.m3u8
-#EXTINF:-1,PLANETE + FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6242.m3u8
-#EXTINF:-1,PLANETE + HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/8315.m3u8
-#EXTINF:-1,PLANETE CI FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6256.m3u8
-#EXTINF:-1,PLANETE CI HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/8316.m3u8
-#EXTINF:-1,PLANETE A&E FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/8317.m3u8
-#EXTINF:-1,PLANETE A&E HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6257.m3u8
-#EXTINF:-1,NAT GEO FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6258.m3u8
-#EXTINF:-1,NAT GEO HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/8318.m3u8
-#EXTINF:-1,NAT GEO Wild FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6259.m3u8
-#EXTINF:-1,NAT GEO Wild HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/8319.m3u8
-#EXTINF:-1,Ushuaia TV FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/8320.m3u8
-#EXTINF:-1,Ushuaia TV HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6278.m3u8
-#EXTINF:-1,Ushuaia TV SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/18627.m3u8
-#EXTINF:-1,VOYAGE FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/8321.m3u8
-#EXTINF:-1,VOYAGE HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6279.m3u8
-#EXTINF:-1,VOYAGE SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/19143.m3u8
-#EXTINF:-1,RMC Decouverte FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/8322.m3u8
-#EXTINF:-1,RMC Decouverte HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6197.m3u8
-#EXTINF:-1,RMC Decouverte SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/18628.m3u8
-#EXTINF:-1,Chasse & Peche FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/8309.m3u8
-#EXTINF:-1,Chasse & Peche HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/8323.m3u8
-#EXTINF:-1,TREK FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6857.m3u8
-#EXTINF:-1,TREK HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10623.m3u8
-#EXTINF:-1,TREK SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/21719.m3u8
-#EXTINF:-1,Animaux FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6856.m3u8
-#EXTINF:-1,Animaux HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10624.m3u8
-#EXTINF:-1,Animaux SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/13953.m3u8
-#EXTINF:-1,Seasons FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10625.m3u8
-#EXTINF:-1,Seasons HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/8324.m3u8
-#EXTINF:-1,Science et Vie FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/8325.m3u8
-#EXTINF:-1,Science et Vie HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6858.m3u8
-#EXTINF:-1,HISTOIRE FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6859.m3u8
-#EXTINF:-1,HISTOIRE HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10626.m3u8
-#EXTINF:-1,HISTOIRE SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/18626.m3u8
-#EXTINF:-1,Toute L'histoire HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/8326.m3u8
-#EXTINF:-1,Toute L'histoire SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/21718.m3u8
-#EXTINF:-1,•●★ Information FR FHD/HD ★●•
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/20102.m3u8
-#EXTINF:-1,LA Chaine Parlementaire FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/13233.m3u8
-#EXTINF:-1,LCI FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6288.m3u8
-#EXTINF:-1,LCI SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/18590.m3u8
-#EXTINF:-1,I-24 NEWS FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10628.m3u8
-#EXTINF:-1,I-24 NEWS HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10629.m3u8
-#EXTINF:-1,C News FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10630.m3u8
-#EXTINF:-1,Euronews FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/24766.m3u8
-#EXTINF:-1,Euronews HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10631.m3u8
-#EXTINF:-1,Euronews SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/18589.m3u8
-#EXTINF:-1,TV5 MONDE FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/13842.m3u8
-#EXTINF:-1,TV5 MONDE HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6861.m3u8
-#EXTINF:-1,TV5 MONDE SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/18629.m3u8
-#EXTINF:-1,BFM TV FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10633.m3u8
-#EXTINF:-1,BFM TV HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10632.m3u8
-#EXTINF:-1,BFM TV SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/18591.m3u8
-#EXTINF:-1,BFM Business FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/13965.m3u8
-#EXTINF:-1,BFM Business HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/13972.m3u8
-#EXTINF:-1,BFM Business SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/21095.m3u8
-#EXTINF:-1,BFM Paris HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/13894.m3u8
-#EXTINF:-1,France 24 HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6860.m3u8
-#EXTINF:-1,France Info FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/14032.m3u8
-#EXTINF:-1,France Info HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10634.m3u8
-#EXTINF:-1,France Info SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/5566.m3u8
-#EXTINF:-1,IDF 1 FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/13966.m3u8
-#EXTINF:-1,Public Sénat
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/12001.m3u8
-#EXTINF:-1,RT France
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/17314.m3u8
-#EXTINF:-1,RTL FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/14012.m3u8
-#EXTINF:-1,TV7 Bordeaux FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/13959.m3u8
-#EXTINF:-1,TV8 MONT BLANC FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/13238.m3u8
-#EXTINF:-1,IL TV SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/13962.m3u8
-#EXTINF:-1,ITELE SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/18588.m3u8
-#EXTINF:-1,LA CHAINE NORMANDIE
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/13963.m3u8
-#EXTINF:-1,•●★ Séries/Diver FR FHD/HD ★●•
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/20103.m3u8
-#EXTINF:-1,WARNER TV FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/13244.m3u8
-#EXTINF:-1,WARNER TV HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/21675.m3u8
-#EXTINF:-1,A+ FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/9903.m3u8
-#EXTINF:-1,Elle Girl FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/5937.m3u8
-#EXTINF:-1,Elle Girl HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10635.m3u8
-#EXTINF:-1,Serie Club FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10636.m3u8
-#EXTINF:-1,Serie Club HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6273.m3u8
-#EXTINF:-1,SYFY FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10637.m3u8
-#EXTINF:-1,SYFY HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6274.m3u8
-#EXTINF:-1,13eme Rue FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10638.m3u8
-#EXTINF:-1,13Eme Rue HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6275.m3u8
-#EXTINF:-1,Action FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10639.m3u8
-#EXTINF:-1,Action HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6276.m3u8
-#EXTINF:-1,Comedie+ FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10640.m3u8
-#EXTINF:-1,Comedie+ HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6277.m3u8
-#EXTINF:-1,Bet FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10641.m3u8
-#EXTINF:-1,Bet HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6867.m3u8
-#EXTINF:-1,AB1 FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10643.m3u8
-#EXTINF:-1,AB1 HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10642.m3u8
-#EXTINF:-1,W9 FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6862.m3u8
-#EXTINF:-1,W9 HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10644.m3u8
-#EXTINF:-1,W9 SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/18640.m3u8
-#EXTINF:-1,C8 FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/9839.m3u8
-#EXTINF:-1,C8 HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10645.m3u8
-#EXTINF:-1,C8 SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/18641.m3u8
-#EXTINF:-1,E! FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6863.m3u8
-#EXTINF:-1,E! HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10646.m3u8
-#EXTINF:-1,RMC Story FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6864.m3u8
-#EXTINF:-1,RMC Story HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10647.m3u8
-#EXTINF:-1,RMC Story SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/18632.m3u8
-#EXTINF:-1,Cherie 25 FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6855.m3u8
-#EXTINF:-1,Cherie 25 HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10648.m3u8
-#EXTINF:-1,Cherie 25 SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/21097.m3u8
-#EXTINF:-1,ES1 FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/22446.m3u8
-#EXTINF:-1,TFX FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10652.m3u8
-#EXTINF:-1,TFX HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10651.m3u8
-#EXTINF:-1,TFX SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/18638.m3u8
-#EXTINF:-1,Teva FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10653.m3u8
-#EXTINF:-1,Teva SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/18631.m3u8
-#EXTINF:-1,Weo FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10654.m3u8
-#EXTINF:-1,Weo SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/21720.m3u8
-#EXTINF:-1,C Star FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10656.m3u8
-#EXTINF:-1,C Star HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10655.m3u8
-#EXTINF:-1,C Star SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/18606.m3u8
-#EXTINF:-1,RTL 9 FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10658.m3u8
-#EXTINF:-1,RTL 9 HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10657.m3u8
-#EXTINF:-1,RTL 9 SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/21096.m3u8
-#EXTINF:-1,GIRONDINS TV
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/13236.m3u8
-#EXTINF:-1,Gong Max FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/13235.m3u8
-#EXTINF:-1,Game One +1 HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/9602.m3u8
-#EXTINF:-1,Canal Alpha FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/5588.m3u8
-#EXTINF:-1,TV LUX FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/13801.m3u8
-#EXTINF:-1,Rouge TV FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/5585.m3u8
-#EXTINF:-1,Rouge TV HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/17328.m3u8
-#EXTINF:-1,GINX SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/18622.m3u8
-#EXTINF:-1,LUXE TV SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/18624.m3u8
-#EXTINF:-1,Lucky Jack TV
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/5569.m3u8
-#EXTINF:-1,Ouatch TV
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/5573.m3u8
-#EXTINF:-1,•●★ Musique FR FHD/HD ★●•
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/20104.m3u8
-#EXTINF:-1,CLIQUE TV FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/25083.m3u8
-#EXTINF:-1,C Star Hits FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/20354.m3u8
-#EXTINF:-1,LFM TV FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/13242.m3u8
-#EXTINF:-1,LFM TV HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/13243.m3u8
-#EXTINF:-1,One TV FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/13237.m3u8
-#EXTINF:-1,One TV HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/13241.m3u8
-#EXTINF:-1,RFM TV FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/9865.m3u8
-#EXTINF:-1,Brava FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6866.m3u8
-#EXTINF:-1,BRAVA SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/18599.m3u8
-#EXTINF:-1,Mezzo Live FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10590.m3u8
-#EXTINF:-1,Mezzo HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/9904.m3u8
-#EXTINF:-1,M6 music FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10884.m3u8
-#EXTINF:-1,M6 music HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10885.m3u8
-#EXTINF:-1,NRJ Hits FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10886.m3u8
-#EXTINF:-1,NRJ Hits SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/18605.m3u8
-#EXTINF:-1,TMA TV
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/24780.m3u8
-#EXTINF:-1,MTV France FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10880.m3u8
-#EXTINF:-1,MTV France HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10883.m3u8
-#EXTINF:-1,MTV Hits FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10881.m3u8
-#EXTINF:-1,MTV Hits HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10882.m3u8
-#EXTINF:-1,MTV Dance HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10887.m3u8
-#EXTINF:-1,Trace Tropical FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/13802.m3u8
-#EXTINF:-1,Trace Tropical HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10888.m3u8
-#EXTINF:-1,Trace Urban FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10890.m3u8
-#EXTINF:-1,Trace Urban HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10889.m3u8
-#EXTINF:-1,Trace Urban SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/18600.m3u8
-#EXTINF:-1,Trace Africa FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10891.m3u8
-#EXTINF:-1,Trace Mziki HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/17306.m3u8
-#EXTINF:-1,Trace Naija HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/17307.m3u8
-#EXTINF:-1,Trace Toca HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/17308.m3u8
-#EXTINF:-1,MCM FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10892.m3u8
-#EXTINF:-1,MCM HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/24790.m3u8
-#EXTINF:-1,MCM SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/18603.m3u8
-#EXTINF:-1,MCM TOP FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10893.m3u8
-#EXTINF:-1,MCM TOP HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/5581.m3u8
-#EXTINF:-1,Clubbing TV
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/5570.m3u8
-#EXTINF:-1,Indies Live
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/12323.m3u8
-#EXTINF:-1,VH1
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/17330.m3u8
-#EXTINF:-1,VH1 CLASSIC
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/17329.m3u8
-#EXTINF:-1,FRESH TV
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/13904.m3u8
-#EXTINF:-1,Music Top HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/13895.m3u8
-#EXTINF:-1,OKLM TV FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/18075.m3u8
-#EXTINF:-1,•●★ Enfants FR FHD/HD ★●•
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/20105.m3u8
-#EXTINF:-1,J-One FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/9606.m3u8
-#EXTINF:-1,TOONAMI FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/8280.m3u8
-#EXTINF:-1,TOONAMI HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/24765.m3u8
-#EXTINF:-1,TOONAMI SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/21669.m3u8
-#EXTINF:-1,Cartoon Network FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/9758.m3u8
-#EXTINF:-1,Cartoon Network HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6252.m3u8
-#EXTINF:-1,Disney Cinema FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/9750.m3u8
-#EXTINF:-1,Disney Cinema HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6248.m3u8
-#EXTINF:-1,Disney Junior FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/9751.m3u8
-#EXTINF:-1,Disney Junior HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6251.m3u8
-#EXTINF:-1,Disney Channel FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/9752.m3u8
-#EXTINF:-1,Disney Channel HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6249.m3u8
-#EXTINF:-1,Disney Channel SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/18597.m3u8
-#EXTINF:-1,Disney Channel +1 FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/9857.m3u8
-#EXTINF:-1,Disney Channel +1 SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/18596.m3u8
-#EXTINF:-1,Disney XD FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/9753.m3u8
-#EXTINF:-1,Disney XD HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6250.m3u8
-#EXTINF:-1,Game One FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10649.m3u8
-#EXTINF:-1,Game One SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/18593.m3u8
-#EXTINF:-1,Game One HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10650.m3u8
-#EXTINF:-1,Gong TV FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/9866.m3u8
-#EXTINF:-1,Gong TV SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/13955.m3u8
-#EXTINF:-1,BoomeRang FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/9754.m3u8
-#EXTINF:-1,BoomeRang HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6262.m3u8
-#EXTINF:-1,Nickelodeon FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6263.m3u8
-#EXTINF:-1,Nickelodeon HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10877.m3u8
-#EXTINF:-1,Nickelodeon SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/21681.m3u8
-#EXTINF:-1,Nickelodeon +1 FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/18965.m3u8
-#EXTINF:-1,Nickelodeon +1 HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/21680.m3u8
-#EXTINF:-1,Nickelodeon Junior FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/13995.m3u8
-#EXTINF:-1,Nickelodeon Junior HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6264.m3u8
-#EXTINF:-1,Nickelodeon Junior SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/21679.m3u8
-#EXTINF:-1,Nickelodeon 4Teen FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10879.m3u8
-#EXTINF:-1,Nickelodeon 4Teen HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/10878.m3u8
-#EXTINF:-1,Nickelodeon 4Teen SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6737.m3u8
-#EXTINF:-1,TéléTOON + FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/9755.m3u8
-#EXTINF:-1,TéléTOON + HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6267.m3u8
-#EXTINF:-1,TéléTOON +1 FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/14045.m3u8
-#EXTINF:-1,TéléTOON +1 HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6268.m3u8
-#EXTINF:-1,TéléTOON +1 SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/116.m3u8
-#EXTINF:-1,Gulli FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/9759.m3u8
-#EXTINF:-1,Gulli HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6265.m3u8
-#EXTINF:-1,Gulli SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/18598.m3u8
-#EXTINF:-1,BOING FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/9760.m3u8
-#EXTINF:-1,BOING HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6266.m3u8
-#EXTINF:-1,Canal J FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/9756.m3u8
-#EXTINF:-1,Canal J HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6269.m3u8
-#EXTINF:-1,Mangas FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/9761.m3u8
-#EXTINF:-1,Mangas HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6270.m3u8
-#EXTINF:-1,Tiji FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/9762.m3u8
-#EXTINF:-1,Tiji HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6271.m3u8
-#EXTINF:-1,Tiji SD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/21716.m3u8
-#EXTINF:-1,Piwi+ FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/9757.m3u8
-#EXTINF:-1,Piwi+ HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6272.m3u8
-#EXTINF:-1,BABY TV HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/2191.m3u8
-#EXTINF:-1,•●★-PPV CANALPAY CINEMA -★●•
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/1290.m3u8
-#EXTINF:-1,Cine CanalPlay 1
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/3736.m3u8
-#EXTINF:-1,Cine CanalPlay 2
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/3737.m3u8
-#EXTINF:-1,Cine CanalPlay 3
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/3738.m3u8
-#EXTINF:-1,Cine CanalPlay 4
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/3739.m3u8
-#EXTINF:-1,Cine CanalPlay 5
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/3740.m3u8
-#EXTINF:-1,Cine CanalPlay 6
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/3741.m3u8
-#EXTINF:-1,Cine CanalPlay 7
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/3742.m3u8
-#EXTINF:-1,Cine CanalPlay 8
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/3743.m3u8
-#EXTINF:-1,Cine CanalPlay 9
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/3744.m3u8
-#EXTINF:-1,Cine CanalPlay 10
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/3745.m3u8
-#EXTINF:-1,•●★-PPV A La Carte-★●•
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/697.m3u8
-#EXTINF:-1,A La Carte 1
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/3747.m3u8
-#EXTINF:-1,A La Carte 2
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/3748.m3u8
-#EXTINF:-1,A La Carte 3
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/3749.m3u8
-#EXTINF:-1,A La Carte 4
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/3750.m3u8
-#EXTINF:-1,A La Carte 5
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/3751.m3u8
-#EXTINF:-1,A La Carte 6
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/3752.m3u8
-#EXTINF:-1,A La Carte 7
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/3753.m3u8
-#EXTINF:-1,A La Carte 8
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/3754.m3u8
-#EXTINF:-1,A La Carte 9
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/3755.m3u8
-#EXTINF:-1,A La Carte 10
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/3756.m3u8
-#EXTINF:-1,•●★-ORANGE CINEMA FR--★●•
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/13298.m3u8
-#EXTINF:-1,Orange Cinema ACTION HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/3770.m3u8
-#EXTINF:-1,Orange Cinema Aventure HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/4246.m3u8
-#EXTINF:-1,Orange Cinema COMEDIE HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/3771.m3u8
-#EXTINF:-1,Orange Cinema DISNEY HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/4249.m3u8
-#EXTINF:-1,Orange Cinema DOCUMENTAIRE HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/4248.m3u8
-#EXTINF:-1,Orange Cinema ENQUETE EXCLUSIVE HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/4250.m3u8
-#EXTINF:-1,Orange Cinema HORREUR HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/4247.m3u8
-#EXTINF:-1,•●★-ORANGE DISNEY FR--★●•
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/13300.m3u8
-#EXTINF:-1,ORANGE DISNEY 1
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/5829.m3u8
-#EXTINF:-1,ORANGE DISNEY 2
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/5830.m3u8
-#EXTINF:-1,ORANGE DISNEY 3
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/5831.m3u8
-#EXTINF:-1,ORANGE DISNEY 4
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/5832.m3u8
-#EXTINF:-1,ORANGE DISNEY 5
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/5836.m3u8
-#EXTINF:-1,ORANGE DISNEY 6
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/5837.m3u8
-#EXTINF:-1,•●★-ORANGE PREMIUM FR--★●•
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/13299.m3u8
-#EXTINF:-1,Orange Premium 1
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/5809.m3u8
-#EXTINF:-1,Orange Premium 2
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/5810.m3u8
-#EXTINF:-1,Orange Premium 3
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/5811.m3u8
-#EXTINF:-1,Orange Premium 4
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/5812.m3u8
-#EXTINF:-1,Orange Premium 5
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/5813.m3u8
-#EXTINF:-1,Orange Premium 6
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/5814.m3u8
-#EXTINF:-1,Orange Premium 7
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/5815.m3u8
-#EXTINF:-1,Orange Premium 8
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/5816.m3u8
-#EXTINF:-1,•●★-SFR CINE A LA DEMANDE-★●•
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/3803.m3u8
-#EXTINF:-1,SFR CINE A LA DEMANDE 1
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/3800.m3u8
-#EXTINF:-1,SFR CINE A LA DEMANDE 2
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/3801.m3u8
-#EXTINF:-1,SFR CINE A LA DEMANDE 3
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/3802.m3u8
-#EXTINF:-1,•●★ BELGIUM CHANNELS ★●•
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/720.m3u8
-#EXTINF:-1,BE: Cine+ 1
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/3757.m3u8
-#EXTINF:-1,BE: Cine+ 2
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/3758.m3u8
-#EXTINF:-1,BE: Cine+ 3
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/3759.m3u8
-#EXTINF:-1,BE: Cine+ Anim
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/3760.m3u8
-#EXTINF:-1,BE: La Une FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6518.m3u8
-#EXTINF:-1,BE: La Une HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/84.m3u8
-#EXTINF:-1,BE: La Deux FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6519.m3u8
-#EXTINF:-1,BE: La Deux HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/85.m3u8
-#EXTINF:-1,BE: La Trois FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6520.m3u8
-#EXTINF:-1,BE: La Trois HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/86.m3u8
-#EXTINF:-1,BE: RTL TVI FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6521.m3u8
-#EXTINF:-1,BE: RTL TVI HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/719.m3u8
-#EXTINF:-1,BE: PLUG RTL FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/11698.m3u8
-#EXTINF:-1,BE: PLUG RTL HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/723.m3u8
-#EXTINF:-1,BE: Club RTL FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6522.m3u8
-#EXTINF:-1,BE: Club RTL HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/721.m3u8
-#EXTINF:-1,BE: ABXplore HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/511.m3u8
-#EXTINF:-1,BE: BFM TV FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/13924.m3u8
-#EXTINF:-1,BE: BFM TV HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/87.m3u8
-#EXTINF:-1,BE: AB3 FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/14141.m3u8
-#EXTINF:-1,BE: AB3 HD-S
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/24791.m3u8
-#EXTINF:-1,BE: AB3 HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6205.m3u8
-#EXTINF:-1,BE: AB3
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/2835.m3u8
-#EXTINF:-1,BE: Notélé HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/13925.m3u8
-#EXTINF:-1,BE: MATÉLÉ
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/724.m3u8
-#EXTINF:-1,BE: bx1 HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/9598.m3u8
-#EXTINF:-1,BE: bx1
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/13958.m3u8
-#EXTINF:-1,BE: Canvas FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/11693.m3u8
-#EXTINF:-1,BE: VTM FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/11691.m3u8
-#EXTINF:-1,BE: VTM KZoum
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/11695.m3u8
-#EXTINF:-1,BE: Een FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/11689.m3u8
-#EXTINF:-1,BE: Q2 FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/11694.m3u8
-#EXTINF:-1,BE: NRJ Hits HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/12318.m3u8
-#EXTINF:-1,BE: Vier FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/11690.m3u8
-#EXTINF:-1,BE: Vijf HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/11697.m3u8
-#EXTINF:-1,BE: ZES TV
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/12154.m3u8
-#EXTINF:-1,BE: Kadet
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/12158.m3u8
-#EXTINF:-1,BE: ATV
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/12316.m3u8
-#EXTINF:-1,BE: ACTV
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/22820.m3u8
-#EXTINF:-1,BE: TV OOST
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/12321.m3u8
-#EXTINF:-1,BE: Canal C
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/12320.m3u8
-#EXTINF:-1,BE: Vitaya
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/11692.m3u8
-#EXTINF:-1,BE: Bel RTL VISION HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/16312.m3u8
-#EXTINF:-1,BE: Fun Radio Vision
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/16311.m3u8
-#EXTINF:-1,BE: Radio Contact Vision
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/11883.m3u8
-#EXTINF:-1,•●★ SPORTS BE ★●•
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/14650.m3u8
-#EXTINF:-1,BE: Eleven Sports 1
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/22624.m3u8
-#EXTINF:-1,BE: Eleven Sports 2
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/22623.m3u8
-#EXTINF:-1,BE: VOO SPORT 1 FHD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/4540.m3u8
-#EXTINF:-1,BE: VOO SPORT 1 HD-S
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/722.m3u8
-#EXTINF:-1,BE: VOO SPORT WORLD 1
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/11635.m3u8
-#EXTINF:-1,BE: VOO SPORT WORLD 2
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/11634.m3u8
-#EXTINF:-1,BE: VOO SPORT WORLD 3
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/6158.m3u8
-#EXTINF:-1,•●★ Luxembourg TV ★●•
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/13887.m3u8
-#EXTINF:-1,LUX: RTL Télé 1 HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/13883.m3u8
-#EXTINF:-1,LUX: RTL Télé 2 HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/13884.m3u8
-#EXTINF:-1,LUX: TV Lux HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/13886.m3u8
-#EXTINF:-1,LUX: Eldo TV HD
-http://panel.globepremium.com:80/live/maestro14098/26b135ebc9/13885.m3u8
+#EXTINF:0,FR:LOCAL TF1
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/3338
+#EXTINF:0,FR:LOCAL RTS Un
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/3339
+#EXTINF:0,FR:LOCAL RTS Deux
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/3340
+#EXTINF:0,FR:LOCAL L'Èquipe 21
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/3345
+#EXTINF:0,FR:LOCAL Gulli
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/3349
+#EXTINF:0,FR:LOCAL France ‘
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/3350
+#EXTINF:0,FR:LOCAL France 5
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/3351
+#EXTINF:0,FR:LOCAL France 4
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/3352
+#EXTINF:0,FR:LOCAL France 3
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/3353
+#EXTINF:0,FR:LOCAL France 2
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/3354
+#EXTINF:0,FR:LOCAL Euronews Fr
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/3355
+#EXTINF:0,FR:LOCAL Canal  Sport
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/3358
+#EXTINF:0,FR:LOCAL Canal
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/3359
+#EXTINF:0,FR:LOCAL 6ter HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/3362
+#EXTINF:0,FR:  I tele
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/3335
+#EXTINF:0,FR: LOCAL M6 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/4790
+#EXTINF:0,FR: D8 & C8 Backup
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/5469
+#EXTINF:0,FR:LOCAL W9
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/3336
+#EXTINF:0,FR:LOCAL TMC
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/3337
+#EXTINF:0,FR: SFR Sport 1 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/5038
+#EXTINF:0,FR: Season_HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/3784
+#EXTINF:0,FR: SFR SPORT 3
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/3785
+#EXTINF:0,FR: beINSport 1 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1032
+#EXTINF:0,FR: beINSport 2 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1033
+#EXTINF:0,FR: beINSport  3 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1034
+#EXTINF:0,FR: BEiN SPORT 3 Backup
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/5385
+#EXTINF:0,FR: BEiN SPORT 2 Backup
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/5384
+#EXTINF:0,FR: BEiN SPORT 1 Backup
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/5383
+#EXTINF:0,FR : Bein Sport max 4
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/8498
+#EXTINF:0,FR: Bein Sport Max 10
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/8504
+#EXTINF:0,FR: Bein Sport Max 5
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/8503
+#EXTINF:0,FR: Bein Sport Max 6
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/8502
+#EXTINF:0,FR: Bein Sport Max 7
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/8501
+#EXTINF:0,FR: Bein Sport Max 8
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/8500
+#EXTINF:0,FR: Bein Sport Max 9
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/8499
+#EXTINF:0,FR: BEIN MAX 4
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1922
+#EXTINF:0,FR: BEINSPORT_MAX5
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1921
+#EXTINF:0,FR: SFR_Sport_2_HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/3782
+#EXTINF:0,FR: CANAL  SPORT HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1003
+#EXTINF:0,FR: E! Entertainment
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/3319
+#EXTINF:0,FR: SPORTS+
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2519
+#EXTINF:0,FR: INFO SPORT+
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2520
+#EXTINF:0,FR: Eurosport-2
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1986
+#EXTINF:0,FR: EURONEWS
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/3317
+#EXTINF:0,FR: EuroSport 1 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1400
+#EXTINF:0,FR: Canal Plus Sport HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1393
+#EXTINF:0,FR: Cine Plus Premier HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1386
+#EXTINF:0,FR: Cine Plus Frisson HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1387
+#EXTINF:0,FR: OCS Geants HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1995
+#EXTINF:0,FR :SYFY HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1837
+#EXTINF:0,FR: OCS CITY
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1838
+#EXTINF:0,FR:OCS CHOC HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1839
+#EXTINF:0,FR:OCS MAX
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1994
+#EXTINF:0,FR: CANAL PLAY 3
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2004
+#EXTINF:0,FR: CANAL PLAY 2
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2643
+#EXTINF:0,FR: CANAL PLAY 4
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2644
+#EXTINF:0,FR: CANAL PLAY 6
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2645
+#EXTINF:0,FR: CANAL PLAY 13
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2652
+#EXTINF:0,FR: CINE POLAR
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2536
+#EXTINF:0,FR: CANAL FAMILY HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2538
+#EXTINF:0,FR:  LAUNE
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2541
+#EXTINF:0,FR: Orange Cine Comedie HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2488
+#EXTINF:0,FR: Orange Cine Action HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2490
+#EXTINF:0,FR: Cine Plus Famiz HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1388
+#EXTINF:0,FR: Cine Plus Emotion HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1389
+#EXTINF:0,FR: CINE FX
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1870
+#EXTINF:0,FR: Cine Classic HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1390
+#EXTINF:0,FR: CANAL Series HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1246
+#EXTINF:0,FR: Canal Plus Series HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1394
+#EXTINF:0,FR: Canal Plus Decale HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1406
+#EXTINF:0,FR: Canal Plus Cinema HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1395
+#EXTINF:0,FR: Canal  Cinema HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1037
+#EXTINF:0,FR: Action HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1410
+#EXTINF:0,FR: BFM TV
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2376
+#EXTINF:0,FR: BoomeRang
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1398
+#EXTINF:0,FR: BFM
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2375
+#EXTINF:0,FR: Mangas
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2545
+#EXTINF:0,FR: FRANCE 24
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2537
+#EXTINF:0,FR: TIJI
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2493
+#EXTINF:0,FR: TELETOON
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2485
+#EXTINF:0,FR: Disney XD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2504
+#EXTINF:0,FR: Disney Channel  1
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2505
+#EXTINF:0,FR: Disney Channel
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2506
+#EXTINF:0,FR: Disney xd  HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1993
+#EXTINF:0,FR: DISNEY CINEMA
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1991
+#EXTINF:0,FR: Cartoon NetWork
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1392
+#EXTINF:0,FR: Planete-HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2441
+#EXTINF:0,FR: Planete-A-and-E-HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2442
+#EXTINF:0,FR: SCIENCE ET VIE
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2540
+#EXTINF:0,FR: USHUAIA HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2539
+#EXTINF:0,FR: National Geo Wild
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1036
+#EXTINF:0,FR: TOUTE l'HISTOIRE
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2492
+#EXTINF:0,FR: National Geo
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2501
+#EXTINF:0,FR : EURONEWS
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2500
+#EXTINF:0,FR: DISCOVERY HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1992
+#EXTINF:0,FR: C8
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1987
+#EXTINF:0,FR: COMEDIE  HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1996
+#EXTINF:0,FR: Chasse & Peche
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1391
+#EXTINF:0,FR: Animaux HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1409
+#EXTINF:0,FR: Gulli-HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2440
+#EXTINF:0,FR: WEO HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2002
+#EXTINF:0,FR: SERIE CLUB HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1251
+#EXTINF:0,FR: TF 1
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1934
+#EXTINF:0,FR: W9
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2373
+#EXTINF:0,FR: France-O-HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2443
+#EXTINF:0,FR: France-4-HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2444
+#EXTINF:0,FR: NT 1
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2377
+#EXTINF:0,FR: 13-RUE-HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2374
+#EXTINF:0,FR: TV5 Monde Europe HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1412
+#EXTINF:0,FR: TMC HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1413
+#EXTINF:0,FR: RTL 9 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1414
+#EXTINF:0,FR: M 6
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1933
+#EXTINF:0,FR: Rmc Decouverte
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2494
+#EXTINF:0,FR: PARIS PREMIERE  HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2508
+#EXTINF:0,FR: PARAMOUNT CHANNEL HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2495
+#EXTINF:0,FR: CLUB
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2542
+#EXTINF:0,FR: EQUIPE 21
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2497
+#EXTINF:0,FR: CHERIE 25
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2498
+#EXTINF:0,FR: BOING
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2499
+#EXTINF:0,FR: FRANCE 5
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1241
+#EXTINF:0,FR: RTS La Une HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2516
+#EXTINF:0,FR: RTS La Deux HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2517
+#EXTINF:0,FR: FRANCE 3 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1239
+#EXTINF:0,FR: FRANCE 2 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1238
+#EXTINF:0,FR: AB 1
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1988
+#EXTINF:0,FR: A LA CARTE 9 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1529
+#EXTINF:0,FR: A LA CARTE 5 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1401
+#EXTINF:0,FR: A LA CARTE 4 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1402
+#EXTINF:0,FR: A LA CARTE 3 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1403
+#EXTINF:0,FR: A LA CARTE 2 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1404
+#EXTINF:0,FR: A LA CARTE 1 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/1405
+#EXTINF:0,FR: 6TER HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2001
+#EXTINF:0,FR:  Teva HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2006
+#EXTINF:0,FR: SFR SPORT 4
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/5906
+#EXTINF:0,FR: Numero-23
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/6834
+#EXTINF:0,FR: Paramount Channel
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/6829
+#EXTINF:0,FR: Paris-Premiere
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/6835
+#EXTINF:0,FR: Science-et-Vie-TV
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/6832
+#EXTINF:0,FR: Seasons
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/6833
+#EXTINF:0,FR: TV Breizh
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/6830
+#EXTINF:0,FR: Voyage-TV
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/6831
+#EXTINF:0,FR: NUMERO 23
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2571
+#EXTINF:0,FR: I 24
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2576
+#EXTINF:0,FR: HISTOIRE
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2577
+#EXTINF:0,FR: HD1
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2570
+#EXTINF:0,FR: FOOT
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2580
+#EXTINF:0,FR: EQUIDIA LIVE
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2581
+#EXTINF:0,FR: EQUIDIA LIFE
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2582
+#EXTINF:0,FR: CANAL HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/2574
+#EXTINF:0,FR: TCM CINEMA
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/3570
+#EXTINF:0,FR: PLANETE_CI
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/3568
+#EXTINF:0,FR: Piwi
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/3571
+#EXTINF:0,FR: LA TELE
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/3577
+#EXTINF:0,FR: DISCOVERY SCIENCE
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/3569
+
+#EXTINF:0,13?me Rue HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14636
+#EXTINF:0,6ter HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14708
+#EXTINF:0,AB 1
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14709
+#EXTINF:0,AB3
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14680
+#EXTINF:0,Action HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14633
+#EXTINF:0,Animaux HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14653
+#EXTINF:0,Arte HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14718
+#EXTINF:0,BeIN SPORT MAX 4
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14619
+#EXTINF:0,BeIN SPORT MAX 5
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14618
+#EXTINF:0,BeIN SPORT MAX 6
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14617
+#EXTINF:0,BeIN SPORT MAX 7
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14616
+#EXTINF:0,BeIN SPORT MAX 8
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14615
+#EXTINF:0,BeIN Sports 1 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14622
+#EXTINF:0,BeIN Sports 2 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14621
+#EXTINF:0,BeIN Sports 3 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14620
+#EXTINF:0,BFM TV HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14700
+#EXTINF:0,Boing HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14603
+#EXTINF:0,Boomerang
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14669
+#EXTINF:0,C News HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14699
+#EXTINF:0,C Star HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14702
+#EXTINF:0,C8 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14704
+#EXTINF:0,Canal  Cinema HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14649
+#EXTINF:0,Canal  D?cal?
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14648
+#EXTINF:0,Canal  Family
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14647
+#EXTINF:0,Canal  HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14650
+#EXTINF:0,Canal  Series
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14646
+#EXTINF:0,Canal  Sport
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14614
+#EXTINF:0,Canal J HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14673
+#EXTINF:0,Cartoon Network
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14674
+#EXTINF:0,Chasse & Peche
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14652
+#EXTINF:0,Cherie 25 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14706
+#EXTINF:0,Cin?  Classic
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14644
+#EXTINF:0,Cin?  Emotion
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14645
+#EXTINF:0,Cin?  Famiz HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14641
+#EXTINF:0,Cin?  Frisson
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14643
+#EXTINF:0,Cin?  Premier
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14642
+#EXTINF:0,Cin? FX
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14694
+#EXTINF:0,Cin? Polar
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14693
+#EXTINF:0,Club RTL
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14685
+#EXTINF:0,Comedie
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14697
+#EXTINF:0,Discovery HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14660
+#EXTINF:0,Discovery Science HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14659
+#EXTINF:0,Disney Channel  1 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14678
+#EXTINF:0,Disney Channel HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14679
+#EXTINF:0,Disney Cinemagic HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14677
+#EXTINF:0,Disney XD HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14676
+#EXTINF:0,E!
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14661
+#EXTINF:0,Elle Girl HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14602
+#EXTINF:0,Equidia Life HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14601
+#EXTINF:0,Equidia Live HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14600
+#EXTINF:0,Eurosport 1
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14613
+#EXTINF:0,Eurosport 2
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14612
+#EXTINF:0,France 2
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14723
+#EXTINF:0,France 24
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14698
+#EXTINF:0,France 3
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14722
+#EXTINF:0,France 4
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14721
+#EXTINF:0,France 5
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14720
+#EXTINF:0,France O
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14711
+#EXTINF:0,Game One HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14599
+#EXTINF:0,Golf  HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14610
+#EXTINF:0,Golf TV
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14609
+#EXTINF:0,Gulli HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14712
+#EXTINF:0,HD1
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14710
+#EXTINF:0,Histoire
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14598
+#EXTINF:0,Infosport  HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14611
+#EXTINF:0,L Equippe 21
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14608
+#EXTINF:0,La Deux
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14682
+#EXTINF:0,La Trois
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14681
+#EXTINF:0,La Une HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14683
+#EXTINF:0,LCI
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14714
+#EXTINF:0,LCP HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14713
+#EXTINF:0,M6 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14719
+#EXTINF:0,Mangas HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14675
+#EXTINF:0,National Geo HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14658
+#EXTINF:0,National Geo Wild HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14657
+#EXTINF:0,Nick Jr.
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14672
+#EXTINF:0,Nickelodeon
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14671
+#EXTINF:0,NT1 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14715
+#EXTINF:0,Numero 23
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14597
+#EXTINF:0,OCS Choc HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14640
+#EXTINF:0,OCS City
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14639
+#EXTINF:0,OCS G?ants
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14638
+#EXTINF:0,OCS Max
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14637
+#EXTINF:0,Paris Premiere HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14689
+#EXTINF:0,Piwi  HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14596
+#EXTINF:0,Planete  Ci HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14655
+#EXTINF:0,Planete  HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14656
+#EXTINF:0,Planete A&E HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14654
+#EXTINF:0,Plug RTL
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14684
+#EXTINF:0,RFM TV HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14595
+#EXTINF:0,RMC Decouverte
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14707
+#EXTINF:0,RTL 9 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14703
+#EXTINF:0,RTL TVI HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14686
+#EXTINF:0,RTS Deux HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14695
+#EXTINF:0,RTS Un HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14696
+#EXTINF:0,Science & Vie HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14651
+#EXTINF:0,Seasons HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14594
+#EXTINF:0,Serie Club HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14634
+#EXTINF:0,SFR Sport 1
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14607
+#EXTINF:0,SFR Sport 2
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14606
+#EXTINF:0,SFR Sport 3
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14605
+#EXTINF:0,SFR Sport 5
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14604
+#EXTINF:0,SyFy HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14635
+#EXTINF:0,Teletoon  1 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14691
+#EXTINF:0,Teva HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14701
+#EXTINF:0,TF1 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14724
+#EXTINF:0,Tiji HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14670
+#EXTINF:0,TMC HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14716
+#EXTINF:0,Trek
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14592
+#EXTINF:0,TV Breizh
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14705
+#EXTINF:0,TV5 Monde
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14688
+#EXTINF:0,TV5 Monde EU
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14687
+#EXTINF:0,A La Carte 1 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14632
+#EXTINF:0,A La Carte 10 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14623
+#EXTINF:0,A La Carte 2 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14631
+#EXTINF:0,A La Carte 3 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14630
+#EXTINF:0,A La Carte 4 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14629
+#EXTINF:0,A La Carte 5 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14628
+#EXTINF:0,A La Carte 6 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14627
+#EXTINF:0,A La Carte 7 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14626
+#EXTINF:0,A La Carte 8 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14625
+#EXTINF:0,A La Carte 9 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14624
+#EXTINF:0,Ushuaia TV
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14690
+#EXTINF:0,Voyage HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14692
+#EXTINF:0,W9 HD
+http://link.softiptv.com:2500/mwC6uisjfb/dcHex2eGwp/14717
