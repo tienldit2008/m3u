@@ -1,131 +1,123 @@
 #EXTM3U
-#EXTINF:0,#0
-http://m-iptv.net:6204/Peshraw/Peshraw/10021
-#EXTINF:0,24 HORAS
-http://m-iptv.net:6204/Peshraw/Peshraw/10020
-#EXTINF:0,A&E
-http://m-iptv.net:6204/Peshraw/Peshraw/10019
-#EXTINF:0,AMC
-http://m-iptv.net:6204/Peshraw/Peshraw/10018
-#EXTINF:0,ANTENA 3
-http://m-iptv.net:6204/Peshraw/Peshraw/10017
-#EXTINF:0,AXN
-http://m-iptv.net:6204/Peshraw/Peshraw/10016
-#EXTINF:0,AXN WHITE
-http://m-iptv.net:6204/Peshraw/Peshraw/10015
-#EXTINF:0,BARCA TV
-http://m-iptv.net:6204/Peshraw/Peshraw/10014
-#EXTINF:0,BEIN LALIGA
-http://m-iptv.net:6204/Peshraw/Peshraw/10013
-#EXTINF:0,BEIN SPORTS
-http://m-iptv.net:6204/Peshraw/Peshraw/10012
-#EXTINF:0,BOING
-http://m-iptv.net:6204/Peshraw/Peshraw/10011
-#EXTINF:0,CALLE 13
-http://m-iptv.net:6204/Peshraw/Peshraw/10010
-#EXTINF:0,CANAL COCINA
-http://m-iptv.net:6204/Peshraw/Peshraw/10009
-#EXTINF:0,CANAL DECASA
-http://m-iptv.net:6204/Peshraw/Peshraw/10008
-#EXTINF:0,CANAL ODISEA
-http://m-iptv.net:6204/Peshraw/Peshraw/10007
-#EXTINF:0,CAZA Y PESCA
-http://m-iptv.net:6204/Peshraw/Peshraw/10006
-#EXTINF:0,CLAN TVE
-http://m-iptv.net:6204/Peshraw/Peshraw/10005
-#EXTINF:0,COMEDY CENTRAL
-http://m-iptv.net:6204/Peshraw/Peshraw/10004
-#EXTINF:0,COSMO
-http://m-iptv.net:6204/Peshraw/Peshraw/10003
-#EXTINF:0,CUATRO
-http://m-iptv.net:6204/Peshraw/Peshraw/10001
-#EXTINF:0,DISCOVERY
-http://m-iptv.net:6204/Peshraw/Peshraw/10000
-#EXTINF:0,DISNEY CHANNEL HD
-http://m-iptv.net:6204/Peshraw/Peshraw/9999
-#EXTINF:0,DISNEY JR
-http://m-iptv.net:6204/Peshraw/Peshraw/9998
-#EXTINF:0,DISNEY XD
-http://m-iptv.net:6204/Peshraw/Peshraw/9997
-#EXTINF:0,DIVINITY
-http://m-iptv.net:6204/Peshraw/Peshraw/9996
-#EXTINF:0,ENERGY
-http://m-iptv.net:6204/Peshraw/Peshraw/9995
-#EXTINF:0,EUROSPORT 1
-http://m-iptv.net:6204/Peshraw/Peshraw/9994
-#EXTINF:0,EUROSPORT 2
-http://m-iptv.net:6204/Peshraw/Peshraw/9993
-#EXTINF:0,FOX
-http://m-iptv.net:6204/Peshraw/Peshraw/9992
-#EXTINF:0,FOX LIFE
-http://m-iptv.net:6204/Peshraw/Peshraw/9991
-#EXTINF:0,GOL TV
-http://m-iptv.net:6204/Peshraw/Peshraw/9990
-#EXTINF:0,HISTORIA
-http://m-iptv.net:6204/Peshraw/Peshraw/9989
-#EXTINF:0,HOLLYWOOD
-http://m-iptv.net:6204/Peshraw/Peshraw/9988
-#EXTINF:0,LA 1
-http://m-iptv.net:6204/Peshraw/Peshraw/9986
-#EXTINF:0,LA 2
-http://m-iptv.net:6204/Peshraw/Peshraw/9985
-#EXTINF:0,LA SEXTA
-http://m-iptv.net:6204/Peshraw/Peshraw/9984
-#EXTINF:0,LALIGA TV BAR
-http://m-iptv.net:6204/Peshraw/Peshraw/9983
-#EXTINF:0,M.ACCION
-http://m-iptv.net:6204/Peshraw/Peshraw/9982
-#EXTINF:0,M.CINE ESPANOL
-http://m-iptv.net:6204/Peshraw/Peshraw/9981
-#EXTINF:0,M.COMEDIA
-http://m-iptv.net:6204/Peshraw/Peshraw/9980
-#EXTINF:0,M.DCINE
-http://m-iptv.net:6204/Peshraw/Peshraw/9979
-#EXTINF:0,M.DEP 1
-http://m-iptv.net:6204/Peshraw/Peshraw/9978
-#EXTINF:0,M.DEP 2
-http://m-iptv.net:6204/Peshraw/Peshraw/9977
-#EXTINF:0,M.ESTRENOS
-http://m-iptv.net:6204/Peshraw/Peshraw/9976
-#EXTINF:0,M.FORMULA 1
-http://m-iptv.net:6204/Peshraw/Peshraw/9975
-#EXTINF:0,M.FUTBOL
-http://m-iptv.net:6204/Peshraw/Peshraw/9974
-#EXTINF:0,M.GOLF
-http://m-iptv.net:6204/Peshraw/Peshraw/9973
-#EXTINF:0,M.MOTOGP
-http://m-iptv.net:6204/Peshraw/Peshraw/9972
-#EXTINF:0,M.SERIES
-http://m-iptv.net:6204/Peshraw/Peshraw/9971
-#EXTINF:0,M.SERIESXTRA
-http://m-iptv.net:6204/Peshraw/Peshraw/9970
-#EXTINF:0,M.XTRA
-http://m-iptv.net:6204/Peshraw/Peshraw/9969
-#EXTINF:0,NAT GEO WILD
-http://m-iptv.net:6204/Peshraw/Peshraw/9967
-#EXTINF:0,NATIONAL GEOGRAPHIC
-http://m-iptv.net:6204/Peshraw/Peshraw/9966
-#EXTINF:0,NEOX
-http://m-iptv.net:6204/Peshraw/Peshraw/9965
-#EXTINF:0,NICKELODEON
-http://m-iptv.net:6204/Peshraw/Peshraw/9964
-#EXTINF:0,NOVA
-http://m-iptv.net:6204/Peshraw/Peshraw/9962
-#EXTINF:0,PARAMOUNT
-http://m-iptv.net:6204/Peshraw/Peshraw/9961
-#EXTINF:0,Real Madrid TV
-http://m-iptv.net:6204/Peshraw/Peshraw/9960
-#EXTINF:0,SUNDANCE
-http://m-iptv.net:6204/Peshraw/Peshraw/9959
-#EXTINF:0,SYFY
-http://m-iptv.net:6204/Peshraw/Peshraw/9958
-#EXTINF:0,TCM
-http://m-iptv.net:6204/Peshraw/Peshraw/9957
-#EXTINF:0,TELECINCO
-http://m-iptv.net:6204/Peshraw/Peshraw/9956
-#EXTINF:0,TELEDEPORTE
-http://m-iptv.net:6204/Peshraw/Peshraw/9955
-#EXTINF:0,TNT
-http://m-iptv.net:6204/Peshraw/Peshraw/9954
-#EXTINF:0,TOROS TV
-http://m-iptv.net:6204/Peshraw/Peshraw/9953
+#EXTINF:-1,TVE LA 1 HD ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/8782
+#EXTINF:-1,TVE LA 2 ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/8781
+#EXTINF:-1,Antena 3 FHD ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7253
+#EXTINF:-1,Antena 3 HD ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/8779
+#EXTINF:-1,Cuatro FHD ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7228
+#EXTINF:-1,Telecinco HD ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/11488
+#EXTINF:-1,La Sexta ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6671
+#EXTINF:-1,La Sexta HD ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7213
+#EXTINF:-1,Fox ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7220
+#EXTINF:-1,FOX FHD ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16267
+#EXTINF:-1,Fox Life ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7219
+#EXTINF:-1,FOX Life FHD ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16266
+#EXTINF:-1,SyFy FHD ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13522
+#EXTINF:-1,TNT FHD ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7177
+#EXTINF:-1,Divinity ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13534
+#EXTINF:-1,Dkiss HD ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13533
+#EXTINF:-1,Neox TV ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/8762
+#EXTINF:-1,Neox Tv FHD ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16264
+#EXTINF:-1,Neox ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7186
+#EXTINF:-1,Non Stop People ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7184
+#EXTINF:-1,Nova ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7183
+#EXTINF:-1,24 Horas ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7174
+#EXTINF:-1,FDF ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7221
+#EXTINF:-1,Energy ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/8765
+#EXTINF:-1,Mega ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/8760
+#EXTINF:-1,Mega HD ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13824
+#EXTINF:-1,Mega FHD ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16263
+#EXTINF:-1,MTV Espana ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/8759
+#EXTINF:-1,Discovery Channel ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7226
+#EXTINF:-1,National Geographic ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7187
+#EXTINF:-1,National Geographic HD ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13528
+#EXTINF:-1,Historia ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7217
+#EXTINF:-1,National Geographic FHD ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16270
+#EXTINF:-1,Nat Geo Wild ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7188
+#EXTINF:-1,Viajar FHD ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7170
+#EXTINF:-1,Clan TVE ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7231
+#EXTINF:-1,Disney Channel HD ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7225
+#EXTINF:-1,Disney Junior ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7224
+#EXTINF:-1,Disney XD ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7223
+#EXTINF:-1,Nickelodeon ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7185
+#EXTINF:-1,Nickelodeon FHD ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16268
+#EXTINF:-1,Nick Jr. ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13526
+#EXTINF:-1,Mezzo HD ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7212
+#EXTINF:-1,TV Galicia ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7218
+#EXTINF:-1,TV3 Catalunya HD ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/8780
+#EXTINF:-1,TV 3 Catalunya ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7175
+#EXTINF:-1,Andalucia FHD ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7254
+#EXTINF:-1,13 TV ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13547
+#EXTINF:-1,8TV Madrid ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13545
+#EXTINF:-1,RTVA ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/8775
+#EXTINF:-1,Navarra TV ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13527
+#EXTINF:-1,Onda Azul ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13525
+#EXTINF:-1,Telesur ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7169
+#EXTINF:-1,Telecinco FHD ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/14022
+#EXTINF:-1,La 1 ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7215
+#EXTINF:-1,La 1 FHD ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16288
+#EXTINF:-1,La 2 ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7214
+#EXTINF:-1,Cuatro HD ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/8777
+#EXTINF:-1,Odisea TV ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/8761
+#EXTINF:-1,Sundance TV ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/14121
+#EXTINF:-1,SyFy ES
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13523
