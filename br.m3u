@@ -1,149 +1,353 @@
 #EXTM3U
-#EXTINF:-1,Canal Brasil
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13184.m3u8
-#EXTINF:-1,E!
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13183.m3u8
-#EXTINF:-1,E! MAXX 2
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13182.m3u8
-#EXTINF:-1,Eimax 1
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13181.m3u8
-#EXTINF:-1,ESPN Brasil
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13180.m3u8
-#EXTINF:-1,ESPN HD
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13179.m3u8
-#EXTINF:-1,ESPN plus
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13178.m3u8
-#EXTINF:-1,FOX Sports 1
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13177.m3u8
-#EXTINF:-1,Fox Sports 2
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13176.m3u8
-#EXTINF:-1,GLOBAL TV
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13175.m3u8
-#EXTINF:-1,Globo News
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13174.m3u8
-#EXTINF:-1,Globo Premium
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13173.m3u8
-#EXTINF:-1,Gloob
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13172.m3u8
-#EXTINF:-1,GNT
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13171.m3u8
-#EXTINF:-1,HBO Signature
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13170.m3u8
-#EXTINF:-1,Investiga
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13169.m3u8
-#EXTINF:-1,Max
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13168.m3u8
-#EXTINF:-1,Max Prime
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13167.m3u8
-#EXTINF:-1,MegaPix
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13166.m3u8
-#EXTINF:-1,Nick
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13165.m3u8
-#EXTINF:-1,Nick Jr
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13164.m3u8
-#EXTINF:-1,Paramount
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13163.m3u8
-#EXTINF:-1,Premiere Clubes
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13162.m3u8
-#EXTINF:-1,REDE RECORD
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13161.m3u8
-#EXTINF:-1,REDE TV
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13160.m3u8
-#EXTINF:-1,Sport TV
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13159.m3u8
-#EXTINF:-1,Sport TV2
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13158.m3u8
-#EXTINF:-1,Sport TV3
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13157.m3u8
-#EXTINF:-1,Studio Universal
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13156.m3u8
-#EXTINF:-1,Tru TV
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13155.m3u8
-#EXTINF:-1,TV BRASIL CENTRAL
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13154.m3u8
-#EXTINF:-1,TV Globo
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13153.m3u8
-#EXTINF:-1,TV Globo Premium
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13152.m3u8
-#EXTINF:-1,Universal Brasil
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13151.m3u8
-#EXTINF:-1,A&E
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13150.m3u8
-#EXTINF:-1,ANIMAL PLANET
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13149.m3u8
-#EXTINF:-1,AXN
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13148.m3u8
-#EXTINF:-1,BAND NEWS
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13147.m3u8
-#EXTINF:-1,BAND SPORTS
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13146.m3u8
-#EXTINF:-1,Boomerang
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13145.m3u8
-#EXTINF:-1,Canal Sony
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13144.m3u8
-#EXTINF:-1,Combate
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13141.m3u8
-#EXTINF:-1,COMEDY CENTRAL
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13140.m3u8
-#EXTINF:-1,DISCOVERY
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13139.m3u8
-#EXTINF:-1,Discovery Civilization
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13138.m3u8
-#EXTINF:-1,Discovery Home Health
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13137.m3u8
-#EXTINF:-1,Discovery Turbo
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13136.m3u8
-#EXTINF:-1,Disney
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13135.m3u8
-#EXTINF:-1,Disney Jr
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13134.m3u8
-#EXTINF:-1,Disney XD
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13133.m3u8
-#EXTINF:-1,FOX
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13132.m3u8
-#EXTINF:-1,Fox Life
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13131.m3u8
-#EXTINF:-1,H2
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13130.m3u8
-#EXTINF:-1,HBO
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13129.m3u8
-#EXTINF:-1,HBO 2
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13128.m3u8
-#EXTINF:-1,HBO Family
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13127.m3u8
-#EXTINF:-1,HBO Plus
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13126.m3u8
-#EXTINF:-1,History
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13125.m3u8
-#EXTINF:-1,National Geographic
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13124.m3u8
-#EXTINF:-1,Space Brasil
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13123.m3u8
-#EXTINF:-1,Syfy
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13122.m3u8
-#EXTINF:-1,TBS Brasil
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13121.m3u8
-#EXTINF:-1,TCM
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13120.m3u8
-#EXTINF:-1,Telecine Cult
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13118.m3u8
-#EXTINF:-1,Telecine Fun
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13117.m3u8
-#EXTINF:-1,Telecine Pipoca
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13116.m3u8
-#EXTINF:-1,Telecine Premium
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13115.m3u8
-#EXTINF:-1,Telecine Touch
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13114.m3u8
-#EXTINF:-1,TLC
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13113.m3u8
-#EXTINF:-1,TNT
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13112.m3u8
-#EXTINF:-1,TNT Series
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13111.m3u8
-#EXTINF:-1,Tooncast
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13110.m3u8
-#EXTINF:-1,Universal
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13109.m3u8
-#EXTINF:-1,WARNER
-http://iptv.wtf:25461/live/yyosqmhq/e2Ux0a2M4o/13108.m3u8
+#EXTINF:-1,A&E HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16525
+#EXTINF:-1,AMC BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16447
+#EXTINF:-1,AMC HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16524
+#EXTINF:-1,AXN BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6146
+#EXTINF:-1,AXN HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13642
+#EXTINF:-1,Animal Planet HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13643
+#EXTINF:-1,Arte 1 BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6147
+#EXTINF:-1,Azteca 13 BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6145
+#EXTINF:-1,Baby TV BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13641
+#EXTINF:-1,Band BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13640
+#EXTINF:-1,Band HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13639
+#EXTINF:-1,Band News BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6144
+#EXTINF:-1,Band Sports BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6143
+#EXTINF:-1,Band Sports HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13638
+#EXTINF:-1,Bis BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6142
+#EXTINF:-1,Bis HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16523
+#EXTINF:-1,Boomerang BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16522
+#EXTINF:-1,Brazil 2 BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6141
+#EXTINF:-1,Canal Brasil BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13637
+#EXTINF:-1,Canal Sony HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13636
+#EXTINF:-1,Cartoon Network BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6137
+#EXTINF:-1,Cartoon Network HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16521
+#EXTINF:-1,Cinemax BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6136
+#EXTINF:-1,Cinemax HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16520
+#EXTINF:-1,Combate BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16519
+#EXTINF:-1,Combate HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13635
+#EXTINF:-1,Comedy Central BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16518
+#EXTINF:-1,Conexao BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6135
+#EXTINF:-1,Discovery Channel BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16517
+#EXTINF:-1,Discovery Channel HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6134
+#EXTINF:-1,Discovery Civilization BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16516
+#EXTINF:-1,Discovery H&H HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16515
+#EXTINF:-1,Discovery Home & Health BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6117
+#EXTINF:-1,Discovery Kids BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16514
+#EXTINF:-1,Discovery Kids HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16513
+#EXTINF:-1,Discovery Science BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16512
+#EXTINF:-1,Discovery Turbo BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6131
+#EXTINF:-1,Discovery Turbo HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16510
+#EXTINF:-1,Disney Channel BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16508
+#EXTINF:-1,Disney Channel HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16507
+#EXTINF:-1,Disney Junior BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16506
+#EXTINF:-1,Disney XD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6130
+#EXTINF:-1,E! BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16505
+#EXTINF:-1,E! HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16504
+#EXTINF:-1,ESPN BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16502
+#EXTINF:-1,ESPN Brasil BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/10232
+#EXTINF:-1,ESPN Brasil HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13633
+#EXTINF:-1,ESPN HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13634
+#EXTINF:-1,Esporte Interativo 2 HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13632
+#EXTINF:-1,Esporte Interativo HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13631
+#EXTINF:-1,FOX HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13630
+#EXTINF:-1,FOX Life HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13629
+#EXTINF:-1,FOX Premium 1 HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13628
+#EXTINF:-1,FOX Premium 2 HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13627
+#EXTINF:-1,FX BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16497
+#EXTINF:-1,FX HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13624
+#EXTINF:-1,Fish tv BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6128
+#EXTINF:-1,Fox BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16499
+#EXTINF:-1,Fox Life BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6127
+#EXTINF:-1,Fox Sports 2 BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6087
+#EXTINF:-1,Fox Sports 2 HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16498
+#EXTINF:-1,Fox Sports BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6126
+#EXTINF:-1,Fox Sports HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13626
+#EXTINF:-1,Futura BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13625
+#EXTINF:-1,GNT BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16484
+#EXTINF:-1,GNT HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/10233
+#EXTINF:-1,Globo Minas FHD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16495
+#EXTINF:-1,Globo News BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6124
+#EXTINF:-1,Globo News HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16494
+#EXTINF:-1,Globo Nordeste BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16493
+#EXTINF:-1,Globo RJ BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16490
+#EXTINF:-1,Globo RJ HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16489
+#EXTINF:-1,Globo SP BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16488
+#EXTINF:-1,Globo TV BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6125
+#EXTINF:-1,Globosat HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/10234
+#EXTINF:-1,Gloob BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16486
+#EXTINF:-1,Gloob HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16485
+#EXTINF:-1,H2 BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6123
+#EXTINF:-1,H2 HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16483
+#EXTINF:-1,HBO 2 BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6121
+#EXTINF:-1,HBO 2 HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13623
+#EXTINF:-1,HBO BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6122
+#EXTINF:-1,HBO Family BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6120
+#EXTINF:-1,HBO Family HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13622
+#EXTINF:-1,HBO HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13621
+#EXTINF:-1,HBO Plus BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16482
+#EXTINF:-1,HBO Plus HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13620
+#EXTINF:-1,HBO Signature BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6119
+#EXTINF:-1,HBO Signature HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13619
+#EXTINF:-1,History BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6118
+#EXTINF:-1,History Channel HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16481
+#EXTINF:-1,ID BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16479
+#EXTINF:-1,Mais Globosat HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16477
+#EXTINF:-1,Max BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13618
+#EXTINF:-1,Max Prime BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13617
+#EXTINF:-1,Max Up BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13615
+#EXTINF:-1,Megapix BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16476
+#EXTINF:-1,Megapix HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13614
+#EXTINF:-1,Multishow TV BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6116
+#EXTINF:-1,Multishow BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16474
+#EXTINF:-1,Music Box BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6115
+#EXTINF:-1,National Geographic BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6114
+#EXTINF:-1,National Geographic HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16468
+#EXTINF:-1,Nick Jr BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16467
+#EXTINF:-1,Nickelodeon BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13612
+#EXTINF:-1,Novo Tempo BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6113
+#EXTINF:-1,Off BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/10235
+#EXTINF:-1,Off HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16465
+#EXTINF:-1,Paramount Channel BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6112
+#EXTINF:-1,Paramount Channel HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13611
+#EXTINF:-1,Premiere 2 BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/10231
+#EXTINF:-1,Premiere 2 HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/10230
+#EXTINF:-1,Premiere 3 BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/10229
+#EXTINF:-1,Premiere 3 HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/10228
+#EXTINF:-1,Premiere 4 BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/10227
+#EXTINF:-1,Premiere 4 HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/10226
+#EXTINF:-1,Premiere 5 BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/10225
+#EXTINF:-1,Premiere 5 HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/10224
+#EXTINF:-1,Premiere 6 BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/10223
+#EXTINF:-1,Premiere 7 BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/10222
+#EXTINF:-1,Premiere 8 BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/10221
+#EXTINF:-1,Premiere 9 BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/10220
+#EXTINF:-1,Premiere Clubes BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/10219
+#EXTINF:-1,Premiere Clubes HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13610
+#EXTINF:-1,Prime Box BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6111
+#EXTINF:-1,Record MG HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16462
+#EXTINF:-1,Record News BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13608
+#EXTINF:-1,Record SP HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16461
+#EXTINF:-1,Rede Brasil BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13607
+#EXTINF:-1,Rede TV BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6110
+#EXTINF:-1,SBT BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/10236
+#EXTINF:-1,SBT HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13606
+#EXTINF:-1,Space BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16459
+#EXTINF:-1,Space HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13605
+#EXTINF:-1,SporTV 2 HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13604
+#EXTINF:-1,SporTV 3 HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13603
+#EXTINF:-1,SporTV BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13601
+#EXTINF:-1,SporTV HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13602
+#EXTINF:-1,Sport TV 2 BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6108
+#EXTINF:-1,Sport TV 3 BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6107
+#EXTINF:-1,Sport TV1 BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6109
+#EXTINF:-1,Studio Universal BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13600
+#EXTINF:-1,SyFy HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16457
+#EXTINF:-1,Syfy BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13599
+#EXTINF:-1,TBS BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6106
+#EXTINF:-1,TCM BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6105
+#EXTINF:-1,TLC BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6098
+#EXTINF:-1,TLC HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16455
+#EXTINF:-1,TNT BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16454
+#EXTINF:-1,TNT HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13592
+#EXTINF:-1,TNT Series BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6097
+#EXTINF:-1,TNT Séries HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13591
+#EXTINF:-1,TV Brasil BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6670
+#EXTINF:-1,TV Brazil BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6094
+#EXTINF:-1,TV Diario BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6091
+#EXTINF:-1,TV Record HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13609
+#EXTINF:-1,TVI BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6095
+#EXTINF:-1,TeleCine Action BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6103
+#EXTINF:-1,TeleCine Cult BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6102
+#EXTINF:-1,TeleCine Fun BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6101
+#EXTINF:-1,TeleCine Pipoca BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6104
+#EXTINF:-1,TeleCine Premium BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6100
+#EXTINF:-1,TeleCine Touch BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6099
+#EXTINF:-1,Telecine Action HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13597
+#EXTINF:-1,Telecine Cult HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16456
+#EXTINF:-1,Telecine Fun HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13596
+#EXTINF:-1,Telecine Pipoca HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13595
+#EXTINF:-1,Telecine Premium HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13594
+#EXTINF:-1,Telecine Touch HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13593
+#EXTINF:-1,Tooncast BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6096
+#EXTINF:-1,Universal Channel BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16453
+#EXTINF:-1,Universal Channel HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16452
+#EXTINF:-1,Viva HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16450
+#EXTINF:-1,Warner BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6088
+#EXTINF:-1,Warner Channel HD BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16449
+#EXTINF:-1,Woohoo BR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16448
