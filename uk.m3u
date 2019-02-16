@@ -1,105 +1,179 @@
 #EXTM3U
-#EXTINF:0,Itv1
-http://formen1.com:8080/nusret07/240218/1146
-#EXTINF:0,Itv2
-http://formen1.com:8080/nusret07/240218/1145
-#EXTINF:0,Itv3
-http://formen1.com:8080/nusret07/240218/1144
-#EXTINF:0,Itv4
-http://formen1.com:8080/nusret07/240218/1143
-#EXTINF:0,Bbc1
-http://formen1.com:8080/nusret07/240218/1142
-#EXTINF:0,Bbc2
-http://formen1.com:8080/nusret07/240218/1141
-#EXTINF:0,Bbc Earth
-http://formen1.com:8080/nusret07/240218/1140
-#EXTINF:0,Btsport1
-http://formen1.com:8080/nusret07/240218/1079
-#EXTINF:0,Btsport2
-http://formen1.com:8080/nusret07/240218/1078
-#EXTINF:0,Btsportespn
-http://formen1.com:8080/nusret07/240218/1077
-#EXTINF:0,Btsporteurope
-http://formen1.com:8080/nusret07/240218/1085
-#EXTINF:0,Cbsaction
-http://formen1.com:8080/nusret07/240218/1136
-#EXTINF:0,Cbsdrama
-http://formen1.com:8080/nusret07/240218/1137
-#EXTINF:0,Cbsreality
-http://formen1.com:8080/nusret07/240218/1138
-#EXTINF:0,Channel4
-http://formen1.com:8080/nusret07/240218/1135
-#EXTINF:0,Channel5
-http://formen1.com:8080/nusret07/240218/1134
-#EXTINF:0,Comedycentral
-http://formen1.com:8080/nusret07/240218/1133
-#EXTINF:0,Discovery Science Hd
-http://formen1.com:8080/nusret07/240218/1127
-#EXTINF:0,Discovery Turbo Hd
-http://formen1.com:8080/nusret07/240218/1126
-#EXTINF:0,Discoverychannelhd
-http://formen1.com:8080/nusret07/240218/1130
-#EXTINF:0,Discoveryshed
-http://formen1.com:8080/nusret07/240218/1128
-#EXTINF:0,Disneychannel
-http://formen1.com:8080/nusret07/240218/1131
-#EXTINF:0,Disneyjunior
-http://formen1.com:8080/nusret07/240218/1132
-#EXTINF:0,Dmax.
-http://formen1.com:8080/nusret07/240218/1100
-#EXTINF:0,Eurosport1
-http://formen1.com:8080/nusret07/240218/1095
-#EXTINF:0,Eurosport 2
-http://formen1.com:8080/nusret07/240218/1094
-#EXTINF:0,Movies 4men
-http://formen1.com:8080/nusret07/240218/1111
-#EXTINF:0,Nationalgeographic
-http://formen1.com:8080/nusret07/240218/1124
-#EXTINF:0,Premiersport
-http://formen1.com:8080/nusret07/240218/1074
-#EXTINF:0,Racing
-http://formen1.com:8080/nusret07/240218/1116
-#EXTINF:0,Rte One
-http://formen1.com:8080/nusret07/240218/1104
-#EXTINF:0,Rte Two
-http://formen1.com:8080/nusret07/240218/1103
-#EXTINF:0,Sky Movies Action
-http://formen1.com:8080/nusret07/240218/1108
-#EXTINF:0,Sky Movies Comedy
-http://formen1.com:8080/nusret07/240218/1109
-#EXTINF:0,Sky Movies Family Hd
-http://formen1.com:8080/nusret07/240218/1107
-#EXTINF:0,Sky Movies Premiere Hd
-http://formen1.com:8080/nusret07/240218/1105
-#EXTINF:0,Sky Movies Scifi / Horror Hd
-http://formen1.com:8080/nusret07/240218/1106
-#EXTINF:0,Skymoviesdrama Hd
-http://formen1.com:8080/nusret07/240218/1121
-#EXTINF:0,Skymoviesselect Hd
-http://formen1.com:8080/nusret07/240218/1122
-#EXTINF:0,Skymoviesthriller
-http://formen1.com:8080/nusret07/240218/1123
-#EXTINF:0,Skymtv
-http://formen1.com:8080/nusret07/240218/1110
-#EXTINF:0,Skyone Hd
-http://formen1.com:8080/nusret07/240218/1113
-#EXTINF:0,Sky Sports Action
-http://formen1.com:8080/nusret07/240218/1093
-#EXTINF:0,Sky Sports Cricket
-http://formen1.com:8080/nusret07/240218/1092
-#EXTINF:0,Sky Sports Main Event
-http://formen1.com:8080/nusret07/240218/1091
-#EXTINF:0,Sky Sports Golf
-http://formen1.com:8080/nusret07/240218/1090
-#EXTINF:0,Sky Sport Premier League
-http://formen1.com:8080/nusret07/240218/1089
-#EXTINF:0,Sky Sports F1
-http://formen1.com:8080/nusret07/240218/1088
-#EXTINF:0,Skysportnews
-http://formen1.com:8080/nusret07/240218/1086
-#EXTINF:0,Sky Sport News
-http://formen1.com:8080/nusret07/240218/1087
-#EXTINF:0,True Movies1 Hd
-http://formen1.com:8080/nusret07/240218/1115
-#EXTINF:0,Yesterday
-http://formen1.com:8080/nusret07/240218/1102
+#EXTINF:0,Sky 5 USA
+http://m-iptv.net:6204/Peshraw/Peshraw/8594
+#EXTINF:0,Sky Animal Planet HD
+http://m-iptv.net:6204/Peshraw/Peshraw/8593
+#EXTINF:0,Sky Arts 1 HD
+http://m-iptv.net:6204/Peshraw/Peshraw/8592
+#EXTINF:0,Sky Atlantic
+http://m-iptv.net:6204/Peshraw/Peshraw/8591
+#EXTINF:0,Sky Baby
+http://m-iptv.net:6204/Peshraw/Peshraw/8590
+#EXTINF:0,Sky BBC Four HD
+http://m-iptv.net:6204/Peshraw/Peshraw/8588
+#EXTINF:0,Sky BBC News
+http://m-iptv.net:6204/Peshraw/Peshraw/8589
+#EXTINF:0,Sky BBC One HD
+http://m-iptv.net:6204/Peshraw/Peshraw/8587
+#EXTINF:0,Sky BBC Three HD
+http://m-iptv.net:6204/Peshraw/Peshraw/8586
+#EXTINF:0,Sky BBC Two HD
+http://m-iptv.net:6204/Peshraw/Peshraw/8585
+#EXTINF:0,Sky Bloomberg HD
+http://m-iptv.net:6204/Peshraw/Peshraw/8584
+#EXTINF:0,Sky BoxNation
+http://m-iptv.net:6204/Peshraw/Peshraw/8583
+#EXTINF:0,Sky BT Sport 1 HD
+http://m-iptv.net:6204/Peshraw/Peshraw/8582
+#EXTINF:0,Sky BT Sports Extra 1
+http://m-iptv.net:6204/Peshraw/Peshraw/8581
+#EXTINF:0,Sky BT Sport 2 HD
+http://m-iptv.net:6204/Peshraw/Peshraw/8580
+#EXTINF:0,Sky BT Sports Extra 2
+http://m-iptv.net:6204/Peshraw/Peshraw/8579
+#EXTINF:0,Sky BT Sports Extra 3
+http://m-iptv.net:6204/Peshraw/Peshraw/8578
+#EXTINF:0,Sky BT Sport ESPN HD
+http://m-iptv.net:6204/Peshraw/Peshraw/8577
+#EXTINF:0,Sky Cartoon Network
+http://m-iptv.net:6204/Peshraw/Peshraw/8576
+#EXTINF:0,Sky Cbs Action
+http://m-iptv.net:6204/Peshraw/Peshraw/8575
+#EXTINF:0,Sky Cbs Drama
+http://m-iptv.net:6204/Peshraw/Peshraw/8574
+#EXTINF:0,Sky CBS Reality
+http://m-iptv.net:6204/Peshraw/Peshraw/8573
+#EXTINF:0,Sky Chelsea TV HD
+http://m-iptv.net:6204/Peshraw/Peshraw/8572
+#EXTINF:0,Sky Ci
+http://m-iptv.net:6204/Peshraw/Peshraw/8571
+#EXTINF:0,Sky Comedy Central
+http://m-iptv.net:6204/Peshraw/Peshraw/8569
+#EXTINF:0,Sky Discovery
+http://m-iptv.net:6204/Peshraw/Peshraw/8568
+#EXTINF:0,Sky Discovery History
+http://m-iptv.net:6204/Peshraw/Peshraw/8567
+#EXTINF:0,Sky Discovery Science
+http://m-iptv.net:6204/Peshraw/Peshraw/8566
+#EXTINF:0,Sky Discovery Shed
+http://m-iptv.net:6204/Peshraw/Peshraw/8565
+#EXTINF:0,Sky Discovery Turbo
+http://m-iptv.net:6204/Peshraw/Peshraw/8564
+#EXTINF:0,Sky Disney Chaneel HD
+http://m-iptv.net:6204/Peshraw/Peshraw/8563
+#EXTINF:0,Sky Disney Junior HD
+http://m-iptv.net:6204/Peshraw/Peshraw/8562
+#EXTINF:0,Sky Disney XD HD
+http://m-iptv.net:6204/Peshraw/Peshraw/8561
+#EXTINF:0,Sky Eurosport 1 HD
+http://m-iptv.net:6204/Peshraw/Peshraw/8560
+#EXTINF:0,Sky Eurosport 2 HD
+http://m-iptv.net:6204/Peshraw/Peshraw/8559
+#EXTINF:0,Sky Food Network
+http://m-iptv.net:6204/Peshraw/Peshraw/8558
+#EXTINF:0,Sky Gold
+http://m-iptv.net:6204/Peshraw/Peshraw/8557
+#EXTINF:0,Sky Good Food HD
+http://m-iptv.net:6204/Peshraw/Peshraw/8556
+#EXTINF:0,Sky History HD
+http://m-iptv.net:6204/Peshraw/Peshraw/8555
+#EXTINF:0,Sky Home & Health
+http://m-iptv.net:6204/Peshraw/Peshraw/8554
+#EXTINF:0,Sky Horse & Country
+http://m-iptv.net:6204/Peshraw/Peshraw/8553
+#EXTINF:0,Sky ITV 1
+http://m-iptv.net:6204/Peshraw/Peshraw/8552
+#EXTINF:0,Sky ITV 2
+http://m-iptv.net:6204/Peshraw/Peshraw/8551
+#EXTINF:0,Sky ITV 3
+http://m-iptv.net:6204/Peshraw/Peshraw/8550
+#EXTINF:0,Sky ITV 4
+http://m-iptv.net:6204/Peshraw/Peshraw/8549
+#EXTINF:0,Sky 1
+http://m-iptv.net:6204/Peshraw/Peshraw/11120
+#EXTINF:0,Sky 2
+http://m-iptv.net:6204/Peshraw/Peshraw/11119
+#EXTINF:0,Sky Living HD
+http://m-iptv.net:6204/Peshraw/Peshraw/11116
+#EXTINF:0,Sky Liverpool FC TV HD
+http://m-iptv.net:6204/Peshraw/Peshraw/8548
+#EXTINF:0,Sky More 4 HD
+http://m-iptv.net:6204/Peshraw/Peshraw/8547
+#EXTINF:0,Sky Movies 24
+http://m-iptv.net:6204/Peshraw/Peshraw/8546
+#EXTINF:0,Sky Sports Box Office HD
+http://m-iptv.net:6204/Peshraw/Peshraw/11115
+#EXTINF:0,Sky Movies Action HD
+http://m-iptv.net:6204/Peshraw/Peshraw/8545
+#EXTINF:0,Sky Movies Crime
+http://m-iptv.net:6204/Peshraw/Peshraw/8543
+#EXTINF:0,Sky Movies Disney
+http://m-iptv.net:6204/Peshraw/Peshraw/8542
+#EXTINF:0,Sky Movies Drama HD
+http://m-iptv.net:6204/Peshraw/Peshraw/8541
+#EXTINF:0,Sky Movies Family HD
+http://m-iptv.net:6204/Peshraw/Peshraw/8540
+#EXTINF:0,Sky Movies Greats
+http://m-iptv.net:6204/Peshraw/Peshraw/8539
+#EXTINF:0,Sky Movies Premiere HD
+http://m-iptv.net:6204/Peshraw/Peshraw/8538
+#EXTINF:0,Sky Movies Select HD
+http://m-iptv.net:6204/Peshraw/Peshraw/8537
+#EXTINF:0,Sky MUTV
+http://m-iptv.net:6204/Peshraw/Peshraw/8536
+#EXTINF:0,Sky Nat Geo Wild HD
+http://m-iptv.net:6204/Peshraw/Peshraw/8535
+#EXTINF:0,Sky National Geographic HD
+http://m-iptv.net:6204/Peshraw/Peshraw/8534
+#EXTINF:0,Sky News HD
+http://m-iptv.net:6204/Peshraw/Peshraw/8533
+#EXTINF:0,Sky Nickelodeon
+http://m-iptv.net:6204/Peshraw/Peshraw/8532
+#EXTINF:0,Sky Nickelodeon JR
+http://m-iptv.net:6204/Peshraw/Peshraw/8531
+#EXTINF:0,Sky NickToons
+http://m-iptv.net:6204/Peshraw/Peshraw/8530
+#EXTINF:0,Sky Quest
+http://m-iptv.net:6204/Peshraw/Peshraw/8529
+#EXTINF:0,Sky Racing
+http://m-iptv.net:6204/Peshraw/Peshraw/8528
+#EXTINF:0,Sky Really
+http://m-iptv.net:6204/Peshraw/Peshraw/8527
+#EXTINF:0,Sky RTE One
+http://m-iptv.net:6204/Peshraw/Peshraw/8525
+#EXTINF:0,Sky RTE Two
+http://m-iptv.net:6204/Peshraw/Peshraw/8524
+#EXTINF:0,Sky Eir Sport 1
+http://m-iptv.net:6204/Peshraw/Peshraw/11118
+#EXTINF:0,Sky Eir Sport 2
+http://m-iptv.net:6204/Peshraw/Peshraw/11117
+#EXTINF:0,Sky YourTV HD
+http://m-iptv.net:6204/Peshraw/Peshraw/11114
+#EXTINF:0,Sky Sport Football
+http://m-iptv.net:6204/Peshraw/Peshraw/8523
+#EXTINF:0,Sky Sports Main Event HD
+http://m-iptv.net:6204/Peshraw/Peshraw/8517
+#EXTINF:0,Sky Sports Cricket HD
+http://m-iptv.net:6204/Peshraw/Peshraw/8516
+#EXTINF:0,Sky Sports Action HD
+http://m-iptv.net:6204/Peshraw/Peshraw/8515
+#EXTINF:0,Sky Sports Golf HD
+http://m-iptv.net:6204/Peshraw/Peshraw/8514
+#EXTINF:0,Sky Sports Premier League HD
+http://m-iptv.net:6204/Peshraw/Peshraw/8513
+#EXTINF:0,Sky Sports F1 HD
+http://m-iptv.net:6204/Peshraw/Peshraw/8512
+#EXTINF:0,Sky Sports F1 HD Backup S
+http://m-iptv.net:6204/Peshraw/Peshraw/11099
+#EXTINF:0,Sky Sports MixHD
+http://m-iptv.net:6204/Peshraw/Peshraw/8511
+#EXTINF:0,Sky Travel Channel
+http://m-iptv.net:6204/Peshraw/Peshraw/8508
+#EXTINF:0,Sky True Movies 1
+http://m-iptv.net:6204/Peshraw/Peshraw/8510
+#EXTINF:0,Sky True Movies 2
+http://m-iptv.net:6204/Peshraw/Peshraw/8509
+#EXTINF:0,Sky Sports Arena HD
+http://m-iptv.net:6204/Peshraw/Peshraw/9059
+#EXTINF:0,Sky BT Sport 3 HD
+http://m-iptv.net:6204/Peshraw/Peshraw/10166
