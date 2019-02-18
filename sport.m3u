@@ -1,4 +1,28 @@
 #EXTM3U
+#EXTINF:0,Bein sport 1 HD
+http://tre.tithis.com:2015/taner5/5taner/36957
+#EXTINF:0,Bein sport 2 HD
+http://tre.tithis.com:2015/taner5/5taner/36956
+#EXTINF:0,Bein sport 3 HD
+http://tre.tithis.com:2015/taner5/5taner/36955
+#EXTINF:0,Bein sport 4 HD
+http://tre.tithis.com:2015/taner5/5taner/36954
+#EXTINF:0,Bein sport 5 HD
+http://tre.tithis.com:2015/taner5/5taner/36953
+#EXTINF:0,Bein sport 6 HD
+http://tre.tithis.com:2015/taner5/5taner/36952
+#EXTINF:0,Bein sport 7 HD
+http://tre.tithis.com:2015/taner5/5taner/36951
+#EXTINF:0,Bein sport 8 HD
+http://tre.tithis.com:2015/taner5/5taner/36950
+#EXTINF:0,Bein sport 9 HD
+http://tre.tithis.com:2015/taner5/5taner/36949
+#EXTINF:0,Bein sport 10 HD
+http://tre.tithis.com:2015/taner5/5taner/36948
+#EXTINF:0,Bein sport 11 HD
+http://tre.tithis.com:2015/taner5/5taner/36947
+#EXTINF:0,Bein sport 12 HD
+http://tre.tithis.com:2015/taner5/5taner/36946
 #EXTINF:0,TR | BEIN SPORTS HABER
 http://tre.tithis.com:2015/taner5/5taner/36893
 #EXTINF:0,TR| BEIN SPORT 4K UHD
@@ -129,30 +153,6 @@ http://tre.tithis.com:2015/taner5/5taner/1411
 http://tre.tithis.com:2015/taner5/5taner/1409
 #EXTINF:0,TR | TRT SPOR
 http://tre.tithis.com:2015/taner5/5taner/1407
-#EXTINF:0,Bein sport 1 HD
-http://tre.tithis.com:2015/taner5/5taner/36957
-#EXTINF:0,Bein sport 2 HD
-http://tre.tithis.com:2015/taner5/5taner/36956
-#EXTINF:0,Bein sport 3 HD
-http://tre.tithis.com:2015/taner5/5taner/36955
-#EXTINF:0,Bein sport 4 HD
-http://tre.tithis.com:2015/taner5/5taner/36954
-#EXTINF:0,Bein sport 5 HD
-http://tre.tithis.com:2015/taner5/5taner/36953
-#EXTINF:0,Bein sport 6 HD
-http://tre.tithis.com:2015/taner5/5taner/36952
-#EXTINF:0,Bein sport 7 HD
-http://tre.tithis.com:2015/taner5/5taner/36951
-#EXTINF:0,Bein sport 8 HD
-http://tre.tithis.com:2015/taner5/5taner/36950
-#EXTINF:0,Bein sport 9 HD
-http://tre.tithis.com:2015/taner5/5taner/36949
-#EXTINF:0,Bein sport 10 HD
-http://tre.tithis.com:2015/taner5/5taner/36948
-#EXTINF:0,Bein sport 11 HD
-http://tre.tithis.com:2015/taner5/5taner/36947
-#EXTINF:0,Bein sport 12 HD
-http://tre.tithis.com:2015/taner5/5taner/36946
 #EXTINF:0,AR | VIP BEINSPORTS-NEWS
 http://tre.tithis.com:2015/taner5/5taner/17262
 #EXTINF:0,VIP BeinSport HD1
