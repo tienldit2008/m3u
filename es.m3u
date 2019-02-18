@@ -1,123 +1,105 @@
 #EXTM3U
-#EXTINF:-1,TVE LA 1 HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/8782
-#EXTINF:-1,TVE LA 2
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/8781
-#EXTINF:-1,Antena 3 FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7253
-#EXTINF:-1,Antena 3 HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/8779
-#EXTINF:-1,Cuatro FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7228
-#EXTINF:-1,Telecinco HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/11488
-#EXTINF:-1,La Sexta
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6671
-#EXTINF:-1,La Sexta HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7213
-#EXTINF:-1,Fox
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7220
-#EXTINF:-1,FOX FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16267
-#EXTINF:-1,Fox Life
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7219
-#EXTINF:-1,FOX Life FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16266
-#EXTINF:-1,SyFy FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13522
-#EXTINF:-1,TNT FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7177
-#EXTINF:-1,Divinity
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13534
-#EXTINF:-1,Dkiss HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13533
-#EXTINF:-1,Neox TV
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/8762
-#EXTINF:-1,Neox Tv FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16264
-#EXTINF:-1,Neox
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7186
-#EXTINF:-1,Non Stop People
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7184
-#EXTINF:-1,Nova
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7183
-#EXTINF:-1,24 Horas
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7174
+#EXTINF:-1,#0 HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/918.ts
+#EXTINF:-1,24 HORAS
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/931.ts
+#EXTINF:-1,A&E
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/875.ts
+#EXTINF:-1,AMC
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/952.ts
+#EXTINF:-1,ANTENA 3 HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/950.ts
+#EXTINF:-1,ASTRESSERIES HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/932.ts
+#EXTINF:-1,AXN HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/927.ts
+#EXTINF:-1,AXN WHITE HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/928.ts
+#EXTINF:-1,BABY TV
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/933.ts
+#EXTINF:-1,BARCA TV
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/982.ts
+#EXTINF:-1,BEAMAD TV HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/884.ts
+#EXTINF:-1,CAZA Y PESCA HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/967.ts
+#EXTINF:-1,CLAN TVE
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/958.ts
+#EXTINF:-1,COMEDY CENTRAL
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/936.ts
+#EXTINF:-1,COSMO TV HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/888.ts
+#EXTINF:-1,CRIMEN INVESTI GACION
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/889.ts
+#EXTINF:-1,CUATRO HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/959.ts
+#EXTINF:-1,DISCOVERY
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/890.ts
+#EXTINF:-1,DISCOVERY MAX
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/891.ts
+#EXTINF:-1,DISNEY CHANNEL HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/961.ts
+#EXTINF:-1,DISNEY JUNIOR HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/892.ts
+#EXTINF:-1,DISNEY XD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/960.ts
+#EXTINF:-1,DIVINITY
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/962.ts
+#EXTINF:-1,ENERGY
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/937.ts
 #EXTINF:-1,FDF
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7221
-#EXTINF:-1,Energy
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/8765
-#EXTINF:-1,Mega
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/8760
-#EXTINF:-1,Mega HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13824
-#EXTINF:-1,Mega FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16263
-#EXTINF:-1,MTVpana
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/8759
-#EXTINF:-1,Discovery Channel
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7226
-#EXTINF:-1,National Geographic
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7187
-#EXTINF:-1,National Geographic HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13528
-#EXTINF:-1,Historia
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7217
-#EXTINF:-1,National Geographic FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16270
-#EXTINF:-1,Nat Geo Wild
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7188
-#EXTINF:-1,Viajar FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7170
-#EXTINF:-1,Clan TVE
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7231
-#EXTINF:-1,Disney Channel HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7225
-#EXTINF:-1,Disney Junior
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7224
-#EXTINF:-1,Disney XD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7223
-#EXTINF:-1,Nickelodeon
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7185
-#EXTINF:-1,Nickelodeon FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16268
-#EXTINF:-1,Nick Jr.
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13526
-#EXTINF:-1,Mezzo HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7212
-#EXTINF:-1,TV Galicia
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7218
-#EXTINF:-1,TV3 Catalunya HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/8780
-#EXTINF:-1,TV 3 Catalunya
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7175
-#EXTINF:-1,Andalucia FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7254
-#EXTINF:-1,13 TV
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13547
-#EXTINF:-1,8TV Madrid
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13545
-#EXTINF:-1,RTVA
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/8775
-#EXTINF:-1,Navarra TV
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13527
-#EXTINF:-1,Onda Azul
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13525
-#EXTINF:-1,Telesur
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7169
-#EXTINF:-1,Telecinco FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/14022
-#EXTINF:-1,La 1
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7215
-#EXTINF:-1,La 1 FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16288
-#EXTINF:-1,La 2
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7214
-#EXTINF:-1,Cuatro HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/8777
-#EXTINF:-1,Odisea TV
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/8761
-#EXTINF:-1,Sundance TV
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/14121
-#EXTINF:-1,SyFy
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13523
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/895.ts
+#EXTINF:-1,FOX HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/929.ts
+#EXTINF:-1,FOX LIFE HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/930.ts
+#EXTINF:-1,GOL TV
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/896.ts
+#EXTINF:-1,HEAR TV MUSIC
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/897.ts
+#EXTINF:-1,HEI TV MUSIC
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/898.ts
+#EXTINF:-1,HISTORIA
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/964.ts
+#EXTINF:-1,HIT TV
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/899.ts
+#EXTINF:-1,HITS NRJ
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/900.ts
+#EXTINF:-1,HOLLYWOOD HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/947.ts
+#EXTINF:-1,IBERALIA TV
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/901.ts
+#EXTINF:-1,LA 1 HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/953.ts
+#EXTINF:-1,LA 2 HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/954.ts
+#EXTINF:-1,LA SEXTA HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/963.ts
+#EXTINF:-1,MEGA
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/940.ts
+#EXTINF:-1,MIMUSICA HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/903.ts
+#EXTINF:-1,TCM HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/951.ts
+#EXTINF:-1,TELE MUSICA
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/911.ts
+#EXTINF:-1,TELECINCO HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/956.ts
+#EXTINF:-1,TELEDEPORTE
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/912.ts
+#EXTINF:-1,TELEMADRID
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/913.ts
+#EXTINF:-1,TNT
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/914.ts
+#EXTINF:-1,TOP LATINO
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/915.ts
+#EXTINF:-1,TOROS
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/916.ts
+#EXTINF:-1,TV GALICIA
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/955.ts
+#EXTINF:-1,VIAJAR HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/968.ts
+#EXTINF:-1,WIN SPORT HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/945.ts
+#EXTINF:-1,XTRM
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/917.ts
