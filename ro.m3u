@@ -1,281 +1,110 @@
-#EXTM3U
-#EXTINF:-1,6 TV
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16221
-#EXTINF:-1,AMC
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/12075
-#EXTINF:-1,AXN
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5330
-#EXTINF:-1,AXN White
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/12073
-#EXTINF:-1,Agro
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5267
-#EXTINF:-1,Alfa & Omega TV
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/14170
-#EXTINF:-1,Antena 1 FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15005
-#EXTINF:-1,Pro Gold
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16687
-#EXTINF:-1,Pro 2 (backup)
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16688
+#EXTINF:-1,Acasa TV
+http://portal.germanyservers.de:8000/mustafaasan/asan/26240
+#EXTINF:-1,Agro Tv
+http://portal.germanyservers.de:8000/mustafaasan/asan/26239
 #EXTINF:-1,Antena 1
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5281
-#EXTINF:-1,Antena 3 FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15004
+http://portal.germanyservers.de:8000/mustafaasan/asan/26242
 #EXTINF:-1,Antena 3
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5280
-#EXTINF:-1,Antena Stars FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16003
-#EXTINF:-1,Antena Stars
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5279
-#EXTINF:-1,B1 Tv
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5299
-#EXTINF:-1,Boomerang
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5327
-#EXTINF:-1,Cartoon Network
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/12071
-#EXTINF:-1,Cinemax 2
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5268
-#EXTINF:-1,Cinemax
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5269
-#EXTINF:-1,Credo Tv
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13673
-#EXTINF:-1,Cromtel TV
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/14921
-#EXTINF:-1,DIGI 24 FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15000
-#EXTINF:-1,DIGI Animal World FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/14999
-#EXTINF:-1,Film Now FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/14998
-#EXTINF:-1,DIGI Sport 1 FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/149962
-#EXTINF:-1,DIGI Sport 2 FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/14995
-#EXTINF:-1,DIGI Life FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/14997
-#EXTINF:-1,DIGI Sport 3 FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/14994
-#EXTINF:-1,DIGI World FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/14993
-#EXTINF:-1,DTX FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/14992
-#EXTINF:-1,Diaspora TV
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16217
-#EXTINF:-1,Dibi TV
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16216
-#EXTINF:-1,Digi 24 Cluj
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/14914
-#EXTINF:-1,Digi 24 Craiova
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5296
-#EXTINF:-1,Digi 24 Galati
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5297
-#EXTINF:-1,Digi 24 HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16223
-#EXTINF:-1,Digi 24
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5298
-#EXTINF:-1,Digi Animal World
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5290
-#EXTINF:-1,Digi Film
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5325
-#EXTINF:-1,Digi Life
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5326
-#EXTINF:-1,Digi Sport 1
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5321
-#EXTINF:-1,Digi Sport 2
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5320
-#EXTINF:-1,Digi Sport 3
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5319
-#EXTINF:-1,Digi Sport 4
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5318
-#EXTINF:-1,Digi World
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5324
-#EXTINF:-1,Discovery Science
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5306
-#EXTINF:-1,Discovery Channel
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/35706
-#EXTINF:-1,Disney Channel
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/12068
-#EXTINF:-1,Disney Junior
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5304
-#EXTINF:-1,E! Entertainment FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/14991
-#EXTINF:-1,Etno Tv
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5300
-#EXTINF:-1,Eurosport 1 FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/12981
-#EXTINF:-1,Eurosport 1
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5292
-#EXTINF:-1,Eurosport 2 FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/14990
-#EXTINF:-1,Eurosport 2
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5291
-#EXTINF:-1,Favorit TV
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5309
-#EXTINF:-1,Film Cafe
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/12065
-#EXTINF:-1,Fishing & Hunting
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5316
-#EXTINF:-1,Food Network FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/14989
-#EXTINF:-1,HBO 2 FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/14986
-#EXTINF:-1,HBO 2
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5277
-#EXTINF:-1,HBO 3 FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/14988
-#EXTINF:-1,HBO 3
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5276
-#EXTINF:-1,HBO FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/14987
-#EXTINF:-1,HBOmania
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5278
-#EXTINF:-1,Happy Channel FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/14985
-#EXTINF:-1,Happy Channel
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5315
-#EXTINF:-1,History Channel
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5287
-#EXTINF:-1,History FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/14984
-#EXTINF:-1,Hora TV
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/12061
-#EXTINF:-1,Informatia TV 
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/14923
-#EXTINF:-1,Kanal D FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/12982
-#EXTINF:-1,Kanal D
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5312
-#EXTINF:-1,Kiss TV
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5303
+http://portal.germanyservers.de:8000/mustafaasan/asan/26241
 #EXTINF:-1,Look Plus
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5313
-#EXTINF:-1,Look TV
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5314
+http://portal.germanyservers.de:8000/mustafaasan/asan/26238
+#EXTINF:-1,Look Tv
+http://portal.germanyservers.de:8000/mustafaasan/asan/26237
 #EXTINF:-1,Megamax
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5284
-#EXTINF:-1,Mini Max
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5282
-#EXTINF:-1,Mooz FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/14982
-#EXTINF:-1,Music Channel
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5285
-#EXTINF:-1,Nat Geo Wild
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5289
-#EXTINF:-1,National Geographic FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/14981
-#EXTINF:-1,National Geographic
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5288
-#EXTINF:-1,National TV
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5311
-#EXTINF:-1,Nasul TV HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/21485
-#EXTINF:-1,Nickelodeon
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5305
-#EXTINF:-1,Orizont TV
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/14926
-#EXTINF:-1,Paramount Channel
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5270
-#EXTINF:-1,Prima TV
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5271
-#EXTINF:-1,Pro 2 FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/12977
-#EXTINF:-1,Pro 2 HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5332
-#EXTINF:-1,Pro Cinema
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5272
-#EXTINF:-1,Pro TV (backup)
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5273
-#EXTINF:-1,Pro TV FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/14980
-#EXTINF:-1,Pro TV International
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/12058
-#EXTINF:-1,Pro TV
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5283
-#EXTINF:-1,Pro Tv Chisinau
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13644
-#EXTINF:-1,Pro X
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/12057
-#EXTINF:-1,ProTv News
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13675
-#EXTINF:-1,Publika TV
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/14199
-#EXTINF:-1,Realitatea TV HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/14050
-#EXTINF:-1,Realitatea Tv
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5295
-#EXTINF:-1,Romania TV
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5323
-#EXTINF:-1,Somax TV 
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/14920
-#EXTINF:-1,Speranta TV
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16218
-#EXTINF:-1,TLC
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/12069
-#EXTINF:-1,TNT
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5274
-#EXTINF:-1,TV 1000
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5310
-#EXTINF:-1,TV Paprika
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5286
-#EXTINF:-1,TV Sud
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/14915
-#EXTINF:-1,TVR 1
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5294
-#EXTINF:-1,TVR 1 (Backup)
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/12056
-#EXTINF:-1,TVR 2
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5293
-#EXTINF:-1,TVR 2 (Backup)
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/12055
-#EXTINF:-1,TVR 3
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/12053
-#EXTINF:-1,TVR 3 (Backup)
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/12054
-#EXTINF:-1,TVR Cluj
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/12052
-#EXTINF:-1,TVR FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/12050
-#EXTINF:-1,TVR International
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/12048
-#EXTINF:-1,Taraf
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5301
-#EXTINF:-1,Taraf TV HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/14979
-#EXTINF:-1,TeleMoldovaPlus
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/14053
-#EXTINF:-1,Telekom Sport 1
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/53855
-#EXTINF:-1,Telekom Sport 1 (backup)
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/128252
-#EXTINF:-1,Telekom Sport 2 (backup)
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/12920
-#EXTINF:-1,Telekom Sport 5 HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/12042
-#EXTINF:-1,Telekom Sport 5
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/12979
-#EXTINF:-1,Telekom Sport 6
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/12978
-#EXTINF:-1,Telestar 1 TV
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/14197
-#EXTINF:-1,Travel Channel
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/12044
-#EXTINF:-1,Travel Mix TV
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/14928
-#EXTINF:-1,Trinitas
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5275
-#EXTINF:-1,Trinity HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13674
+http://portal.germanyservers.de:8000/mustafaasan/asan/26236
+#EXTINF:-1,Prima Tv
+http://portal.germanyservers.de:8000/mustafaasan/asan/26235
+#EXTINF:-1,PRO X
+http://portal.germanyservers.de:8000/mustafaasan/asan/26195
 #EXTINF:-1,U TV
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5302
-#EXTINF:-1,UTV FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/14978
-#EXTINF:-1,Viasat History FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/14977
-#EXTINF:-1,Viasat History
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5308
+http://portal.germanyservers.de:8000/mustafaasan/asan/26234
 #EXTINF:-1,Viasat Nature
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5307
-#EXTINF:-1,Zu TV
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/12411
-#EXTINF:-1,a7 TV
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16222
+http://portal.germanyservers.de:8000/mustafaasan/asan/26233
+#EXTINF:-1,Antena Stars
+http://portal.germanyservers.de:8000/mustafaasan/asan/26228
+#EXTINF:-1,AXN
+http://portal.germanyservers.de:8000/mustafaasan/asan/26210
+#EXTINF:-1,AXN Black
+http://portal.germanyservers.de:8000/mustafaasan/asan/26211
+#EXTINF:-1,AXN White
+http://portal.germanyservers.de:8000/mustafaasan/asan/26212
+#EXTINF:-1,B1
+http://portal.germanyservers.de:8000/mustafaasan/asan/26218
+#EXTINF:-1,Digi 24 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/26214
+#EXTINF:-1,DIGI Animal World
+http://portal.germanyservers.de:8000/mustafaasan/asan/26215
+#EXTINF:-1,Digi Life
+http://portal.germanyservers.de:8000/mustafaasan/asan/26216
+#EXTINF:-1,DIGI SPORT 1 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/26199
+#EXTINF:-1,DIGI SPORT 2 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/26198
+#EXTINF:-1,DIGI SPORT 3 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/26197
+#EXTINF:-1,DIGI SPORT 4 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/26196
+#EXTINF:-1,Digi World
+http://portal.germanyservers.de:8000/mustafaasan/asan/26217
+#EXTINF:-1,Disney Channel
+http://portal.germanyservers.de:8000/mustafaasan/asan/26189
+#EXTINF:-1,Disney Junior
+http://portal.germanyservers.de:8000/mustafaasan/asan/26190
+#EXTINF:-1,ETNO TV
+http://portal.germanyservers.de:8000/mustafaasan/asan/26225
+#EXTINF:-1,Eurosport 2
+http://portal.germanyservers.de:8000/mustafaasan/asan/26194
+#EXTINF:-1,Fishing & Hunting
+http://portal.germanyservers.de:8000/mustafaasan/asan/26204
+#EXTINF:-1,Happy Channel
+http://portal.germanyservers.de:8000/mustafaasan/asan/26205
+#EXTINF:-1,HAPPY TV
+http://portal.germanyservers.de:8000/mustafaasan/asan/26213
+#EXTINF:-1,HBO 1
+http://portal.germanyservers.de:8000/mustafaasan/asan/26221
+#EXTINF:-1,HBO 2
+http://portal.germanyservers.de:8000/mustafaasan/asan/26220
+#EXTINF:-1,HBO 3
+http://portal.germanyservers.de:8000/mustafaasan/asan/26219
+#EXTINF:-1,KANAL D
+http://portal.germanyservers.de:8000/mustafaasan/asan/26243
+#EXTINF:-1,Kiss TV
+http://portal.germanyservers.de:8000/mustafaasan/asan/26206
+#EXTINF:-1,MiniMax
+http://portal.germanyservers.de:8000/mustafaasan/asan/26207
+#EXTINF:-1,Music Channel
+http://portal.germanyservers.de:8000/mustafaasan/asan/26208
+#EXTINF:-1,Music Channel HU
+http://portal.germanyservers.de:8000/mustafaasan/asan/26203
+#EXTINF:-1,Nat Geo Wild
+http://portal.germanyservers.de:8000/mustafaasan/asan/26192
+#EXTINF:-1,National Geographic
+http://portal.germanyservers.de:8000/mustafaasan/asan/26193
+#EXTINF:-1,Nickelodeon
+http://portal.germanyservers.de:8000/mustafaasan/asan/26191
+#EXTINF:-1,Paramount Channel
+http://portal.germanyservers.de:8000/mustafaasan/asan/26209
+#EXTINF:-1,PRO CINEMA
+http://portal.germanyservers.de:8000/mustafaasan/asan/26231
+#EXTINF:-1,PRO TV
+http://portal.germanyservers.de:8000/mustafaasan/asan/26232
+#EXTINF:-1,Realitatea TV
+http://portal.germanyservers.de:8000/mustafaasan/asan/26229
+#EXTINF:-1,Romania TV
+http://portal.germanyservers.de:8000/mustafaasan/asan/26230
+#EXTINF:-1,Sport Klub 1
+http://portal.germanyservers.de:8000/mustafaasan/asan/26202
+#EXTINF:-1,Sport Klub 2
+http://portal.germanyservers.de:8000/mustafaasan/asan/26201
+#EXTINF:-1,Sport Klub 3
+http://portal.germanyservers.de:8000/mustafaasan/asan/26200
+#EXTINF:-1,Taraf TV
+http://portal.germanyservers.de:8000/mustafaasan/asan/26223
+#EXTINF:-1,TV 1000
+http://portal.germanyservers.de:8000/mustafaasan/asan/26224
+#EXTINF:-1,TVR1
+http://portal.germanyservers.de:8000/mustafaasan/asan/26227
+#EXTINF:-1,TVR2
+http://portal.germanyservers.de:8000/mustafaasan/asan/26226
+#EXTINF:-1,Viasat History
+http://portal.germanyservers.de:8000/mustafaasan/asan/26222
