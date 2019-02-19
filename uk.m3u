@@ -1,507 +1,153 @@
 #EXTM3U
-#EXTINF:-1,ABC News
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9535
-#EXTINF:-1,Al Jazeera News FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9531
-#EXTINF:-1,BBC World News
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6655
-#EXTINF:-1,BBC News HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15790
-#EXTINF:-1,Bloomberg
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6652
-#EXTINF:-1,CNBC Europe
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9534
-#EXTINF:-1,CNN FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6630
-#EXTINF:-1,CNN HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15768
-#EXTINF:-1,Fox News
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6602
-#EXTINF:-1,France 24 English
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9532
-#EXTINF:-1,NHK World News HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9530
-#EXTINF:-1,Sky News
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6548
-#EXTINF:-1,Sky News FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15898
-#EXTINF:-1,Euronews
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9545
-#EXTINF:-1,RTE News Now
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9503
-#EXTINF:-1,------- Documentary -------
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16206
-#EXTINF:-1,Animal Planet
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6662
-#EXTINF:-1,Crime & Investigation
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6627
-#EXTINF:-1,Crime & Investigation FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/12865
-#EXTINF:-1,Discovery Channel
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6625
-#EXTINF:-1,Discovery Channel HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15763
-#EXTINF:-1,Discovery History
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6624
-#EXTINF:-1,Discovery History +1
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15762
-#EXTINF:-1,Discovery Investigation
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6623
-#EXTINF:-1,Discovery Science
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6622
-#EXTINF:-1,Discovery Shed
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6621
-#EXTINF:-1,Discovery Turbo
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6620
-#EXTINF:-1,Investigation Discovery
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9521
-#EXTINF:-1,Discovery Home & Health +1
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15761
-#EXTINF:-1,H2
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6596
-#EXTINF:-1,History FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6597
-#EXTINF:-1,Home
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9513
-#EXTINF:-1,Home +1
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15836
-#EXTINF:-1,Home and Health
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6594
-#EXTINF:-1,Home&Health +1
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15835
-#EXTINF:-1,Horse & Country
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9525
-#EXTINF:-1,National Geographic
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6574
-#EXTINF:-1,National Geographic HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15811
-#EXTINF:-1,National Geographic Wild
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6573
-#EXTINF:-1,National Geographic Wild HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15810
-#EXTINF:-1,Nautical Channel FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9524
-#EXTINF:-1,Travel Channel
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6526
-#EXTINF:-1,Travel Channel HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9517
-#EXTINF:-1,Travel Channel +1
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15849
-#EXTINF:-1,ID +1
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15834
-#EXTINF:-1,------- Entertainment -------
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15573
-#EXTINF:-1,BBC Alba
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9549
-#EXTINF:-1,BBC Entertainment
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9548
-#EXTINF:-1,BBC One Northern Ireland
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9552
-#EXTINF:-1,BBC One Scotland
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9553
-#EXTINF:-1,BBC One Scotland FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15789
-#EXTINF:-1,BBC Two Scotland
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9551
-#EXTINF:-1,BBC One Wales
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9554
 #EXTINF:-1,BBC Parliament
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9546
-#EXTINF:-1,BBC 1
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6659
-#EXTINF:-1,BBC 1 HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15741
-#EXTINF:-1,BBC 1 FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15742
-#EXTINF:-1,BBC 2
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6658
-#EXTINF:-1,BBC 2 HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15740
-#EXTINF:-1,BBC 3
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6657
-#EXTINF:-1,BBC 4
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6656
-#EXTINF:-1,BBC 4 HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15739
-#EXTINF:-1,Bet
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6654
-#EXTINF:-1,Bike
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6653
-#EXTINF:-1,Blaze
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15786
-#EXTINF:-1,Box Nation
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15783
-#EXTINF:-1,BoxNation FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6650
-#EXTINF:-1,British Muslim
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15782
-#EXTINF:-1,CBS Action
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6636
-#EXTINF:-1,CBBC
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15737
-#EXTINF:-1,CBBC FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9550
-#EXTINF:-1,CBS Drama
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6635
-#EXTINF:-1,CBS Reality
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6634
-#EXTINF:-1,CBS Reality +1
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15780
-#EXTINF:-1,Challenge
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9556
-#EXTINF:-1,Challenge +1 FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9555
-#EXTINF:-1,Channel 4
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6633
-#EXTINF:-1,Channel 4 HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15776
-#EXTINF:-1,Channel 4 +1 London
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15777
-#EXTINF:-1,Channels 24
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15775
-#EXTINF:-1,Channel 5 FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6632
-#EXTINF:-1,Channel 5 +1
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/11463
-#EXTINF:-1,Chelsea FC
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6631
-#EXTINF:-1,Comedy Central FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6629
-#EXTINF:-1,Comedy Central Extra +1
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15855
-#EXTINF:-1,Comedy Extra
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15856
-#EXTINF:-1,Comedy Central Xtra
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6628
-#EXTINF:-1,Crime Investigation HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15766
-#EXTINF:-1,Crime investigation +1
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15852
-#EXTINF:-1,Dave
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6626
-#EXTINF:-1,Dave HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15765
-#EXTINF:-1,Dave ja vu
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15764
-#EXTINF:-1,Dmax
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6615
-#EXTINF:-1,Dmax +1
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15757
-#EXTINF:-1,Docubox HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/11342
-#EXTINF:-1,Drama
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6614
-#EXTINF:-1,E!
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9516
-#EXTINF:-1,E4
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6613
-#EXTINF:-1,E4 HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15754
-#EXTINF:-1,E4+1
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/11462
-#EXTINF:-1,Eden
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9518
-#EXTINF:-1,Eden HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15753
-#EXTINF:-1,Fine Living
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15745
-#EXTINF:-1,Five
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6606
-#EXTINF:-1,Food Network
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6601
-#EXTINF:-1,Food Network +1
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15743
-#EXTINF:-1,Fox
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6604
-#EXTINF:-1,Fox Crime
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6603
-#EXTINF:-1,Gold
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6599
-#EXTINF:-1,Good Food
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6598
-#EXTINF:-1,RTE Jr
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9501
-#EXTINF:-1,UTV IE
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9502
-#EXTINF:-1,Gold Ireland
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15839
-#EXTINF:-1,Hillsong Channel
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/14174
-#EXTINF:-1,Horror Channel
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6595
-#EXTINF:-1,Islam Channel BH
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/11043
-#EXTINF:-1,Irish TV
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6593
-#EXTINF:-1,ITV 1
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6592
-#EXTINF:-1,ITV 1 HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15734
-#EXTINF:-1,ITV 1 FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15731
-#EXTINF:-1,ITV 2
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6591
-#EXTINF:-1,ITV 2 HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15729
-#EXTINF:-1,ITV 2 +1
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15730
-#EXTINF:-1,ITV 3
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6590
-#EXTINF:-1,ITV 3 HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15727
-#EXTINF:-1,ITV 3 +1
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15728
-#EXTINF:-1,ITV 4
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6589
-#EXTINF:-1,ITV 4 HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15724
-#EXTINF:-1,ITV 4 FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15725
-#EXTINF:-1,ITV 4 +1
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15726
-#EXTINF:-1,ITV Be
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6588
-#EXTINF:-1,ITV Be HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15732
-#EXTINF:-1,ITV Encore
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6587
-#EXTINF:-1,ITV Box Office (Only During the Events) FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/12863
-#EXTINF:-1,Lifetime
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6585
-#EXTINF:-1,Lifetime HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15825
-#EXTINF:-1,London Live
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6583
-#EXTINF:-1,More 4
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6581
-#EXTINF:-1,More4 HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15821
-#EXTINF:-1,More4 +1
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15822
-#EXTINF:-1,MUTV
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15813
-#EXTINF:-1,My5
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6575
-#EXTINF:-1,PBS America
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9514
-#EXTINF:-1,Pick TV
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6569
-#EXTINF:-1,POP
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15800
-#EXTINF:-1,Quest
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6567
-#EXTINF:-1,Quest HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15797
-#EXTINF:-1,Quest +1
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15796
-#EXTINF:-1,Quest Red
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15847
-#EXTINF:-1,Quest Red +1
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15846
-#EXTINF:-1,Racing
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6566
-#EXTINF:-1,Racing HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15795
-#EXTINF:-1,Real Lives
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6564
-#EXTINF:-1,Really
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6565
-#EXTINF:-1,Rok TV
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/7827
-#EXTINF:-1,RTE 1
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6563
-#EXTINF:-1,RTE 1 HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15908
-#EXTINF:-1,RTE 2
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6562
-#EXTINF:-1,RTE 2 HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15794
-#EXTINF:-1,RTE One HD IE
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9505
-#EXTINF:-1,RTE Two HD IE
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9504
-#EXTINF:-1,S4C
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9512
-#EXTINF:-1,S4C HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15853
-#EXTINF:-1,Sky 1
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15721
-#EXTINF:-1,Sky 1 HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15902
-#EXTINF:-1,Sky 2
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6532
-#EXTINF:-1,Sky Arts HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15901
-#EXTINF:-1,Sky Arts 1 FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6561
-#EXTINF:-1,Sky Atlantic HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15900
-#EXTINF:-1,Sky Atlantic FHD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6560
-#EXTINF:-1,Sony Channel
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9529
-#EXTINF:-1,Sony HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15897
-#EXTINF:-1,Spike
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6531
-#EXTINF:-1,STV
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9557
-#EXTINF:-1,STV HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15854
-#EXTINF:-1,STV East
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15892
-#EXTINF:-1,Syfy
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6530
-#EXTINF:-1,Syfy HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15886
-#EXTINF:-1,TG 4
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6529
-#EXTINF:-1,TG4 HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15881
-#EXTINF:-1,The Vault
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6528
-#EXTINF:-1,TLC
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6527
-#EXTINF:-1,Tiny Pop
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9523
-#EXTINF:-1,True Entertainment
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6525
-#EXTINF:-1,True Ent +1
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15875
-#EXTINF:-1,True Crime
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9526
-#EXTINF:-1,True Crime +1
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15876
-#EXTINF:-1,True Drama
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/11457
-#EXTINF:-1,Tru TV
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9527
-#EXTINF:-1,UTV HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15865
-#EXTINF:-1,W Ireland
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15861
-#EXTINF:-1,William Hill TV
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15860
-#EXTINF:-1,William Hill TV2
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/50140
-#EXTINF:-1,Your TV
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15858
-#EXTINF:-1,Universal
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6520
-#EXTINF:-1,Universal +1
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15869
-#EXTINF:-1,Universal HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15868
-#EXTINF:-1,Universal Ireland
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15867
-#EXTINF:-1,UTV
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15866
-#EXTINF:-1,Viceland HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13219
-#EXTINF:-1,Vintage TV
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9507
-#EXTINF:-1,W
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6518
-#EXTINF:-1,W HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15862
-#EXTINF:-1,W +1
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15863
-#EXTINF:-1,Watch
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6517
-#EXTINF:-1,Yesterday
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6516
-#EXTINF:-1,Yesterday +1
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15859
-#EXTINF:-1,3E Ireland
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15699
-#EXTINF:-1,4 Seven
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15697
-#EXTINF:-1,5 STAR  1
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15696
+http://portal.germanyservers.de:8000/mustafaasan/asan/33298
 #EXTINF:-1,5 USA
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6664
-#EXTINF:-1,5 USA +1
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15695
-#EXTINF:-1,Alibi
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15693
-#EXTINF:-1,3E
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6667
-#EXTINF:-1,4Seven
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6666
-#EXTINF:-1,5 Star
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6665
-#EXTINF:-1,5 Star +1
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/11461
-#EXTINF:-1,AMC HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9515
-#EXTINF:-1,Alibi HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6663
-#EXTINF:-1,CITV
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15770
-#EXTINF:-1,Sangat
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15906
-#EXTINF:-1,TBN
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15884
-#EXTINF:-1,------- Music -------
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/16208
-#EXTINF:-1,4 Music
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15698
-#EXTINF:-1,MTV
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15819
-#EXTINF:-1,MTV +1
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9542
-#EXTINF:-1,MTV Live HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9540
-#EXTINF:-1,MTV Live
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9543
-#EXTINF:-1,MTV Base HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15818
-#EXTINF:-1,MTV Base
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9537
-#EXTINF:-1,Club MTV
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9541
-#EXTINF:-1,MTV Hits HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15816
-#EXTINF:-1,MTV Hits
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6578
-#EXTINF:-1,MTV Rocks HD
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15845
-#EXTINF:-1,MTV Rocks
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9539
-#EXTINF:-1,MTV Classic
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9538
-#EXTINF:-1,MTV Music
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6577
-#EXTINF:-1,VH1
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/6519
-#EXTINF:-1,VH1 Classic
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9509
-#EXTINF:-1,MTV OMG
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9506
-#EXTINF:-1,Box Hits
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15785
-#EXTINF:-1,BOX Upfront
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15784
-#EXTINF:-1,Capital TV
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/11459
-#EXTINF:-1,Total Country
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9508
-#EXTINF:-1,Heart TV
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/11455
-#EXTINF:-1,Now 90s TV
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15771
-#EXTINF:-1,Clubland TV
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15769
-#EXTINF:-1,Kerrang TV
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15827
-#EXTINF:-1,Kiss
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15826
-#EXTINF:-1,Magic
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15824
-#EXTINF:-1,The Box
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15880
-#EXTINF:-1,Chart Show TV
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/50151
-#EXTINF:-1,Chart Show Hits
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/15885
+http://portal.germanyservers.de:8000/mustafaasan/asan/33289
+#EXTINF:-1,ALIBI
+http://portal.germanyservers.de:8000/mustafaasan/asan/33280
+#EXTINF:-1,ANIMAL PLANET
+http://portal.germanyservers.de:8000/mustafaasan/asan/33266
+#EXTINF:-1,BBC 1 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/33303
+#EXTINF:-1,BBC 2 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/33302
+#EXTINF:-1,BBC 3 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/33301
+#EXTINF:-1,BBC 4 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/33300
+#EXTINF:-1,BBC News
+http://portal.germanyservers.de:8000/mustafaasan/asan/33299
+#EXTINF:-1,BLOOMBERG
+http://portal.germanyservers.de:8000/mustafaasan/asan/33270
+#EXTINF:-1,BT SPORT 1
+http://portal.germanyservers.de:8000/mustafaasan/asan/33240
+#EXTINF:-1,BT SPORT 2
+http://portal.germanyservers.de:8000/mustafaasan/asan/33239
+#EXTINF:-1,BT SPORT 3
+http://portal.germanyservers.de:8000/mustafaasan/asan/33238
+#EXTINF:-1,BT SPORTS ESPN HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/33237
+#EXTINF:-1,CARTOON NETWORK HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/33267
+#EXTINF:-1,CBBC
+http://portal.germanyservers.de:8000/mustafaasan/asan/33297
+#EXTINF:-1,CBS ACTION JUSTICE HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/33246
+#EXTINF:-1,CBS DRAMA HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/33247
+#EXTINF:-1,CBS REALITY HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/33248
+#EXTINF:-1,CHANNEL 4
+http://portal.germanyservers.de:8000/mustafaasan/asan/33282
+#EXTINF:-1,CHANNEL 5
+http://portal.germanyservers.de:8000/mustafaasan/asan/33281
+#EXTINF:-1,COMEDY CENTRAL
+http://portal.germanyservers.de:8000/mustafaasan/asan/33286
+#EXTINF:-1,CRIME & INVERSTIGATION
+http://portal.germanyservers.de:8000/mustafaasan/asan/33255
+#EXTINF:-1,DAVE
+http://portal.germanyservers.de:8000/mustafaasan/asan/33279
+#EXTINF:-1,DISCOVERY
+http://portal.germanyservers.de:8000/mustafaasan/asan/33259
+#EXTINF:-1,DISCOVERY HISTORY
+http://portal.germanyservers.de:8000/mustafaasan/asan/33257
+#EXTINF:-1,DISCOVERY SCIENCE
+http://portal.germanyservers.de:8000/mustafaasan/asan/33258
+#EXTINF:-1,DISCOVERY TURBO
+http://portal.germanyservers.de:8000/mustafaasan/asan/33256
+#EXTINF:-1,DISNEY XD HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/33269
+#EXTINF:-1,E!
+http://portal.germanyservers.de:8000/mustafaasan/asan/33278
+#EXTINF:-1,E4
+http://portal.germanyservers.de:8000/mustafaasan/asan/33291
+#EXTINF:-1,EURONEWS
+http://portal.germanyservers.de:8000/mustafaasan/asan/33271
+#EXTINF:-1,FILM 4
+http://portal.germanyservers.de:8000/mustafaasan/asan/33288
+#EXTINF:-1,FOOD NETWORK
+http://portal.germanyservers.de:8000/mustafaasan/asan/33264
+#EXTINF:-1,FOX NEWS
+http://portal.germanyservers.de:8000/mustafaasan/asan/33272
+#EXTINF:-1,HISTORY HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/33263
+#EXTINF:-1,HOME&HEALTH
+http://portal.germanyservers.de:8000/mustafaasan/asan/33260
+#EXTINF:-1,INVESTIGATION DISCOVERY
+http://portal.germanyservers.de:8000/mustafaasan/asan/33254
+#EXTINF:-1,ITV 1 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/33296
+#EXTINF:-1,ITV 2 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/33295
+#EXTINF:-1,ITV 3 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/33294
+#EXTINF:-1,ITV 4
+http://portal.germanyservers.de:8000/mustafaasan/asan/33293
+#EXTINF:-1,ITV BE HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/33292
+#EXTINF:-1,LONDON LIVE
+http://portal.germanyservers.de:8000/mustafaasan/asan/33283
+#EXTINF:-1,MORE 4
+http://portal.germanyservers.de:8000/mustafaasan/asan/33287
+#EXTINF:-1,MOVIE 4 MEN
+http://portal.germanyservers.de:8000/mustafaasan/asan/33285
+#EXTINF:-1,MOVIES ACTION HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/33241
+#EXTINF:-1,MOVIES COMEDY HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/33242
+#EXTINF:-1,MOVIES DISNEY HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/33243
+#EXTINF:-1,MOVIES DRAMA HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/33244
+#EXTINF:-1,MOVIES THRILLER HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/33245
+#EXTINF:-1,NAT GEO WILD
+http://portal.germanyservers.de:8000/mustafaasan/asan/33262
+#EXTINF:-1,NAT GEOGRAPHIC
+http://portal.germanyservers.de:8000/mustafaasan/asan/33261
+#EXTINF:-1,NICKELODEON HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/33268
+#EXTINF:-1,QUEST
+http://portal.germanyservers.de:8000/mustafaasan/asan/33277
+#EXTINF:-1,RTE ONE
+http://portal.germanyservers.de:8000/mustafaasan/asan/33275
+#EXTINF:-1,RTE TWO
+http://portal.germanyservers.de:8000/mustafaasan/asan/33274
+#EXTINF:-1,SETANTA SPORTS HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/33236
+#EXTINF:-1,SKY ARTS
+http://portal.germanyservers.de:8000/mustafaasan/asan/33253
+#EXTINF:-1,SKY ATLANTIC
+http://portal.germanyservers.de:8000/mustafaasan/asan/33250
+#EXTINF:-1,SKY CHELSEA TV HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/33235
+#EXTINF:-1,SKY LIVING
+http://portal.germanyservers.de:8000/mustafaasan/asan/33249
+#EXTINF:-1,SKY NEWS HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/33251
+#EXTINF:-1,SKY ONE HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/33273
+#EXTINF:-1,SKY SPORT CRICKET HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/33233
+#EXTINF:-1,Sky Sport Main Event HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/33229
+#EXTINF:-1,SKY SPORTS ACTION HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/33232
+#EXTINF:-1,SKY SPORTS ARENA HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/33234
+#EXTINF:-1,SKY SPORTS F1 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/33230
+#EXTINF:-1,SKY SPORTS GOLF HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/33231
+#EXTINF:-1,Sky Sports Premier League
+http://portal.germanyservers.de:8000/mustafaasan/asan/33228
+#EXTINF:-1,SKY THRILLER HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/33252
+#EXTINF:-1,TLC
+http://portal.germanyservers.de:8000/mustafaasan/asan/33276
+#EXTINF:-1,TRAVEL CHANNEL
+http://portal.germanyservers.de:8000/mustafaasan/asan/33265
+#EXTINF:-1,UNIVERSAL
+http://portal.germanyservers.de:8000/mustafaasan/asan/33284
+#EXTINF:-1,UTV
+http://portal.germanyservers.de:8000/mustafaasan/asan/33290

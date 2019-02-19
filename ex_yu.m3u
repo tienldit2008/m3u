@@ -1,109 +1,344 @@
-#EXTM3U
-#EXTINF:0,AMC
-http://212.200.127.246:4022/udp/239.1.0.44:1234
-#EXTINF:0,AMC HD
-http://212.200.127.246:4022/udp/239.1.1.44:1234
-#EXTINF:0,Animal Planet
-http://212.200.127.246:4022/udp/239.1.0.73:1234
-#EXTINF:0,Animal Planet HD
-http://212.200.127.246:4022/udp/239.1.1.73:1234
-#EXTINF:0,Arena Sport 1
-http://212.200.127.246:4022/udp/239.1.0.23:1234
-#EXTINF:0,Arena Sport 2
-http://212.200.127.246:4022/udp/239.1.0.24:1234
-#EXTINF:0,AXN Adria
-http://212.200.127.246:4022/udp/239.1.0.31:1234
-#EXTINF:0,AXN HD
-http://212.200.127.246:4022/udp/239.1.1.31:1234
-#EXTINF:0,Baby TV
-http://212.200.127.246:4022/udp/239.1.0.191:1234
-#EXTINF:0,Discovery HD
-http://212.200.127.246:4022/udp/239.1.1.32:1234
-#EXTINF:0,Discovery Serbia
-http://212.200.127.246:4022/udp/239.1.0.32:1234
-#EXTINF:0,DM Sat
-http://212.200.127.246:4022/udp/239.1.0.202:1234
-#EXTINF:0,DM Sat HD
-http://212.200.127.246:4022/udp/239.1.1.202:1234
-#EXTINF:0,Eurosport
-http://212.200.127.246:4022/udp/239.1.0.82:1234
-#EXTINF:0,Eurosport 2
-http://212.200.127.246:4022/udp/239.1.0.125:1234
-#EXTINF:0,Film Box Plus
-http://212.200.127.246:4022/udp/239.1.0.37:1234
-#EXTINF:0,Filmbox Plus HD
-http://212.200.127.246:4022/udp/239.1.1.37:1234
-#EXTINF:3600,Hayatovci
-http://212.200.127.246:4022/udp/239.1.0.201:1234
-#EXTINF:0,ID Xtra
-http://212.200.127.246:4022/udp/239.1.0.14:1234
-#EXTINF:0,ID Xtra HD
-http://212.200.127.246:4022/udp/239.1.1.14:1234
-#EXTINF:0,KCN Kopernikus 1
-http://212.200.127.246:4022/udp/239.1.0.33:1234
-#EXTINF:0,Minimax
-http://212.200.127.246:4022/udp/239.1.0.38:1234
-#EXTINF:0,Minimax HD
-http://212.200.127.246:4022/udp/239.1.1.38:1234
-#EXTINF:0,Nat Geo HD
-http://212.200.127.246:4022/udp/239.1.1.35:1234
-#EXTINF:0,Nat Geo Wild HD
-http://212.200.127.246:4022/udp/239.1.1.7:1234
-#EXTINF:0,National Geographic
-http://212.200.127.246:4022/udp/239.1.0.35:1234
-#EXTINF:0,NG Wild
-http://212.200.127.246:4022/udp/239.1.0.7:1234
-#EXTINF:0,Nick Jr
-http://212.200.127.246:4022/udp/239.1.0.62:1234
-#EXTINF:0,O2 TV
-http://212.200.127.246:4022/udp/239.1.0.154:1234
-#EXTINF:0,O2 TV HD
-http://212.200.127.246:4022/udp/239.1.1.154:1234
-#EXTINF:0,OBN
-http://212.200.127.246:4022/udp/239.1.0.40:1234
-#EXTINF:0,PINK
-http://212.200.127.246:4022/udp/239.1.0.153:1234
-#EXTINF:0,Pink Comedy
-http://212.200.127.246:4022/udp/239.1.0.184:1234
-#EXTINF:0,Pink Crime & Mystery
-http://212.200.127.246:4022/udp/239.1.0.172:1234
-#EXTINF:0,Pink Folk
-http://212.200.127.246:4022/udp/239.1.0.183:1234
-#EXTINF:0,Pink HD
-http://212.200.127.246:4022/udp/239.1.1.153:1234
-#EXTINF:0,Pink Premium
-http://212.200.127.246:4022/udp/239.1.0.176:1234
-#EXTINF:0,Pink Sci-Fi & Fantasy
-http://212.200.127.246:4022/udp/239.1.0.174:1234
-#EXTINF:0,Pink Thriller
-http://212.200.127.246:4022/udp/239.1.0.171:1234
-#EXTINF:0,PRVA
-http://212.200.127.246:4022/udp/239.1.0.155:1234
-#EXTINF:0,PRVA HD
-http://212.200.127.246:4022/udp/239.1.1.155:1234
-#EXTINF:0,PTC 1 HD
-http://212.200.127.246:4022/udp/239.1.1.151:1234
-#EXTINF:0,PTC 2 HD
-http://212.200.127.246:4022/udp/239.1.1.152:1234
-#EXTINF:0,RTS 1 HD
-http://212.200.127.246:4022/udp/239.1.0.151:1234
-#EXTINF:0,RTS 2 HD
-http://212.200.127.246:4022/udp/239.1.0.152:1234
-#EXTINF:0,RTS 3
-http://212.200.127.246:4022/udp/239.1.0.159:1234
-#EXTINF:0,RTV 1
-http://212.200.127.246:4022/udp/239.1.0.157:1234
-#EXTINF:0,RTV 1 HD
-http://212.200.127.246:4022/udp/239.1.1.157:1234
-#EXTINF:0,RTV 2
-http://212.200.127.246:4022/udp/239.1.0.158:1234
-#EXTINF:0,SOS Kanal
-http://212.200.127.246:4022/udp/239.1.0.42:1234
-#EXTINF:0,The Voice
-http://212.200.127.246:4022/udp/239.1.0.60:1234
-#EXTINF:0,Viasat Explore HD
-http://212.200.127.246:4022/udp/239.1.1.3:1234
-#EXTINF:0,Viasat Explorer
-http://212.200.127.246:4022/udp/239.1.0.3:1234
-#EXTINF:0,Viasat History
-http://212.200.127.246:4022/udp/239.1.0.36:1234
+#EXTINF:-1,BiH: BN SAT
+http://portal.germanyservers.de:8000/mustafaasan/asan/27049
+#EXTINF:-1,BiH: HAYAT MUSIC
+http://portal.germanyservers.de:8000/mustafaasan/asan/27057
+#EXTINF:-1,A1 BALKAN (BiH)
+http://portal.germanyservers.de:8000/mustafaasan/asan/27073
+#EXTINF:-1,A1 SPORT (BiH)
+http://portal.germanyservers.de:8000/mustafaasan/asan/27072
+#EXTINF:-1,AL JAZEERA BALKAN (BIH)
+http://portal.germanyservers.de:8000/mustafaasan/asan/27071
+#EXTINF:-1,ATV (BIH)
+http://portal.germanyservers.de:8000/mustafaasan/asan/27070
+#EXTINF:-1,BHTV (BiH)
+http://portal.germanyservers.de:8000/mustafaasan/asan/27069
+#EXTINF:-1,BN LIVE (BiH)
+http://portal.germanyservers.de:8000/mustafaasan/asan/27068
+#EXTINF:-1,BN TV (BIH)
+http://portal.germanyservers.de:8000/mustafaasan/asan/27067
+#EXTINF:-1,BOSNA TV1 (BIH)
+http://portal.germanyservers.de:8000/mustafaasan/asan/27066
+#EXTINF:-1,EXYU:PINK SOAP
+http://portal.germanyservers.de:8000/mustafaasan/asan/27128
+#EXTINF:-1,EXYU:24 KITCHEN
+http://portal.germanyservers.de:8000/mustafaasan/asan/27141
+#EXTINF:-1,EXYU:ARENA SPORT 1 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/27116
+#EXTINF:-1,EXYU:Arena Sport 2 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/27115
+#EXTINF:-1,EXYU:Arena Sport 3 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/27114
+#EXTINF:-1,EXYU:Arena Sport 4 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/27113
+#EXTINF:-1,EXYU:AXN ADRIA HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/27158
+#EXTINF:-1,EXYU:BHT 1
+http://portal.germanyservers.de:8000/mustafaasan/asan/27167
+#EXTINF:-1,EXYU:Cinemax 1
+http://portal.germanyservers.de:8000/mustafaasan/asan/27152
+#EXTINF:-1,EXYU:CINEMAX 1 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/27153
+#EXTINF:-1,EXYU:Cinemax 2
+http://portal.germanyservers.de:8000/mustafaasan/asan/27151
+#EXTINF:-1,EXYU:CINESTAR ACTION
+http://portal.germanyservers.de:8000/mustafaasan/asan/27156
+#EXTINF:-1,EXYU:CineStar Premiere 1
+http://portal.germanyservers.de:8000/mustafaasan/asan/27155
+#EXTINF:-1,EXYU:CINESTAR PREMIERE 2
+http://portal.germanyservers.de:8000/mustafaasan/asan/27154
+#EXTINF:-1,EXYU:CINESTAR TV HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/27157
+#EXTINF:-1,EXYU:DOMA TV HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/27168
+#EXTINF:-1,EXYU:FOX CRIME
+http://portal.germanyservers.de:8000/mustafaasan/asan/27139
+#EXTINF:-1,EXYU:FOX LIFE
+http://portal.germanyservers.de:8000/mustafaasan/asan/27140
+#EXTINF:-1,EXYU:FOX MOVIES
+http://portal.germanyservers.de:8000/mustafaasan/asan/27138
+#EXTINF:-1,EXYU:HRT 3
+http://portal.germanyservers.de:8000/mustafaasan/asan/27171
+#EXTINF:-1,EXYU:HRT 4
+http://portal.germanyservers.de:8000/mustafaasan/asan/27170
+#EXTINF:-1,EXYU:NATIONAL GEOGRAPHIC
+http://portal.germanyservers.de:8000/mustafaasan/asan/27121
+#EXTINF:-1,EXYU:NOVA HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/27147
+#EXTINF:-1,EXYU:NOVA TV
+http://portal.germanyservers.de:8000/mustafaasan/asan/27169
+#EXTINF:-1,EXYU:OBN HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/27150
+#EXTINF:-1,EXYU:OBN SD
+http://portal.germanyservers.de:8000/mustafaasan/asan/27149
+#EXTINF:-1,EXYU:PINK
+http://portal.germanyservers.de:8000/mustafaasan/asan/27137
+#EXTINF:-1,EXYU:PINK 3
+http://portal.germanyservers.de:8000/mustafaasan/asan/27136
+#EXTINF:-1,EXYU:PINK BiH
+http://portal.germanyservers.de:8000/mustafaasan/asan/27135
+#EXTINF:-1,EXYU:PINK FOLK
+http://portal.germanyservers.de:8000/mustafaasan/asan/27134
+#EXTINF:-1,EXYU:PINK HOROR
+http://portal.germanyservers.de:8000/mustafaasan/asan/27133
+#EXTINF:-1,EXYU:Pink Kids
+http://portal.germanyservers.de:8000/mustafaasan/asan/27132
+#EXTINF:-1,EXYU:Pink Music 1
+http://portal.germanyservers.de:8000/mustafaasan/asan/27131
+#EXTINF:-1,EXYU:PINK PLUS
+http://portal.germanyservers.de:8000/mustafaasan/asan/27129
+#EXTINF:-1,EXYU:PINK Premium
+http://portal.germanyservers.de:8000/mustafaasan/asan/27125
+#EXTINF:-1,EXYU:PINK REALITY
+http://portal.germanyservers.de:8000/mustafaasan/asan/27124
+#EXTINF:-1,EXYU:PINK ROLL
+http://portal.germanyservers.de:8000/mustafaasan/asan/27122
+#EXTINF:-1,EXYU:PINK WORLD
+http://portal.germanyservers.de:8000/mustafaasan/asan/27123
+#EXTINF:-1,EXYU:PRVA TV
+http://portal.germanyservers.de:8000/mustafaasan/asan/27146
+#EXTINF:-1,EXYU:RTL 1
+http://portal.germanyservers.de:8000/mustafaasan/asan/27165
+#EXTINF:-1,EXYU:RTL 2
+http://portal.germanyservers.de:8000/mustafaasan/asan/27164
+#EXTINF:-1,EXYU:RTL CRIME
+http://portal.germanyservers.de:8000/mustafaasan/asan/27163
+#EXTINF:-1,EXYU:RTL kockica
+http://portal.germanyservers.de:8000/mustafaasan/asan/27162
+#EXTINF:-1,EXYU:RTL LIVING
+http://portal.germanyservers.de:8000/mustafaasan/asan/27161
+#EXTINF:-1,EXYU:RTL PASSION
+http://portal.germanyservers.de:8000/mustafaasan/asan/27160
+#EXTINF:-1,EXYU:RTS 1
+http://portal.germanyservers.de:8000/mustafaasan/asan/27166
+#EXTINF:-1,EXYU:RTS 2
+http://portal.germanyservers.de:8000/mustafaasan/asan/27159
+#EXTINF:-1,EXYU:SPORT KLUB 1
+http://portal.germanyservers.de:8000/mustafaasan/asan/27109
+#EXTINF:-1,EXYU:SPORT KLUB 2
+http://portal.germanyservers.de:8000/mustafaasan/asan/27108
+#EXTINF:-1,EXYU:SPORT KLUB 3 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/27107
+#EXTINF:-1,EXYU:SPORT TV 1 HD (SLO)
+http://portal.germanyservers.de:8000/mustafaasan/asan/27106
+#EXTINF:-1,EXYU:SPORT TV 2 HD (SLO)
+http://portal.germanyservers.de:8000/mustafaasan/asan/27105
+#EXTINF:-1,EXYU:SPORT TV 3 HD (SLO)
+http://portal.germanyservers.de:8000/mustafaasan/asan/27104
+#EXTINF:-1,EXYU:TV1000 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/27148
+#EXTINF:-1,EXYU:ANIMAL PLANET
+http://portal.germanyservers.de:8000/mustafaasan/asan/27117
+#EXTINF:-1,EXYU:Arena Sport 5
+http://portal.germanyservers.de:8000/mustafaasan/asan/27112
+#EXTINF:-1,EXYU:DISCOVERY HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/27118
+#EXTINF:-1,EXYU:HRT 1
+http://portal.germanyservers.de:8000/mustafaasan/asan/27173
+#EXTINF:-1,EXYU:HRT 2
+http://portal.germanyservers.de:8000/mustafaasan/asan/27172
+#EXTINF:-1,EXYU:NAT GEO HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/27120
+#EXTINF:-1,EXYU:NAT GEOGRAPHIC HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/27119
+#EXTINF:-1,EXYU:NOVA RS
+http://portal.germanyservers.de:8000/mustafaasan/asan/27145
+#EXTINF:-1,EXYU:OTV VALENTINO
+http://portal.germanyservers.de:8000/mustafaasan/asan/27144
+#EXTINF:-1,EXYU:PINK EXTRA
+http://portal.germanyservers.de:8000/mustafaasan/asan/27127
+#EXTINF:-1,EXYU:PINK KUVAR
+http://portal.germanyservers.de:8000/mustafaasan/asan/27126
+#EXTINF:-1,EXYU:PINK MUSIC 2
+http://portal.germanyservers.de:8000/mustafaasan/asan/27130
+#EXTINF:-1,EXYU:PINK ROMANSE
+http://portal.germanyservers.de:8000/mustafaasan/asan/27143
+#EXTINF:-1,EXYU:RTS SAT HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/27142
+#EXTINF:-1,EXYU:VIP:ARENA SPORT 1 HD (HR)
+http://portal.germanyservers.de:8000/mustafaasan/asan/27111
+#EXTINF:-1,EXYU:VIP:ARENA SPORT 2 HD (HR)
+http://portal.germanyservers.de:8000/mustafaasan/asan/27110
+#EXTINF:-1,FACE TV (BIH)
+http://portal.germanyservers.de:8000/mustafaasan/asan/27065
+#EXTINF:-1,FEDERALNA TV (BIH)
+http://portal.germanyservers.de:8000/mustafaasan/asan/27064
+#EXTINF:-1,GLAS DRINE TV (BIH)
+http://portal.germanyservers.de:8000/mustafaasan/asan/27063
+#EXTINF:-1,HAYAT (BIH)
+http://portal.germanyservers.de:8000/mustafaasan/asan/27062
+#EXTINF:-1,HR:ARENA SPORT 1 HD (HR)
+http://portal.germanyservers.de:8000/mustafaasan/asan/27079
+#EXTINF:-1,HR:ARENA SPORT 2 HD (HR)
+http://portal.germanyservers.de:8000/mustafaasan/asan/27078
+#EXTINF:-1,HR:ARENA SPORT 3 HD (HR)
+http://portal.germanyservers.de:8000/mustafaasan/asan/27077
+#EXTINF:-1,HR:ARENA SPORT 4 HD (HR)
+http://portal.germanyservers.de:8000/mustafaasan/asan/27076
+#EXTINF:-1,HR:ARENA SPORT 5 HD (HR)
+http://portal.germanyservers.de:8000/mustafaasan/asan/27075
+#EXTINF:-1,HR:ARENA SPORT 6 (HR)
+http://portal.germanyservers.de:8000/mustafaasan/asan/27074
+#EXTINF:-1,HR:DOMA TV (HR)
+http://portal.germanyservers.de:8000/mustafaasan/asan/27099
+#EXTINF:-1,HR:HNTV (HR)
+http://portal.germanyservers.de:8000/mustafaasan/asan/27098
+#EXTINF:-1,HR:HRT 1 (HR)
+http://portal.germanyservers.de:8000/mustafaasan/asan/27103
+#EXTINF:-1,HR:HRT 2 (HR)
+http://portal.germanyservers.de:8000/mustafaasan/asan/27102
+#EXTINF:-1,HR:HRT 3 (HR)
+http://portal.germanyservers.de:8000/mustafaasan/asan/27101
+#EXTINF:-1,HR:HRT 4 (HR)
+http://portal.germanyservers.de:8000/mustafaasan/asan/27100
+#EXTINF:-1,HR:NOVA TV (HR)
+http://portal.germanyservers.de:8000/mustafaasan/asan/27097
+#EXTINF:-1,HR:OSJECKA TV (HR)
+http://portal.germanyservers.de:8000/mustafaasan/asan/27096
+#EXTINF:-1,HR:POSAVINA TV (HR)
+http://portal.germanyservers.de:8000/mustafaasan/asan/27095
+#EXTINF:-1,HR:RTL (HR)
+http://portal.germanyservers.de:8000/mustafaasan/asan/27094
+#EXTINF:-1,HR:RTL 2 (HR)
+http://portal.germanyservers.de:8000/mustafaasan/asan/27093
+#EXTINF:-1,HR:RTL CRIME (HR)
+http://portal.germanyservers.de:8000/mustafaasan/asan/27092
+#EXTINF:-1,HR:RTL KOCKICA (HR)
+http://portal.germanyservers.de:8000/mustafaasan/asan/27091
+#EXTINF:-1,HR:RTL LIVING (HR)
+http://portal.germanyservers.de:8000/mustafaasan/asan/27090
+#EXTINF:-1,HR:RTL PASSION (HR)
+http://portal.germanyservers.de:8000/mustafaasan/asan/27089
+#EXTINF:-1,HR:Sport Klub 1 HD HR
+http://portal.germanyservers.de:8000/mustafaasan/asan/27085
+#EXTINF:-1,HR:Sport Klub 2 HD HR
+http://portal.germanyservers.de:8000/mustafaasan/asan/27084
+#EXTINF:-1,HR:Sport Klub 3 HD HR
+http://portal.germanyservers.de:8000/mustafaasan/asan/27083
+#EXTINF:-1,HR:Sport Klub 4 HR
+http://portal.germanyservers.de:8000/mustafaasan/asan/27082
+#EXTINF:-1,HR:Sport Klub 5 HR
+http://portal.germanyservers.de:8000/mustafaasan/asan/27081
+#EXTINF:-1,HR:Sport Klub 6 HR
+http://portal.germanyservers.de:8000/mustafaasan/asan/27080
+#EXTINF:-1,HR:TV CAPITAL (HR)
+http://portal.germanyservers.de:8000/mustafaasan/asan/27088
+#EXTINF:-1,HR:VINKOVACKA TV (HR)
+http://portal.germanyservers.de:8000/mustafaasan/asan/27087
+#EXTINF:-1,HR:Z1 (HR)
+http://portal.germanyservers.de:8000/mustafaasan/asan/27086
+#EXTINF:-1,MEKA TV (BiH)
+http://portal.germanyservers.de:8000/mustafaasan/asan/27061
+#EXTINF:-1,MOJE BUGOJNO (BiH)
+http://portal.germanyservers.de:8000/mustafaasan/asan/27060
+#EXTINF:-1,MTV IGMAN TV (BiH)
+http://portal.germanyservers.de:8000/mustafaasan/asan/27059
+#EXTINF:-1,N1 (BIH)
+http://portal.germanyservers.de:8000/mustafaasan/asan/27058
+#EXTINF:-1,OBN (BiH)
+http://portal.germanyservers.de:8000/mustafaasan/asan/27056
+#EXTINF:-1,OTV VALENTINO (BiH)
+http://portal.germanyservers.de:8000/mustafaasan/asan/27055
+#EXTINF:-1,RTRS (BIH)
+http://portal.germanyservers.de:8000/mustafaasan/asan/27054
+#EXTINF:-1,RTRS Plus (BiH)
+http://portal.germanyservers.de:8000/mustafaasan/asan/27053
+#EXTINF:-1,TK TUZLA (BIH)
+http://portal.germanyservers.de:8000/mustafaasan/asan/27052
+#EXTINF:-1,TV 1 (BIH)
+http://portal.germanyservers.de:8000/mustafaasan/asan/27051
+#EXTINF:-1,TV 5 Islam (BIH)
+http://portal.germanyservers.de:8000/mustafaasan/asan/27050
+#EXTINF:-1,TV Sarajevo (BiH)
+http://portal.germanyservers.de:8000/mustafaasan/asan/27048
+#EXTINF:-1,*****DENMARK*****
+http://portal.germanyservers.de:8000/mustafaasan/asan/26033
+#EXTINF:-1,DK:TV3 SPORT 1
+http://portal.germanyservers.de:8000/mustafaasan/asan/26037
+#EXTINF:-1,DK:TV3 SPORT 2 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/26036
+#EXTINF:-1,DK:6 EREN HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/26066
+#EXTINF:-1,DK:ANIMAL PLANET HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/26063
+#EXTINF:-1,DK:CANAL 9 FHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/26065
+#EXTINF:-1,DK:CANAL 9 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/26064
+#EXTINF:-1,DK:CARTOON NETWORK HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/26046
+#EXTINF:-1,DK:COMEDY CENTRAL NORDIC
+http://portal.germanyservers.de:8000/mustafaasan/asan/26062
+#EXTINF:-1,DK:DISCOVERY CHANNEL FHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/26042
+#EXTINF:-1,DK:DISCOVERY CHANNEL HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/26041
+#EXTINF:-1,DK:DISNEY CHANNEL NORDIC
+http://portal.germanyservers.de:8000/mustafaasan/asan/26045
+#EXTINF:-1,DK:DISNEY XD HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/26047
+#EXTINF:-1,DK:DK 4 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/26072
+#EXTINF:-1,DK:DR 1 FHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/26078
+#EXTINF:-1,DK:DR 1 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/26077
+#EXTINF:-1,DK:DR 2
+http://portal.germanyservers.de:8000/mustafaasan/asan/26075
+#EXTINF:-1,DK:DR 2 FHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/26076
+#EXTINF:-1,DK:DR 3 FHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/26074
+#EXTINF:-1,DK:DR 3 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/26073
+#EXTINF:-1,DK:DR K HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/26071
+#EXTINF:-1,DK:DR RAMASJANG HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/26061
+#EXTINF:-1,DK:DR ULTRA HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/26070
+#EXTINF:-1,DK:EUROSPORT 1 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/26035
+#EXTINF:-1,DK:EUROSPORT 2 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/26034
+#EXTINF:-1,DK:KANAL 4 FHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/26069
+#EXTINF:-1,DK:KANAL 4 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/26068
+#EXTINF:-1,DK:Kanall 5 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/26067
+#EXTINF:-1,DK:NAT GEO HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/26043
+#EXTINF:-1,DK:NICKELODEON HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/26044
+#EXTINF:-1,DK:TV 2 BORNHOLM HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/26052
+#EXTINF:-1,DK:TV 2 CHARLIE HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/26051
+#EXTINF:-1,DK:TV 2 FHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/26060
+#EXTINF:-1,DK:TV 2 FRI HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/26055
+#EXTINF:-1,DK:TV 2 FYN
+http://portal.germanyservers.de:8000/mustafaasan/asan/26058
+#EXTINF:-1,DK:TV 2 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/26059
+#EXTINF:-1,DK:TV 2 LORRY HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/26054
+#EXTINF:-1,DK:TV 2 NEWS HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/26053
+#EXTINF:-1,DK:TV 2 NORD HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/26056
+#EXTINF:-1,DK:TV 2 SPORT (HD)
+http://portal.germanyservers.de:8000/mustafaasan/asan/26040
+#EXTINF:-1,DK:TV 2 ZULU HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/26057
+#EXTINF:-1,DK:TV 3  HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/26049
+#EXTINF:-1,DK:TV 3 HD dk
+http://portal.germanyservers.de:8000/mustafaasan/asan/26050
+#EXTINF:-1,DK:TV 3 HD PULS
+http://portal.germanyservers.de:8000/mustafaasan/asan/26048
+#EXTINF:-1,DK:TV2 SPORT HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/26039
+#EXTINF:-1,DK:TV3 SPORT 1 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/26038
