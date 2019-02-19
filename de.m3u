@@ -1,309 +1,936 @@
-#EXTM3U
-#EXTINF:-1,ARD HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/289.ts
-#EXTINF:-1,DAS ERSTE HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/302.ts
-#EXTINF:-1,ZDF HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/281.ts
-#EXTINF:-1,ZDF INFO HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/282.ts
-#EXTINF:-1,ZDF NEO HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/283.ts
-#EXTINF:-1,ZEE ONE HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/279.ts
-#EXTINF:-1,VOX HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/267.ts
-#EXTINF:-1,SUPER RTL HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/327.ts
-#EXTINF:-1,SIXX HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/265.ts
-#EXTINF:-1,RTL 2 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/270.ts
-#EXTINF:-1,RTL 2 FHD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/275.ts
-#EXTINF:-1,RTL CRIME HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/273.ts
-#EXTINF:-1,RTL HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/269.ts
-#EXTINF:-1,RTL LIVING HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/274.ts
-#EXTINF:-1,RTL NITRO
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/271.ts
-#EXTINF:-1,RTL PASSION
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/276.ts
-#EXTINF:-1,RTL PLUS HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/272.ts
-#EXTINF:-1,SAT 1 GOLD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/278.ts
-#EXTINF:-1,SAT 1 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/277.ts
-#EXTINF:-1,PRO 7 FUN HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/285.ts
-#EXTINF:-1,PRO 7 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/284.ts
-#EXTINF:-1,PRO 7 MAXX HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/286.ts
-#EXTINF:-1,AXN HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/260.ts
-#EXTINF:-1,N24
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/291.ts
-#EXTINF:-1,NDR HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/298.ts
+#EXTINF:-1,E! ENTERTAIMENT
+http://portal.germanyservers.de:8000/mustafaasan/asan/15446
+#EXTINF:-1,KABEL 1 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/6138
+#EXTINF:-1,KABEL 1 DOKU
+http://portal.germanyservers.de:8000/mustafaasan/asan/6156
 #EXTINF:-1,FOX HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/259.ts
-#EXTINF:-1,HEIMAT KANAL HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/262.ts
-#EXTINF:-1,KABEL EINS DOKU
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/287.ts
-#EXTINF:-1,KABELEINS HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/288.ts
-#EXTINF:-1,ARTE HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/268.ts
-#EXTINF:-1,3 SAT HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/299.ts
-#EXTINF:-1,A&E HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/304.ts
-#EXTINF:-1,ANIXE HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/300.ts
-#EXTINF:-1,ORF 1 HD (AT)
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/294.ts
-#EXTINF:-1,ORF 2 HD (AT)
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/295.ts
-#EXTINF:-1,CLASSICA HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/314.ts
-#EXTINF:-1,Viva Comedy Central DE
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/3145.ts
-#EXTINF:-1,BOOMERANG HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/320.ts
-#EXTINF:-1,CARTOON NETWORK HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/328.ts
-#EXTINF:-1,DISNEY CHANNEL HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/323.ts
-#EXTINF:-1,DISNEY CINEMAGIC HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/324.ts
-#EXTINF:-1,DISNEY JUNIOR HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/321.ts
-#EXTINF:-1,DISNEY XD HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/322.ts
-#EXTINF:-1,E! ENTERTAINMENT HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/311.ts
-#EXTINF:-1,KIKA HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/325.ts
-#EXTINF:-1,KRONEHIT
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/315.ts
-#EXTINF:-1,N-TV Full HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/297.ts
-#EXTINF:-1,NICK JR
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/318.ts
-#EXTINF:-1,NICKLODEON HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/319.ts
-#EXTINF:-1,NRJ TV
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/316.ts
-#EXTINF:-1,PHOENIX HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/301.ts
-#EXTINF:-1,PLANET HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/305.ts
-#EXTINF:-1,QVC TV
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/312.ts
+http://portal.germanyservers.de:8000/mustafaasan/asan/6187
+#EXTINF:-1,ZDF HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/6182
+#EXTINF:-1,ZDF INFO
+http://portal.germanyservers.de:8000/mustafaasan/asan/6169
+#EXTINF:-1,ZDF NEO
+http://portal.germanyservers.de:8000/mustafaasan/asan/6168
+#EXTINF:-1,VOX HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/6173
+#EXTINF:-1,RTL HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/6176
+#EXTINF:-1,RTL LIVING
+http://portal.germanyservers.de:8000/mustafaasan/asan/6148
+#EXTINF:-1,RTL CRIME HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/6129
+#EXTINF:-1,RTL NITRO HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/6147
+#EXTINF:-1,RTL PLUS
+http://portal.germanyservers.de:8000/mustafaasan/asan/6146
+#EXTINF:-1,RTL 2 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/6170
+#EXTINF:-1,RTL PASSION HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/6124
+#EXTINF:-1,PRO 7 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/6172
+#EXTINF:-1,PRO 7 FUN HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/6151
+#EXTINF:-1,SAT 1 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/6346
+#EXTINF:-1,SAT 1 GOLD
+http://portal.germanyservers.de:8000/mustafaasan/asan/6145
+#EXTINF:-1,3 SAT
+http://portal.germanyservers.de:8000/mustafaasan/asan/6167
+#EXTINF:-1,SIXX HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/6178
+#EXTINF:-1,DAS ERSTE
+http://portal.germanyservers.de:8000/mustafaasan/asan/6161
+#EXTINF:-1,NDR HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/6186
+#EXTINF:-1,PHOENIX
+http://portal.germanyservers.de:8000/mustafaasan/asan/6137
 #EXTINF:-1,SERVUS TV
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/266.ts
-#EXTINF:-1,DISCOVERY CHANNEL HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/309.ts
-#EXTINF:-1,DMAX HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/264.ts
-#EXTINF:-1,HISTORY CHANNEL HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/310.ts
-#EXTINF:-1,NAT GEO PEOPLE HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/307.ts
-#EXTINF:-1,NAT GEO WILD HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/306.ts
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/308.ts
-#EXTINF:-1,13TH STREET HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/257.ts
-#EXTINF:-1,KINOWELT TV HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/313.ts
-#EXTINF:-1,ROMANCE TV HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/256.ts
-#EXTINF:-1,SILVERLINE
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/280.ts
-#EXTINF:-1,SKY CINEMA 1 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/241.ts
-#EXTINF:-1,SKY ACTION HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/246.ts
-#EXTINF:-1,SKY ARTS HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/249.ts
-#EXTINF:-1,SKY ATLANTIC 1 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/293.ts
-#EXTINF:-1,SKY ATLANTIC HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/250.ts
-#EXTINF:-1,Sky Cinema + 1
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/3960.ts
-#EXTINF:-1,SKY CINEMA +24 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/242.ts
-#EXTINF:-1,SKY CINEMA 1 Full HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/239.ts
-#EXTINF:-1,SKY CINEMA FAMILY HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/243.ts
-#EXTINF:-1,SKY CINEMA HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/240.ts
-#EXTINF:-1,SKY CINEMA HITS HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/244.ts
-#EXTINF:-1,SKY COMEDY HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/247.ts
-#EXTINF:-1,SKY EMOTION HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/248.ts
-#EXTINF:-1,SKY KRIMI HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/245.ts
-#EXTINF:-1,SKY NOSTALGIE HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/251.ts
-#EXTINF:-1,SKY SYFY HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/255.ts
-#EXTINF:-1,SKY SELECT 1 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/329.ts
-#EXTINF:-1,SKY SELECT 2 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/330.ts
-#EXTINF:-1,SKY SELECT 3 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/331.ts
-#EXTINF:-1,SKY SELECT 4 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/332.ts
-#EXTINF:-1,SKY SELECT 5 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/333.ts
-#EXTINF:-1,SKY SELECT 6 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/334.ts
-#EXTINF:-1,SKY SELECT 7 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/335.ts
-#EXTINF:-1,SKY SELECT 8 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/336.ts
-#EXTINF:-1,SKY SELECT 9 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/337.ts
-#EXTINF:-1,SKY SELECT 10 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/338.ts
-#EXTINF:-1,SKY BUNDESLIGA 1 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/354.ts
-#EXTINF:-1,SKY BUNDESLIGA 2 HD !!! weekend only !!!
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/355.ts
-#EXTINF:-1,SKY BUNDESLIGA 3 HD !!! weekend only !!!
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/356.ts
-#EXTINF:-1,SKY BUNDESLIGA 4 HD !!! weekend only !!!
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/357.ts
-#EXTINF:-1,SKY BUNDESLIGA 5 HD !!! weekend only !!!
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/358.ts
-#EXTINF:-1,SKY BUNDESLIGA 6 HD !!! weekend only !!!
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/359.ts
-#EXTINF:-1,SKY BUNDESLIGA 7 HD !!! weekend only !!!
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/360.ts
-#EXTINF:-1,SKY SPORT AUSTRIA
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/353.ts
-#EXTINF:-1,SKY SPORT NEWS HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/352.ts
-#EXTINF:-1,SKY SPORT 1 Full HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/348.ts
-#EXTINF:-1,SKY SPORT 2 Full HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/350.ts
-#EXTINF:-1,SKY SPORT 1 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/347.ts
-#EXTINF:-1,SKY SPORT 2 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/349.ts
-#EXTINF:-1,AUTO MOTOR SPORT HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/340.ts
-#EXTINF:-1,MOTORVISON TV
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/339.ts
-#EXTINF:-1,FILMBOX GERMANY HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/1751.ts
-#EXTINF:-1,EUROSPORT 2XTRA HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/1752.ts
-#EXTINF:-1,EUROSPORT 1 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/342.ts
-#EXTINF:-1,EUROSPORT 2 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/343.ts
-#EXTINF:-1,SPORT 1 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/344.ts
-#EXTINF:-1,SPORT DIGITAL HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/351.ts
-#EXTINF:-1,SPORT+1 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/345.ts
-#EXTINF:-1,SPORT1 US HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/346.ts
-#EXTINF:-1,SONY ENTERTAINMENT TV HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/261.ts
-#EXTINF:-1,SPIEGEL GESCHICTHE HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/317.ts
-#EXTINF:-1,SPIEGEL TV WISSEN HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/292.ts
-#EXTINF:-1,TELE 5 TV HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/296.ts
-#EXTINF:-1,TNT COMEDY
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/253.ts
-#EXTINF:-1,TNT FILM HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/252.ts
-#EXTINF:-1,TNT SERIES HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/254.ts
-#EXTINF:-1,TOGGO PLUS
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/326.ts
-#EXTINF:-1,UNIVERSAL CHANNEL HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/258.ts
+http://portal.germanyservers.de:8000/mustafaasan/asan/6144
 #EXTINF:-1,WDR HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/290.ts
-#EXTINF:-1,WWE HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/341.ts
-#EXTINF:-1,XITE
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/303.ts
-#EXTINF:-1,EURONEWS HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/1936.ts
-#EXTINF:-1,FC Bayern TV
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/368.ts
-#EXTINF:-1,FC Bayern TV FHD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/361.ts
-#EXTINF:-1,Film Thriller HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/4184.ts
-#EXTINF:-1,Film Sci-Fi HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/4183.ts
-#EXTINF:-1,Film Palast HD INFO
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/4169.ts
-#EXTINF:-1,Film Palast 9 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/4178.ts
-#EXTINF:-1,Film Palast 8 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/4177.ts
-#EXTINF:-1,Film Palast 7 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/4176.ts
-#EXTINF:-1,Film Palast 6 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/4175.ts
-#EXTINF:-1,Film Palast 5 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/4174.ts
-#EXTINF:-1,Film Palast 4 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/4173.ts
-#EXTINF:-1,Film Palast 3 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/4172.ts
-#EXTINF:-1,Film Palast 2 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/4171.ts
-#EXTINF:-1,Film Palast 10 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/4179.ts
-#EXTINF:-1,Film Palast 1 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/4170.ts
-#EXTINF:-1,Film Jackie Chan HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/4180.ts
-#EXTINF:-1,Film Horror HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/4182.ts
-#EXTINF:-1,Film Fantasy HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/4185.ts
-#EXTINF:-1,Film Drama HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/4186.ts
-#EXTINF:-1,Film Comedy HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/4187.ts
-#EXTINF:-1,Film Bollywood HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/4181.ts
-#EXTINF:-1,Film Adventure HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/4188.ts
-#EXTINF:-1,Film Action HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/4189.ts
-#EXTINF:-1,Eurosport 2 HD xtra
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/4213.ts
-#EXTINF:-1,Deluxe Music HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/4211.ts
-#EXTINF:-1,DAZN 1 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/3964.ts
-#EXTINF:-1,DAZN 2 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/3965.ts
+http://portal.germanyservers.de:8000/mustafaasan/asan/6174
+#EXTINF:-1,N-TV HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/6377
+#EXTINF:-1,N24 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/6188
+#EXTINF:-1,PLANET A&E HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/6181
+#EXTINF:-1,ORF 1 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/6184
+#EXTINF:-1,ORF 2 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/6183
+#EXTINF:-1,SRF 1 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/6142
+#EXTINF:-1,TELE 5 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/6140
+#EXTINF:-1,Kabel Eins Classica HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/27527
+#EXTINF:-1,N24 Doku HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/27530
+#EXTINF:-1,Prosieben Maxx HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/27528
+#EXTINF:-1,Romance TV
+http://portal.germanyservers.de:8000/mustafaasan/asan/27529
+#EXTINF:-1,DMAX HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/6158
+#EXTINF:-1,ARTE
+http://portal.germanyservers.de:8000/mustafaasan/asan/6185
+#EXTINF:-1,EURONEWS TV
+http://portal.germanyservers.de:8000/mustafaasan/asan/15546
+#EXTINF:-1,PLANET
+http://portal.germanyservers.de:8000/mustafaasan/asan/15551
+#EXTINF:-1,HEIMAT KANAL
+http://portal.germanyservers.de:8000/mustafaasan/asan/6157
+#EXTINF:-1,DELUXE MUSIC TV
+http://portal.germanyservers.de:8000/mustafaasan/asan/6160
+#EXTINF:-1,KIKA
+http://portal.germanyservers.de:8000/mustafaasan/asan/6155
+#EXTINF:-1,NICKLODEON HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/6355
+#EXTINF:-1,SPIEGEL GESCHICHTE
+http://portal.germanyservers.de:8000/mustafaasan/asan/6143
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/6113
+#EXTINF:-1,NAT GEO WILD HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/6114
+#EXTINF:-1,NAT GEOGRAPHIC HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/6154
+#EXTINF:-1,HISTORY HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/6115
 #EXTINF:-1,ANIMAL PLANET
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/4292.ts
+http://portal.germanyservers.de:8000/mustafaasan/asan/6166
+#EXTINF:-1,1-2-3  TV
+http://portal.germanyservers.de:8000/mustafaasan/asan/27578
+#EXTINF:-1,Allgau TV
+http://portal.germanyservers.de:8000/mustafaasan/asan/27580
+#EXTINF:-1,AUGSBURG TV
+http://portal.germanyservers.de:8000/mustafaasan/asan/27581
+#EXTINF:-1,BADEN TV
+http://portal.germanyservers.de:8000/mustafaasan/asan/27582
+#EXTINF:-1,BLK
+http://portal.germanyservers.de:8000/mustafaasan/asan/27583
+#EXTINF:-1,BR Fernsehen
+http://portal.germanyservers.de:8000/mustafaasan/asan/27584
+#EXTINF:-1,Deutsches Musik Fernsehen
+http://portal.germanyservers.de:8000/mustafaasan/asan/27587
+#EXTINF:-1,Dorf TV
+http://portal.germanyservers.de:8000/mustafaasan/asan/27589
+#EXTINF:-1,DRF 1
+http://portal.germanyservers.de:8000/mustafaasan/asan/27590
+#EXTINF:-1,ELBE KANAL
+http://portal.germanyservers.de:8000/mustafaasan/asan/27591
+#EXTINF:-1,EV1 TV
+http://portal.germanyservers.de:8000/mustafaasan/asan/27592
+#EXTINF:-1,Family TV
+http://portal.germanyservers.de:8000/mustafaasan/asan/27576
+#EXTINF:-1,Folx TV
+http://portal.germanyservers.de:8000/mustafaasan/asan/27593
+#EXTINF:-1,Franken Fernsehen  HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/27594
+#EXTINF:-1,HALLE
+http://portal.germanyservers.de:8000/mustafaasan/asan/27595
+#EXTINF:-1,Hamburg 1 TV
+http://portal.germanyservers.de:8000/mustafaasan/asan/27596
+#EXTINF:-1,Health TV
+http://portal.germanyservers.de:8000/mustafaasan/asan/27597
+#EXTINF:-1,Hope Channel
+http://portal.germanyservers.de:8000/mustafaasan/asan/27598
+#EXTINF:-1,HR HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/27599
+#EXTINF:-1,HSE 24 Extra TV
+http://portal.germanyservers.de:8000/mustafaasan/asan/27600
+#EXTINF:-1,Isar TV
+http://portal.germanyservers.de:8000/mustafaasan/asan/27601
+#EXTINF:-1,K-TV
+http://portal.germanyservers.de:8000/mustafaasan/asan/27603
+#EXTINF:-1,KabelJournal TV
+http://portal.germanyservers.de:8000/mustafaasan/asan/27604
+#EXTINF:-1,KKR TV
+http://portal.germanyservers.de:8000/mustafaasan/asan/27605
+#EXTINF:-1,Kronehit TV
+http://portal.germanyservers.de:8000/mustafaasan/asan/27606
+#EXTINF:-1,Leipzig Fernsehen
+http://portal.germanyservers.de:8000/mustafaasan/asan/27607
+#EXTINF:-1,Marseburg
+http://portal.germanyservers.de:8000/mustafaasan/asan/27608
+#EXTINF:-1,MDF 1 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/27609
+#EXTINF:-1,Munchen TV HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/27610
+#EXTINF:-1,Nahe TV
+http://portal.germanyservers.de:8000/mustafaasan/asan/27611
+#EXTINF:-1,Nice TV
+http://portal.germanyservers.de:8000/mustafaasan/asan/27612
+#EXTINF:-1,NOA 4 HAMBURG
+http://portal.germanyservers.de:8000/mustafaasan/asan/27613
+#EXTINF:-1,Oberpfalz TV
+http://portal.germanyservers.de:8000/mustafaasan/asan/27614
+#EXTINF:-1,Offener Kanal Magdeburg
+http://portal.germanyservers.de:8000/mustafaasan/asan/27615
+#EXTINF:-1,OK SALZWEDEL
+http://portal.germanyservers.de:8000/mustafaasan/asan/27616
+#EXTINF:-1,OK STENDAL
+http://portal.germanyservers.de:8000/mustafaasan/asan/27617
+#EXTINF:-1,OKD TV
+http://portal.germanyservers.de:8000/mustafaasan/asan/27618
+#EXTINF:-1,Okto TV
+http://portal.germanyservers.de:8000/mustafaasan/asan/27646
+#EXTINF:-1,Pearl TV
+http://portal.germanyservers.de:8000/mustafaasan/asan/27619
+#EXTINF:-1,Planai TV
+http://portal.germanyservers.de:8000/mustafaasan/asan/27620
+#EXTINF:-1,PUNKTum TV
+http://portal.germanyservers.de:8000/mustafaasan/asan/27621
+#EXTINF:-1,QVC
+http://portal.germanyservers.de:8000/mustafaasan/asan/27622
+#EXTINF:-1,QVC Beauty
+http://portal.germanyservers.de:8000/mustafaasan/asan/27623
+#EXTINF:-1,Ran 1 TV
+http://portal.germanyservers.de:8000/mustafaasan/asan/27624
+#EXTINF:-1,RBW HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/27625
+#EXTINF:-1,RFH TV
+http://portal.germanyservers.de:8000/mustafaasan/asan/27627
+#EXTINF:-1,RFO
+http://portal.germanyservers.de:8000/mustafaasan/asan/27628
+#EXTINF:-1,Rheinmain TV
+http://portal.germanyservers.de:8000/mustafaasan/asan/27626
+#EXTINF:-1,RWD HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/27629
+#EXTINF:-1,SALZWEDEL
+http://portal.germanyservers.de:8000/mustafaasan/asan/27631
+#EXTINF:-1,TRP 1
+http://portal.germanyservers.de:8000/mustafaasan/asan/27632
+#EXTINF:-1,TV BERLIN
+http://portal.germanyservers.de:8000/mustafaasan/asan/27634
+#EXTINF:-1,TV Halle
+http://portal.germanyservers.de:8000/mustafaasan/asan/27635
+#EXTINF:-1,TV M
+http://portal.germanyservers.de:8000/mustafaasan/asan/27636
+#EXTINF:-1,TV Mittelrhein
+http://portal.germanyservers.de:8000/mustafaasan/asan/27637
+#EXTINF:-1,TV Oberfranken
+http://portal.germanyservers.de:8000/mustafaasan/asan/27638
+#EXTINF:-1,TV Touring
+http://portal.germanyservers.de:8000/mustafaasan/asan/27639
+#EXTINF:-1,TVA Aktuelle
+http://portal.germanyservers.de:8000/mustafaasan/asan/27640
+#EXTINF:-1,TVA Ostbayern
+http://portal.germanyservers.de:8000/mustafaasan/asan/27641
+#EXTINF:-1,TVO HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/27642
+#EXTINF:-1,W 24
+http://portal.germanyservers.de:8000/mustafaasan/asan/27643
+#EXTINF:-1,WMZ TV
+http://portal.germanyservers.de:8000/mustafaasan/asan/27644
+#EXTINF:-1,WTV
+http://portal.germanyservers.de:8000/mustafaasan/asan/27645
+#EXTINF:-1,***** DEUTSCH UHD [4K] *****
+http://portal.germanyservers.de:8000/mustafaasan/asan/17983
+#EXTINF:-1,SKY SPORT NEWS UHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17973
+#EXTINF:-1,SKY BUNDESLIGA 1 UHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17931
+#EXTINF:-1,SKY BUNDESLIGA 2 UHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17932
+#EXTINF:-1,DAZN 1 BAR UHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17942
+#EXTINF:-1,DAZN 2 BAR UHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17943
+#EXTINF:-1,SPORT 1 UHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17974
+#EXTINF:-1,SKY 1 UHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17964
+#EXTINF:-1,Sport Digital UHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/27520
+#EXTINF:-1,Kabel Eins UHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/27524
+#EXTINF:-1,Prosieben Fun UHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/27525
+#EXTINF:-1,RTL Passion UHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/27526
+#EXTINF:-1,Spiegel Geschichte UHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/27522
+#EXTINF:-1,Spiegel Wissen UHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/27521
+#EXTINF:-1,Universal UHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/27523
+#EXTINF:-1,FOX UHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17950
+#EXTINF:-1,HISTORY UHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17951
+#EXTINF:-1,MDR S-Anhalt UHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17952
+#EXTINF:-1,MTV UHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17953
+#EXTINF:-1,N-TV UHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17954
+#EXTINF:-1,NAT GEO UHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17955
+#EXTINF:-1,NAT GEO WILD UHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17956
+#EXTINF:-1,PRO 7 UHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17957
+#EXTINF:-1,RBB Berlin UHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17958
+#EXTINF:-1,RTL 2 UHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17959
+#EXTINF:-1,RTL CRIME UHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17960
+#EXTINF:-1,RTL UHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17961
+#EXTINF:-1,SAT 1 UHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17962
+#EXTINF:-1,SIXX UHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17963
+#EXTINF:-1,13TH STREET UHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17944
+#EXTINF:-1,ARD DAS ERSTE UHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17945
+#EXTINF:-1,DELUXE MUSIC UHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17946
+#EXTINF:-1,DISCOVERY UHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17947
+#EXTINF:-1,DISNEY CINEMAGIC UHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17948
+#EXTINF:-1,E! ENTERTAIMENT UHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17949
+#EXTINF:-1,SUPER RTL UHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17975
+#EXTINF:-1,SYFY UHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17976
+#EXTINF:-1,TNT COMEDY UHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17977
+#EXTINF:-1,TNT SERIES UHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17978
+#EXTINF:-1,UNIVERSAL CHANNEL UHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17979
+#EXTINF:-1,VOX UHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17980
+#EXTINF:-1,ZDF UHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17981
+#EXTINF:-1,ZEE ONE UHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17982
+#EXTINF:-1,SKY ACTION UHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17965
+#EXTINF:-1,SKY ARTS UHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17966
+#EXTINF:-1,SKY ATLANTIC UHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17967
+#EXTINF:-1,SKY CINEMA  24 UHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17968
+#EXTINF:-1,SKY CINEMA 1 UHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17969
+#EXTINF:-1,SKY CINEMA FAMILY UHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17970
+#EXTINF:-1,SKY CINEMA HITS UHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17971
+#EXTINF:-1,SKY CINEMA UHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17972
+#EXTINF:-1,TLC HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17939
+#EXTINF:-1,SKY SYFY HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/12267
+#EXTINF:-1,***** DEUTSCHE KINO *****
+http://portal.germanyservers.de:8000/mustafaasan/asan/3412
+#EXTINF:-1,SKY 1 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17930
+#EXTINF:-1,SKY CINEMA FAMILY HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17933
+#EXTINF:-1,SKY CINEMA HITS HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17934
+#EXTINF:-1,SKY CINEMA 24 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/6126
+#EXTINF:-1,SKY CINEMA HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/6128
+#EXTINF:-1,SKY CINEMA 1 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/6127
+#EXTINF:-1,SKY ATLATIC HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/6393
+#EXTINF:-1,SKY ACTION HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/6125
+#EXTINF:-1,SKY ATLANTIC HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/6122
+#EXTINF:-1,SKY EMOTION HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/6123
+#EXTINF:-1,SKY KRIMI HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17935
+#EXTINF:-1,SKY NOSTALGIE HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17936
+#EXTINF:-1,SKY AXN HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/12255
+#EXTINF:-1,TNT FILM HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/6130
+#EXTINF:-1,TNT SERIES HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/6131
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/6139
+#EXTINF:-1,WELT DER WUNDER HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17941
+#EXTINF:-1,COMEDY CENTRAL HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17915
+#EXTINF:-1,KINOWELT HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17922
+#EXTINF:-1,SONY TV HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17937
+#EXTINF:-1,TNT COMEDY HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17940
+#EXTINF:-1,ZEE ONE HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/13086
+#EXTINF:-1,KABEL 1 CLASSIC HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/8035
+#EXTINF:-1,PRO 7 MAXX HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/6368
+#EXTINF:-1,13TH STREET HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/6135
+#EXTINF:-1,ELIT CINEMA 1 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17916
+#EXTINF:-1,ELIT CINEMA 2 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17917
+#EXTINF:-1,ELIT CINEMA 3 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17918
+#EXTINF:-1,ELIT CINEMA 4 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17919
+#EXTINF:-1,VIP:SKY SELECT 1 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/6121
+#EXTINF:-1,VIP:SKY SELECT 2 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/6120
+#EXTINF:-1,VIP:SKY SELECT 3 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/6119
+#EXTINF:-1,VIP:SKY SELECT 4 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/6118
+#EXTINF:-1,VIP:SKY SELECT 5 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/6117
+#EXTINF:-1,VIP:SKY SELECT 6 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/6116
+#EXTINF:-1,SKY Select 7 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/27540
+#EXTINF:-1,SKY Select 8 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/27539
+#EXTINF:-1,SKY Select 9 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/27538
+#EXTINF:-1,SKY Select 10 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/27537
+#EXTINF:-1,POPCORN SELECT 6 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17928
+#EXTINF:-1,CineBox Select 1 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/27647
+#EXTINF:-1,CineBox Select 2 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/27648
+#EXTINF:-1,CineBox Select 3 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/27649
+#EXTINF:-1,CineBox Select 4 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/27650
+#EXTINF:-1,CineBox Select 5 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/27651
+#EXTINF:-1,CineBox Select 6 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/27652
+#EXTINF:-1,***** DEUTSCHE SPORT *****
+http://portal.germanyservers.de:8000/mustafaasan/asan/6533
+#EXTINF:-1,EUROSPORT 2 XTRA HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/8009
+#EXTINF:-1,SKY BUNDESLIGA 1 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/7408
+#EXTINF:-1,SKY BUNDESLIGA 1 SD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17912
+#EXTINF:-1,SKY BUNDESLIGA 2 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/7409
+#EXTINF:-1,SKY BUNDESLIGA 2 SD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17913
+#EXTINF:-1,SKY BUNDESLIGA 3 HD (MATCH TIME)
+http://portal.germanyservers.de:8000/mustafaasan/asan/7412
+#EXTINF:-1,SKY BUNDESLIGA 4 HD (MATCH TIME)
+http://portal.germanyservers.de:8000/mustafaasan/asan/7413
+#EXTINF:-1,SKY BUNDESLIGA 5 HD (MATCH TIME)
+http://portal.germanyservers.de:8000/mustafaasan/asan/7414
+#EXTINF:-1,SKY BUNDESLIGA 6 HD (MATCH TIME)
+http://portal.germanyservers.de:8000/mustafaasan/asan/17909
+#EXTINF:-1,SKY BUNDESLIGA 7 HD (MATCH TIME)
+http://portal.germanyservers.de:8000/mustafaasan/asan/7416
+#EXTINF:-1,SKY BUNDESLIGA 8 HD (MATCH TIME)
+http://portal.germanyservers.de:8000/mustafaasan/asan/7417
+#EXTINF:-1,SKY BUNDESLIGA 9 HD (MATCH TIME)
+http://portal.germanyservers.de:8000/mustafaasan/asan/17910
+#EXTINF:-1,SKY BUNDESLIGA 10 HD (MATCH TIME)
+http://portal.germanyservers.de:8000/mustafaasan/asan/7419
+#EXTINF:-1,SKY SPORT NEWS HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/6256
+#EXTINF:-1,SKY SPORT AVUSTRIA HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17984
+#EXTINF:-1,SKY SPORT 1 UHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/6112
+#EXTINF:-1,SKY SPORT 2 UHD
+http://portal.germanyservers.de:8000/mustafaasan/asan/6111
+#EXTINF:-1,SKY SPORT 1 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/6110
+#EXTINF:-1,SKY SPORT 2 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/6109
+#EXTINF:-1,SKY SPORT 3 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/8037
+#EXTINF:-1,SKY SPORT 4 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17907
+#EXTINF:-1,SKY SPORT 5 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/12248
+#EXTINF:-1,SKY SPORT 6 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/12249
+#EXTINF:-1,SKY SPORT 7 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/12250
+#EXTINF:-1,SKY SPORT 8 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/12251
+#EXTINF:-1,SKY SPORT 9 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/12252
+#EXTINF:-1,SKY SPORT 10 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17908
+#EXTINF:-1,EUROSPORT 1 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/6263
+#EXTINF:-1,EUROSPORT 2 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17911
+#EXTINF:-1,Telekom Fussball 1 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/27370
+#EXTINF:-1,Sky Teleclub Sport 1
+http://portal.germanyservers.de:8000/mustafaasan/asan/27653
+#EXTINF:-1,Sky Teleclub Sport 2
+http://portal.germanyservers.de:8000/mustafaasan/asan/27654
+#EXTINF:-1,Sky Teleclub Sport 3
+http://portal.germanyservers.de:8000/mustafaasan/asan/27655
+#EXTINF:-1,SPORT 1 HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/6190
+#EXTINF:-1, SPORT 1+
+http://portal.germanyservers.de:8000/mustafaasan/asan/18716
+#EXTINF:-1,ORF SPORT
+http://portal.germanyservers.de:8000/mustafaasan/asan/18437
+#EXTINF:-1,AUTO MOTOR SPORT HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17914
+#EXTINF:-1,SPORT DIGITAL HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/17938
+#EXTINF:-1,***** DEUTSCHE KINDER *****
+http://portal.germanyservers.de:8000/mustafaasan/asan/27656
+#EXTINF:-1,Car City TV
+http://portal.germanyservers.de:8000/mustafaasan/asan/27657
+#EXTINF:-1,Kids TV
+http://portal.germanyservers.de:8000/mustafaasan/asan/27658
+#EXTINF:-1,Mr. Bean TV
+http://portal.germanyservers.de:8000/mustafaasan/asan/27659
+#EXTINF:-1,Peppa Pig TV
+http://portal.germanyservers.de:8000/mustafaasan/asan/27660
+#EXTINF:-1,TuTiTu TV
+http://portal.germanyservers.de:8000/mustafaasan/asan/27661
+#EXTINF:-1,SUPER RTL
+http://portal.germanyservers.de:8000/mustafaasan/asan/6141
+#EXTINF:-1,TOGGO plus
+http://portal.germanyservers.de:8000/mustafaasan/asan/27662
+#EXTINF:-1,BOOMERANG
+http://portal.germanyservers.de:8000/mustafaasan/asan/6164
+#EXTINF:-1,CARTOON NETWORK HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/6163
+#EXTINF:-1,DISNEY CHANNEL
+http://portal.germanyservers.de:8000/mustafaasan/asan/6159
+#EXTINF:-1,DISNEY CINEMAGIC HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/6132
+#EXTINF:-1,DISNEY JUNIOR HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/6133
+#EXTINF:-1,DISNEY XD  HD
+http://portal.germanyservers.de:8000/mustafaasan/asan/6134
+#EXTINF:-1,Junior
+http://portal.germanyservers.de:8000/mustafaasan/asan/27663
+#EXTINF:-1,***** DEUTSCHE VOD *****
+http://portal.germanyservers.de:8000/mustafaasan/asan/469
+#EXTINF:-1,1000 Yards- Zwischen Leben und Tod 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29040.mp4
+#EXTINF:-1,211- Cops under Fire 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28871.mp4
+#EXTINF:-1,3 Tage in Quiberon 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28872.mp4
+#EXTINF:-1,6-Headed Shark Attack 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28873.mp4
+#EXTINF:-1,7 Tage in Entebbe 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28874.mp4
+#EXTINF:-1,A Breath Away 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28875.mp4
+#EXTINF:-1,A Star Is Born 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28876.mp4
+#EXTINF:-1,Adrenochrome 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28877.mp4
+#EXTINF:-1,Aldi - Eine deutsche Geschichte 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28878.mp4
+#EXTINF:-1,Alex Strangelove 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28879.mp4
+#EXTINF:-1,Alien Siege 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28880.mp4
+#EXTINF:-1,Alles Isy 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28881.mp4
+#EXTINF:-1,Alles nur eine Frage des Geschmacks 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28882.mp4
+#EXTINF:-1,Alpha 2018 -de-
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28883.mp4
+#EXTINF:-1,Alte Zöpfe 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28884.mp4
+#EXTINF:-1,Angelas Weihnachten 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28885.mp4
+#EXTINF:-1,Anon 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28886.mp4
+#EXTINF:-1,Ant-Man and the Wasp 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28887.mp4
+#EXTINF:-1,Appgefahren - Alles ist möglich 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28888.mp4
+#EXTINF:-1,Aquaman 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28889.mp4
+#EXTINF:-1,Aufbruch zum Mond 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28891.mp4
+#EXTINF:-1,Bad Times at the El Royale 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28893.mp4
+#EXTINF:-1,Bent - Korruption kennt keine Regeln 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28894.mp4
+#EXTINF:-1,Black 47 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28897.mp4
+#EXTINF:-1,BlacKkKlansman 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28896.mp4
+#EXTINF:-1,Blame - Verbotenes Verlangen 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28898.mp4
+#EXTINF:-1,Boarding School 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29061.mp4
+#EXTINF:-1,Braven 2018 -de-
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28899.mp4
+#EXTINF:-1,BuyBust 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28900.mp4
+#EXTINF:-1,Cam 2018 -de-
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28901.mp4
+#EXTINF:-1,Christmas with a View 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28902.mp4
+#EXTINF:-1,Christopher Robin 2018 -de-
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28904.mp4
+#EXTINF:-1,Curse of the Nun 2018 -de-
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28905.mp4
+#EXTINF:-1,Das Alibi - Spiel der Macht 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28906.mp4
+#EXTINF:-1,Das etruskische Lächeln 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28910.mp4
+#EXTINF:-1,Das Haus der geheimnisvollen Uhren 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28907.mp4
+#EXTINF:-1,Das Mädchen und ihr Roboter 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28908.mp4
+#EXTINF:-1,Das schweigende Klassenzimmer 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28911.mp4
+#EXTINF:-1,Das Vermächtnis des Weißwedelhirschjägers 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28909.mp4
+#EXTINF:-1,DC: Constantine: City of Demons - The Movie 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28903.mp4
+#EXTINF:-1,Dead in a Week (oder Geld zurück) 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28913.mp4
+#EXTINF:-1,Dead Men - Das Gold der Apachen 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28912.mp4
+#EXTINF:-1,Death Race: Beyond Anarchy 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28914.mp4
+#EXTINF:-1,Deine Juliet 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28915.mp4
+#EXTINF:-1,Der ägyptische Spion, der Israel rettete 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28918.mp4
+#EXTINF:-1,Der Bankier des Widerstands 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28916.mp4
+#EXTINF:-1,Der süße Brei 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28919.mp4
+#EXTINF:-1,Destination Wedding 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28920.mp4
+#EXTINF:-1,Die Biene Maja -  Die Honigspiele 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28921.mp4
+#EXTINF:-1,Die Gesetze der Thermodynamik 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28922.mp4
+#EXTINF:-1,Die Haut des Wolfes 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28923.mp4
+#EXTINF:-1,Die letzte Party deines Lebens 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28926.mp4
+#EXTINF:-1,Die Supermonster und der Wunschstern 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28927.mp4
+#EXTINF:-1,Die Warnung 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28925.mp4
+#EXTINF:-1,Dinky Sinky 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28928.mp4
+#EXTINF:-1,Early Man 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28929.mp4
+#EXTINF:-1,Ein Dorf zieht blank 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28930.mp4
+#EXTINF:-1,Eleanor & Colette 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29062.mp4
+#EXTINF:-1,Escape Plan 2 - Hades 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28931.mp4
+#EXTINF:-1,Extraklasse 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28932.mp4
+#EXTINF:-1,First Reformed 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28933.mp4
+#EXTINF:-1,Frankfurt, Dezember 17 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28934.mp4
+#EXTINF:-1,Freaky Friday - Ein voll verrückter Freitag 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28935.mp4
+#EXTINF:-1,Fünf Freunde und das Tal der Dinosaurier 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29064.mp4
+#EXTINF:-1,Future World 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29065.mp4
+#EXTINF:-1,Gangstas 4 Life 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28936.mp4
+#EXTINF:-1,Ghost Stories 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28937.mp4
+#EXTINF:-1,Gotti 2018 -de-
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28938.mp4
+#EXTINF:-1,Halloween 2018 -de-
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28940.mp4
+#EXTINF:-1,He's Out There 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28941.mp4
+#EXTINF:-1,HERRliche Zeiten 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28939.mp4
+#EXTINF:-1,Hot Dog 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28942.mp4
+#EXTINF:-1,Hotel Artemis 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28943.mp4
+#EXTINF:-1,I Feel Pretty 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28944.mp4
+#EXTINF:-1,I Still See You 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28945.mp4
+#EXTINF:-1,Ideal Home - Ein Vater kommt selten allein 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28946.mp4
+#EXTINF:-1,Im Zweifel für die Liebe 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28972.mp4
+#EXTINF:-1,Immortal Wars - Nur der Stärkste überlebt 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28947.mp4
+#EXTINF:-1,In Darkness 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28948.mp4
+#EXTINF:-1,Isle of Dogs - Ataris Reise 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28890.mp4
+#EXTINF:-1,Jim Knopf und Lukas der Lokomotivführer 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28949.mp4
+#EXTINF:-1,Johnny English: Man lebt nur dreimal 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28950.mp4
+#EXTINF:-1,Jonas - Vergiss mich nicht 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28951.mp4
+#EXTINF:-1,Journeyman 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28952.mp4
+#EXTINF:-1,Kein Mann für leichte Stunden 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28953.mp4
+#EXTINF:-1,Lake Placid: Legacy 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28955.mp4
+#EXTINF:-1,Land der Gewohnheit 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28956.mp4
+#EXTINF:-1,LEGO DC Comics Super Heroes: Aquaman - Die Rache von Atlantis 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28954.mp4
+#EXTINF:-1,Liebe auf der Piste 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28957.mp4
+#EXTINF:-1,Lizzie Borden - Mord aus Verzweiflung 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28958.mp4
+#EXTINF:-1,Luis und die Aliens 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28959.mp4
+#EXTINF:-1,Mamma Mia! Here We Go Again 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28961.mp4
+#EXTINF:-1,Manche Dinge bleiben besser ausgestorben 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29043.mp4
+#EXTINF:-1,Mandy 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28962.mp4
+#EXTINF:-1,Mandy the Haunted Doll 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28963.mp4
+#EXTINF:-1,Mario 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28965.mp4
+#EXTINF:-1,Meg 2018 -de-
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28966.mp4
+#EXTINF:-1,Megalodon - Die Bestie aus der Tiefe 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28967.mp4
+#EXTINF:-1,Mein Name ist Somebody 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28968.mp4
+#EXTINF:-1,Meine teuflisch gute Freundin 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28969.mp4
+#EXTINF:-1,Mom and Dad 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28970.mp4
+#EXTINF:-1,Monster Hunt 2 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28971.mp4
+#EXTINF:-1,Nur Gott kann mich richten 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28973.mp4
+#EXTINF:-1,Occupation 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28974.mp4
+#EXTINF:-1,Operation Red Sea 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28975.mp4
+#EXTINF:-1,Ouija Seance: The Final Game 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28976.mp4
+#EXTINF:-1,Outlaw King 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28977.mp4
+#EXTINF:-1,Overboard 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28978.mp4
+#EXTINF:-1,Papillon 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28979.mp4
+#EXTINF:-1,Papst Franziskus: Ein Mann seines Wortes 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28980.mp4
+#EXTINF:-1,Paterno 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28981.mp4
+#EXTINF:-1,Patient Zero 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28982.mp4
+#EXTINF:-1,Peppermint - Angel of Vengeance 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28983.mp4
+#EXTINF:-1,Pfad des Kriegers 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28984.mp4
+#EXTINF:-1,Phantastische Tierwesen: Grindelwalds Verbrechen 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28985.mp4
+#EXTINF:-1,Pin Cushion 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28986.mp4
+#EXTINF:-1,Predator - Upgrade 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28988.mp4
+#EXTINF:-1,Primal Rage 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28989.mp4
+#EXTINF:-1,Prinz Charming 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28990.mp4
+#EXTINF:-1,Prinzessinnentausch 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29067.mp4
+#EXTINF:-1,Red Army Hooligans 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28991.mp4
+#EXTINF:-1,Reprisal 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28992.mp4
+#EXTINF:-1,Rimini Rimini 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28924.mp4
+#EXTINF:-1,Robin Hood - Der Rebell 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29068.mp4
+#EXTINF:-1,Rufmord 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28993.mp4
+#EXTINF:-1,Schöne heile Welt 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28995.mp4
+#EXTINF:-1,Scorpion King - Das Buch der Seelen 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28996.mp4
+#EXTINF:-1,Searching 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28997.mp4
+#EXTINF:-1,Sharknado 6 - The Last One 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28998.mp4
+#EXTINF:-1,Shock and Awe – Krieg der Lügen 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28999.mp4
+#EXTINF:-1,Show Dogs - Agenten auf vier Pfoten 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29000.mp4
+#EXTINF:-1,Sicario 2 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29001.mp4
+#EXTINF:-1,Sick for Toys 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29002.mp4
+#EXTINF:-1,Sierra Burgess Is a Loser 2018 -de-
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29003.mp4
+#EXTINF:-1,Skin Creepers 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29004.mp4
+#EXTINF:-1,Slender Man 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29005.mp4
+#EXTINF:-1,Smallfoot - Ein eisigartiges Abenteuer 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29006.mp4
+#EXTINF:-1,Solo – A Star Wars Story 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29007.mp4
+#EXTINF:-1,Spinning Man 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29008.mp4
+#EXTINF:-1,Steht auf, Genossinnen! 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29009.mp4
+#EXTINF:-1,STEIG. NICHT. AUS! 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28994.mp4
+#EXTINF:-1,Summer of 84 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29010.mp4
+#EXTINF:-1,Sunday's Illness 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29011.mp4
+#EXTINF:-1,Swimming with Men - Ballett in Badehosen 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29012.mp4
+#EXTINF:-1,Tales from the Hood 2 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29013.mp4
+#EXTINF:-1,Taxi 5 2018 -de-
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29014.mp4
+#EXTINF:-1,Teen Titans Go! To the Movies 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29015.mp4
+#EXTINF:-1,Terminal - Rache war nie schöner 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29016.mp4
+#EXTINF:-1,Terrifier 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29017.mp4
+#EXTINF:-1,The After Party 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29018.mp4
+#EXTINF:-1,The Bouncer 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29039.mp4
+#EXTINF:-1,The Darkest Minds - Die Überlebenden 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29019.mp4
+#EXTINF:-1,The Dead and the Damned 3: Ravaged 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29020.mp4
+#EXTINF:-1,The Equalizer 2 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29021.mp4
+#EXTINF:-1,The First Purge 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29022.mp4
+#EXTINF:-1,The Guilty 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29023.mp4
+#EXTINF:-1,The Happy Prince 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29024.mp4
+#EXTINF:-1,The Hollow Child 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29025.mp4
+#EXTINF:-1,The Hurricane Heist 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29026.mp4
+#EXTINF:-1,The Inhabitant 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29027.mp4
+#EXTINF:-1,The Jurassic Games 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29028.mp4
+#EXTINF:-1,The King's Ring - Die letzte Schlacht 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29029.mp4
+#EXTINF:-1,The Last Movie Star 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29030.mp4
+#EXTINF:-1,The Marine 6 - Das Todesgeschwader 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29069.mp4
+#EXTINF:-1,The Mermaid: Lake of the Dead 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29031.mp4
+#EXTINF:-1,The Miracle Season 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29032.mp4
+#EXTINF:-1,The Most Assassinated Woman in the World 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29033.mp4
+#EXTINF:-1,The Night Comes for Us 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29034.mp4
+#EXTINF:-1,The Nun 2018 -de-
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29035.mp4
+#EXTINF:-1,The School - Schule des Grauens 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29036.mp4
+#EXTINF:-1,The Seagull - Eine unerhoerte Liebe 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29037.mp4
+#EXTINF:-1,The Watcher 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29038.mp4
+#EXTINF:-1,Toulouse 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29041.mp4
+#EXTINF:-1,Transit  2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29042.mp4
+#EXTINF:-1,Tully 2018 -de-
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29044.mp4
+#EXTINF:-1,Ungehorsam 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29045.mp4
+#EXTINF:-1,Unknown User: Dark Web 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29046.mp4
+#EXTINF:-1,Venom 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29047.mp4
+#EXTINF:-1,Vielmachglas 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29048.mp4
+#EXTINF:-1,Viking Destiny 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29049.mp4
+#EXTINF:-1,Weltengänger 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29050.mp4
+#EXTINF:-1,Wendy 2 - Freundschaft für immer 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29051.mp4
+#EXTINF:-1,What Keeps You Alive 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29052.mp4
+#EXTINF:-1,Wilde Kräuter 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29054.mp4
+#EXTINF:-1,Wildling 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29056.mp4
+#EXTINF:-1,Wuff Star Weihnachten 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29059.mp4
+#EXTINF:-1,Zoe 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29060.mp4
+#EXTINF:-1,Bird Box 201
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28895.mp4
+#EXTINF:-1,Der Hauptmann 2017
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28917.mp4
+#EXTINF:-1,Mission Yeti 2017
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29066.mp4
+#EXTINF:-1,Please Stand By 2017
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28987.mp4
+#EXTINF:-1,What the Waters Left Behind 2017
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29053.mp4
+#EXTINF:-1,Bad Samaritan - Im Visier des Killers 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28892.mp4
+#EXTINF:-1,Licht 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28960.mp4
+#EXTINF:-1,Mara - Wenn du einschläfst, wird sie dich holen 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/28964.mp4
+#EXTINF:-1,Wildes Herz 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29055.mp4
+#EXTINF:-1,Winchester - Das Haus der Verdammten 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29057.mp4
+#EXTINF:-1,Wolfsnächte 2018
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29058.mp4
+#EXTINF:-1,Zuhause ist es am schönsten
+http://portal.germanyservers.de:8000/movie/mustafaasan/asan/29070.mp4
