@@ -1,161 +1,291 @@
 #EXTM3U
-#EXTINF:-1,Bloomberg
-http://portal.germanyservers.de:8000/mustafaasan/asan/26941
-#EXTINF:-1,CBS 47
-http://portal.germanyservers.de:8000/mustafaasan/asan/26877
-#EXTINF:-1,CBSN HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26946
-#EXTINF:-1,CMC
-http://portal.germanyservers.de:8000/mustafaasan/asan/26875
-#EXTINF:-1,CNBC
-http://portal.germanyservers.de:8000/mustafaasan/asan/26942
-#EXTINF:-1,CNN HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26945
-#EXTINF:-1,Disney Channel
-http://portal.germanyservers.de:8000/mustafaasan/asan/26899
-#EXTINF:-1,DITTY TV
-http://portal.germanyservers.de:8000/mustafaasan/asan/26874
-#EXTINF:-1,ESPN Deportes (ESP)
-http://portal.germanyservers.de:8000/mustafaasan/asan/26934
-#EXTINF:-1,ESPN News
-http://portal.germanyservers.de:8000/mustafaasan/asan/26933
-#EXTINF:-1,Fight Box
-http://portal.germanyservers.de:8000/mustafaasan/asan/26921
-#EXTINF:-1,FOX 29 PHI.
-http://portal.germanyservers.de:8000/mustafaasan/asan/26880
-#EXTINF:-1,FOX Deportes (ESP)
-http://portal.germanyservers.de:8000/mustafaasan/asan/26937
-#EXTINF:-1,Fox News HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26944
-#EXTINF:-1,Free Speech TV
-http://portal.germanyservers.de:8000/mustafaasan/asan/26872
-#EXTINF:-1,FXX
-http://portal.germanyservers.de:8000/mustafaasan/asan/26918
-#EXTINF:-1,INFO WARS TV
-http://portal.germanyservers.de:8000/mustafaasan/asan/26869
-#EXTINF:-1,MSNBC HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26947
-#EXTINF:-1,NEWSMAX
-http://portal.germanyservers.de:8000/mustafaasan/asan/26870
-#EXTINF:-1,Orange TV
-http://portal.germanyservers.de:8000/mustafaasan/asan/26873
-#EXTINF:-1,POP TV
-http://portal.germanyservers.de:8000/mustafaasan/asan/26912
-#EXTINF:-1,QVC
-http://portal.germanyservers.de:8000/mustafaasan/asan/26868
-#EXTINF:-1,QVC 2
-http://portal.germanyservers.de:8000/mustafaasan/asan/26867
-#EXTINF:-1,QVC Beauty IQ
-http://portal.germanyservers.de:8000/mustafaasan/asan/26866
-#EXTINF:-1,The Blaze
-http://portal.germanyservers.de:8000/mustafaasan/asan/26871
-#EXTINF:-1,TV Land
-http://portal.germanyservers.de:8000/mustafaasan/asan/26917
-#EXTINF:-1,USA Network HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26916
-#EXTINF:-1,Weather Channel
-http://portal.germanyservers.de:8000/mustafaasan/asan/26940
-#EXTINF:-1,WGN
-http://portal.germanyservers.de:8000/mustafaasan/asan/26876
-#EXTINF:-1,MLB HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26926
-#EXTINF:-1,ABC HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26910
-#EXTINF:-1,ABC News
-http://portal.germanyservers.de:8000/mustafaasan/asan/26943
-#EXTINF:-1,AMC HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26896
-#EXTINF:-1,BEIN SPORT HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26928
-#EXTINF:-1,BIG  TEN
-http://portal.germanyservers.de:8000/mustafaasan/asan/26924
-#EXTINF:-1,BRAVO HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26909
-#EXTINF:-1,CINEMAX  HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26895
-#EXTINF:-1,CINEMAX ACTION MAX
-http://portal.germanyservers.de:8000/mustafaasan/asan/26894
-#EXTINF:-1,CINEMAX OUTER MAX
-http://portal.germanyservers.de:8000/mustafaasan/asan/26893
-#EXTINF:-1,Comedy Central
-http://portal.germanyservers.de:8000/mustafaasan/asan/26908
-#EXTINF:-1,Discovery HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26904
-#EXTINF:-1,DISCOVERY SCIENCE
-http://portal.germanyservers.de:8000/mustafaasan/asan/26902
-#EXTINF:-1,E!
-http://portal.germanyservers.de:8000/mustafaasan/asan/26913
-#EXTINF:-1,EL REY  NETWORK HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26901
-#EXTINF:-1,ESPN
-http://portal.germanyservers.de:8000/mustafaasan/asan/26936
-#EXTINF:-1,ESPN 2
-http://portal.germanyservers.de:8000/mustafaasan/asan/26935
-#EXTINF:-1,Food Network HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26900
-#EXTINF:-1,Fox
-http://portal.germanyservers.de:8000/mustafaasan/asan/26882
-#EXTINF:-1,Fox Sports 1 HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26939
-#EXTINF:-1,Fox Sports 2 HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26938
-#EXTINF:-1,FX HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26919
-#EXTINF:-1,H2
-http://portal.germanyservers.de:8000/mustafaasan/asan/26906
-#EXTINF:-1,HallMark HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26881
-#EXTINF:-1,HBO 2 West
-http://portal.germanyservers.de:8000/mustafaasan/asan/26889
-#EXTINF:-1,HBO Family
-http://portal.germanyservers.de:8000/mustafaasan/asan/26888
-#EXTINF:-1,HBO HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26887
-#EXTINF:-1,HBO Signature
-http://portal.germanyservers.de:8000/mustafaasan/asan/26886
-#EXTINF:-1,HBO Zone
-http://portal.germanyservers.de:8000/mustafaasan/asan/26885
-#EXTINF:-1,HGTV
-http://portal.germanyservers.de:8000/mustafaasan/asan/26898
-#EXTINF:-1,HISTORY
-http://portal.germanyservers.de:8000/mustafaasan/asan/26907
-#EXTINF:-1,Investigation Discovery HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26903
-#EXTINF:-1,National Geographic
-http://portal.germanyservers.de:8000/mustafaasan/asan/26905
-#EXTINF:-1,NBA HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26927
-#EXTINF:-1,NBC GOLF
-http://portal.germanyservers.de:8000/mustafaasan/asan/26923
-#EXTINF:-1,NFL NETWORK
-http://portal.germanyservers.de:8000/mustafaasan/asan/26925
-#EXTINF:-1,Showtime
-http://portal.germanyservers.de:8000/mustafaasan/asan/26884
-#EXTINF:-1,ShowTime extreme  HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26883
-#EXTINF:-1,Sports Net One HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26922
-#EXTINF:-1,STARZ  COMEDY
-http://portal.germanyservers.de:8000/mustafaasan/asan/26891
-#EXTINF:-1,STARZ  EDGE
-http://portal.germanyservers.de:8000/mustafaasan/asan/26890
-#EXTINF:-1,STARZ HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26892
-#EXTINF:-1,SYFY HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26915
-#EXTINF:-1,TLC HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26914
-#EXTINF:-1,TNT HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26897
-#EXTINF:-1,TRU TV HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26911
-#EXTINF:-1,TSN 1 HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26932
-#EXTINF:-1,TSN 2 HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26931
-#EXTINF:-1,TSN 3 HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26930
-#EXTINF:-1,TSN 4 HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26929
-#EXTINF:-1,WWE  HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26920
+#EXTINF:0, NBA TV HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126094
+#EXTINF:0,A&E HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126117
+#EXTINF:0,ABC HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126103
+#EXTINF:0,ABC NEWS HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126104
+#EXTINF:0,AMC HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126080
+#EXTINF:0,AMERICAN HEROES CHANNEL
+http://fonte.iptvmaishd.com:25461/4247/4247/126220
+#EXTINF:0,ANIMAL PLANET HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126164
+#EXTINF:0,Bein Sports USA HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126185
+#EXTINF:0,Bloomberg Europe
+http://fonte.iptvmaishd.com:25461/4247/4247/126161
+#EXTINF:0,Bloomberg TV
+http://fonte.iptvmaishd.com:25461/4247/4247/126146
+#EXTINF:0,BNN
+http://fonte.iptvmaishd.com:25461/4247/4247/126160
+#EXTINF:0,Boomerang
+http://fonte.iptvmaishd.com:25461/4247/4247/126159
+#EXTINF:0,BRAVO HD(1)
+http://fonte.iptvmaishd.com:25461/4247/4247/126105
+#EXTINF:0,BYU TV
+http://fonte.iptvmaishd.com:25461/4247/4247/126081
+#EXTINF:0,C-Span 1
+http://fonte.iptvmaishd.com:25461/4247/4247/126165
+#EXTINF:0,C-Span 2
+http://fonte.iptvmaishd.com:25461/4247/4247/126166
+#EXTINF:0,C-Span 3
+http://fonte.iptvmaishd.com:25461/4247/4247/126167
+#EXTINF:0,CA | TSN 2
+http://fonte.iptvmaishd.com:25461/4247/4247/126180
+#EXTINF:0,CA | TSN 5*
+http://fonte.iptvmaishd.com:25461/4247/4247/126183
+#EXTINF:0,CAPITAL TV
+http://fonte.iptvmaishd.com:25461/4247/4247/126145
+#EXTINF:0,CARTOON NETWORK
+http://fonte.iptvmaishd.com:25461/4247/4247/126082
+#EXTINF:0,CBS
+http://fonte.iptvmaishd.com:25461/4247/4247/126106
+#EXTINF:0,CBS Sports Network HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126206
+#EXTINF:0,CBSN HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126083
+#EXTINF:0,Cinemax 5 StarMax
+http://fonte.iptvmaishd.com:25461/4247/4247/126186
+#EXTINF:0,CINEMAX ACTION HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126168
+#EXTINF:0,Cinemax ActionMax East
+http://fonte.iptvmaishd.com:25461/4247/4247/126187
+#EXTINF:0,Cinemax East
+http://fonte.iptvmaishd.com:25461/4247/4247/126188
+#EXTINF:0,Cinemax East HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126158
+#EXTINF:0,Cinemax MoreMax
+http://fonte.iptvmaishd.com:25461/4247/4247/126157
+#EXTINF:0,CNBC
+http://fonte.iptvmaishd.com:25461/4247/4247/126084
+#EXTINF:0,CNN HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126169
+#EXTINF:0,CNN HD *
+http://fonte.iptvmaishd.com:25461/4247/4247/126219
+#EXTINF:0,CNN US HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126137
+#EXTINF:0,COMEDY CENTRAL HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126107
+#EXTINF:0,CW HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126108
+#EXTINF:0,CW11
+http://fonte.iptvmaishd.com:25461/4247/4247/126156
+#EXTINF:0,DESTINATION AMERICA
+http://fonte.iptvmaishd.com:25461/4247/4247/126071
+#EXTINF:0,Discovery Channel
+http://fonte.iptvmaishd.com:25461/4247/4247/126211
+#EXTINF:0,DISCOVERY HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126085
+#EXTINF:0,Discovery HD Showcase
+http://fonte.iptvmaishd.com:25461/4247/4247/126155
+#EXTINF:0,Discovery Science HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126189
+#EXTINF:0,DISNEY JR HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126213
+#EXTINF:0,Disney XD HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126212
+#EXTINF:0,DIY Network
+http://fonte.iptvmaishd.com:25461/4247/4247/126190
+#EXTINF:0,E!
+http://fonte.iptvmaishd.com:25461/4247/4247/126075
+#EXTINF:0,ESPN
+http://fonte.iptvmaishd.com:25461/4247/4247/126118
+#EXTINF:0,ESPN 2
+http://fonte.iptvmaishd.com:25461/4247/4247/126170
+#EXTINF:0,ESPN HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126109
+#EXTINF:0,ESPN News US HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126136
+#EXTINF:0,ESPN U HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126135
+#EXTINF:0,Fight HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126087
+#EXTINF:0,FIGHT SPORT
+http://fonte.iptvmaishd.com:25461/4247/4247/126184
+#EXTINF:0,Fine Living
+http://fonte.iptvmaishd.com:25461/4247/4247/126154
+#EXTINF:0,Food Network HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126191
+#EXTINF:0,FOX 43
+http://fonte.iptvmaishd.com:25461/4247/4247/126171
+#EXTINF:0,Fox HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126077
+#EXTINF:0,FOX NEWS HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126110
+#EXTINF:0,Fox sport 1 backup
+http://fonte.iptvmaishd.com:25461/4247/4247/126205
+#EXTINF:0,Fox Sports 1 HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126119
+#EXTINF:0,Fox Sports 2 HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126120
+#EXTINF:0,Fox SPORTS 506 HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126172
+#EXTINF:0,FOXX HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126192
+#EXTINF:0,FUEL HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126153
+#EXTINF:0,FX HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126193
+#EXTINF:0,FXX
+http://fonte.iptvmaishd.com:25461/4247/4247/126088
+#EXTINF:0,GRIT TV Movies
+http://fonte.iptvmaishd.com:25461/4247/4247/126218
+#EXTINF:0,H2
+http://fonte.iptvmaishd.com:25461/4247/4247/126194
+#EXTINF:0,HALLMARK
+http://fonte.iptvmaishd.com:25461/4247/4247/126195
+#EXTINF:0,HBO Comedy
+http://fonte.iptvmaishd.com:25461/4247/4247/126089
+#EXTINF:0,HBO East
+http://fonte.iptvmaishd.com:25461/4247/4247/126090
+#EXTINF:0,HBO HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126091
+#EXTINF:0,HBO Signature
+http://fonte.iptvmaishd.com:25461/4247/4247/126092
+#EXTINF:0,HBO Zone
+http://fonte.iptvmaishd.com:25461/4247/4247/126093
+#EXTINF:0,HGTV HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126152
+#EXTINF:0,HIFI
+http://fonte.iptvmaishd.com:25461/4247/4247/126196
+#EXTINF:0,HISTORY HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126111
+#EXTINF:0,Investigation Discovery
+http://fonte.iptvmaishd.com:25461/4247/4247/126112
+#EXTINF:0,ION Television East HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126134
+#EXTINF:0,Lifetime Movie Network HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126133
+#EXTINF:0,MelloTV
+http://fonte.iptvmaishd.com:25461/4247/4247/126202
+#EXTINF:0,MLB Network
+http://fonte.iptvmaishd.com:25461/4247/4247/126173
+#EXTINF:0,MSG HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126132
+#EXTINF:0,MSNBC
+http://fonte.iptvmaishd.com:25461/4247/4247/126076
+#EXTINF:0,MSNBC HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126174
+#EXTINF:0,MY13
+http://fonte.iptvmaishd.com:25461/4247/4247/126216
+#EXTINF:0,MY9 TV
+http://fonte.iptvmaishd.com:25461/4247/4247/126144
+#EXTINF:0,NASA TV HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126208
+#EXTINF:0,National Geographic
+http://fonte.iptvmaishd.com:25461/4247/4247/126197
+#EXTINF:0,NBC
+http://fonte.iptvmaishd.com:25461/4247/4247/126147
+#EXTINF:0,NBC Golf
+http://fonte.iptvmaishd.com:25461/4247/4247/126113
+#EXTINF:0,NBCSNHD
+http://fonte.iptvmaishd.com:25461/4247/4247/126121
+#EXTINF:0,NEWSMAX YT LIVE HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126074
+#EXTINF:0,NFL Network 1
+http://fonte.iptvmaishd.com:25461/4247/4247/126162
+#EXTINF:0,NFL Network 1080i
+http://fonte.iptvmaishd.com:25461/4247/4247/126079
+#EXTINF:0,NFL Network HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126122
+#EXTINF:0,NFL REDZONE SD
+http://fonte.iptvmaishd.com:25461/4247/4247/126078
+#EXTINF:0,NHL Network(1)
+http://fonte.iptvmaishd.com:25461/4247/4247/126175
+#EXTINF:0,NICKELODEN HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126198
+#EXTINF:0,OUTDOOR CHANNEL HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126150
+#EXTINF:0,OWN HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126210
+#EXTINF:0,PAC-12 Arizona
+http://fonte.iptvmaishd.com:25461/4247/4247/126123
+#EXTINF:0,PAC-12 Bay Area
+http://fonte.iptvmaishd.com:25461/4247/4247/126124
+#EXTINF:0,PAC-12 Los Angeles
+http://fonte.iptvmaishd.com:25461/4247/4247/126125
+#EXTINF:0,PAC-12 Oregon
+http://fonte.iptvmaishd.com:25461/4247/4247/126126
+#EXTINF:0,PAC-12 Washington
+http://fonte.iptvmaishd.com:25461/4247/4247/126127
+#EXTINF:0,SEC Network
+http://fonte.iptvmaishd.com:25461/4247/4247/126176
+#EXTINF:0,Showtime 2
+http://fonte.iptvmaishd.com:25461/4247/4247/126095
+#EXTINF:0,SHOWTIME HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126096
+#EXTINF:0,Showtime West
+http://fonte.iptvmaishd.com:25461/4247/4247/126097
+#EXTINF:0,Smile Of A Child
+http://fonte.iptvmaishd.com:25461/4247/4247/126149
+#EXTINF:0,SPIKE HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126199
+#EXTINF:0,Sports-Net
+http://fonte.iptvmaishd.com:25461/4247/4247/126203
+#EXTINF:0,Sportsnet 360 HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126178
+#EXTINF:0,Starz Cinema
+http://fonte.iptvmaishd.com:25461/4247/4247/126098
+#EXTINF:0,Starz Comedy
+http://fonte.iptvmaishd.com:25461/4247/4247/126099
+#EXTINF:0,STARZ EDGE HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126200
+#EXTINF:0,Starz Encore
+http://fonte.iptvmaishd.com:25461/4247/4247/126101
+#EXTINF:0,Starz Etas
+http://fonte.iptvmaishd.com:25461/4247/4247/126100
+#EXTINF:0,SYFY HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126115
+#EXTINF:0,TBS HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126177
+#EXTINF:0,Tennis Channel HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126102
+#EXTINF:0,THE FLORIDA CHANNEL
+http://fonte.iptvmaishd.com:25461/4247/4247/126142
+#EXTINF:0,TLC HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126128
+#EXTINF:0,TNT HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126116
+#EXTINF:0,Toon Kids
+http://fonte.iptvmaishd.com:25461/4247/4247/126073
+#EXTINF:0,TSN 1
+http://fonte.iptvmaishd.com:25461/4247/4247/126179
+#EXTINF:0,TSN 3*
+http://fonte.iptvmaishd.com:25461/4247/4247/126181
+#EXTINF:0,TSN 4 HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126182
+#EXTINF:0,UFC Fight pass
+http://fonte.iptvmaishd.com:25461/4247/4247/126214
+#EXTINF:0,University of California TV
+http://fonte.iptvmaishd.com:25461/4247/4247/126072
+#EXTINF:0,USA Network
+http://fonte.iptvmaishd.com:25461/4247/4247/126114
+#EXTINF:0,USA Network HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126201
+#EXTINF:0,Versus HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126129
+#EXTINF:0,VIP: BAYERN FC TV FHD
+http://fonte.iptvmaishd.com:25461/4247/4247/126209
+#EXTINF:0,WEATHERNATION
+http://fonte.iptvmaishd.com:25461/4247/4247/126141
+#EXTINF:0,WGN America HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126131
+#EXTINF:0,WGN News Chicago
+http://fonte.iptvmaishd.com:25461/4247/4247/126140
+#EXTINF:0,WWE HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126130
+#EXTINF:0,WWE HD backup
+http://fonte.iptvmaishd.com:25461/4247/4247/126207
+#EXTINF:0,Yes Network
+http://fonte.iptvmaishd.com:25461/4247/4247/126139
+#EXTINF:0,YTV
+http://fonte.iptvmaishd.com:25461/4247/4247/126138
+#EXTINF:0,USA: DW
+http://fonte.iptvmaishd.com:25461/4247/4247/126086
+#EXTINF:0,USA: HEROES AND ICONS
+http://fonte.iptvmaishd.com:25461/4247/4247/126217
+#EXTINF:0,USA: NICKELODEN HD
+http://fonte.iptvmaishd.com:25461/4247/4247/126163
