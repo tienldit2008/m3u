@@ -1,383 +1,685 @@
 #EXTM3U
-#EXTINF:-1,YAHALA  CINEMA HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26354
-#EXTINF:-1,YAHALA  SHABAB HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26353
-#EXTINF:-1,YAHALA DRAMA HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26352
-#EXTINF:-1,YAHALA HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26355
-#EXTINF:-1,EL HEDDAF TV
-http://portal.germanyservers.de:8000/mustafaasan/asan/26469
-#EXTINF:-1,2M MAROC
-http://portal.germanyservers.de:8000/mustafaasan/asan/26479
-#EXTINF:-1,AGHANINA
-http://portal.germanyservers.de:8000/mustafaasan/asan/26446
-#EXTINF:-1,AL ALAM
-http://portal.germanyservers.de:8000/mustafaasan/asan/26445
-#EXTINF:-1,AL ANIS TV
-http://portal.germanyservers.de:8000/mustafaasan/asan/26468
-#EXTINF:-1,AL AOULA INTER
-http://portal.germanyservers.de:8000/mustafaasan/asan/26444
-#EXTINF:-1,AL JADEED
-http://portal.germanyservers.de:8000/mustafaasan/asan/26442
+#EXTINF:-1,Tunisia NAT 1
+http://123orca.com:25461/amina2/amina2/2752
+#EXTINF:-1,Tunisia NAT 2
+http://123orca.com:25461/amina2/amina2/2751
+#EXTINF:-1,Elhiwar ettounsi TV
+http://123orca.com:25461/amina2/amina2/2750
+#EXTINF:-1,Ettounisia-tv
+http://123orca.com:25461/amina2/amina2/11481
+#EXTINF:-1,Hannibal
+http://123orca.com:25461/amina2/amina2/2747
+#EXTINF:-1,Nessma
+http://123orca.com:25461/amina2/amina2/2748
+#EXTINF:-1,Telvza TV
+http://123orca.com:25461/amina2/amina2/2746
+#EXTINF:-1,Attessia TV
+http://123orca.com:25461/amina2/amina2/2749
+#EXTINF:-1,Sahel tv
+http://123orca.com:25461/amina2/amina2/9084
+#EXTINF:-1,Carthage TV
+http://123orca.com:25461/amina2/amina2/4375
+#EXTINF:-1,Tunisna
+http://123orca.com:25461/amina2/amina2/2744
+#EXTINF:-1,M Tunisia
+http://123orca.com:25461/amina2/amina2/2743
+#EXTINF:-1,Al Insen TV
+http://123orca.com:25461/amina2/amina2/2740
+#EXTINF:-1,Al Janoubia Tv
+http://123orca.com:25461/amina2/amina2/2745
+#EXTINF:-1,Al Mustakillah
+http://123orca.com:25461/amina2/amina2/2742
+#EXTINF:-1,Zitouna TV
+http://123orca.com:25461/amina2/amina2/2741
+#EXTINF:-1,S7T Movies HD
+http://123orca.com:25461/amina2/amina2/8616
+#EXTINF:-1,S7T Aflam HD
+http://123orca.com:25461/amina2/amina2/2802
+#EXTINF:-1,S7T Series
+http://123orca.com:25461/amina2/amina2/9783
+#EXTINF:-1,S7T Bollywood
+http://123orca.com:25461/amina2/amina2/8593
+#EXTINF:-1,S7T Documentaire
+http://123orca.com:25461/amina2/amina2/2779
+#EXTINF:-1,S7T Culture
+http://123orca.com:25461/amina2/amina2/8609
+#EXTINF:-1,S7T Anime
+http://123orca.com:25461/amina2/amina2/2804
+#EXTINF:-1,S7T Korean
+http://123orca.com:25461/amina2/amina2/8614
+#EXTINF:-1,S7T Hits HD
+http://123orca.com:25461/amina2/amina2/8613
+#EXTINF:-1,S7T Music HD
+http://123orca.com:25461/amina2/amina2/9359
+#EXTINF:-1,--------TN TNT--------
+http://123orca.com:25461/amina2/amina2/5736
+#EXTINF:-1,Tunisia Nat 1 TNT
+http://123orca.com:25461/amina2/amina2/5724
+#EXTINF:-1,Tunisia Nat 2 TNT
+http://123orca.com:25461/amina2/amina2/5725
+#EXTINF:-1,Elhiwar Ettounsi TNT
+http://123orca.com:25461/amina2/amina2/5726
+#EXTINF:-1,Nessma TNT
+http://123orca.com:25461/amina2/amina2/5728
+#EXTINF:-1,Hannibal TNT
+http://123orca.com:25461/amina2/amina2/5729
+#EXTINF:-1,Attessia TNT
+http://123orca.com:25461/amina2/amina2/5727
+#EXTINF:-1,Telvza TNT
+http://123orca.com:25461/amina2/amina2/5733
+#EXTINF:-1,Al Janoubia TNT
+http://123orca.com:25461/amina2/amina2/5730
+#EXTINF:-1,M Tunisia TNT
+http://123orca.com:25461/amina2/amina2/5734
+#EXTINF:-1,Tunisna TNT
+http://123orca.com:25461/amina2/amina2/5731
+#EXTINF:-1,Al Insen TNT
+http://123orca.com:25461/amina2/amina2/5735
+#EXTINF:-1,Zitouna TNT
+http://123orca.com:25461/amina2/amina2/5732
+#EXTINF:-1,--------ALGERIE--------
+http://123orca.com:25461/amina2/amina2/2782
+#EXTINF:-1,Algeria tv
+http://123orca.com:25461/amina2/amina2/2781
+#EXTINF:-1,Algerie 3
+http://123orca.com:25461/amina2/amina2/8619
+#EXTINF:-1,Algerie 4
+http://123orca.com:25461/amina2/amina2/8612
+#EXTINF:-1,Algerie 5
+http://123orca.com:25461/amina2/amina2/8608
+#EXTINF:-1,Echorouk TV
+http://123orca.com:25461/amina2/amina2/2775
+#EXTINF:-1,Echorouk News
+http://123orca.com:25461/amina2/amina2/2774
+#EXTINF:-1,Bahia TV
+http://123orca.com:25461/amina2/amina2/8599
+#EXTINF:-1,Dzair News
+http://123orca.com:25461/amina2/amina2/2768
+#EXTINF:-1,El Bilad TV
+http://123orca.com:25461/amina2/amina2/2765
+#EXTINF:-1,El Djazairia TV
+http://123orca.com:25461/amina2/amina2/2766
+#EXTINF:-1,Ennahar TV DZ
+http://123orca.com:25461/amina2/amina2/2771
+#EXTINF:-1,ENTV Algerie
+http://123orca.com:25461/amina2/amina2/2780
+#EXTINF:-1,Berbere TV
+http://123orca.com:25461/amina2/amina2/2759
+#EXTINF:-1,Berbere Music
+http://123orca.com:25461/amina2/amina2/9253
+#EXTINF:-1,Berbere Jeunesse
+http://123orca.com:25461/amina2/amina2/8605
+#EXTINF:-1,El Fadjr TV DZ
+http://123orca.com:25461/amina2/amina2/2763
+#EXTINF:-1,--------MAROC--------
+http://123orca.com:25461/amina2/amina2/2793
+#EXTINF:-1,2M Maroc
+http://123orca.com:25461/amina2/amina2/2791
+#EXTINF:-1,Medi1 TV HD
+http://123orca.com:25461/amina2/amina2/2785
+#EXTINF:-1,Al Aoula Inter
+http://123orca.com:25461/amina2/amina2/2792
+#EXTINF:-1,Al Maghribia
+http://123orca.com:25461/amina2/amina2/9316
+#EXTINF:-1,Al Magharibia News
+http://123orca.com:25461/amina2/amina2/2758
+#EXTINF:-1,Al Magharibia Two
+http://123orca.com:25461/amina2/amina2/2757
+#EXTINF:-1,Maroc Tamazight
+http://123orca.com:25461/amina2/amina2/2786
+#EXTINF:-1,Arrabiaa
+http://123orca.com:25461/amina2/amina2/2789
+#EXTINF:-1,Assadissa
+http://123orca.com:25461/amina2/amina2/2787
+#EXTINF:-1,Aflam7
+http://123orca.com:25461/amina2/amina2/7977
+#EXTINF:-1,CHADA
+http://123orca.com:25461/amina2/amina2/4405
+#EXTINF:-1,Beur TV
+http://123orca.com:25461/amina2/amina2/2764
+#EXTINF:-1,Arryadia Live HD
+http://123orca.com:25461/amina2/amina2/2790
+#EXTINF:-1,GM Movies HD
+http://123orca.com:25461/amina2/amina2/8620
+#EXTINF:-1,GM Alwan
+http://123orca.com:25461/amina2/amina2/8611
+#EXTINF:-1,GM Comedia TV
+http://123orca.com:25461/amina2/amina2/8597
+#EXTINF:-1,GM Muzicana
+http://123orca.com:25461/amina2/amina2/8606
+#EXTINF:-1,S7T Cartoon
+http://123orca.com:25461/amina2/amina2/8623
+#EXTINF:-1,GM Chaabi TV
+http://123orca.com:25461/amina2/amina2/8601
+#EXTINF:-1,GM Music TV
+http://123orca.com:25461/amina2/amina2/8602
+#EXTINF:-1,GM OFIVE
+http://123orca.com:25461/amina2/amina2/9254
+#EXTINF:-1,GM Bizim TV
+http://123orca.com:25461/amina2/amina2/8617
+#EXTINF:-1,Al Jazeera
+http://123orca.com:25461/amina2/amina2/2812
+#EXTINF:-1,Al Arabiya
+http://123orca.com:25461/amina2/amina2/2811
+#EXTINF:-1,Al Arabiya Al Hadath
+http://123orca.com:25461/amina2/amina2/2810
+#EXTINF:-1,Sky News Arabia HD
+http://123orca.com:25461/amina2/amina2/2809
+#EXTINF:-1,Al Mayadeen Tv
+http://123orca.com:25461/amina2/amina2/2877
+#EXTINF:-1,France 24 Arabic
+http://123orca.com:25461/amina2/amina2/11463
+#EXTINF:-1,Al Sharq tv
+http://123orca.com:25461/amina2/amina2/6502
+#EXTINF:-1,Al Alam
+http://123orca.com:25461/amina2/amina2/8734
+#EXTINF:-1,RT Arab
+http://123orca.com:25461/amina2/amina2/4342
+#EXTINF:-1,DW Arabic TV
+http://123orca.com:25461/amina2/amina2/2798
+#EXTINF:-1,BBC Arabic
+http://123orca.com:25461/amina2/amina2/3078
+#EXTINF:-1,Euro news
+http://123orca.com:25461/amina2/amina2/2800
+#EXTINF:-1,Alhurra
+http://123orca.com:25461/amina2/amina2/3038
+#EXTINF:-1,Cnbc Arabia
+http://123orca.com:25461/amina2/amina2/4274
+#EXTINF:-1,TRT Arabic
+http://123orca.com:25461/amina2/amina2/2796
+#EXTINF:-1,Al Ekhbariya
+http://123orca.com:25461/amina2/amina2/4233
+#EXTINF:-1,Al Ekhbariya Al Soriya
+http://123orca.com:25461/amina2/amina2/2801
+#EXTINF:-1,Al Sharqiya News HD
+http://123orca.com:25461/amina2/amina2/2795
+#EXTINF:-1,Al Jazeera English
+http://123orca.com:25461/amina2/amina2/2805
+#EXTINF:-1,Al Jazeera Mubasher
+http://123orca.com:25461/amina2/amina2/2807
+#EXTINF:-1,--------LIBYAN--------
+http://123orca.com:25461/amina2/amina2/2829
+#EXTINF:-1,Aljamahiriya TV
+http://123orca.com:25461/amina2/amina2/9287
+#EXTINF:-1,Libya Alhadath TV
+http://123orca.com:25461/amina2/amina2/9251
+#EXTINF:-1,Libya Future
+http://123orca.com:25461/amina2/amina2/9268
+#EXTINF:-1,Libya el watan
+http://123orca.com:25461/amina2/amina2/2827
+#EXTINF:-1,Libya Al Ahrar TV
+http://123orca.com:25461/amina2/amina2/2828
+#EXTINF:-1,Libya TV
+http://123orca.com:25461/amina2/amina2/4312
+#EXTINF:-1,Libya's Channel
+http://123orca.com:25461/amina2/amina2/4418
+#EXTINF:-1,Libya 24
+http://123orca.com:25461/amina2/amina2/4417
+#EXTINF:-1,--------DOCUMENTAIRE--------
+http://123orca.com:25461/amina2/amina2/2835
+#EXTINF:-1,Nat Geo Abu Dhabi
+http://123orca.com:25461/amina2/amina2/2834
 #EXTINF:-1,Al Jazeera Documentary
-http://portal.germanyservers.de:8000/mustafaasan/asan/26441
-#EXTINF:-1,AL JAZEERA MUBASHER
-http://portal.germanyservers.de:8000/mustafaasan/asan/26440
-#EXTINF:-1,Al Jazeera Satellite Channel
-http://portal.germanyservers.de:8000/mustafaasan/asan/26439
-#EXTINF:-1,AL MAGHARIBIA
-http://portal.germanyservers.de:8000/mustafaasan/asan/26467
-#EXTINF:-1,AL MAGHARIBIA 2
-http://portal.germanyservers.de:8000/mustafaasan/asan/26466
-#EXTINF:-1,AL MAGHRIBIA
-http://portal.germanyservers.de:8000/mustafaasan/asan/26438
-#EXTINF:-1,Al Mayadeen
-http://portal.germanyservers.de:8000/mustafaasan/asan/26437
-#EXTINF:-1,AL RAFIDEN
-http://portal.germanyservers.de:8000/mustafaasan/asan/26436
-#EXTINF:-1,AL RAFIDEN TV
-http://portal.germanyservers.de:8000/mustafaasan/asan/26435
-#EXTINF:-1,AL RUQYA 2
-http://portal.germanyservers.de:8000/mustafaasan/asan/26434
-#EXTINF:-1,AL SOYOOF
-http://portal.germanyservers.de:8000/mustafaasan/asan/26433
-#EXTINF:-1,AL THAQALAYN TV
-http://portal.germanyservers.de:8000/mustafaasan/asan/26432
-#EXTINF:-1,ALGERIE 3
-http://portal.germanyservers.de:8000/mustafaasan/asan/26463
-#EXTINF:-1,ALGERIE 4
-http://portal.germanyservers.de:8000/mustafaasan/asan/26462
-#EXTINF:-1,ALGERIE 5
-http://portal.germanyservers.de:8000/mustafaasan/asan/26461
-#EXTINF:-1,Alruqia TV
-http://portal.germanyservers.de:8000/mustafaasan/asan/26431
-#EXTINF:-1,ARRABIA
-http://portal.germanyservers.de:8000/mustafaasan/asan/26428
-#EXTINF:-1,ARRABIAA
-http://portal.germanyservers.de:8000/mustafaasan/asan/26427
-#EXTINF:-1,ARRIADIA
-http://portal.germanyservers.de:8000/mustafaasan/asan/26426
-#EXTINF:-1,ARRYADIA
-http://portal.germanyservers.de:8000/mustafaasan/asan/26425
-#EXTINF:-1,ART AFLAM 1
-http://portal.germanyservers.de:8000/mustafaasan/asan/26424
-#EXTINF:-1,ART AFLAM 2
-http://portal.germanyservers.de:8000/mustafaasan/asan/26423
-#EXTINF:-1,ART HEKAYAT 1
-http://portal.germanyservers.de:8000/mustafaasan/asan/26422
-#EXTINF:-1,ART HEKAYAT 2
-http://portal.germanyservers.de:8000/mustafaasan/asan/26421
-#EXTINF:-1,ASSADISSA
-http://portal.germanyservers.de:8000/mustafaasan/asan/26420
-#EXTINF:-1,Atfal  mawaheb
-http://portal.germanyservers.de:8000/mustafaasan/asan/26419
-#EXTINF:-1,BAHIA TV
-http://portal.germanyservers.de:8000/mustafaasan/asan/26418
-#EXTINF:-1,BARAEM TV
-http://portal.germanyservers.de:8000/mustafaasan/asan/26417
-#EXTINF:-1,BBC ARABIC
-http://portal.germanyservers.de:8000/mustafaasan/asan/26416
-#EXTINF:-1,BEIN MOVIES 2
-http://portal.germanyservers.de:8000/mustafaasan/asan/26414
-#EXTINF:-1,BEIN SPORTS 1 HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26302
-#EXTINF:-1,BEIN SPORTS 10 HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26293
-#EXTINF:-1,BEIN SPORTS 11 HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26292
-#EXTINF:-1,BEIN SPORTS 12 HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26291
-#EXTINF:-1,BEIN SPORTS 2 HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26301
-#EXTINF:-1,BEIN SPORTS 3 HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26300
-#EXTINF:-1,BEIN SPORTS 4 HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26299
-#EXTINF:-1,BEIN SPORTS 5 HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26298
-#EXTINF:-1,BEIN SPORTS 6 HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26297
-#EXTINF:-1,BEIN SPORTS 7 HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26296
-#EXTINF:-1,BEIN SPORTS 8 HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26295
-#EXTINF:-1,BEIN SPORTS 9 HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26294
-#EXTINF:-1,BEINSPORTS NEWS ARABIC HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26303
-#EXTINF:-1,BERBERE JEUNESSE
-http://portal.germanyservers.de:8000/mustafaasan/asan/26413
-#EXTINF:-1,BERBERE MUSIC
-http://portal.germanyservers.de:8000/mustafaasan/asan/26412
-#EXTINF:-1,BERBERE TV
-http://portal.germanyservers.de:8000/mustafaasan/asan/26411
-#EXTINF:-1,CAIRO CINEMA
-http://portal.germanyservers.de:8000/mustafaasan/asan/26410
-#EXTINF:-1,CAIRO DRAMA
-http://portal.germanyservers.de:8000/mustafaasan/asan/26409
-#EXTINF:-1,CANAL ALGERIE
-http://portal.germanyservers.de:8000/mustafaasan/asan/26464
-#EXTINF:-1,CBC  BENNA
-http://portal.germanyservers.de:8000/mustafaasan/asan/26458
-#EXTINF:-1,CINEMA PRO
-http://portal.germanyservers.de:8000/mustafaasan/asan/26408
-#EXTINF:-1,DUBAI AL OULA
-http://portal.germanyservers.de:8000/mustafaasan/asan/26356
-#EXTINF:-1,DZAIR
-http://portal.germanyservers.de:8000/mustafaasan/asan/26460
-#EXTINF:-1,DZAIR NEWS
-http://portal.germanyservers.de:8000/mustafaasan/asan/26459
-#EXTINF:-1,ECHOUROUK NEWS HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26457
-#EXTINF:-1,ECHOUROUK TV
-http://portal.germanyservers.de:8000/mustafaasan/asan/26407
-#EXTINF:-1,EL BILAD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26453
-#EXTINF:-1,EL DJAZAIRIA TV
-http://portal.germanyservers.de:8000/mustafaasan/asan/26399
-#EXTINF:-1,EL SHARQ
-http://portal.germanyservers.de:8000/mustafaasan/asan/26406
-#EXTINF:-1,Elhiwar Ettounsi TV
-http://portal.germanyservers.de:8000/mustafaasan/asan/26405
-#EXTINF:-1,ENNAHAR TV
-http://portal.germanyservers.de:8000/mustafaasan/asan/26452
-#EXTINF:-1,ENTV-ALGERIA
-http://portal.germanyservers.de:8000/mustafaasan/asan/26465
-#EXTINF:-1,FRANCE 24
-http://portal.germanyservers.de:8000/mustafaasan/asan/26404
-#EXTINF:-1,FUTURE TV INT
-http://portal.germanyservers.de:8000/mustafaasan/asan/26403
-#EXTINF:-1,HALABA TV
-http://portal.germanyservers.de:8000/mustafaasan/asan/26451
-#EXTINF:-1,HANNIBAL TV
-http://portal.germanyservers.de:8000/mustafaasan/asan/26402
-#EXTINF:-1,IQRAA
-http://portal.germanyservers.de:8000/mustafaasan/asan/26401
-#EXTINF:-1,IRIB 3 IRAN
-http://portal.germanyservers.de:8000/mustafaasan/asan/26400
-#EXTINF:-1,LBC SAT
-http://portal.germanyservers.de:8000/mustafaasan/asan/26397
-#EXTINF:-1,LDC
-http://portal.germanyservers.de:8000/mustafaasan/asan/26396
-#EXTINF:-1,MBC 1
-http://portal.germanyservers.de:8000/mustafaasan/asan/26478
+http://123orca.com:25461/amina2/amina2/2832
+#EXTINF:-1,Quest Arabiya
+http://123orca.com:25461/amina2/amina2/2833
+#EXTINF:-1,--------CUISINE--------
+http://123orca.com:25461/amina2/amina2/8581
+#EXTINF:-1,Fatafeat
+http://123orca.com:25461/amina2/amina2/2928
+#EXTINF:-1,beIN Gourmet HD
+http://123orca.com:25461/amina2/amina2/5199
+#EXTINF:-1,Panorama Food
+http://123orca.com:25461/amina2/amina2/2901
+#EXTINF:-1,Samira TV.
+http://123orca.com:25461/amina2/amina2/8582
+#EXTINF:-1,CBC BENNA
+http://123orca.com:25461/amina2/amina2/9372
+#EXTINF:-1,CBC Sofra
+http://123orca.com:25461/amina2/amina2/2926
+#EXTINF:-1,--------FILM&SERIES--------
+http://123orca.com:25461/amina2/amina2/3001
+#EXTINF:-1,MBC
+http://123orca.com:25461/amina2/amina2/2999
 #EXTINF:-1,MBC 2
-http://portal.germanyservers.de:8000/mustafaasan/asan/26477
-#EXTINF:-1,MBC 3
-http://portal.germanyservers.de:8000/mustafaasan/asan/26476
+http://123orca.com:25461/amina2/amina2/2998
 #EXTINF:-1,MBC 4
-http://portal.germanyservers.de:8000/mustafaasan/asan/26475
-#EXTINF:-1,MBC ACTION
-http://portal.germanyservers.de:8000/mustafaasan/asan/26474
-#EXTINF:-1,MBC BOLLYWOOD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26473
-#EXTINF:-1,MBC DRAMA
-http://portal.germanyservers.de:8000/mustafaasan/asan/26472
-#EXTINF:-1,MBC MASR
-http://portal.germanyservers.de:8000/mustafaasan/asan/26471
-#EXTINF:-1,MBC MASR 2
-http://portal.germanyservers.de:8000/mustafaasan/asan/26470
-#EXTINF:-1,MELODY CLASSIC
-http://portal.germanyservers.de:8000/mustafaasan/asan/26395
-#EXTINF:-1,MTV Lebanon
-http://portal.germanyservers.de:8000/mustafaasan/asan/26394
+http://123orca.com:25461/amina2/amina2/2996
+#EXTINF:-1,MBC MAX
+http://123orca.com:25461/amina2/amina2/2994
+#EXTINF:-1,MBC Action
+http://123orca.com:25461/amina2/amina2/2992
+#EXTINF:-1,MBC Bollywood
+http://123orca.com:25461/amina2/amina2/2985
+#EXTINF:-1,MBC Drama
+http://123orca.com:25461/amina2/amina2/2990
+#EXTINF:-1,MBC Masr
+http://123orca.com:25461/amina2/amina2/2987
+#EXTINF:-1,MBC Masr2
+http://123orca.com:25461/amina2/amina2/2986
+#EXTINF:-1,Amman TV
+http://123orca.com:25461/amina2/amina2/5334
+#EXTINF:-1,beIN Drama
+http://123orca.com:25461/amina2/amina2/6537
+#EXTINF:-1,beIN Movies Premiere HD2
+http://123orca.com:25461/amina2/amina2/2965
+#EXTINF:-1,beIN Movies Action 2 HD
+http://123orca.com:25461/amina2/amina2/2964
+#EXTINF:-1,beIN Movies Drama HD3
+http://123orca.com:25461/amina2/amina2/2963
+#EXTINF:-1,beIN Movies Family HD4
+http://123orca.com:25461/amina2/amina2/2962
+#EXTINF:-1,BeIN Series HD 1
+http://123orca.com:25461/amina2/amina2/2959
+#EXTINF:-1,BeIN Series HD 2
+http://123orca.com:25461/amina2/amina2/6529
+#EXTINF:-1,beIN AMC
+http://123orca.com:25461/amina2/amina2/8797
+#EXTINF:-1,beIN Fox Movies
+http://123orca.com:25461/amina2/amina2/8795
+#EXTINF:-1,B4U Aflam
+http://123orca.com:25461/amina2/amina2/9349
+#EXTINF:-1,B4U Plus.
+http://123orca.com:25461/amina2/amina2/7446
+#EXTINF:-1,Zee Aflam
+http://123orca.com:25461/amina2/amina2/2863
+#EXTINF:-1,Zee Alwan
+http://123orca.com:25461/amina2/amina2/2862
+#EXTINF:-1,Belody Aflam
+http://123orca.com:25461/amina2/amina2/4266
+#EXTINF:-1,Abu Dhabi TV HD
+http://123orca.com:25461/amina2/amina2/2871
+#EXTINF:-1,Al Emarat TV HD
+http://123orca.com:25461/amina2/amina2/2869
+#EXTINF:-1,AD Drama
+http://123orca.com:25461/amina2/amina2/2870
+#EXTINF:-1,Dubai Tv
+http://123orca.com:25461/amina2/amina2/2868
+#EXTINF:-1,Dubai One
+http://123orca.com:25461/amina2/amina2/2867
+#EXTINF:-1,Sama Dubai
+http://123orca.com:25461/amina2/amina2/2865
+#EXTINF:-1,Dubai Zaman
+http://123orca.com:25461/amina2/amina2/2866
+#EXTINF:-1,Noor Dubai
+http://123orca.com:25461/amina2/amina2/2841
+#EXTINF:-1,Rotana Aflam
+http://123orca.com:25461/amina2/amina2/2981
+#EXTINF:-1,Rotana Aflam HD
+http://123orca.com:25461/amina2/amina2/8267
+#EXTINF:-1,Rotana Cinema EGY
+http://123orca.com:25461/amina2/amina2/2983
+#EXTINF:-1,Rotana Cinema KSA
+http://123orca.com:25461/amina2/amina2/2982
+#EXTINF:-1,Rotana Cinema HD
+http://123orca.com:25461/amina2/amina2/2984
+#EXTINF:-1,Rotana Classic
+http://123orca.com:25461/amina2/amina2/2971
+#EXTINF:-1,Rotana Classic HD
+http://123orca.com:25461/amina2/amina2/2972
+#EXTINF:-1,Rotana Masriya
+http://123orca.com:25461/amina2/amina2/2979
+#EXTINF:-1,Rotana Masria HD
+http://123orca.com:25461/amina2/amina2/2980
+#EXTINF:-1,ART Aflam 1
+http://123orca.com:25461/amina2/amina2/2970
+#EXTINF:-1,ART Aflam 2
+http://123orca.com:25461/amina2/amina2/2969
+#EXTINF:-1,ART Cinema
+http://123orca.com:25461/amina2/amina2/2968
+#EXTINF:-1,Hekayat 2
+http://123orca.com:25461/amina2/amina2/2966
+#EXTINF:-1,Cima
+http://123orca.com:25461/amina2/amina2/2953
+#EXTINF:-1,CIMA TUBE
+http://123orca.com:25461/amina2/amina2/2942
+#EXTINF:-1,CINEMA 1
+http://123orca.com:25461/amina2/amina2/2944
+#EXTINF:-1,CINEMA 2
+http://123orca.com:25461/amina2/amina2/2943
+#EXTINF:-1,CINEMA PRO
+http://123orca.com:25461/amina2/amina2/2951
+#EXTINF:-1,CIMA ALI BABA
+http://123orca.com:25461/amina2/amina2/2952
+#EXTINF:-1,CINEMA TUBE
+http://123orca.com:25461/amina2/amina2/2940
+#EXTINF:-1,LCD Aflam
+http://123orca.com:25461/amina2/amina2/6385
+#EXTINF:-1,Apple Hekayat
+http://123orca.com:25461/amina2/amina2/2949
+#EXTINF:-1,Apple Moslsalat
+http://123orca.com:25461/amina2/amina2/2948
+#EXTINF:-1,Apple Film
+http://123orca.com:25461/amina2/amina2/2947
+#EXTINF:-1,Apple Cinema
+http://123orca.com:25461/amina2/amina2/2946
+#EXTINF:-1,Apple Today
+http://123orca.com:25461/amina2/amina2/2945
+#EXTINF:-1,I CINEMA
+http://123orca.com:25461/amina2/amina2/2933
+#EXTINF:-1,STAR CINEMA1
+http://123orca.com:25461/amina2/amina2/2958
+#EXTINF:-1,STAR CINEMA2
+http://123orca.com:25461/amina2/amina2/2957
+#EXTINF:-1,TOKTOK CIMA
+http://123orca.com:25461/amina2/amina2/2954
+#EXTINF:-1,Panorama Film
+http://123orca.com:25461/amina2/amina2/2956
+#EXTINF:-1,Panorama Cinema
+http://123orca.com:25461/amina2/amina2/2902
+#EXTINF:-1,Panorama Drama2
+http://123orca.com:25461/amina2/amina2/2903
+#EXTINF:-1,Panorama Drama
+http://123orca.com:25461/amina2/amina2/2904
+#EXTINF:-1,Panorama Yom
+http://123orca.com:25461/amina2/amina2/4336
+#EXTINF:-1,Al Sa3a Comedy
+http://123orca.com:25461/amina2/amina2/4422
+#EXTINF:-1,CBC
+http://123orca.com:25461/amina2/amina2/2927
+#EXTINF:-1,CBC eXtra
+http://123orca.com:25461/amina2/amina2/2925
+#EXTINF:-1,CBC Drama
+http://123orca.com:25461/amina2/amina2/4270
+#EXTINF:-1,ON Live HD
+http://123orca.com:25461/amina2/amina2/4427
+#EXTINF:-1,ON Drama
+http://123orca.com:25461/amina2/amina2/2914
+#EXTINF:-1,ON E HD
+http://123orca.com:25461/amina2/amina2/2915
+#EXTINF:-1,DMC HD
+http://123orca.com:25461/amina2/amina2/2912
+#EXTINF:-1,DMC Drama
+http://123orca.com:25461/amina2/amina2/2911
+#EXTINF:-1,M Cinema TV
+http://123orca.com:25461/amina2/amina2/4314
+#EXTINF:-1,M Classic
+http://123orca.com:25461/amina2/amina2/2843
+#EXTINF:-1,Imagine Movies
+http://123orca.com:25461/amina2/amina2/2931
+#EXTINF:-1,Cairo Drama
+http://123orca.com:25461/amina2/amina2/2921
+#EXTINF:-1,Cairo cinema
+http://123orca.com:25461/amina2/amina2/2922
+#EXTINF:-1,Al Shasha Cinema
+http://123orca.com:25461/amina2/amina2/2950
+#EXTINF:-1,Toktok Aflam
+http://123orca.com:25461/amina2/amina2/2955
+#EXTINF:-1,Al Masrawia Aflam
+http://123orca.com:25461/amina2/amina2/2930
+#EXTINF:-1,Mosalsalat Tube
+http://123orca.com:25461/amina2/amina2/2842
+#EXTINF:-1,Family Drama
+http://123orca.com:25461/amina2/amina2/9278
+#EXTINF:-1,Maspero Zaman
+http://123orca.com:25461/amina2/amina2/9223
+#EXTINF:-1,Dream 1
+http://123orca.com:25461/amina2/amina2/2906
+#EXTINF:-1,Dream 2
+http://123orca.com:25461/amina2/amina2/2905
+#EXTINF:-1,Nile Cinema
+http://123orca.com:25461/amina2/amina2/2897
+#EXTINF:-1,Nile Comedy
+http://123orca.com:25461/amina2/amina2/2895
+#EXTINF:-1,Nile Drama
+http://123orca.com:25461/amina2/amina2/2896
+#EXTINF:-1,Nile Culture
+http://123orca.com:25461/amina2/amina2/2898
+#EXTINF:-1,Nile Family
+http://123orca.com:25461/amina2/amina2/2899
+#EXTINF:-1,Nile Life
+http://123orca.com:25461/amina2/amina2/4327
+#EXTINF:-1,Nile News
+http://123orca.com:25461/amina2/amina2/4328
+#EXTINF:-1,Mekameleen TV
+http://123orca.com:25461/amina2/amina2/7732
+#EXTINF:-1,Al Hayat
+http://123orca.com:25461/amina2/amina2/2891
+#EXTINF:-1,Al Hayat 2
+http://123orca.com:25461/amina2/amina2/2890
+#EXTINF:-1,Alhayat Muslsalat
+http://123orca.com:25461/amina2/amina2/2889
+#EXTINF:-1,Althanya
+http://123orca.com:25461/amina2/amina2/2907
+#EXTINF:-1,Al Nahar Drama
+http://123orca.com:25461/amina2/amina2/2918
+#EXTINF:-1,SCARE TV
+http://123orca.com:25461/amina2/amina2/9292
+#EXTINF:-1,Sharo5an Hindi
+http://123orca.com:25461/amina2/amina2/9224
+#EXTINF:-1,Alostora TV
+http://123orca.com:25461/amina2/amina2/9249
+#EXTINF:-1,LDC
+http://123orca.com:25461/amina2/amina2/2881
+#EXTINF:-1,Oula Masr
+http://123orca.com:25461/amina2/amina2/2908
+#EXTINF:-1,AL masriya
+http://123orca.com:25461/amina2/amina2/4385
+#EXTINF:-1,Mehwar TV
+http://123orca.com:25461/amina2/amina2/2876
+#EXTINF:-1,MASR ALHAYAH
+http://123orca.com:25461/amina2/amina2/2888
+#EXTINF:-1,Al Kahera Wal Nas
+http://123orca.com:25461/amina2/amina2/2917
+#EXTINF:-1,Al Kahera Wal Nas 2
+http://123orca.com:25461/amina2/amina2/2916
+#EXTINF:-1,Sada El Balad
+http://123orca.com:25461/amina2/amina2/2893
+#EXTINF:-1,Sada El Balad Drama
+http://123orca.com:25461/amina2/amina2/2892
+#EXTINF:-1,Syria Drama
+http://123orca.com:25461/amina2/amina2/2852
+#EXTINF:-1,Syrian Satellite Tv
+http://123orca.com:25461/amina2/amina2/9281
+#EXTINF:-1,LBC
+http://123orca.com:25461/amina2/amina2/2885
+#EXTINF:-1,Future
+http://123orca.com:25461/amina2/amina2/2883
 #EXTINF:-1,NBN
-http://portal.germanyservers.de:8000/mustafaasan/asan/26448
-#EXTINF:-1,NESSMA TV
-http://portal.germanyservers.de:8000/mustafaasan/asan/26393
-#EXTINF:-1,NILE CINEMA
-http://portal.germanyservers.de:8000/mustafaasan/asan/26374
-#EXTINF:-1,NILE COMEDY
-http://portal.germanyservers.de:8000/mustafaasan/asan/26373
-#EXTINF:-1,NILE DRAMA
-http://portal.germanyservers.de:8000/mustafaasan/asan/26372
-#EXTINF:-1,NILE LIFE
-http://portal.germanyservers.de:8000/mustafaasan/asan/26371
-#EXTINF:-1,NILE NEWS
-http://portal.germanyservers.de:8000/mustafaasan/asan/26370
-#EXTINF:-1,NILE SPORT
-http://portal.germanyservers.de:8000/mustafaasan/asan/26369
-#EXTINF:-1,Noursat
-http://portal.germanyservers.de:8000/mustafaasan/asan/26368
-#EXTINF:-1,NUMIDIA TV
-http://portal.germanyservers.de:8000/mustafaasan/asan/26450
-#EXTINF:-1,OSN Movies Premiere
-http://portal.germanyservers.de:8000/mustafaasan/asan/26323
-#EXTINF:-1,OTV LEBANON
-http://portal.germanyservers.de:8000/mustafaasan/asan/26367
-#EXTINF:-1,PANORAMA FOOD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26392
-#EXTINF:-1,Persian Star 1
-http://portal.germanyservers.de:8000/mustafaasan/asan/26391
-#EXTINF:-1,Persian Star 2
-http://portal.germanyservers.de:8000/mustafaasan/asan/26390
-#EXTINF:-1,QATAR TV
-http://portal.germanyservers.de:8000/mustafaasan/asan/26382
-#EXTINF:-1,ROTANA CINEMA
-http://portal.germanyservers.de:8000/mustafaasan/asan/26389
-#EXTINF:-1,ROTANA CINEMA KSA
-http://portal.germanyservers.de:8000/mustafaasan/asan/26388
-#EXTINF:-1,ROTANA CLASSIC
-http://portal.germanyservers.de:8000/mustafaasan/asan/26387
-#EXTINF:-1,ROTANA CLIP
-http://portal.germanyservers.de:8000/mustafaasan/asan/26386
-#EXTINF:-1,ROTANA KHALIJAH HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26385
-#EXTINF:-1,ROTANA MASRIYA
-http://portal.germanyservers.de:8000/mustafaasan/asan/26384
-#EXTINF:-1,ROTANA MUSIC
-http://portal.germanyservers.de:8000/mustafaasan/asan/26383
-#EXTINF:-1,ROYA TV
-http://portal.germanyservers.de:8000/mustafaasan/asan/26381
-#EXTINF:-1,SADA TV
-http://portal.germanyservers.de:8000/mustafaasan/asan/26380
-#EXTINF:-1,SAFA TV
-http://portal.germanyservers.de:8000/mustafaasan/asan/26379
-#EXTINF:-1,SAMA TV
-http://portal.germanyservers.de:8000/mustafaasan/asan/26447
-#EXTINF:-1,SAMAI DUBAI
-http://portal.germanyservers.de:8000/mustafaasan/asan/26378
-#EXTINF:-1,SAMIRA TV
-http://portal.germanyservers.de:8000/mustafaasan/asan/26449
-#EXTINF:-1,SAUDI QURAN
-http://portal.germanyservers.de:8000/mustafaasan/asan/26377
-#EXTINF:-1,SHARQIYA NEWS
-http://portal.germanyservers.de:8000/mustafaasan/asan/26366
-#EXTINF:-1,SKY NEWS ARABIA
-http://portal.germanyservers.de:8000/mustafaasan/asan/26365
-#EXTINF:-1,SYRIA DRAMA
-http://portal.germanyservers.de:8000/mustafaasan/asan/26456
-#EXTINF:-1,SYRIA EDUCATION
-http://portal.germanyservers.de:8000/mustafaasan/asan/26455
-#EXTINF:-1,SYRIA TV
-http://portal.germanyservers.de:8000/mustafaasan/asan/26454
-#EXTINF:-1,TAMAZIGHT
-http://portal.germanyservers.de:8000/mustafaasan/asan/26364
-#EXTINF:-1,TELE MAROC
-http://portal.germanyservers.de:8000/mustafaasan/asan/26443
-#EXTINF:-1,TOK TOK CINEMA
-http://portal.germanyservers.de:8000/mustafaasan/asan/26363
-#EXTINF:-1,TOYOR BABY
-http://portal.germanyservers.de:8000/mustafaasan/asan/26430
-#EXTINF:-1,TOYOR JANNAH
-http://portal.germanyservers.de:8000/mustafaasan/asan/26429
-#EXTINF:-1,TRT ARAPCA
-http://portal.germanyservers.de:8000/mustafaasan/asan/26362
-#EXTINF:-1,TUNISIA NAT 2
-http://portal.germanyservers.de:8000/mustafaasan/asan/26375
-#EXTINF:-1,TUNISIE TV1
-http://portal.germanyservers.de:8000/mustafaasan/asan/26376
-#EXTINF:-1,TV CORAN CZ
-http://portal.germanyservers.de:8000/mustafaasan/asan/26361
-#EXTINF:-1,TV TAMAZIGHT
-http://portal.germanyservers.de:8000/mustafaasan/asan/26360
-#EXTINF:-1,WESAL AL HAQ
-http://portal.germanyservers.de:8000/mustafaasan/asan/26359
-#EXTINF:-1,ZAYTOONA
-http://portal.germanyservers.de:8000/mustafaasan/asan/26358
-#EXTINF:-1,ZEE ALWAN
-http://portal.germanyservers.de:8000/mustafaasan/asan/26357
-#EXTINF:-1,ALHADATH
-http://portal.germanyservers.de:8000/mustafaasan/asan/26398
-#EXTINF:-1,ZITOUNA HEDAYA
-http://portal.germanyservers.de:8000/mustafaasan/asan/26351
-#EXTINF:-1,9 ATTASSIA
-http://portal.germanyservers.de:8000/mustafaasan/asan/26326
-#EXTINF:-1,ABU DAHABI
-http://portal.germanyservers.de:8000/mustafaasan/asan/26350
-#EXTINF:-1,ABU DAHABI  DRAMA
-http://portal.germanyservers.de:8000/mustafaasan/asan/26349
-#EXTINF:-1,ABU DAHABI  EMARAT
-http://portal.germanyservers.de:8000/mustafaasan/asan/26348
-#EXTINF:-1,AD SPORT 1
-http://portal.germanyservers.de:8000/mustafaasan/asan/26347
-#EXTINF:-1,AD SPORT 2
-http://portal.germanyservers.de:8000/mustafaasan/asan/26346
-#EXTINF:-1,AL ARABIYA
-http://portal.germanyservers.de:8000/mustafaasan/asan/26345
-#EXTINF:-1,AL HAYAT
-http://portal.germanyservers.de:8000/mustafaasan/asan/26344
-#EXTINF:-1,AL HAYAT 2
-http://portal.germanyservers.de:8000/mustafaasan/asan/26343
-#EXTINF:-1,AL INSEN TV
-http://portal.germanyservers.de:8000/mustafaasan/asan/26342
-#EXTINF:-1,AL JANOUBIA
-http://portal.germanyservers.de:8000/mustafaasan/asan/26341
-#EXTINF:-1,AL MANAR
-http://portal.germanyservers.de:8000/mustafaasan/asan/26340
-#EXTINF:-1,AL MASSRIYA
-http://portal.germanyservers.de:8000/mustafaasan/asan/26339
-#EXTINF:-1,ART CINEMA
-http://portal.germanyservers.de:8000/mustafaasan/asan/26337
-#EXTINF:-1,BEUR TV
-http://portal.germanyservers.de:8000/mustafaasan/asan/26336
-#EXTINF:-1,DREAM 1
-http://portal.germanyservers.de:8000/mustafaasan/asan/26335
-#EXTINF:-1,DUBAI  ONE
-http://portal.germanyservers.de:8000/mustafaasan/asan/26334
-#EXTINF:-1,DUBAI  RACING
-http://portal.germanyservers.de:8000/mustafaasan/asan/26333
-#EXTINF:-1,DUBAI  SPORT
-http://portal.germanyservers.de:8000/mustafaasan/asan/26332
-#EXTINF:-1,DUBAI TV
-http://portal.germanyservers.de:8000/mustafaasan/asan/26331
-#EXTINF:-1,M TUNISIA
-http://portal.germanyservers.de:8000/mustafaasan/asan/26330
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://portal.germanyservers.de:8000/mustafaasan/asan/26329
-#EXTINF:-1,NESMA TV
-http://portal.germanyservers.de:8000/mustafaasan/asan/26328
-#EXTINF:-1,OSN CINEMA 2 HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26310
-#EXTINF:-1,OSN FRIST HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26309
-#EXTINF:-1,OSN MBC 3 HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26322
-#EXTINF:-1,OSN MBC ACTION
-http://portal.germanyservers.de:8000/mustafaasan/asan/26320
-#EXTINF:-1,OSN MBC DRAMA
-http://portal.germanyservers.de:8000/mustafaasan/asan/26319
-#EXTINF:-1,OSN MBC MAX
-http://portal.germanyservers.de:8000/mustafaasan/asan/26321
-#EXTINF:-1,OSN MBC PRO SPORT 1 HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26290
-#EXTINF:-1,OSN MBC PRO SPORT 2
-http://portal.germanyservers.de:8000/mustafaasan/asan/26289
-#EXTINF:-1,OSN MBC PRO SPORT 3
-http://portal.germanyservers.de:8000/mustafaasan/asan/26288
-#EXTINF:-1,OSN MOVIES ACTION 2 HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26318
-#EXTINF:-1,OSN MOVIES BOX-OFFICE 1 HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26317
-#EXTINF:-1,OSN MOVIES BOX-OFFICE 2 HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26316
-#EXTINF:-1,OSN MOVIES BOX-OFFICE 3 HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26315
-#EXTINF:-1,OSN MOVIES COMEDY 2 HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26313
-#EXTINF:-1,OSN MOVIES COMEDY HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26314
-#EXTINF:-1,OSN MOVIES FESTIVAL HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26312
-#EXTINF:-1,OSN MOVIES PREMIERE HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26311
-#EXTINF:-1,OSN NAT GEO PEOPLE HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26304
-#EXTINF:-1,OSN Nat Geo WILD HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26305
-#EXTINF:-1,OSN ON DEMAND 1 HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26308
-#EXTINF:-1,OSN ON DEMAND 2 HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26307
-#EXTINF:-1,OSN ON DEMAND EXTRA 1 HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26306
-#EXTINF:-1,SUROYO TV
-http://portal.germanyservers.de:8000/mustafaasan/asan/26327
-#EXTINF:-1,TUNISNA
-http://portal.germanyservers.de:8000/mustafaasan/asan/26325
-#EXTINF:-1,AL NAS
-http://portal.germanyservers.de:8000/mustafaasan/asan/26338
-#EXTINF:-1,TELVZA TV
-http://portal.germanyservers.de:8000/mustafaasan/asan/26324
+http://123orca.com:25461/amina2/amina2/2880
+#EXTINF:-1,Lebanon
+http://123orca.com:25461/amina2/amina2/2884
+#EXTINF:-1,AL Manar
+http://123orca.com:25461/amina2/amina2/2878
+#EXTINF:-1,OTV Lebanon
+http://123orca.com:25461/amina2/amina2/2882
+#EXTINF:-1,MTV Lebanon
+http://123orca.com:25461/amina2/amina2/4424
+#EXTINF:-1,Mtv Lebanon 2
+http://123orca.com:25461/amina2/amina2/5337
+#EXTINF:-1,Mtv Lebanon 3
+http://123orca.com:25461/amina2/amina2/5338
+#EXTINF:-1,KTV CH1 HD
+http://123orca.com:25461/amina2/amina2/2858
+#EXTINF:-1,KTV CH2 HD
+http://123orca.com:25461/amina2/amina2/2856
+#EXTINF:-1,KTV AL ARABI HD
+http://123orca.com:25461/amina2/amina2/2859
+#EXTINF:-1,KTV ETHRAA HD
+http://123orca.com:25461/amina2/amina2/2855
+#EXTINF:-1,KTV S.Plus HD
+http://123orca.com:25461/amina2/amina2/2854
+#EXTINF:-1,Sudan.TV
+http://123orca.com:25461/amina2/amina2/3049
+#EXTINF:-1,Sudan Drama
+http://123orca.com:25461/amina2/amina2/9324
+#EXTINF:-1,Sudan Monwaat
+http://123orca.com:25461/amina2/amina2/9339
+#EXTINF:-1,Sudan Music
+http://123orca.com:25461/amina2/amina2/9322
+#EXTINF:-1,Sudania 24 HD
+http://123orca.com:25461/amina2/amina2/9334
+#EXTINF:-1,Sudan Sport
+http://123orca.com:25461/amina2/amina2/9330
+#EXTINF:-1,Qatar TV
+http://123orca.com:25461/amina2/amina2/2839
+#EXTINF:-1,--------DIVERS--------
+http://123orca.com:25461/amina2/amina2/3088
+#EXTINF:-1,Al Rasheed
+http://123orca.com:25461/amina2/amina2/4389
+#EXTINF:-1,Al Hiwar TV
+http://123orca.com:25461/amina2/amina2/9296
+#EXTINF:-1,Jordan HD
+http://123orca.com:25461/amina2/amina2/3122
+#EXTINF:-1,Ajman TV
+http://123orca.com:25461/amina2/amina2/4222
+#EXTINF:-1,Palestine Today
+http://123orca.com:25461/amina2/amina2/3052
+#EXTINF:-1,Palestine live
+http://123orca.com:25461/amina2/amina2/3082
+#EXTINF:-1,Nour El Keddisin
+http://123orca.com:25461/amina2/amina2/2875
+#EXTINF:-1,Nour Music 2
+http://123orca.com:25461/amina2/amina2/2873
+#EXTINF:-1,NOUR TV
+http://123orca.com:25461/amina2/amina2/2872
+#EXTINF:-1,NOUR EL SHAM
+http://123orca.com:25461/amina2/amina2/3053
+#EXTINF:-1,Noor Jordan
+http://123orca.com:25461/amina2/amina2/4330
+#EXTINF:-1,Al Ghad Al Mushreq
+http://123orca.com:25461/amina2/amina2/2851
+#EXTINF:-1,Al Nahar One
+http://123orca.com:25461/amina2/amina2/4242
+#EXTINF:-1,ALhayah ALaan
+http://123orca.com:25461/amina2/amina2/3040
+#EXTINF:-1,Iraqi EDU
+http://123orca.com:25461/amina2/amina2/2844
+#EXTINF:-1,Iraqia TV
+http://123orca.com:25461/amina2/amina2/4296
+#EXTINF:-1,Baghdad TV
+http://123orca.com:25461/amina2/amina2/4264
+#EXTINF:-1,Hona Baghdad
+http://123orca.com:25461/amina2/amina2/2850
+#EXTINF:-1,Al Fallujah TV
+http://123orca.com:25461/amina2/amina2/4381
+#EXTINF:-1,Al Mawsleya
+http://123orca.com:25461/amina2/amina2/4386
+#EXTINF:-1,Al Rafiden
+http://123orca.com:25461/amina2/amina2/4388
+#EXTINF:-1,Al Sumaria TV
+http://123orca.com:25461/amina2/amina2/4390
+#EXTINF:-1,AL Anbar
+http://123orca.com:25461/amina2/amina2/4391
+#EXTINF:-1,AlRai
+http://123orca.com:25461/amina2/amina2/4401
+#EXTINF:-1,Karbala TV
+http://123orca.com:25461/amina2/amina2/4411
+#EXTINF:-1,Yemen Sama
+http://123orca.com:25461/amina2/amina2/3081
+#EXTINF:-1,Al Aan TV
+http://123orca.com:25461/amina2/amina2/9342
+#EXTINF:-1,Neelain Sport
+http://123orca.com:25461/amina2/amina2/9325
+#EXTINF:-1,Orient
+http://123orca.com:25461/amina2/amina2/3062
+#EXTINF:-1,A1 Jordan
+http://123orca.com:25461/amina2/amina2/3060
+#EXTINF:-1,Heya TV
+http://123orca.com:25461/amina2/amina2/4290
+#EXTINF:-1,Al Ghadeer
+http://123orca.com:25461/amina2/amina2/9233
+#EXTINF:-1,Alforat TV
+http://123orca.com:25461/amina2/amina2/9288
+#EXTINF:-1,Yemen Today
+http://123orca.com:25461/amina2/amina2/9280
+#EXTINF:-1,Zweina Baladna
+http://123orca.com:25461/amina2/amina2/9310
+#EXTINF:-1,Shabab TV
+http://123orca.com:25461/amina2/amina2/4435
+#EXTINF:-1,Tanasoh TV
+http://123orca.com:25461/amina2/amina2/4363
+#EXTINF:-1,Al Naeem TV
+http://123orca.com:25461/amina2/amina2/3046
+#EXTINF:-1,Al Rayyan SD
+http://123orca.com:25461/amina2/amina2/3031
+#EXTINF:-1,Afak
+http://123orca.com:25461/amina2/amina2/4376
+#EXTINF:-1,AL Anwar
+http://123orca.com:25461/amina2/amina2/4225
+#EXTINF:-1,Al Maaref
+http://123orca.com:25461/amina2/amina2/4238
+#EXTINF:-1,--------MUSIC--------
+http://123orca.com:25461/amina2/amina2/3099
+#EXTINF:-1,Rotana Clip
+http://123orca.com:25461/amina2/amina2/2977
+#EXTINF:-1,Rotana Khalijiah
+http://123orca.com:25461/amina2/amina2/2973
+#EXTINF:-1,Rotana Music HD
+http://123orca.com:25461/amina2/amina2/2976
+#EXTINF:-1,Rotana Music
+http://123orca.com:25461/amina2/amina2/2975
+#EXTINF:-1,Rotana Khaliji HD
+http://123orca.com:25461/amina2/amina2/2974
+#EXTINF:-1,Aghani Aghani TV
+http://123orca.com:25461/amina2/amina2/3093
+#EXTINF:-1,Mazzika
+http://123orca.com:25461/amina2/amina2/3096
+#EXTINF:-1,Afrah TV
+http://123orca.com:25461/amina2/amina2/3059
+#EXTINF:-1,Hawacom
+http://123orca.com:25461/amina2/amina2/3023
+#EXTINF:-1,Mazazik Tv
+http://123orca.com:25461/amina2/amina2/4320
+#EXTINF:-1,Music Alhanen
+http://123orca.com:25461/amina2/amina2/3092
+#EXTINF:-1,FUNoon
+http://123orca.com:25461/amina2/amina2/9231
+#EXTINF:-1,TATT7
+http://123orca.com:25461/amina2/amina2/9210
+#EXTINF:-1,WANASAH
+http://123orca.com:25461/amina2/amina2/2861
+#EXTINF:-1,--------ISLAMIC--------
+http://123orca.com:25461/amina2/amina2/3120
+#EXTINF:-1,Al Majd 2
+http://123orca.com:25461/amina2/amina2/3118
+#EXTINF:-1,Al Majd 1
+http://123orca.com:25461/amina2/amina2/3119
+#EXTINF:-1,Al Majd Hadith
+http://123orca.com:25461/amina2/amina2/4392
+#EXTINF:-1,AL NADA TV
+http://123orca.com:25461/amina2/amina2/4394
+#EXTINF:-1,AlAfasy
+http://123orca.com:25461/amina2/amina2/3110
+#EXTINF:-1,alnas
+http://123orca.com:25461/amina2/amina2/7950
+#EXTINF:-1,Iqraa
+http://123orca.com:25461/amina2/amina2/3117
+#EXTINF:-1,Makkah TV
+http://123orca.com:25461/amina2/amina2/9232
+#EXTINF:-1,Saudi 1
+http://123orca.com:25461/amina2/amina2/3116
+#EXTINF:-1,Saudi 2
+http://123orca.com:25461/amina2/amina2/3115
+#EXTINF:-1,Hekayat 1
+http://123orca.com:25461/amina2/amina2/3114
+#EXTINF:-1,Saudi Ch Quran
+http://123orca.com:25461/amina2/amina2/4351
+#EXTINF:-1,Saudi Ch Sunnah
+http://123orca.com:25461/amina2/amina2/4352
+#EXTINF:-1,Al Erth Al Nabawi
+http://123orca.com:25461/amina2/amina2/9085
+#EXTINF:-1,Al Rahma
+http://123orca.com:25461/amina2/amina2/3109
+#EXTINF:-1,Al Resala
+http://123orca.com:25461/amina2/amina2/3105
+#EXTINF:-1,Azhari
+http://123orca.com:25461/amina2/amina2/3085
+#EXTINF:-1,Alhayat We Alnas
+http://123orca.com:25461/amina2/amina2/3039
+#EXTINF:-1,Tayba TV
+http://123orca.com:25461/amina2/amina2/9383
+#EXTINF:-1,Al kawthar
+http://123orca.com:25461/amina2/amina2/3104
+#EXTINF:-1,Al Anis TV
+http://123orca.com:25461/amina2/amina2/4224
+#EXTINF:-1,Quran Tv
+http://123orca.com:25461/amina2/amina2/3019
+#EXTINF:-1,Al Malakoot Sat
+http://123orca.com:25461/amina2/amina2/4240
+#EXTINF:-1,Al Quds TV
+http://123orca.com:25461/amina2/amina2/4246
+#EXTINF:-1,Citruss TV
+http://123orca.com:25461/amina2/amina2/4217
+#EXTINF:-1,Ahel Al Quran
+http://123orca.com:25461/amina2/amina2/4341
