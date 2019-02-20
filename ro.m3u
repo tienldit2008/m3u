@@ -1,111 +1,143 @@
 #EXTM3U
-#EXTINF:-1,Acasa TV
-http://portal.germanyservers.de:8000/mustafaasan/asan/26240
-#EXTINF:-1,Agro Tv
-http://portal.germanyservers.de:8000/mustafaasan/asan/26239
-#EXTINF:-1,Antena 1
-http://portal.germanyservers.de:8000/mustafaasan/asan/26242
-#EXTINF:-1,Antena 3
-http://portal.germanyservers.de:8000/mustafaasan/asan/26241
-#EXTINF:-1,Look Plus
-http://portal.germanyservers.de:8000/mustafaasan/asan/26238
-#EXTINF:-1,Look Tv
-http://portal.germanyservers.de:8000/mustafaasan/asan/26237
-#EXTINF:-1,Megamax
-http://portal.germanyservers.de:8000/mustafaasan/asan/26236
-#EXTINF:-1,Prima Tv
-http://portal.germanyservers.de:8000/mustafaasan/asan/26235
-#EXTINF:-1,PRO X
-http://portal.germanyservers.de:8000/mustafaasan/asan/26195
+#EXTINF:-1,NATURE
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/820.ts
+#EXTINF:-1,EXPLORER
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/821.ts
 #EXTINF:-1,U TV
-http://portal.germanyservers.de:8000/mustafaasan/asan/26234
-#EXTINF:-1,Viasat Nature
-http://portal.germanyservers.de:8000/mustafaasan/asan/26233
-#EXTINF:-1,Antena Stars
-http://portal.germanyservers.de:8000/mustafaasan/asan/26228
-#EXTINF:-1,AXN
-http://portal.germanyservers.de:8000/mustafaasan/asan/26210
-#EXTINF:-1,AXN Black
-http://portal.germanyservers.de:8000/mustafaasan/asan/26211
-#EXTINF:-1,AXN White
-http://portal.germanyservers.de:8000/mustafaasan/asan/26212
-#EXTINF:-1,B1
-http://portal.germanyservers.de:8000/mustafaasan/asan/26218
-#EXTINF:-1,Digi 24 HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26214
-#EXTINF:-1,DIGI Animal World
-http://portal.germanyservers.de:8000/mustafaasan/asan/26215
-#EXTINF:-1,Digi Life
-http://portal.germanyservers.de:8000/mustafaasan/asan/26216
-#EXTINF:-1,DIGI SPORT 1 HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26199
-#EXTINF:-1,DIGI SPORT 2 HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26198
-#EXTINF:-1,DIGI SPORT 3 HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26197
-#EXTINF:-1,DIGI SPORT 4 HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26196
-#EXTINF:-1,Digi World
-http://portal.germanyservers.de:8000/mustafaasan/asan/26217
-#EXTINF:-1,Disney Channel
-http://portal.germanyservers.de:8000/mustafaasan/asan/26189
-#EXTINF:-1,Disney Junior
-http://portal.germanyservers.de:8000/mustafaasan/asan/26190
-#EXTINF:-1,ETNO TV
-http://portal.germanyservers.de:8000/mustafaasan/asan/26225
-#EXTINF:-1,Eurosport 2
-http://portal.germanyservers.de:8000/mustafaasan/asan/26194
-#EXTINF:-1,Fishing & Hunting
-http://portal.germanyservers.de:8000/mustafaasan/asan/26204
-#EXTINF:-1,Happy Channel
-http://portal.germanyservers.de:8000/mustafaasan/asan/26205
-#EXTINF:-1,HAPPY TV
-http://portal.germanyservers.de:8000/mustafaasan/asan/26213
-#EXTINF:-1,HBO 1
-http://portal.germanyservers.de:8000/mustafaasan/asan/26221
-#EXTINF:-1,HBO 2
-http://portal.germanyservers.de:8000/mustafaasan/asan/26220
-#EXTINF:-1,HBO 3
-http://portal.germanyservers.de:8000/mustafaasan/asan/26219
-#EXTINF:-1,KANAL D
-http://portal.germanyservers.de:8000/mustafaasan/asan/26243
-#EXTINF:-1,Kiss TV
-http://portal.germanyservers.de:8000/mustafaasan/asan/26206
-#EXTINF:-1,MiniMax
-http://portal.germanyservers.de:8000/mustafaasan/asan/26207
-#EXTINF:-1,Music Channel
-http://portal.germanyservers.de:8000/mustafaasan/asan/26208
-#EXTINF:-1,Music Channel HU
-http://portal.germanyservers.de:8000/mustafaasan/asan/26203
-#EXTINF:-1,Nat Geo Wild
-http://portal.germanyservers.de:8000/mustafaasan/asan/26192
-#EXTINF:-1,National Geographic
-http://portal.germanyservers.de:8000/mustafaasan/asan/26193
-#EXTINF:-1,Nickelodeon
-http://portal.germanyservers.de:8000/mustafaasan/asan/26191
-#EXTINF:-1,Paramount Channel
-http://portal.germanyservers.de:8000/mustafaasan/asan/26209
-#EXTINF:-1,PRO CINEMA
-http://portal.germanyservers.de:8000/mustafaasan/asan/26231
-#EXTINF:-1,PRO TV
-http://portal.germanyservers.de:8000/mustafaasan/asan/26232
-#EXTINF:-1,Realitatea TV
-http://portal.germanyservers.de:8000/mustafaasan/asan/26229
-#EXTINF:-1,Romania TV
-http://portal.germanyservers.de:8000/mustafaasan/asan/26230
-#EXTINF:-1,Sport Klub 1
-http://portal.germanyservers.de:8000/mustafaasan/asan/26202
-#EXTINF:-1,Sport Klub 2
-http://portal.germanyservers.de:8000/mustafaasan/asan/26201
-#EXTINF:-1,Sport Klub 3
-http://portal.germanyservers.de:8000/mustafaasan/asan/26200
-#EXTINF:-1,Taraf TV
-http://portal.germanyservers.de:8000/mustafaasan/asan/26223
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/822.ts
 #EXTINF:-1,TV 1000
-http://portal.germanyservers.de:8000/mustafaasan/asan/26224
-#EXTINF:-1,TVR1
-http://portal.germanyservers.de:8000/mustafaasan/asan/26227
-#EXTINF:-1,TVR2
-http://portal.germanyservers.de:8000/mustafaasan/asan/26226
-#EXTINF:-1,Viasat History
-http://portal.germanyservers.de:8000/mustafaasan/asan/26222
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/847.ts
+#EXTINF:-1,TRINITAS
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/823.ts
+#EXTINF:-1,TNT
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/824.ts
+#EXTINF:-1,TARAF TV
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/825.ts
+#EXTINF:-1,SPORT.RO
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/826.ts
+#EXTINF:-1,ROMANIA TV
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/827.ts
+#EXTINF:-1,REALITATEA
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/828.ts
+#EXTINF:-1,PRIMA COOL
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/829.ts
+#EXTINF:-1,PRIMA
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/830.ts
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/831.ts
+#EXTINF:-1,NEPTUN TV
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/832.ts
+#EXTINF:-1,National TV
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/819.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/833.ts
+#EXTINF:-1,NAT GEO WILD
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/848.ts
+#EXTINF:-1,MUSIC CHANNEL
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/849.ts
+#EXTINF:-1,MINIMAX
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/834.ts
+#EXTINF:-1,MEGAMAX
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/835.ts
+#EXTINF:-1,LOOK PLUS
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/850.ts
+#EXTINF:-1,KISS TV
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/836.ts
+#EXTINF:-1,KANAL D
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/837.ts
+#EXTINF:-1,Hit Music Channel
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/817.ts
+#EXTINF:-1,HISTORY
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/838.ts
+#EXTINF:-1,HAPPY CHANNEL
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/839.ts
+#EXTINF:-1,FISHING & HUNTING
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/840.ts
+#EXTINF:-1,EUROSPORT 2
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/841.ts
+#EXTINF:-1,EUROSPORT 1
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/842.ts
+#EXTINF:-1,ETNO
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/843.ts
+#EXTINF:-1,DISNEY JUNIOR
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/844.ts
+#EXTINF:-1,Discovery Channel
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/818.ts
+#EXTINF:-1,DIGI WORLD
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/867.ts
+#EXTINF:-1,DIGI SPORT 4
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/873.ts
+#EXTINF:-1,DIGI LIFE
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/868.ts
+#EXTINF:-1,DIGI FILM
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/869.ts
+#EXTINF:-1,DIGI ANIMAL
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/871.ts
+#EXTINF:-1,DIGI 24 CRAIOVA
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/870.ts
+#EXTINF:-1,DIGI 24
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/872.ts
+#EXTINF:-1,CINEMAX 2
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/845.ts
+#EXTINF:-1,B1 TV
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/846.ts
+#EXTINF:-1,AXN WHITE
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/851.ts
+#EXTINF:-1,AXN BLACK
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/852.ts
+#EXTINF:-1,ANTENA STARS HD
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/853.ts
+#EXTINF:-1,AGRO TV HD
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/854.ts
+#EXTINF:-1, ANTENA 3
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/855.ts
+#EXTINF:-1,RO :CINEMAX 1 HD
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/856.ts
+#EXTINF:-1,TVR 2
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/857.ts
+#EXTINF:-1,TVR 1
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/858.ts
+#EXTINF:-1,TELEKOM SPORT 2 HD
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/859.ts
+#EXTINF:-1,TELEKOM SPORT 1 HD
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/860.ts
+#EXTINF:-1,PRO TV HD
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/861.ts
+#EXTINF:-1,PRO CINEMA
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/862.ts
+#EXTINF:-1,HBO HD
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/863.ts
+#EXTINF:-1,HBO 3 HD
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/864.ts
+#EXTINF:-1,HBO 2 HD
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/865.ts
+#EXTINF:-1,FilmBox Family
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/866.ts
+#EXTINF:-1,DIGI SPORT 3 HD
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/874.ts
+#EXTINF:-1,DIGI SPORT 2 HD
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/875.ts
+#EXTINF:-1,DIGI SPORT 1 HD
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/876.ts
+#EXTINF:-1,AXN RO
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/877.ts
+#EXTINF:-1,ANTENA 1 HD
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/878.ts
+#EXTINF:-1,FOOD NETWORK
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/1178.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/1177.ts
+#EXTINF:-1,HISTORY
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/1176.ts
+#EXTINF:-1,ANTENA 3HD
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/1175.ts
+#EXTINF:-1,TVR 1
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/1171.ts
+#EXTINF:-1,AXN WHITE
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/1174.ts
+#EXTINF:-1,AXN
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/1172.ts
+#EXTINF:-1,AMC
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/1173.ts
+#EXTINF:-1,ROO:Antena Star HD
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/1170.ts

@@ -1,115 +1,45 @@
 #EXTM3U
-#EXTINF:-1, HBO 2 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/653.ts
-#EXTINF:-1, HBO 3 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/654.ts
-#EXTINF:-1,13TH STREET
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/660.ts
-#EXTINF:-1,24KITCHEN
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/690.ts
-#EXTINF:-1,ANIMAL PLANET
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/691.ts
-#EXTINF:-1,AT 5
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/677.ts
-#EXTINF:-1,BOOMERANG
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/688.ts
-#EXTINF:-1,CARTON NETWORK
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/689.ts
-#EXTINF:-1,COMEDY CENTRAL
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/661.ts
-#EXTINF:-1,CRIME&INVESTIGATION
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/695.ts
-#EXTINF:-1,DISCOVERY CHANNEL HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/694.ts
-#EXTINF:-1,DISNEY CHANNEL HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/683.ts
-#EXTINF:-1,DISNEY JUNIOR
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/682.ts
-#EXTINF:-1,E! HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/696.ts
-#EXTINF:-1,FILM 1 ACTION HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/655.ts
-#EXTINF:-1,FILM 1 COMEDY
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/658.ts
-#EXTINF:-1,FILM 1 PREMIERE HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/656.ts
-#EXTINF:-1,FILM 1 SPOTLIGHT
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/659.ts
-#EXTINF:-1,FILM 1 SUNDANCE HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/657.ts
-#EXTINF:-1,FOX HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/662.ts
-#EXTINF:-1,FOX SPORTS 1 Full HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/698.ts
-#EXTINF:-1,FOX SPORTS 2 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/699.ts
-#EXTINF:-1,FOX SPORTS 3 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/700.ts
-#EXTINF:-1,FOX SPORTS 4 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/701.ts
-#EXTINF:-1,FOX SPORTS 5 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/702.ts
-#EXTINF:-1,FOX SPORTS 6 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/703.ts
-#EXTINF:-1,HBO 1 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/652.ts
-#EXTINF:-1,JIMJAM
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/680.ts
-#EXTINF:-1,KETNET
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/679.ts
-#EXTINF:-1,MTV HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/697.ts
-#EXTINF:-1,NAT GEO WILD HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/692.ts
-#EXTINF:-1,NATIONAL GEO HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/693.ts
-#EXTINF:-1,NET 5
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/676.ts
-#EXTINF:-1,NICK JR HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/685.ts
-#EXTINF:-1,NICK TOONS
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/686.ts
+#EXTINF:-1,Comedy Central
+http://painel.soeu.kim:8080/live/vital/12345/3082.m3u8
+#EXTINF:-1,Discovery Channel
+http://painel.soeu.kim:8080/live/vital/12345/3081.m3u8
+#EXTINF:-1,Disney Channel
+http://painel.soeu.kim:8080/live/vital/12345/3080.m3u8
+#EXTINF:-1,Film 1 Action
+http://painel.soeu.kim:8080/live/vital/12345/3079.m3u8
+#EXTINF:-1,Film 1 Drama
+http://painel.soeu.kim:8080/live/vital/12345/3078.m3u8
+#EXTINF:-1,Film 1 Sundance
+http://painel.soeu.kim:8080/live/vital/12345/3077.m3u8
+#EXTINF:-1,Fox Sports 1
+http://painel.soeu.kim:8080/live/vital/12345/3076.m3u8
+#EXTINF:-1,Fox Sports 2
+http://painel.soeu.kim:8080/live/vital/12345/3075.m3u8
+#EXTINF:-1,Fox Sports 3
+http://painel.soeu.kim:8080/live/vital/12345/3074.m3u8
+#EXTINF:-1,Fox Sports 4
+http://painel.soeu.kim:8080/live/vital/12345/3073.m3u8
+#EXTINF:-1,Fox Sports 5
+http://painel.soeu.kim:8080/live/vital/12345/3072.m3u8
+#EXTINF:-1,Fox Sports 6
+http://painel.soeu.kim:8080/live/vital/12345/3071.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+http://painel.soeu.kim:8080/live/vital/12345/3070.m3u8
 #EXTINF:-1,NICKELODEON
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/687.ts
+http://painel.soeu.kim:8080/live/vital/12345/3068.m3u8
 #EXTINF:-1,NPO 1
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/664.ts
+http://painel.soeu.kim:8080/live/vital/12345/3067.m3u8
 #EXTINF:-1,NPO 2
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/665.ts
-#EXTINF:-1,NPO 3
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/666.ts
-#EXTINF:-1,ONS
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/681.ts
-#EXTINF:-1,RTL 4 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/667.ts
-#EXTINF:-1,RTL 5 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/668.ts
-#EXTINF:-1,RTL 7 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/669.ts
-#EXTINF:-1,RTL 8 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/670.ts
-#EXTINF:-1,RTL CRIME
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/672.ts
-#EXTINF:-1,RTL LOUNGE
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/673.ts
-#EXTINF:-1,RTL Z HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/671.ts
-#EXTINF:-1,RTV OOST
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/678.ts
-#EXTINF:-1,SBS 6 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/674.ts
-#EXTINF:-1,SBS 9 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/675.ts
-#EXTINF:-1,TLC
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/663.ts
-#EXTINF:-1,VERONICA DISNEY XD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/684.ts
-#EXTINF:-1,ZIGGO SPORT EXTRA 1
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/706.ts
-#EXTINF:-1,ZIGGO SPORT GOLF
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/704.ts
-#EXTINF:-1,ZIGGO SPORT RACING
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/705.ts
-#EXTINF:-1,ZIGGO SPORT SELECT HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/708.ts
-#EXTINF:-1,ZIGGO SPORT VOETBAL
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/707.ts
+http://painel.soeu.kim:8080/live/vital/12345/3066.m3u8
+#EXTINF:-1,RTL 4
+http://painel.soeu.kim:8080/live/vital/12345/3065.m3u8
+#EXTINF:-1,RTL 5
+http://painel.soeu.kim:8080/live/vital/12345/3064.m3u8
+#EXTINF:-1,RTL 7
+http://painel.soeu.kim:8080/live/vital/12345/3063.m3u8
+#EXTINF:-1,RTL 8
+http://painel.soeu.kim:8080/live/vital/12345/3062.m3u8
+#EXTINF:-1,SBS 6
+http://painel.soeu.kim:8080/live/vital/12345/3069.m3u8
+#EXTINF:-1,Ziggo Sport Select
+http://painel.soeu.kim:8080/live/vital/12345/3061.m3u8

@@ -1,109 +1,39 @@
 #EXTM3U
-#EXTINF:-1,ESKA TV
-http://portal.germanyservers.de:8000/mustafaasan/asan/27037
-#EXTINF:-1,POLSAT CAFE
-http://portal.germanyservers.de:8000/mustafaasan/asan/27047
-#EXTINF:-1,POLSAT FILM HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/27046
-#EXTINF:-1,POLSAT HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/27045
-#EXTINF:-1,POLSAT PLAY
-http://portal.germanyservers.de:8000/mustafaasan/asan/27044
-#EXTINF:-1,POLSAT SPORT HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/27043
-#EXTINF:-1,TVN 24 HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/27036
-#EXTINF:-1,TVN 7 HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/27035
-#EXTINF:-1,TVN STYLE
-http://portal.germanyservers.de:8000/mustafaasan/asan/27042
-#EXTINF:-1,TVN TURBO
-http://portal.germanyservers.de:8000/mustafaasan/asan/27041
-#EXTINF:-1,TVP 1 HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/27040
+#EXTINF:-1,Polsat
+http://5.254.66.150:25461/medhi1/medhi1/11053
+#EXTINF:-1,Polsat 2
+http://5.254.66.150:25461/medhi1/medhi1/11052
+#EXTINF:-1,Polsat Cafe
+http://5.254.66.150:25461/medhi1/medhi1/11051
+#EXTINF:-1,Polsat Film
+http://5.254.66.150:25461/medhi1/medhi1/11050
+#EXTINF:-1,Polsat News
+http://5.254.66.150:25461/medhi1/medhi1/11049
+#EXTINF:-1,Polsat Play
+http://5.254.66.150:25461/medhi1/medhi1/11048
+#EXTINF:-1,TVN
+http://5.254.66.150:25461/medhi1/medhi1/11044
+#EXTINF:-1,TVN 24
+http://5.254.66.150:25461/medhi1/medhi1/11043
+#EXTINF:-1,TVN Style
+http://5.254.66.150:25461/medhi1/medhi1/11042
+#EXTINF:-1,TVN Turbo
+http://5.254.66.150:25461/medhi1/medhi1/11041
+#EXTINF:-1,TVP 1
+http://5.254.66.150:25461/medhi1/medhi1/11040
+#EXTINF:-1,TVP 2
+http://5.254.66.150:25461/medhi1/medhi1/11039
 #EXTINF:-1,TVP 3
-http://portal.germanyservers.de:8000/mustafaasan/asan/27038
-#EXTINF:-1,TVP2
-http://portal.germanyservers.de:8000/mustafaasan/asan/27039
-#EXTINF:-1,HBO HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/27034
-#EXTINF:-1,ALIE KINO
-http://portal.germanyservers.de:8000/mustafaasan/asan/27033
-#EXTINF:-1,AXN
-http://portal.germanyservers.de:8000/mustafaasan/asan/27032
-#EXTINF:-1,AXN BLACK
-http://portal.germanyservers.de:8000/mustafaasan/asan/27031
-#EXTINF:-1,AXN WHITE
-http://portal.germanyservers.de:8000/mustafaasan/asan/27030
-#EXTINF:-1,BBC
-http://portal.germanyservers.de:8000/mustafaasan/asan/27029
-#EXTINF:-1,Canal  HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/27028
-#EXTINF:-1,Canal  Sport
-http://portal.germanyservers.de:8000/mustafaasan/asan/27027
-#EXTINF:-1,CANAL DISCOVERY
-http://portal.germanyservers.de:8000/mustafaasan/asan/27026
-#EXTINF:-1,CANAL FAMILY HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/27025
-#EXTINF:-1,CANAL FILM HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/27024
-#EXTINF:-1,CANAL SERIALE HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/27023
-#EXTINF:-1,CINEMAX
-http://portal.germanyservers.de:8000/mustafaasan/asan/27022
-#EXTINF:-1,COMEDT CENTRAL
-http://portal.germanyservers.de:8000/mustafaasan/asan/27021
-#EXTINF:-1,Eleven Extra HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/27020
-#EXTINF:-1,ELEVEN HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/27019
-#EXTINF:-1,Eleven Sports HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/27018
-#EXTINF:-1,EUROSPORT
-http://portal.germanyservers.de:8000/mustafaasan/asan/27017
-#EXTINF:-1,EUROSPORT2
-http://portal.germanyservers.de:8000/mustafaasan/asan/27016
-#EXTINF:-1,FILMBOX FAMILY
-http://portal.germanyservers.de:8000/mustafaasan/asan/27014
-#EXTINF:-1,FILMBOX PREIMUIM HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/27013
-#EXTINF:-1,Hbo 3 HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/27012
-#EXTINF:-1,HBO2
-http://portal.germanyservers.de:8000/mustafaasan/asan/27011
-#EXTINF:-1,KINO POLSKA
-http://portal.germanyservers.de:8000/mustafaasan/asan/27010
-#EXTINF:-1,NATGEO WILD
-http://portal.germanyservers.de:8000/mustafaasan/asan/27008
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://portal.germanyservers.de:8000/mustafaasan/asan/27009
-#EXTINF:-1,NSport Plus
-http://portal.germanyservers.de:8000/mustafaasan/asan/27007
-#EXTINF:-1,POLSAT 1
-http://portal.germanyservers.de:8000/mustafaasan/asan/27006
-#EXTINF:-1,POLSAT NEWS HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/27005
-#EXTINF:-1,POLSAT ROMANS
-http://portal.germanyservers.de:8000/mustafaasan/asan/27004
-#EXTINF:-1,POLSAT SPORT EXTRA HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/27003
-#EXTINF:-1,POLSAT SPORTS NEWS HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/27002
-#EXTINF:-1,POLSAT2
-http://portal.germanyservers.de:8000/mustafaasan/asan/27001
-#EXTINF:-1,POLSATSPORTEXTRA
-http://portal.germanyservers.de:8000/mustafaasan/asan/27000
-#EXTINF:-1,TVN HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26999
-#EXTINF:-1,TVN Style HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26998
-#EXTINF:-1,TVP HISTORIA
-http://portal.germanyservers.de:8000/mustafaasan/asan/26997
-#EXTINF:-1,TVP KULTURE
-http://portal.germanyservers.de:8000/mustafaasan/asan/26996
-#EXTINF:-1,TVP SPORT HD
-http://portal.germanyservers.de:8000/mustafaasan/asan/26995
-#EXTINF:-1,TVPINFO
-http://portal.germanyservers.de:8000/mustafaasan/asan/26994
-#EXTINF:-1,TVPSERIAL
-http://portal.germanyservers.de:8000/mustafaasan/asan/26993
+http://5.254.66.150:25461/medhi1/medhi1/11038
+#EXTINF:-1,TVP Sport
+http://5.254.66.150:25461/medhi1/medhi1/11037
+#EXTINF:-1,VIVA Polska
+http://5.254.66.150:25461/medhi1/medhi1/11036
+#EXTINF:-1,PL:Polsat Sport
+http://5.254.66.150:25461/medhi1/medhi1/11032
+#EXTINF:-1,PL:Polsat Sport EXTRA HD
+http://5.254.66.150:25461/medhi1/medhi1/11031
+#EXTINF:-1,PL:Polsat Sport fight
+http://5.254.66.150:25461/medhi1/medhi1/11030
+#EXTINF:-1,PL:Polsat Sport news
+http://5.254.66.150:25461/medhi1/medhi1/11029
