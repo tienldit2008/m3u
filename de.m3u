@@ -1,95 +1,167 @@
 #EXTM3U
-#EXTINF:-1,Das Erste
-http://123orca.com:25461/amina2/amina2/3465
-#EXTINF:-1,ZDF
-http://123orca.com:25461/amina2/amina2/3464
-#EXTINF:-1,RTL HD
-http://123orca.com:25461/amina2/amina2/3463
-#EXTINF:-1,RTLII HD
-http://123orca.com:25461/amina2/amina2/3462
-#EXTINF:-1,SAT.1 HD
-http://123orca.com:25461/amina2/amina2/3453
-#EXTINF:-1,Pro7 HD
-http://123orca.com:25461/amina2/amina2/3456
-#EXTINF:-1,VOX HD
-http://123orca.com:25461/amina2/amina2/3457
-#EXTINF:-1,kabel eins HD
-http://123orca.com:25461/amina2/amina2/3454
-#EXTINF:-1,n tv HD
-http://123orca.com:25461/amina2/amina2/3450
-#EXTINF:-1,N24
-http://123orca.com:25461/amina2/amina2/3451
-#EXTINF:-1,3sat
-http://123orca.com:25461/amina2/amina2/3449
-#EXTINF:-1,Dmax'
-http://123orca.com:25461/amina2/amina2/7119
-#EXTINF:-1,ZEE one
-http://123orca.com:25461/amina2/amina2/9128
-#EXTINF:-1,Sky Cinema
-http://123orca.com:25461/amina2/amina2/3447
-#EXTINF:-1,Sky.Action
-http://123orca.com:25461/amina2/amina2/3444
-#EXTINF:-1,Sky.Cinema Hits
-http://123orca.com:25461/amina2/amina2/3441
-#EXTINF:-1,Sky.Cinema Family
-http://123orca.com:25461/amina2/amina2/3442
-#EXTINF:-1,Sky.Cinema Comedy
-http://123orca.com:25461/amina2/amina2/3443
-#EXTINF:-1,Sky.Cinema Emotion
-http://123orca.com:25461/amina2/amina2/3438
-#EXTINF:-1,Sky.Cinema Nostalgie
-http://123orca.com:25461/amina2/amina2/3434
+#EXTINF:-1,ᴰᴱ: 13th Street
+http://212.8.243.9:80/comer069/360333/1488
+#EXTINF:-1,ᴰᴱ: 3 sat
+http://212.8.243.9:80/comer069/360333/1865
+#EXTINF:-1,ᴰᴱ: Anixe
+http://212.8.243.9:80/comer069/360333/2410
+#EXTINF:-1,ᴰᴱ: Arte
+http://212.8.243.9:80/comer069/360333/2630
+#EXTINF:-1,Astro
+http://212.8.243.9:80/comer069/360333/2422
+#EXTINF:-1,Atv HD
+http://212.8.243.9:80/comer069/360333/2436
+#EXTINF:-1,ᴰᴱ: Axn
+http://212.8.243.9:80/comer069/360333/619
+#EXTINF:-1,ᴰᴱ: Comedy Central / Viva
+http://212.8.243.9:80/comer069/360333/2775
+#EXTINF:-1,ᴰᴱ: Das Erste
+http://212.8.243.9:80/comer069/360333/2631
+#EXTINF:-1,ᴰᴱ: Discovery
+http://212.8.243.9:80/comer069/360333/1484
+#EXTINF:-1,ᴰᴱ: Disney Channel
+http://212.8.243.9:80/comer069/360333/1493
+#EXTINF:-1,ᴰᴱ: Dmax
+http://212.8.243.9:80/comer069/360333/2430
+#EXTINF:-1,Drf1
+http://212.8.243.9:80/comer069/360333/2424
+#EXTINF:-1,ᴰᴱ: Dw News
+http://212.8.243.9:80/comer069/360333/10208
+#EXTINF:-1,A & E
+http://212.8.243.9:80/comer069/360333/1491
+#EXTINF:-1,ᴰᴱ: EuroSport
+http://212.8.243.9:80/comer069/360333/2439
+#EXTINF:-1,Fox
+http://212.8.243.9:80/comer069/360333/2421
+#EXTINF:-1,ᴰᴱ: Fox Serie
+http://212.8.243.9:80/comer069/360333/1490
+#EXTINF:-1,History
+http://212.8.243.9:80/comer069/360333/2432
+#EXTINF:-1,ᴰᴱ: HR Fernsehen
+http://212.8.243.9:80/comer069/360333/2416
+#EXTINF:-1,ᴰᴱ: In tv
+http://212.8.243.9:80/comer069/360333/2429
+#EXTINF:-1,Kabel
+http://212.8.243.9:80/comer069/360333/1866
+#EXTINF:-1,Kabel Eins
+http://212.8.243.9:80/comer069/360333/2417
+#EXTINF:-1,ᴰᴱ: Kika
+http://212.8.243.9:80/comer069/360333/2408
+#EXTINF:-1,ᴰᴱ: N 24
+http://212.8.243.9:80/comer069/360333/2414
+#EXTINF:-1,National Geo Wild
+http://212.8.243.9:80/comer069/360333/599
+#EXTINF:-1,ᴰᴱ: National Geographic
+http://212.8.243.9:80/comer069/360333/1483
+#EXTINF:-1,Ndr
+http://212.8.243.9:80/comer069/360333/2427
+#EXTINF:-1,ᴰᴱ: Nickelodeon
+http://212.8.243.9:80/comer069/360333/2413
+#EXTINF:-1,ᴰᴱ: n-tv
+http://212.8.243.9:80/comer069/360333/2406
+#EXTINF:-1,Okto
+http://212.8.243.9:80/comer069/360333/2433
+#EXTINF:-1,Boomerang
+http://212.8.243.9:80/comer069/360333/1489
+#EXTINF:-1,ᴰᴱ: Pro 7
+http://212.8.243.9:80/comer069/360333/1887
+#EXTINF:-1,ProSieben Maxx
+http://212.8.243.9:80/comer069/360333/2420
+#EXTINF:-1,Kabel Doku
+http://212.8.243.9:80/comer069/360333/2434
+#EXTINF:-1,Rnf
+http://212.8.243.9:80/comer069/360333/2423
+#EXTINF:-1,ᴰᴱ: Romance
+http://212.8.243.9:80/comer069/360333/603
+#EXTINF:-1,RTL
+http://212.8.243.9:80/comer069/360333/718
+#EXTINF:-1,RTL 2
+http://212.8.243.9:80/comer069/360333/719
+#EXTINF:-1,ᴰᴱ: RTL Crime
+http://212.8.243.9:80/comer069/360333/1486
+#EXTINF:-1,RTL Nitro
+http://212.8.243.9:80/comer069/360333/886
+#EXTINF:-1,ᴰᴱ: RTL Passion
+http://212.8.243.9:80/comer069/360333/1487
+#EXTINF:-1,ᴰᴱ: Sat 1
+http://212.8.243.9:80/comer069/360333/2407
+#EXTINF:-1,Sat 1 Gold
+http://212.8.243.9:80/comer069/360333/2440
+#EXTINF:-1,Sixx
+http://212.8.243.9:80/comer069/360333/2418
+#EXTINF:-1,Sky Action
+http://212.8.243.9:80/comer069/360333/581
 #EXTINF:-1,Sky Atlantic
-http://123orca.com:25461/amina2/amina2/3440
+http://212.8.243.9:80/comer069/360333/1475
+#EXTINF:-1,Sky BundesLiga 1
+http://212.8.243.9:80/comer069/360333/83
+#EXTINF:-1,ᴰᴱ: Sky BundesLiga 2
+http://212.8.243.9:80/comer069/360333/6586
+#EXTINF:-1,Sky Cinema
+http://212.8.243.9:80/comer069/360333/1002
+#EXTINF:-1,Sky Cinema +24
+http://212.8.243.9:80/comer069/360333/1000
+#EXTINF:-1,Sky Comedy
+http://212.8.243.9:80/comer069/360333/580
+#EXTINF:-1,Sky Emotion
+http://212.8.243.9:80/comer069/360333/999
+#EXTINF:-1,Sky Family
+http://212.8.243.9:80/comer069/360333/2411
 #EXTINF:-1,Sky Krimi
-http://123orca.com:25461/amina2/amina2/3437
-#EXTINF:-1,RTL PLUS
-http://123orca.com:25461/amina2/amina2/3458
-#EXTINF:-1,RTL Passion
-http://123orca.com:25461/amina2/amina2/3459
-#EXTINF:-1,RTL Crime
-http://123orca.com:25461/amina2/amina2/3460
-#EXTINF:-1,RTL NITRO HD
-http://123orca.com:25461/amina2/amina2/7117
-#EXTINF:-1,RTL Living
-http://123orca.com:25461/amina2/amina2/3461
-#EXTINF:-1,SAT.1 GOLD
-http://123orca.com:25461/amina2/amina2/3452
-#EXTINF:-1,Pro7 MAXX
-http://123orca.com:25461/amina2/amina2/3455
-#EXTINF:-1,SyFy.
-http://123orca.com:25461/amina2/amina2/9468
-#EXTINF:-1,SIXX-HD
-http://123orca.com:25461/amina2/amina2/3430
-#EXTINF:-1,TNT.Film
-http://123orca.com:25461/amina2/amina2/3428
-#EXTINF:-1,TNT-Serie
-http://123orca.com:25461/amina2/amina2/3427
-#EXTINF:-1,13th-Street
-http://123orca.com:25461/amina2/amina2/3448
-#EXTINF:-1,AXN
-http://123orca.com:25461/amina2/amina2/3435
-#EXTINF:-1,Anixe.
-http://123orca.com:25461/amina2/amina2/3432
-#EXTINF:-1,Fox.Serie
-http://123orca.com:25461/amina2/amina2/3436
-#EXTINF:-1,Kinowelt TV.
-http://123orca.com:25461/amina2/amina2/3418
-#EXTINF:-1,E! ENTERTAINMENT HD
-http://123orca.com:25461/amina2/amina2/3433
-#EXTINF:-1,Heimatkanal
-http://123orca.com:25461/amina2/amina2/3419
-#EXTINF:-1,ORF1
-http://123orca.com:25461/amina2/amina2/3397
-#EXTINF:-1,History HD.
-http://123orca.com:25461/amina2/amina2/3417
-#EXTINF:-1,National.Geographic
-http://123orca.com:25461/amina2/amina2/3422
-#EXTINF:-1,Nat Geo Wild'
-http://123orca.com:25461/amina2/amina2/8688
-#EXTINF:-1,Discovery.Channel
-http://123orca.com:25461/amina2/amina2/3421
-#EXTINF:-1,Spiegel Geschichte
-http://123orca.com:25461/amina2/amina2/8425
-#EXTINF:-1,Classica.
-http://123orca.com:25461/amina2/amina2/9469
+http://212.8.243.9:80/comer069/360333/1477
+#EXTINF:-1,Sky Nostalgie
+http://212.8.243.9:80/comer069/360333/1476
+#EXTINF:-1,ᴰᴱ: Sky Select 1
+http://212.8.243.9:80/comer069/360333/6568
+#EXTINF:-1,ᴰᴱ: Sky Select 2
+http://212.8.243.9:80/comer069/360333/6567
+#EXTINF:-1,ᴰᴱ: Sky Select 3
+http://212.8.243.9:80/comer069/360333/6566
+#EXTINF:-1,ᴰᴱ: Sky Select 4
+http://212.8.243.9:80/comer069/360333/6565
+#EXTINF:-1,ᴰᴱ: Sky Select 5
+http://212.8.243.9:80/comer069/360333/6564
+#EXTINF:-1,Sky Sport 1
+http://212.8.243.9:80/comer069/360333/84
+#EXTINF:-1,Sky Sport 2
+http://212.8.243.9:80/comer069/360333/85
+#EXTINF:-1,ᴰᴱ: Sky Sport Austria
+http://212.8.243.9:80/comer069/360333/1482
+#EXTINF:-1,Sport digital
+http://212.8.243.9:80/comer069/360333/2431
+#EXTINF:-1,Super RTL
+http://212.8.243.9:80/comer069/360333/889
+#EXTINF:-1,Syfy
+http://212.8.243.9:80/comer069/360333/1480
+#EXTINF:-1,ᴰᴱ: Tlc
+http://212.8.243.9:80/comer069/360333/2412
+#EXTINF:-1,ᴰᴱ: Tnt Serie
+http://212.8.243.9:80/comer069/360333/1479
+#EXTINF:-1,Vox
+http://212.8.243.9:80/comer069/360333/717
+#EXTINF:-1,ᴰᴱ: WDR
+http://212.8.243.9:80/comer069/360333/2428
+#EXTINF:-1,ZDF
+http://212.8.243.9:80/comer069/360333/890
+#EXTINF:-1,ZDF Neo
+http://212.8.243.9:80/comer069/360333/1492
+#EXTINF:-1,DAZN Bar 1
+http://212.8.243.9:80/comer069/360333/23470
+#EXTINF:-1,ᴰᴱ: DAZN Bar 2
+http://212.8.243.9:80/comer069/360333/23471
+#EXTINF:-1,ᴰᴱ: EuroSport 2
+http://212.8.243.9:80/comer069/360333/23472
+#EXTINF:-1,Universal
+http://212.8.243.9:80/comer069/360333/23486
+#EXTINF:-1,ᴰᴱ: Disney Cinemagic
+http://212.8.243.9:80/comer069/360333/23490
+#EXTINF:-1,Disney Junior
+http://212.8.243.9:80/comer069/360333/23489
+#EXTINF:-1,Disney XD
+http://212.8.243.9:80/comer069/360333/23488
+#EXTINF:-1,RTL plus
+http://212.8.243.9:80/comer069/360333/23491
+#EXTINF:-1,ᴰᴱ: Kinowelt
+http://212.8.243.9:80/comer069/360333/23507
+#EXTINF:-1,Zee One
+http://212.8.243.9:80/comer069/360333/2435
