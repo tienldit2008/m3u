@@ -1,167 +1,277 @@
 #EXTM3U
-#EXTINF:-1,ᴰᴱ: 13th Street
-http://212.8.243.9:80/comer069/360333/1488
-#EXTINF:-1,ᴰᴱ: 3 sat
-http://212.8.243.9:80/comer069/360333/1865
-#EXTINF:-1,ᴰᴱ: Anixe
-http://212.8.243.9:80/comer069/360333/2410
-#EXTINF:-1,ᴰᴱ: Arte
-http://212.8.243.9:80/comer069/360333/2630
-#EXTINF:-1,Astro
-http://212.8.243.9:80/comer069/360333/2422
-#EXTINF:-1,Atv HD
-http://212.8.243.9:80/comer069/360333/2436
-#EXTINF:-1,ᴰᴱ: Axn
-http://212.8.243.9:80/comer069/360333/619
-#EXTINF:-1,ᴰᴱ: Comedy Central / Viva
-http://212.8.243.9:80/comer069/360333/2775
-#EXTINF:-1,ᴰᴱ: Das Erste
-http://212.8.243.9:80/comer069/360333/2631
-#EXTINF:-1,ᴰᴱ: Discovery
-http://212.8.243.9:80/comer069/360333/1484
-#EXTINF:-1,ᴰᴱ: Disney Channel
-http://212.8.243.9:80/comer069/360333/1493
-#EXTINF:-1,ᴰᴱ: Dmax
-http://212.8.243.9:80/comer069/360333/2430
-#EXTINF:-1,Drf1
-http://212.8.243.9:80/comer069/360333/2424
-#EXTINF:-1,ᴰᴱ: Dw News
-http://212.8.243.9:80/comer069/360333/10208
-#EXTINF:-1,A & E
-http://212.8.243.9:80/comer069/360333/1491
-#EXTINF:-1,ᴰᴱ: EuroSport
-http://212.8.243.9:80/comer069/360333/2439
-#EXTINF:-1,Fox
-http://212.8.243.9:80/comer069/360333/2421
-#EXTINF:-1,ᴰᴱ: Fox Serie
-http://212.8.243.9:80/comer069/360333/1490
-#EXTINF:-1,History
-http://212.8.243.9:80/comer069/360333/2432
-#EXTINF:-1,ᴰᴱ: HR Fernsehen
-http://212.8.243.9:80/comer069/360333/2416
-#EXTINF:-1,ᴰᴱ: In tv
-http://212.8.243.9:80/comer069/360333/2429
-#EXTINF:-1,Kabel
-http://212.8.243.9:80/comer069/360333/1866
-#EXTINF:-1,Kabel Eins
-http://212.8.243.9:80/comer069/360333/2417
-#EXTINF:-1,ᴰᴱ: Kika
-http://212.8.243.9:80/comer069/360333/2408
-#EXTINF:-1,ᴰᴱ: N 24
-http://212.8.243.9:80/comer069/360333/2414
-#EXTINF:-1,National Geo Wild
-http://212.8.243.9:80/comer069/360333/599
-#EXTINF:-1,ᴰᴱ: National Geographic
-http://212.8.243.9:80/comer069/360333/1483
-#EXTINF:-1,Ndr
-http://212.8.243.9:80/comer069/360333/2427
-#EXTINF:-1,ᴰᴱ: Nickelodeon
-http://212.8.243.9:80/comer069/360333/2413
-#EXTINF:-1,ᴰᴱ: n-tv
-http://212.8.243.9:80/comer069/360333/2406
-#EXTINF:-1,Okto
-http://212.8.243.9:80/comer069/360333/2433
-#EXTINF:-1,Boomerang
-http://212.8.243.9:80/comer069/360333/1489
-#EXTINF:-1,ᴰᴱ: Pro 7
-http://212.8.243.9:80/comer069/360333/1887
-#EXTINF:-1,ProSieben Maxx
-http://212.8.243.9:80/comer069/360333/2420
-#EXTINF:-1,Kabel Doku
-http://212.8.243.9:80/comer069/360333/2434
-#EXTINF:-1,Rnf
-http://212.8.243.9:80/comer069/360333/2423
-#EXTINF:-1,ᴰᴱ: Romance
-http://212.8.243.9:80/comer069/360333/603
+#EXTINF:-1,DAS ERSTE (ARD)
+http://line.myott.net:80/live/1234/4321/2921.m3u8
+#EXTINF:-1,DAS ERSTE HD (ARD)
+http://line.myott.net:80/live/1234/4321/8975.m3u8
+#EXTINF:-1,ARTE HD
+http://line.myott.net:80/live/1234/4321/8976.m3u8
+#EXTINF:-1,ZDF HD
+http://line.myott.net:80/live/1234/4321/555.m3u8
+#EXTINF:-1,ZDF NEO
+http://line.myott.net:80/live/1234/4321/8520.m3u8
+#EXTINF:-1,3 SAT
+http://line.myott.net:80/live/1234/4321/3707.m3u8
 #EXTINF:-1,RTL
-http://212.8.243.9:80/comer069/360333/718
-#EXTINF:-1,RTL 2
-http://212.8.243.9:80/comer069/360333/719
-#EXTINF:-1,ᴰᴱ: RTL Crime
-http://212.8.243.9:80/comer069/360333/1486
-#EXTINF:-1,RTL Nitro
-http://212.8.243.9:80/comer069/360333/886
-#EXTINF:-1,ᴰᴱ: RTL Passion
-http://212.8.243.9:80/comer069/360333/1487
-#EXTINF:-1,ᴰᴱ: Sat 1
-http://212.8.243.9:80/comer069/360333/2407
-#EXTINF:-1,Sat 1 Gold
-http://212.8.243.9:80/comer069/360333/2440
-#EXTINF:-1,Sixx
-http://212.8.243.9:80/comer069/360333/2418
-#EXTINF:-1,Sky Action
-http://212.8.243.9:80/comer069/360333/581
-#EXTINF:-1,Sky Atlantic
-http://212.8.243.9:80/comer069/360333/1475
-#EXTINF:-1,Sky BundesLiga 1
-http://212.8.243.9:80/comer069/360333/83
-#EXTINF:-1,ᴰᴱ: Sky BundesLiga 2
-http://212.8.243.9:80/comer069/360333/6586
-#EXTINF:-1,Sky Cinema
-http://212.8.243.9:80/comer069/360333/1002
-#EXTINF:-1,Sky Cinema +24
-http://212.8.243.9:80/comer069/360333/1000
-#EXTINF:-1,Sky Comedy
-http://212.8.243.9:80/comer069/360333/580
-#EXTINF:-1,Sky Emotion
-http://212.8.243.9:80/comer069/360333/999
-#EXTINF:-1,Sky Family
-http://212.8.243.9:80/comer069/360333/2411
-#EXTINF:-1,Sky Krimi
-http://212.8.243.9:80/comer069/360333/1477
-#EXTINF:-1,Sky Nostalgie
-http://212.8.243.9:80/comer069/360333/1476
-#EXTINF:-1,ᴰᴱ: Sky Select 1
-http://212.8.243.9:80/comer069/360333/6568
-#EXTINF:-1,ᴰᴱ: Sky Select 2
-http://212.8.243.9:80/comer069/360333/6567
-#EXTINF:-1,ᴰᴱ: Sky Select 3
-http://212.8.243.9:80/comer069/360333/6566
-#EXTINF:-1,ᴰᴱ: Sky Select 4
-http://212.8.243.9:80/comer069/360333/6565
-#EXTINF:-1,ᴰᴱ: Sky Select 5
-http://212.8.243.9:80/comer069/360333/6564
-#EXTINF:-1,Sky Sport 1
-http://212.8.243.9:80/comer069/360333/84
-#EXTINF:-1,Sky Sport 2
-http://212.8.243.9:80/comer069/360333/85
-#EXTINF:-1,ᴰᴱ: Sky Sport Austria
-http://212.8.243.9:80/comer069/360333/1482
-#EXTINF:-1,Sport digital
-http://212.8.243.9:80/comer069/360333/2431
-#EXTINF:-1,Super RTL
-http://212.8.243.9:80/comer069/360333/889
-#EXTINF:-1,Syfy
-http://212.8.243.9:80/comer069/360333/1480
-#EXTINF:-1,ᴰᴱ: Tlc
-http://212.8.243.9:80/comer069/360333/2412
-#EXTINF:-1,ᴰᴱ: Tnt Serie
-http://212.8.243.9:80/comer069/360333/1479
-#EXTINF:-1,Vox
-http://212.8.243.9:80/comer069/360333/717
-#EXTINF:-1,ᴰᴱ: WDR
-http://212.8.243.9:80/comer069/360333/2428
-#EXTINF:-1,ZDF
-http://212.8.243.9:80/comer069/360333/890
-#EXTINF:-1,ZDF Neo
-http://212.8.243.9:80/comer069/360333/1492
-#EXTINF:-1,DAZN Bar 1
-http://212.8.243.9:80/comer069/360333/23470
-#EXTINF:-1,ᴰᴱ: DAZN Bar 2
-http://212.8.243.9:80/comer069/360333/23471
-#EXTINF:-1,ᴰᴱ: EuroSport 2
-http://212.8.243.9:80/comer069/360333/23472
-#EXTINF:-1,Universal
-http://212.8.243.9:80/comer069/360333/23486
-#EXTINF:-1,ᴰᴱ: Disney Cinemagic
-http://212.8.243.9:80/comer069/360333/23490
-#EXTINF:-1,Disney Junior
-http://212.8.243.9:80/comer069/360333/23489
-#EXTINF:-1,Disney XD
-http://212.8.243.9:80/comer069/360333/23488
-#EXTINF:-1,RTL plus
-http://212.8.243.9:80/comer069/360333/23491
-#EXTINF:-1,ᴰᴱ: Kinowelt
-http://212.8.243.9:80/comer069/360333/23507
-#EXTINF:-1,Zee One
-http://212.8.243.9:80/comer069/360333/2435
+http://line.myott.net:80/live/1234/4321/38241.m3u8
+#EXTINF:-1,RTL2
+http://line.myott.net:80/live/1234/4321/38240.m3u8
+#EXTINF:-1,RTL PLUS
+http://line.myott.net:80/live/1234/4321/8519.m3u8
+#EXTINF:-1,RTL NITRO
+http://line.myott.net:80/live/1234/4321/553.m3u8
+#EXTINF:-1,SUPER RTL
+http://line.myott.net:80/live/1234/4321/557.m3u8
+#EXTINF:-1,RTL CRIME HD
+http://line.myott.net:80/live/1234/4321/3718.m3u8
+#EXTINF:-1,RTL PASSION HD
+http://line.myott.net:80/live/1234/4321/68300.m3u8
+#EXTINF:-1,VOX
+http://line.myott.net:80/live/1234/4321/38230.m3u8
+#EXTINF:-1,EOTV
+http://line.myott.net:80/live/1234/4321/38238.m3u8
+#EXTINF:-1,ZEE ONE
+http://line.myott.net:80/live/1234/4321/38227.m3u8
+#EXTINF:-1,SWR FERNSEHEN BW
+http://line.myott.net:80/live/1234/4321/38242.m3u8
+#EXTINF:-1,NITRO
+http://line.myott.net:80/live/1234/4321/38236.m3u8
+#EXTINF:-1,##### HD+ #####
+http://line.myott.net:80/live/1234/4321/38231.m3u8
+#EXTINF:-1,RTL HD
+http://line.myott.net:80/live/1234/4321/2580.m3u8
+#EXTINF:-1,RTL 2 HD
+http://line.myott.net:80/live/1234/4321/2582.m3u8
+#EXTINF:-1,SAT 1 HD
+http://line.myott.net:80/live/1234/4321/2577.m3u8
+#EXTINF:-1,SAT 1 GOLD HD
+http://line.myott.net:80/live/1234/4321/56983.m3u8
+#EXTINF:-1,SIXX HD
+http://line.myott.net:80/live/1234/4321/3719.m3u8
+#EXTINF:-1,VOX HD
+http://line.myott.net:80/live/1234/4321/2581.m3u8
+#EXTINF:-1,KABEL 1 HD
+http://line.myott.net:80/live/1234/4321/2578.m3u8
+#EXTINF:-1,PROSIEBEN HD
+http://line.myott.net:80/live/1234/4321/2579.m3u8
+#EXTINF:-1,PROSIEBEN MAXX HD
+http://line.myott.net:80/live/1234/4321/564.m3u8
+#EXTINF:-1,DMAX HD
+http://line.myott.net:80/live/1234/4321/56994.m3u8
+#EXTINF:-1,TELE 5 HD
+http://line.myott.net:80/live/1234/4321/56992.m3u8
+#EXTINF:-1,ZEE ONE HD
+http://line.myott.net:80/live/1234/4321/35994.m3u8
+#EXTINF:-1,##### KINO #####
+http://line.myott.net:80/live/1234/4321/5349.m3u8
+#EXTINF:-1,SKY 1 HD
+http://line.myott.net:80/live/1234/4321/38349.m3u8
+#EXTINF:-1,SKY CINEMA HD
+http://line.myott.net:80/live/1234/4321/597.m3u8
+#EXTINF:-1,SKY CINEMA +1 HD
+http://line.myott.net:80/live/1234/4321/8514.m3u8
+#EXTINF:-1,SKY CINEMA +24 HD
+http://line.myott.net:80/live/1234/4321/599.m3u8
+#EXTINF:-1,SKY CINEMA FAMILY HD
+http://line.myott.net:80/live/1234/4321/3048.m3u8
+#EXTINF:-1,SKY CINEMA ACTION HD
+http://line.myott.net:80/live/1234/4321/3050.m3u8
+#EXTINF:-1,SKY CINEMA EMOTION
+http://line.myott.net:80/live/1234/4321/592.m3u8
+#EXTINF:-1,SKY CINEMA NOSTALGIE
+http://line.myott.net:80/live/1234/4321/591.m3u8
+#EXTINF:-1,SKY CINEMA HITS HD
+http://line.myott.net:80/live/1234/4321/590.m3u8
+#EXTINF:-1,TNT COMEDY HD
+http://line.myott.net:80/live/1234/4321/2575.m3u8
+#EXTINF:-1,SKY ATLANTIC HD
+http://line.myott.net:80/live/1234/4321/38233.m3u8
+#EXTINF:-1,MOVIESINEMA GERMAN 1 HD
+http://line.myott.net:80/live/1234/4321/42820.m3u8
+#EXTINF:-1,MOVIESINEMA GERMAN 2 HD
+http://line.myott.net:80/live/1234/4321/42819.m3u8
+#EXTINF:-1,MOVIESINEMA GERMAN 3 HD
+http://line.myott.net:80/live/1234/4321/42818.m3u8
+#EXTINF:-1,MOVIESINEMA GERMAN 4 HD
+http://line.myott.net:80/live/1234/4321/42817.m3u8
+#EXTINF:-1,MOVIESINEMA GERMAN 5 HD
+http://line.myott.net:80/live/1234/4321/42816.m3u8
+#EXTINF:-1,##### SKY SELECT #####
+http://line.myott.net:80/live/1234/4321/5350.m3u8
+#EXTINF:-1,SKY SELECT 1 HD
+http://line.myott.net:80/live/1234/4321/42825.m3u8
+#EXTINF:-1,SKY SELECT 2 HD
+http://line.myott.net:80/live/1234/4321/42824.m3u8
+#EXTINF:-1,SKY SELECT 3 HD
+http://line.myott.net:80/live/1234/4321/42823.m3u8
+#EXTINF:-1,SKY SELECT 4 HD
+http://line.myott.net:80/live/1234/4321/42822.m3u8
+#EXTINF:-1,SKY SELECT 5 HD
+http://line.myott.net:80/live/1234/4321/42821.m3u8
+#EXTINF:-1,SKY ATLANTIC
+http://line.myott.net:80/live/1234/4321/2574.m3u8
+#EXTINF:-1,KINOWELT TV
+http://line.myott.net:80/live/1234/4321/3049.m3u8
+#EXTINF:-1,TNT FILM
+http://line.myott.net:80/live/1234/4321/581.m3u8
+#EXTINF:-1,##### UNTERHALTUNG #####
+http://line.myott.net:80/live/1234/4321/5351.m3u8
+#EXTINF:-1,FOX HD
+http://line.myott.net:80/live/1234/4321/2573.m3u8
+#EXTINF:-1,13TH STREET HD
+http://line.myott.net:80/live/1234/4321/8517.m3u8
+#EXTINF:-1,SYFY HD
+http://line.myott.net:80/live/1234/4321/2576.m3u8
+#EXTINF:-1,TNT SERIE HD
+http://line.myott.net:80/live/1234/4321/2549.m3u8
+#EXTINF:-1,SKY TNT SERIE HD
+http://line.myott.net:80/live/1234/4321/588.m3u8
+#EXTINF:-1,ROMANCE TV
+http://line.myott.net:80/live/1234/4321/49100.m3u8
+#EXTINF:-1,SKY KRIMI
+http://line.myott.net:80/live/1234/4321/594.m3u8
+#EXTINF:-1,E! ENTERTAINMENT HD
+http://line.myott.net:80/live/1234/4321/3712.m3u8
+#EXTINF:-1,MTV HD
+http://line.myott.net:80/live/1234/4321/13283.m3u8
+#EXTINF:-1,NICK+/MTV HD
+http://line.myott.net:80/live/1234/4321/56987.m3u8
+#EXTINF:-1,DELUXE MUSIC HD
+http://line.myott.net:80/live/1234/4321/56981.m3u8
+#EXTINF:-1,VIVA/COMEDY CENTRAL
+http://line.myott.net:80/live/1234/4321/56979.m3u8
+#EXTINF:-1,VH1
+http://line.myott.net:80/live/1234/4321/38237.m3u8
+#EXTINF:-1,JUKEBOX
+http://line.myott.net:80/live/1234/4321/3715.m3u8
+#EXTINF:-1,##### DOKUMENTARFILME #####
+http://line.myott.net:80/live/1234/4321/5353.m3u8
+#EXTINF:-1,DISCOVERY HD
+http://line.myott.net:80/live/1234/4321/580.m3u8
+#EXTINF:-1,NGC HD
+http://line.myott.net:80/live/1234/4321/8515.m3u8
+#EXTINF:-1,NGC WILD HD
+http://line.myott.net:80/live/1234/4321/8516.m3u8
+#EXTINF:-1,HISTORY HD
+http://line.myott.net:80/live/1234/4321/3051.m3u8
+#EXTINF:-1,TLC HD
+http://line.myott.net:80/live/1234/4321/38228.m3u8
+#EXTINF:-1,SKY ARTS HD
+http://line.myott.net:80/live/1234/4321/3705.m3u8
+#EXTINF:-1,SPIEGEL GESCHICHTE
+http://line.myott.net:80/live/1234/4321/569.m3u8
+#EXTINF:-1,A&E
+http://line.myott.net:80/live/1234/4321/3708.m3u8
+#EXTINF:-1,N24
+http://line.myott.net:80/live/1234/4321/68308.m3u8
+#EXTINF:-1,##### JUGEND #####
+http://line.myott.net:80/live/1234/4321/5354.m3u8
+#EXTINF:-1,DISNEY CHANNEL HD
+http://line.myott.net:80/live/1234/4321/38234.m3u8
+#EXTINF:-1,DISNEY JUNIOR HD
+http://line.myott.net:80/live/1234/4321/572.m3u8
+#EXTINF:-1,DISNEY CINEMAGIC HD
+http://line.myott.net:80/live/1234/4321/571.m3u8
+#EXTINF:-1,NICK+/MTV
+http://line.myott.net:80/live/1234/4321/13282.m3u8
+#EXTINF:-1,KIKA
+http://line.myott.net:80/live/1234/4321/561.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://line.myott.net:80/live/1234/4321/3710.m3u8
+#EXTINF:-1,BOOMERANG
+http://line.myott.net:80/live/1234/4321/3709.m3u8
+#EXTINF:-1,##### NACHRICHTEN #####
+http://line.myott.net:80/live/1234/4321/5355.m3u8
+#EXTINF:-1,EURONEWS
+http://line.myott.net:80/live/1234/4321/8521.m3u8
+#EXTINF:-1,N TV
+http://line.myott.net:80/live/1234/4321/38229.m3u8
+#EXTINF:-1,##### ANDERE #####
+http://line.myott.net:80/live/1234/4321/5356.m3u8
+#EXTINF:-1,JUWELO HD
+http://line.myott.net:80/live/1234/4321/56993.m3u8
+#EXTINF:-1,PEARL TV HD
+http://line.myott.net:80/live/1234/4321/56991.m3u8
+#EXTINF:-1,123TV HD
+http://line.myott.net:80/live/1234/4321/56982.m3u8
+#EXTINF:-1,ANIXE HD
+http://line.myott.net:80/live/1234/4321/56989.m3u8
+#EXTINF:-1,QVC HD
+http://line.myott.net:80/live/1234/4321/56986.m3u8
+#EXTINF:-1,QVC2 HD
+http://line.myott.net:80/live/1234/4321/56985.m3u8
+#EXTINF:-1,HSE 24 HD
+http://line.myott.net:80/live/1234/4321/56988.m3u8
+#EXTINF:-1,HSE 24 EXTRA HD
+http://line.myott.net:80/live/1234/4321/56980.m3u8
+#EXTINF:-1,MDR CRINGEN HD
+http://line.myott.net:80/live/1234/4321/57002.m3u8
+#EXTINF:-1,MDR S-ANHALT HD
+http://line.myott.net:80/live/1234/4321/57004.m3u8
+#EXTINF:-1,MDR SACHSEN HD
+http://line.myott.net:80/live/1234/4321/57003.m3u8
+#EXTINF:-1,WDR AACHEN HD
+http://line.myott.net:80/live/1234/4321/56998.m3u8
+#EXTINF:-1,WDR BONN HD
+http://line.myott.net:80/live/1234/4321/56997.m3u8
+#EXTINF:-1,WDR DUISBURG HD
+http://line.myott.net:80/live/1234/4321/56996.m3u8
+#EXTINF:-1,RBB BERLIN HD
+http://line.myott.net:80/live/1234/4321/57001.m3u8
+#EXTINF:-1,RBB BRANDEN BURG HD
+http://line.myott.net:80/live/1234/4321/57000.m3u8
+#EXTINF:-1,SONNENKLAR HD
+http://line.myott.net:80/live/1234/4321/56990.m3u8
+#EXTINF:-1,WDR WUPPERTAL HD
+http://line.myott.net:80/live/1234/4321/56995.m3u8
+#EXTINF:-1,WELT HD
+http://line.myott.net:80/live/1234/4321/56984.m3u8
+#EXTINF:-1,HEIMAT KANAL
+http://line.myott.net:80/live/1234/4321/567.m3u8
+#EXTINF:-1,CLASSICA
+http://line.myott.net:80/live/1234/4321/38239.m3u8
+#EXTINF:-1,##### SPORT #####
+http://line.myott.net:80/live/1234/4321/5352.m3u8
+#EXTINF:-1,SKY SPORT NEWS HD
+http://line.myott.net:80/live/1234/4321/586.m3u8
+#EXTINF:-1,SPORT 1+ HD
+http://line.myott.net:80/live/1234/4321/8510.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+http://line.myott.net:80/live/1234/4321/3713.m3u8
+#EXTINF:-1,EUROSPORT 2 HD
+http://line.myott.net:80/live/1234/4321/3714.m3u8
+#EXTINF:-1,EUROSPORT 2  XTRA HD
+http://line.myott.net:80/live/1234/4321/48423.m3u8
+#EXTINF:-1,MOTORVISION
+http://line.myott.net:80/live/1234/4321/3716.m3u8
+#EXTINF:-1,DAZN 1 BAR HD
+http://line.myott.net:80/live/1234/4321/47004.m3u8
+#EXTINF:-1,DAZN 2 BAR HD
+http://line.myott.net:80/live/1234/4321/47005.m3u8
+#EXTINF:-1,SKY SPORT 1 HD
+http://line.myott.net:80/live/1234/4321/582.m3u8
+#EXTINF:-1,SKY SPORT 2 HD
+http://line.myott.net:80/live/1234/4321/8509.m3u8
+#EXTINF:-1,SKY SPORT 1
+http://line.myott.net:80/live/1234/4321/8511.m3u8
+#EXTINF:-1,SKY SPORT 2
+http://line.myott.net:80/live/1234/4321/3052.m3u8
+#EXTINF:-1,SKY BUNDESLIGA 1 HD
+http://line.myott.net:80/live/1234/4321/2563.m3u8
+#EXTINF:-1,SKY BUNDESLIGA 2 HD (ON MATCH TIME)
+http://line.myott.net:80/live/1234/4321/2564.m3u8
+#EXTINF:-1,SKY BUNDESLIGA 3 HD (ON MATCH TIME)
+http://line.myott.net:80/live/1234/4321/2565.m3u8
+#EXTINF:-1,SKY BUNDESLIGA 4 HD (ON MATCH TIME)
+http://line.myott.net:80/live/1234/4321/2566.m3u8
+#EXTINF:-1,SKY BUNDESLIGA 5 HD (ON MATCH TIME)
+http://line.myott.net:80/live/1234/4321/2567.m3u8
+#EXTINF:-1,SKY BUNDESLIGA 6 HD (ON MATCH TIME)
+http://line.myott.net:80/live/1234/4321/2568.m3u8
+#EXTINF:-1,SKY BUNDESLIGA 7 HD (ON MATCH TIME)
+http://line.myott.net:80/live/1234/4321/2569.m3u8
+#EXTINF:-1,SKY BUNDESLIGA 8 HD (ON MATCH TIME)
+http://line.myott.net:80/live/1234/4321/2570.m3u8
+#EXTINF:-1,SKY BUNDESLIGA 9 HD (ON MATCH TIME)
+http://line.myott.net:80/live/1234/4321/2571.m3u8
+#EXTINF:-1,SKY BUNDESLIGA 10 HD (ON MATCH TIME)
+http://line.myott.net:80/live/1234/4321/3724.m3u8
