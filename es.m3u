@@ -1,75 +1,191 @@
 #EXTM3U
-#EXTINF:-1,AXN White
-http://123orca.com:25461/amina2/amina2/5529
-#EXTINF:-1,Antenna 3
-http://123orca.com:25461/amina2/amina2/5527
-#EXTINF:-1,Fox Life'
-http://123orca.com:25461/amina2/amina2/5554
-#EXTINF:-1,BLAZE
-http://123orca.com:25461/amina2/amina2/5525
-#EXTINF:-1,Calle 13
-http://123orca.com:25461/amina2/amina2/5534
-#EXTINF:-1,Clan TVE
-http://123orca.com:25461/amina2/amina2/5541
-#EXTINF:-1,Cuatro
-http://123orca.com:25461/amina2/amina2/5545
-#EXTINF:-1,Divinity
-http://123orca.com:25461/amina2/amina2/5549
-#EXTINF:-1,Energy
-http://123orca.com:25461/amina2/amina2/5550
-#EXTINF:-1,FDF
-http://123orca.com:25461/amina2/amina2/5553
-#EXTINF:-1,Iberalia Tv
-http://123orca.com:25461/amina2/amina2/5558
-#EXTINF:-1,LA 1
-http://123orca.com:25461/amina2/amina2/5559
+#EXTINF:-1,LA 1 HD
+http://line.myott.net:80/live/1234/4321/36547.m3u8
 #EXTINF:-1,LA 2
-http://123orca.com:25461/amina2/amina2/5560
-#EXTINF:-1,La Sexta
-http://123orca.com:25461/amina2/amina2/5561
-#EXTINF:-1,Cosmo
-http://123orca.com:25461/amina2/amina2/5563
-#EXTINF:-1,Neox
-http://123orca.com:25461/amina2/amina2/5581
-#EXTINF:-1,Fox'
-http://123orca.com:25461/amina2/amina2/5633
+http://line.myott.net:80/live/1234/4321/36551.m3u8
 #EXTINF:-1,NOVA
-http://123orca.com:25461/amina2/amina2/5583
-#EXTINF:-1,Paramount
-http://123orca.com:25461/amina2/amina2/5584
-#EXTINF:-1,TeleCinco
-http://123orca.com:25461/amina2/amina2/5587
-#EXTINF:-1,VIAJAR
-http://123orca.com:25461/amina2/amina2/5589
-#EXTINF:-1,Caza y Pesca
-http://123orca.com:25461/amina2/amina2/5540
-#EXTINF:-1,Historia
-http://123orca.com:25461/amina2/amina2/5557
-#EXTINF:-1,NatGeo' Wild
-http://123orca.com:25461/amina2/amina2/5579
-#EXTINF:-1,National' Geographic
-http://123orca.com:25461/amina2/amina2/5580
-#EXTINF:-1,DISCOVERY'
-http://123orca.com:25461/amina2/amina2/5632
-#EXTINF:-1,Hollywood'
-http://123orca.com:25461/amina2/amina2/5634
-#EXTINF:-1,M. Toros
-http://123orca.com:25461/amina2/amina2/5631
-#EXTINF:-1,SyFy'
-http://123orca.com:25461/amina2/amina2/5635
-#EXTINF:-1,TNT'
-http://123orca.com:25461/amina2/amina2/5636
-#EXTINF:-1,AMC
-http://123orca.com:25461/amina2/amina2/5526
-#EXTINF:-1,BOING'
-http://123orca.com:25461/amina2/amina2/5630
-#EXTINF:-1,Aragón TV
-http://123orca.com:25461/amina2/amina2/5528
-#EXTINF:-1,BabyTV
-http://123orca.com:25461/amina2/amina2/5530
-#EXTINF:-1,Disney' Channel
-http://123orca.com:25461/amina2/amina2/5546
-#EXTINF:-1,Disney' Junior
-http://123orca.com:25461/amina2/amina2/5547
-#EXTINF:-1,Disney' XD
-http://123orca.com:25461/amina2/amina2/5548
+http://line.myott.net:80/live/1234/4321/37021.m3u8
+#EXTINF:-1,LA SEXTA HD
+http://line.myott.net:80/live/1234/4321/36534.m3u8
+#EXTINF:-1,ANTENA 3 HD
+http://line.myott.net:80/live/1234/4321/36536.m3u8
+#EXTINF:-1,CUATRO HD
+http://line.myott.net:80/live/1234/4321/36535.m3u8
+#EXTINF:-1,TELECINCO HD
+http://line.myott.net:80/live/1234/4321/36531.m3u8
+#EXTINF:-1,CANAL 24 HORAS
+http://line.myott.net:80/live/1234/4321/36549.m3u8
+#EXTINF:-1,24 HORAS
+http://line.myott.net:80/live/1234/4321/36485.m3u8
+#EXTINF:-1,TVE INTERNACIONAL
+http://line.myott.net:80/live/1234/4321/36550.m3u8
+#EXTINF:-1,FDF
+http://line.myott.net:80/live/1234/4321/36490.m3u8
+#EXTINF:-1,CLAN TVE
+http://line.myott.net:80/live/1234/4321/36491.m3u8
+#EXTINF:-1,HOLLYWOOD HD
+http://line.myott.net:80/live/1234/4321/36541.m3u8
+#EXTINF:-1,IBERALIA
+http://line.myott.net:80/live/1234/4321/36475.m3u8
+#EXTINF:-1,MEGA HD
+http://line.myott.net:80/live/1234/4321/37185.m3u8
+#EXTINF:-1, ##### NINOS #####
+http://line.myott.net:80/live/1234/4321/5384.m3u8
+#EXTINF:-1,BABY TV
+http://line.myott.net:80/live/1234/4321/36504.m3u8
+#EXTINF:-1,BOING
+http://line.myott.net:80/live/1234/4321/36502.m3u8
+#EXTINF:-1,CANAL PANDA
+http://line.myott.net:80/live/1234/4321/36466.m3u8
+#EXTINF:-1,COMEDY CENTRAL HD
+http://line.myott.net:80/live/1234/4321/36515.m3u8
+#EXTINF:-1,DISNEY HD
+http://line.myott.net:80/live/1234/4321/36521.m3u8
+#EXTINF:-1,DISNEY JR
+http://line.myott.net:80/live/1234/4321/36476.m3u8
+#EXTINF:-1,DISNEY XD
+http://line.myott.net:80/live/1234/4321/36480.m3u8
+#EXTINF:-1,NICKELODEON  HD
+http://line.myott.net:80/live/1234/4321/36525.m3u8
+#EXTINF:-1, ##### ENTRETENIMIENTO  #####
+http://line.myott.net:80/live/1234/4321/5381.m3u8
+#EXTINF:-1,FOX HD
+http://line.myott.net:80/live/1234/4321/36542.m3u8
+#EXTINF:-1,FOX LIFE HD
+http://line.myott.net:80/live/1234/4321/36513.m3u8
+#EXTINF:-1,FOX NEWS
+http://line.myott.net:80/live/1234/4321/36498.m3u8
+#EXTINF:-1,0 HD
+http://line.myott.net:80/live/1234/4321/36523.m3u8
+#EXTINF:-1,AMC HD
+http://line.myott.net:80/live/1234/4321/36537.m3u8
+#EXTINF:-1,ARAGON
+http://line.myott.net:80/live/1234/4321/36468.m3u8
+#EXTINF:-1,AXN
+http://line.myott.net:80/live/1234/4321/36477.m3u8
+#EXTINF:-1,AXN HD
+http://line.myott.net:80/live/1234/4321/36548.m3u8
+#EXTINF:-1,AXN WHITE HD
+http://line.myott.net:80/live/1234/4321/36510.m3u8
+#EXTINF:-1,SYFY HD
+http://line.myott.net:80/live/1234/4321/36506.m3u8
+#EXTINF:-1,TCM HD
+http://line.myott.net:80/live/1234/4321/36518.m3u8
+#EXTINF:-1,TNT HD
+http://line.myott.net:80/live/1234/4321/36517.m3u8
+#EXTINF:-1,BE MAD
+http://line.myott.net:80/live/1234/4321/36467.m3u8
+#EXTINF:-1,BLAZE
+http://line.myott.net:80/live/1234/4321/36484.m3u8
+#EXTINF:-1,CALLE 13 HD
+http://line.myott.net:80/live/1234/4321/36530.m3u8
+#EXTINF:-1,CANAL COCINA
+http://line.myott.net:80/live/1234/4321/36488.m3u8
+#EXTINF:-1,CANAL DECASA
+http://line.myott.net:80/live/1234/4321/36494.m3u8
+#EXTINF:-1,CANAL ODISEA
+http://line.myott.net:80/live/1234/4321/36493.m3u8
+#EXTINF:-1,CANAL SUR
+http://line.myott.net:80/live/1234/4321/36483.m3u8
+#EXTINF:-1,CAZA Y PESCA HD
+http://line.myott.net:80/live/1234/4321/36522.m3u8
+#EXTINF:-1,CLASSICA
+http://line.myott.net:80/live/1234/4321/36473.m3u8
+#EXTINF:-1,COSMO HD
+http://line.myott.net:80/live/1234/4321/36514.m3u8
+#EXTINF:-1,CRIMEN Y INVES
+http://line.myott.net:80/live/1234/4321/36482.m3u8
+#EXTINF:-1,DIVINITY
+http://line.myott.net:80/live/1234/4321/36501.m3u8
+#EXTINF:-1,ENERGY
+http://line.myott.net:80/live/1234/4321/36500.m3u8
+#EXTINF:-1,##### SPORTS #####
+http://line.myott.net:80/live/1234/4321/5388.m3u8
+#EXTINF:-1,LA LIGA 123 TV HD
+http://line.myott.net:80/live/1234/4321/51268.m3u8
+#EXTINF:-1,M.CAMPEONES HD
+http://line.myott.net:80/live/1234/4321/36516.m3u8
+#EXTINF:-1,LA LIGA TV HD
+http://line.myott.net:80/live/1234/4321/36546.m3u8
+#EXTINF:-1,LA LIGA HD
+http://line.myott.net:80/live/1234/4321/36543.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+http://line.myott.net:80/live/1234/4321/36529.m3u8
+#EXTINF:-1,EUROSPORT 1
+http://line.myott.net:80/live/1234/4321/36499.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://line.myott.net:80/live/1234/4321/36471.m3u8
+#EXTINF:-1,FORMULA 1 HD
+http://line.myott.net:80/live/1234/4321/36533.m3u8
+#EXTINF:-1,GOL
+http://line.myott.net:80/live/1234/4321/36497.m3u8
+#EXTINF:-1,BAR TV
+http://line.myott.net:80/live/1234/4321/36503.m3u8
+#EXTINF:-1,R. MADRID TV
+http://line.myott.net:80/live/1234/4321/36465.m3u8
+#EXTINF:-1,TOROS HD
+http://line.myott.net:80/live/1234/4321/36524.m3u8
+#EXTINF:-1,M. FORMULA 1
+http://line.myott.net:80/live/1234/4321/36495.m3u8
+#EXTINF:-1,M. FTBOL HD
+http://line.myott.net:80/live/1234/4321/36538.m3u8
+#EXTINF:-1,M. GOLF HD
+http://line.myott.net:80/live/1234/4321/36512.m3u8
+#EXTINF:-1,M. PARTIDAZO HD (ONLY DURING LIVE MATCHES)
+http://line.myott.net:80/live/1234/4321/36544.m3u8
+#EXTINF:-1, ##### MOVIESTAR #####
+http://line.myott.net:80/live/1234/4321/5380.m3u8
+#EXTINF:-1,M. ACCION HD
+http://line.myott.net:80/live/1234/4321/36540.m3u8
+#EXTINF:-1,M. CINE ESP
+http://line.myott.net:80/live/1234/4321/36478.m3u8
+#EXTINF:-1,M. COMEDIA HD
+http://line.myott.net:80/live/1234/4321/36545.m3u8
+#EXTINF:-1,M. DCINE HD
+http://line.myott.net:80/live/1234/4321/36539.m3u8
+#EXTINF:-1,M. DISNEY
+http://line.myott.net:80/live/1234/4321/36496.m3u8
+#EXTINF:-1,M. ESTRENOS HD
+http://line.myott.net:80/live/1234/4321/36507.m3u8
+#EXTINF:-1,M. SERIES HD
+http://line.myott.net:80/live/1234/4321/36520.m3u8
+#EXTINF:-1,M. SERIES XTRA HD
+http://line.myott.net:80/live/1234/4321/36511.m3u8
+#EXTINF:-1,M. XTRA HD
+http://line.myott.net:80/live/1234/4321/36508.m3u8
+#EXTINF:-1, ##### DEPORTES #####
+http://line.myott.net:80/live/1234/4321/5382.m3u8
+#EXTINF:-1,M. DEP2 HD
+http://line.myott.net:80/live/1234/4321/36509.m3u8
+#EXTINF:-1,M. DEPORTE 1 HD
+http://line.myott.net:80/live/1234/4321/36528.m3u8
+#EXTINF:-1,TELE DEPORTE
+http://line.myott.net:80/live/1234/4321/36486.m3u8
+#EXTINF:-1, ##### MUSICA #####
+http://line.myott.net:80/live/1234/4321/5385.m3u8
+#EXTINF:-1,MEZZO LIVE HD
+http://line.myott.net:80/live/1234/4321/36527.m3u8
+#EXTINF:-1,MOTOGP HD
+http://line.myott.net:80/live/1234/4321/36532.m3u8
+#EXTINF:-1,MTV ROCKS
+http://line.myott.net:80/live/1234/4321/36474.m3u8
+#EXTINF:-1, ##### CULTURA #####
+http://line.myott.net:80/live/1234/4321/5383.m3u8
+#EXTINF:-1,DISCOVERY
+http://line.myott.net:80/live/1234/4321/36481.m3u8
+#EXTINF:-1,NAT GEO HD
+http://line.myott.net:80/live/1234/4321/36526.m3u8
+#EXTINF:-1,NAT GEO WILD
+http://line.myott.net:80/live/1234/4321/36489.m3u8
+#EXTINF:-1,NAT WILD HD
+http://line.myott.net:80/live/1234/4321/36519.m3u8
+#EXTINF:-1,NEOX
+http://line.myott.net:80/live/1234/4321/36470.m3u8
+#EXTINF:-1,PARAMOUNT
+http://line.myott.net:80/live/1234/4321/36472.m3u8
+#EXTINF:-1,VH1
+http://line.myott.net:80/live/1234/4321/36469.m3u8
+#EXTINF:-1,VIAJAR HD
+http://line.myott.net:80/live/1234/4321/36505.m3u8
+#EXTINF:-1,HISTORIA
+http://line.myott.net:80/live/1234/4321/36479.m3u8

@@ -1,115 +1,465 @@
 #EXTM3U
-#EXTINF:-1, HBO 2 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/653.ts
-#EXTINF:-1, HBO 3 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/654.ts
-#EXTINF:-1,13TH STREET
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/660.ts
-#EXTINF:-1,24KITCHEN
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/690.ts
-#EXTINF:-1,ANIMAL PLANET
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/691.ts
-#EXTINF:-1,AT 5
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/677.ts
-#EXTINF:-1,BOOMERANG
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/688.ts
-#EXTINF:-1,CARTON NETWORK
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/689.ts
-#EXTINF:-1,COMEDY CENTRAL
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/661.ts
-#EXTINF:-1,CRIME&INVESTIGATION
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/695.ts
-#EXTINF:-1,DISCOVERY CHANNEL HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/694.ts
-#EXTINF:-1,DISNEY CHANNEL HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/683.ts
-#EXTINF:-1,DISNEY JUNIOR
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/682.ts
-#EXTINF:-1,E! HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/696.ts
-#EXTINF:-1,FILM 1 ACTION HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/655.ts
-#EXTINF:-1,FILM 1 COMEDY
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/658.ts
-#EXTINF:-1,FILM 1 PREMIERE HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/656.ts
-#EXTINF:-1,FILM 1 SPOTLIGHT
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/659.ts
-#EXTINF:-1,FILM 1 SUNDANCE HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/657.ts
-#EXTINF:-1,FOX HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/662.ts
-#EXTINF:-1,FOX SPORTS 1 Full HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/698.ts
-#EXTINF:-1,FOX SPORTS 2 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/699.ts
-#EXTINF:-1,FOX SPORTS 3 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/700.ts
-#EXTINF:-1,FOX SPORTS 4 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/701.ts
-#EXTINF:-1,FOX SPORTS 5 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/702.ts
-#EXTINF:-1,FOX SPORTS 6 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/703.ts
-#EXTINF:-1,HBO 1 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/652.ts
-#EXTINF:-1,JIMJAM
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/680.ts
-#EXTINF:-1,KETNET
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/679.ts
-#EXTINF:-1,MTV HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/697.ts
-#EXTINF:-1,NAT GEO WILD HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/692.ts
-#EXTINF:-1,NATIONAL GEO HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/693.ts
-#EXTINF:-1,NET 5
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/676.ts
-#EXTINF:-1,NICK JR HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/685.ts
-#EXTINF:-1,NICK TOONS
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/686.ts
-#EXTINF:-1,NICKELODEON
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/687.ts
-#EXTINF:-1,NPO 1
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/664.ts
-#EXTINF:-1,NPO 2
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/665.ts
-#EXTINF:-1,NPO 3
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/666.ts
-#EXTINF:-1,ONS
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/681.ts
+#EXTINF:-1,NPO 1 HD
+http://line.myott.net:80/live/1234/4321/740.m3u8
+#EXTINF:-1,NPO 2 HD
+http://line.myott.net:80/live/1234/4321/741.m3u8
+#EXTINF:-1,NPO 3 HD
+http://line.myott.net:80/live/1234/4321/742.m3u8
 #EXTINF:-1,RTL 4 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/667.ts
+http://line.myott.net:80/live/1234/4321/743.m3u8
 #EXTINF:-1,RTL 5 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/668.ts
-#EXTINF:-1,RTL 7 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/669.ts
-#EXTINF:-1,RTL 8 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/670.ts
-#EXTINF:-1,RTL CRIME
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/672.ts
-#EXTINF:-1,RTL LOUNGE
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/673.ts
-#EXTINF:-1,RTL Z HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/671.ts
-#EXTINF:-1,RTV OOST
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/678.ts
+http://line.myott.net:80/live/1234/4321/744.m3u8
 #EXTINF:-1,SBS 6 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/674.ts
+http://line.myott.net:80/live/1234/4321/745.m3u8
+#EXTINF:-1,RTL 7 HD
+http://line.myott.net:80/live/1234/4321/747.m3u8
+#EXTINF:-1,RTL 8 HD
+http://line.myott.net:80/live/1234/4321/746.m3u8
 #EXTINF:-1,SBS 9 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/675.ts
-#EXTINF:-1,TLC
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/663.ts
+http://line.myott.net:80/live/1234/4321/750.m3u8
+#EXTINF:-1,NET 5 HD
+http://line.myott.net:80/live/1234/4321/749.m3u8
 #EXTINF:-1,VERONICA DISNEY XD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/684.ts
-#EXTINF:-1,ZIGGO SPORT EXTRA 1
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/706.ts
-#EXTINF:-1,ZIGGO SPORT GOLF
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/704.ts
-#EXTINF:-1,ZIGGO SPORT RACING
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/705.ts
+http://line.myott.net:80/live/1234/4321/758.m3u8
+#EXTINF:-1,RTL Z HD
+http://line.myott.net:80/live/1234/4321/748.m3u8
+#EXTINF:-1,NPO ZAP/EXTRA
+http://line.myott.net:80/live/1234/4321/3343.m3u8
+#EXTINF:-1,NPO NIEUWS
+http://line.myott.net:80/live/1234/4321/3338.m3u8
+#EXTINF:-1,NPO POLITIEK
+http://line.myott.net:80/live/1234/4321/2652.m3u8
+#EXTINF:-1,COMEDY CENTRAL HD
+http://line.myott.net:80/live/1234/4321/759.m3u8
+#EXTINF:-1,COMEDY CENTRAL EXTRA
+http://line.myott.net:80/live/1234/4321/3337.m3u8
+#EXTINF:-1,SPIKE HD
+http://line.myott.net:80/live/1234/4321/2660.m3u8
+#EXTINF:-1,FOX
+http://line.myott.net:80/live/1234/4321/755.m3u8
+#EXTINF:-1,BVN
+http://line.myott.net:80/live/1234/4321/69024.m3u8
+#EXTINF:-1,##### KINDEREN | HD #####
+http://line.myott.net:80/live/1234/4321/20606.m3u8
+#EXTINF:-1,NICKELODEON
+http://line.myott.net:80/live/1234/4321/761.m3u8
+#EXTINF:-1,NICKTOONS
+http://line.myott.net:80/live/1234/4321/757.m3u8
+#EXTINF:-1,KETNET
+http://line.myott.net:80/live/1234/4321/2897.m3u8
+#EXTINF:-1,DISNEY XD
+http://line.myott.net:80/live/1234/4321/3335.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://line.myott.net:80/live/1234/4321/763.m3u8
+#EXTINF:-1,DISNEY JUNIOR
+http://line.myott.net:80/live/1234/4321/756.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://line.myott.net:80/live/1234/4321/760.m3u8
+#EXTINF:-1,BOOMERANG
+http://line.myott.net:80/live/1234/4321/762.m3u8
+#EXTINF:-1,PEBBLE TV
+http://line.myott.net:80/live/1234/4321/2643.m3u8
+#EXTINF:-1,RTL TELEKIDS
+http://line.myott.net:80/live/1234/4321/3348.m3u8
+#EXTINF:-1,NICK JUNIOR
+http://line.myott.net:80/live/1234/4321/1445.m3u8
+#EXTINF:-1,BABY TV
+http://line.myott.net:80/live/1234/4321/764.m3u8
+#EXTINF:-1,##### MUZIEK | HD #####
+http://line.myott.net:80/live/1234/4321/20602.m3u8
+#EXTINF:-1,DUTCH RAP
+http://line.myott.net:80/live/1234/4321/46753.m3u8
+#EXTINF:-1,DUTCH HITS
+http://line.myott.net:80/live/1234/4321/47007.m3u8
+#EXTINF:-1,DUTCH HOUSE
+http://line.myott.net:80/live/1234/4321/47008.m3u8
+#EXTINF:-1,192 TV
+http://line.myott.net:80/live/1234/4321/2670.m3u8
+#EXTINF:-1,MTV HD
+http://line.myott.net:80/live/1234/4321/15513.m3u8
+#EXTINF:-1,MTV BRANDNEW
+http://line.myott.net:80/live/1234/4321/15560.m3u8
+#EXTINF:-1,MTV LIVE HD
+http://line.myott.net:80/live/1234/4321/3189.m3u8
+#EXTINF:-1,MTV MUSIC 24
+http://line.myott.net:80/live/1234/4321/3188.m3u8
+#EXTINF:-1,VH1 CLASSIC
+http://line.myott.net:80/live/1234/4321/15558.m3u8
+#EXTINF:-1,DANCE TRIPPIN HD
+http://line.myott.net:80/live/1234/4321/15572.m3u8
+#EXTINF:-1,XITE HD
+http://line.myott.net:80/live/1234/4321/15514.m3u8
+#EXTINF:-1,NICK MUSIC
+http://line.myott.net:80/live/1234/4321/3345.m3u8
+#EXTINF:-1,TV ORANJE
+http://line.myott.net:80/live/1234/4321/2663.m3u8
+#EXTINF:-1,MEZZO
+http://line.myott.net:80/live/1234/4321/2651.m3u8
+#EXTINF:-1,100% NL TV
+http://line.myott.net:80/live/1234/4321/27822.m3u8
+#EXTINF:-1,SLAM! TV HD
+http://line.myott.net:80/live/1234/4321/27818.m3u8
+#EXTINF:-1,TV 538
+http://line.myott.net:80/live/1234/4321/27824.m3u8
+#EXTINF:-1,##### FILMS EN SERIES | HD #####
+http://line.myott.net:80/live/1234/4321/20607.m3u8
+#EXTINF:-1,FILM 1 ACTION HD
+http://line.myott.net:80/live/1234/4321/783.m3u8
+#EXTINF:-1,FILM 1 PREMIERE HD
+http://line.myott.net:80/live/1234/4321/785.m3u8
+#EXTINF:-1,FILM 1 DRAMA HD
+http://line.myott.net:80/live/1234/4321/2647.m3u8
+#EXTINF:-1,FILM 1 FAMILY HD
+http://line.myott.net:80/live/1234/4321/2648.m3u8
+#EXTINF:-1,FILM 1 EUROPE HD
+http://line.myott.net:80/live/1234/4321/56973.m3u8
+#EXTINF:-1,HBO 1 HD
+http://line.myott.net:80/live/1234/4321/772.m3u8
+#EXTINF:-1,HBO 2
+http://line.myott.net:80/live/1234/4321/773.m3u8
+#EXTINF:-1,HBO 3
+http://line.myott.net:80/live/1234/4321/774.m3u8
+#EXTINF:-1,##### INTERTAINMENT | HD #####
+http://line.myott.net:80/live/1234/4321/20604.m3u8
+#EXTINF:-1,RTL LOUNGE HD
+http://line.myott.net:80/live/1234/4321/752.m3u8
+#EXTINF:-1,RTL CRIME HD
+http://line.myott.net:80/live/1234/4321/3342.m3u8
+#EXTINF:-1,CRIME INVESTIGATION
+http://line.myott.net:80/live/1234/4321/3344.m3u8
+#EXTINF:-1,E! HD
+http://line.myott.net:80/live/1234/4321/2668.m3u8
+#EXTINF:-1,TLC
+http://line.myott.net:80/live/1234/4321/751.m3u8
+#EXTINF:-1,FASHION TV HD
+http://line.myott.net:80/live/1234/4321/15562.m3u8
+#EXTINF:-1,24 KITCHEN
+http://line.myott.net:80/live/1234/4321/753.m3u8
+#EXTINF:-1,VICELAND HD
+http://line.myott.net:80/live/1234/4321/15516.m3u8
+#EXTINF:-1,ONS
+http://line.myott.net:80/live/1234/4321/2654.m3u8
+#EXTINF:-1,OUT TV HD
+http://line.myott.net:80/live/1234/4321/56974.m3u8
+#EXTINF:-1,FAMILY 7 KIDS
+http://line.myott.net:80/live/1234/4321/35965.m3u8
+#EXTINF:-1,##### NATUUR | HD #####
+http://line.myott.net:80/live/1234/4321/20603.m3u8
+#EXTINF:-1,NGC HD
+http://line.myott.net:80/live/1234/4321/765.m3u8
+#EXTINF:-1,NGC WILD HD
+http://line.myott.net:80/live/1234/4321/2653.m3u8
+#EXTINF:-1,ANIMAL PLANET HD
+http://line.myott.net:80/live/1234/4321/2669.m3u8
+#EXTINF:-1,DISCOVERY HD
+http://line.myott.net:80/live/1234/4321/767.m3u8
+#EXTINF:-1,DISCOVERY WORLD
+http://line.myott.net:80/live/1234/4321/2645.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://line.myott.net:80/live/1234/4321/2644.m3u8
+#EXTINF:-1,DISCOVERY INVESTIGATION HD
+http://line.myott.net:80/live/1234/4321/766.m3u8
+#EXTINF:-1,HISTORY HD
+http://line.myott.net:80/live/1234/4321/2649.m3u8
+#EXTINF:-1,HORSE AND COUNTRY TV HD
+http://line.myott.net:80/live/1234/4321/27820.m3u8
+#EXTINF:-1,##### SPORT | HD #####
+http://line.myott.net:80/live/1234/4321/20608.m3u8
+#EXTINF:-1,FOX SPORTS 1 HD
+http://line.myott.net:80/live/1234/4321/2956.m3u8
+#EXTINF:-1,FOX SPORTS 2 HD
+http://line.myott.net:80/live/1234/4321/776.m3u8
+#EXTINF:-1,FOX SPORTS 3 HD
+http://line.myott.net:80/live/1234/4321/777.m3u8
+#EXTINF:-1,FOX SPORTS 4 HD
+http://line.myott.net:80/live/1234/4321/778.m3u8
+#EXTINF:-1,FOX SPORTS 5 HD
+http://line.myott.net:80/live/1234/4321/779.m3u8
+#EXTINF:-1,FOX SPORTS 6 HD
+http://line.myott.net:80/live/1234/4321/780.m3u8
+#EXTINF:-1,ZIGGO SPORT HD
+http://line.myott.net:80/live/1234/4321/3336.m3u8
+#EXTINF:-1,ZIGGO SPORT VOETBAL HD
+http://line.myott.net:80/live/1234/4321/771.m3u8
 #EXTINF:-1,ZIGGO SPORT SELECT HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/708.ts
-#EXTINF:-1,ZIGGO SPORT VOETBAL
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/707.ts
+http://line.myott.net:80/live/1234/4321/770.m3u8
+#EXTINF:-1,ZIGGO SPORT RACING HD
+http://line.myott.net:80/live/1234/4321/1450.m3u8
+#EXTINF:-1,ZIGGO SPORT GOLF HD
+http://line.myott.net:80/live/1234/4321/769.m3u8
+#EXTINF:-1,ZIGGO SPORT EXTRA 1 HD
+http://line.myott.net:80/live/1234/4321/2666.m3u8
+#EXTINF:-1,ZIGGO SPORT EXTRA 2 HD
+http://line.myott.net:80/live/1234/4321/2667.m3u8
+#EXTINF:-1,EXTREME SPORT
+http://line.myott.net:80/live/1234/4321/3346.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+http://line.myott.net:80/live/1234/4321/768.m3u8
+#EXTINF:-1,EUROSPORT 2 HD
+http://line.myott.net:80/live/1234/4321/2646.m3u8
+#EXTINF:-1,##### REGIONALE | HD #####
+http://line.myott.net:80/live/1234/4321/20610.m3u8
+#EXTINF:-1,AT 5
+http://line.myott.net:80/live/1234/4321/787.m3u8
+#EXTINF:-1,RTV UTRECHT
+http://line.myott.net:80/live/1234/4321/2659.m3u8
+#EXTINF:-1,L1 LIMBURG TV
+http://line.myott.net:80/live/1234/4321/790.m3u8
+#EXTINF:-1,TV NOORD
+http://line.myott.net:80/live/1234/4321/788.m3u8
+#EXTINF:-1,TV RIJNMOND
+http://line.myott.net:80/live/1234/4321/2664.m3u8
+#EXTINF:-1,TV GELDERLAND
+http://line.myott.net:80/live/1234/4321/2662.m3u8
+#EXTINF:-1,TV OOST
+http://line.myott.net:80/live/1234/4321/789.m3u8
+#EXTINF:-1,TV WEST
+http://line.myott.net:80/live/1234/4321/3340.m3u8
+#EXTINF:-1,TV DRENTHE
+http://line.myott.net:80/live/1234/4321/2661.m3u8
+#EXTINF:-1,OMROEP FLEVOLAND
+http://line.myott.net:80/live/1234/4321/2656.m3u8
+#EXTINF:-1,OMROEP BRABANT
+http://line.myott.net:80/live/1234/4321/2655.m3u8
+#EXTINF:-1,OMROEP ZEELAND
+http://line.myott.net:80/live/1234/4321/2657.m3u8
+#EXTINF:-1,OMROEP FRYSLAND
+http://line.myott.net:80/live/1234/4321/3341.m3u8
+#EXTINF:-1,##### BUITENLANDSE | HD #####
+http://line.myott.net:80/live/1234/4321/20605.m3u8
+#EXTINF:-1,RTV-7
+http://line.myott.net:80/live/1234/4321/56975.m3u8
+#EXTINF:-1,|CURACAO| TELE CURACAO
+http://line.myott.net:80/live/1234/4321/69282.m3u8
+#EXTINF:-1,|CURACAO| TV DIRECT13
+http://line.myott.net:80/live/1234/4321/69281.m3u8
+#EXTINF:-1,|CURACAO| CBA
+http://line.myott.net:80/live/1234/4321/69284.m3u8
+#EXTINF:-1,|CURACAO| NO SPAIS TV
+http://line.myott.net:80/live/1234/4321/69283.m3u8
+#EXTINF:-1,|ARUBA| TELE ARUBA
+http://line.myott.net:80/live/1234/4321/69285.m3u8
+#EXTINF:-1,ZDF HD
+http://line.myott.net:80/live/1234/4321/15564.m3u8
+#EXTINF:-1,ARD HD
+http://line.myott.net:80/live/1234/4321/15566.m3u8
+#EXTINF:-1,BBC FIRST HD
+http://line.myott.net:80/live/1234/4321/15568.m3u8
+#EXTINF:-1,BBC ONE HD
+http://line.myott.net:80/live/1234/4321/15512.m3u8
+#EXTINF:-1,##### NEDERLAND | HEVC (4K) #####
+http://line.myott.net:80/live/1234/4321/10445.m3u8
+#EXTINF:-1,##### COMMERCIËLE | HEVC (4K) #####
+http://line.myott.net:80/live/1234/4321/13274.m3u8
+#EXTINF:-1,|4K| NPO 1 HD
+http://line.myott.net:80/live/1234/4321/10433.m3u8
+#EXTINF:-1,|4K| NPO 2 HD
+http://line.myott.net:80/live/1234/4321/10434.m3u8
+#EXTINF:-1,|4K| NPO 3 HD
+http://line.myott.net:80/live/1234/4321/10435.m3u8
+#EXTINF:-1,|4K| RTL 4 HD
+http://line.myott.net:80/live/1234/4321/10534.m3u8
+#EXTINF:-1,|4K| RTL 5 HD
+http://line.myott.net:80/live/1234/4321/10535.m3u8
+#EXTINF:-1,|4K| SBS 6 HD
+http://line.myott.net:80/live/1234/4321/10436.m3u8
+#EXTINF:-1,|4K| RTL 7 HD
+http://line.myott.net:80/live/1234/4321/10485.m3u8
+#EXTINF:-1,|4K| RTL 8 HD
+http://line.myott.net:80/live/1234/4321/10605.m3u8
+#EXTINF:-1,|4K| SBS 9 HD
+http://line.myott.net:80/live/1234/4321/10604.m3u8
+#EXTINF:-1,|4K| NET5 HD
+http://line.myott.net:80/live/1234/4321/10487.m3u8
+#EXTINF:-1,|4K| VERONICA HD / DISNEY XD
+http://line.myott.net:80/live/1234/4321/10539.m3u8
+#EXTINF:-1,|4K| RTL Z HD
+http://line.myott.net:80/live/1234/4321/10482.m3u8
+#EXTINF:-1,|4K| FOX HD
+http://line.myott.net:80/live/1234/4321/10536.m3u8
+#EXTINF:-1,|4K| NPO ZAP/EXTRA
+http://line.myott.net:80/live/1234/4321/15531.m3u8
+#EXTINF:-1,|4K| SPIKE HD
+http://line.myott.net:80/live/1234/4321/10538.m3u8
+#EXTINF:-1,|4K| COMEDY CENTRAL HD
+http://line.myott.net:80/live/1234/4321/15570.m3u8
+#EXTINF:-1,|4K| COMEDY CENTRAL EXTRA
+http://line.myott.net:80/live/1234/4321/15536.m3u8
+#EXTINF:-1,|4K| NPO NIEUWS
+http://line.myott.net:80/live/1234/4321/15519.m3u8
+#EXTINF:-1,|4K| NPO POLITIEK
+http://line.myott.net:80/live/1234/4321/15518.m3u8
+#EXTINF:-1,##### KINDEREN | HEVC (4K) #####
+http://line.myott.net:80/live/1234/4321/13279.m3u8
+#EXTINF:-1,|4K| NICKELODEON HD
+http://line.myott.net:80/live/1234/4321/10606.m3u8
+#EXTINF:-1,|4K| NICK TOONS
+http://line.myott.net:80/live/1234/4321/15528.m3u8
+#EXTINF:-1,|4K| KETNET
+http://line.myott.net:80/live/1234/4321/15543.m3u8
+#EXTINF:-1,|4K| DISNEY XD
+http://line.myott.net:80/live/1234/4321/15530.m3u8
+#EXTINF:-1,|4K| DISNEY CHANNEL HD
+http://line.myott.net:80/live/1234/4321/10610.m3u8
+#EXTINF:-1,|4K| DISNEY JR
+http://line.myott.net:80/live/1234/4321/15529.m3u8
+#EXTINF:-1,|4K| CARTOON NETWORK
+http://line.myott.net:80/live/1234/4321/15575.m3u8
+#EXTINF:-1,|4K| BOOMERANG
+http://line.myott.net:80/live/1234/4321/15525.m3u8
+#EXTINF:-1,|4K| PEBBLE TV
+http://line.myott.net:80/live/1234/4321/15535.m3u8
+#EXTINF:-1,|4K| RTL TELEKIDS HD
+http://line.myott.net:80/live/1234/4321/10483.m3u8
+#EXTINF:-1,|4K| NICK JUNIOR
+http://line.myott.net:80/live/1234/4321/15526.m3u8
+#EXTINF:-1,|4K| BABY TV
+http://line.myott.net:80/live/1234/4321/15524.m3u8
+#EXTINF:-1,##### MUZIEK | HEVC (4K) #####
+http://line.myott.net:80/live/1234/4321/13275.m3u8
+#EXTINF:-1,|4K| 192 TV
+http://line.myott.net:80/live/1234/4321/15554.m3u8
+#EXTINF:-1,|4K| MTV HD
+http://line.myott.net:80/live/1234/4321/10607.m3u8
+#EXTINF:-1,|4K| MTV BRANDNEW
+http://line.myott.net:80/live/1234/4321/15559.m3u8
+#EXTINF:-1,|4K| MTV LIVE HD
+http://line.myott.net:80/live/1234/4321/10529.m3u8
+#EXTINF:-1,|4K| MTV MUSIC24
+http://line.myott.net:80/live/1234/4321/15517.m3u8
+#EXTINF:-1,|4K| VH1 CLASSIC
+http://line.myott.net:80/live/1234/4321/15557.m3u8
+#EXTINF:-1,|4K| VICELAND HD
+http://line.myott.net:80/live/1234/4321/10527.m3u8
+#EXTINF:-1,|4K| DANCE TRIPPIN HD
+http://line.myott.net:80/live/1234/4321/15571.m3u8
+#EXTINF:-1,|4K| XITE HD
+http://line.myott.net:80/live/1234/4321/10537.m3u8
+#EXTINF:-1,|4K| NICK MUSIC
+http://line.myott.net:80/live/1234/4321/15527.m3u8
+#EXTINF:-1,|4K| TV ORANJE
+http://line.myott.net:80/live/1234/4321/15555.m3u8
+#EXTINF:-1,|4K| ONS
+http://line.myott.net:80/live/1234/4321/15538.m3u8
+#EXTINF:-1,|4K| MEZZO
+http://line.myott.net:80/live/1234/4321/15556.m3u8
+#EXTINF:-1,|4K| 100% NL TV
+http://line.myott.net:80/live/1234/4321/27821.m3u8
+#EXTINF:-1,|4K| SLAM! TV
+http://line.myott.net:80/live/1234/4321/27817.m3u8
+#EXTINF:-1,|4K| TV 538
+http://line.myott.net:80/live/1234/4321/27823.m3u8
+#EXTINF:-1,##### FILMS EN SERIES | HEVC (4K) #####
+http://line.myott.net:80/live/1234/4321/13280.m3u8
+#EXTINF:-1,|4K| FILM1 PREMIERE HD
+http://line.myott.net:80/live/1234/4321/10595.m3u8
+#EXTINF:-1,|4K| FILM1 ACTION HD
+http://line.myott.net:80/live/1234/4321/10598.m3u8
+#EXTINF:-1,|4K| FILM1 DRAMA HD
+http://line.myott.net:80/live/1234/4321/10597.m3u8
+#EXTINF:-1,|4K| FILM1 FAMILY HD
+http://line.myott.net:80/live/1234/4321/10596.m3u8
+#EXTINF:-1,|4K| FILM 1 EUROPE HD
+http://line.myott.net:80/live/1234/4321/56976.m3u8
+#EXTINF:-1,##### INTERTAINMENT | HEVC (4K) #####
+http://line.myott.net:80/live/1234/4321/13276.m3u8
+#EXTINF:-1,|4K| RTL LOUNGE HD
+http://line.myott.net:80/live/1234/4321/10484.m3u8
+#EXTINF:-1,|4K| RTL CRIME HD
+http://line.myott.net:80/live/1234/4321/10521.m3u8
+#EXTINF:-1,|4K| CRIME INVESTIGATION
+http://line.myott.net:80/live/1234/4321/15537.m3u8
+#EXTINF:-1,|4K| E! HD
+http://line.myott.net:80/live/1234/4321/10599.m3u8
+#EXTINF:-1,|4K| TLC HD
+http://line.myott.net:80/live/1234/4321/15569.m3u8
+#EXTINF:-1,|4K| FASHION TV HD
+http://line.myott.net:80/live/1234/4321/15561.m3u8
+#EXTINF:-1,|4K| 24KITCHEN HD
+http://line.myott.net:80/live/1234/4321/10532.m3u8
+#EXTINF:-1,|4K| FAMILY 7 KIDS
+http://line.myott.net:80/live/1234/4321/35966.m3u8
+#EXTINF:-1,|4K| OUT TV HD
+http://line.myott.net:80/live/1234/4321/56977.m3u8
+#EXTINF:-1,##### NATUUR | HEVC (4K) #####
+http://line.myott.net:80/live/1234/4321/13281.m3u8
+#EXTINF:-1,|4K| NGC HD
+http://line.myott.net:80/live/1234/4321/10533.m3u8
+#EXTINF:-1,|4K| NGC WILD HD
+http://line.myott.net:80/live/1234/4321/10526.m3u8
+#EXTINF:-1,|4K| ANIMAL PLANET HD
+http://line.myott.net:80/live/1234/4321/10525.m3u8
+#EXTINF:-1,|4K| DISCOVERY HD
+http://line.myott.net:80/live/1234/4321/10531.m3u8
+#EXTINF:-1,|4K| DISCOVERY WORLD
+http://line.myott.net:80/live/1234/4321/15532.m3u8
+#EXTINF:-1,|4K| DISCOVERY SCIENCE HD
+http://line.myott.net:80/live/1234/4321/10600.m3u8
+#EXTINF:-1,|4K| DISCOVERY INVESTIGATION HD
+http://line.myott.net:80/live/1234/4321/10518.m3u8
+#EXTINF:-1,|4K| HISTORY HD
+http://line.myott.net:80/live/1234/4321/10519.m3u8
+#EXTINF:-1,|4K| HORSE COUNTRY TV
+http://line.myott.net:80/live/1234/4321/27819.m3u8
+#EXTINF:-1,##### SPORT | HEVC (4K) #####
+http://line.myott.net:80/live/1234/4321/13278.m3u8
+#EXTINF:-1,|4K| FOX SPORTS 1 HD
+http://line.myott.net:80/live/1234/4321/10439.m3u8
+#EXTINF:-1,|4K| FOX SPORTS 2 HD
+http://line.myott.net:80/live/1234/4321/10440.m3u8
+#EXTINF:-1,|4K| FOX SPORTS 3 HD
+http://line.myott.net:80/live/1234/4321/10441.m3u8
+#EXTINF:-1,|4K| FOX SPORTS 4 HD
+http://line.myott.net:80/live/1234/4321/10442.m3u8
+#EXTINF:-1,|4K| FOX SPORTS 5 HD
+http://line.myott.net:80/live/1234/4321/10443.m3u8
+#EXTINF:-1,|4K| FOX SPORTS 6 HD
+http://line.myott.net:80/live/1234/4321/10444.m3u8
+#EXTINF:-1,|4K| ZIGGO SPORT HD
+http://line.myott.net:80/live/1234/4321/10602.m3u8
+#EXTINF:-1,|4K| ZIGGO SPORT VOETBAL HD
+http://line.myott.net:80/live/1234/4321/10592.m3u8
+#EXTINF:-1,|4K| ZIGGO SPORT SELECT HD
+http://line.myott.net:80/live/1234/4321/10593.m3u8
+#EXTINF:-1,|4K| ZIGGO SPORT RACING HD
+http://line.myott.net:80/live/1234/4321/10594.m3u8
+#EXTINF:-1,|4K| ZIGGO SPORT GOLF HD
+http://line.myott.net:80/live/1234/4321/10523.m3u8
+#EXTINF:-1,|4K| ZIGGO SPORT EXTRA 1
+http://line.myott.net:80/live/1234/4321/15523.m3u8
+#EXTINF:-1,|4K| ZIGGO SPORT EXTRA 2
+http://line.myott.net:80/live/1234/4321/15522.m3u8
+#EXTINF:-1,|4K| EXTREME SPORTS
+http://line.myott.net:80/live/1234/4321/15520.m3u8
+#EXTINF:-1,|4K| EUROSPORT 1 HD
+http://line.myott.net:80/live/1234/4321/10608.m3u8
+#EXTINF:-1,|4K| EUROSPORT 2 HD
+http://line.myott.net:80/live/1234/4321/10530.m3u8
+#EXTINF:-1,##### REGIONALE | HEVC (4K) #####
+http://line.myott.net:80/live/1234/4321/20609.m3u8
+#EXTINF:-1,|4K| AT 5
+http://line.myott.net:80/live/1234/4321/15549.m3u8
+#EXTINF:-1,|4K| RTV UTRECHT
+http://line.myott.net:80/live/1234/4321/15548.m3u8
+#EXTINF:-1,|4K| L1 LIMBURG TV
+http://line.myott.net:80/live/1234/4321/15552.m3u8
+#EXTINF:-1,|4K| TV NOORD
+http://line.myott.net:80/live/1234/4321/15550.m3u8
+#EXTINF:-1,|4K| TV RIJNMOND
+http://line.myott.net:80/live/1234/4321/15546.m3u8
+#EXTINF:-1,|4K| TV GELDERLAND
+http://line.myott.net:80/live/1234/4321/15541.m3u8
+#EXTINF:-1,|4K| TV OOST
+http://line.myott.net:80/live/1234/4321/15545.m3u8
+#EXTINF:-1,|4K| TV WEST
+http://line.myott.net:80/live/1234/4321/15551.m3u8
+#EXTINF:-1,|4K| TV DRENTHE
+http://line.myott.net:80/live/1234/4321/15547.m3u8
+#EXTINF:-1,|4K| OMROEP FLEVOLAND
+http://line.myott.net:80/live/1234/4321/15540.m3u8
+#EXTINF:-1,|4K| OMROEP BRABANT
+http://line.myott.net:80/live/1234/4321/15544.m3u8
+#EXTINF:-1,|4K| OMROEP ZEELAND
+http://line.myott.net:80/live/1234/4321/15539.m3u8
+#EXTINF:-1,|4K| OMROEP FRYSLAND
+http://line.myott.net:80/live/1234/4321/15542.m3u8

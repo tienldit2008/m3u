@@ -1,205 +1,285 @@
 #EXTM3U
-#EXTINF:-1,News HD
-http://ipsatpro.com:8080/Y/1234/550
-#EXTINF:-1,RTE News
-http://ipsatpro.com:8080/Y/1234/431
-#EXTINF:-1,BBC News
-http://ipsatpro.com:8080/Y/1234/428
-#EXTINF:-1,Sports News
-http://ipsatpro.com:8080/Y/1234/549
-#EXTINF:-1,More 4 HD
-http://ipsatpro.com:8080/Y/1234/504
-#EXTINF:-1,Movies4Men
-http://ipsatpro.com:8080/Y/1234/1557
-#EXTINF:-1,Horse & Country
-http://ipsatpro.com:8080/Y/1234/1549
-#EXTINF:-1,Home
-http://ipsatpro.com:8080/Y/1234/1553
-#EXTINF:-1,Quest
-http://ipsatpro.com:8080/Y/1234/1551
-#EXTINF:-1,Really
-http://ipsatpro.com:8080/Y/1234/1552
-#EXTINF:-1,Travel Channel
-http://ipsatpro.com:8080/Y/1234/1556
-#EXTINF:-1,Horror Channel
-http://ipsatpro.com:8080/Y/1234/1548
-#EXTINF:-1,S4C
-http://ipsatpro.com:8080/Y/1234/435
-#EXTINF:-1,5 Star +1
-http://ipsatpro.com:8080/Y/1234/505
-#EXTINF:-1,CBBC HD
-http://ipsatpro.com:8080/Y/1234/430
-#EXTINF:-1,ITV 1
-http://ipsatpro.com:8080/Y/1234/471
-#EXTINF:-1,ITV 2
-http://ipsatpro.com:8080/Y/1234/470
-#EXTINF:-1,ITV 3
-http://ipsatpro.com:8080/Y/1234/469
-#EXTINF:-1,ITV 4
-http://ipsatpro.com:8080/Y/1234/468
-#EXTINF:-1,ITV Be
-http://ipsatpro.com:8080/Y/1234/429
-#EXTINF:-1,ITV Encore
-http://ipsatpro.com:8080/Y/1234/467
-#EXTINF:-1,BBC4/CBEEBIES
-http://ipsatpro.com:8080/Y/1234/433
-#EXTINF:-1,3e
-http://ipsatpro.com:8080/Y/1234/432
-#EXTINF:-1,TV3
-http://ipsatpro.com:8080/Y/1234/434
-#EXTINF:-1,CITV
-http://ipsatpro.com:8080/Y/1234/436
-#EXTINF:-1,Cbs Drama
-http://ipsatpro.com:8080/Y/1234/482
-#EXTINF:-1,Pick
-http://ipsatpro.com:8080/Y/1234/437
-#EXTINF:-1,Cbs Action
-http://ipsatpro.com:8080/Y/1234/481
-#EXTINF:-1,CBS Reality
-http://ipsatpro.com:8080/Y/1234/510
-#EXTINF:-1,BBC One HD
-http://ipsatpro.com:8080/Y/1234/488
-#EXTINF:-1,BBC Two HD
-http://ipsatpro.com:8080/Y/1234/487
-#EXTINF:-1,BBC Three HD
-http://ipsatpro.com:8080/Y/1234/486
-#EXTINF:-1,BBC Four HD
-http://ipsatpro.com:8080/Y/1234/485
-#EXTINF:-1,Channel 4 HD
-http://ipsatpro.com:8080/Y/1234/426
-#EXTINF:-1,Channel 5 HD
-http://ipsatpro.com:8080/Y/1234/427
-#EXTINF:-1,Comedy Central
-http://ipsatpro.com:8080/Y/1234/463
-#EXTINF:-1,Comedy Central Ex
-http://ipsatpro.com:8080/Y/1234/462
-#EXTINF:-1,Food Network
-http://ipsatpro.com:8080/Y/1234/495
-#EXTINF:-1,Sony Movies
-http://ipsatpro.com:8080/Y/1234/501
-#EXTINF:-1,Bloomberg HD
-http://ipsatpro.com:8080/Y/1234/457
-#EXTINF:-1,Boomerang
-http://ipsatpro.com:8080/Y/1234/444
-#EXTINF:-1,Nickelodeon
-http://ipsatpro.com:8080/Y/1234/503
-#EXTINF:-1,Nickelodeon JR
-http://ipsatpro.com:8080/Y/1234/423
-#EXTINF:-1,NickToons
-http://ipsatpro.com:8080/Y/1234/446
-#EXTINF:-1,Disney XD HD
-http://ipsatpro.com:8080/Y/1234/493
-#EXTINF:-1,Disney Junior HD
-http://ipsatpro.com:8080/Y/1234/494
-#EXTINF:-1,Disney Chaneel HD
-http://ipsatpro.com:8080/Y/1234/492
-#EXTINF:-1,Discovery Science
-http://ipsatpro.com:8080/Y/1234/526
-#EXTINF:-1,Discovery History
-http://ipsatpro.com:8080/Y/1234/491
-#EXTINF:-1,Discovery Turbo
-http://ipsatpro.com:8080/Y/1234/465
-#EXTINF:-1,Discovery Shed
-http://ipsatpro.com:8080/Y/1234/445
-#EXTINF:-1,Discovery
-http://ipsatpro.com:8080/Y/1234/464
-#EXTINF:-1,National Geographic HD
-http://ipsatpro.com:8080/Y/1234/499
-#EXTINF:-1,Nat Geo Wild HD
-http://ipsatpro.com:8080/Y/1234/498
-#EXTINF:-1,Animal Planet HD
-http://ipsatpro.com:8080/Y/1234/497
-#EXTINF:-1,History HD
-http://ipsatpro.com:8080/Y/1234/496
-#EXTINF:-1,History 2
-http://ipsatpro.com:8080/Y/1234/452
-#EXTINF:-1,Ci
-http://ipsatpro.com:8080/Y/1234/514
-#EXTINF:-1,1
-http://ipsatpro.com:8080/Y/1234/475
-#EXTINF:-1,2
-http://ipsatpro.com:8080/Y/1234/507
-#EXTINF:-1,Atlantic
-http://ipsatpro.com:8080/Y/1234/483
-#EXTINF:-1,E! Entertainment
-http://ipsatpro.com:8080/Y/1234/447
-#EXTINF:-1,VH1
-http://ipsatpro.com:8080/Y/1234/449
-#EXTINF:-1,E4
-http://ipsatpro.com:8080/Y/1234/451
-#EXTINF:-1,TG4
-http://ipsatpro.com:8080/Y/1234/422
-#EXTINF:-1,Syfy
-http://ipsatpro.com:8080/Y/1234/538
-#EXTINF:-1,CNBC
-http://ipsatpro.com:8080/Y/1234/466
-#EXTINF:-1,Dave HD
-http://ipsatpro.com:8080/Y/1234/506
-#EXTINF:-1,RTE One
-http://ipsatpro.com:8080/Y/1234/474
-#EXTINF:-1,RTE One UP
-http://ipsatpro.com:8080/Y/1234/1568
-#EXTINF:-1,RTE Two
-http://ipsatpro.com:8080/Y/1234/478
-#EXTINF:-1,RTE Two UP
-http://ipsatpro.com:8080/Y/1234/1569
-#EXTINF:-1,Fox
-http://ipsatpro.com:8080/Y/1234/460
-#EXTINF:-1,Five
-http://ipsatpro.com:8080/Y/1234/473
-#EXTINF:-1,Arts 1 HD
-http://ipsatpro.com:8080/Y/1234/489
-#EXTINF:-1,Baby
-http://ipsatpro.com:8080/Y/1234/424
-#EXTINF:-1,Eden
-http://ipsatpro.com:8080/Y/1234/425
-#EXTINF:-1,Alibi
-http://ipsatpro.com:8080/Y/1234/509
-#EXTINF:-1,Living HD
-http://ipsatpro.com:8080/Y/1234/502
-#EXTINF:-1,BoxNation
-http://ipsatpro.com:8080/Y/1234/490
-#EXTINF:-1,Racing
-http://ipsatpro.com:8080/Y/1234/458
-#EXTINF:-1,Gold
-http://ipsatpro.com:8080/Y/1234/508
+#EXTINF:-1,BEIN SPORTS UK
+http://p5.giffy.be:8080/live/cecilia/cecilia/85734.m3u8
+#EXTINF:-1, 5 STAR
+http://p5.giffy.be:8080/live/cecilia/cecilia/85749.m3u8
+#EXTINF:-1, BBC FOUR
+http://p5.giffy.be:8080/live/cecilia/cecilia/85733.m3u8
+#EXTINF:-1, BBC ONE
+http://p5.giffy.be:8080/live/cecilia/cecilia/85732.m3u8
+#EXTINF:-1, BBC ONE (opt-2)
+http://p5.giffy.be:8080/live/cecilia/cecilia/85731.m3u8
+#EXTINF:-1, BBC ONE SCOTLAND
+http://p5.giffy.be:8080/live/cecilia/cecilia/85730.m3u8
+#EXTINF:-1, BBC TWO
+http://p5.giffy.be:8080/live/cecilia/cecilia/85729.m3u8
+#EXTINF:-1, BBC WORLD NEWS
+http://p5.giffy.be:8080/live/cecilia/cecilia/85728.m3u8
+#EXTINF:-1, DAVE
+http://p5.giffy.be:8080/live/cecilia/cecilia/85709.m3u8
+#EXTINF:-1, DISCOVERY HISTORY
+http://p5.giffy.be:8080/live/cecilia/cecilia/85707.m3u8
+#EXTINF:-1, DISCOVERY SCIENCE
+http://p5.giffy.be:8080/live/cecilia/cecilia/85706.m3u8
+#EXTINF:-1, DISCOVERY SHED
+http://p5.giffy.be:8080/live/cecilia/cecilia/85705.m3u8
+#EXTINF:-1, DISCOVERY TURBO
+http://p5.giffy.be:8080/live/cecilia/cecilia/85704.m3u8
+#EXTINF:-1, DISNEY JR
+http://p5.giffy.be:8080/live/cecilia/cecilia/85702.m3u8
+#EXTINF:-1, ITV BE
+http://p5.giffy.be:8080/live/cecilia/cecilia/85679.m3u8
+#EXTINF:-1, ITV ENCORE
+http://p5.giffy.be:8080/live/cecilia/cecilia/85678.m3u8
+#EXTINF:-1, ITV1
+http://p5.giffy.be:8080/live/cecilia/cecilia/51465.m3u8
+#EXTINF:-1, ITV2
+http://p5.giffy.be:8080/live/cecilia/cecilia/51464.m3u8
+#EXTINF:-1, ITV3
+http://p5.giffy.be:8080/live/cecilia/cecilia/51463.m3u8
+#EXTINF:-1, ITV4
+http://p5.giffy.be:8080/live/cecilia/cecilia/51462.m3u8
+#EXTINF:-1, RTÉ NEWS NOW
+http://p5.giffy.be:8080/live/cecilia/cecilia/85662.m3u8
+#EXTINF:-1, SKY ATLANTIC
+http://p5.giffy.be:8080/live/cecilia/cecilia/85659.m3u8
+#EXTINF:-1, SKY CINEMA ACTION
+http://p5.giffy.be:8080/live/cecilia/cecilia/85658.m3u8
+#EXTINF:-1, SKY CINEMA COMEDY
+http://p5.giffy.be:8080/live/cecilia/cecilia/85657.m3u8
+#EXTINF:-1, SKY CINEMA FAMILY/ANIMATION
+http://p5.giffy.be:8080/live/cecilia/cecilia/85654.m3u8
+#EXTINF:-1, SKY CINEMA PREMIER
+http://p5.giffy.be:8080/live/cecilia/cecilia/85651.m3u8
+#EXTINF:-1, SKY SPORTS BOX OFFICE PPV (Live During Events Only)
+http://p5.giffy.be:8080/live/cecilia/cecilia/85643.m3u8
+#EXTINF:-1, SKY SPORTS F1
+http://p5.giffy.be:8080/live/cecilia/cecilia/85641.m3u8
+#EXTINF:-1, SKY SPORTS MAIN EVENT
+http://p5.giffy.be:8080/live/cecilia/cecilia/85638.m3u8
+#EXTINF:-1, VH1 CLASSIC
+http://p5.giffy.be:8080/live/cecilia/cecilia/85623.m3u8
+#EXTINF:-1,11 SPORTS 1
+http://p5.giffy.be:8080/live/cecilia/cecilia/85750.m3u8
+#EXTINF:-1,11 SPORTS 2
+http://p5.giffy.be:8080/live/cecilia/cecilia/85751.m3u8
 #EXTINF:-1,5 USA
-http://ipsatpro.com:8080/Y/1234/480
-#EXTINF:-1,5 star
-http://ipsatpro.com:8080/Y/1234/477
-#EXTINF:-1,life Time
-http://ipsatpro.com:8080/Y/1234/476
-#EXTINF:-1,5 Spik
-http://ipsatpro.com:8080/Y/1234/525
+http://p5.giffy.be:8080/live/cecilia/cecilia/85748.m3u8
+#EXTINF:-1,AMC
+http://p5.giffy.be:8080/live/cecilia/cecilia/85747.m3u8
+#EXTINF:-1,ARAB SPORTS 10
+http://p5.giffy.be:8080/live/cecilia/cecilia/85737.m3u8
+#EXTINF:-1,ARAB SPORTS 11
+http://p5.giffy.be:8080/live/cecilia/cecilia/85746.m3u8
+#EXTINF:-1,ARAB SPORTS 12
+http://p5.giffy.be:8080/live/cecilia/cecilia/85745.m3u8
+#EXTINF:-1,ARAB SPORTS 2
+http://p5.giffy.be:8080/live/cecilia/cecilia/85736.m3u8
+#EXTINF:-1,ARAB SPORTS 3
+http://p5.giffy.be:8080/live/cecilia/cecilia/85744.m3u8
+#EXTINF:-1,ARAB SPORTS 4
+http://p5.giffy.be:8080/live/cecilia/cecilia/85743.m3u8
+#EXTINF:-1,ARAB SPORTS 5
+http://p5.giffy.be:8080/live/cecilia/cecilia/85742.m3u8
+#EXTINF:-1,ARAB SPORTS 6
+http://p5.giffy.be:8080/live/cecilia/cecilia/85741.m3u8
+#EXTINF:-1,ARAB SPORTS 7
+http://p5.giffy.be:8080/live/cecilia/cecilia/85740.m3u8
+#EXTINF:-1,ARAB SPORTS 8
+http://p5.giffy.be:8080/live/cecilia/cecilia/85739.m3u8
+#EXTINF:-1,ARAB SPORTS 9
+http://p5.giffy.be:8080/live/cecilia/cecilia/85738.m3u8
+#EXTINF:-1,AT THE RACES
+http://p5.giffy.be:8080/live/cecilia/cecilia/85735.m3u8
+#EXTINF:-1,BE3 IRELAND
+http://p5.giffy.be:8080/live/cecilia/cecilia/85727.m3u8
+#EXTINF:-1,Bee T SPORTS 3
+http://p5.giffy.be:8080/live/cecilia/cecilia/85726.m3u8
+#EXTINF:-1,BLAZE TV ( D )
+http://p5.giffy.be:8080/live/cecilia/cecilia/85725.m3u8
+#EXTINF:-1,BOOMERANG
+http://p5.giffy.be:8080/live/cecilia/cecilia/85724.m3u8
+#EXTINF:-1,BOX NATION
+http://p5.giffy.be:8080/live/cecilia/cecilia/85723.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://p5.giffy.be:8080/live/cecilia/cecilia/85717.m3u8
+#EXTINF:-1,CBC
+http://p5.giffy.be:8080/live/cecilia/cecilia/85722.m3u8
+#EXTINF:-1,CBEEBIES
+http://p5.giffy.be:8080/live/cecilia/cecilia/85718.m3u8
+#EXTINF:-1,CBS ACTION
+http://p5.giffy.be:8080/live/cecilia/cecilia/85721.m3u8
+#EXTINF:-1,CBS DRAMA
+http://p5.giffy.be:8080/live/cecilia/cecilia/85720.m3u8
+#EXTINF:-1,CBS REALITY
+http://p5.giffy.be:8080/live/cecilia/cecilia/85719.m3u8
+#EXTINF:-1,CHALLENGE
+http://p5.giffy.be:8080/live/cecilia/cecilia/85716.m3u8
+#EXTINF:-1,CHANNEL 4
+http://p5.giffy.be:8080/live/cecilia/cecilia/85715.m3u8
+#EXTINF:-1,CHANNEL 5
+http://p5.giffy.be:8080/live/cecilia/cecilia/85714.m3u8
+#EXTINF:-1,CHELSEA TV
+http://p5.giffy.be:8080/live/cecilia/cecilia/85713.m3u8
+#EXTINF:-1,COMEDY CENTRAL
+http://p5.giffy.be:8080/live/cecilia/cecilia/85712.m3u8
+#EXTINF:-1,CRIME & INVESTIGATION
+http://p5.giffy.be:8080/live/cecilia/cecilia/85711.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://p5.giffy.be:8080/live/cecilia/cecilia/85708.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://p5.giffy.be:8080/live/cecilia/cecilia/85703.m3u8
+#EXTINF:-1,DISNEY XD
+http://p5.giffy.be:8080/live/cecilia/cecilia/85701.m3u8
+#EXTINF:-1,DMAX
+http://p5.giffy.be:8080/live/cecilia/cecilia/85710.m3u8
+#EXTINF:-1,DRAMA
+http://p5.giffy.be:8080/live/cecilia/cecilia/85700.m3u8
+#EXTINF:-1,E!
+http://p5.giffy.be:8080/live/cecilia/cecilia/85699.m3u8
+#EXTINF:-1,E4
+http://p5.giffy.be:8080/live/cecilia/cecilia/85698.m3u8
+#EXTINF:-1,EDEN
+http://p5.giffy.be:8080/live/cecilia/cecilia/85697.m3u8
+#EXTINF:-1,EIRE SPORTS 1
+http://p5.giffy.be:8080/live/cecilia/cecilia/85696.m3u8
+#EXTINF:-1,EIRE SPORTS 2
+http://p5.giffy.be:8080/live/cecilia/cecilia/85695.m3u8
+#EXTINF:-1,ESPANIA sport la liga
+http://p5.giffy.be:8080/live/cecilia/cecilia/85694.m3u8
+#EXTINF:-1,EUROSPORT 1
+http://p5.giffy.be:8080/live/cecilia/cecilia/85693.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://p5.giffy.be:8080/live/cecilia/cecilia/85692.m3u8
+#EXTINF:-1,FOOD NETWORK
+http://p5.giffy.be:8080/live/cecilia/cecilia/85690.m3u8
+#EXTINF:-1,FOX
+http://p5.giffy.be:8080/live/cecilia/cecilia/85691.m3u8
+#EXTINF:-1,GOLD
+http://p5.giffy.be:8080/live/cecilia/cecilia/85689.m3u8
+#EXTINF:-1,GOOD FOOD
+http://p5.giffy.be:8080/live/cecilia/cecilia/85688.m3u8
+#EXTINF:-1,H2
+http://p5.giffy.be:8080/live/cecilia/cecilia/85687.m3u8
+#EXTINF:-1,HISTORY CHANNEL
+http://p5.giffy.be:8080/live/cecilia/cecilia/85686.m3u8
+#EXTINF:-1,HOME
+http://p5.giffy.be:8080/live/cecilia/cecilia/85685.m3u8
+#EXTINF:-1,HORROR CHANNEL
+http://p5.giffy.be:8080/live/cecilia/cecilia/85684.m3u8
+#EXTINF:-1,ITV 1
+http://p5.giffy.be:8080/live/cecilia/cecilia/85683.m3u8
+#EXTINF:-1,ITV 2
+http://p5.giffy.be:8080/live/cecilia/cecilia/85682.m3u8
+#EXTINF:-1,ITV 3
+http://p5.giffy.be:8080/live/cecilia/cecilia/85681.m3u8
+#EXTINF:-1,ITV 4
+http://p5.giffy.be:8080/live/cecilia/cecilia/85680.m3u8
+#EXTINF:-1,KERRANG
+http://p5.giffy.be:8080/live/cecilia/cecilia/85677.m3u8
+#EXTINF:-1,LIVERPOOL
+http://p5.giffy.be:8080/live/cecilia/cecilia/85676.m3u8
+#EXTINF:-1,MORE 4
+http://p5.giffy.be:8080/live/cecilia/cecilia/85674.m3u8
+#EXTINF:-1,MOVIES 24
+http://p5.giffy.be:8080/live/cecilia/cecilia/85673.m3u8
+#EXTINF:-1,MUTV
+http://p5.giffy.be:8080/live/cecilia/cecilia/85675.m3u8
+#EXTINF:-1,NAT GEO WILD
+http://p5.giffy.be:8080/live/cecilia/cecilia/85672.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://p5.giffy.be:8080/live/cecilia/cecilia/85671.m3u8
+#EXTINF:-1,NICK JR
+http://p5.giffy.be:8080/live/cecilia/cecilia/85670.m3u8
+#EXTINF:-1,NICKELODEON
+http://p5.giffy.be:8080/live/cecilia/cecilia/85669.m3u8
+#EXTINF:-1,NICKTOONS
+http://p5.giffy.be:8080/live/cecilia/cecilia/85668.m3u8
+#EXTINF:-1,PICK TV
+http://p5.giffy.be:8080/live/cecilia/cecilia/85667.m3u8
+#EXTINF:-1,PREMIERE SPORTS
+http://p5.giffy.be:8080/live/cecilia/cecilia/85666.m3u8
+#EXTINF:-1,QUEST TV
+http://p5.giffy.be:8080/live/cecilia/cecilia/85665.m3u8
+#EXTINF:-1,RACING UK
+http://p5.giffy.be:8080/live/cecilia/cecilia/85661.m3u8
+#EXTINF:-1,RANGERS TV
+http://p5.giffy.be:8080/live/cecilia/cecilia/85660.m3u8
+#EXTINF:-1,RTÉ 1
+http://p5.giffy.be:8080/live/cecilia/cecilia/85664.m3u8
+#EXTINF:-1,RTÉ 2
+http://p5.giffy.be:8080/live/cecilia/cecilia/85663.m3u8
+#EXTINF:-1,SKY CINEMA DISNEY
+http://p5.giffy.be:8080/live/cecilia/cecilia/85656.m3u8
+#EXTINF:-1,SKY CINEMA GREATS
+http://p5.giffy.be:8080/live/cecilia/cecilia/85653.m3u8
+#EXTINF:-1,SKY CINEMA HITS
+http://p5.giffy.be:8080/live/cecilia/cecilia/85652.m3u8
+#EXTINF:-1,SKY CINEMA SCI-FI & HORROR
+http://p5.giffy.be:8080/live/cecilia/cecilia/85650.m3u8
+#EXTINF:-1,SKY CINEMA SELECT
+http://p5.giffy.be:8080/live/cecilia/cecilia/85649.m3u8
+#EXTINF:-1,SKY CINEMA THRILLER
+http://p5.giffy.be:8080/live/cecilia/cecilia/85648.m3u8
+#EXTINF:-1,SKY NEWS (D)
+http://p5.giffy.be:8080/live/cecilia/cecilia/85647.m3u8
+#EXTINF:-1,SKY ONE
+http://p5.giffy.be:8080/live/cecilia/cecilia/85646.m3u8
+#EXTINF:-1,SKY SPORTS ACTION
+http://p5.giffy.be:8080/live/cecilia/cecilia/85645.m3u8
+#EXTINF:-1,SKY SPORTS ARENA
+http://p5.giffy.be:8080/live/cecilia/cecilia/85644.m3u8
+#EXTINF:-1,SKY SPORTS CRICKET
+http://p5.giffy.be:8080/live/cecilia/cecilia/85642.m3u8
+#EXTINF:-1,SKY SPORTS FOOTBALL
+http://p5.giffy.be:8080/live/cecilia/cecilia/85640.m3u8
+#EXTINF:-1,SKY SPORTS GOLF
+http://p5.giffy.be:8080/live/cecilia/cecilia/85639.m3u8
+#EXTINF:-1,SKY SPORTS MIX
+http://p5.giffy.be:8080/live/cecilia/cecilia/85637.m3u8
+#EXTINF:-1,SKY SPORTS NEWS
+http://p5.giffy.be:8080/live/cecilia/cecilia/85636.m3u8
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE
+http://p5.giffy.be:8080/live/cecilia/cecilia/85635.m3u8
+#EXTINF:-1,SKY TWO
+http://p5.giffy.be:8080/live/cecilia/cecilia/85634.m3u8
+#EXTINF:-1,SKY WITNESS AKA LIVING
+http://p5.giffy.be:8080/live/cecilia/cecilia/85633.m3u8
+#EXTINF:-1,SKYE CINEMA DRAMA & ROMANCE
+http://p5.giffy.be:8080/live/cecilia/cecilia/85655.m3u8
 #EXTINF:-1,TCM
-http://ipsatpro.com:8080/Y/1234/459
-#EXTINF:-1,CNN
-http://ipsatpro.com:8080/Y/1234/454
-#EXTINF:-1,Dmax
-http://ipsatpro.com:8080/Y/1234/456
+http://p5.giffy.be:8080/live/cecilia/cecilia/85632.m3u8
+#EXTINF:-1,TELECOME ESPN
+http://p5.giffy.be:8080/live/cecilia/cecilia/85628.m3u8
+#EXTINF:-1,TELECOME SPORTS 1
+http://p5.giffy.be:8080/live/cecilia/cecilia/85621.m3u8
+#EXTINF:-1,TELECOME SPORTS 2
+http://p5.giffy.be:8080/live/cecilia/cecilia/85627.m3u8
+#EXTINF:-1,TELECOME SPORTS 3
+http://p5.giffy.be:8080/live/cecilia/cecilia/85626.m3u8
+#EXTINF:-1,TG4
+http://p5.giffy.be:8080/live/cecilia/cecilia/85631.m3u8
+#EXTINF:-1,TINY POP
+http://p5.giffy.be:8080/live/cecilia/cecilia/85625.m3u8
 #EXTINF:-1,TLC
-http://ipsatpro.com:8080/Y/1234/455
-#EXTINF:-1,STV
-http://ipsatpro.com:8080/Y/1234/448
-#EXTINF:-1,MTV Omga
-http://ipsatpro.com:8080/Y/1234/1550
-#EXTINF:-1,MTV Rocks HD
-http://ipsatpro.com:8080/Y/1234/442
-#EXTINF:-1,MTV Hits HD
-http://ipsatpro.com:8080/Y/1234/443
-#EXTINF:-1,MTV Dance HD
-http://ipsatpro.com:8080/Y/1234/441
-#EXTINF:-1,MTV Classic
-http://ipsatpro.com:8080/Y/1234/500
-#EXTINF:-1,MTV Base
-http://ipsatpro.com:8080/Y/1234/440
-#EXTINF:-1,Fine Living Network
-http://ipsatpro.com:8080/Y/1234/1544
-#EXTINF:-1,Dil Se
-http://ipsatpro.com:8080/Y/1234/1543
-#EXTINF:-1,VH1 Classic
-http://ipsatpro.com:8080/Y/1234/450
-#EXTINF:-1,VIVA the Hits
-http://ipsatpro.com:8080/Y/1234/439
-#EXTINF:-1,Kronehit TV
-http://ipsatpro.com:8080/Y/1234/1545
+http://p5.giffy.be:8080/live/cecilia/cecilia/85630.m3u8
+#EXTINF:-1,TV3 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/85629.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL
+http://p5.giffy.be:8080/live/cecilia/cecilia/85624.m3u8
+#EXTINF:-1,W(atch)
+http://p5.giffy.be:8080/live/cecilia/cecilia/85622.m3u8
+#EXTINF:-1,BT SPORTS 1 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/91591.m3u8
+#EXTINF:-1,BT SPORTS 2 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/91592.m3u8
+#EXTINF:-1,BT SPORTS 3 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/91593.m3u8
+#EXTINF:-1,UKR: FUTBOL 1HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/29621.m3u8
+#EXTINF:-1,UKR: FUTBOL 2HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/26589.m3u8
+#EXTINF:-1,UKR: SPORT 1
+http://p5.giffy.be:8080/live/cecilia/cecilia/26588.m3u8
+#EXTINF:-1,UKR: SPORT 2
+http://p5.giffy.be:8080/live/cecilia/cecilia/26587.m3u8
