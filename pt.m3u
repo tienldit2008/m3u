@@ -1,75 +1,291 @@
 #EXTM3U
-#EXTINF:-1,24 Kitchen HD
-http://123orca.com:25461/amina2/amina2/5014
-#EXTINF:-1,Axn. Black HD
-http://123orca.com:25461/amina2/amina2/5048
-#EXTINF:-1,AXN. HD
-http://123orca.com:25461/amina2/amina2/5050
-#EXTINF:-1,Axn. White HD
-http://123orca.com:25461/amina2/amina2/5049
-#EXTINF:-1,RTP 1
-http://123orca.com:25461/amina2/amina2/5076
-#EXTINF:-1,RTP 2
-http://123orca.com:25461/amina2/amina2/5075
-#EXTINF:-1,RTP 3
-http://123orca.com:25461/amina2/amina2/5074
-#EXTINF:-1,RTP  Acores
-http://123orca.com:25461/amina2/amina2/5070
-#EXTINF:-1,RTP Africa
-http://123orca.com:25461/amina2/amina2/5071
-#EXTINF:-1,RTP Madeira
-http://123orca.com:25461/amina2/amina2/5072
-#EXTINF:-1,RTP Memoria
-http://123orca.com:25461/amina2/amina2/5073
-#EXTINF:-1,TV Cine 1HD
-http://123orca.com:25461/amina2/amina2/5060
-#EXTINF:-1,TV Cine 2
-http://123orca.com:25461/amina2/amina2/5059
-#EXTINF:-1,TV Cine 3
-http://123orca.com:25461/amina2/amina2/5058
-#EXTINF:-1,TV Cine 4
-http://123orca.com:25461/amina2/amina2/5057
-#EXTINF:-1,TV  Series
-http://123orca.com:25461/amina2/amina2/5061
-#EXTINF:-1,TV. Globo
-http://123orca.com:25461/amina2/amina2/5020
-#EXTINF:-1,TV Record
-http://123orca.com:25461/amina2/amina2/5041
-#EXTINF:-1,TV Urbana
-http://123orca.com:25461/amina2/amina2/5038
-#EXTINF:-1,TVE/TV Cultura
-http://123orca.com:25461/amina2/amina2/5040
-#EXTINF:-1,TVI
-http://123orca.com:25461/amina2/amina2/5042
-#EXTINF:-1,E! Entertainment
-http://123orca.com:25461/amina2/amina2/5044
-#EXTINF:-1,Discovery. Showcase HD
-http://123orca.com:25461/amina2/amina2/5023
-#EXTINF:-1,National Geographic .Wild
-http://123orca.com:25461/amina2/amina2/5001
-#EXTINF:-1,Disney. Junior
-http://123orca.com:25461/amina2/amina2/5064
-#EXTINF:-1,Fox.Comedy
-http://123orca.com:25461/amina2/amina2/5053
-#EXTINF:-1,Fox Crime HD.
-http://123orca.com:25461/amina2/amina2/5054
-#EXTINF:-1,Fox. HD
-http://123orca.com:25461/amina2/amina2/5056
-#EXTINF:-1,Fox. Life HD
-http://123orca.com:25461/amina2/amina2/5052
-#EXTINF:-1,Fox .Movies
-http://123orca.com:25461/amina2/amina2/5055
-#EXTINF:-1,Benfica TV1
-http://123orca.com:25461/amina2/amina2/5069
-#EXTINF:-1,Benfica TV 2
-http://123orca.com:25461/amina2/amina2/5068
-#EXTINF:-1,Sport TV 1HD
-http://123orca.com:25461/amina2/amina2/5035
-#EXTINF:-1,Sport TV 2HD
-http://123orca.com:25461/amina2/amina2/5034
-#EXTINF:-1,Sport TV 3HD
-http://123orca.com:25461/amina2/amina2/5033
-#EXTINF:-1,Sport TV 4HD
-http://123orca.com:25461/amina2/amina2/5032
-#EXTINF:-1,Sport TV 5HD
-http://123orca.com:25461/amina2/amina2/5031
+#EXTINF:0, Fox Crime
+http://fonte.iptvmaishd.com:25461/4247/4247/125888
+#EXTINF:0, Historia
+http://fonte.iptvmaishd.com:25461/4247/4247/125889
+#EXTINF:0,24 KITCHEN
+http://fonte.iptvmaishd.com:25461/4247/4247/125890
+#EXTINF:0,A & E
+http://fonte.iptvmaishd.com:25461/4247/4247/125891
+#EXTINF:0,A BOLA TV
+http://fonte.iptvmaishd.com:25461/4247/4247/125892
+#EXTINF:0,Abola TV
+http://fonte.iptvmaishd.com:25461/4247/4247/125827
+#EXTINF:0,AMC
+http://fonte.iptvmaishd.com:25461/4247/4247/125893
+#EXTINF:0,AMC HD 1080
+http://fonte.iptvmaishd.com:25461/4247/4247/125886
+#EXTINF:0,ARTV
+http://fonte.iptvmaishd.com:25461/4247/4247/125829
+#EXTINF:0,AXN
+http://fonte.iptvmaishd.com:25461/4247/4247/125894
+#EXTINF:0,AXN BLACK HD 1080
+http://fonte.iptvmaishd.com:25461/4247/4247/125885
+#EXTINF:0,AXN HD 1080
+http://fonte.iptvmaishd.com:25461/4247/4247/125884
+#EXTINF:0,AXN WHITE
+http://fonte.iptvmaishd.com:25461/4247/4247/125895
+#EXTINF:0,AXN WHITE HD 1080
+http://fonte.iptvmaishd.com:25461/4247/4247/125883
+#EXTINF:0,Baby First
+http://fonte.iptvmaishd.com:25461/4247/4247/125825
+#EXTINF:0,BABY TV
+http://fonte.iptvmaishd.com:25461/4247/4247/125896
+#EXTINF:0,BENFICA TV 1
+http://fonte.iptvmaishd.com:25461/4247/4247/125897
+#EXTINF:0,Benfica TV 1 backup
+http://fonte.iptvmaishd.com:25461/4247/4247/125841
+#EXTINF:0,BENFICA TV 2
+http://fonte.iptvmaishd.com:25461/4247/4247/125898
+#EXTINF:0,BTV 1 HD 1080
+http://fonte.iptvmaishd.com:25461/4247/4247/125882
+#EXTINF:0,CA«A & PESCA
+http://fonte.iptvmaishd.com:25461/4247/4247/125899
+#EXTINF:0,CAÁAVISION
+http://fonte.iptvmaishd.com:25461/4247/4247/125828
+#EXTINF:0,CANAL HIST”RIA
+http://fonte.iptvmaishd.com:25461/4247/4247/125900
+#EXTINF:0,CANAL PANDA
+http://fonte.iptvmaishd.com:25461/4247/4247/125901
+#EXTINF:0,CANAL Q
+http://fonte.iptvmaishd.com:25461/4247/4247/125902
+#EXTINF:0,CARTOON  NETWORK
+http://fonte.iptvmaishd.com:25461/4247/4247/125903
+#EXTINF:0,CBS REALITY
+http://fonte.iptvmaishd.com:25461/4247/4247/125904
+#EXTINF:0,CINEMUNDO
+http://fonte.iptvmaishd.com:25461/4247/4247/125905
+#EXTINF:0,CM TV
+http://fonte.iptvmaishd.com:25461/4247/4247/125906
+#EXTINF:0,DISCOVERY CHANNEL
+http://fonte.iptvmaishd.com:25461/4247/4247/125907
+#EXTINF:0,DISCOVERY HD 1080 SHOWCASE
+http://fonte.iptvmaishd.com:25461/4247/4247/125856
+#EXTINF:0,Discovery HD Showcase
+http://fonte.iptvmaishd.com:25461/4247/4247/125908
+#EXTINF:0,DISNEY CHANNEL
+http://fonte.iptvmaishd.com:25461/4247/4247/125909
+#EXTINF:0,DISNEY JUNIOR
+http://fonte.iptvmaishd.com:25461/4247/4247/125910
+#EXTINF:0,DOG TV
+http://fonte.iptvmaishd.com:25461/4247/4247/125822
+#EXTINF:0,EUROSPORT
+http://fonte.iptvmaishd.com:25461/4247/4247/125912
+#EXTINF:0,Eurosport 1
+http://fonte.iptvmaishd.com:25461/4247/4247/125857
+#EXTINF:0,EUROSPORT 1 HD 1080
+http://fonte.iptvmaishd.com:25461/4247/4247/125881
+#EXTINF:0,EUROSPORT 2
+http://fonte.iptvmaishd.com:25461/4247/4247/125821
+#EXTINF:0,Eurosport new
+http://fonte.iptvmaishd.com:25461/4247/4247/125858
+#EXTINF:0,FASHION TV
+http://fonte.iptvmaishd.com:25461/4247/4247/125855
+#EXTINF:0,FIGHT NETWORK HD 1080
+http://fonte.iptvmaishd.com:25461/4247/4247/125880
+#EXTINF:0,Fine Living Network HD 1080
+http://fonte.iptvmaishd.com:25461/4247/4247/125854
+#EXTINF:0,Fox Comedy
+http://fonte.iptvmaishd.com:25461/4247/4247/125913
+#EXTINF:0,FOX Comedy HD 1080
+http://fonte.iptvmaishd.com:25461/4247/4247/125879
+#EXTINF:0,FOX CRIME
+http://fonte.iptvmaishd.com:25461/4247/4247/125914
+#EXTINF:0,FOX CRIME HD 1080
+http://fonte.iptvmaishd.com:25461/4247/4247/125878
+#EXTINF:0,FOX HD 1080
+http://fonte.iptvmaishd.com:25461/4247/4247/125877
+#EXTINF:0,FOX LIFE
+http://fonte.iptvmaishd.com:25461/4247/4247/125915
+#EXTINF:0,FOX LIFE HD 1080
+http://fonte.iptvmaishd.com:25461/4247/4247/125876
+#EXTINF:0,FOX MOVIES
+http://fonte.iptvmaishd.com:25461/4247/4247/125916
+#EXTINF:0,FOX Movies HD 1080
+http://fonte.iptvmaishd.com:25461/4247/4247/125853
+#EXTINF:0,FOX TV
+http://fonte.iptvmaishd.com:25461/4247/4247/125917
+#EXTINF:0,FUEL TV
+http://fonte.iptvmaishd.com:25461/4247/4247/125918
+#EXTINF:0,FUEL TV HD 1080
+http://fonte.iptvmaishd.com:25461/4247/4247/125875
+#EXTINF:0,GLOBO
+http://fonte.iptvmaishd.com:25461/4247/4247/125919
+#EXTINF:0,HOLLYWOOD
+http://fonte.iptvmaishd.com:25461/4247/4247/125920
+#EXTINF:0,HOLLYWOOD HD 1080
+http://fonte.iptvmaishd.com:25461/4247/4247/125852
+#EXTINF:0,JIM JAM
+http://fonte.iptvmaishd.com:25461/4247/4247/125921
+#EXTINF:0,MCS EXTREME
+http://fonte.iptvmaishd.com:25461/4247/4247/125820
+#EXTINF:0,MCS LIFESTYLE
+http://fonte.iptvmaishd.com:25461/4247/4247/125819
+#EXTINF:0,MOTORS TV
+http://fonte.iptvmaishd.com:25461/4247/4247/125922
+#EXTINF:0,MOTORVISION
+http://fonte.iptvmaishd.com:25461/4247/4247/125923
+#EXTINF:0,MOTORVISION TV
+http://fonte.iptvmaishd.com:25461/4247/4247/125924
+#EXTINF:0,MOV HD
+http://fonte.iptvmaishd.com:25461/4247/4247/125925
+#EXTINF:0,MOV HD 1080
+http://fonte.iptvmaishd.com:25461/4247/4247/125851
+#EXTINF:0,Nat Geo Wild
+http://fonte.iptvmaishd.com:25461/4247/4247/125929
+#EXTINF:0,Nat Geo Wild HD 1080
+http://fonte.iptvmaishd.com:25461/4247/4247/125850
+#EXTINF:0,NATIONAL GEOGRAPHIC
+http://fonte.iptvmaishd.com:25461/4247/4247/125928
+#EXTINF:0,NATIONAL GEOGRAPHIC HD 1080
+http://fonte.iptvmaishd.com:25461/4247/4247/125849
+#EXTINF:0,NICKELODEON
+http://fonte.iptvmaishd.com:25461/4247/4247/125930
+#EXTINF:0,ODISSEIA
+http://fonte.iptvmaishd.com:25461/4247/4247/125931
+#EXTINF:0,Outdoor Channel HD 1080
+http://fonte.iptvmaishd.com:25461/4247/4247/125848
+#EXTINF:0,Panda Biggs
+http://fonte.iptvmaishd.com:25461/4247/4247/125844
+#EXTINF:0,PFC
+http://fonte.iptvmaishd.com:25461/4247/4247/125932
+#EXTINF:0,PORTO CANAL
+http://fonte.iptvmaishd.com:25461/4247/4247/125933
+#EXTINF:0,RTP 1
+http://fonte.iptvmaishd.com:25461/4247/4247/125934
+#EXTINF:0,RTP 2
+http://fonte.iptvmaishd.com:25461/4247/4247/125935
+#EXTINF:0,RTP 3
+http://fonte.iptvmaishd.com:25461/4247/4247/125936
+#EXTINF:0,RTP A«ORES
+http://fonte.iptvmaishd.com:25461/4247/4247/125937
+#EXTINF:0,RTP ¡FRICA
+http://fonte.iptvmaishd.com:25461/4247/4247/125938
+#EXTINF:0,RTP MADEIRA
+http://fonte.iptvmaishd.com:25461/4247/4247/125887
+#EXTINF:0,RTP MEM”RIA
+http://fonte.iptvmaishd.com:25461/4247/4247/125939
+#EXTINF:0,Sic
+http://fonte.iptvmaishd.com:25461/4247/4247/125940
+#EXTINF:0,SIC MULHER
+http://fonte.iptvmaishd.com:25461/4247/4247/125941
+#EXTINF:0,SIC NOTICIAS
+http://fonte.iptvmaishd.com:25461/4247/4247/125942
+#EXTINF:0,SIC NOTICIAS HD 1080
+http://fonte.iptvmaishd.com:25461/4247/4247/125874
+#EXTINF:0,SIC RADICAL
+http://fonte.iptvmaishd.com:25461/4247/4247/125943
+#EXTINF:0,SIC RADICAL HD 1080
+http://fonte.iptvmaishd.com:25461/4247/4247/125873
+#EXTINF:0,SPORT TV
+http://fonte.iptvmaishd.com:25461/4247/4247/125872
+#EXTINF:0,SPORT TV   HD 1080
+http://fonte.iptvmaishd.com:25461/4247/4247/125871
+#EXTINF:0,Sport TV  backup
+http://fonte.iptvmaishd.com:25461/4247/4247/125840
+#EXTINF:0,SPORT TV  HD 1080
+http://fonte.iptvmaishd.com:25461/4247/4247/125847
+#EXTINF:0,Sport TV 1 backup
+http://fonte.iptvmaishd.com:25461/4247/4247/125839
+#EXTINF:0,SPORT TV 1 HD
+http://fonte.iptvmaishd.com:25461/4247/4247/125944
+#EXTINF:0,SPORT TV 1 HD 1080
+http://fonte.iptvmaishd.com:25461/4247/4247/125870
+#EXTINF:0,Sport TV 1 HD backup
+http://fonte.iptvmaishd.com:25461/4247/4247/125838
+#EXTINF:0,Sport TV 2 backup
+http://fonte.iptvmaishd.com:25461/4247/4247/125837
+#EXTINF:0,SPORT TV 2 HD
+http://fonte.iptvmaishd.com:25461/4247/4247/125945
+#EXTINF:0,SPORT TV 2 HD 1080
+http://fonte.iptvmaishd.com:25461/4247/4247/125869
+#EXTINF:0,Sport TV 2 HD backup
+http://fonte.iptvmaishd.com:25461/4247/4247/125836
+#EXTINF:0,SPORT TV 2 HD(1)
+http://fonte.iptvmaishd.com:25461/4247/4247/125971
+#EXTINF:0,Sport TV 3 backup
+http://fonte.iptvmaishd.com:25461/4247/4247/125835
+#EXTINF:0,SPORT TV 3 HD
+http://fonte.iptvmaishd.com:25461/4247/4247/125946
+#EXTINF:0,SPORT TV 3 HD 1080
+http://fonte.iptvmaishd.com:25461/4247/4247/125868
+#EXTINF:0,Sport TV 3 HD backup
+http://fonte.iptvmaishd.com:25461/4247/4247/125834
+#EXTINF:0,SPORT TV 3HD
+http://fonte.iptvmaishd.com:25461/4247/4247/125859
+#EXTINF:0,SPORT TV 4
+http://fonte.iptvmaishd.com:25461/4247/4247/125947
+#EXTINF:0,Sport TV 4 backup
+http://fonte.iptvmaishd.com:25461/4247/4247/125833
+#EXTINF:0,SPORT TV 4 HD 1080
+http://fonte.iptvmaishd.com:25461/4247/4247/125867
+#EXTINF:0,Sport TV 4 HD backup
+http://fonte.iptvmaishd.com:25461/4247/4247/125832
+#EXTINF:0,SPORT TV 4HD
+http://fonte.iptvmaishd.com:25461/4247/4247/125948
+#EXTINF:0,SPORT TV 5
+http://fonte.iptvmaishd.com:25461/4247/4247/125949
+#EXTINF:0,Sport TV 5 backup
+http://fonte.iptvmaishd.com:25461/4247/4247/125831
+#EXTINF:0,SPORT TV 5 HD 1080
+http://fonte.iptvmaishd.com:25461/4247/4247/125866
+#EXTINF:0,Sport TV 5 HD backup
+http://fonte.iptvmaishd.com:25461/4247/4247/125830
+#EXTINF:0,SPORT TV 5HD
+http://fonte.iptvmaishd.com:25461/4247/4247/125950
+#EXTINF:0,SPORTING TV
+http://fonte.iptvmaishd.com:25461/4247/4247/125951
+#EXTINF:0,Sporting TV HD 1080
+http://fonte.iptvmaishd.com:25461/4247/4247/125865
+#EXTINF:0,SUNDANCE HD 1080
+http://fonte.iptvmaishd.com:25461/4247/4247/125846
+#EXTINF:0,SYFY
+http://fonte.iptvmaishd.com:25461/4247/4247/125952
+#EXTINF:0,SyFy HD 1080
+http://fonte.iptvmaishd.com:25461/4247/4247/125864
+#EXTINF:0,TLC
+http://fonte.iptvmaishd.com:25461/4247/4247/125953
+#EXTINF:0,TOUROS TV
+http://fonte.iptvmaishd.com:25461/4247/4247/125954
+#EXTINF:0,TRAVEL CHANNEL HD 1080
+http://fonte.iptvmaishd.com:25461/4247/4247/125845
+#EXTINF:0,TV CINE 1  HD
+http://fonte.iptvmaishd.com:25461/4247/4247/125955
+#EXTINF:0,TV CINE 2  HD
+http://fonte.iptvmaishd.com:25461/4247/4247/125956
+#EXTINF:0,TV CINE 3 HD
+http://fonte.iptvmaishd.com:25461/4247/4247/125957
+#EXTINF:0,TV CINE 4
+http://fonte.iptvmaishd.com:25461/4247/4247/125958
+#EXTINF:0,TV GALICIA
+http://fonte.iptvmaishd.com:25461/4247/4247/125818
+#EXTINF:0,TV GLOBO
+http://fonte.iptvmaishd.com:25461/4247/4247/125959
+#EXTINF:0,TV Globo Premium
+http://fonte.iptvmaishd.com:25461/4247/4247/125960
+#EXTINF:0,TV RECORD
+http://fonte.iptvmaishd.com:25461/4247/4247/125961
+#EXTINF:0,TVC HD
+http://fonte.iptvmaishd.com:25461/4247/4247/125962
+#EXTINF:0,TVCINE 1 HD 1080
+http://fonte.iptvmaishd.com:25461/4247/4247/125863
+#EXTINF:0,TVCINE 2 HD 1080
+http://fonte.iptvmaishd.com:25461/4247/4247/125862
+#EXTINF:0,TVCINE 3 HD 1080
+http://fonte.iptvmaishd.com:25461/4247/4247/125861
+#EXTINF:0,TVCINE 4 HD 1080
+http://fonte.iptvmaishd.com:25461/4247/4247/125860
+#EXTINF:0,TVCseries
+http://fonte.iptvmaishd.com:25461/4247/4247/125963
+#EXTINF:0,TVI
+http://fonte.iptvmaishd.com:25461/4247/4247/125964
+#EXTINF:0,TVI 24
+http://fonte.iptvmaishd.com:25461/4247/4247/125965
+#EXTINF:0,TVI FHD
+http://fonte.iptvmaishd.com:25461/4247/4247/125842
+#EXTINF:0,TVI Fic
+http://fonte.iptvmaishd.com:25461/4247/4247/125843
+#EXTINF:0,TVI REALITY
+http://fonte.iptvmaishd.com:25461/4247/4247/125966
+#EXTINF:0,PT:SPORT TV 1 HD
+http://fonte.iptvmaishd.com:25461/4247/4247/125970
