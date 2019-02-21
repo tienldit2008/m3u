@@ -1,297 +1,599 @@
 #EXTM3U
-#EXTINF:0,TF1
-http://123orca.com:25461/live/amina2/amina2/5520.m3u8
-#EXTINF:0,TF1 Series Films
-http://123orca.com:25461/live/amina2/amina2/5502.m3u8
-#EXTINF:0,TFX
-http://123orca.com:25461/live/amina2/amina2/5510.m3u8
-#EXTINF:0,M6
-http://123orca.com:25461/live/amina2/amina2/5519.m3u8
-#EXTINF:0,6TER
-http://123orca.com:25461/live/amina2/amina2/5503.m3u8
-#EXTINF:0,W9
-http://123orca.com:25461/live/amina2/amina2/5512.m3u8
-#EXTINF:0,C8
-http://123orca.com:25461/live/amina2/amina2/5504.m3u8
-#EXTINF:0,FRANCE 2
-http://123orca.com:25461/live/amina2/amina2/5518.m3u8
-#EXTINF:0,FRANCE 3
-http://123orca.com:25461/live/amina2/amina2/5517.m3u8
-#EXTINF:0,FRANCE 4
-http://123orca.com:25461/live/amina2/amina2/5516.m3u8
-#EXTINF:0,FRANCE 5
-http://123orca.com:25461/live/amina2/amina2/5515.m3u8
-#EXTINF:0,FRANCE O
-http://123orca.com:25461/live/amina2/amina2/5514.m3u8
-#EXTINF:0,FRANCE INFO
-http://123orca.com:25461/live/amina2/amina2/5513.m3u8
-#EXTINF:0,Euronews
-http://123orca.com:25461/live/amina2/amina2/3324.m3u8
-#EXTINF:0,TV5 MONDE
-http://123orca.com:25461/live/amina2/amina2/3325.m3u8
-#EXTINF:0,CANAL NEWS
-http://123orca.com:25461/live/amina2/amina2/5431.m3u8
-#EXTINF:0,LCP
-http://123orca.com:25461/live/amina2/amina2/3373.m3u8
-#EXTINF:0,LCI
-http://123orca.com:25461/live/amina2/amina2/9432.m3u8
-#EXTINF:0,Arte
-http://123orca.com:25461/live/amina2/amina2/5507.m3u8
-#EXTINF:0,BFM TV
-http://123orca.com:25461/live/amina2/amina2/5432.m3u8
-#EXTINF:0,BFM Business
-http://123orca.com:25461/live/amina2/amina2/5433.m3u8
-#EXTINF:0,Paris Premiere
-http://123orca.com:25461/live/amina2/amina2/3320.m3u8
-#EXTINF:0,13Ëme RUE
-http://123orca.com:25461/live/amina2/amina2/5479.m3u8
-#EXTINF:0,RMC Story
-http://123orca.com:25461/live/amina2/amina2/5508.m3u8
-#EXTINF:0,TV Breizh
-http://123orca.com:25461/live/amina2/amina2/5419.m3u8
-#EXTINF:0,ComÈdie
-http://123orca.com:25461/live/amina2/amina2/5430.m3u8
-#EXTINF:0,Elle Girl
-http://123orca.com:25461/live/amina2/amina2/5428.m3u8
-#EXTINF:0,SÈrie Club
-http://123orca.com:25461/live/amina2/amina2/5482.m3u8
-#EXTINF:0,Syfy
-http://123orca.com:25461/live/amina2/amina2/3316.m3u8
-#EXTINF:0,Teva
-http://123orca.com:25461/live/amina2/amina2/6282.m3u8
-#EXTINF:0,ChÈrie 25
-http://123orca.com:25461/live/amina2/amina2/5505.m3u8
-#EXTINF:0,TMC
-http://123orca.com:25461/live/amina2/amina2/5511.m3u8
-#EXTINF:0,TCM CinÈma
-http://123orca.com:25461/live/amina2/amina2/5477.m3u8
-#EXTINF:0,Paramount Channel
-http://123orca.com:25461/live/amina2/amina2/5484.m3u8
-#EXTINF:0,Action
-http://123orca.com:25461/live/amina2/amina2/5481.m3u8
-#EXTINF:0,Canal+
-http://123orca.com:25461/live/amina2/amina2/12071.m3u8
-#EXTINF:0,Canal+ CinÈma
-http://123orca.com:25461/live/amina2/amina2/12073.m3u8
-#EXTINF:0,Canal+ SÈries
-http://123orca.com:25461/live/amina2/amina2/12066.m3u8
-#EXTINF:0,Canal+ DÈcalÈ
-http://123orca.com:25461/live/amina2/amina2/5495.m3u8
-#EXTINF:0,Canal+ Family
-http://123orca.com:25461/live/amina2/amina2/5494.m3u8
-#EXTINF:0,CinÈ+ Frisson
-http://123orca.com:25461/live/amina2/amina2/5487.m3u8
-#EXTINF:0,CinÈ+ Emotion
-http://123orca.com:25461/live/amina2/amina2/5489.m3u8
-#EXTINF:0,CinÈ+ Classic
-http://123orca.com:25461/live/amina2/amina2/5491.m3u8
-#EXTINF:0,CinÈ+ Premier
-http://123orca.com:25461/live/amina2/amina2/5492.m3u8
-#EXTINF:0,CinÈ+ Famiz
-http://123orca.com:25461/live/amina2/amina2/5488.m3u8
-#EXTINF:0,Cine Club
-http://123orca.com:25461/live/amina2/amina2/8590.m3u8
-#EXTINF:0,OCS City
-http://123orca.com:25461/live/amina2/amina2/3347.m3u8
-#EXTINF:0,OCS MAX
-http://123orca.com:25461/live/amina2/amina2/3348.m3u8
-#EXTINF:0,OCS CHOC
-http://123orca.com:25461/live/amina2/amina2/3346.m3u8
-#EXTINF:0,OCS Geants
-http://123orca.com:25461/live/amina2/amina2/3345.m3u8
-#EXTINF:0,SFR Action
-http://123orca.com:25461/live/amina2/amina2/8705.m3u8
-#EXTINF:0,SFR_Horror
-http://123orca.com:25461/live/amina2/amina2/8708.m3u8
-#EXTINF:0,SFR Comedy
-http://123orca.com:25461/live/amina2/amina2/8706.m3u8
-#EXTINF:0,SFR SCI-FI
-http://123orca.com:25461/live/amina2/amina2/8707.m3u8
-#EXTINF:0,altice STUDIO
-http://123orca.com:25461/live/amina2/amina2/9470.m3u8
-#EXTINF:0,Sundance TV
-http://123orca.com:25461/live/amina2/amina2/8712.m3u8
-#EXTINF:0,RTL9
-http://123orca.com:25461/live/amina2/amina2/5478.m3u8
-#EXTINF:0,AB1
-http://123orca.com:25461/live/amina2/amina2/5480.m3u8
-#EXTINF:0,RT FRANCE
-http://123orca.com:25461/live/amina2/amina2/11574.m3u8
-#EXTINF:0,RMC DÈcouverte
-http://123orca.com:25461/live/amina2/amina2/5501.m3u8
-#EXTINF:0,Chasse et Peche
-http://123orca.com:25461/live/amina2/amina2/3333.m3u8
-#EXTINF:0,UshuaÔa
-http://123orca.com:25461/live/amina2/amina2/5457.m3u8
-#EXTINF:0,Animaux
-http://123orca.com:25461/live/amina2/amina2/5455.m3u8
-#EXTINF:0,Seasons
-http://123orca.com:25461/live/amina2/amina2/5456.m3u8
-#EXTINF:0,My Cuisine
-http://123orca.com:25461/live/amina2/amina2/9389.m3u8
-#EXTINF:0,Voyage
-http://123orca.com:25461/live/amina2/amina2/5450.m3u8
-#EXTINF:0,TREK
-http://123orca.com:25461/live/amina2/amina2/5420.m3u8
-#EXTINF:0,E!
-http://123orca.com:25461/live/amina2/amina2/3274.m3u8
-#EXTINF:0,PlanËte+
-http://123orca.com:25461/live/amina2/amina2/5462.m3u8
-#EXTINF:0,PlanËte+ CI
-http://123orca.com:25461/live/amina2/amina2/5460.m3u8
-#EXTINF:0,PlanËte+ A&E
-http://123orca.com:25461/live/amina2/amina2/5461.m3u8
-#EXTINF:0,Science & Vie
-http://123orca.com:25461/live/amina2/amina2/5454.m3u8
-#EXTINF:0,Crime District
-http://123orca.com:25461/live/amina2/amina2/9415.m3u8
-#EXTINF:0,Histoire
-http://123orca.com:25461/live/amina2/amina2/5453.m3u8
-#EXTINF:0,Toute.l'histoire
-http://123orca.com:25461/live/amina2/amina2/3330.m3u8
-#EXTINF:0,Discovery
-http://123orca.com:25461/live/amina2/amina2/5452.m3u8
-#EXTINF:0,Discovery Science
-http://123orca.com:25461/live/amina2/amina2/5451.m3u8
-#EXTINF:0,Discovery Investigation
-http://123orca.com:25461/live/amina2/amina2/3303.m3u8
-#EXTINF:0,NatGeo Wild
-http://123orca.com:25461/live/amina2/amina2/5459.m3u8
-#EXTINF:0,National Geographic
-http://123orca.com:25461/live/amina2/amina2/5458.m3u8
-#EXTINF:0,Weo
-http://123orca.com:25461/live/amina2/amina2/3315.m3u8
-#EXTINF:0,Canal+ Sport
-http://123orca.com:25461/live/amina2/amina2/12072.m3u8
-#EXTINF:0,RMC Sport 1
-http://123orca.com:25461/live/amina2/amina2/12069.m3u8
-#EXTINF:0,RMC Sport 2
-http://123orca.com:25461/live/amina2/amina2/5472.m3u8
-#EXTINF:0,RMC Sport 3
-http://123orca.com:25461/live/amina2/amina2/5471.m3u8
-#EXTINF:0,RMC Sport 4
-http://123orca.com:25461/live/amina2/amina2/5470.m3u8
-#EXTINF:0,Bein Sport HD 1
-http://123orca.com:25461/live/amina2/amina2/12070.m3u8
-#EXTINF:0,Bein Sport HD 2
-http://123orca.com:25461/live/amina2/amina2/12074.m3u8
-#EXTINF:0,Bein Sport HD 3
-http://123orca.com:25461/live/amina2/amina2/12065.m3u8
-#EXTINF:0,beIN Sports max 4 HD
-http://123orca.com:25461/live/amina2/amina2/3285.m3u8
-#EXTINF:0,beIN Sports max 5 HD
-http://123orca.com:25461/live/amina2/amina2/3284.m3u8
-#EXTINF:0,beIN Sports max 6 HD
-http://123orca.com:25461/live/amina2/amina2/3286.m3u8
-#EXTINF:0,beIN Sports max 7 HD
-http://123orca.com:25461/live/amina2/amina2/3283.m3u8
-#EXTINF:0,beIN Sports max 8 HD
-http://123orca.com:25461/live/amina2/amina2/3282.m3u8
-#EXTINF:0,beIN Sports max 9 HD
-http://123orca.com:25461/live/amina2/amina2/11454.m3u8
-#EXTINF:0,beIN Sports max 10 HD
-http://123orca.com:25461/live/amina2/amina2/11455.m3u8
-#EXTINF:0,Infosport
-http://123orca.com:25461/live/amina2/amina2/5466.m3u8
-#EXTINF:0,Foot 24
-http://123orca.com:25461/live/amina2/amina2/3278.m3u8
-#EXTINF:0,Eurosport 1
-http://123orca.com:25461/live/amina2/amina2/3277.m3u8
-#EXTINF:0,Eurosport 2
-http://123orca.com:25461/live/amina2/amina2/3276.m3u8
-#EXTINF:0,Equidia Live
-http://123orca.com:25461/live/amina2/amina2/5467.m3u8
-#EXTINF:0,L'Èquipe 21
-http://123orca.com:25461/live/amina2/amina2/5465.m3u8
-#EXTINF:0,AB Moteurs
-http://123orca.com:25461/live/amina2/amina2/3335.m3u8
-#EXTINF:0,Golf
-http://123orca.com:25461/live/amina2/amina2/5464.m3u8
-#EXTINF:0,A LA CARTE 1
-http://123orca.com:25461/live/amina2/amina2/3273.m3u8
-#EXTINF:0,A LA CARTE 2
-http://123orca.com:25461/live/amina2/amina2/3272.m3u8
-#EXTINF:0,A LA CARTE 3
-http://123orca.com:25461/live/amina2/amina2/3271.m3u8
-#EXTINF:0,A LA CARTE 4
-http://123orca.com:25461/live/amina2/amina2/3270.m3u8
-#EXTINF:0,A LA CARTE 5
-http://123orca.com:25461/live/amina2/amina2/3269.m3u8
-#EXTINF:0,A LA CARTE 6
-http://123orca.com:25461/live/amina2/amina2/3268.m3u8
-#EXTINF:0,A LA CARTE 7
-http://123orca.com:25461/live/amina2/amina2/3267.m3u8
-#EXTINF:0,SRF 1
-http://123orca.com:25461/live/amina2/amina2/3262.m3u8
-#EXTINF:0,SRF 2
-http://123orca.com:25461/live/amina2/amina2/6257.m3u8
-#EXTINF:0,RTS Un
-http://123orca.com:25461/live/amina2/amina2/5500.m3u8
-#EXTINF:0,RTS Deux
-http://123orca.com:25461/live/amina2/amina2/5499.m3u8
-#EXTINF:0,+3 HD
-http://123orca.com:25461/live/amina2/amina2/6259.m3u8
-#EXTINF:0,+4 HD
-http://123orca.com:25461/live/amina2/amina2/6260.m3u8
-#EXTINF:0,+5 HD
-http://123orca.com:25461/live/amina2/amina2/6261.m3u8
-#EXTINF:0,Swiss 1 HD
-http://123orca.com:25461/live/amina2/amina2/6258.m3u8
-#EXTINF:0,Puls 8 HD
-http://123orca.com:25461/live/amina2/amina2/6262.m3u8
-#EXTINF:0,TVO
-http://123orca.com:25461/live/amina2/amina2/6267.m3u8
-#EXTINF:0,TC Emotion HD
-http://123orca.com:25461/live/amina2/amina2/6265.m3u8
-#EXTINF:0,TC Cinema HD
-http://123orca.com:25461/live/amina2/amina2/6266.m3u8
-#EXTINF:0,TeleBielingue
-http://123orca.com:25461/live/amina2/amina2/6268.m3u8
-#EXTINF:0,TeleB‰rn
-http://123orca.com:25461/live/amina2/amina2/6269.m3u8
-#EXTINF:0,Canal Alpha (Neuch‚tel)
-http://123orca.com:25461/live/amina2/amina2/6274.m3u8
-#EXTINF:0,KANAL 9 (deutsch)
-http://123orca.com:25461/live/amina2/amina2/6272.m3u8
-#EXTINF:0,KANAL 9 (francais)
-http://123orca.com:25461/live/amina2/amina2/6273.m3u8
-#EXTINF:0,TELE ZURICH
-http://123orca.com:25461/live/amina2/amina2/6270.m3u8
-#EXTINF:0,Tiji
-http://123orca.com:25461/live/amina2/amina2/5444.m3u8
-#EXTINF:0,Piwi
-http://123orca.com:25461/live/amina2/amina2/5443.m3u8
-#EXTINF:0,Gulli
-http://123orca.com:25461/live/amina2/amina2/5439.m3u8
-#EXTINF:0,Mangas
-http://123orca.com:25461/live/amina2/amina2/5438.m3u8
-#EXTINF:0,Canal J
-http://123orca.com:25461/live/amina2/amina2/5448.m3u8
-#EXTINF:0,TÈlÈTOON
-http://123orca.com:25461/live/amina2/amina2/5445.m3u8
-#EXTINF:0,Boomerang
-http://123orca.com:25461/live/amina2/amina2/5446.m3u8
-#EXTINF:0,Disney Junior
-http://123orca.com:25461/live/amina2/amina2/5435.m3u8
-#EXTINF:0,Disney. Channel
-http://123orca.com:25461/live/amina2/amina2/5437.m3u8
-#EXTINF:0,Disney Cinema
-http://123orca.com:25461/live/amina2/amina2/5436.m3u8
-#EXTINF:0,Disney XD
-http://123orca.com:25461/live/amina2/amina2/5434.m3u8
-#EXTINF:0,Cartoon Network'
-http://123orca.com:25461/live/amina2/amina2/5449.m3u8
-#EXTINF:0,FR:Toonami HD
-http://123orca.com:25461/live/amina2/amina2/7433.m3u8
-#EXTINF:0,BOING
-http://123orca.com:25461/live/amina2/amina2/5447.m3u8
-#EXTINF:0,Nickelodeon'
-http://123orca.com:25461/live/amina2/amina2/5442.m3u8
-#EXTINF:0,Nickelodeon Junior
-http://123orca.com:25461/live/amina2/amina2/5441.m3u8
-#EXTINF:0,Nickelodeon 4teen
-http://123orca.com:25461/live/amina2/amina2/9486.m3u8
-#EXTINF:0,Zouzous Tv
-http://123orca.com:25461/live/amina2/amina2/7985.m3u8
-#EXTINF:0,Game One
-http://123orca.com:25461/live/amina2/amina2/5440.m3u8
+#EXTINF:-1,TF1-HD
+http://www.sansat.net:25461/bryan/bryan123/4183
+#EXTINF:-1,TF1 SD
+http://www.sansat.net:25461/bryan/bryan123/6725
+#EXTINF:-1,TF1 S?RIES FILMS
+http://www.sansat.net:25461/bryan/bryan123/4232
+#EXTINF:-1,M6-HD
+http://www.sansat.net:25461/bryan/bryan123/4188
+#EXTINF:-1,M6 SD
+http://www.sansat.net:25461/bryan/bryan123/6724
+#EXTINF:-1,France 2
+http://www.sansat.net:25461/bryan/bryan123/4184
+#EXTINF:-1,France 3
+http://www.sansat.net:25461/bryan/bryan123/4185
+#EXTINF:-1,France 4
+http://www.sansat.net:25461/bryan/bryan123/4186
+#EXTINF:-1,France 5
+http://www.sansat.net:25461/bryan/bryan123/4187
+#EXTINF:-1,FRANCE ?
+http://www.sansat.net:25461/bryan/bryan123/4221
+#EXTINF:-1,France 24
+http://www.sansat.net:25461/bryan/bryan123/7018
+#EXTINF:-1,France info
+http://www.sansat.net:25461/bryan/bryan123/6649
+#EXTINF:-1,6ter
+http://www.sansat.net:25461/bryan/bryan123/4193
+#EXTINF:-1,TFX
+http://www.sansat.net:25461/bryan/bryan123/4194
+#EXTINF:-1,NRJ12
+http://www.sansat.net:25461/bryan/bryan123/4189
+#EXTINF:-1,NRJ12 SD
+http://www.sansat.net:25461/bryan/bryan123/6726
+#EXTINF:-1,Elle Girl
+http://www.sansat.net:25461/bryan/bryan123/6718
+#EXTINF:-1,CSTAR
+http://www.sansat.net:25461/bryan/bryan123/6786
+#EXTINF:-1,E! Entertainment
+http://www.sansat.net:25461/bryan/bryan123/6719
+#EXTINF:-1,C8
+http://www.sansat.net:25461/bryan/bryan123/4190
+#EXTINF:-1,W9
+http://www.sansat.net:25461/bryan/bryan123/4191
+#EXTINF:-1,CHERIE-25
+http://www.sansat.net:25461/bryan/bryan123/4233
+#EXTINF:-1,TV-BREIZH
+http://www.sansat.net:25461/bryan/bryan123/4234
+#EXTINF:-1,TEVA
+http://www.sansat.net:25461/bryan/bryan123/5251
+#EXTINF:-1,Action
+http://www.sansat.net:25461/bryan/bryan123/5256
+#EXTINF:-1,13?me RUE
+http://www.sansat.net:25461/bryan/bryan123/5257
+#EXTINF:-1,Paris_Premiere
+http://www.sansat.net:25461/bryan/bryan123/5258
+#EXTINF:-1,SyFy
+http://www.sansat.net:25461/bryan/bryan123/5259
+#EXTINF:-1,Serie_Club
+http://www.sansat.net:25461/bryan/bryan123/5260
+#EXTINF:-1,RMC Decouverte HD
+http://www.sansat.net:25461/bryan/bryan123/5261
+#EXTINF:-1,Numero_23
+http://www.sansat.net:25461/bryan/bryan123/5276
+#EXTINF:-1,AB1
+http://www.sansat.net:25461/bryan/bryan123/5279
+#EXTINF:-1,Comedie+ HD
+http://www.sansat.net:25461/bryan/bryan123/5281
+#EXTINF:-1,Paramount_Channel_HD
+http://www.sansat.net:25461/bryan/bryan123/5264
+#EXTINF:-1,CANAL+
+http://www.sansat.net:25461/bryan/bryan123/4224
+#EXTINF:-1,CANAL+ D?CAL?
+http://www.sansat.net:25461/bryan/bryan123/4225
+#EXTINF:-1,CANAL+ CINEMA
+http://www.sansat.net:25461/bryan/bryan123/4226
+#EXTINF:-1,CANAL+ Family
+http://www.sansat.net:25461/bryan/bryan123/4227
+#EXTINF:-1,CANAL+ SPORT
+http://www.sansat.net:25461/bryan/bryan123/4228
+#EXTINF:-1,Canal+ Series
+http://www.sansat.net:25461/bryan/bryan123/4229
+#EXTINF:-1,CINE  CLASSIC
+http://www.sansat.net:25461/bryan/bryan123/5252
+#EXTINF:-1,CINE-FRISSON-HD
+http://www.sansat.net:25461/bryan/bryan123/4231
+#EXTINF:-1,CINE-PREMIER-HD
+http://www.sansat.net:25461/bryan/bryan123/4230
+#EXTINF:-1,CINE EMOTION
+http://www.sansat.net:25461/bryan/bryan123/5253
+#EXTINF:-1,CINE  FAMIZ
+http://www.sansat.net:25461/bryan/bryan123/5250
+#EXTINF:-1,Cine_Polar_HD
+http://www.sansat.net:25461/bryan/bryan123/5278
+#EXTINF:-1,Cine  Club HD
+http://www.sansat.net:25461/bryan/bryan123/14561
+#EXTINF:-1,Cine FX HD
+http://www.sansat.net:25461/bryan/bryan123/14562
+#EXTINF:-1,Warner TV
+http://www.sansat.net:25461/bryan/bryan123/14709
+#EXTINF:-1,OCS_Choc
+http://www.sansat.net:25461/bryan/bryan123/5254
+#EXTINF:-1,OCS_CITY
+http://www.sansat.net:25461/bryan/bryan123/5255
+#EXTINF:-1,Ocs_Geants
+http://www.sansat.net:25461/bryan/bryan123/5274
+#EXTINF:-1,OCS_MAX
+http://www.sansat.net:25461/bryan/bryan123/5275
+#EXTINF:-1,RTL9
+http://www.sansat.net:25461/bryan/bryan123/4192
+#EXTINF:-1,TMC
+http://www.sansat.net:25461/bryan/bryan123/4195
+#EXTINF:-1,Tcm
+http://www.sansat.net:25461/bryan/bryan123/6706
+#EXTINF:-1,PLANETE+
+http://www.sansat.net:25461/bryan/bryan123/4199
+#EXTINF:-1,Planet+ A&E
+http://www.sansat.net:25461/bryan/bryan123/5263
+#EXTINF:-1,Planet+ ci
+http://www.sansat.net:25461/bryan/bryan123/5284
+#EXTINF:-1,Planet
+http://www.sansat.net:25461/bryan/bryan123/5283
+#EXTINF:-1,ANIMAUX
+http://www.sansat.net:25461/bryan/bryan123/4200
+#EXTINF:-1,FR: MY CUISINE HD
+http://www.sansat.net:25461/bryan/bryan123/22226
+#EXTINF:-1,Discovery Channel
+http://www.sansat.net:25461/bryan/bryan123/4201
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://www.sansat.net:25461/bryan/bryan123/4202
+#EXTINF:-1,DISCOVERY INVESTIGATION HD
+http://www.sansat.net:25461/bryan/bryan123/15151
+#EXTINF:-1,CRIME DISTRICT HD
+http://www.sansat.net:25461/bryan/bryan123/15152
+#EXTINF:-1,National Geographic
+http://www.sansat.net:25461/bryan/bryan123/4203
+#EXTINF:-1,NAT GEO WILD HD
+http://www.sansat.net:25461/bryan/bryan123/4204
+#EXTINF:-1,Ushuaia TV
+http://www.sansat.net:25461/bryan/bryan123/4205
+#EXTINF:-1,Chasse et P?che
+http://www.sansat.net:25461/bryan/bryan123/4206
+#EXTINF:-1,Toute l'Histoire
+http://www.sansat.net:25461/bryan/bryan123/5265
+#EXTINF:-1,Histoire_HD
+http://www.sansat.net:25461/bryan/bryan123/5277
+#EXTINF:-1,SEASONS
+http://www.sansat.net:25461/bryan/bryan123/6638
+#EXTINF:-1,Voyage_HD
+http://www.sansat.net:25461/bryan/bryan123/5285
+#EXTINF:-1,Science et Vie
+http://www.sansat.net:25461/bryan/bryan123/4208
+#EXTINF:-1,DISNEY-JUNIOR
+http://www.sansat.net:25461/bryan/bryan123/4209
+#EXTINF:-1,DISNEY-CHANNEL
+http://www.sansat.net:25461/bryan/bryan123/4210
+#EXTINF:-1,DisneyChannel +1
+http://www.sansat.net:25461/bryan/bryan123/4211
+#EXTINF:-1,Disney_Cinemagic
+http://www.sansat.net:25461/bryan/bryan123/5306
+#EXTINF:-1,Disney_XD
+http://www.sansat.net:25461/bryan/bryan123/5304
+#EXTINF:-1,BOOMERANG
+http://www.sansat.net:25461/bryan/bryan123/4212
+#EXTINF:-1,Cartoon Network (France)
+http://www.sansat.net:25461/bryan/bryan123/4216
+#EXTINF:-1,TELETOON
+http://www.sansat.net:25461/bryan/bryan123/4213
+#EXTINF:-1,GULLI
+http://www.sansat.net:25461/bryan/bryan123/4214
+#EXTINF:-1,NICKELODEON_JUNIOR
+http://www.sansat.net:25461/bryan/bryan123/5300
+#EXTINF:-1,Nickelodeon
+http://www.sansat.net:25461/bryan/bryan123/5301
+#EXTINF:-1,FR: TOONAMI HD
+http://www.sansat.net:25461/bryan/bryan123/22677
+#EXTINF:-1,Boing
+http://www.sansat.net:25461/bryan/bryan123/5302
+#EXTINF:-1,Game_One
+http://www.sansat.net:25461/bryan/bryan123/5303
+#EXTINF:-1,MANGAS
+http://www.sansat.net:25461/bryan/bryan123/4215
+#EXTINF:-1,Tiji
+http://www.sansat.net:25461/bryan/bryan123/5305
+#EXTINF:-1,Canal_J
+http://www.sansat.net:25461/bryan/bryan123/5307
+#EXTINF:-1,PIWI
+http://www.sansat.net:25461/bryan/bryan123/5308
+#EXTINF:-1,Euronews
+http://www.sansat.net:25461/bryan/bryan123/4217
+#EXTINF:-1,LCP
+http://www.sansat.net:25461/bryan/bryan123/4218
+#EXTINF:-1,TV5MONDE
+http://www.sansat.net:25461/bryan/bryan123/4219
+#EXTINF:-1,ARTE
+http://www.sansat.net:25461/bryan/bryan123/4207
+#EXTINF:-1,BFM
+http://www.sansat.net:25461/bryan/bryan123/4222
+#EXTINF:-1,FR: BFM BUSINESS HD
+http://www.sansat.net:25461/bryan/bryan123/16646
+#EXTINF:-1,FR: I24 NEWS HD
+http://www.sansat.net:25461/bryan/bryan123/16645
+#EXTINF:-1,CNEWS
+http://www.sansat.net:25461/bryan/bryan123/6785
+#EXTINF:-1,Rfm TV
+http://www.sansat.net:25461/bryan/bryan123/6707
+#EXTINF:-1,LCI
+http://www.sansat.net:25461/bryan/bryan123/5282
+#EXTINF:-1,INFOSPORT
+http://www.sansat.net:25461/bryan/bryan123/4196
+#EXTINF:-1,Equipe 21
+http://www.sansat.net:25461/bryan/bryan123/4197
+#EXTINF:-1,Golf Channel
+http://www.sansat.net:25461/bryan/bryan123/6716
+#EXTINF:-1,Extreme Sports
+http://www.sansat.net:25461/bryan/bryan123/6717
+#EXTINF:-1,FR: beIN SPORTS 1 HD
+http://www.sansat.net:25461/bryan/bryan123/5286
+#EXTINF:-1,FR: beIN SPORTS 1 FHD
+http://www.sansat.net:25461/bryan/bryan123/15044
+#EXTINF:-1,FR: beIN SPORTS 2 HD
+http://www.sansat.net:25461/bryan/bryan123/5288
+#EXTINF:-1,FR: beIN SPORTS 2 FHD
+http://www.sansat.net:25461/bryan/bryan123/15042
+#EXTINF:-1,FR: beIN SPORTS 3 HD
+http://www.sansat.net:25461/bryan/bryan123/5290
+#EXTINF:-1,FR: beIN SPORTS 3 FHD
+http://www.sansat.net:25461/bryan/bryan123/15040
+#EXTINF:-1,FR: beIN SPORTS MAX 4 HD
+http://www.sansat.net:25461/bryan/bryan123/6791
+#EXTINF:-1,FR: beIN SPORTS MAX 4 FHD
+http://www.sansat.net:25461/bryan/bryan123/15051
+#EXTINF:-1,FR: beIN SPORTS MAX 5 HD
+http://www.sansat.net:25461/bryan/bryan123/6790
+#EXTINF:-1,FR: beIN SPORTS MAX 5 FHD
+http://www.sansat.net:25461/bryan/bryan123/15049
+#EXTINF:-1,FR: beIN SPORTS MAX 6 HD
+http://www.sansat.net:25461/bryan/bryan123/6789
+#EXTINF:-1,FR: beIN SPORTS MAX 7 HD
+http://www.sansat.net:25461/bryan/bryan123/6788
+#EXTINF:-1,FR: beIN SPORTS MAX 8 HD
+http://www.sansat.net:25461/bryan/bryan123/6787
+#EXTINF:-1,FR: BFM SPORT HD
+http://www.sansat.net:25461/bryan/bryan123/16647
+#EXTINF:-1,FR: RMC SPORT NEWS
+http://www.sansat.net:25461/bryan/bryan123/16636
+#EXTINF:-1,FR: RMC SPORT 1 HD
+http://www.sansat.net:25461/bryan/bryan123/16635
+#EXTINF:-1,FR: RMC SPORT 2 HD
+http://www.sansat.net:25461/bryan/bryan123/16634
+#EXTINF:-1,FR: RMC SPORT 3 HD
+http://www.sansat.net:25461/bryan/bryan123/16633
+#EXTINF:-1,FR: RMC SPORT 4 HD
+http://www.sansat.net:25461/bryan/bryan123/16632
+#EXTINF:-1,RMC ACCESS SPORT 1 HD
+http://www.sansat.net:25461/bryan/bryan123/5292
+#EXTINF:-1,RMC ACCESS SPORT 2 HD
+http://www.sansat.net:25461/bryan/bryan123/5293
+#EXTINF:-1,RMC ACCESS SPORT 3 HD
+http://www.sansat.net:25461/bryan/bryan123/5294
+#EXTINF:-1,RMC ACCESS SPORT 4 HD
+http://www.sansat.net:25461/bryan/bryan123/4235
+#EXTINF:-1,Foot +
+http://www.sansat.net:25461/bryan/bryan123/5295
+#EXTINF:-1,FOOT 24
+http://www.sansat.net:25461/bryan/bryan123/4198
+#EXTINF:-1,EUROSPORT 1
+http://www.sansat.net:25461/bryan/bryan123/5296
+#EXTINF:-1,EUROSPORT_2
+http://www.sansat.net:25461/bryan/bryan123/5297
+#EXTINF:-1,Equidia
+http://www.sansat.net:25461/bryan/bryan123/5298
+#EXTINF:-1,Equidia_Live
+http://www.sansat.net:25461/bryan/bryan123/5299
+#EXTINF:-1,Trace Urban
+http://www.sansat.net:25461/bryan/bryan123/6709
+#EXTINF:-1,Trek
+http://www.sansat.net:25461/bryan/bryan123/6708
+#EXTINF:-1,Mcm
+http://www.sansat.net:25461/bryan/bryan123/6714
+#EXTINF:-1,Mcm Top
+http://www.sansat.net:25461/bryan/bryan123/6713
+#EXTINF:-1,Mezzo
+http://www.sansat.net:25461/bryan/bryan123/6712
+#EXTINF:-1,Mezzo Live
+http://www.sansat.net:25461/bryan/bryan123/6711
+#EXTINF:-1,M6 MUSIC
+http://www.sansat.net:25461/bryan/bryan123/7560
+#EXTINF:-1,FR: VH1 CLASSIC
+http://www.sansat.net:25461/bryan/bryan123/16644
+#EXTINF:-1,FR: A LA CARTE 1 HD
+http://www.sansat.net:25461/bryan/bryan123/16643
+#EXTINF:-1,FR: A LA CARTE 2 HD
+http://www.sansat.net:25461/bryan/bryan123/16642
+#EXTINF:-1,FR: A LA CARTE 3 HD
+http://www.sansat.net:25461/bryan/bryan123/16641
+#EXTINF:-1,FR: A LA CARTE 4 HD
+http://www.sansat.net:25461/bryan/bryan123/16640
+#EXTINF:-1,FR: A LA CARTE 5 HD
+http://www.sansat.net:25461/bryan/bryan123/16639
+#EXTINF:-1,FR: A LA CARTE 6 HD
+http://www.sansat.net:25461/bryan/bryan123/16638
+#EXTINF:-1,FR: A LA CARTE 7 HD
+http://www.sansat.net:25461/bryan/bryan123/16637
+#EXTINF:-1,FR: CANAL PLAY 1
+http://www.sansat.net:25461/bryan/bryan123/24484
+#EXTINF:-1,FR: CANAL PLAY 2
+http://www.sansat.net:25461/bryan/bryan123/24483
+#EXTINF:-1,FR: CANAL PLAY 3
+http://www.sansat.net:25461/bryan/bryan123/24482
+#EXTINF:-1,FR: CANAL PLAY 4
+http://www.sansat.net:25461/bryan/bryan123/24481
+#EXTINF:-1,FR: CANAL PLAY 5
+http://www.sansat.net:25461/bryan/bryan123/24480
+#EXTINF:-1,FR: Orange Cine 1
+http://www.sansat.net:25461/bryan/bryan123/22633
+#EXTINF:-1,FR: Orange Cine 2
+http://www.sansat.net:25461/bryan/bryan123/22632
+#EXTINF:-1,FR: Orange Cine 3
+http://www.sansat.net:25461/bryan/bryan123/22631
+#EXTINF:-1,FR: Orange Cine 4
+http://www.sansat.net:25461/bryan/bryan123/22630
+#EXTINF:-1,FR: Orange Cine 5
+http://www.sansat.net:25461/bryan/bryan123/22629
+#EXTINF:-1,FR: Orange Cine 6
+http://www.sansat.net:25461/bryan/bryan123/22628
+#EXTINF:-1,FR: Orange Cine 7
+http://www.sansat.net:25461/bryan/bryan123/22627
+#EXTINF:-1,FR: Orange Cine 8
+http://www.sansat.net:25461/bryan/bryan123/22626
+#EXTINF:-1,FR: Orange Cine Geants HD
+http://www.sansat.net:25461/bryan/bryan123/22625
+#EXTINF:-1,FR: Orange Cinema 1 HD
+http://www.sansat.net:25461/bryan/bryan123/22639
+#EXTINF:-1,FR: Orange Cinema 2 HD
+http://www.sansat.net:25461/bryan/bryan123/22638
+#EXTINF:-1,FR: ORANGE CINEMA 3 HD
+http://www.sansat.net:25461/bryan/bryan123/22637
+#EXTINF:-1,FR: ORANGE CINEMA 4 HD
+http://www.sansat.net:25461/bryan/bryan123/22636
+#EXTINF:-1,FR: ORANGE CINEMA 5 HD
+http://www.sansat.net:25461/bryan/bryan123/22635
+#EXTINF:-1,FR: ORANGE CINEMA 6 HD
+http://www.sansat.net:25461/bryan/bryan123/22634
+#EXTINF:-1,FR: Orange Cinema ACTION HD
+http://www.sansat.net:25461/bryan/bryan123/22624
+#EXTINF:-1,FR: Orange Cinema Aventure HD
+http://www.sansat.net:25461/bryan/bryan123/22623
+#EXTINF:-1,FR: Orange Cinema C est Fait HD
+http://www.sansat.net:25461/bryan/bryan123/22622
+#EXTINF:-1,FR: Orange Cinema Horreur HD
+http://www.sansat.net:25461/bryan/bryan123/22621
+#EXTINF:-1,13eme Rue FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25444
+#EXTINF:-1,6ter FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25438
+#EXTINF:-1,A  FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25357
+#EXTINF:-1,AB1 FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25417
+#EXTINF:-1,AB3 FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25416
+#EXTINF:-1,Action FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25439
+#EXTINF:-1,ALTICE STUDIO FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25355
+#EXTINF:-1,ANIMAUX FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25386
+#EXTINF:-1,Arte FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25415
+#EXTINF:-1,BeIN SPORTS 1 FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25339
+#EXTINF:-1,BeIN SPORTS 2 FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25338
+#EXTINF:-1,BeIN SPORTS 3 FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25337
+#EXTINF:-1,Bet Etoile FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25408
+#EXTINF:-1,BFM Business FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25371
+#EXTINF:-1,BFM SPORT FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25361
+#EXTINF:-1,Boing FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25411
+#EXTINF:-1,Boomerang FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25390
+#EXTINF:-1,C NEWS FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25366
+#EXTINF:-1,C Star FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25436
+#EXTINF:-1,C8 FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25437
+#EXTINF:-1,CANAL  CINEMA FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25433
+#EXTINF:-1,CANAL  DECALE FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25432
+#EXTINF:-1,Canal  Family FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25431
+#EXTINF:-1,CANAL  FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25435
+#EXTINF:-1,CANAL  SERIES FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25429
+#EXTINF:-1,Canal  Sports FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25434
+#EXTINF:-1,CANAL ALPHA JU FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25430
+#EXTINF:-1,CANAL J FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25412
+#EXTINF:-1,Cartoon Network FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25392
+#EXTINF:-1,Cherie 25 FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25387
+#EXTINF:-1,Cine Classic FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25422
+#EXTINF:-1,Cine Club FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25423
+#EXTINF:-1,Cine Emotion FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25424
+#EXTINF:-1,Cine Famiz FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25425
+#EXTINF:-1,Cine Frisson FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25426
+#EXTINF:-1,Cine POLAR FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25427
+#EXTINF:-1,Cine Premier FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25428
+#EXTINF:-1,Comedie   FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25409
+#EXTINF:-1,Crime District FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25404
+#EXTINF:-1,D24TV FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25335
+#EXTINF:-1,DISCOVERY FAMILY FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25351
+#EXTINF:-1,DISCOVERY FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25378
+#EXTINF:-1,DISCOVERY INVESTIGATION FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25377
+#EXTINF:-1,Discovery Science FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25376
+#EXTINF:-1,Disney Channel FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25405
+#EXTINF:-1,Disney Cinema FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25391
+#EXTINF:-1,DISNEY JUNIOR FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25407
+#EXTINF:-1,Disney XD FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25413
+#EXTINF:-1,Djazz TV FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25331
+#EXTINF:-1,ELLE GIRL FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25388
+#EXTINF:-1,EQUIDIA LIVE FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25367
+#EXTINF:-1,FASHION FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25330
+#EXTINF:-1,FASHION TV
+http://www.sansat.net:25461/bryan/bryan123/25349
+#EXTINF:-1,France 02 FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25451
+#EXTINF:-1,France 03 FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25450
+#EXTINF:-1,France 04 FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25449
+#EXTINF:-1,FRANCE 5 FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25448
+#EXTINF:-1,FRANCE O FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25447
+#EXTINF:-1,GAME ONE FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25395
+#EXTINF:-1,GENERATIONS TV FHD
+http://www.sansat.net:25461/bryan/bryan123/25348
+#EXTINF:-1,GOLF  FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25369
+#EXTINF:-1,Golf Channel FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25368
+#EXTINF:-1,Gulli FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25393
+#EXTINF:-1,I24 FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25373
+#EXTINF:-1,INFOSPORT FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25360
+#EXTINF:-1,J-ONE FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25389
+#EXTINF:-1,LEMAN BLEU FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25347
+#EXTINF:-1,Luxe TV FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25356
+#EXTINF:-1,M6 FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25446
+#EXTINF:-1,Manga FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25397
+#EXTINF:-1,MBLIVE TV FHD
+http://www.sansat.net:25461/bryan/bryan123/25334
+#EXTINF:-1,MEZZO LIVE FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25362
+#EXTINF:-1,MOTORSPORT TV FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25358
+#EXTINF:-1,MTV France FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25414
+#EXTINF:-1,MTV FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25333
+#EXTINF:-1,MTV HITS FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25332
+#EXTINF:-1,MY CUISINE TV FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25352
+#EXTINF:-1,NATIONAL GEO FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25379
+#EXTINF:-1,NATIONAL GEO WILD FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25385
+#EXTINF:-1,Nickelodeon 4Teen FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25396
+#EXTINF:-1,NOVELAS TV FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25364
+#EXTINF:-1,NRJ 12 FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25363
+#EXTINF:-1,OCS CHOC FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25418
+#EXTINF:-1,OCS City FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25419
+#EXTINF:-1,OCS GEANT FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25420
+#EXTINF:-1,OCS Max FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25421
+#EXTINF:-1,OL TV FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25350
+#EXTINF:-1,One TV FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25410
+#EXTINF:-1,PARIS PREMIERE FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25372
+#EXTINF:-1,Piwi FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25398
+#EXTINF:-1,PLANETE   A&E FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25380
+#EXTINF:-1,Planete   FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25382
+#EXTINF:-1,PLANETE  CI FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25381
+#EXTINF:-1,RMC Decouvert FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25383
+#EXTINF:-1,RMC Sport 01 FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25343
+#EXTINF:-1,RMC Sport 02 FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25342
+#EXTINF:-1,RMC SPORT 03 FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25341
+#EXTINF:-1,RMC SPORT 04 FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25340
+#EXTINF:-1,RMC SPORT NEWS FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25344
+#EXTINF:-1,RMC Story FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25365
+#EXTINF:-1,ROUGE TV FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25345
+#EXTINF:-1,RTL9 FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25443
+#EXTINF:-1,Science et Vie FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25370
+#EXTINF:-1,SEASON FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25375
+#EXTINF:-1,SERIE CLUB FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25400
+#EXTINF:-1,SUNDANCE FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25346
+#EXTINF:-1,Syfy FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25440
+#EXTINF:-1,TCM Cinema FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25401
+#EXTINF:-1,TEVA FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25442
+#EXTINF:-1,TF1 FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25454
+#EXTINF:-1,TF1 SERIES FILMS FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25453
+#EXTINF:-1,TFX FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25452
+#EXTINF:-1,TIJI FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25399
+#EXTINF:-1,TMC FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25402
+#EXTINF:-1,TOONAMI FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25394
+#EXTINF:-1,TRACE URBAN FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25336
+#EXTINF:-1,TREK FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25441
+#EXTINF:-1,TV5 MONDE FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25374
+#EXTINF:-1,TVBREIZH FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25384
+#EXTINF:-1,Ushuaia TV FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25406
+#EXTINF:-1,VICELAND FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25354
+#EXTINF:-1,Voyage FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25403
+#EXTINF:-1,W9 FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25445
+#EXTINF:-1,WARNER TV FULL HD
+http://www.sansat.net:25461/bryan/bryan123/25353
