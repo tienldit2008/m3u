@@ -1,39 +1,97 @@
 #EXTM3U
 #EXTINF:-1,Polsat
-http://5.254.66.150:25461/medhi1/medhi1/11053
+http://ipsatpro.com:8080/Y/1234/1322
 #EXTINF:-1,Polsat 2
-http://5.254.66.150:25461/medhi1/medhi1/11052
-#EXTINF:-1,Polsat Cafe
-http://5.254.66.150:25461/medhi1/medhi1/11051
-#EXTINF:-1,Polsat Film
-http://5.254.66.150:25461/medhi1/medhi1/11050
-#EXTINF:-1,Polsat News
-http://5.254.66.150:25461/medhi1/medhi1/11049
+http://ipsatpro.com:8080/Y/1234/1311
+#EXTINF:-1,Polsat Sport
+http://ipsatpro.com:8080/Y/1234/1279
 #EXTINF:-1,Polsat Play
-http://5.254.66.150:25461/medhi1/medhi1/11048
+http://ipsatpro.com:8080/Y/1234/1320
+#EXTINF:-1,Polsat Cafe
+http://ipsatpro.com:8080/Y/1234/1301
+#EXTINF:-1,Polsat Film HD
+http://ipsatpro.com:8080/Y/1234/1273
+#EXTINF:-1,Polsat Viasat Explore HD
+http://ipsatpro.com:8080/Y/1234/1272
+#EXTINF:-1,Polsat Viasat Nature
+http://ipsatpro.com:8080/Y/1234/1271
+#EXTINF:-1,Kuchina HD
+http://ipsatpro.com:8080/Y/1234/1281
+#EXTINF:-1,Mini Mini
+http://ipsatpro.com:8080/Y/1234/1302
+#EXTINF:-1,TVN 4
+http://ipsatpro.com:8080/Y/1234/1303
+#EXTINF:-1,Romance
+http://ipsatpro.com:8080/Y/1234/1276
+#EXTINF:-1,Sundance HD
+http://ipsatpro.com:8080/Y/1234/1270
+#EXTINF:-1,HBO
+http://ipsatpro.com:8080/Y/1234/1285
+#EXTINF:-1,HBO 2
+http://ipsatpro.com:8080/Y/1234/1283
+#EXTINF:-1,HBO 3
+http://ipsatpro.com:8080/Y/1234/1284
+#EXTINF:-1,CBS Action
+http://ipsatpro.com:8080/Y/1234/1258
+#EXTINF:-1,CBS Europa HD
+http://ipsatpro.com:8080/Y/1234/1257
+#EXTINF:-1,CBS Reality
+http://ipsatpro.com:8080/Y/1234/1256
+#EXTINF:-1,TLC HD
+http://ipsatpro.com:8080/Y/1234/1268
+#EXTINF:-1,Travel HD
+http://ipsatpro.com:8080/Y/1234/1260
+#EXTINF:-1,Ale Kino HD
+http://ipsatpro.com:8080/Y/1234/1265
+#EXTINF:-1,Disney HD
+http://ipsatpro.com:8080/Y/1234/1282
+#EXTINF:-1,Polo TV
+http://ipsatpro.com:8080/Y/1234/1298
+#EXTINF:-1,Lech
+http://ipsatpro.com:8080/Y/1234/1310
+#EXTINF:-1,E!
+http://ipsatpro.com:8080/Y/1234/1275
 #EXTINF:-1,TVN
-http://5.254.66.150:25461/medhi1/medhi1/11044
-#EXTINF:-1,TVN 24
-http://5.254.66.150:25461/medhi1/medhi1/11043
-#EXTINF:-1,TVN Style
-http://5.254.66.150:25461/medhi1/medhi1/11042
-#EXTINF:-1,TVN Turbo
-http://5.254.66.150:25461/medhi1/medhi1/11041
+http://ipsatpro.com:8080/Y/1234/1314
 #EXTINF:-1,TVP 1
-http://5.254.66.150:25461/medhi1/medhi1/11040
-#EXTINF:-1,TVP 2
-http://5.254.66.150:25461/medhi1/medhi1/11039
-#EXTINF:-1,TVP 3
-http://5.254.66.150:25461/medhi1/medhi1/11038
-#EXTINF:-1,TVP Sport
-http://5.254.66.150:25461/medhi1/medhi1/11037
-#EXTINF:-1,VIVA Polska
-http://5.254.66.150:25461/medhi1/medhi1/11036
-#EXTINF:-1,PL:Polsat Sport
-http://5.254.66.150:25461/medhi1/medhi1/11032
-#EXTINF:-1,PL:Polsat Sport EXTRA HD
-http://5.254.66.150:25461/medhi1/medhi1/11031
-#EXTINF:-1,PL:Polsat Sport fight
-http://5.254.66.150:25461/medhi1/medhi1/11030
-#EXTINF:-1,PL:Polsat Sport news
-http://5.254.66.150:25461/medhi1/medhi1/11029
+http://ipsatpro.com:8080/Y/1234/1299
+#EXTINF:-1,TVP 2 HD
+http://ipsatpro.com:8080/Y/1234/1318
+#EXTINF:-1,TVN 24
+http://ipsatpro.com:8080/Y/1234/1315
+#EXTINF:-1,TVN Turbo
+http://ipsatpro.com:8080/Y/1234/1321
+#EXTINF:-1,Kino Polska
+http://ipsatpro.com:8080/Y/1234/1305
+#EXTINF:-1,Discovery SIC
+http://ipsatpro.com:8080/Y/1234/1323
+#EXTINF:-1,Discovery
+http://ipsatpro.com:8080/Y/1234/1287
+#EXTINF:-1,History
+http://ipsatpro.com:8080/Y/1234/1308
+#EXTINF:-1,Nat Geo HD
+http://ipsatpro.com:8080/Y/1234/1274
+#EXTINF:-1,National Geo Wild
+http://ipsatpro.com:8080/Y/1234/1289
+#EXTINF:-1,Planete
+http://ipsatpro.com:8080/Y/1234/1317
+#EXTINF:-1,Boomerang
+http://ipsatpro.com:8080/Y/1234/1293
+#EXTINF:-1,Bloomborg
+http://ipsatpro.com:8080/Y/1234/1296
+#EXTINF:-1,TVN Fabula HD
+http://ipsatpro.com:8080/Y/1234/1269
+#EXTINF:-1,TVP ABC
+http://ipsatpro.com:8080/Y/1234/1259
+#EXTINF:-1,TVP 1 HD
+http://ipsatpro.com:8080/Y/1234/1294
+#EXTINF:-1,AXN White
+http://ipsatpro.com:8080/Y/1234/1292
+#EXTINF:-1,AXN HD
+http://ipsatpro.com:8080/Y/1234/1290
+#EXTINF:-1,Ale Kino
+http://ipsatpro.com:8080/Y/1234/1316
+#EXTINF:-1,MTV Polska
+http://ipsatpro.com:8080/Y/1234/1297
+#EXTINF:-1,Music Vox 2 Tv
+http://ipsatpro.com:8080/Y/1234/1309

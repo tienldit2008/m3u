@@ -1,151 +1,205 @@
 #EXTM3U
-#EXTINF:-1,BBC One
-http://123orca.com:25461/amina2/amina2/3785
-#EXTINF:-1,BBC Two
-http://123orca.com:25461/amina2/amina2/3783
-#EXTINF:-1,BBC Three
-http://123orca.com:25461/amina2/amina2/3782
-#EXTINF:-1,BBC Four HD
-http://123orca.com:25461/amina2/amina2/6034
-#EXTINF:-1,BBC World News
-http://123orca.com:25461/amina2/amina2/3772
-#EXTINF:-1,BBC News.
-http://123orca.com:25461/amina2/amina2/3771
-#EXTINF:-1,BBC Alba
-http://123orca.com:25461/amina2/amina2/6035
-#EXTINF:-1,CNBC
-http://123orca.com:25461/amina2/amina2/3761
-#EXTINF:-1,CBBC HD
-http://123orca.com:25461/amina2/amina2/3781
-#EXTINF:-1,Euronews UK
-http://123orca.com:25461/amina2/amina2/3767
-#EXTINF:-1,ITV HD
-http://123orca.com:25461/amina2/amina2/6032
-#EXTINF:-1,ITV 2
-http://123orca.com:25461/amina2/amina2/6033
-#EXTINF:-1,ITV 3
-http://123orca.com:25461/amina2/amina2/3780
-#EXTINF:-1,ITV 4
-http://123orca.com:25461/amina2/amina2/3779
-#EXTINF:-1,ITV BE
-http://123orca.com:25461/amina2/amina2/3778
-#EXTINF:-1,ITV Encore
-http://123orca.com:25461/amina2/amina2/3777
-#EXTINF:-1,Channel 4
-http://123orca.com:25461/amina2/amina2/3776
-#EXTINF:-1,Channel 5
-http://123orca.com:25461/amina2/amina2/3775
-#EXTINF:-1,Channel 5 +1
-http://123orca.com:25461/amina2/amina2/3760
-#EXTINF:-1,More 4
-http://123orca.com:25461/amina2/amina2/3774
-#EXTINF:-1,E4
-http://123orca.com:25461/amina2/amina2/3773
-#EXTINF:-1,RTE ONE HD
-http://123orca.com:25461/amina2/amina2/3759
-#EXTINF:-1,Bloomberg
-http://123orca.com:25461/amina2/amina2/3763
-#EXTINF:-1,FOX News
-http://123orca.com:25461/amina2/amina2/3765
-#EXTINF:-1,CNN International
-http://123orca.com:25461/amina2/amina2/3769
-#EXTINF:-1,CGTN News
-http://123orca.com:25461/amina2/amina2/3764
-#EXTINF:-1,Gold
-http://123orca.com:25461/amina2/amina2/4818
-#EXTINF:-1,Good Food
-http://123orca.com:25461/amina2/amina2/4842
-#EXTINF:-1,Food Network
-http://123orca.com:25461/amina2/amina2/3736
-#EXTINF:-1,TCM.
-http://123orca.com:25461/amina2/amina2/3745
-#EXTINF:-1,CBS.Action
-http://123orca.com:25461/amina2/amina2/3743
-#EXTINF:-1,CBS Drama
-http://123orca.com:25461/amina2/amina2/3742
-#EXTINF:-1,CBS Reality
-http://123orca.com:25461/amina2/amina2/4862
-#EXTINF:-1,Film4
-http://123orca.com:25461/amina2/amina2/3744
-#EXTINF:-1,Comedy Central Extra
-http://123orca.com:25461/amina2/amina2/4841
-#EXTINF:-1,Crime & Investigation
-http://123orca.com:25461/amina2/amina2/4810
-#EXTINF:-1,Fox
-http://123orca.com:25461/amina2/amina2/4838
-#EXTINF:-1,E!'
-http://123orca.com:25461/amina2/amina2/4867
-#EXTINF:-1,STV Central West
-http://123orca.com:25461/amina2/amina2/4820
-#EXTINF:-1,TG4
-http://123orca.com:25461/amina2/amina2/4821
-#EXTINF:-1,The Vault
-http://123orca.com:25461/amina2/amina2/4878
-#EXTINF:-1,Travel Channel
-http://123orca.com:25461/amina2/amina2/4808
-#EXTINF:-1,Universal Channel
-http://123orca.com:25461/amina2/amina2/4809
-#EXTINF:-1,Animal Planet.
-http://123orca.com:25461/amina2/amina2/4804
-#EXTINF:-1,Discovery History
-http://123orca.com:25461/amina2/amina2/4813
-#EXTINF:-1,Discovery.Investigation
-http://123orca.com:25461/amina2/amina2/4812
-#EXTINF:-1,Discovery Shed
-http://123orca.com:25461/amina2/amina2/4814
-#EXTINF:-1,Discovery Turbo
-http://123orca.com:25461/amina2/amina2/4811
-#EXTINF:-1,National Geo.graphic
-http://123orca.com:25461/amina2/amina2/4806
-#EXTINF:-1,National Geography Wild
-http://123orca.com:25461/amina2/amina2/4807
+#EXTINF:-1,News HD
+http://ipsatpro.com:8080/Y/1234/550
+#EXTINF:-1,RTE News
+http://ipsatpro.com:8080/Y/1234/431
+#EXTINF:-1,BBC News
+http://ipsatpro.com:8080/Y/1234/428
+#EXTINF:-1,Sports News
+http://ipsatpro.com:8080/Y/1234/549
+#EXTINF:-1,More 4 HD
+http://ipsatpro.com:8080/Y/1234/504
+#EXTINF:-1,Movies4Men
+http://ipsatpro.com:8080/Y/1234/1557
+#EXTINF:-1,Horse & Country
+http://ipsatpro.com:8080/Y/1234/1549
+#EXTINF:-1,Home
+http://ipsatpro.com:8080/Y/1234/1553
 #EXTINF:-1,Quest
-http://123orca.com:25461/amina2/amina2/3731
-#EXTINF:-1,Challenge
-http://123orca.com:25461/amina2/amina2/4756
-#EXTINF:-1,Channel Aka
-http://123orca.com:25461/amina2/amina2/4755
-#EXTINF:-1,Christmas Gold
-http://123orca.com:25461/amina2/amina2/4848
-#EXTINF:-1,Hum Europe
-http://123orca.com:25461/amina2/amina2/4798
-#EXTINF:-1,MUTV
-http://123orca.com:25461/amina2/amina2/4769
-#EXTINF:-1,My 5
-http://123orca.com:25461/amina2/amina2/4835
-#EXTINF:-1,NDTV 24x7
-http://123orca.com:25461/amina2/amina2/4797
-#EXTINF:-1,NHK
-http://123orca.com:25461/amina2/amina2/4739
-#EXTINF:-1,Pick
-http://123orca.com:25461/amina2/amina2/4866
-#EXTINF:-1,Prime TV
-http://123orca.com:25461/amina2/amina2/4751
+http://ipsatpro.com:8080/Y/1234/1551
 #EXTINF:-1,Really
-http://123orca.com:25461/amina2/amina2/4748
-#EXTINF:-1,Real Lives
-http://123orca.com:25461/amina2/amina2/4826
-#EXTINF:-1,Rishtey
-http://123orca.com:25461/amina2/amina2/4788
-#EXTINF:-1,RTE TWO HD
-http://123orca.com:25461/amina2/amina2/4823
-#EXTINF:-1,Dmax UK
-http://123orca.com:25461/amina2/amina2/3728
-#EXTINF:-1,Lifetime
-http://123orca.com:25461/amina2/amina2/3737
-#EXTINF:-1,4Seven
-http://123orca.com:25461/amina2/amina2/4837
-#EXTINF:-1,5 Star
-http://123orca.com:25461/amina2/amina2/4831
-#EXTINF:-1,Alibi
-http://123orca.com:25461/amina2/amina2/4839
-#EXTINF:-1,MTV Dance
-http://123orca.com:25461/amina2/amina2/4885
-#EXTINF:-1,MTV Hits
-http://123orca.com:25461/amina2/amina2/4882
-#EXTINF:-1,MTV.Base
-http://123orca.com:25461/amina2/amina2/4737
-#EXTINF:-1,MTV.
-http://123orca.com:25461/amina2/amina2/3729
+http://ipsatpro.com:8080/Y/1234/1552
+#EXTINF:-1,Travel Channel
+http://ipsatpro.com:8080/Y/1234/1556
+#EXTINF:-1,Horror Channel
+http://ipsatpro.com:8080/Y/1234/1548
+#EXTINF:-1,S4C
+http://ipsatpro.com:8080/Y/1234/435
+#EXTINF:-1,5 Star +1
+http://ipsatpro.com:8080/Y/1234/505
+#EXTINF:-1,CBBC HD
+http://ipsatpro.com:8080/Y/1234/430
+#EXTINF:-1,ITV 1
+http://ipsatpro.com:8080/Y/1234/471
+#EXTINF:-1,ITV 2
+http://ipsatpro.com:8080/Y/1234/470
+#EXTINF:-1,ITV 3
+http://ipsatpro.com:8080/Y/1234/469
+#EXTINF:-1,ITV 4
+http://ipsatpro.com:8080/Y/1234/468
+#EXTINF:-1,ITV Be
+http://ipsatpro.com:8080/Y/1234/429
+#EXTINF:-1,ITV Encore
+http://ipsatpro.com:8080/Y/1234/467
+#EXTINF:-1,BBC4/CBEEBIES
+http://ipsatpro.com:8080/Y/1234/433
+#EXTINF:-1,3e
+http://ipsatpro.com:8080/Y/1234/432
+#EXTINF:-1,TV3
+http://ipsatpro.com:8080/Y/1234/434
+#EXTINF:-1,CITV
+http://ipsatpro.com:8080/Y/1234/436
+#EXTINF:-1,Cbs Drama
+http://ipsatpro.com:8080/Y/1234/482
+#EXTINF:-1,Pick
+http://ipsatpro.com:8080/Y/1234/437
+#EXTINF:-1,Cbs Action
+http://ipsatpro.com:8080/Y/1234/481
+#EXTINF:-1,CBS Reality
+http://ipsatpro.com:8080/Y/1234/510
+#EXTINF:-1,BBC One HD
+http://ipsatpro.com:8080/Y/1234/488
+#EXTINF:-1,BBC Two HD
+http://ipsatpro.com:8080/Y/1234/487
+#EXTINF:-1,BBC Three HD
+http://ipsatpro.com:8080/Y/1234/486
+#EXTINF:-1,BBC Four HD
+http://ipsatpro.com:8080/Y/1234/485
+#EXTINF:-1,Channel 4 HD
+http://ipsatpro.com:8080/Y/1234/426
+#EXTINF:-1,Channel 5 HD
+http://ipsatpro.com:8080/Y/1234/427
+#EXTINF:-1,Comedy Central
+http://ipsatpro.com:8080/Y/1234/463
+#EXTINF:-1,Comedy Central Ex
+http://ipsatpro.com:8080/Y/1234/462
+#EXTINF:-1,Food Network
+http://ipsatpro.com:8080/Y/1234/495
+#EXTINF:-1,Sony Movies
+http://ipsatpro.com:8080/Y/1234/501
+#EXTINF:-1,Bloomberg HD
+http://ipsatpro.com:8080/Y/1234/457
+#EXTINF:-1,Boomerang
+http://ipsatpro.com:8080/Y/1234/444
+#EXTINF:-1,Nickelodeon
+http://ipsatpro.com:8080/Y/1234/503
+#EXTINF:-1,Nickelodeon JR
+http://ipsatpro.com:8080/Y/1234/423
+#EXTINF:-1,NickToons
+http://ipsatpro.com:8080/Y/1234/446
+#EXTINF:-1,Disney XD HD
+http://ipsatpro.com:8080/Y/1234/493
+#EXTINF:-1,Disney Junior HD
+http://ipsatpro.com:8080/Y/1234/494
+#EXTINF:-1,Disney Chaneel HD
+http://ipsatpro.com:8080/Y/1234/492
+#EXTINF:-1,Discovery Science
+http://ipsatpro.com:8080/Y/1234/526
+#EXTINF:-1,Discovery History
+http://ipsatpro.com:8080/Y/1234/491
+#EXTINF:-1,Discovery Turbo
+http://ipsatpro.com:8080/Y/1234/465
+#EXTINF:-1,Discovery Shed
+http://ipsatpro.com:8080/Y/1234/445
+#EXTINF:-1,Discovery
+http://ipsatpro.com:8080/Y/1234/464
+#EXTINF:-1,National Geographic HD
+http://ipsatpro.com:8080/Y/1234/499
+#EXTINF:-1,Nat Geo Wild HD
+http://ipsatpro.com:8080/Y/1234/498
+#EXTINF:-1,Animal Planet HD
+http://ipsatpro.com:8080/Y/1234/497
+#EXTINF:-1,History HD
+http://ipsatpro.com:8080/Y/1234/496
+#EXTINF:-1,History 2
+http://ipsatpro.com:8080/Y/1234/452
+#EXTINF:-1,Ci
+http://ipsatpro.com:8080/Y/1234/514
+#EXTINF:-1,1
+http://ipsatpro.com:8080/Y/1234/475
+#EXTINF:-1,2
+http://ipsatpro.com:8080/Y/1234/507
+#EXTINF:-1,Atlantic
+http://ipsatpro.com:8080/Y/1234/483
+#EXTINF:-1,E! Entertainment
+http://ipsatpro.com:8080/Y/1234/447
 #EXTINF:-1,VH1
-http://123orca.com:25461/amina2/amina2/4877
+http://ipsatpro.com:8080/Y/1234/449
+#EXTINF:-1,E4
+http://ipsatpro.com:8080/Y/1234/451
+#EXTINF:-1,TG4
+http://ipsatpro.com:8080/Y/1234/422
+#EXTINF:-1,Syfy
+http://ipsatpro.com:8080/Y/1234/538
+#EXTINF:-1,CNBC
+http://ipsatpro.com:8080/Y/1234/466
+#EXTINF:-1,Dave HD
+http://ipsatpro.com:8080/Y/1234/506
+#EXTINF:-1,RTE One
+http://ipsatpro.com:8080/Y/1234/474
+#EXTINF:-1,RTE One UP
+http://ipsatpro.com:8080/Y/1234/1568
+#EXTINF:-1,RTE Two
+http://ipsatpro.com:8080/Y/1234/478
+#EXTINF:-1,RTE Two UP
+http://ipsatpro.com:8080/Y/1234/1569
+#EXTINF:-1,Fox
+http://ipsatpro.com:8080/Y/1234/460
+#EXTINF:-1,Five
+http://ipsatpro.com:8080/Y/1234/473
+#EXTINF:-1,Arts 1 HD
+http://ipsatpro.com:8080/Y/1234/489
+#EXTINF:-1,Baby
+http://ipsatpro.com:8080/Y/1234/424
+#EXTINF:-1,Eden
+http://ipsatpro.com:8080/Y/1234/425
+#EXTINF:-1,Alibi
+http://ipsatpro.com:8080/Y/1234/509
+#EXTINF:-1,Living HD
+http://ipsatpro.com:8080/Y/1234/502
+#EXTINF:-1,BoxNation
+http://ipsatpro.com:8080/Y/1234/490
+#EXTINF:-1,Racing
+http://ipsatpro.com:8080/Y/1234/458
+#EXTINF:-1,Gold
+http://ipsatpro.com:8080/Y/1234/508
+#EXTINF:-1,5 USA
+http://ipsatpro.com:8080/Y/1234/480
+#EXTINF:-1,5 star
+http://ipsatpro.com:8080/Y/1234/477
+#EXTINF:-1,life Time
+http://ipsatpro.com:8080/Y/1234/476
+#EXTINF:-1,5 Spik
+http://ipsatpro.com:8080/Y/1234/525
+#EXTINF:-1,TCM
+http://ipsatpro.com:8080/Y/1234/459
+#EXTINF:-1,CNN
+http://ipsatpro.com:8080/Y/1234/454
+#EXTINF:-1,Dmax
+http://ipsatpro.com:8080/Y/1234/456
+#EXTINF:-1,TLC
+http://ipsatpro.com:8080/Y/1234/455
+#EXTINF:-1,STV
+http://ipsatpro.com:8080/Y/1234/448
+#EXTINF:-1,MTV Omga
+http://ipsatpro.com:8080/Y/1234/1550
+#EXTINF:-1,MTV Rocks HD
+http://ipsatpro.com:8080/Y/1234/442
+#EXTINF:-1,MTV Hits HD
+http://ipsatpro.com:8080/Y/1234/443
+#EXTINF:-1,MTV Dance HD
+http://ipsatpro.com:8080/Y/1234/441
+#EXTINF:-1,MTV Classic
+http://ipsatpro.com:8080/Y/1234/500
+#EXTINF:-1,MTV Base
+http://ipsatpro.com:8080/Y/1234/440
+#EXTINF:-1,Fine Living Network
+http://ipsatpro.com:8080/Y/1234/1544
+#EXTINF:-1,Dil Se
+http://ipsatpro.com:8080/Y/1234/1543
+#EXTINF:-1,VH1 Classic
+http://ipsatpro.com:8080/Y/1234/450
+#EXTINF:-1,VIVA the Hits
+http://ipsatpro.com:8080/Y/1234/439
+#EXTINF:-1,Kronehit TV
+http://ipsatpro.com:8080/Y/1234/1545
