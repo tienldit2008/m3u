@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,LA 1 HD
-http://line.myott.net:80/live/1234/4321/36547.m3u8
 #EXTINF:-1,LA 2
 http://line.myott.net:80/live/1234/4321/36551.m3u8
 #EXTINF:-1,NOVA
