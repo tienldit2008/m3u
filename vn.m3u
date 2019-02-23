@@ -162,7 +162,7 @@ https://cdn1.vtcnow.vn/live/eds/VTC2_2/hlsv3/VTC2_2-audio_20000=212400-video=127
 https://cdn.vtc.gov.vn/live/eds/VTC3_3/hlsv5/VTC3_3-audio_20000=212400-video=1200000.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="https://www.upsieutoc.com/images/2018/11/12/VTC4.jpg",VTC4-Yeah1! Family
 https://cdn1.vtcnow.vn/live/eds/VTC4_4/hlsv3/VTC4_4-audio_20000=212400-video=1275600.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://gg.gg/vtc-5-sc-tv",VTC5 SD - Giải trí tổng hợp SCTV
+#EXTINF:-1 group-title="VTC" tvg-logo="https://www.upsieutoc.com/images/2018/11/12/VTC5.jpg",VTC5 SD - Giải trí tổng hợp SCTV
 http://vtsstr4.sctv.vn:1935/testlive1/vtc5_SD.smil/playlist.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="https://www.upsieutoc.com/images/2018/11/12/VTC5.jpg",VTC5 HD - Giải trí tổng hợp SCTV
 https://cdn1.vtcnow.vn/live/eds/VTC5_5/hlsv3/VTC5_5-audio_20000=212400-video=1275600.m3u8
