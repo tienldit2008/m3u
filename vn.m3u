@@ -87,20 +87,6 @@ http://125.212.132.219:1935/standard/smil:standard.smil/playlist.m3u8
 http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/07/03/208198-az_dn9_460x260.png",DN9-AZ Shop
 http://baochinh.ga/iptv-hplus.php?kenh=azshop
-#EXTINF:-1 tvg-logo="https://i.imgur.com/avM5O3F.png",VTC1 HD
-
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/videa-prod/image/upload/v1518165767/343fc7d0-0d75-11e8-82bb-c53004caf2c1.png",VTC3 SD
-
-#EXTINF:-1 tvg-logo="http://mobion.vn/Files/Image/admin/2017/12/08/temp_621947320104103.jpg",TODAY TV-VTC7
-
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/videa-prod/image/upload/v1518165830/59d4e7a0-0d75-11e8-82bb-c53004caf2c1.png",VTC9
-
-#EXTINF:-1 tvg-logo="http://mobion.vn/Files/Image/admin/2017/12/08/temp_2250571314568905.jpg",DOC SACH
-
-
-#EXTINF:-1 tvg-logo="http://mobion.vn/Files/Image/admin/2017/12/08/temp_1569282003549550.jpg",NHAC CACH MANG
-
-#EXTINF:-1 tvg-logo="http://mobion.vn/Files/Image/admin/2017/12/08/temp_8833078035962851.jpg",NHAC CO DIEN
 
 #EXTINF:-1 tvg-logo="http://mobion.vn/Files/Image/admin/2017/12/08/temp_8750972179182561.jpg",NHAC DAN TOC
 #EXTINF:-1 tvg-logo="http://www.vtvcab.vn/content/upload/1/5/anh-2/27-12/vtvcab-1555sua.png",Giải Trí TV
