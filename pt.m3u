@@ -1,369 +1,169 @@
 #EXTM3U
-#EXTINF:0,RTP 1 LB
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/216
-#EXTINF:0,RTP 1
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/217
-#EXTINF:0,RTP 1 HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/215
-#EXTINF:0,RTP 1 FHD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/214
-#EXTINF:0,RTP 2 LB
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/212
-#EXTINF:0,RTP 2
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/213
-#EXTINF:0,RTP 2 HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/211
-#EXTINF:0,RTP 2 FHD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/210
-#EXTINF:0,SIC LB
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/208
-#EXTINF:0,SIC
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/209
-#EXTINF:0,SIC HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/207
-#EXTINF:0,SIC FHD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/206
-#EXTINF:0,TVI LB
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/204
-#EXTINF:0,TVI
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/205
-#EXTINF:0,TVI HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/203
-#EXTINF:0,TVI FHD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/202
-#EXTINF:0,Localvis„o HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/201
-#EXTINF:0,RTP Acores
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/200
-#EXTINF:0,RTP Africa
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/199
-#EXTINF:0,RTP Madeira
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/198
-#EXTINF:0,RTP 3
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/197
-#EXTINF:0,SIC Noticias
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/195
-#EXTINF:0,SIC Noticias HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/194
-#EXTINF:0,Tvi 24 LB
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/9924
-#EXTINF:0,TVI 24
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/193
-#EXTINF:0,CMTV
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/192
-#EXTINF:0,CMTV HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/191
-#EXTINF:0,CNN
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/190
-#EXTINF:0,BBC World News
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/189
-#EXTINF:0,Bloomberg
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/188
-#EXTINF:0,Sky News
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/187
-#EXTINF:0,TVE 24 Horas
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/185
-#EXTINF:0,Kuriakos
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/184
-#EXTINF:0,TVI FicÁ„o
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/183
-#EXTINF:0,TVI FicÁ„o LB
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/7655
-#EXTINF:0,SIC Mulher
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/182
-#EXTINF:0,SIC Mulher HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/181
-#EXTINF:0,SIC Radical
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/180
-#EXTINF:0,SIC Radical HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/179
-#EXTINF:0,Canal Q
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/178
-#EXTINF:0,RTP Memoria
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/177
-#EXTINF:0,TLC HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/175
-#EXTINF:0,A&E
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/174
-#EXTINF:0,CBS Reality
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/173
-#EXTINF:0,SIC Caras
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/172
-#EXTINF:0,SIC Caras HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/171
-#EXTINF:0,A Bola TV
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/163
-#EXTINF:0,A Bola TV LB
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/7658
-#EXTINF:0,Sport TV NBA
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/13293
-#EXTINF:0,Eleven Sports 1
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/113
-#EXTINF:0,Eleven Sports 1 HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/112
-#EXTINF:0,Eleven Sports 1 FHD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/111
-#EXTINF:0,Eleven Sports 2
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/110
-#EXTINF:0,Eleven Sports 2 HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/109
-#EXTINF:0,Eleven Sports 2 FHD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/108
-#EXTINF:0,Eleven Sports 3 HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/107
-#EXTINF:0,Eleven Sport 3 FHD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/106
-#EXTINF:0,Eleven Sports 4 HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/105
-#EXTINF:0,Eleven Sport 4 FHD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/104
-#EXTINF:0,Eleven Sports 5 HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/103
-#EXTINF:0,Eleven Sport 5 FHD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/102
-#EXTINF:0,Eleven Sports 6 HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/101
-#EXTINF:0,Eleven Sport 6 FHD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/100
-#EXTINF:0,Benfica TV LB
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/136
-#EXTINF:0,Benfica TV
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/137
-#EXTINF:0,Benfica TV extra
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/471
-#EXTINF:0,Benfica TV HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/135
-#EXTINF:0,Benfica TV HD extra
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/470
-#EXTINF:0,Benfica TV FHD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/134
-#EXTINF:0,Sporting TV
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/133
-#EXTINF:0,Sporting TV FHD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/131
-#EXTINF:0,Porto Canal
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/130
-#EXTINF:0,Porto Canal HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/129
-#EXTINF:0,Chelsea TV HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/128
-#EXTINF:0,Real Madrid TV
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/127
-#EXTINF:0,Euro channel
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/13290
-#EXTINF:0,Eurosport 1
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/125
-#EXTINF:0,Eurosport 1 HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/124
-#EXTINF:0,Eurosport 2
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/123
-#EXTINF:0,MCS Extreme
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/121
-#EXTINF:0,Kombat Sports HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/120
-#EXTINF:0,Fight Network HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/118
-#EXTINF:0,Motors TV HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/117
-#EXTINF:0,Fuel TV HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/116
-#EXTINF:0,Motorvision HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/115
-#EXTINF:0,PFC
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/114
-#EXTINF:0,AMC
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/99
-#EXTINF:0,AMC HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/98
-#EXTINF:0,Cinemundo
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/96
-#EXTINF:0,Cinemundo HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/97
-#EXTINF:0,FOX Movies
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/95
-#EXTINF:0,Fox Movies HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/94
-#EXTINF:0,Hollywood
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/93
-#EXTINF:0,Hollywood FHD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/91
-#EXTINF:0,TVCine 1
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/90
-#EXTINF:0,TVCine 1 HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/89
-#EXTINF:0,TVCine 1 FHD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/88
-#EXTINF:0,TVCine 2
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/87
-#EXTINF:0,TVCine 2 HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/86
-#EXTINF:0,TVCine 2 FHD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/85
-#EXTINF:0,TVCine 3
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/84
-#EXTINF:0,TVCine 3 HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/83
-#EXTINF:0,TVCine 3 FHD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/82
-#EXTINF:0,TVCine 4
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/81
-#EXTINF:0,TVCine 4 HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/80
-#EXTINF:0,TVCine 4 FHD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/79
-#EXTINF:0,AXN
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/78
-#EXTINF:0,AXN HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/77
-#EXTINF:0,AXN FHD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/76
-#EXTINF:0,AXN Black
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/74
-#EXTINF:0,AXN Black HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/75
-#EXTINF:0,AXN White
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/72
-#EXTINF:0,AXN White HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/71
-#EXTINF:0,FOX
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/69
-#EXTINF:0,FOX HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/68
-#EXTINF:0,FOX FHD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/67
-#EXTINF:0,FOX Comedy
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/66
-#EXTINF:0,FOX Comedy HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/65
-#EXTINF:0,FOX Crime
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/63
-#EXTINF:0,FOX Crime HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/62
-#EXTINF:0,FOX Life
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/60
-#EXTINF:0,FOX Life HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/59
-#EXTINF:0,SyFy
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/57
-#EXTINF:0,Syfy HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/56
-#EXTINF:0,TVSeries
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/54
-#EXTINF:0,TVSeries HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/53
-#EXTINF:0,TVSeries FHD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/52
-#EXTINF:0,Crime & Investigation
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/51
-#EXTINF:0,Baby TV
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/49
-#EXTINF:0,Baby TV LB
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/9923
-#EXTINF:0,Panda Biggs
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/48
-#EXTINF:0,Panda Biggs LB
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/9922
-#EXTINF:0,Canal Panda
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/47
-#EXTINF:0,Canal Panda LB
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/9921
-#EXTINF:0,Cartoon Network
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/46
-#EXTINF:0,Cartoon Network LB
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/9920
-#EXTINF:0,Disney Channel
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/45
-#EXTINF:0,Disney Channel LB
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/9919
-#EXTINF:0,Disney Junior
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/44
-#EXTINF:0,Disney Junior LB
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/9918
-#EXTINF:0,Jim Jam
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/43
-#EXTINF:0,Jim Jam LB
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/9917
-#EXTINF:0,Nickelodeon
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/42
-#EXTINF:0,Nickelodeon LB
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/9916
-#EXTINF:0,Nick Jr
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/40
-#EXTINF:0,SIC K
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/41
-#EXTINF:0,SIC K LB
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/9915
-#EXTINF:0,Kuriakos Kids HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/304
-#EXTINF:0,Kuriakos Kids FHD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/303
-#EXTINF:0,Discovery Channel
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/39
-#EXTINF:0,Discovery ShowCase
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/38
-#EXTINF:0,National Geographic
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/37
-#EXTINF:0,National Geo Wild
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/36
-#EXTINF:0,Canal Historia
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/35
-#EXTINF:0,My Cuisine
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/13292
-#EXTINF:0,Blaze
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/13289
-#EXTINF:0,Angelus TV
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/13288
-#EXTINF:0,LUXE TV HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/13286
-#EXTINF:0,FINE LIVING NETWORK
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/13284
-#EXTINF:0,Deutsche Welle
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/13282
-#EXTINF:0,CaÁavision
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/34
-#EXTINF:0,CaÁa e Pesca
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/33
-#EXTINF:0,Toros TV
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/32
-#EXTINF:0,24 Kitchen HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/30
-#EXTINF:0,Food Network FHD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/29
-#EXTINF:0,MCS Lifestyle
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/27
-#EXTINF:0,Travel Channel HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/26
-#EXTINF:0,Canal Odisseia
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/25
-#EXTINF:0,CanÁ„o Nova HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/22
-#EXTINF:0,Globo Portugal
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/17
-#EXTINF:0,TV Globo
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/21
-#EXTINF:0,Globo Now
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/13283
-#EXTINF:0,TV Globo Premium
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/20
-#EXTINF:0,TV Record
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/19
-#EXTINF:0,TV Record HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/18
-#EXTINF:0,TV Galicia
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/7657
-#EXTINF:0,RTP Internacional
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/16
-#EXTINF:0,TVI Internacional
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/15
-#EXTINF:0,SIC Internacional
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/14
-#EXTINF:0,TPA Internacional
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/13
-#EXTINF:0,TCV Internacional
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12
-#EXTINF:0,TVE Internacional
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/11
-#EXTINF:0,BBC Entertainment
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/10
-#EXTINF:0,Sundance TV HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/8
+#EXTINF:-1,Axn Hd
+http://red-vip.com:8080/Volkan41/volkan41/12362
+#EXTINF:-1,Canal Panda
+http://red-vip.com:8080/Volkan41/volkan41/12359
+#EXTINF:-1,Cmtv
+http://red-vip.com:8080/Volkan41/volkan41/12376
+#EXTINF:-1,Crime Investigation
+http://red-vip.com:8080/Volkan41/volkan41/12360
+#EXTINF:-1,Rtp 1
+http://red-vip.com:8080/Volkan41/volkan41/12371
+#EXTINF:-1,Rtp 2
+http://red-vip.com:8080/Volkan41/volkan41/12372
+#EXTINF:-1,Rtp 3
+http://red-vip.com:8080/Volkan41/volkan41/12369
+#EXTINF:-1,Sic
+http://red-vip.com:8080/Volkan41/volkan41/12370
+#EXTINF:-1,Sic Mulher
+http://red-vip.com:8080/Volkan41/volkan41/12373
+#EXTINF:-1,Sic Noticias
+http://red-vip.com:8080/Volkan41/volkan41/12375
+#EXTINF:-1,Sport Tv
+http://red-vip.com:8080/Volkan41/volkan41/12361
+#EXTINF:-1,Sport Tv 1 Hd
+http://red-vip.com:8080/Volkan41/volkan41/12368
+#EXTINF:-1,Sport Tv 2 Hd
+http://red-vip.com:8080/Volkan41/volkan41/12367
+#EXTINF:-1,Sport Tv 3 Hd
+http://red-vip.com:8080/Volkan41/volkan41/12366
+#EXTINF:-1,Sport Tv 4 Hd
+http://red-vip.com:8080/Volkan41/volkan41/12365
+#EXTINF:-1,Tv Series
+http://red-vip.com:8080/Volkan41/volkan41/12363
+#EXTINF:-1,Tvcine 1
+http://red-vip.com:8080/Volkan41/volkan41/12377
+#EXTINF:-1,Tvcine 2
+http://red-vip.com:8080/Volkan41/volkan41/12378
+#EXTINF:-1,Tvcine 3
+http://red-vip.com:8080/Volkan41/volkan41/12379
+#EXTINF:-1,Tvcine 4
+http://red-vip.com:8080/Volkan41/volkan41/12380
+#EXTINF:-1,Tvi
+http://red-vip.com:8080/Volkan41/volkan41/12381
+#EXTINF:-1,Tvi 24
+http://red-vip.com:8080/Volkan41/volkan41/12364
+#EXTINF:-1,Tvi Ficcao
+http://red-vip.com:8080/Volkan41/volkan41/12374
+#EXTINF:-1,24 Kitchen
+http://red-vip.com:8080/Volkan41/volkan41/21222
+#EXTINF:-1,A Bola Tv
+http://red-vip.com:8080/Volkan41/volkan41/21221
+#EXTINF:-1,Amc
+http://red-vip.com:8080/Volkan41/volkan41/21220
+#EXTINF:-1,Axn Black Hd
+http://red-vip.com:8080/Volkan41/volkan41/21219
+#EXTINF:-1,Axn White
+http://red-vip.com:8080/Volkan41/volkan41/21218
+#EXTINF:-1,Baby Tv
+http://red-vip.com:8080/Volkan41/volkan41/21217
+#EXTINF:-1,Barca Tv
+http://red-vip.com:8080/Volkan41/volkan41/21216
+#EXTINF:-1,Benfica Tv Hd
+http://red-vip.com:8080/Volkan41/volkan41/21215
+#EXTINF:-1,Biggs
+http://red-vip.com:8080/Volkan41/volkan41/21214
+#EXTINF:-1,Caça E Pesca
+http://red-vip.com:8080/Volkan41/volkan41/21213
+#EXTINF:-1,CaÇavision
+http://red-vip.com:8080/Volkan41/volkan41/21212
+#EXTINF:-1,Canal Q
+http://red-vip.com:8080/Volkan41/volkan41/21211
+#EXTINF:-1,Cartoon Network
+http://red-vip.com:8080/Volkan41/volkan41/21210
+#EXTINF:-1,Cbs Reality
+http://red-vip.com:8080/Volkan41/volkan41/21209
+#EXTINF:-1,Cinemundo
+http://red-vip.com:8080/Volkan41/volkan41/21208
+#EXTINF:-1,Discovery Channel
+http://red-vip.com:8080/Volkan41/volkan41/21207
+#EXTINF:-1,Discovery Showcase
+http://red-vip.com:8080/Volkan41/volkan41/21206
+#EXTINF:-1,Disney Channel
+http://red-vip.com:8080/Volkan41/volkan41/21205
+#EXTINF:-1,Disney Junior
+http://red-vip.com:8080/Volkan41/volkan41/21204
+#EXTINF:-1,Eleven Sports 1hd
+http://red-vip.com:8080/Volkan41/volkan41/21203
+#EXTINF:-1,Eleven Sports 2hd
+http://red-vip.com:8080/Volkan41/volkan41/21202
+#EXTINF:-1,Eleven Sports 3hd
+http://red-vip.com:8080/Volkan41/volkan41/21201
+#EXTINF:-1,Eleven Sports 4hd
+http://red-vip.com:8080/Volkan41/volkan41/21200
+#EXTINF:-1,Eleven Sports 5hd
+http://red-vip.com:8080/Volkan41/volkan41/21199
+#EXTINF:-1,Eleven Sports 6hd
+http://red-vip.com:8080/Volkan41/volkan41/21198
+#EXTINF:-1,Eurosport 1
+http://red-vip.com:8080/Volkan41/volkan41/21197
+#EXTINF:-1,Eurosport 2
+http://red-vip.com:8080/Volkan41/volkan41/21196
+#EXTINF:-1,Fox Comedy
+http://red-vip.com:8080/Volkan41/volkan41/21195
+#EXTINF:-1,Fox Crime
+http://red-vip.com:8080/Volkan41/volkan41/21194
+#EXTINF:-1,Fox Hd
+http://red-vip.com:8080/Volkan41/volkan41/21193
+#EXTINF:-1,Fox Life Hd
+http://red-vip.com:8080/Volkan41/volkan41/21192
+#EXTINF:-1,Fox Movies
+http://red-vip.com:8080/Volkan41/volkan41/21191
+#EXTINF:-1,Fuel Tv
+http://red-vip.com:8080/Volkan41/volkan41/21190
+#EXTINF:-1,Historia
+http://red-vip.com:8080/Volkan41/volkan41/21189
+#EXTINF:-1,Hollywood
+http://red-vip.com:8080/Volkan41/volkan41/21188
+#EXTINF:-1,Jimjam
+http://red-vip.com:8080/Volkan41/volkan41/21187
+#EXTINF:-1,Kombat Sport
+http://red-vip.com:8080/Volkan41/volkan41/21186
+#EXTINF:-1,Motorvision
+http://red-vip.com:8080/Volkan41/volkan41/21185
+#EXTINF:-1,Nat Geo
+http://red-vip.com:8080/Volkan41/volkan41/21184
+#EXTINF:-1,Nat Geo Wild
+http://red-vip.com:8080/Volkan41/volkan41/21183
+#EXTINF:-1,Nickelodeon
+http://red-vip.com:8080/Volkan41/volkan41/21182
+#EXTINF:-1,Odissea
+http://red-vip.com:8080/Volkan41/volkan41/21181
+#EXTINF:-1,Pfc
+http://red-vip.com:8080/Volkan41/volkan41/21180
+#EXTINF:-1,Porto Canal
+http://red-vip.com:8080/Volkan41/volkan41/21179
+#EXTINF:-1,Real Madrid Tv
+http://red-vip.com:8080/Volkan41/volkan41/21178
+#EXTINF:-1,Rtp Africa
+http://red-vip.com:8080/Volkan41/volkan41/21177
+#EXTINF:-1,Sic Caras
+http://red-vip.com:8080/Volkan41/volkan41/21176
+#EXTINF:-1,Sic K
+http://red-vip.com:8080/Volkan41/volkan41/21175
+#EXTINF:-1,Sic Radical
+http://red-vip.com:8080/Volkan41/volkan41/21174
+#EXTINF:-1,Sport Tv 1hd
+http://red-vip.com:8080/Volkan41/volkan41/21173
+#EXTINF:-1,Sport Tv 2hd
+http://red-vip.com:8080/Volkan41/volkan41/21172
+#EXTINF:-1,Sport Tv 3hd
+http://red-vip.com:8080/Volkan41/volkan41/21171
+#EXTINF:-1,Sport Tv 5 Hd
+http://red-vip.com:8080/Volkan41/volkan41/21170
+#EXTINF:-1,Sporting Tv
+http://red-vip.com:8080/Volkan41/volkan41/21169
+#EXTINF:-1,Syfy
+http://red-vip.com:8080/Volkan41/volkan41/21168
+#EXTINF:-1,Tlc
+http://red-vip.com:8080/Volkan41/volkan41/21167
+#EXTINF:-1,Toros Tv
+http://red-vip.com:8080/Volkan41/volkan41/21166
+#EXTINF:-1,Tv Globo
+http://red-vip.com:8080/Volkan41/volkan41/21165
+#EXTINF:-1,Tv Globo Premium
+http://red-vip.com:8080/Volkan41/volkan41/21164
+#EXTINF:-1,Tv Record
+http://red-vip.com:8080/Volkan41/volkan41/21163
+#EXTINF:-1,Tvi Reality
+http://red-vip.com:8080/Volkan41/volkan41/21162
