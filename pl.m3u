@@ -1,77 +1,203 @@
 #EXTM3U
-#EXTINF:0, NSPORT
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12954
-#EXTINF:0,ALE KINO
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12955
-#EXTINF:0,AXN
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12956
-#EXTINF:0,Canal  HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12957
-#EXTINF:0,Canal  Sport
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12958
-#EXTINF:0,CANAL  SPORT 2  HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12959
-#EXTINF:0,CANAL FAMILY HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12960
-#EXTINF:0,CANAL FILM HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12961
-#EXTINF:0,CANAL SERIALE HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12962
-#EXTINF:0,Cartoon Network HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12963
-#EXTINF:0,CINEMAX 2
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12964
-#EXTINF:0,ELEVEN HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12965
-#EXTINF:0,Eleven Sports HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12966
-#EXTINF:0,EUROSPORT
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12967
-#EXTINF:0,EUROSPORT 2
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12968
-#EXTINF:0,Extreme Sports
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12969
-#EXTINF:0,FILMBOX FAMILY
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12972
-#EXTINF:0,FILMBOX Premium
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12970
-#EXTINF:0,NICK JR POLSAKA
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12973
-#EXTINF:0,NSport Plus
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12974
-#EXTINF:0,POLSAT 1
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12975
-#EXTINF:0,POLSAT 2 HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12976
-#EXTINF:0,POLSAT CAFE
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12977
-#EXTINF:0,POLSAT SPORT EXTRA HD
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12980
-#EXTINF:0,POLSAT SPORT Fight
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12979
-#EXTINF:0,Polsat Sport News
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12981
-#EXTINF:0,TVN 24
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12982
-#EXTINF:0,TVN Style
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12983
-#EXTINF:0,TVP3
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12984
-#EXTINF:0,PPV: UFC | 1
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/7537
-#EXTINF:0,PPV: UFC | 2
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/7536
-#EXTINF:0,PPV: UFC | 3
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/7535
-#EXTINF:0,PPV: UFC | 4
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/9162
-#EXTINF:0,PPV: UFC | 5
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/9163
-#EXTINF:0,PPV: BOXING | 1
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/10046
-#EXTINF:0,PPV: BOXING | 2
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/10045
-#EXTINF:0,PPV: BOXING | 3
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/10044
-#EXTINF:0,PPV: WWE (Live Matches Only)
-http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/7534
+#EXTINF:-1,==== Polonia ====
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/8819
+#EXTINF:-1,4FUN DANCE
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/16054
+#EXTINF:-1,4FUN GOLD HITS
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/16053
+#EXTINF:-1,4FUN.TV
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/16052
+#EXTINF:-1,ALE KINO  HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/16051
+#EXTINF:-1,AMC
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/16050
+#EXTINF:-1,AXN
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/16049
+#EXTINF:-1,AXN BLACK
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/16048
+#EXTINF:-1,AXN HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/16047
+#EXTINF:-1,AXN SPIN HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/16046
+#EXTINF:-1,AXN WHITE
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/16045
+#EXTINF:-1,BBC EARTH HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/16044
+#EXTINF:-1,BBC HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/16043
+#EXTINF:-1,BOOMERANG HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/16042
+#EXTINF:-1,CANAL  DISCOVERY HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/16041
+#EXTINF:-1,CANAL  FAMILY HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/16040
+#EXTINF:-1,CANAL  FILM HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/16039
+#EXTINF:-1,CANAL  SERIALE HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/16038
+#EXTINF:-1,CARTOON NETWORK HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/16037
+#EXTINF:-1,CINEMAX 2 HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/16036
+#EXTINF:-1,COMEDY CENTRAL FAMILY
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/16035
+#EXTINF:-1,COMEDY CENTRAL HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/16034
+#EXTINF:-1,DISCO POLO MUSIC
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/16033
+#EXTINF:-1,DISCOVERY HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/16032
+#EXTINF:-1,DISCOVERY LIFE HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/16031
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/16030
+#EXTINF:-1,DISNEY CHANNEL HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/16029
+#EXTINF:-1,DISNEY JUNIOR
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/16028
+#EXTINF:-1,DISNEY XD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/16027
+#EXTINF:-1,EUROSPORT 2 HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/16026
+#EXTINF:-1,EXTREME SPORTS HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/16025
+#EXTINF:-1,FILMBOX ACTION
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/16024
+#EXTINF:-1,FILMBOX EXTRA
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/16023
+#EXTINF:-1,FILMBOX FAMILY
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/16022
+#EXTINF:-1,FILMBOX PREMIUM HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/16021
+#EXTINF:-1,FOOD NETWORK HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/16020
+#EXTINF:-1,FOX COMEDY HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/16019
+#EXTINF:-1,FOX HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/16018
+#EXTINF:-1,HBO HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/16017
+#EXTINF:-1,HBO2 HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/16016
+#EXTINF:-1,HBO3 HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/16015
+#EXTINF:-1,HISTORY HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/16014
+#EXTINF:-1,ID HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/16013
+#EXTINF:-1,KINO TV
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/16012
+#EXTINF:-1,MTV LIVE HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/16011
+#EXTINF:-1,MTV MUSIC
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/16010
+#EXTINF:-1,MTV POLSKA HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/16009
+#EXTINF:-1,MTV ROCKS
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/16008
+#EXTINF:-1,NAT GEO WILD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/16007
+#EXTINF:-1,NATIONAL GEO
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/16006
+#EXTINF:-1,NICK JR
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/16005
+#EXTINF:-1,NICKELODEON
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/16004
+#EXTINF:-1,NICKTOONS HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/16003
+#EXTINF:-1,PARAMOUNT CHANNEL HD.
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/16002
+#EXTINF:-1,POLSAT
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/16001
+#EXTINF:-1,POLSAT 2 HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/16000
+#EXTINF:-1,POLSAT CAFE HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/15999
+#EXTINF:-1,POLSAT DOKU HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/15998
+#EXTINF:-1,POLSAT FILM HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/15997
+#EXTINF:-1,POLSAT HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/15996
+#EXTINF:-1,POLSAT MUSIC HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/15995
+#EXTINF:-1,POLSAT NEWS 2
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/15994
+#EXTINF:-1,POLSAT NEWS HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/15993
+#EXTINF:-1,POLSAT PLAY HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/15992
+#EXTINF:-1,POLSAT SPORT EXTRA
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/15991
+#EXTINF:-1,POLSAT SPORT EXTRA HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/15990
+#EXTINF:-1,POLSAT SPORT FIGHT HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/15989
+#EXTINF:-1,POLSAT SPORT HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/15988
+#EXTINF:-1,POLSAT SPORT NEWS HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/15987
+#EXTINF:-1,POLSAT VIASAT HISTORY HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/15986
+#EXTINF:-1,POLSAT VIASAT NATURE HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/15985
+#EXTINF:-1,STARS.TV
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/15984
+#EXTINF:-1,TEF CHANNEL
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/15983
+#EXTINF:-1,TELE 5
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/15982
+#EXTINF:-1,TELETOON  HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/15981
+#EXTINF:-1,TRACE TV
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/15980
+#EXTINF:-1,TRAVEL CHANNEL HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/15979
+#EXTINF:-1,TTV HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/15978
+#EXTINF:-1,TV OKAZJE
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/15977
+#EXTINF:-1,TV PULS HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/15976
+#EXTINF:-1,TV4 HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/15975
+#EXTINF:-1,TV6
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/15974
+#EXTINF:-1,TVA VICENZA
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/15973
+#EXTINF:-1,TVN 24 HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/15972
+#EXTINF:-1,TVN 7 HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/15971
+#EXTINF:-1,TVN FABULA
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/15970
+#EXTINF:-1,TVN HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/15969
+#EXTINF:-1,TVN STYLE HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/15968
+#EXTINF:-1,TVN TURBO HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/15967
+#EXTINF:-1,TVP 1 HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/15966
+#EXTINF:-1,TVP 2 HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/15965
+#EXTINF:-1,TVP HISTORIA
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/15964
+#EXTINF:-1,TVP KULTURA
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/15963
+#EXTINF:-1,TVP ROZRYWKA
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/15962
+#EXTINF:-1,TVP SERIALE
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/15961
+#EXTINF:-1,TVP SPORT HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/15960
+#EXTINF:-1,TVR INTERNATIONAL HB
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/15959
+#EXTINF:-1,TVS
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/15958
+#EXTINF:-1,UNIRESAT HD
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/15957
+#EXTINF:-1,VH1
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/15956
+#EXTINF:-1,VOX MUSIC TV
+http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/15955
