@@ -174,17 +174,17 @@ https://cdn1.vtcnow.vn/live/eds/VTC1_1/hlsv3/VTC1_1-audio_20000=212400-video=179
 https://cdn1.vtcnow.vn/live/eds/VTC2_2/hlsv3/VTC2_2-audio_20000=212400-video=1275600.m3u8
 #EXTINF:-1, group-title="VTC" tvg-logo="https://www.upsieutoc.com/images/2018/11/12/VTC3.jpg",VTC3 SD
 http://live.cdn.mobifonetv.vn/motv2/myvtc3_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_yeah1-family-vtc4_146312575079.png?w=345&h=210&mode=scale",VTC4-Yeah1! Family
+#EXTINF:-1 group-title="VTC" tvg-logo="https://www.upsieutoc.com/images/2018/11/12/VTC4.jpg",VTC4-Yeah1! Family
 https://cdn1.vtcnow.vn/live/eds/VTC4_4/hlsv3/VTC4_4-audio_20000=212400-video=1275600.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="https://gg.gg/vtc-5-sc-tv",VTC5 SD - Giải trí tổng hợp SCTV
 http://vtsstr4.sctv.vn:1935/testlive1/vtc5_SD.smil/playlist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://gg.gg/vtc-5-sc-tv",VTC5 HD - Giải trí tổng hợp SCTV
+#EXTINF:-1 group-title="VTC" tvg-logo="https://www.upsieutoc.com/images/2018/11/12/VTC5.jpg",VTC5 HD - Giải trí tổng hợp SCTV
 https://cdn1.vtcnow.vn/live/eds/VTC5_5/hlsv3/VTC5_5-audio_20000=212400-video=1275600.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="https://www.upsieutoc.com/images/2018/11/12/VTC6.jpg",VTC6
 https://cdn1.vtcnow.vn/live/eds/VTC6_6/hlsv3/VTC6_6-audio_20000=212400-video=1275600.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="http://mobion.vn/Files/Image/admin/2017/12/08/temp_621947320104103.jpg",VTC7-Today TV HD
+#EXTINF:-1 group-title="VTC" tvg-logo="https://www.upsieutoc.com/images/2018/11/12/VTC7.jpg",VTC7-Today TV HD
 https://cdn1.vtcnow.vn/live/eds/VTC7_7/hlsv3/VTC7_7-audio_20000=212400-video=800000.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://gg.gg/vtc-8-nam-bo",VTC8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://www.upsieutoc.com/images/2018/11/12/VTC8.jpg",VTC8
 https://cdn1.vtcnow.vn/live/eds/VTC8_8/hlsv3/VTC8_8-audio_20000=212400-video=1275600.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="https://gg.gg/vtc-9-hd",VTC9 HD
 https://cdn1.vtcnow.vn/live/eds/VTC9_9/hlsv3/VTC9_9-audio_20000=212400-video=572800.m3u8
