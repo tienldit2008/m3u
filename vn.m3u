@@ -136,7 +136,7 @@ https://cdn1.vtcnow.vn/live/eds/VTC10_10/hlsv3/VTC10_10-audio_20000=212400-video
 https://cdn1.vtcnow.vn/live/eds/VTC11_11/hlsv3/VTC11_11-audio_20000=212400-video=1275600.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="VTC"tvg-logo="http://topshoppingtv.vn/assets/images/logo.png",VTC12-Top Shoppng
 
-#EXTINF:-1 tvg-logo="https://gg.gg/vtc-13-hd" group-title=",VTC13 HD
+#EXTINF:-1 tvg-logo="https://www.upsieutoc.com/images/2018/11/12/VTC13.jpg" group-title=",VTC13 HD
 https://cdn1.vtcnow.vn/live/eds/VTC13_13/hlsv3/VTC13_13-audio_20000=212400-video=867200.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="VTC"tvg-logo="https://www.upsieutoc.com/images/2018/11/12/VTC14.jpg",VTC14 HD
 https://cdn1.vtcnow.vn/live/eds/VTC14_14/hlsv3/VTC14_14-audio_20000=212400-video=1582000.m3u8
