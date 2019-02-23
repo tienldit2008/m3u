@@ -1,189 +1,347 @@
 #EXTM3U
-#EXTINF:-1,LA 2
-http://line.myott.net:80/live/1234/4321/36551.m3u8
-#EXTINF:-1,NOVA
-http://line.myott.net:80/live/1234/4321/37021.m3u8
-#EXTINF:-1,LA SEXTA HD
-http://line.myott.net:80/live/1234/4321/36534.m3u8
-#EXTINF:-1,ANTENA 3 HD
-http://line.myott.net:80/live/1234/4321/36536.m3u8
-#EXTINF:-1,CUATRO HD
-http://line.myott.net:80/live/1234/4321/36535.m3u8
-#EXTINF:-1,TELECINCO HD
-http://line.myott.net:80/live/1234/4321/36531.m3u8
-#EXTINF:-1,CANAL 24 HORAS
-http://line.myott.net:80/live/1234/4321/36549.m3u8
-#EXTINF:-1,24 HORAS
-http://line.myott.net:80/live/1234/4321/36485.m3u8
-#EXTINF:-1,TVE INTERNACIONAL
-http://line.myott.net:80/live/1234/4321/36550.m3u8
-#EXTINF:-1,FDF
-http://line.myott.net:80/live/1234/4321/36490.m3u8
-#EXTINF:-1,CLAN TVE
-http://line.myott.net:80/live/1234/4321/36491.m3u8
-#EXTINF:-1,HOLLYWOOD HD
-http://line.myott.net:80/live/1234/4321/36541.m3u8
-#EXTINF:-1,IBERALIA
-http://line.myott.net:80/live/1234/4321/36475.m3u8
-#EXTINF:-1,MEGA HD
-http://line.myott.net:80/live/1234/4321/37185.m3u8
-#EXTINF:-1, ##### NINOS #####
-http://line.myott.net:80/live/1234/4321/5384.m3u8
-#EXTINF:-1,BABY TV
-http://line.myott.net:80/live/1234/4321/36504.m3u8
-#EXTINF:-1,BOING
-http://line.myott.net:80/live/1234/4321/36502.m3u8
-#EXTINF:-1,CANAL PANDA
-http://line.myott.net:80/live/1234/4321/36466.m3u8
-#EXTINF:-1,COMEDY CENTRAL HD
-http://line.myott.net:80/live/1234/4321/36515.m3u8
-#EXTINF:-1,DISNEY HD
-http://line.myott.net:80/live/1234/4321/36521.m3u8
-#EXTINF:-1,DISNEY JR
-http://line.myott.net:80/live/1234/4321/36476.m3u8
-#EXTINF:-1,DISNEY XD
-http://line.myott.net:80/live/1234/4321/36480.m3u8
-#EXTINF:-1,NICKELODEON  HD
-http://line.myott.net:80/live/1234/4321/36525.m3u8
-#EXTINF:-1, ##### ENTRETENIMIENTO  #####
-http://line.myott.net:80/live/1234/4321/5381.m3u8
-#EXTINF:-1,FOX HD
-http://line.myott.net:80/live/1234/4321/36542.m3u8
-#EXTINF:-1,FOX LIFE HD
-http://line.myott.net:80/live/1234/4321/36513.m3u8
-#EXTINF:-1,FOX NEWS
-http://line.myott.net:80/live/1234/4321/36498.m3u8
-#EXTINF:-1,0 HD
-http://line.myott.net:80/live/1234/4321/36523.m3u8
-#EXTINF:-1,AMC HD
-http://line.myott.net:80/live/1234/4321/36537.m3u8
-#EXTINF:-1,ARAGON
-http://line.myott.net:80/live/1234/4321/36468.m3u8
-#EXTINF:-1,AXN
-http://line.myott.net:80/live/1234/4321/36477.m3u8
-#EXTINF:-1,AXN HD
-http://line.myott.net:80/live/1234/4321/36548.m3u8
-#EXTINF:-1,AXN WHITE HD
-http://line.myott.net:80/live/1234/4321/36510.m3u8
-#EXTINF:-1,SYFY HD
-http://line.myott.net:80/live/1234/4321/36506.m3u8
-#EXTINF:-1,TCM HD
-http://line.myott.net:80/live/1234/4321/36518.m3u8
-#EXTINF:-1,TNT HD
-http://line.myott.net:80/live/1234/4321/36517.m3u8
-#EXTINF:-1,BE MAD
-http://line.myott.net:80/live/1234/4321/36467.m3u8
-#EXTINF:-1,BLAZE
-http://line.myott.net:80/live/1234/4321/36484.m3u8
-#EXTINF:-1,CALLE 13 HD
-http://line.myott.net:80/live/1234/4321/36530.m3u8
-#EXTINF:-1,CANAL COCINA
-http://line.myott.net:80/live/1234/4321/36488.m3u8
-#EXTINF:-1,CANAL DECASA
-http://line.myott.net:80/live/1234/4321/36494.m3u8
-#EXTINF:-1,CANAL ODISEA
-http://line.myott.net:80/live/1234/4321/36493.m3u8
-#EXTINF:-1,CANAL SUR
-http://line.myott.net:80/live/1234/4321/36483.m3u8
-#EXTINF:-1,CAZA Y PESCA HD
-http://line.myott.net:80/live/1234/4321/36522.m3u8
-#EXTINF:-1,CLASSICA
-http://line.myott.net:80/live/1234/4321/36473.m3u8
-#EXTINF:-1,COSMO HD
-http://line.myott.net:80/live/1234/4321/36514.m3u8
-#EXTINF:-1,CRIMEN Y INVES
-http://line.myott.net:80/live/1234/4321/36482.m3u8
-#EXTINF:-1,DIVINITY
-http://line.myott.net:80/live/1234/4321/36501.m3u8
-#EXTINF:-1,ENERGY
-http://line.myott.net:80/live/1234/4321/36500.m3u8
-#EXTINF:-1,##### SPORTS #####
-http://line.myott.net:80/live/1234/4321/5388.m3u8
-#EXTINF:-1,LA LIGA 123 TV HD
-http://line.myott.net:80/live/1234/4321/51268.m3u8
-#EXTINF:-1,M.CAMPEONES HD
-http://line.myott.net:80/live/1234/4321/36516.m3u8
-#EXTINF:-1,LA LIGA TV HD
-http://line.myott.net:80/live/1234/4321/36546.m3u8
-#EXTINF:-1,LA LIGA HD
-http://line.myott.net:80/live/1234/4321/36543.m3u8
-#EXTINF:-1,EUROSPORT 1 HD
-http://line.myott.net:80/live/1234/4321/36529.m3u8
-#EXTINF:-1,EUROSPORT 1
-http://line.myott.net:80/live/1234/4321/36499.m3u8
-#EXTINF:-1,EUROSPORT 2
-http://line.myott.net:80/live/1234/4321/36471.m3u8
-#EXTINF:-1,FORMULA 1 HD
-http://line.myott.net:80/live/1234/4321/36533.m3u8
-#EXTINF:-1,GOL
-http://line.myott.net:80/live/1234/4321/36497.m3u8
-#EXTINF:-1,BAR TV
-http://line.myott.net:80/live/1234/4321/36503.m3u8
-#EXTINF:-1,R. MADRID TV
-http://line.myott.net:80/live/1234/4321/36465.m3u8
-#EXTINF:-1,TOROS HD
-http://line.myott.net:80/live/1234/4321/36524.m3u8
-#EXTINF:-1,M. FORMULA 1
-http://line.myott.net:80/live/1234/4321/36495.m3u8
-#EXTINF:-1,M. FTBOL HD
-http://line.myott.net:80/live/1234/4321/36538.m3u8
-#EXTINF:-1,M. GOLF HD
-http://line.myott.net:80/live/1234/4321/36512.m3u8
-#EXTINF:-1,M. PARTIDAZO HD (ONLY DURING LIVE MATCHES)
-http://line.myott.net:80/live/1234/4321/36544.m3u8
-#EXTINF:-1, ##### MOVIESTAR #####
-http://line.myott.net:80/live/1234/4321/5380.m3u8
-#EXTINF:-1,M. ACCION HD
-http://line.myott.net:80/live/1234/4321/36540.m3u8
-#EXTINF:-1,M. CINE ESP
-http://line.myott.net:80/live/1234/4321/36478.m3u8
-#EXTINF:-1,M. COMEDIA HD
-http://line.myott.net:80/live/1234/4321/36545.m3u8
-#EXTINF:-1,M. DCINE HD
-http://line.myott.net:80/live/1234/4321/36539.m3u8
-#EXTINF:-1,M. DISNEY
-http://line.myott.net:80/live/1234/4321/36496.m3u8
-#EXTINF:-1,M. ESTRENOS HD
-http://line.myott.net:80/live/1234/4321/36507.m3u8
-#EXTINF:-1,M. SERIES HD
-http://line.myott.net:80/live/1234/4321/36520.m3u8
-#EXTINF:-1,M. SERIES XTRA HD
-http://line.myott.net:80/live/1234/4321/36511.m3u8
-#EXTINF:-1,M. XTRA HD
-http://line.myott.net:80/live/1234/4321/36508.m3u8
-#EXTINF:-1, ##### DEPORTES #####
-http://line.myott.net:80/live/1234/4321/5382.m3u8
-#EXTINF:-1,M. DEP2 HD
-http://line.myott.net:80/live/1234/4321/36509.m3u8
-#EXTINF:-1,M. DEPORTE 1 HD
-http://line.myott.net:80/live/1234/4321/36528.m3u8
-#EXTINF:-1,TELE DEPORTE
-http://line.myott.net:80/live/1234/4321/36486.m3u8
-#EXTINF:-1, ##### MUSICA #####
-http://line.myott.net:80/live/1234/4321/5385.m3u8
-#EXTINF:-1,MEZZO LIVE HD
-http://line.myott.net:80/live/1234/4321/36527.m3u8
-#EXTINF:-1,MOTOGP HD
-http://line.myott.net:80/live/1234/4321/36532.m3u8
-#EXTINF:-1,MTV ROCKS
-http://line.myott.net:80/live/1234/4321/36474.m3u8
-#EXTINF:-1, ##### CULTURA #####
-http://line.myott.net:80/live/1234/4321/5383.m3u8
-#EXTINF:-1,DISCOVERY
-http://line.myott.net:80/live/1234/4321/36481.m3u8
-#EXTINF:-1,NAT GEO HD
-http://line.myott.net:80/live/1234/4321/36526.m3u8
-#EXTINF:-1,NAT GEO WILD
-http://line.myott.net:80/live/1234/4321/36489.m3u8
-#EXTINF:-1,NAT WILD HD
-http://line.myott.net:80/live/1234/4321/36519.m3u8
-#EXTINF:-1,NEOX
-http://line.myott.net:80/live/1234/4321/36470.m3u8
-#EXTINF:-1,PARAMOUNT
-http://line.myott.net:80/live/1234/4321/36472.m3u8
-#EXTINF:-1,VH1
-http://line.myott.net:80/live/1234/4321/36469.m3u8
-#EXTINF:-1,VIAJAR HD
-http://line.myott.net:80/live/1234/4321/36505.m3u8
-#EXTINF:-1,HISTORIA
-http://line.myott.net:80/live/1234/4321/36479.m3u8
+#EXTINF:0#
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2818
+#EXTINF:0# FHD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2817
+#EXTINF:LA 1
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2741
+#EXTINF:LA 1 FHD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2740
+#EXTINF:LA 2
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2739
+#EXTINF:La 2 FHD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2738
+#EXTINF:ANTENA 3
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2809
+#EXTINF:ANTENA 3 FHD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2808
+#EXTINF:CUATRO
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2773
+#EXTINF:CUATRO FHD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2772
+#EXTINF:TELECINCO
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2646
+#EXTINF:TELECINCO FHD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2645
+#EXTINF:LA SEXTA
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2735
+#EXTINF:LA SEXTA  FHD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2734
+#EXTINF: NOVA
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2635
+#EXTINF:DIVINITY
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2764
+#EXTINF:LIGA TV
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2718
+#EXTINF:LIGA TV HD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2719
+#EXTINF:LA LIGATV BAR 1
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2737
+#EXTINF:BEIN LALIGA
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2797
+#EXTINF:BEIN LALIGA FHD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2791
+#EXTINF:BEIN LALIGA 1
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2796
+#EXTINF:BEIN  LALIGA 2
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2798
+#EXTINF:BEIN LALIGA 2 FHD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2795
+#EXTINF: BEIN  LALIGA 3
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2639
+#EXTINF: BEIN  LALIGA 4
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2638
+#EXTINF: BEIN LALIGA 5
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2637
+#EXTINF:BEIN LALIGA 6
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2794
+#EXTINF:BEIN LALIGA 7
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2793
+#EXTINF:BEIN LALIGA 8
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2792
+#EXTINF:MOVISTAR  F1
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2708
+#EXTINF:MOVISTAR  MOTO GP
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2707
+#EXTINF:REAL MADRID FHD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2655
+#EXTINF:AXN
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2806
+#EXTINF:AXN FHD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2803
+#EXTINF:AXN  WHITE
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2805
+#EXTINF:AXN  WHITE FHD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2804
+#EXTINF:FOX
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2753
+#EXTINF:FOX FHD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2752
+#EXTINF:FOX LIFE
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2751
+#EXTINF:FOX LIFE FHD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2750
+#EXTINF:CALLE 13
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2789
+#EXTINF:CALLE 13 FHD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2788
+#EXTINF:SYFY
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2650
+#EXTINF:SYFY FHD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2649
+#EXTINF: BOING
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2636
+#EXTINF:13 TV
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2816
+#EXTINF:24 HORAS
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2815
+#EXTINF:7Rrgional de Murcia  FHD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2814
+#EXTINF:A3SERIES
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2813
+#EXTINF:AMC
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2812
+#EXTINF:AMC FHD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2811
+#EXTINF:ANDALUCIA TV
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2810
+#EXTINF:ARAGON TV
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2807
+#EXTINF:BABY  TV
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2802
+#EXTINF:BARCA TV
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2801
+#EXTINF:BE MAD FHD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2799
+#EXTINF:BLAZE
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2790
+#EXTINF:CANAL ORBE21
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2787
+#EXTINF:CANAL SUR FHD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2786
+#EXTINF:CAZA  Y PESCA
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2785
+#EXTINF:CAZA Y PESCA FHD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2784
+#EXTINF:CI
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2783
+#EXTINF:CLAN
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2782
+#EXTINF:CMM HD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2780
+#EXTINF:COCINA
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2779
+#EXTINF:COCINA FHD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2778
+#EXTINF:COMEDY CENTRAL
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2777
+#EXTINF:COMEDY CENTRAL FHD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2776
+#EXTINF:COSMOS
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2774
+#EXTINF:DARK
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2771
+#EXTINF:DECASA
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2770
+#EXTINF:DISCOVERY CHANNEL
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2769
+#EXTINF:DISNEY  JUNIOR
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2768
+#EXTINF:DISNEY  XD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2767
+#EXTINF:DISNEY CHANNEL
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2766
+#EXTINF:DISNEY CHANNEL FHD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2765
+#EXTINF:DMAX
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2762
+#EXTINF:ENERGY
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2761
+#EXTINF:ESPORT 3
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2760
+#EXTINF:ETB 1
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2759
+#EXTINF:Eurosport  2
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2758
+#EXTINF:EUROSPORT 1 FHD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2757
+#EXTINF:EUROSPORT ES
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2756
+#EXTINF:EXTREMADURA TV
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2755
+#EXTINF:FDF
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2754
+#EXTINF:GOL TV
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2749
+#EXTINF:HISTORIA
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2748
+#EXTINF:HISTORIA FHD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2747
+#EXTINF:HIT TV
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2746
+#EXTINF:HOLLYWOOD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2745
+#EXTINF:HOLLYWOOD FHD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2744
+#EXTINF:Iberalia
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2743
+#EXTINF:INTERECONOMIA
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2742
+#EXTINF:LA OTRA
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2736
+#EXTINF:LALiga 123 SD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2732
+#EXTINF:LALIGA 123 FHD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2733
+#EXTINF:LIGA 123 Mult1
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2731
+#EXTINF:LIGA 123 Multi2
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2730
+#EXTINF:LIGA 123 Multi3
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2729
+#EXTINF:LIGA CAMPEONES 2 FHD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2728
+#EXTINF:LIGA DE CAMPEONES 1 EspaÒa
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2727
+#EXTINF:LIGA DE CAMPEONES 2  EspaÒa
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2726
+#EXTINF:LIGA DE CAMPEONES 3  EspaÒa
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2725
+#EXTINF:LIGA DE CAMPEONES 5  EspaÒa
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2724
+#EXTINF:LIGA DE CAMPEONES 6  EspaÒa
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2723
+#EXTINF:LIGA DE CAMPEONES 7  EspaÒa
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2722
+#EXTINF:LIGA DE CAMPEONES 8 ESPA—A
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2721
+#EXTINF:LIGA DE CAMPEONES 4  EspaÒa
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2720
+#EXTINF:M. disney
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2716
+#EXTINF:M. Liga de campeones
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2715
+#EXTINF:MEGA
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2713
+#EXTINF:MOVISTAR  ACCION
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2709
+#EXTINF:Movistar #Vamos
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2706
+#EXTINF:MOVISTAR ACCION  FHD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2705
+#EXTINF:Movistar CineDoc&Roll
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2704
+#EXTINF:MOVISTAR COMEDIA
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2702
+#EXTINF:MOVISTAR COMEDIA FHD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2701
+#EXTINF:Movistar Deporte
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2700
+#EXTINF:Movistar Deportes1 FHD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2699
+#EXTINF:Movistar Drama
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2698
+#EXTINF:Movistar Drama FHD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2697
+#EXTINF:MOVISTAR ESTRENOS
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2695
+#EXTINF:MOVISTAR ESTRENOS FHD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2694
+#EXTINF:MOVISTAR F1 FHD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2693
+#EXTINF:MOVISTAR GOLF
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2692
+#EXTINF:MOVISTAR GOLF FHD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2691
+#EXTINF:MOVISTAR MOTO GP FHD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2690
+#EXTINF:MOVISTAR PARTIDAZO ( SOLO EVENTOS )
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2689
+#EXTINF:MOVISTAR PARTIDAZOS FHD ( SOLO EVENTOS )
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2688
+#EXTINF:MOVISTAR SERIES
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2687
+#EXTINF:MOVISTAR SERIES FHD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2686
+#EXTINF:Movistar SeriesmanÌa
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2685
+#EXTINF:Movistar SeriesmanÌa FHD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2684
+#EXTINF:Movistar Vamos FHD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2683
+#EXTINF:MULTIFUTBOL 1
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2674
+#EXTINF:MULTIFUTBOL 2
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2673
+#EXTINF:MULTIFUTBOL 3
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2672
+#EXTINF:MULTIFUTBOL 4
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2671
+#EXTINF:MULTIFUTBOL 5
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2670
+#EXTINF:MULTIFUTBOL 6
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2669
+#EXTINF:MULTIFUTBOL 7
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2668
+#EXTINF:MULTIFUTBOL 8
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2667
+#EXTINF:NAT GEO
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2666
+#EXTINF:NAT GEO FHD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2665
+#EXTINF:NAT GEO WILD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2664
+#EXTINF:NAT GEO WILD FHD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2663
+#EXTINF:NEOX
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2662
+#EXTINF:NICK JR
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2661
+#EXTINF:NICKELODEON
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2660
+#EXTINF:NICKELODEON FHD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2659
+#EXTINF:ODISEA
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2658
+#EXTINF:PANDA
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2657
+#EXTINF:PARAMOUNT CHANNEL
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2656
+#EXTINF:SOMOS
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2653
+#EXTINF:SUNDANCE
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2652
+#EXTINF:SUNDANCE FHD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2651
+#EXTINF:TCM
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2648
+#EXTINF:TCM FHD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2647
+#EXTINF:TELEDEPORTE
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2644
+#EXTINF:TELEDEPORTE FHD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2643
+#EXTINF:TELEMADRID FHD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2642
+#EXTINF:TEN
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2641
+#EXTINF:TNT
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2640
+#EXTINF:TNT FHD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2634
+#EXTINF:TOROS TV
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2633
+#EXTINF:Viajar
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2632
+#EXTINF:VIAJAR FHD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2631
+#EXTINF:XTRM
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2630
+#EXTINF:0,7RM FHD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2629
+#EXTINF:0,MOVISTAR DCINE  —
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2628
+#EXTINF:0,MOVISTAR XTRA FHD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2627
+#EXTINF:0,MULTIDEPORTE
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2626
