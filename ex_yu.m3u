@@ -1,109 +1,175 @@
 #EXTM3U
-#EXTINF:0,AMC
-http://212.200.127.246:4022/udp/239.1.0.44:1234
-#EXTINF:0,AMC HD
-http://212.200.127.246:4022/udp/239.1.1.44:1234
-#EXTINF:0,Animal Planet
-http://212.200.127.246:4022/udp/239.1.0.73:1234
-#EXTINF:0,Animal Planet HD
-http://212.200.127.246:4022/udp/239.1.1.73:1234
-#EXTINF:0,Arena Sport 1
-http://212.200.127.246:4022/udp/239.1.0.23:1234
-#EXTINF:0,Arena Sport 2
-http://212.200.127.246:4022/udp/239.1.0.24:1234
-#EXTINF:0,AXN Adria
-http://212.200.127.246:4022/udp/239.1.0.31:1234
-#EXTINF:0,AXN HD
-http://212.200.127.246:4022/udp/239.1.1.31:1234
-#EXTINF:0,Baby TV
-http://212.200.127.246:4022/udp/239.1.0.191:1234
-#EXTINF:0,Discovery HD
-http://212.200.127.246:4022/udp/239.1.1.32:1234
-#EXTINF:0,Discovery Serbia
-http://212.200.127.246:4022/udp/239.1.0.32:1234
-#EXTINF:0,DM Sat
-http://212.200.127.246:4022/udp/239.1.0.202:1234
-#EXTINF:0,DM Sat HD
-http://212.200.127.246:4022/udp/239.1.1.202:1234
-#EXTINF:0,Eurosport
-http://212.200.127.246:4022/udp/239.1.0.82:1234
-#EXTINF:0,Eurosport 2
-http://212.200.127.246:4022/udp/239.1.0.125:1234
-#EXTINF:0,Film Box Plus
-http://212.200.127.246:4022/udp/239.1.0.37:1234
-#EXTINF:0,Filmbox Plus HD
-http://212.200.127.246:4022/udp/239.1.1.37:1234
-#EXTINF:3600,Hayatovci
-http://212.200.127.246:4022/udp/239.1.0.201:1234
-#EXTINF:0,ID Xtra
-http://212.200.127.246:4022/udp/239.1.0.14:1234
-#EXTINF:0,ID Xtra HD
-http://212.200.127.246:4022/udp/239.1.1.14:1234
-#EXTINF:0,KCN Kopernikus 1
-http://212.200.127.246:4022/udp/239.1.0.33:1234
-#EXTINF:0,Minimax
-http://212.200.127.246:4022/udp/239.1.0.38:1234
-#EXTINF:0,Minimax HD
-http://212.200.127.246:4022/udp/239.1.1.38:1234
-#EXTINF:0,Nat Geo HD
-http://212.200.127.246:4022/udp/239.1.1.35:1234
-#EXTINF:0,Nat Geo Wild HD
-http://212.200.127.246:4022/udp/239.1.1.7:1234
-#EXTINF:0,National Geographic
-http://212.200.127.246:4022/udp/239.1.0.35:1234
-#EXTINF:0,NG Wild
-http://212.200.127.246:4022/udp/239.1.0.7:1234
-#EXTINF:0,Nick Jr
-http://212.200.127.246:4022/udp/239.1.0.62:1234
-#EXTINF:0,O2 TV
-http://212.200.127.246:4022/udp/239.1.0.154:1234
-#EXTINF:0,O2 TV HD
-http://212.200.127.246:4022/udp/239.1.1.154:1234
-#EXTINF:0,OBN
-http://212.200.127.246:4022/udp/239.1.0.40:1234
-#EXTINF:0,PINK
-http://212.200.127.246:4022/udp/239.1.0.153:1234
-#EXTINF:0,Pink Comedy
-http://212.200.127.246:4022/udp/239.1.0.184:1234
-#EXTINF:0,Pink Crime & Mystery
-http://212.200.127.246:4022/udp/239.1.0.172:1234
-#EXTINF:0,Pink Folk
-http://212.200.127.246:4022/udp/239.1.0.183:1234
-#EXTINF:0,Pink HD
-http://212.200.127.246:4022/udp/239.1.1.153:1234
-#EXTINF:0,Pink Premium
-http://212.200.127.246:4022/udp/239.1.0.176:1234
-#EXTINF:0,Pink Sci-Fi & Fantasy
-http://212.200.127.246:4022/udp/239.1.0.174:1234
-#EXTINF:0,Pink Thriller
-http://212.200.127.246:4022/udp/239.1.0.171:1234
-#EXTINF:0,PRVA
-http://212.200.127.246:4022/udp/239.1.0.155:1234
-#EXTINF:0,PRVA HD
-http://212.200.127.246:4022/udp/239.1.1.155:1234
-#EXTINF:0,PTC 1 HD
-http://212.200.127.246:4022/udp/239.1.1.151:1234
-#EXTINF:0,PTC 2 HD
-http://212.200.127.246:4022/udp/239.1.1.152:1234
-#EXTINF:0,RTS 1 HD
-http://212.200.127.246:4022/udp/239.1.0.151:1234
-#EXTINF:0,RTS 2 HD
-http://212.200.127.246:4022/udp/239.1.0.152:1234
-#EXTINF:0,RTS 3
-http://212.200.127.246:4022/udp/239.1.0.159:1234
-#EXTINF:0,RTV 1
-http://212.200.127.246:4022/udp/239.1.0.157:1234
-#EXTINF:0,RTV 1 HD
-http://212.200.127.246:4022/udp/239.1.1.157:1234
-#EXTINF:0,RTV 2
-http://212.200.127.246:4022/udp/239.1.0.158:1234
-#EXTINF:0,SOS Kanal
-http://212.200.127.246:4022/udp/239.1.0.42:1234
-#EXTINF:0,The Voice
-http://212.200.127.246:4022/udp/239.1.0.60:1234
-#EXTINF:0,Viasat Explore HD
-http://212.200.127.246:4022/udp/239.1.1.3:1234
-#EXTINF:0,Viasat Explorer
-http://212.200.127.246:4022/udp/239.1.0.3:1234
-#EXTINF:0,Viasat History
-http://212.200.127.246:4022/udp/239.1.0.36:1234
+#EXTINF:-1,Hrt 1
+http://red-vip.com:8080/Volkan41/volkan41/13118
+#EXTINF:-1,Hrt 2
+http://red-vip.com:8080/Volkan41/volkan41/13117
+#EXTINF:-1,Hrt 3
+http://red-vip.com:8080/Volkan41/volkan41/13119
+#EXTINF:-1,Hrt 4
+http://red-vip.com:8080/Volkan41/volkan41/13116
+#EXTINF:-1,Rtl
+http://red-vip.com:8080/Volkan41/volkan41/13111
+#EXTINF:-1,Rtl 2
+http://red-vip.com:8080/Volkan41/volkan41/13112
+#EXTINF:-1,Rtl Kockica
+http://red-vip.com:8080/Volkan41/volkan41/13105
+#EXTINF:-1,Rtl Kockica
+http://red-vip.com:8080/Volkan41/volkan41/13109
+#EXTINF:-1,Rtl Crime
+http://red-vip.com:8080/Volkan41/volkan41/21265
+#EXTINF:-1,Rtl Living
+http://red-vip.com:8080/Volkan41/volkan41/21264
+#EXTINF:-1,Rtl Passion
+http://red-vip.com:8080/Volkan41/volkan41/21263
+#EXTINF:-1,Nova
+http://red-vip.com:8080/Volkan41/volkan41/13099
+#EXTINF:-1,Nova Tv
+http://red-vip.com:8080/Volkan41/volkan41/21280
+#EXTINF:-1,Nova World
+http://red-vip.com:8080/Volkan41/volkan41/21279
+#EXTINF:-1,Doma Tv
+http://red-vip.com:8080/Volkan41/volkan41/13102
+#EXTINF:-1,Jugoton Tv
+http://red-vip.com:8080/Volkan41/volkan41/21289
+#EXTINF:-1,Klasik Tv
+http://red-vip.com:8080/Volkan41/volkan41/21287
+#EXTINF:-1,Narodni Tv
+http://red-vip.com:8080/Volkan41/volkan41/21282
+#EXTINF:-1,Obn
+http://red-vip.com:8080/Volkan41/volkan41/13093
+#EXTINF:-1,Cmc
+http://red-vip.com:8080/Volkan41/volkan41/26604
+#EXTINF:-1,Bht Hd
+http://red-vip.com:8080/Volkan41/volkan41/13107
+#EXTINF:-1,Bosnatv1
+http://red-vip.com:8080/Volkan41/volkan41/13091
+#EXTINF:-1,Discovery Channel
+http://red-vip.com:8080/Volkan41/volkan41/13090
+#EXTINF:-1,Dm Sat
+http://red-vip.com:8080/Volkan41/volkan41/13115
+#EXTINF:-1,Face Tv
+http://red-vip.com:8080/Volkan41/volkan41/13114
+#EXTINF:-1,Happy Tv
+http://red-vip.com:8080/Volkan41/volkan41/13094
+#EXTINF:-1,Hbo 1
+http://red-vip.com:8080/Volkan41/volkan41/21293
+#EXTINF:-1,Hbo 2
+http://red-vip.com:8080/Volkan41/volkan41/21292
+#EXTINF:-1,Hbo 3
+http://red-vip.com:8080/Volkan41/volkan41/21291
+#EXTINF:-1,Kanal 5
+http://red-vip.com:8080/Volkan41/volkan41/13096
+#EXTINF:-1,Prva
+http://red-vip.com:8080/Volkan41/volkan41/13095
+#EXTINF:-1,Rts1
+http://red-vip.com:8080/Volkan41/volkan41/13106
+#EXTINF:-1,Rts2
+http://red-vip.com:8080/Volkan41/volkan41/13101
+#EXTINF:-1,Rts 2
+http://red-vip.com:8080/Volkan41/volkan41/21262
+#EXTINF:-1,Valentino Tv
+http://red-vip.com:8080/Volkan41/volkan41/13103
+#EXTINF:-1,Axn
+http://red-vip.com:8080/Volkan41/volkan41/21303
+#EXTINF:-1,Axn Spin
+http://red-vip.com:8080/Volkan41/volkan41/21302
+#EXTINF:-1,Baby Tv
+http://red-vip.com:8080/Volkan41/volkan41/21301
+#EXTINF:-1,Fox
+http://red-vip.com:8080/Volkan41/volkan41/21297
+#EXTINF:-1,Fox Crime
+http://red-vip.com:8080/Volkan41/volkan41/21296
+#EXTINF:-1,Fox Life
+http://red-vip.com:8080/Volkan41/volkan41/21295
+#EXTINF:-1,Fox Movies
+http://red-vip.com:8080/Volkan41/volkan41/21294
+#EXTINF:-1,Idj Tv
+http://red-vip.com:8080/Volkan41/volkan41/21290
+#EXTINF:-1,Kino Tv
+http://red-vip.com:8080/Volkan41/volkan41/21288
+#EXTINF:-1,Kreator Tv
+http://red-vip.com:8080/Volkan41/volkan41/21286
+#EXTINF:-1,Mini Tv
+http://red-vip.com:8080/Volkan41/volkan41/21285
+#EXTINF:-1,Minimax
+http://red-vip.com:8080/Volkan41/volkan41/21284
+#EXTINF:-1,Mtv Adria
+http://red-vip.com:8080/Volkan41/volkan41/21283
+#EXTINF:-1,Nick Jr.
+http://red-vip.com:8080/Volkan41/volkan41/21281
+#EXTINF:-1,Prva Max
+http://red-vip.com:8080/Volkan41/volkan41/21268
+#EXTINF:-1,Prva Plus
+http://red-vip.com:8080/Volkan41/volkan41/21267
+#EXTINF:-1,Prva World
+http://red-vip.com:8080/Volkan41/volkan41/21266
+#EXTINF:-1,TV 1000
+http://red-vip.com:8080/Volkan41/volkan41/21261
+#EXTINF:-1,Glas Drine
+http://red-vip.com:8080/Volkan41/volkan41/13100
+#EXTINF:-1,Pink
+http://red-vip.com:8080/Volkan41/volkan41/13098
+#EXTINF:-1,Pink Western
+http://red-vip.com:8080/Volkan41/volkan41/13092
+#EXTINF:-1,Pink Crime&mistery
+http://red-vip.com:8080/Volkan41/volkan41/13089
+#EXTINF:-1,Pink Comedy
+http://red-vip.com:8080/Volkan41/volkan41/13097
+#EXTINF:-1,Pink Film
+http://red-vip.com:8080/Volkan41/volkan41/13104
+#EXTINF:-1,Pink Folk 1
+http://red-vip.com:8080/Volkan41/volkan41/13110
+#EXTINF:-1,Pink Horror
+http://red-vip.com:8080/Volkan41/volkan41/13108
+#EXTINF:-1,Pink Plus
+http://red-vip.com:8080/Volkan41/volkan41/13113
+#EXTINF:-1,Pink Classic
+http://red-vip.com:8080/Volkan41/volkan41/21278
+#EXTINF:-1,Pink Crime & Mistery
+http://red-vip.com:8080/Volkan41/volkan41/21277
+#EXTINF:-1,Pink Folk 2
+http://red-vip.com:8080/Volkan41/volkan41/21276
+#EXTINF:-1,Pink Music
+http://red-vip.com:8080/Volkan41/volkan41/21275
+#EXTINF:-1,Pink Premium
+http://red-vip.com:8080/Volkan41/volkan41/21274
+#EXTINF:-1,Pink Sci Fi & Fantasy
+http://red-vip.com:8080/Volkan41/volkan41/21273
+#EXTINF:-1,Pink Serije
+http://red-vip.com:8080/Volkan41/volkan41/21272
+#EXTINF:-1,Pink Thriller
+http://red-vip.com:8080/Volkan41/volkan41/21271
+#EXTINF:-1,Pink Zabava
+http://red-vip.com:8080/Volkan41/volkan41/21270
+#EXTINF:-1,Eurosport 1
+http://red-vip.com:8080/Volkan41/volkan41/21299
+#EXTINF:-1,Eurosport 2
+http://red-vip.com:8080/Volkan41/volkan41/21298
+#EXTINF:-1,Ex Yu | Sport Klub 1
+http://red-vip.com:8080/Volkan41/volkan41/21311
+#EXTINF:-1,Ex Yu | Sport Klub 2
+http://red-vip.com:8080/Volkan41/volkan41/21310
+#EXTINF:-1,Ex Yu | Sport Klub 3
+http://red-vip.com:8080/Volkan41/volkan41/21309
+#EXTINF:-1,Ex Yu | Sport Klub 4
+http://red-vip.com:8080/Volkan41/volkan41/21308
+#EXTINF:-1,Arena Sport 1 (SRB)
+http://red-vip.com:8080/Volkan41/volkan41/21300
+#EXTINF:-1,Arena Sport 2 Srb
+http://red-vip.com:8080/Volkan41/volkan41/21307
+#EXTINF:-1,Arena Sport 3 Srb
+http://red-vip.com:8080/Volkan41/volkan41/21306
+#EXTINF:-1,Arena Sport 4 Srb
+http://red-vip.com:8080/Volkan41/volkan41/21305
+#EXTINF:-1,Arena Sport 5 Srb
+http://red-vip.com:8080/Volkan41/volkan41/21304
+#EXTINF:-1,Arena Sport 1 HR
+http://red-vip.com:8080/Volkan41/volkan41/21315
+#EXTINF:-1,Arena Sport 2 Hr
+http://red-vip.com:8080/Volkan41/volkan41/21314
+#EXTINF:-1,Arena Sport 3 Hr
+http://red-vip.com:8080/Volkan41/volkan41/21313
+#EXTINF:-1,Arena Sport 4 Hr
+http://red-vip.com:8080/Volkan41/volkan41/21312
+#EXTINF:-1,Arena Sport 6 Hr
+http://red-vip.com:8080/Volkan41/volkan41/21269
