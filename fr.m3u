@@ -1,649 +1,441 @@
 #EXTM3U
-#EXTINF:-1,TF1 HD
-http://line.myott.net:80/live/1234/4321/1380.m3u8
-#EXTINF:-1,FRANCE 2 HD
-http://line.myott.net:80/live/1234/4321/1381.m3u8
-#EXTINF:-1,FRANCE 3 HD
-http://line.myott.net:80/live/1234/4321/1382.m3u8
-#EXTINF:-1,FRANCE 4 HD
-http://line.myott.net:80/live/1234/4321/1383.m3u8
-#EXTINF:-1,FRANCE 5 HD
-http://line.myott.net:80/live/1234/4321/1384.m3u8
-#EXTINF:-1,FRANCE O HD
-http://line.myott.net:80/live/1234/4321/1385.m3u8
-#EXTINF:-1,M6 HD
-http://line.myott.net:80/live/1234/4321/1386.m3u8
-#EXTINF:-1,6TER HD
-http://line.myott.net:80/live/1234/4321/1391.m3u8
-#EXTINF:-1,TF1 SERIES FILMS HD
-http://line.myott.net:80/live/1234/4321/1396.m3u8
-#EXTINF:-1,TFX HD
-http://line.myott.net:80/live/1234/4321/19858.m3u8
-#EXTINF:-1,RTL 9 HD
-http://line.myott.net:80/live/1234/4321/121.m3u8
-#EXTINF:-1,TEVA HD
-http://line.myott.net:80/live/1234/4321/111.m3u8
-#EXTINF:-1,TMC HD
-http://line.myott.net:80/live/1234/4321/1401.m3u8
-#EXTINF:-1,W9 HD
-http://line.myott.net:80/live/1234/4321/1387.m3u8
+#EXTINF:-1,C 8 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96576.m3u8
 #EXTINF:-1,C8 HD
-http://line.myott.net:80/live/1234/4321/1402.m3u8
-#EXTINF:-1,CSTAR HD
-http://line.myott.net:80/live/1234/4321/3016.m3u8
-#EXTINF:-1,ARTE HD
-http://line.myott.net:80/live/1234/4321/1390.m3u8
-#EXTINF:-1,##### CH. CANAL+ #####
-http://line.myott.net:80/live/1234/4321/5332.m3u8
-#EXTINF:-1,CANAL+ HD
-http://line.myott.net:80/live/1234/4321/1404.m3u8
-#EXTINF:-1,CANAL+ SPORT HD
-http://line.myott.net:80/live/1234/4321/1407.m3u8
-#EXTINF:-1,CANAL+ SERIE HD
-http://line.myott.net:80/live/1234/4321/117.m3u8
-#EXTINF:-1,CANAL+ FAMILY HD
-http://line.myott.net:80/live/1234/4321/1406.m3u8
-#EXTINF:-1,CANAL+ DECALE HD
-http://line.myott.net:80/live/1234/4321/116.m3u8
-#EXTINF:-1,CANAL+ CINEMA HD
-http://line.myott.net:80/live/1234/4321/1405.m3u8
-#EXTINF:-1,##### CINEMA #####
-http://line.myott.net:80/live/1234/4321/5333.m3u8
-#EXTINF:-1,OCS MAX HD
-http://line.myott.net:80/live/1234/4321/1414.m3u8
-#EXTINF:-1,OCS CITY HD
-http://line.myott.net:80/live/1234/4321/1415.m3u8
-#EXTINF:-1,OCS GEANTS HD
-http://line.myott.net:80/live/1234/4321/1416.m3u8
-#EXTINF:-1,OCS CHOC HD
-http://line.myott.net:80/live/1234/4321/1417.m3u8
-#EXTINF:-1,CINE+ PREMIERE HD
-http://line.myott.net:80/live/1234/4321/1408.m3u8
-#EXTINF:-1,CINE+ FRISSON HD
-http://line.myott.net:80/live/1234/4321/1410.m3u8
-#EXTINF:-1,CINE+ EMOTION HD
-http://line.myott.net:80/live/1234/4321/1412.m3u8
-#EXTINF:-1,ACTION HD
-http://line.myott.net:80/live/1234/4321/119.m3u8
-#EXTINF:-1,CINE+ FAMIZ HD
-http://line.myott.net:80/live/1234/4321/118.m3u8
-#EXTINF:-1,CINE+ CLUB HD
-http://line.myott.net:80/live/1234/4321/1409.m3u8
-#EXTINF:-1,CINE+ CLASSIC HD
-http://line.myott.net:80/live/1234/4321/1411.m3u8
-#EXTINF:-1,PARAMOUNT CHANNEL HD
-http://line.myott.net:80/live/1234/4321/110.m3u8
-#EXTINF:-1,##### DIVERTISSEMENT #####
-http://line.myott.net:80/live/1234/4321/5334.m3u8
-#EXTINF:-1,POLAR+ HD
-http://line.myott.net:80/live/1234/4321/1413.m3u8
-#EXTINF:-1,SYFY HD
-http://line.myott.net:80/live/1234/4321/115.m3u8
-#EXTINF:-1,SERIE CLUB HD
-http://line.myott.net:80/live/1234/4321/19857.m3u8
-#EXTINF:-1,13 EME RUE HD
-http://line.myott.net:80/live/1234/4321/113.m3u8
-#EXTINF:-1,TV BREIZH HD
-http://line.myott.net:80/live/1234/4321/3017.m3u8
-#EXTINF:-1,COMEDIE HD
-http://line.myott.net:80/live/1234/4321/130.m3u8
-#EXTINF:-1,NRJ 12 HD
-http://line.myott.net:80/live/1234/4321/1389.m3u8
-#EXTINF:-1,RMC STORY HD
-http://line.myott.net:80/live/1234/4321/1393.m3u8
-#EXTINF:-1,CHERIE25 HD
-http://line.myott.net:80/live/1234/4321/1399.m3u8
-#EXTINF:-1,ELLE GIRL HD
-http://line.myott.net:80/live/1234/4321/3019.m3u8
-#EXTINF:-1,PARIS PREMIERE HD
-http://line.myott.net:80/live/1234/4321/114.m3u8
-#EXTINF:-1,VICELAND HD
-http://line.myott.net:80/live/1234/4321/58203.m3u8
-#EXTINF:-1,E! ENTERTAINMENT HD
-http://line.myott.net:80/live/1234/4321/3018.m3u8
-#EXTINF:-1,MY CUISINE
-http://line.myott.net:80/live/1234/4321/68015.m3u8
-#EXTINF:-1,J-ONE HD
-http://line.myott.net:80/live/1234/4321/19845.m3u8
-#EXTINF:-1,GAME ONE HD
-http://line.myott.net:80/live/1234/4321/145.m3u8
-#EXTINF:-1,MANGAS HD
-http://line.myott.net:80/live/1234/4321/149.m3u8
-#EXTINF:-1,AB 1 HD
-http://line.myott.net:80/live/1234/4321/128.m3u8
-#EXTINF:-1,AB 3 HD
-http://line.myott.net:80/live/1234/4321/46762.m3u8
-#EXTINF:-1,BET HD
-http://line.myott.net:80/live/1234/4321/19855.m3u8
-#EXTINF:-1,NT 1HD
-http://line.myott.net:80/live/1234/4321/1400.m3u8
-#EXTINF:-1,TV 5 MONDE
-http://line.myott.net:80/live/1234/4321/129.m3u8
-#EXTINF:-1,TELECLUB ZOOM
-http://line.myott.net:80/live/1234/4321/46760.m3u8
-#EXTINF:-1,TV8 MONT-BLANC
-http://line.myott.net:80/live/1234/4321/46755.m3u8
-#EXTINF:-1,KTO HD
-http://line.myott.net:80/live/1234/4321/19793.m3u8
-#EXTINF:-1,ALSACE 20 HD
-http://line.myott.net:80/live/1234/4321/19854.m3u8
-#EXTINF:-1,##### AFRICAN #####
-http://line.myott.net:80/live/1234/4321/4045.m3u8
-#EXTINF:-1,A+ HD
-http://line.myott.net:80/live/1234/4321/19851.m3u8
-#EXTINF:-1,NOLLYWOOD HD
-http://line.myott.net:80/live/1234/4321/19800.m3u8
-#EXTINF:-1,##### JEUNESSE #####
-http://line.myott.net:80/live/1234/4321/5338.m3u8
-#EXTINF:-1,TIJI HD
-http://line.myott.net:80/live/1234/4321/147.m3u8
-#EXTINF:-1,BOOMERANG HD
-http://line.myott.net:80/live/1234/4321/19846.m3u8
-#EXTINF:-1,CARTOON NETWORK HD
-http://line.myott.net:80/live/1234/4321/3036.m3u8
-#EXTINF:-1,TELETOON+ HD
-http://line.myott.net:80/live/1234/4321/148.m3u8
-#EXTINF:-1,TOONAMI HD
-http://line.myott.net:80/live/1234/4321/19844.m3u8
-#EXTINF:-1,CANAL J HD
-http://line.myott.net:80/live/1234/4321/152.m3u8
-#EXTINF:-1,BOING HD
-http://line.myott.net:80/live/1234/4321/19843.m3u8
-#EXTINF:-1,DISNEY XD HD
-http://line.myott.net:80/live/1234/4321/146.m3u8
-#EXTINF:-1,DISNEY JUNIOR HD
-http://line.myott.net:80/live/1234/4321/151.m3u8
-#EXTINF:-1,DISNEY CHANNEL +1 HD
-http://line.myott.net:80/live/1234/4321/19848.m3u8
-#EXTINF:-1,DISNEY CHANNEL HD
-http://line.myott.net:80/live/1234/4321/19849.m3u8
-#EXTINF:-1,PIWI+ HD
-http://line.myott.net:80/live/1234/4321/153.m3u8
-#EXTINF:-1,NICKELODEON HD
-http://line.myott.net:80/live/1234/4321/3038.m3u8
-#EXTINF:-1,NICKELODEON JUNIOR HD
-http://line.myott.net:80/live/1234/4321/3039.m3u8
-#EXTINF:-1,##### SPORT #####
-http://line.myott.net:80/live/1234/4321/5337.m3u8
-#EXTINF:-1,BEIN SPORT 1 HD
-http://line.myott.net:80/live/1234/4321/1419.m3u8
-#EXTINF:-1,BEIN SPORT 2 HD
-http://line.myott.net:80/live/1234/4321/1420.m3u8
-#EXTINF:-1,BEIN SPORT 3 HD
-http://line.myott.net:80/live/1234/4321/1421.m3u8
-#EXTINF:-1,BEIN SPORT MAX 4 HD
-http://line.myott.net:80/live/1234/4321/19820.m3u8
-#EXTINF:-1,BEIN SPORT MAX 5 HD
-http://line.myott.net:80/live/1234/4321/19819.m3u8
-#EXTINF:-1,BEIN SPORT MAX 6 HD
-http://line.myott.net:80/live/1234/4321/19818.m3u8
-#EXTINF:-1,BEIN SPORT MAX 7 HD
-http://line.myott.net:80/live/1234/4321/19817.m3u8
-#EXTINF:-1,BEIN SPORT MAX 8 HD
-http://line.myott.net:80/live/1234/4321/19816.m3u8
-#EXTINF:-1,BEIN SPORT MAX 9 HD
-http://line.myott.net:80/live/1234/4321/19815.m3u8
-#EXTINF:-1,BEIN SPORT MAX 10 HD
-http://line.myott.net:80/live/1234/4321/19814.m3u8
-#EXTINF:-1,EUROSPORT 1HD
-http://line.myott.net:80/live/1234/4321/1418.m3u8
-#EXTINF:-1,EUROSPORT 2 HD
-http://line.myott.net:80/live/1234/4321/144.m3u8
-#EXTINF:-1,BFM SPORT HD
-http://line.myott.net:80/live/1234/4321/19812.m3u8
-#EXTINF:-1,RMC SPORT NEWS
-http://line.myott.net:80/live/1234/4321/46754.m3u8
-#EXTINF:-1,RMC SPORT 1 HD
-http://line.myott.net:80/live/1234/4321/46763.m3u8
-#EXTINF:-1,RMC SPORT 2 HD
-http://line.myott.net:80/live/1234/4321/46764.m3u8
-#EXTINF:-1,RMC SPORT 3 HD
-http://line.myott.net:80/live/1234/4321/46765.m3u8
-#EXTINF:-1,RMC SPORT 4 HD
-http://line.myott.net:80/live/1234/4321/46766.m3u8
-#EXTINF:-1,RMC SPORT 5 HD
-http://line.myott.net:80/live/1234/4321/46767.m3u8
-#EXTINF:-1,RMC SPORT 6 HD
-http://line.myott.net:80/live/1234/4321/46769.m3u8
-#EXTINF:-1,RMC SPORT 7 HD
-http://line.myott.net:80/live/1234/4321/46768.m3u8
-#EXTINF:-1,RMC ACCESS SPORT 1 HD
-http://line.myott.net:80/live/1234/4321/2912.m3u8
-#EXTINF:-1,RMC ACCESS SPORT 2 HD
-http://line.myott.net:80/live/1234/4321/2913.m3u8
-#EXTINF:-1,RMC ACCESS SPORT 3 HD
-http://line.myott.net:80/live/1234/4321/2914.m3u8
-#EXTINF:-1,RMC ACCESS SPORT 4 HD
-http://line.myott.net:80/live/1234/4321/2915.m3u8
+http://p5.giffy.be:8080/live/cecilia/cecilia/96700.m3u8
+#EXTINF:-1,Canal Cin?ma HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96783.m3u8
+#EXTINF:-1,Canal Cin?ma HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96745.m3u8
+#EXTINF:-1,Canal Cin?ma HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96686.m3u8
+#EXTINF:-1,Canal Decale HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96685.m3u8
+#EXTINF:-1,Canal Emotion HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96681.m3u8
+#EXTINF:-1,Canal Family HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96640.m3u8
+#EXTINF:-1,Canal HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96702.m3u8
+#EXTINF:-1,Canal Junior HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96637.m3u8
+#EXTINF:-1,Canal News HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96622.m3u8
+#EXTINF:-1,Canal Premier HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96683.m3u8
+#EXTINF:-1,Canal S?ries HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96684.m3u8
+#EXTINF:-1,Canal Sport HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96621.m3u8
+#EXTINF:-1,Cartoon Network Fr HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96635.m3u8
+#EXTINF:-1,Chasse et P?che HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96750.m3u8
+#EXTINF:-1,Chasse et P?che HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96712.m3u8
+#EXTINF:-1,Chasse et P?che HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96577.m3u8
+#EXTINF:-1,Cherie 25 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96690.m3u8
+#EXTINF:-1,Cin? Classic HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96780.m3u8
+#EXTINF:-1,Cin? Classic HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96742.m3u8
+#EXTINF:-1,Cin? Classic HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96680.m3u8
+#EXTINF:-1,Cin? Famiz HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96779.m3u8
+#EXTINF:-1,Cin? Famiz HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96741.m3u8
+#EXTINF:-1,Cin? Famiz HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96679.m3u8
+#EXTINF:-1,Cin? Frisson HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96781.m3u8
+#EXTINF:-1,Cin? Frisson HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96743.m3u8
+#EXTINF:-1,Cin? Frisson HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96682.m3u8
+#EXTINF:-1,Cin? Fx HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96678.m3u8
+#EXTINF:-1,Cin? Polar HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96777.m3u8
+#EXTINF:-1,Cin? Polar HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96739.m3u8
+#EXTINF:-1,Cin? Polar HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96677.m3u8
+#EXTINF:-1,Com?die  HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96748.m3u8
+#EXTINF:-1,Com?die  HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96710.m3u8
+#EXTINF:-1,Com?die  HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96571.m3u8
+#EXTINF:-1,CStar HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96695.m3u8
+#EXTINF:-1,Discovery Fr HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96590.m3u8
+#EXTINF:-1,Discovery Science Fr HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96589.m3u8
+#EXTINF:-1,Disney Channel HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96642.m3u8
+#EXTINF:-1,Disney Cinema HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96643.m3u8
+#EXTINF:-1,Disney Junior FR HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96638.m3u8
+#EXTINF:-1,Disney XD HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96632.m3u8
+#EXTINF:-1,E! Fr HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96564.m3u8
+#EXTINF:-1,Elle Girl HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96566.m3u8
+#EXTINF:-1,Euronews HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96609.m3u8
+#EXTINF:-1,EuroSport Fr 1 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96608.m3u8
+#EXTINF:-1,EuroSport Fr 2 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96607.m3u8
+#EXTINF:-1,Foot HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96595.m3u8
+#EXTINF:-1,France 2 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96707.m3u8
+#EXTINF:-1,France 24 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96620.m3u8
+#EXTINF:-1,France 3 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96706.m3u8
+#EXTINF:-1,France 4 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96705.m3u8
+#EXTINF:-1,France 5 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96704.m3u8
+#EXTINF:-1,France O HD.
+http://p5.giffy.be:8080/live/cecilia/cecilia/96703.m3u8
+#EXTINF:-1,Game One HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96641.m3u8
+#EXTINF:-1,Girondins Tv HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96563.m3u8
+#EXTINF:-1,Golf  FR HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96599.m3u8
+#EXTINF:-1,Golf Channel HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96598.m3u8
+#EXTINF:-1,Gong Tv HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96664.m3u8
+#EXTINF:-1,Gulli HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96644.m3u8
+#EXTINF:-1,Histoire Fr HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96585.m3u8
+#EXTINF:-1,i24 News HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96623.m3u8
+#EXTINF:-1,Infosport HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96600.m3u8
+#EXTINF:-1,J-One HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96562.m3u8
+#EXTINF:-1,L'?quipe HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96753.m3u8
+#EXTINF:-1,L'?quipe HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96715.m3u8
+#EXTINF:-1,L'?quipe HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96601.m3u8
+#EXTINF:-1,LCi HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96624.m3u8
+#EXTINF:-1,M6 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96699.m3u8
+#EXTINF:-1,M6 Music HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96561.m3u8
+#EXTINF:-1,Mangas HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96639.m3u8
+#EXTINF:-1,MotorSport Tv HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96597.m3u8
+#EXTINF:-1,National Geo Wild FR HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96591.m3u8
+#EXTINF:-1,National Geographic FR HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96592.m3u8
+#EXTINF:-1,Nickelodeon FR HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96634.m3u8
+#EXTINF:-1,Nickelodeon Junior FR HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96636.m3u8
+#EXTINF:-1,NrJ 12 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96696.m3u8
+#EXTINF:-1,Nrj Hits HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96560.m3u8
+#EXTINF:-1,Nt 1 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96559.m3u8
+#EXTINF:-1,NT1 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96558.m3u8
+#EXTINF:-1,Numero 23 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96692.m3u8
+#EXTINF:-1,Ocs Choc HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96676.m3u8
+#EXTINF:-1,Ocs City HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96675.m3u8
+#EXTINF:-1,Ocs Geant HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96674.m3u8
+#EXTINF:-1,OCS GO Cin? 1 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96774.m3u8
+#EXTINF:-1,OCS GO Cin? 1 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96736.m3u8
+#EXTINF:-1,OCS GO Cin? 1 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96663.m3u8
+#EXTINF:-1,OCS GO Cin? 2 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96773.m3u8
+#EXTINF:-1,OCS GO Cin? 2 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96735.m3u8
+#EXTINF:-1,OCS GO Cin? 2 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96662.m3u8
+#EXTINF:-1,OCS GO Cin? 3 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96772.m3u8
+#EXTINF:-1,OCS GO Cin? 3 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96734.m3u8
+#EXTINF:-1,OCS GO Cin? 3 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96661.m3u8
+#EXTINF:-1,OCS GO Cin? 4 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96733.m3u8
+#EXTINF:-1,OCS GO Cin? 4 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96660.m3u8
+#EXTINF:-1,OCS GO Cin? 5 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96770.m3u8
+#EXTINF:-1,OCS GO Cin? 5 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96732.m3u8
+#EXTINF:-1,OCS GO Cin? 5 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96659.m3u8
+#EXTINF:-1,Ocs Max HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96673.m3u8
+#EXTINF:-1,OL Tv HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96557.m3u8
+#EXTINF:-1,Orange Cin? 1 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96658.m3u8
+#EXTINF:-1,Orange Cin? 2 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96768.m3u8
+#EXTINF:-1,Orange Cin? 2 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96730.m3u8
+#EXTINF:-1,Orange Cin? 2 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96657.m3u8
+#EXTINF:-1,Orange Cin? 3 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96767.m3u8
+#EXTINF:-1,Orange Cin? 3 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96729.m3u8
+#EXTINF:-1,Orange Cin? 3 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96656.m3u8
+#EXTINF:-1,Orange Cin? 4 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96766.m3u8
+#EXTINF:-1,Orange Cin? 4 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96728.m3u8
+#EXTINF:-1,Orange Cin? 4 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96655.m3u8
+#EXTINF:-1,Orange Cin? 5 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96765.m3u8
+#EXTINF:-1,Orange Cin? 5 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96727.m3u8
+#EXTINF:-1,Orange Cin? 5 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96654.m3u8
+#EXTINF:-1,Orange Cin? 6 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96726.m3u8
+#EXTINF:-1,Orange Cin? 6 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96653.m3u8
+#EXTINF:-1,Orange Cin? 8 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96725.m3u8
+#EXTINF:-1,Orange Cin? 8 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96652.m3u8
+#EXTINF:-1,Paramount Fr HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96666.m3u8
+#EXTINF:-1,Paris Premier HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96689.m3u8
+#EXTINF:-1,Piwi HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96628.m3u8
+#EXTINF:-1,Planet AE HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96587.m3u8
+#EXTINF:-1,Planet CI HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96586.m3u8
+#EXTINF:-1,Planet HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96588.m3u8
+#EXTINF:-1,RMC Decouverte HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96691.m3u8
+#EXTINF:-1,Rouge HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96555.m3u8
+#EXTINF:-1,RTL9 FR HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96568.m3u8
+#EXTINF:-1,RTL9 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96567.m3u8
+#EXTINF:-1,S?rie Club HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96776.m3u8
+#EXTINF:-1,S?rie Club HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96738.m3u8
+#EXTINF:-1,S?rie Club HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96671.m3u8
+#EXTINF:-1,Science & Vie Tv HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96580.m3u8
+#EXTINF:-1,Seasons HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96578.m3u8
+#EXTINF:-1,Serie Club
+http://p5.giffy.be:8080/live/cecilia/cecilia/96672.m3u8
+#EXTINF:-1,SFR Sport 1 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96606.m3u8
+#EXTINF:-1,SFR Sport 2 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96605.m3u8
+#EXTINF:-1,SFR Sport 3 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96604.m3u8
+#EXTINF:-1,SFR Sport 5 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96603.m3u8
+#EXTINF:-1,Sundance Tv HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96688.m3u8
+#EXTINF:-1,Syfy Fr HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96670.m3u8
+#EXTINF:-1,Syfy HD FR
+http://p5.giffy.be:8080/live/cecilia/cecilia/96669.m3u8
+#EXTINF:-1,T?l?Toon HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96755.m3u8
+#EXTINF:-1,T?l?Toon HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96717.m3u8
+#EXTINF:-1,T?l?Toon HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96629.m3u8
+#EXTINF:-1,T?va HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96749.m3u8
+#EXTINF:-1,T?va HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96711.m3u8
+#EXTINF:-1,T?va HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96572.m3u8
+#EXTINF:-1,TCM Cinema HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96668.m3u8
+#EXTINF:-1,Teva FR HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96554.m3u8
+#EXTINF:-1,TF1 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96708.m3u8
+#EXTINF:-1,TF1 S?ries Films HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96784.m3u8
+#EXTINF:-1,TF1 S?ries Films HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96746.m3u8
+#EXTINF:-1,TF1 S?ries Films HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96694.m3u8
+#EXTINF:-1,TFX HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96697.m3u8
+#EXTINF:-1,Tiji HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96630.m3u8
+#EXTINF:-1,TMC Fr HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96698.m3u8
+#EXTINF:-1,Toute l'Histoire HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96584.m3u8
+#EXTINF:-1,Tr?k HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96751.m3u8
+#EXTINF:-1,Tr?k HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96713.m3u8
+#EXTINF:-1,Tr?k HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96583.m3u8
+#EXTINF:-1,Trace Sport Stars HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96594.m3u8
+#EXTINF:-1,TV Breizh HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96687.m3u8
+#EXTINF:-1,TV5 Monde Europe HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96574.m3u8
+#EXTINF:-1,TV5 Monde HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96573.m3u8
+#EXTINF:-1,Ushuaia Tv HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96581.m3u8
+#EXTINF:-1,Voyage HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96582.m3u8
+#EXTINF:-1,W?o Tv HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96747.m3u8
+#EXTINF:-1,W?o Tv HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96709.m3u8
+#EXTINF:-1,W?o Tv HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96556.m3u8
+#EXTINF:-1,W9 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96575.m3u8
+#EXTINF:-1,ZouZous HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96627.m3u8
+#EXTINF:-1,? La Carte 1 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96762.m3u8
+#EXTINF:-1,? La Carte 1 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96724.m3u8
+#EXTINF:-1,? La Carte 1 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96651.m3u8
+#EXTINF:-1,? La Carte 2 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96761.m3u8
+#EXTINF:-1,? La Carte 2 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96723.m3u8
+#EXTINF:-1,? La Carte 2 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96650.m3u8
+#EXTINF:-1,? La Carte 3 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96722.m3u8
+#EXTINF:-1,? La Carte 3 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96649.m3u8
+#EXTINF:-1,? La Carte 4 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96759.m3u8
+#EXTINF:-1,? La Carte 4 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96721.m3u8
+#EXTINF:-1,? La Carte 4 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96648.m3u8
+#EXTINF:-1,? La Carte 5 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96758.m3u8
+#EXTINF:-1,? La Carte 5 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96720.m3u8
+#EXTINF:-1,? La Carte 5 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96647.m3u8
+#EXTINF:-1,? La Carte 6 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96757.m3u8
+#EXTINF:-1,? La Carte 6 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96719.m3u8
+#EXTINF:-1,? La Carte 6 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96646.m3u8
+#EXTINF:-1,? La Carte 7 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96756.m3u8
+#EXTINF:-1,? La Carte 7 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96718.m3u8
+#EXTINF:-1,? La Carte 7 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96645.m3u8
+#EXTINF:-1,?quidia HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96752.m3u8
+#EXTINF:-1,?quidia HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96714.m3u8
+#EXTINF:-1,?quidia HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96593.m3u8
+#EXTINF:-1,?quipe HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96754.m3u8
+#EXTINF:-1,?quipe HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96716.m3u8
+#EXTINF:-1,?quipe HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96602.m3u8
+#EXTINF:-1,13?me Rue HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96737.m3u8
+#EXTINF:-1,13?me Rue HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96667.m3u8
+#EXTINF:-1,6Ter HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96693.m3u8
+#EXTINF:-1,AB Moteurs HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96596.m3u8
+#EXTINF:-1,AB1 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96570.m3u8
+#EXTINF:-1,AB3 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96569.m3u8
+#EXTINF:-1,Action HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96665.m3u8
+#EXTINF:-1,Animaux HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96579.m3u8
+#EXTINF:-1,Arte HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96701.m3u8
+#EXTINF:-1,BeIN Sport 1 Fr HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96619.m3u8
+#EXTINF:-1,BeIN Sport 2 Fr HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96618.m3u8
+#EXTINF:-1,BeIN Sport 3 Fr HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96617.m3u8
+#EXTINF:-1,BeIN Sport Max FR 10 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96610.m3u8
+#EXTINF:-1,BeIN Sport Max FR 4 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96616.m3u8
+#EXTINF:-1,BeIN Sport Max FR 5 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96615.m3u8
+#EXTINF:-1,BeIN Sport Max FR 6 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96614.m3u8
+#EXTINF:-1,BeIN Sport Max FR 7 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96613.m3u8
+#EXTINF:-1,BeIN Sport Max FR 8 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96612.m3u8
+#EXTINF:-1,BeIN Sport Max FR 9 HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96611.m3u8
+#EXTINF:-1,Bet HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96565.m3u8
 #EXTINF:-1,BFM HD
-http://line.myott.net:80/live/1234/4321/1398.m3u8
-#EXTINF:-1,FOOT 24 HD
-http://line.myott.net:80/live/1234/4321/127.m3u8
-#EXTINF:-1,INFOSPORT+ HD
-http://line.myott.net:80/live/1234/4321/142.m3u8
-#EXTINF:-1,L EQUIPE21 HD
-http://line.myott.net:80/live/1234/4321/1395.m3u8
-#EXTINF:-1,EQUIDIA LIVE HD
-http://line.myott.net:80/live/1234/4321/112.m3u8
-#EXTINF:-1,EXTREME SPORTS HD
-http://line.myott.net:80/live/1234/4321/3023.m3u8
-#EXTINF:-1,EQUIDIA HD
-http://line.myott.net:80/live/1234/4321/109.m3u8
-#EXTINF:-1,GOLF CHANNEL HD
-http://line.myott.net:80/live/1234/4321/3025.m3u8
-#EXTINF:-1,GOLF+ HD
-http://line.myott.net:80/live/1234/4321/3026.m3u8
-#EXTINF:-1,AB MOTEUR HD
-http://line.myott.net:80/live/1234/4321/19810.m3u8
-#EXTINF:-1,MOTORSPORT TV HD
-http://line.myott.net:80/live/1234/4321/19811.m3u8
-#EXTINF:-1,##### DECOUVERTE #####
-http://line.myott.net:80/live/1234/4321/5335.m3u8
-#EXTINF:-1,PLANET+ HD
-http://line.myott.net:80/live/1234/4321/132.m3u8
-#EXTINF:-1,PLANET A&E HD
-http://line.myott.net:80/live/1234/4321/123.m3u8
-#EXTINF:-1,PLANET+ CI HD
-http://line.myott.net:80/live/1234/4321/133.m3u8
-#EXTINF:-1,DISCOVERY HD
-http://line.myott.net:80/live/1234/4321/1422.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE HD
-http://line.myott.net:80/live/1234/4321/135.m3u8
-#EXTINF:-1,DISCOVERY INVESTIGATION HD
-http://line.myott.net:80/live/1234/4321/19839.m3u8
-#EXTINF:-1,DISCOVERY FAMILY HD
-http://line.myott.net:80/live/1234/4321/67781.m3u8
-#EXTINF:-1,NGC HD
-http://line.myott.net:80/live/1234/4321/1423.m3u8
-#EXTINF:-1,NGC WILD HD
-http://line.myott.net:80/live/1234/4321/134.m3u8
-#EXTINF:-1,VOYAGE HD
-http://line.myott.net:80/live/1234/4321/139.m3u8
-#EXTINF:-1,VOYAGES TV HD
-http://line.myott.net:80/live/1234/4321/19853.m3u8
-#EXTINF:-1,USHUAIA HD
-http://line.myott.net:80/live/1234/4321/136.m3u8
-#EXTINF:-1,HISTOIRE HD
-http://line.myott.net:80/live/1234/4321/126.m3u8
-#EXTINF:-1,ANIMAUX HD
-http://line.myott.net:80/live/1234/4321/138.m3u8
-#EXTINF:-1,TREK HD
-http://line.myott.net:80/live/1234/4321/3027.m3u8
-#EXTINF:-1,CHASSE ET PECHE HD
-http://line.myott.net:80/live/1234/4321/19836.m3u8
-#EXTINF:-1,SCIENCE ET VIE HD
-http://line.myott.net:80/live/1234/4321/140.m3u8
-#EXTINF:-1,RMC DECOUVERTE HD
-http://line.myott.net:80/live/1234/4321/19838.m3u8
-#EXTINF:-1,RMC DECOVERTE 24 HD
-http://line.myott.net:80/live/1234/4321/1394.m3u8
-#EXTINF:-1,SEASON HD
-http://line.myott.net:80/live/1234/4321/3028.m3u8
-#EXTINF:-1,CANAL SAVOIR HD
-http://line.myott.net:80/live/1234/4321/19850.m3u8
-#EXTINF:-1,BRAVA HD
-http://line.myott.net:80/live/1234/4321/19803.m3u8
-#EXTINF:-1,GULLI HD
-http://line.myott.net:80/live/1234/4321/1388.m3u8
-#EXTINF:-1,GONG TV HD
-http://line.myott.net:80/live/1234/4321/19842.m3u8
-#EXTINF:-1,CINE FX HD
-http://line.myott.net:80/live/1234/4321/3021.m3u8
-#EXTINF:-1,TCM CINEMA HD
-http://line.myott.net:80/live/1234/4321/3022.m3u8
-#EXTINF:-1,CRIME DISTRICT HD
-http://line.myott.net:80/live/1234/4321/19834.m3u8
-#EXTINF:-1,##### INFORMATION #####
-http://line.myott.net:80/live/1234/4321/5336.m3u8
-#EXTINF:-1,CANAL NEWS HD
-http://line.myott.net:80/live/1234/4321/3041.m3u8
-#EXTINF:-1,CNEWS HD
-http://line.myott.net:80/live/1234/4321/19797.m3u8
-#EXTINF:-1,LCI HD
-http://line.myott.net:80/live/1234/4321/2586.m3u8
-#EXTINF:-1,FRANCE INFO HD
-http://line.myott.net:80/live/1234/4321/3040.m3u8
-#EXTINF:-1,EURONEWS (FRENCH)
-http://line.myott.net:80/live/1234/4321/131.m3u8
-#EXTINF:-1,FRANCE 24
-http://line.myott.net:80/live/1234/4321/2944.m3u8
-#EXTINF:-1,LCP
-http://line.myott.net:80/live/1234/4321/19796.m3u8
-#EXTINF:-1,BFM BUSINESS HD
-http://line.myott.net:80/live/1234/4321/19795.m3u8
-#EXTINF:-1,I24 NEWS HD
-http://line.myott.net:80/live/1234/4321/19794.m3u8
-#EXTINF:-1,##### MUSIQUE #####
-http://line.myott.net:80/live/1234/4321/5339.m3u8
-#EXTINF:-1,M6 MUSIC HD
-http://line.myott.net:80/live/1234/4321/19808.m3u8
-#EXTINF:-1,TRACE URBAN HD
-http://line.myott.net:80/live/1234/4321/3030.m3u8
-#EXTINF:-1,MTV HD
-http://line.myott.net:80/live/1234/4321/3029.m3u8
-#EXTINF:-1,TRACE TROPICAL HD
-http://line.myott.net:80/live/1234/4321/19799.m3u8
-#EXTINF:-1,BBLACK CLASSIC HD
-http://line.myott.net:80/live/1234/4321/19813.m3u8
-#EXTINF:-1,MEZZO HD
-http://line.myott.net:80/live/1234/4321/3034.m3u8
-#EXTINF:-1,MEZZO LIVE HD
-http://line.myott.net:80/live/1234/4321/3035.m3u8
-#EXTINF:-1,MCM HD
-http://line.myott.net:80/live/1234/4321/3032.m3u8
-#EXTINF:-1,MCM TOP HD
-http://line.myott.net:80/live/1234/4321/3033.m3u8
-#EXTINF:-1,LFM TV
-http://line.myott.net:80/live/1234/4321/46757.m3u8
-#EXTINF:-1,NRJ HITS HD
-http://line.myott.net:80/live/1234/4321/19804.m3u8
-#EXTINF:-1,RFM TV HD
-http://line.myott.net:80/live/1234/4321/3031.m3u8
-#EXTINF:-1,BBLACK AFRICA
-http://line.myott.net:80/live/1234/4321/49653.m3u8
-#EXTINF:-1,MTV HITS HD
-http://line.myott.net:80/live/1234/4321/19807.m3u8
-#EXTINF:-1,MTV DANCE HD
-http://line.myott.net:80/live/1234/4321/19805.m3u8
-#EXTINF:-1,VH1 CLASSIC
-http://line.myott.net:80/live/1234/4321/46759.m3u8
-#EXTINF:-1,TVM 3
-http://line.myott.net:80/live/1234/4321/46756.m3u8
-#EXTINF:-1,##### PPV #####
-http://line.myott.net:80/live/1234/4321/5340.m3u8
-#EXTINF:-1,CANALPLAY 1 HD
-http://line.myott.net:80/live/1234/4321/19826.m3u8
-#EXTINF:-1,CANALPLAY 2 HD
-http://line.myott.net:80/live/1234/4321/19825.m3u8
-#EXTINF:-1,CANALPLAY 3 HD
-http://line.myott.net:80/live/1234/4321/19824.m3u8
-#EXTINF:-1,CANALPLAY 4 HD
-http://line.myott.net:80/live/1234/4321/19823.m3u8
-#EXTINF:-1,CANALPLAY 5 HD
-http://line.myott.net:80/live/1234/4321/19822.m3u8
-#EXTINF:-1,ORANGE CINEMA 1 HD
-http://line.myott.net:80/live/1234/4321/19787.m3u8
-#EXTINF:-1,ORANGE CINEMA 2 HD
-http://line.myott.net:80/live/1234/4321/19786.m3u8
-#EXTINF:-1,ORANGE CINEMA 3 HD
-http://line.myott.net:80/live/1234/4321/19785.m3u8
-#EXTINF:-1,ORANGE CINEMA 4 HD
-http://line.myott.net:80/live/1234/4321/19784.m3u8
-#EXTINF:-1,ORANGE CINEMA 5 HD
-http://line.myott.net:80/live/1234/4321/19783.m3u8
-#EXTINF:-1,ORANGE CINEMA ACTION HD
-http://line.myott.net:80/live/1234/4321/19782.m3u8
-#EXTINF:-1,ORANGE CINEMA AVENTURE HD
-http://line.myott.net:80/live/1234/4321/19781.m3u8
-#EXTINF:-1,ORANGE CINEMA HD
-http://line.myott.net:80/live/1234/4321/19780.m3u8
-#EXTINF:-1,ORANGE CINEMA HORREUR HD
-http://line.myott.net:80/live/1234/4321/19779.m3u8
-#EXTINF:-1,ORANGE COMMENT C'EST FAIT HD
-http://line.myott.net:80/live/1234/4321/19778.m3u8
-#EXTINF:-1,ORANGE ENQUETE EXLUSIVE HD
-http://line.myott.net:80/live/1234/4321/19777.m3u8
-#EXTINF:-1,A LA CARTE 1 HD
-http://line.myott.net:80/live/1234/4321/19833.m3u8
-#EXTINF:-1,A LA CARTE 2 HD
-http://line.myott.net:80/live/1234/4321/19832.m3u8
-#EXTINF:-1,A LA CARTE 3 HD
-http://line.myott.net:80/live/1234/4321/19831.m3u8
-#EXTINF:-1,A LA CARTE 4 HD
-http://line.myott.net:80/live/1234/4321/19830.m3u8
-#EXTINF:-1,A LA CARTE 5 HD
-http://line.myott.net:80/live/1234/4321/19829.m3u8
-#EXTINF:-1,A LA CARTE 6 HD
-http://line.myott.net:80/live/1234/4321/19828.m3u8
-#EXTINF:-1,A LA CARTE 7 HD
-http://line.myott.net:80/live/1234/4321/19827.m3u8
-#EXTINF:-1,OCS GO CINEMA 1 HD
-http://line.myott.net:80/live/1234/4321/19792.m3u8
-#EXTINF:-1,OCS GO CINEMA 2 HD
-http://line.myott.net:80/live/1234/4321/19791.m3u8
-#EXTINF:-1,OCS GO CINEMA 3 HD
-http://line.myott.net:80/live/1234/4321/19790.m3u8
-#EXTINF:-1,OCS GO CINEMA 4 HD
-http://line.myott.net:80/live/1234/4321/19789.m3u8
-#EXTINF:-1,OCS GO CINEMA 5 HD
-http://line.myott.net:80/live/1234/4321/19788.m3u8
-#EXTINF:-1,FHD  TF1 FHD
-http://line.myott.net:80/live/1234/4321/4279.m3u8
-#EXTINF:-1,FHD  FRANCE 2 FHD
-http://line.myott.net:80/live/1234/4321/4277.m3u8
-#EXTINF:-1,FHD  FRANCE 3 FHD
-http://line.myott.net:80/live/1234/4321/4276.m3u8
-#EXTINF:-1,FHD  FRANCE 4 FHD
-http://line.myott.net:80/live/1234/4321/4275.m3u8
-#EXTINF:-1,FHD  FRANCE 5 FHD
-http://line.myott.net:80/live/1234/4321/4274.m3u8
-#EXTINF:-1,FHD  FRANCE O FHD
-http://line.myott.net:80/live/1234/4321/4273.m3u8
-#EXTINF:-1,FHD  M6 FHD
-http://line.myott.net:80/live/1234/4321/4278.m3u8
-#EXTINF:-1,FHD  TMC FHD
-http://line.myott.net:80/live/1234/4321/4269.m3u8
-#EXTINF:-1,FHD  6TER FHD
-http://line.myott.net:80/live/1234/4321/4263.m3u8
-#EXTINF:-1,FHD  ARTE FHD
-http://line.myott.net:80/live/1234/4321/4174.m3u8
-#EXTINF:-1,FHD  TV BREIZH FHD
-http://line.myott.net:80/live/1234/4321/4257.m3u8
-#EXTINF:-1,##### FHD  CH. CANAL+ FHD #####
-http://line.myott.net:80/live/1234/4321/15349.m3u8
-#EXTINF:-1,FHD  CANAL FHD
-http://line.myott.net:80/live/1234/4321/4252.m3u8
-#EXTINF:-1,FHD  CANAL CINEMA FHD
-http://line.myott.net:80/live/1234/4321/4248.m3u8
-#EXTINF:-1,FHD  CANAL DECALE FHD
-http://line.myott.net:80/live/1234/4321/4250.m3u8
-#EXTINF:-1,FHD  CANAL FAMILY FHD
-http://line.myott.net:80/live/1234/4321/4251.m3u8
-#EXTINF:-1,##### FHD  CINEMA FHD #####
-http://line.myott.net:80/live/1234/4321/15350.m3u8
-#EXTINF:-1,FHD  CINE PREMIER FHD
-http://line.myott.net:80/live/1234/4321/4245.m3u8
-#EXTINF:-1,FHD  CINE FRISSON FHD
-http://line.myott.net:80/live/1234/4321/4244.m3u8
-#EXTINF:-1,FHD  CINE EMOTION FHD
-http://line.myott.net:80/live/1234/4321/4243.m3u8
-#EXTINF:-1,FHD  CINE FAMIZ FHD
-http://line.myott.net:80/live/1234/4321/4242.m3u8
-#EXTINF:-1,FHD  CINE CLUB FHD
-http://line.myott.net:80/live/1234/4321/4246.m3u8
-#EXTINF:-1,FHD  CINE CLASSIC FHD
-http://line.myott.net:80/live/1234/4321/4241.m3u8
-#EXTINF:-1,FHD  OCS MAX FHD
-http://line.myott.net:80/live/1234/4321/4164.m3u8
-#EXTINF:-1,FHD  OCS GEANTS FHD
-http://line.myott.net:80/live/1234/4321/4165.m3u8
-#EXTINF:-1,FHD  OCS CITY FHD
-http://line.myott.net:80/live/1234/4321/4166.m3u8
-#EXTINF:-1,FHD  OCS CHOC FHD
-http://line.myott.net:80/live/1234/4321/4167.m3u8
-#EXTINF:-1,FHD  PARAMOUNT CHANNEL FHD
-http://line.myott.net:80/live/1234/4321/4236.m3u8
-#EXTINF:-1,FHD  ACTION FHD
-http://line.myott.net:80/live/1234/4321/4237.m3u8
-#EXTINF:-1,FHD  CANAL SERIES FHD
-http://line.myott.net:80/live/1234/4321/4249.m3u8
-#EXTINF:-1,FHD  COMEDIE FHD
-http://line.myott.net:80/live/1234/4321/4253.m3u8
-#EXTINF:-1,##### FHD  AUTRES FHD #####
-http://line.myott.net:80/live/1234/4321/15357.m3u8
-#EXTINF:-1,FHD  13EME RUE FHD
-http://line.myott.net:80/live/1234/4321/4256.m3u8
-#EXTINF:-1,FHD  RTS DEUX FHD
-http://line.myott.net:80/live/1234/4321/4264.m3u8
-#EXTINF:-1,FHD  E! ENTERTAINMENT FHD
-http://line.myott.net:80/live/1234/4321/4235.m3u8
-#EXTINF:-1,FHD  BET FHD
-http://line.myott.net:80/live/1234/4321/4195.m3u8
-#EXTINF:-1,FHD  CHERIE 25 FHD
-http://line.myott.net:80/live/1234/4321/4259.m3u8
-#EXTINF:-1,CSTAR FHD
-http://line.myott.net:80/live/1234/4321/4271.m3u8
-#EXTINF:-1,FHD  RTL9 FHD
-http://line.myott.net:80/live/1234/4321/4258.m3u8
-#EXTINF:-1,FHD  RMC STORY FHD
-http://line.myott.net:80/live/1234/4321/4260.m3u8
-#EXTINF:-1,FHD  W9 FHD
-http://line.myott.net:80/live/1234/4321/4272.m3u8
-#EXTINF:-1,FHD  AB3 FHD
-http://line.myott.net:80/live/1234/4321/4261.m3u8
-#EXTINF:-1,FHD  CANAL8 FHD
-http://line.myott.net:80/live/1234/4321/4270.m3u8
-#EXTINF:-1,FHD  RTS UN FHD
-http://line.myott.net:80/live/1234/4321/4265.m3u8
-#EXTINF:-1,FHD  ONE TV FHD
-http://line.myott.net:80/live/1234/4321/4194.m3u8
-#EXTINF:-1,FHD  TCM CINEMA FHD
-http://line.myott.net:80/live/1234/4321/4238.m3u8
-#EXTINF:-1,FHD  CRIME DISTRICT FHD
-http://line.myott.net:80/live/1234/4321/4226.m3u8
-#EXTINF:-1,FHD  SYFY FHD
-http://line.myott.net:80/live/1234/4321/4255.m3u8
-#EXTINF:-1,FHD  ELLE GIRL FHD
-http://line.myott.net:80/live/1234/4321/4254.m3u8
-#EXTINF:-1,FHD  AB1 FHD
-http://line.myott.net:80/live/1234/4321/4262.m3u8
-#EXTINF:-1,FHD  RFM TV FHD
-http://line.myott.net:80/live/1234/4321/4198.m3u8
-#EXTINF:-1,FHD  NT1 FHD
-http://line.myott.net:80/live/1234/4321/4267.m3u8
-#EXTINF:-1,##### FHD  SPORT FHD #####
-http://line.myott.net:80/live/1234/4321/15354.m3u8
-#EXTINF:-1,FHD  CANAL SPORT FHD
-http://line.myott.net:80/live/1234/4321/4247.m3u8
-#EXTINF:-1,FHD  BEINSPORT1 FHD
-http://line.myott.net:80/live/1234/4321/4211.m3u8
-#EXTINF:-1,FHD  BEINSPORT2 FHD
-http://line.myott.net:80/live/1234/4321/4210.m3u8
-#EXTINF:-1,FHD  BEINSPORT3 FHD
-http://line.myott.net:80/live/1234/4321/4209.m3u8
-#EXTINF:-1,FHD  BFM TV FHD
-http://line.myott.net:80/live/1234/4321/4172.m3u8
-#EXTINF:-1,FHD  INFOSPORT FHD
-http://line.myott.net:80/live/1234/4321/4207.m3u8
-#EXTINF:-1,FHD  L'EQUIPE21 FHD
-http://line.myott.net:80/live/1234/4321/4206.m3u8
-#EXTINF:-1,FHD  MOTORSPORT TV FHD
-http://line.myott.net:80/live/1234/4321/4208.m3u8
-#EXTINF:-1,FHD  EUROSPORT1 FHD
-http://line.myott.net:80/live/1234/4321/4213.m3u8
-#EXTINF:-1,FHD  EUROSPORT2 FHD
-http://line.myott.net:80/live/1234/4321/4212.m3u8
-#EXTINF:-1,FHD  EXTREME SPORTS FHD
-http://line.myott.net:80/live/1234/4321/4203.m3u8
-#EXTINF:-1,FHD  EQUIDIA LIFE FHD
-http://line.myott.net:80/live/1234/4321/4202.m3u8
-#EXTINF:-1,FHD  EQUIDIA LIVE FHD
-http://line.myott.net:80/live/1234/4321/4201.m3u8
-#EXTINF:-1,RMC ACCESS SPORT1 FHD
-http://line.myott.net:80/live/1234/4321/4217.m3u8
-#EXTINF:-1,RMC ACCESS SPORT2 FHD
-http://line.myott.net:80/live/1234/4321/4216.m3u8
-#EXTINF:-1,RMC ACCESS SPORT3 FHD
-http://line.myott.net:80/live/1234/4321/4215.m3u8
-#EXTINF:-1,RMC ACCESS SPORT4 FHD
-http://line.myott.net:80/live/1234/4321/4214.m3u8
-#EXTINF:-1,FHD  GOLF FHD
-http://line.myott.net:80/live/1234/4321/4205.m3u8
-#EXTINF:-1,FHD  GOLF CHANNEL FHD
-http://line.myott.net:80/live/1234/4321/4204.m3u8
-#EXTINF:-1,##### FHD  JEUNESSE FHD #####
-http://line.myott.net:80/live/1234/4321/15355.m3u8
-#EXTINF:-1,FHD  DISNEY CHANNEL FHD
-http://line.myott.net:80/live/1234/4321/4189.m3u8
-#EXTINF:-1,FHD  DISNEY XD FHD
-http://line.myott.net:80/live/1234/4321/4190.m3u8
-#EXTINF:-1,FHD  NICKELODEON FHD
-http://line.myott.net:80/live/1234/4321/4182.m3u8
-#EXTINF:-1,FHD  PIWI+ FHD
-http://line.myott.net:80/live/1234/4321/4184.m3u8
-#EXTINF:-1,FHD  BOOMERANG FHD
-http://line.myott.net:80/live/1234/4321/4187.m3u8
-#EXTINF:-1,FHD  DISNEY JUNIOR FHD
-http://line.myott.net:80/live/1234/4321/4191.m3u8
-#EXTINF:-1,FHD  CARTOON NETWORK FHD
-http://line.myott.net:80/live/1234/4321/4178.m3u8
-#EXTINF:-1,FHD  CANAL J FHD
-http://line.myott.net:80/live/1234/4321/4185.m3u8
-#EXTINF:-1,FHD  TIJI FHD
-http://line.myott.net:80/live/1234/4321/4181.m3u8
-#EXTINF:-1,FHD  BOING FHD
-http://line.myott.net:80/live/1234/4321/4186.m3u8
-#EXTINF:-1,FHD TELETOON+ FHD
-http://line.myott.net:80/live/1234/4321/4183.m3u8
-#EXTINF:-1,FHD  GAME ONE FHD
-http://line.myott.net:80/live/1234/4321/4179.m3u8
-#EXTINF:-1,FHD  GULLI FHD
-http://line.myott.net:80/live/1234/4321/4177.m3u8
-#EXTINF:-1,FHD  MANGA FHD
-http://line.myott.net:80/live/1234/4321/4180.m3u8
-#EXTINF:-1,FHD  DISNEY CINEMA FHD
-http://line.myott.net:80/live/1234/4321/4188.m3u8
-#EXTINF:-1,##### FHD  DECOUVERTE FHD #####
-http://line.myott.net:80/live/1234/4321/15352.m3u8
-#EXTINF:-1,FHD  PLANETE FHD
-http://line.myott.net:80/live/1234/4321/4229.m3u8
-#EXTINF:-1,FHD  PLANETE CI FHD
-http://line.myott.net:80/live/1234/4321/4227.m3u8
-#EXTINF:-1,FHD  PLANETE AE FHD
-http://line.myott.net:80/live/1234/4321/4228.m3u8
-#EXTINF:-1,FHD  DISCOVERY FHD
-http://line.myott.net:80/live/1234/4321/4234.m3u8
-#EXTINF:-1,FHD  DISCOVERY SCIENCE FHD
-http://line.myott.net:80/live/1234/4321/4233.m3u8
-#EXTINF:-1,FHD  NGC FHD
-http://line.myott.net:80/live/1234/4321/4231.m3u8
-#EXTINF:-1,FHD  NGC WILD FHD
-http://line.myott.net:80/live/1234/4321/4230.m3u8
-#EXTINF:-1,FHD  ANIMAUX FHD
-http://line.myott.net:80/live/1234/4321/4219.m3u8
-#EXTINF:-1,FHD  USHUAIA TV FHD
-http://line.myott.net:80/live/1234/4321/4224.m3u8
-#EXTINF:-1,FHD  RMC DECOUVERTE FHD
-http://line.myott.net:80/live/1234/4321/4221.m3u8
-#EXTINF:-1,FHD  VOYAGE FHD
-http://line.myott.net:80/live/1234/4321/4223.m3u8
-#EXTINF:-1,FHD  TREK FHD
-http://line.myott.net:80/live/1234/4321/4220.m3u8
-#EXTINF:-1,FHD  HISTOIRE FHD
-http://line.myott.net:80/live/1234/4321/4222.m3u8
-#EXTINF:-1,FHD  SCIENCES & VIE FHD
-http://line.myott.net:80/live/1234/4321/4225.m3u8
-#EXTINF:-1,FHD  SEASON FHD
-http://line.myott.net:80/live/1234/4321/4218.m3u8
-#EXTINF:-1,##### FHD  DIVERTISSEMENT FHD #####
-http://line.myott.net:80/live/1234/4321/15351.m3u8
-#EXTINF:-1,FHD  CANAL NEWS FHD
-http://line.myott.net:80/live/1234/4321/4175.m3u8
-#EXTINF:-1,FHD  BFM BUSINESS FHD
-http://line.myott.net:80/live/1234/4321/4171.m3u8
-#EXTINF:-1,FHD  LCI FHD
-http://line.myott.net:80/live/1234/4321/4176.m3u8
-#EXTINF:-1,FHD  FRANCE INFO FHD
-http://line.myott.net:80/live/1234/4321/4170.m3u8
-#EXTINF:-1,FHD  I24 NEWS FHD
-http://line.myott.net:80/live/1234/4321/4173.m3u8
-#EXTINF:-1,FHD  MTV FRANCE FHD
-http://line.myott.net:80/live/1234/4321/4197.m3u8
-#EXTINF:-1,FHD  NRJ 12 FHD
-http://line.myott.net:80/live/1234/4321/19856.m3u8
-#EXTINF:-1,##### FHD  MUSIQUE FHD #####
-http://line.myott.net:80/live/1234/4321/15356.m3u8
-#EXTINF:-1,FHD  TRACE URBAN FHD
-http://line.myott.net:80/live/1234/4321/4196.m3u8
-#EXTINF:-1,FHD  MTV HITS FHD
-http://line.myott.net:80/live/1234/4321/4193.m3u8
-#EXTINF:-1,FHD  MCM FHD
-http://line.myott.net:80/live/1234/4321/4200.m3u8
-#EXTINF:-1,FHD  MCM TOP FHD
-http://line.myott.net:80/live/1234/4321/4199.m3u8
-#EXTINF:-1,FHD  MEZZO FHD
-http://line.myott.net:80/live/1234/4321/4169.m3u8
-#EXTINF:-1,FHD  MEZZO LIVE FHD
-http://line.myott.net:80/live/1234/4321/4192.m3u8
-#EXTINF:-1,##### FHD  INFORMATION FHD #####
-http://line.myott.net:80/live/1234/4321/15353.m3u8
+http://p5.giffy.be:8080/live/cecilia/cecilia/96626.m3u8
+#EXTINF:-1,BFM Sport HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96625.m3u8
+#EXTINF:-1,Boing HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96631.m3u8
+#EXTINF:-1,Boomerang Fr HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/96633.m3u8
