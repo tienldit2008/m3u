@@ -158,8 +158,8 @@ http://iptv-nl3-qscdn.hdflixtv.com/VN-K+NS-HD/index.m3u8?token=dbab5718a75c1f4e4
 https://cdn1.vtcnow.vn/live/eds/VTC1_1/hlsv3/VTC1_1-audio_20000=212400-video=1799600.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="https://www.upsieutoc.com/images/2018/11/12/VTC2.jpg",VTC2
 https://cdn1.vtcnow.vn/live/eds/VTC2_2/hlsv3/VTC2_2-audio_20000=212400-video=1275600.m3u8
-#EXTINF:-1, group-title="VTC" tvg-logo="https://www.upsieutoc.com/images/2018/11/12/VTC3.jpg",VTC3 SD
-http://live.cdn.mobifonetv.vn/motv2/myvtc3_hls.smil/playlist.m3u8
+#EXTINF:-1, group-title="VTC" tvg-logo="https://www.upsieutoc.com/images/2018/11/12/VTC3.jpg",VTC3 HD
+https://cdn.vtc.gov.vn/live/eds/VTC3_3/hlsv5/VTC3_3-audio_20000=212400-video=1200000.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="https://www.upsieutoc.com/images/2018/11/12/VTC4.jpg",VTC4-Yeah1! Family
 https://cdn1.vtcnow.vn/live/eds/VTC4_4/hlsv3/VTC4_4-audio_20000=212400-video=1275600.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="https://gg.gg/vtc-5-sc-tv",VTC5 SD - Giải trí tổng hợp SCTV
