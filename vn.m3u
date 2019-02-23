@@ -153,6 +153,44 @@ http://sv4.vungtau.ml/live/vchannel5_low.m3u8
 #EXTINF:-1 group-title="Kênh Tổng Hợp" tvg=logo="https://i.postimg.cc/HnBbTSxY/k_nshd.png",K+NS HD
 http://iptv-nl3-qscdn.hdflixtv.com/VN-K+NS-HD/index.m3u8?token=dbab5718a75c1f4e4148390d2d7d5af9-1541429364-5be056f30ebc0599b32144c5
 
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mCc8D2dhMEJW5tWjhkjnIIlAOln-TSRoNWZSQ=s900-mo-c-c0xffffffff-rj-k-no" ,VTVcab1 - Vie GIẢI TRÍ
+http://liverestreamobj.5b1df984.cdnviet.com/hls/GIAITRI_TV_HD/04.m3u8
+
+#EXTINF:-1 group-title="VTVcab" tvg-logo="http://tduc.tk/logo/vtvcab2-phimviet.png" ,VTVcab2 - PHIM VIỆT
+http://liverestreamobj.5b1df984.cdnviet.com/hls/PHIM_VIET/04.m3u8
+
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQVh3Z9Y6A4h7rMdCT6JfNJPzDusM1J3Rh6NFL1pXvRSlQCjae-" ,VTVcab3 - THỂ THAO HD
+http://cdn01.fastfoot.cf/live/cafesport.m3u8
+
+#EXTINF:-1 group-title="VTVcab" tvg-logo="http://tduc.tk/logo/vtvcab4-vanhoa.png" ,VTVcab4 - LOVE
+http://liverestreamobj.5b1df984.cdnviet.com/hls/VAN_HOA/04.m3u8
+
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRea189yRnvkIGxCE96CocXKsY6SoW5G7UAoSs3K7_oc23emyCw" ,VTVcab5 - E CHANNEL
+http://liverestreamobj.5b1df984.cdnviet.com/hls/E_CHANNEL/03.m3u8
+
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://i1.wp.com/www.vietcv.net/wp-content/uploads/2018/04/Hay-TV.jpg?resize=700%2C400" ,VTVcab6 - HAY TV
+http://liverestreamobj.5b1df984.cdnviet.com/hls/HAY_TV/04.m3u8
+
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQKk87ogS9SDwkRGcZ2QVn7OHXGIQRzPHY2omcwwE6IUiDjvEls" ,VTVcab7 - Vie DRAMAS
+http://liverestreamobj.5b1df984.cdnviet.com/hls/D_DRAMAS_HD/04.m3u8
+
+#EXTINF:-1 group-title="VTVcab" tvg-logo="http://tduc.tk/logo/vtvcab8-bibi.png" ,VTVcab8 - BIBI
+http://liverestreamobj.5b1df984.cdnviet.com/hls/BIBI/03.m3u8
+
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mB3aCxiFweJ74aWCYhSfiHH2GtdyqucaMAAlQ=s900-mo-c-c0xffffffff-rj-k-no" ,VTVcab9 - INFO TV
+http://liverestream2obj.5b1df984.cdnviet.com/hls/INFO_TV_NEW/01.m3u8
+
+#EXTINF:-1 group-title="VTVcab" tvg-logo="http://tduc.tk/logo/vtvcab10.png" ,VTVcab10
+http://liverestream2obj.5b1df984.cdnviet.com/hls/O2_TV_NEW/03.m3u8
+
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://www.vgsshop.vn/Data/Sites/1/media/gioi-thieu/logo.png",VTVCab11 - VGS SHOP
+https://5b0446c43ca13.streamlock.net/dn/htvmuasam.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTQSE0X3PH0Bs4Dru1VmwJ4MRmyhRHPOQQKCQgnenrOKGdcOnMx" ,VTVcab12 - STYLE TV
+http://liverestreamobj.5b1df984.cdnviet.com/hls/STYLE_TV_HD/04.m3u8
+
+#EXTINF:-1 group-title="VTVcab" tvg-logo="http://tduc.tk/logo/vtvcab15-um.png" ,VTVcab15 - UM
+http://liverestreamobj.5b1df984.cdnviet.com/hls/M_CHANNEL/04.m3u8
 
 #EXTINF:-1 group-title="VTC" tvg-logo="https://www.upsieutoc.com/images/2018/11/12/VTC1.jpg",VTC1 HD
 https://cdn1.vtcnow.vn/live/eds/VTC1_1/hlsv3/VTC1_1-audio_20000=212400-video=1799600.m3u8
@@ -242,44 +280,5 @@ http://113.163.216.23:1935/live/THonline/chunklist_w1280362622.m3u8
 http://221.133.9.35:1935/live/1.stream_240p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ttv11.vn/wp-content/themes/ttv11/assets/img/logo.png" gruop-title="DIA PHUONG NAM BO",Tay Ninh(TTV11)
 http://202.43.109.142:1935/ttv11/tntv/playlist.m3u8
-
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mCc8D2dhMEJW5tWjhkjnIIlAOln-TSRoNWZSQ=s900-mo-c-c0xffffffff-rj-k-no" ,VTVcab1 - Vie GIẢI TRÍ
-http://liverestreamobj.5b1df984.cdnviet.com/hls/GIAITRI_TV_HD/04.m3u8
-
-#EXTINF:-1 group-title="VTVcab" tvg-logo="http://tduc.tk/logo/vtvcab2-phimviet.png" ,VTVcab2 - PHIM VIỆT
-http://liverestreamobj.5b1df984.cdnviet.com/hls/PHIM_VIET/04.m3u8
-
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQVh3Z9Y6A4h7rMdCT6JfNJPzDusM1J3Rh6NFL1pXvRSlQCjae-" ,VTVcab3 - THỂ THAO HD
-http://cdn01.fastfoot.cf/live/cafesport.m3u8
-
-#EXTINF:-1 group-title="VTVcab" tvg-logo="http://tduc.tk/logo/vtvcab4-vanhoa.png" ,VTVcab4 - LOVE
-http://liverestreamobj.5b1df984.cdnviet.com/hls/VAN_HOA/04.m3u8
-
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRea189yRnvkIGxCE96CocXKsY6SoW5G7UAoSs3K7_oc23emyCw" ,VTVcab5 - E CHANNEL
-http://liverestreamobj.5b1df984.cdnviet.com/hls/E_CHANNEL/03.m3u8
-
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://i1.wp.com/www.vietcv.net/wp-content/uploads/2018/04/Hay-TV.jpg?resize=700%2C400" ,VTVcab6 - HAY TV
-http://liverestreamobj.5b1df984.cdnviet.com/hls/HAY_TV/04.m3u8
-
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQKk87ogS9SDwkRGcZ2QVn7OHXGIQRzPHY2omcwwE6IUiDjvEls" ,VTVcab7 - Vie DRAMAS
-http://liverestreamobj.5b1df984.cdnviet.com/hls/D_DRAMAS_HD/04.m3u8
-
-#EXTINF:-1 group-title="VTVcab" tvg-logo="http://tduc.tk/logo/vtvcab8-bibi.png" ,VTVcab8 - BIBI
-http://liverestreamobj.5b1df984.cdnviet.com/hls/BIBI/03.m3u8
-
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mB3aCxiFweJ74aWCYhSfiHH2GtdyqucaMAAlQ=s900-mo-c-c0xffffffff-rj-k-no" ,VTVcab9 - INFO TV
-http://liverestream2obj.5b1df984.cdnviet.com/hls/INFO_TV_NEW/01.m3u8
-
-#EXTINF:-1 group-title="VTVcab" tvg-logo="http://tduc.tk/logo/vtvcab10.png" ,VTVcab10
-http://liverestream2obj.5b1df984.cdnviet.com/hls/O2_TV_NEW/03.m3u8
-
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://www.vgsshop.vn/Data/Sites/1/media/gioi-thieu/logo.png",VTVCab11 - VGS SHOP
-https://5b0446c43ca13.streamlock.net/dn/htvmuasam.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTQSE0X3PH0Bs4Dru1VmwJ4MRmyhRHPOQQKCQgnenrOKGdcOnMx" ,VTVcab12 - STYLE TV
-http://liverestreamobj.5b1df984.cdnviet.com/hls/STYLE_TV_HD/04.m3u8
-
-#EXTINF:-1 group-title="VTVcab" tvg-logo="http://tduc.tk/logo/vtvcab15-um.png" ,VTVcab15 - UM
-http://liverestreamobj.5b1df984.cdnviet.com/hls/M_CHANNEL/04.m3u8
 
 
