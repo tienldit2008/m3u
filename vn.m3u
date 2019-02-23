@@ -67,9 +67,9 @@ http://live.cdn.mobifonetv.vn/motv2/mientay_hls.smil/playlist.m3u8
 http://iptv-nl3-qscdn.hdflixtv.com/VN-MTV/index.m3u8?token=dbab5718a75c1f4e4148390d2d7d5af9-1541429364-5be056f30ebc0599b32144c5
 
 #EXTINF:-1 tvg-logo="http://static.thvli.vn/assets/thumbnail/2017/05/09/zu1iq1dw_THVL-1-HD-N.jpg",VINH LONG 1 HD 
-http://tranvinh.tk/thvli/?id=vinhlong1hd
+http://cdn3.vtcplay.vn:1935/VTC/smil:VinhLong1HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.thvli.vn/assets/thumbnail/2017/05/09/jcsqtzfi_THVL-2-HD-N.jpg",VINH LONG 2 HD
-http://tranvinh.tk/thvli/?id=vinhlong2hd
+http://cdn3.vtcplay.vn:1935/VTC/smil:VinhLong2HD.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2015-03-26/6438006-logo-ttxvn.png",VNEWS-TTXVN
 http://iptv-nl3-qscdn.hdflixtv.com/VN-TTXVN/index.m3u8?token=dbab5718a75c1f4e4148390d2d7d5af9-1541429364-5be056f30ebc0599b32144c5
