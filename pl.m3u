@@ -1,361 +1,77 @@
 #EXTM3U
-#EXTINF:-1,TVP 1 HD
-http://line.myott.net:80/live/1234/4321/27605.m3u8
-#EXTINF:-1,TVP 2 HD
-http://line.myott.net:80/live/1234/4321/27565.m3u8
-#EXTINF:-1,TVP 3
-http://line.myott.net:80/live/1234/4321/60346.m3u8
-#EXTINF:-1,TV4 HD
-http://line.myott.net:80/live/1234/4321/27660.m3u8
-#EXTINF:-1,TELE 5
-http://line.myott.net:80/live/1234/4321/27610.m3u8
-#EXTINF:-1,TV6
-http://line.myott.net:80/live/1234/4321/27656.m3u8
-#EXTINF:-1,POLONIA 1
-http://line.myott.net:80/live/1234/4321/60341.m3u8
-#EXTINF:-1,POLSAT HD
-http://line.myott.net:80/live/1234/4321/27560.m3u8
-#EXTINF:-1,POLSAT 2 HD
-http://line.myott.net:80/live/1234/4321/27612.m3u8
-#EXTINF:-1,SUPER POLSAT
-http://line.myott.net:80/live/1234/4321/60323.m3u8
-#EXTINF:-1,TVN HD
-http://line.myott.net:80/live/1234/4321/27678.m3u8
-#EXTINF:-1,TVN 7 HD
-http://line.myott.net:80/live/1234/4321/27558.m3u8
-#EXTINF:-1,TVS
-http://line.myott.net:80/live/1234/4321/27636.m3u8
-#EXTINF:-1,TTV HD
-http://line.myott.net:80/live/1234/4321/27567.m3u8
-#EXTINF:-1,TV PULS HD
-http://line.myott.net:80/live/1234/4321/27626.m3u8
-#EXTINF:-1,ATM ROZRYWKA TV
-http://line.myott.net:80/live/1234/4321/60316.m3u8
-#EXTINF:-1,POLSAT RODZINA
-http://line.myott.net:80/live/1234/4321/60348.m3u8
-#EXTINF:-1,##### KINO #####
-http://line.myott.net:80/live/1234/4321/61303.m3u8
-#EXTINF:-1,FILMBOX EXTRA
-http://line.myott.net:80/live/1234/4321/27654.m3u8
-#EXTINF:-1,FILMBOX PREMIUM HD
-http://line.myott.net:80/live/1234/4321/27633.m3u8
-#EXTINF:-1,FILMBOX ACTION
-http://line.myott.net:80/live/1234/4321/27617.m3u8
-#EXTINF:-1,FILMBOX FAMILY
-http://line.myott.net:80/live/1234/4321/27583.m3u8
-#EXTINF:-1,FILMBOX ARTHOUSE
-http://line.myott.net:80/live/1234/4321/60313.m3u8
-#EXTINF:-1,CINEMAX 2 HD
-http://line.myott.net:80/live/1234/4321/27582.m3u8
-#EXTINF:-1,HBO HD
-http://line.myott.net:80/live/1234/4321/27655.m3u8
-#EXTINF:-1,HBO2 HD
-http://line.myott.net:80/live/1234/4321/27570.m3u8
-#EXTINF:-1,HBO3 HD
-http://line.myott.net:80/live/1234/4321/27673.m3u8
-#EXTINF:-1,TNT HD
-http://line.myott.net:80/live/1234/4321/60296.m3u8
-#EXTINF:-1,POLSAT FILM HD
-http://line.myott.net:80/live/1234/4321/27672.m3u8
-#EXTINF:-1,KINO TV HD
-http://line.myott.net:80/live/1234/4321/27653.m3u8
-#EXTINF:-1,STOPKLATKA TV
-http://line.myott.net:80/live/1234/4321/60339.m3u8
-#EXTINF:-1,CANAL+ HD
-http://line.myott.net:80/live/1234/4321/60333.m3u8
-#EXTINF:-1,CANAL+ FAMILY HD
-http://line.myott.net:80/live/1234/4321/27596.m3u8
-#EXTINF:-1,CANAL+ FILM HD
-http://line.myott.net:80/live/1234/4321/27602.m3u8
-#EXTINF:-1,CANAL+ SERIALE HD
-http://line.myott.net:80/live/1234/4321/27561.m3u8
-#EXTINF:-1,CANAL+ NOW
-http://line.myott.net:80/live/1234/4321/60328.m3u8
-#EXTINF:-1,##### SERIALE #####
-http://line.myott.net:80/live/1234/4321/61306.m3u8
-#EXTINF:-1,FOX HD
-http://line.myott.net:80/live/1234/4321/27588.m3u8
-#EXTINF:-1,FOX COMEDY HD
-http://line.myott.net:80/live/1234/4321/27572.m3u8
-#EXTINF:-1,AXN HD
-http://line.myott.net:80/live/1234/4321/27571.m3u8
-#EXTINF:-1,AXN
-http://line.myott.net:80/live/1234/4321/27577.m3u8
-#EXTINF:-1,AXN WHITE
-http://line.myott.net:80/live/1234/4321/27599.m3u8
-#EXTINF:-1,AXN BLACK
-http://line.myott.net:80/live/1234/4321/27600.m3u8
-#EXTINF:-1,AXN SPIN HD
-http://line.myott.net:80/live/1234/4321/27615.m3u8
-#EXTINF:-1,SCIFI HD
-http://line.myott.net:80/live/1234/4321/60324.m3u8
-#EXTINF:-1,13 ULICA HD
-http://line.myott.net:80/live/1234/4321/60300.m3u8
-#EXTINF:-1,EPIC DRAMA HD
-http://line.myott.net:80/live/1234/4321/60343.m3u8
-#EXTINF:-1,E! ENTERTAINMENT
-http://line.myott.net:80/live/1234/4321/60298.m3u8
-#EXTINF:-1,TVP SERIALE
-http://line.myott.net:80/live/1234/4321/27643.m3u8
-#EXTINF:-1,CBS ACTION
-http://line.myott.net:80/live/1234/4321/60327.m3u8
-#EXTINF:-1,CBS REALITY
-http://line.myott.net:80/live/1234/4321/60321.m3u8
-#EXTINF:-1,CBS EUROPA HD
-http://line.myott.net:80/live/1234/4321/60281.m3u8
-#EXTINF:-1,POLSAT ROMANS
-http://line.myott.net:80/live/1234/4321/60322.m3u8
-#EXTINF:-1,COMEDY CENTRAL HD
-http://line.myott.net:80/live/1234/4321/27611.m3u8
-#EXTINF:-1,POLSAT CAFE HD
-http://line.myott.net:80/live/1234/4321/27595.m3u8
-#EXTINF:-1,POLSAT PLAY HD
-http://line.myott.net:80/live/1234/4321/27670.m3u8
-#EXTINF:-1,METRO
-http://line.myott.net:80/live/1234/4321/60310.m3u8
-#EXTINF:-1,ZOOM TV
-http://line.myott.net:80/live/1234/4321/60312.m3u8
-#EXTINF:-1,NOVELA TV
-http://line.myott.net:80/live/1234/4321/60344.m3u8
-#EXTINF:-1,SUNDANCE HD
-http://line.myott.net:80/live/1234/4321/60293.m3u8
-#EXTINF:-1,BBC FIRST HD
-http://line.myott.net:80/live/1234/4321/27634.m3u8
-#EXTINF:-1,TVN STYLE HD
-http://line.myott.net:80/live/1234/4321/27628.m3u8
-#EXTINF:-1,LIFETIME HD
-http://line.myott.net:80/live/1234/4321/60285.m3u8
-#EXTINF:-1,HGTV HD
-http://line.myott.net:80/live/1234/4321/60304.m3u8
-#EXTINF:-1,NOWA TV
-http://line.myott.net:80/live/1234/4321/60306.m3u8
-#EXTINF:-1,TV OKAZJE
-http://line.myott.net:80/live/1234/4321/27664.m3u8
-#EXTINF:-1,COMEDY CENTRAL FAMILY
-http://line.myott.net:80/live/1234/4321/27580.m3u8
-#EXTINF:-1,TLC HD
-http://line.myott.net:80/live/1234/4321/60292.m3u8
-#EXTINF:-1,PARAMOUNT CHANNEL HD.
-http://line.myott.net:80/live/1234/4321/27657.m3u8
-#EXTINF:-1,AMC
-http://line.myott.net:80/live/1234/4321/27635.m3u8
-#EXTINF:-1,TVP KULTURA
-http://line.myott.net:80/live/1234/4321/27613.m3u8
-#EXTINF:-1,TRAVEL CHANNEL HD
-http://line.myott.net:80/live/1234/4321/27647.m3u8
-#EXTINF:-1,TVA VICENZA
-http://line.myott.net:80/live/1234/4321/27585.m3u8
-#EXTINF:-1,TVN FABULA
-http://line.myott.net:80/live/1234/4321/27579.m3u8
-#EXTINF:-1,TVN TURBO HD
-http://line.myott.net:80/live/1234/4321/27665.m3u8
-#EXTINF:-1,TVR INTERNATIONAL HB
-http://line.myott.net:80/live/1234/4321/27637.m3u8
-#EXTINF:-1,TEF CHANNEL
-http://line.myott.net:80/live/1234/4321/27604.m3u8
-#EXTINF:-1,UNIRESAT HD
-http://line.myott.net:80/live/1234/4321/27625.m3u8
-#EXTINF:-1,ACTIVE FAMILY
-http://line.myott.net:80/live/1234/4321/60325.m3u8
-#EXTINF:-1,ADVENTURE HD
-http://line.myott.net:80/live/1234/4321/60311.m3u8
-#EXTINF:-1,DA VINCI
-http://line.myott.net:80/live/1234/4321/60291.m3u8
-#EXTINF:-1,FOOD NETWORK HD
-http://line.myott.net:80/live/1234/4321/27606.m3u8
-#EXTINF:-1,DOMO+  HD
-http://line.myott.net:80/live/1234/4321/60282.m3u8
-#EXTINF:-1,DTX
-http://line.myott.net:80/live/1234/4321/60290.m3u8
-#EXTINF:-1,##### GENERAL #####
-http://line.myott.net:80/live/1234/4321/61236.m3u8
-#EXTINF:-1,FOKUS TV
-http://line.myott.net:80/live/1234/4321/60309.m3u8
-#EXTINF:-1,KUCHNIA HD
-http://line.myott.net:80/live/1234/4321/60308.m3u8
-#EXTINF:-1,MOTOWIZJA TV HD
-http://line.myott.net:80/live/1234/4321/60317.m3u8
-#EXTINF:-1,NUTA TV
-http://line.myott.net:80/live/1234/4321/60303.m3u8
-#EXTINF:-1,POWER TV
-http://line.myott.net:80/live/1234/4321/60307.m3u8
-#EXTINF:-1,PULS 2
-http://line.myott.net:80/live/1234/4321/60331.m3u8
-#EXTINF:-1,RED CARPET TV
-http://line.myott.net:80/live/1234/4321/60347.m3u8
-#EXTINF:-1,ROMANCE TV
-http://line.myott.net:80/live/1234/4321/60289.m3u8
-#EXTINF:-1,TO!TV
-http://line.myott.net:80/live/1234/4321/60301.m3u8
-#EXTINF:-1,TVP ABC
-http://line.myott.net:80/live/1234/4321/60332.m3u8
-#EXTINF:-1,WP
-http://line.myott.net:80/live/1234/4321/60319.m3u8
-#EXTINF:-1,##### DZIECI #####
-http://line.myott.net:80/live/1234/4321/61239.m3u8
-#EXTINF:-1,POLSAT JIM JAM
-http://line.myott.net:80/live/1234/4321/60315.m3u8
-#EXTINF:-1,BOOMERANG HD
-http://line.myott.net:80/live/1234/4321/27568.m3u8
-#EXTINF:-1,CARTOON NETWORK HD
-http://line.myott.net:80/live/1234/4321/27662.m3u8
-#EXTINF:-1,DISNEY JUNIOR
-http://line.myott.net:80/live/1234/4321/27569.m3u8
-#EXTINF:-1,NICK JR
-http://line.myott.net:80/live/1234/4321/27650.m3u8
-#EXTINF:-1,NICKELODEON
-http://line.myott.net:80/live/1234/4321/27581.m3u8
-#EXTINF:-1,NICKTOONS HD
-http://line.myott.net:80/live/1234/4321/27651.m3u8
-#EXTINF:-1,TELETOON  HD
-http://line.myott.net:80/live/1234/4321/27639.m3u8
-#EXTINF:-1,DISNEY XD
-http://line.myott.net:80/live/1234/4321/27593.m3u8
-#EXTINF:-1,MINIMINI  HD
-http://line.myott.net:80/live/1234/4321/60286.m3u8
-#EXTINF:-1,DISNEY CHANNEL HD
-http://line.myott.net:80/live/1234/4321/27668.m3u8
-#EXTINF:-1,ALE KINO  HD
-http://line.myott.net:80/live/1234/4321/27576.m3u8
-#EXTINF:-1,##### MUZYKA #####
-http://line.myott.net:80/live/1234/4321/61240.m3u8
-#EXTINF:-1,MTV LIVE HD
-http://line.myott.net:80/live/1234/4321/27584.m3u8
-#EXTINF:-1,MTV POLSKA HD
-http://line.myott.net:80/live/1234/4321/27562.m3u8
-#EXTINF:-1,MTV MUSIC
-http://line.myott.net:80/live/1234/4321/27563.m3u8
-#EXTINF:-1,MTV ROCKS
-http://line.myott.net:80/live/1234/4321/27671.m3u8
-#EXTINF:-1,VH1
-http://line.myott.net:80/live/1234/4321/27597.m3u8
-#EXTINF:-1,TVP ROZRYWKA
-http://line.myott.net:80/live/1234/4321/27627.m3u8
-#EXTINF:-1,KINO POLSKA MUZYKA
-http://line.myott.net:80/live/1234/4321/60318.m3u8
-#EXTINF:-1,DISCO POLO MUSIC
-http://line.myott.net:80/live/1234/4321/27649.m3u8
-#EXTINF:-1,POLO TV
-http://line.myott.net:80/live/1234/4321/60335.m3u8
-#EXTINF:-1,POLSAT MUSIC HD
-http://line.myott.net:80/live/1234/4321/27607.m3u8
-#EXTINF:-1,ESKA TV
-http://line.myott.net:80/live/1234/4321/60337.m3u8
-#EXTINF:-1,ESKA TV EXTRA
-http://line.myott.net:80/live/1234/4321/60336.m3u8
-#EXTINF:-1,ESKA ROCK TV
-http://line.myott.net:80/live/1234/4321/60330.m3u8
-#EXTINF:-1,4FUN.TV
-http://line.myott.net:80/live/1234/4321/27592.m3u8
-#EXTINF:-1,4FUN GOLD HITS
-http://line.myott.net:80/live/1234/4321/27652.m3u8
-#EXTINF:-1,4FUN DANCE
-http://line.myott.net:80/live/1234/4321/27661.m3u8
-#EXTINF:-1,STARS.TV
-http://line.myott.net:80/live/1234/4321/27590.m3u8
-#EXTINF:-1,VOX MUSIC TV
-http://line.myott.net:80/live/1234/4321/27631.m3u8
-#EXTINF:-1,TRACE TV
-http://line.myott.net:80/live/1234/4321/27578.m3u8
-#EXTINF:-1,##### KULTURA #####
-http://line.myott.net:80/live/1234/4321/61237.m3u8
-#EXTINF:-1,WATER PLANET
-http://line.myott.net:80/live/1234/4321/60288.m3u8
-#EXTINF:-1,NAT GEO WILD
-http://line.myott.net:80/live/1234/4321/27675.m3u8
-#EXTINF:-1,NATIONAL GEO
-http://line.myott.net:80/live/1234/4321/27616.m3u8
-#EXTINF:-1,DISCOVERY HISTORIA
-http://line.myott.net:80/live/1234/4321/60334.m3u8
-#EXTINF:-1,POLSAT VIASAT HISTORY HD
-http://line.myott.net:80/live/1234/4321/27603.m3u8
-#EXTINF:-1,POLSAT VIASAT NATURE HD
-http://line.myott.net:80/live/1234/4321/27608.m3u8
-#EXTINF:-1,CANAL+ DISCOVERY HD
-http://line.myott.net:80/live/1234/4321/27575.m3u8
-#EXTINF:-1,DISCOVERY HD
-http://line.myott.net:80/live/1234/4321/27632.m3u8
-#EXTINF:-1,DISCOVERY LIFE HD
-http://line.myott.net:80/live/1234/4321/27644.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE HD
-http://line.myott.net:80/live/1234/4321/27669.m3u8
-#EXTINF:-1,NAT GEO PEOPLE HD
-http://line.myott.net:80/live/1234/4321/60287.m3u8
-#EXTINF:-1,ANIMAL PLANET HD
-http://line.myott.net:80/live/1234/4321/60278.m3u8
-#EXTINF:-1,PLANETE   HD
-http://line.myott.net:80/live/1234/4321/60295.m3u8
-#EXTINF:-1,CI POLSAT HD
-http://line.myott.net:80/live/1234/4321/60345.m3u8
-#EXTINF:-1,HISTORY HD
-http://line.myott.net:80/live/1234/4321/27621.m3u8
-#EXTINF:-1,ID HD
-http://line.myott.net:80/live/1234/4321/27609.m3u8
-#EXTINF:-1,TVP HISTORIA
-http://line.myott.net:80/live/1234/4321/27619.m3u8
-#EXTINF:-1,BBC EARTH HD
-http://line.myott.net:80/live/1234/4321/27677.m3u8
-#EXTINF:-1,H2 HD
-http://line.myott.net:80/live/1234/4321/60299.m3u8
-#EXTINF:-1,POLSAT DOKU HD
-http://line.myott.net:80/live/1234/4321/27659.m3u8
-#EXTINF:-1,POLSAT VIASAT EXPLORE HD
-http://line.myott.net:80/live/1234/4321/60320.m3u8
-#EXTINF:-1,##### SPORT #####
-http://line.myott.net:80/live/1234/4321/61238.m3u8
-#EXTINF:-1,POLSAT SPORT NEWS HD
-http://line.myott.net:80/live/1234/4321/27622.m3u8
-#EXTINF:-1,POLSAT SPORT EXTRA HD
-http://line.myott.net:80/live/1234/4321/27630.m3u8
-#EXTINF:-1,POLSAT SPORT FIGHT HD
-http://line.myott.net:80/live/1234/4321/27641.m3u8
-#EXTINF:-1,TVP SPORT HD
-http://line.myott.net:80/live/1234/4321/27623.m3u8
-#EXTINF:-1,CANAL+ SPORT HD
-http://line.myott.net:80/live/1234/4321/60280.m3u8
-#EXTINF:-1,CANAL+ SPORT 2 HD
-http://line.myott.net:80/live/1234/4321/60279.m3u8
-#EXTINF:-1,NSPORT+
-http://line.myott.net:80/live/1234/4321/60294.m3u8
-#EXTINF:-1,SPORT KLUB HD
-http://line.myott.net:80/live/1234/4321/60340.m3u8
-#EXTINF:-1,EUROSPORT 1 HD
-http://line.myott.net:80/live/1234/4321/60283.m3u8
-#EXTINF:-1,EUROSPORT 2 HD
-http://line.myott.net:80/live/1234/4321/27559.m3u8
-#EXTINF:-1,POLSAT SPORT HD
-http://line.myott.net:80/live/1234/4321/27614.m3u8
-#EXTINF:-1,EXTREME SPORTS HD
-http://line.myott.net:80/live/1234/4321/27680.m3u8
-#EXTINF:-1,ELEVENSPORT 1 HD
-http://line.myott.net:80/live/1234/4321/60277.m3u8
-#EXTINF:-1,ELEVENSPORT 2 HD
-http://line.myott.net:80/live/1234/4321/60276.m3u8
-#EXTINF:-1,ELEVENSPORT 3 HD
-http://line.myott.net:80/live/1234/4321/60275.m3u8
-#EXTINF:-1,ELEVENSPORT 4 HD
-http://line.myott.net:80/live/1234/4321/60274.m3u8
-#EXTINF:-1,GOLF CHANNEL
-http://line.myott.net:80/live/1234/4321/60329.m3u8
-#EXTINF:-1,FIGHTBOX HD
-http://line.myott.net:80/live/1234/4321/60297.m3u8
-#EXTINF:-1,FIGHTKLUB HD
-http://line.myott.net:80/live/1234/4321/60284.m3u8
-#EXTINF:-1,##### INFORMACJA #####
-http://line.myott.net:80/live/1234/4321/65927.m3u8
-#EXTINF:-1,TVN 24 HD
-http://line.myott.net:80/live/1234/4321/27679.m3u8
-#EXTINF:-1,TVN24 BIS HD
-http://line.myott.net:80/live/1234/4321/60302.m3u8
-#EXTINF:-1,POLSAT NEWS HD
-http://line.myott.net:80/live/1234/4321/27667.m3u8
-#EXTINF:-1,POLSAT NEWS 2
-http://line.myott.net:80/live/1234/4321/27594.m3u8
-#EXTINF:-1,SUPERSTACJA
-http://line.myott.net:80/live/1234/4321/60314.m3u8
-#EXTINF:-1,TV REPUBLIKA
-http://line.myott.net:80/live/1234/4321/60305.m3u8
-#EXTINF:-1,WPOLSCE.PL
-http://line.myott.net:80/live/1234/4321/60342.m3u8
-#EXTINF:-1,POLSAT GAMES
-http://line.myott.net:80/live/1234/4321/60349.m3u8
+#EXTINF:0, NSPORT
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12954
+#EXTINF:0,ALE KINO
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12955
+#EXTINF:0,AXN
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12956
+#EXTINF:0,Canal  HD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12957
+#EXTINF:0,Canal  Sport
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12958
+#EXTINF:0,CANAL  SPORT 2  HD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12959
+#EXTINF:0,CANAL FAMILY HD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12960
+#EXTINF:0,CANAL FILM HD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12961
+#EXTINF:0,CANAL SERIALE HD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12962
+#EXTINF:0,Cartoon Network HD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12963
+#EXTINF:0,CINEMAX 2
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12964
+#EXTINF:0,ELEVEN HD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12965
+#EXTINF:0,Eleven Sports HD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12966
+#EXTINF:0,EUROSPORT
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12967
+#EXTINF:0,EUROSPORT 2
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12968
+#EXTINF:0,Extreme Sports
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12969
+#EXTINF:0,FILMBOX FAMILY
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12972
+#EXTINF:0,FILMBOX Premium
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12970
+#EXTINF:0,NICK JR POLSAKA
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12973
+#EXTINF:0,NSport Plus
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12974
+#EXTINF:0,POLSAT 1
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12975
+#EXTINF:0,POLSAT 2 HD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12976
+#EXTINF:0,POLSAT CAFE
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12977
+#EXTINF:0,POLSAT SPORT EXTRA HD
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12980
+#EXTINF:0,POLSAT SPORT Fight
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12979
+#EXTINF:0,Polsat Sport News
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12981
+#EXTINF:0,TVN 24
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12982
+#EXTINF:0,TVN Style
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12983
+#EXTINF:0,TVP3
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/12984
+#EXTINF:0,UFC | 1
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/7537
+#EXTINF:0,UFC | 2
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/7536
+#EXTINF:0,UFC | 3
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/7535
+#EXTINF:0,UFC | 4
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/9162
+#EXTINF:0,UFC | 5
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/9163
+#EXTINF:0,BOXING | 1
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/10046
+#EXTINF:0,BOXING | 2
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/10045
+#EXTINF:0,BOXING | 3
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/10044
+#EXTINF:0,WWE (Live Matches Only)
+http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/7534
