@@ -197,10 +197,6 @@ http://sv4.vungtau.ml/live/vchannel8_low.m3u8
 #EXTINF:-1 group-title="Kênh SCTV" tvg-logo="http://2.bp.blogspot.com/-lJcqmhDCJjc/VZspLx0vq9I/AAAAAAAAtUQ/AlRTVhKUKZ8/s640/kenh-itv.jpg",iTV-SCTV20
 http://kenhitv.vn/ITV_Stream/itv_web_500k.stream.mp4/playlist.m3u8
 
-#EXTINF:-1 group-title="Kênh Tổng Hợp" tvg-logo="https://i.imgur.com/DRMrQGo.png",Keeng Movies
-http://vip.media5.keeng.vn/5dtv/5dtv.m3u8
-#EXTINF:-1 group-title="Kênh Tổng Hợp" tvg-logo="https://i.imgur.com/DRMrQGo.png",Keeng Musics
-http://media5.keeng.vn/livetv/keeng.m3u8
 #EXTINF:-1 group-title="Kênh Tổng Hợp" tvg-logo="https://i.imgur.com/HQ7sB2D.png",Hà Nội 1 HD
 http://hanoitvlive.8ef55e0c.cdnviet.com/hanoi1.smil/chunklist_b3500000.m3u8
 #EXTINF:-1 group-title="Kênh Tổng Hợp" tvg-logo="https://i.imgur.com/sRi6G2v.png", Hà Nội 2 HD
