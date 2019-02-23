@@ -1,281 +1,106 @@
 #EXTM3U
-#EXTINF:-1, BBC FOUR
-http://p5.giffy.be:8080/live/cecilia/cecilia/85733.m3u8
-#EXTINF:-1, BBC ONE
-http://p5.giffy.be:8080/live/cecilia/cecilia/85732.m3u8
-#EXTINF:-1, BBC ONE (opt-2)
-http://p5.giffy.be:8080/live/cecilia/cecilia/85731.m3u8
-#EXTINF:-1, BBC ONE SCOTLAND
-http://p5.giffy.be:8080/live/cecilia/cecilia/85730.m3u8
-#EXTINF:-1, BBC TWO
-http://p5.giffy.be:8080/live/cecilia/cecilia/85729.m3u8
-#EXTINF:-1, BBC WORLD NEWS
-http://p5.giffy.be:8080/live/cecilia/cecilia/85728.m3u8
-#EXTINF:-1, DAVE
-http://p5.giffy.be:8080/live/cecilia/cecilia/85709.m3u8
-#EXTINF:-1, DISCOVERY HISTORY
-http://p5.giffy.be:8080/live/cecilia/cecilia/85707.m3u8
-#EXTINF:-1, DISCOVERY SCIENCE
-http://p5.giffy.be:8080/live/cecilia/cecilia/85706.m3u8
-#EXTINF:-1, DISCOVERY SHED
-http://p5.giffy.be:8080/live/cecilia/cecilia/85705.m3u8
-#EXTINF:-1, DISCOVERY TURBO
-http://p5.giffy.be:8080/live/cecilia/cecilia/85704.m3u8
-#EXTINF:-1, DISNEY JR
-http://p5.giffy.be:8080/live/cecilia/cecilia/85702.m3u8
-#EXTINF:-1, ITV BE
-http://p5.giffy.be:8080/live/cecilia/cecilia/85679.m3u8
-#EXTINF:-1, ITV ENCORE
-http://p5.giffy.be:8080/live/cecilia/cecilia/85678.m3u8
-#EXTINF:-1, ITV1
-http://p5.giffy.be:8080/live/cecilia/cecilia/51465.m3u8
-#EXTINF:-1, ITV2
-http://p5.giffy.be:8080/live/cecilia/cecilia/51464.m3u8
-#EXTINF:-1, ITV3
-http://p5.giffy.be:8080/live/cecilia/cecilia/51463.m3u8
-#EXTINF:-1, ITV4
-http://p5.giffy.be:8080/live/cecilia/cecilia/51462.m3u8
-#EXTINF:-1, RTÉ NEWS NOW
-http://p5.giffy.be:8080/live/cecilia/cecilia/85662.m3u8
-#EXTINF:-1, SKY ATLANTIC
-http://p5.giffy.be:8080/live/cecilia/cecilia/85659.m3u8
-#EXTINF:-1, SKY CINEMA ACTION
-http://p5.giffy.be:8080/live/cecilia/cecilia/85658.m3u8
-#EXTINF:-1, SKY CINEMA COMEDY
-http://p5.giffy.be:8080/live/cecilia/cecilia/85657.m3u8
-#EXTINF:-1, SKY CINEMA FAMILY/ANIMATION
-http://p5.giffy.be:8080/live/cecilia/cecilia/85654.m3u8
-#EXTINF:-1, SKY CINEMA PREMIER
-http://p5.giffy.be:8080/live/cecilia/cecilia/85651.m3u8
-#EXTINF:-1, SKY SPORTS BOX OFFICE PPV (Live During Events Only)
-http://p5.giffy.be:8080/live/cecilia/cecilia/85643.m3u8
-#EXTINF:-1, SKY SPORTS F1
-http://p5.giffy.be:8080/live/cecilia/cecilia/85641.m3u8
-#EXTINF:-1, SKY SPORTS MAIN EVENT
-http://p5.giffy.be:8080/live/cecilia/cecilia/85638.m3u8
-#EXTINF:-1, VH1 CLASSIC
-http://p5.giffy.be:8080/live/cecilia/cecilia/85623.m3u8
-#EXTINF:-1,11 SPORTS 1
-http://p5.giffy.be:8080/live/cecilia/cecilia/85750.m3u8
-#EXTINF:-1,11 SPORTS 2
-http://p5.giffy.be:8080/live/cecilia/cecilia/85751.m3u8
-#EXTINF:-1,5 USA
-http://p5.giffy.be:8080/live/cecilia/cecilia/85748.m3u8
-#EXTINF:-1,AMC
-http://p5.giffy.be:8080/live/cecilia/cecilia/85747.m3u8
-#EXTINF:-1,ARAB SPORTS 10
-http://p5.giffy.be:8080/live/cecilia/cecilia/85737.m3u8
-#EXTINF:-1,ARAB SPORTS 11
-http://p5.giffy.be:8080/live/cecilia/cecilia/85746.m3u8
-#EXTINF:-1,ARAB SPORTS 12
-http://p5.giffy.be:8080/live/cecilia/cecilia/85745.m3u8
-#EXTINF:-1,ARAB SPORTS 2
-http://p5.giffy.be:8080/live/cecilia/cecilia/85736.m3u8
-#EXTINF:-1,ARAB SPORTS 3
-http://p5.giffy.be:8080/live/cecilia/cecilia/85744.m3u8
-#EXTINF:-1,ARAB SPORTS 4
-http://p5.giffy.be:8080/live/cecilia/cecilia/85743.m3u8
-#EXTINF:-1,ARAB SPORTS 5
-http://p5.giffy.be:8080/live/cecilia/cecilia/85742.m3u8
-#EXTINF:-1,ARAB SPORTS 6
-http://p5.giffy.be:8080/live/cecilia/cecilia/85741.m3u8
-#EXTINF:-1,ARAB SPORTS 7
-http://p5.giffy.be:8080/live/cecilia/cecilia/85740.m3u8
-#EXTINF:-1,ARAB SPORTS 8
-http://p5.giffy.be:8080/live/cecilia/cecilia/85739.m3u8
-#EXTINF:-1,ARAB SPORTS 9
-http://p5.giffy.be:8080/live/cecilia/cecilia/85738.m3u8
-#EXTINF:-1,AT THE RACES
-http://p5.giffy.be:8080/live/cecilia/cecilia/85735.m3u8
-#EXTINF:-1,BE3 IRELAND
-http://p5.giffy.be:8080/live/cecilia/cecilia/85727.m3u8
-#EXTINF:-1,Bee T SPORTS 3
-http://p5.giffy.be:8080/live/cecilia/cecilia/85726.m3u8
-#EXTINF:-1,BLAZE TV ( D )
-http://p5.giffy.be:8080/live/cecilia/cecilia/85725.m3u8
-#EXTINF:-1,BOOMERANG
-http://p5.giffy.be:8080/live/cecilia/cecilia/85724.m3u8
-#EXTINF:-1,BOX NATION
-http://p5.giffy.be:8080/live/cecilia/cecilia/85723.m3u8
-#EXTINF:-1,CARTOON NETWORK
-http://p5.giffy.be:8080/live/cecilia/cecilia/85717.m3u8
-#EXTINF:-1,CBC
-http://p5.giffy.be:8080/live/cecilia/cecilia/85722.m3u8
-#EXTINF:-1,CBEEBIES
-http://p5.giffy.be:8080/live/cecilia/cecilia/85718.m3u8
-#EXTINF:-1,CBS ACTION
-http://p5.giffy.be:8080/live/cecilia/cecilia/85721.m3u8
-#EXTINF:-1,CBS DRAMA
-http://p5.giffy.be:8080/live/cecilia/cecilia/85720.m3u8
-#EXTINF:-1,CBS REALITY
-http://p5.giffy.be:8080/live/cecilia/cecilia/85719.m3u8
-#EXTINF:-1,CHALLENGE
-http://p5.giffy.be:8080/live/cecilia/cecilia/85716.m3u8
-#EXTINF:-1,CHANNEL 4
-http://p5.giffy.be:8080/live/cecilia/cecilia/85715.m3u8
-#EXTINF:-1,CHANNEL 5
-http://p5.giffy.be:8080/live/cecilia/cecilia/85714.m3u8
-#EXTINF:-1,CHELSEA TV
-http://p5.giffy.be:8080/live/cecilia/cecilia/85713.m3u8
-#EXTINF:-1,COMEDY CENTRAL
-http://p5.giffy.be:8080/live/cecilia/cecilia/85712.m3u8
-#EXTINF:-1,CRIME & INVESTIGATION
-http://p5.giffy.be:8080/live/cecilia/cecilia/85711.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL
-http://p5.giffy.be:8080/live/cecilia/cecilia/85708.m3u8
-#EXTINF:-1,DISNEY CHANNEL
-http://p5.giffy.be:8080/live/cecilia/cecilia/85703.m3u8
-#EXTINF:-1,DISNEY XD
-http://p5.giffy.be:8080/live/cecilia/cecilia/85701.m3u8
-#EXTINF:-1,DMAX
-http://p5.giffy.be:8080/live/cecilia/cecilia/85710.m3u8
-#EXTINF:-1,DRAMA
-http://p5.giffy.be:8080/live/cecilia/cecilia/85700.m3u8
-#EXTINF:-1,E!
-http://p5.giffy.be:8080/live/cecilia/cecilia/85699.m3u8
-#EXTINF:-1,E4
-http://p5.giffy.be:8080/live/cecilia/cecilia/85698.m3u8
-#EXTINF:-1,EDEN
-http://p5.giffy.be:8080/live/cecilia/cecilia/85697.m3u8
-#EXTINF:-1,EIRE SPORTS 1
-http://p5.giffy.be:8080/live/cecilia/cecilia/85696.m3u8
-#EXTINF:-1,EIRE SPORTS 2
-http://p5.giffy.be:8080/live/cecilia/cecilia/85695.m3u8
-#EXTINF:-1,ESPANIA sport la liga
-http://p5.giffy.be:8080/live/cecilia/cecilia/85694.m3u8
-#EXTINF:-1,EUROSPORT 1
-http://p5.giffy.be:8080/live/cecilia/cecilia/85693.m3u8
-#EXTINF:-1,EUROSPORT 2
-http://p5.giffy.be:8080/live/cecilia/cecilia/85692.m3u8
-#EXTINF:-1,FOOD NETWORK
-http://p5.giffy.be:8080/live/cecilia/cecilia/85690.m3u8
-#EXTINF:-1,FOX
-http://p5.giffy.be:8080/live/cecilia/cecilia/85691.m3u8
-#EXTINF:-1,GOLD
-http://p5.giffy.be:8080/live/cecilia/cecilia/85689.m3u8
-#EXTINF:-1,GOOD FOOD
-http://p5.giffy.be:8080/live/cecilia/cecilia/85688.m3u8
-#EXTINF:-1,H2
-http://p5.giffy.be:8080/live/cecilia/cecilia/85687.m3u8
-#EXTINF:-1,HISTORY CHANNEL
-http://p5.giffy.be:8080/live/cecilia/cecilia/85686.m3u8
-#EXTINF:-1,HOME
-http://p5.giffy.be:8080/live/cecilia/cecilia/85685.m3u8
-#EXTINF:-1,HORROR CHANNEL
-http://p5.giffy.be:8080/live/cecilia/cecilia/85684.m3u8
-#EXTINF:-1,ITV 1
-http://p5.giffy.be:8080/live/cecilia/cecilia/85683.m3u8
-#EXTINF:-1,ITV 2
-http://p5.giffy.be:8080/live/cecilia/cecilia/85682.m3u8
-#EXTINF:-1,ITV 3
-http://p5.giffy.be:8080/live/cecilia/cecilia/85681.m3u8
-#EXTINF:-1,ITV 4
-http://p5.giffy.be:8080/live/cecilia/cecilia/85680.m3u8
-#EXTINF:-1,KERRANG
-http://p5.giffy.be:8080/live/cecilia/cecilia/85677.m3u8
-#EXTINF:-1,LIVERPOOL
-http://p5.giffy.be:8080/live/cecilia/cecilia/85676.m3u8
-#EXTINF:-1,MORE 4
-http://p5.giffy.be:8080/live/cecilia/cecilia/85674.m3u8
-#EXTINF:-1,MOVIES 24
-http://p5.giffy.be:8080/live/cecilia/cecilia/85673.m3u8
-#EXTINF:-1,MUTV
-http://p5.giffy.be:8080/live/cecilia/cecilia/85675.m3u8
-#EXTINF:-1,NAT GEO WILD
-http://p5.giffy.be:8080/live/cecilia/cecilia/85672.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://p5.giffy.be:8080/live/cecilia/cecilia/85671.m3u8
-#EXTINF:-1,NICK JR
-http://p5.giffy.be:8080/live/cecilia/cecilia/85670.m3u8
-#EXTINF:-1,NICKELODEON
-http://p5.giffy.be:8080/live/cecilia/cecilia/85669.m3u8
-#EXTINF:-1,NICKTOONS
-http://p5.giffy.be:8080/live/cecilia/cecilia/85668.m3u8
-#EXTINF:-1,PICK TV
-http://p5.giffy.be:8080/live/cecilia/cecilia/85667.m3u8
-#EXTINF:-1,PREMIERE SPORTS
-http://p5.giffy.be:8080/live/cecilia/cecilia/85666.m3u8
-#EXTINF:-1,QUEST TV
-http://p5.giffy.be:8080/live/cecilia/cecilia/85665.m3u8
-#EXTINF:-1,RACING UK
-http://p5.giffy.be:8080/live/cecilia/cecilia/85661.m3u8
-#EXTINF:-1,RANGERS TV
-http://p5.giffy.be:8080/live/cecilia/cecilia/85660.m3u8
-#EXTINF:-1,RTÉ 1
-http://p5.giffy.be:8080/live/cecilia/cecilia/85664.m3u8
-#EXTINF:-1,RTÉ 2
-http://p5.giffy.be:8080/live/cecilia/cecilia/85663.m3u8
-#EXTINF:-1,SKY CINEMA DISNEY
-http://p5.giffy.be:8080/live/cecilia/cecilia/85656.m3u8
-#EXTINF:-1,SKY CINEMA GREATS
-http://p5.giffy.be:8080/live/cecilia/cecilia/85653.m3u8
-#EXTINF:-1,SKY CINEMA HITS
-http://p5.giffy.be:8080/live/cecilia/cecilia/85652.m3u8
-#EXTINF:-1,SKY CINEMA SCI-FI & HORROR
-http://p5.giffy.be:8080/live/cecilia/cecilia/85650.m3u8
-#EXTINF:-1,SKY CINEMA SELECT
-http://p5.giffy.be:8080/live/cecilia/cecilia/85649.m3u8
-#EXTINF:-1,SKY CINEMA THRILLER
-http://p5.giffy.be:8080/live/cecilia/cecilia/85648.m3u8
-#EXTINF:-1,SKY NEWS (D)
-http://p5.giffy.be:8080/live/cecilia/cecilia/85647.m3u8
-#EXTINF:-1,SKY ONE
-http://p5.giffy.be:8080/live/cecilia/cecilia/85646.m3u8
-#EXTINF:-1,SKY SPORTS ACTION
-http://p5.giffy.be:8080/live/cecilia/cecilia/85645.m3u8
-#EXTINF:-1,SKY SPORTS ARENA
-http://p5.giffy.be:8080/live/cecilia/cecilia/85644.m3u8
-#EXTINF:-1,SKY SPORTS CRICKET
-http://p5.giffy.be:8080/live/cecilia/cecilia/85642.m3u8
-#EXTINF:-1,SKY SPORTS FOOTBALL
-http://p5.giffy.be:8080/live/cecilia/cecilia/85640.m3u8
-#EXTINF:-1,SKY SPORTS GOLF
-http://p5.giffy.be:8080/live/cecilia/cecilia/85639.m3u8
-#EXTINF:-1,SKY SPORTS MIX
-http://p5.giffy.be:8080/live/cecilia/cecilia/85637.m3u8
-#EXTINF:-1,SKY SPORTS NEWS
-http://p5.giffy.be:8080/live/cecilia/cecilia/85636.m3u8
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE
-http://p5.giffy.be:8080/live/cecilia/cecilia/85635.m3u8
-#EXTINF:-1,SKY TWO
-http://p5.giffy.be:8080/live/cecilia/cecilia/85634.m3u8
-#EXTINF:-1,SKY WITNESS AKA LIVING
-http://p5.giffy.be:8080/live/cecilia/cecilia/85633.m3u8
-#EXTINF:-1,SKYE CINEMA DRAMA & ROMANCE
-http://p5.giffy.be:8080/live/cecilia/cecilia/85655.m3u8
-#EXTINF:-1,TCM
-http://p5.giffy.be:8080/live/cecilia/cecilia/85632.m3u8
-#EXTINF:-1,TELECOME ESPN
-http://p5.giffy.be:8080/live/cecilia/cecilia/85628.m3u8
-#EXTINF:-1,TELECOME SPORTS 1
-http://p5.giffy.be:8080/live/cecilia/cecilia/85621.m3u8
-#EXTINF:-1,TELECOME SPORTS 2
-http://p5.giffy.be:8080/live/cecilia/cecilia/85627.m3u8
-#EXTINF:-1,TELECOME SPORTS 3
-http://p5.giffy.be:8080/live/cecilia/cecilia/85626.m3u8
-#EXTINF:-1,TG4
-http://p5.giffy.be:8080/live/cecilia/cecilia/85631.m3u8
-#EXTINF:-1,TINY POP
-http://p5.giffy.be:8080/live/cecilia/cecilia/85625.m3u8
-#EXTINF:-1,TLC
-http://p5.giffy.be:8080/live/cecilia/cecilia/85630.m3u8
-#EXTINF:-1,TV3 HD
-http://p5.giffy.be:8080/live/cecilia/cecilia/85629.m3u8
-#EXTINF:-1,UNIVERSAL CHANNEL
-http://p5.giffy.be:8080/live/cecilia/cecilia/85624.m3u8
-#EXTINF:-1,W(atch)
-http://p5.giffy.be:8080/live/cecilia/cecilia/85622.m3u8
-#EXTINF:-1,BT SPORTS 1 HD
-http://p5.giffy.be:8080/live/cecilia/cecilia/91591.m3u8
-#EXTINF:-1,BT SPORTS 2 HD
-http://p5.giffy.be:8080/live/cecilia/cecilia/91592.m3u8
-#EXTINF:-1,BT SPORTS 3 HD
-http://p5.giffy.be:8080/live/cecilia/cecilia/91593.m3u8
-#EXTINF:-1,UKR: FUTBOL 1HD
-http://p5.giffy.be:8080/live/cecilia/cecilia/29621.m3u8
-#EXTINF:-1,UKR: FUTBOL 2HD
-http://p5.giffy.be:8080/live/cecilia/cecilia/26589.m3u8
-#EXTINF:-1,UKR: SPORT 1
-http://p5.giffy.be:8080/live/cecilia/cecilia/26588.m3u8
-#EXTINF:-1,UKR: SPORT 2
-http://p5.giffy.be:8080/live/cecilia/cecilia/26587.m3u8
+http://red-vip.com:8080/Volkan41/volkan41/328
+#EXTINF:-1,Itv1
+http://red-vip.com:8080/Volkan41/volkan41/12576
+#EXTINF:-1,Itv2
+http://red-vip.com:8080/Volkan41/volkan41/12577
+#EXTINF:-1,Itv3
+http://red-vip.com:8080/Volkan41/volkan41/12578
+#EXTINF:-1,Itv4
+http://red-vip.com:8080/Volkan41/volkan41/12579
+#EXTINF:-1,Bbc1
+http://red-vip.com:8080/Volkan41/volkan41/12580
+#EXTINF:-1,Bbc2
+http://red-vip.com:8080/Volkan41/volkan41/12581
+#EXTINF:-1,Bbc3
+http://red-vip.com:8080/Volkan41/volkan41/12582
+#EXTINF:-1,Rte One
+http://red-vip.com:8080/Volkan41/volkan41/12610
+#EXTINF:-1,Rte Two
+http://red-vip.com:8080/Volkan41/volkan41/12609
+#EXTINF:-1,Cbsaction
+http://red-vip.com:8080/Volkan41/volkan41/12585
+#EXTINF:-1,Cbsdrama
+http://red-vip.com:8080/Volkan41/volkan41/12584
+#EXTINF:-1,Cbsreality
+http://red-vip.com:8080/Volkan41/volkan41/12583
+#EXTINF:-1,Channel4
+http://red-vip.com:8080/Volkan41/volkan41/12586
+#EXTINF:-1,Channel5
+http://red-vip.com:8080/Volkan41/volkan41/12587
+#EXTINF:-1,Comedycentral
+http://red-vip.com:8080/Volkan41/volkan41/12588
+#EXTINF:-1,Movies 4men
+http://red-vip.com:8080/Volkan41/volkan41/12602
+#EXTINF:-1,Sky Movies Action
+http://red-vip.com:8080/Volkan41/volkan41/12605
+#EXTINF:-1,Sky Movies Comedy
+http://red-vip.com:8080/Volkan41/volkan41/12604
+#EXTINF:-1,Sky Movies Family Hd
+http://red-vip.com:8080/Volkan41/volkan41/12606
+#EXTINF:-1,Sky Movies Premiere Hd
+http://red-vip.com:8080/Volkan41/volkan41/12608
+#EXTINF:-1,Sky Movies Scifi / Horror Hd
+http://red-vip.com:8080/Volkan41/volkan41/12607
+#EXTINF:-1,Skymoviesdrama Hd
+http://red-vip.com:8080/Volkan41/volkan41/12598
+#EXTINF:-1,Skymoviesselect Hd
+http://red-vip.com:8080/Volkan41/volkan41/12597
+#EXTINF:-1,Skymoviesthriller
+http://red-vip.com:8080/Volkan41/volkan41/12596
+#EXTINF:-1,Skymtv
+http://red-vip.com:8080/Volkan41/volkan41/12603
+#EXTINF:-1,Skyone Hd
+http://red-vip.com:8080/Volkan41/volkan41/12601
+#EXTINF:-1,True Movies1 Hd
+http://red-vip.com:8080/Volkan41/volkan41/12600
+#EXTINF:-1,Yesterday
+http://red-vip.com:8080/Volkan41/volkan41/12611
+#EXTINF:-1,Dmax.
+http://red-vip.com:8080/Volkan41/volkan41/12612
+#EXTINF:-1,Nationalgeographic
+http://red-vip.com:8080/Volkan41/volkan41/12595
+#EXTINF:-1,Discovery Science Hd
+http://red-vip.com:8080/Volkan41/volkan41/12593
+#EXTINF:-1,Discovery Turbo Hd
+http://red-vip.com:8080/Volkan41/volkan41/12594
+#EXTINF:-1,Discoverychannelhd
+http://red-vip.com:8080/Volkan41/volkan41/12591
+#EXTINF:-1,Discoveryshed
+http://red-vip.com:8080/Volkan41/volkan41/12592
+#EXTINF:-1,Disneychannel
+http://red-vip.com:8080/Volkan41/volkan41/12590
+#EXTINF:-1,Disneyjunior
+http://red-vip.com:8080/Volkan41/volkan41/12589
+#EXTINF:-1,Premiersport
+http://red-vip.com:8080/Volkan41/volkan41/12627
+#EXTINF:-1,Racing
+http://red-vip.com:8080/Volkan41/volkan41/12599
+#EXTINF:-1,Btsport1
+http://red-vip.com:8080/Volkan41/volkan41/12624
+#EXTINF:-1,Btsport2
+http://red-vip.com:8080/Volkan41/volkan41/12625
+#EXTINF:-1,Btsportespn
+http://red-vip.com:8080/Volkan41/volkan41/12626
+#EXTINF:-1,Btsporteurope
+http://red-vip.com:8080/Volkan41/volkan41/12623
+#EXTINF:-1,Eurosport1
+http://red-vip.com:8080/Volkan41/volkan41/12613
+#EXTINF:-1,Eurosport 2
+http://red-vip.com:8080/Volkan41/volkan41/12614
+#EXTINF:-1,Skysportnews
+http://red-vip.com:8080/Volkan41/volkan41/12622
+#EXTINF:-1,Sky Sport News
+http://red-vip.com:8080/Volkan41/volkan41/12621
+#EXTINF:-1,Sky Sport Premier League
+http://red-vip.com:8080/Volkan41/volkan41/12619
+#EXTINF:-1,Sky Sports Action
+http://red-vip.com:8080/Volkan41/volkan41/12615
+#EXTINF:-1,Sky Sports Cricket
+http://red-vip.com:8080/Volkan41/volkan41/12616
+#EXTINF:-1,Sky Sports F1
+http://red-vip.com:8080/Volkan41/volkan41/12620
+#EXTINF:-1,Sky Sports Golf
+http://red-vip.com:8080/Volkan41/volkan41/12618
+#EXTINF:-1,Sky Sports Main Event
+http://red-vip.com:8080/Volkan41/volkan41/12617
