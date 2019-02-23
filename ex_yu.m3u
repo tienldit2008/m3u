@@ -1,107 +1,109 @@
 #EXTM3U
-#EXTINF:0,24 Kitchen - 24 Kitchen
-http://maksitv.iptvposokuca.info:80/live?channelId=180&uid=59&deviceUser=danielrazmjena&devicePass=proba
-#EXTINF:0,Animal Planet - Animal Planet
-http://tvmaksi.iptvposokuca.info:80/live?channelId=28&uid=59&deviceUser=danielrazmjena&devicePass=proba
-#EXTINF:0,Arena 3 (HR) - Arena 3 (HR)
-http://maksitv.iptvposokuca.info:80/live?channelId=135&uid=59&deviceUser=danielrazmjena&devicePass=proba
-#EXTINF:0,Arena 4 (SR) - Arena 4 (SR)
-http://maksitv.iptvposokuca.info:80/live?channelId=134&uid=59&deviceUser=danielrazmjena&devicePass=proba
-#EXTINF:0,Arena 5 (HR) - Arena 5 (HR)
-http://maksitv.iptvposokuca.info:80/live?channelId=136&uid=59&deviceUser=danielrazmjena&devicePass=proba
-#EXTINF:0,Arena 5 (SR) - Arena 5 (SR)
-http://maksitv.iptvposokuca.info:80/live?channelId=112&uid=59&deviceUser=danielrazmjena&devicePass=proba
-#EXTINF:0,ATV - ATV
-http://tvmaksi.iptvposokuca.info:80/live?channelId=226&uid=59&deviceUser=danielrazmjena&devicePass=proba
-#EXTINF:0,AXN - AXN
-http://maksitv.iptvposokuca.info:80/live?channelId=159&uid=59&deviceUser=danielrazmjena&devicePass=proba
-#EXTINF:0,BHT HD - BHT HD
-http://maksitv.iptvposokuca.info:80/live?channelId=165&uid=59&deviceUser=danielrazmjena&devicePass=proba
-#EXTINF:0,Cinemax - Cinemax
-http://maksitv.iptvposokuca.info:80/live?channelId=133&uid=59&deviceUser=danielrazmjena&devicePass=proba
-#EXTINF:0,Cinestar Fantasy (Test)
-http://tvmaksi.iptvposokuca.info:80/live?channelId=212&uid=59&deviceUser=danielrazmjena&devicePass=proba
-#EXTINF:0,Cinestar TV - Cinestar TV
-http://maksitv.iptvposokuca.info:80/live?channelId=131&uid=59&deviceUser=danielrazmjena&devicePass=proba
-#EXTINF:0,Cinestar TV Action
-http://maksitv.iptvposokuca.info:80/live?channelId=132&uid=59&deviceUser=danielrazmjena&devicePass=proba
-#EXTINF:0,CMC - CMC
-http://maksitv.iptvposokuca.info:80/live?channelId=176&uid=59&deviceUser=danielrazmjena&devicePass=proba
-#EXTINF:0,Doma TV - Doma TV
-http://maksitv.iptvposokuca.info:80/live?channelId=118&uid=59&deviceUser=danielrazmjena&devicePass=proba
-#EXTINF:0,Eurosport 2 HD
-http://maksitv.iptvposokuca.info:80/live?channelId=128&uid=59&deviceUser=danielrazmjena&devicePass=proba
-#EXTINF:0,Eurosport HD
-http://maksitv.iptvposokuca.info:80/live?channelId=121&uid=59&deviceUser=danielrazmjena&devicePass=proba
-#EXTINF:0,Federalna TV
-http://maksitv.iptvposokuca.info:80/live?channelId=117&uid=59&deviceUser=danielrazmjena&devicePass=proba
-#EXTINF:0,Fox - Fox
-http://tvmaksi.iptvposokuca.info:80/live?channelId=196&uid=59&deviceUser=danielrazmjena&devicePass=proba
-#EXTINF:0,Fox Crime - Fox Crime
-http://tvmaksi.iptvposokuca.info:80/live?channelId=31&uid=59&deviceUser=danielrazmjena&devicePass=proba
-#EXTINF:0,FOX Life - FOX Life
-http://tvmaksi.iptvposokuca.info:80/live?channelId=195&uid=59&deviceUser=danielrazmjena&devicePass=proba
-#EXTINF:0,Fox Movies - Fox Movies
-http://tvmaksi.iptvposokuca.info:80/live?channelId=30&uid=59&deviceUser=danielrazmjena&devicePass=proba
-#EXTINF:0,Grand Tv
-http://maksitv.iptvposokuca.info:80/live?channelId=130&uid=59&deviceUser=danielrazmjena&devicePass=proba
-#EXTINF:0,HBO - HBO
-http://maksitv.iptvposokuca.info:80/live?channelId=192&uid=59&deviceUser=danielrazmjena&devicePass=proba
-#EXTINF:0,History Channel 2 - History Channel 2
-http://maksitv.iptvposokuca.info:80/live?channelId=198&uid=59&deviceUser=danielrazmjena&devicePass=proba
-#EXTINF:0,HRT 4 - HRT 4
-http://maksitv.iptvposokuca.info:80/live?channelId=142&uid=59&deviceUser=danielrazmjena&devicePass=proba
-#EXTINF:0,K3 - K3
-http://maksitv.iptvposokuca.info:80/live?channelId=127&uid=59&deviceUser=danielrazmjena&devicePass=proba
-#EXTINF:0,M1 Film - M1 Film
-http://maksitv.iptvposokuca.info:80/live?channelId=194&uid=59&deviceUser=danielrazmjena&devicePass=proba
-#EXTINF:0,Mini TV - Mini TV
-http://maksitv.iptvposokuca.info:80/live?channelId=163&uid=59&deviceUser=danielrazmjena&devicePass=proba
-#EXTINF:0,Minimax - Minimax
-http://maksitv.iptvposokuca.info:80/live?channelId=145&uid=59&deviceUser=danielrazmjena&devicePass=proba
-#EXTINF:0,N1 TV - N1 TV
-http://maksitv.iptvposokuca.info:80/live?channelId=166&uid=59&deviceUser=danielrazmjena&devicePass=proba
-#EXTINF:0,OTV - OTV
-http://maksitv.iptvposokuca.info:80/live?channelId=115&uid=59&deviceUser=danielrazmjena&devicePass=proba
-#EXTINF:0,Pink Premium - Pink Premium
-http://tvmaksi.iptvposokuca.info:80/live?channelId=78&uid=59&deviceUser=danielrazmjena&devicePass=proba
-#EXTINF:0,Pink Reality
-http://tvmaksi.iptvposokuca.info:80/live?channelId=77&uid=59&deviceUser=danielrazmjena&devicePass=proba
-#EXTINF:0,Pink Romance - Pink Romance
-http://tvmaksi.iptvposokuca.info:80/live?channelId=69&uid=59&deviceUser=danielrazmjena&devicePass=proba
-#EXTINF:0,Prva Max - Prva Max
-http://tvmaksi.iptvposokuca.info:80/live?channelId=211&uid=59&deviceUser=danielrazmjena&devicePass=proba
-#EXTINF:0,RTL 2 - RTL 2
-http://maksitv.iptvposokuca.info:80/live?channelId=124&uid=59&deviceUser=danielrazmjena&devicePass=proba
-#EXTINF:0,RTL Crime - RTL Crime
-http://tvmaksi.iptvposokuca.info:80/live?channelId=221&uid=59&deviceUser=danielrazmjena&devicePass=proba
-#EXTINF:0,RTL Kockica - RTL Kockica
-http://maksitv.iptvposokuca.info:80/live?channelId=123&uid=59&deviceUser=danielrazmjena&devicePass=proba
-#EXTINF:0,RTL Living - RTL Living
-http://maksitv.iptvposokuca.info:80/live?channelId=122&uid=59&deviceUser=danielrazmjena&devicePass=proba
-#EXTINF:0,RTRS - RTRS
-http://maksitv.iptvposokuca.info:80/live?channelId=169&uid=59&deviceUser=danielrazmjena&devicePass=proba
-#EXTINF:0,RTRS (Rezervni) - RTRS (Rezervni)
-http://tvmaksi.iptvposokuca.info:80/live?channelId=224&uid=59&deviceUser=danielrazmjena&devicePass=proba
-#EXTINF:0,RTS 1
-http://tvmaksi.iptvposokuca.info:80/live?channelId=223&uid=59&deviceUser=danielrazmjena&devicePass=proba
+#EXTINF:0,AMC
+http://212.200.127.246:4022/udp/239.1.0.44:1234
+#EXTINF:0,AMC HD
+http://212.200.127.246:4022/udp/239.1.1.44:1234
+#EXTINF:0,Animal Planet
+http://212.200.127.246:4022/udp/239.1.0.73:1234
+#EXTINF:0,Animal Planet HD
+http://212.200.127.246:4022/udp/239.1.1.73:1234
+#EXTINF:0,Arena Sport 1
+http://212.200.127.246:4022/udp/239.1.0.23:1234
+#EXTINF:0,Arena Sport 2
+http://212.200.127.246:4022/udp/239.1.0.24:1234
+#EXTINF:0,AXN Adria
+http://212.200.127.246:4022/udp/239.1.0.31:1234
+#EXTINF:0,AXN HD
+http://212.200.127.246:4022/udp/239.1.1.31:1234
+#EXTINF:0,Baby TV
+http://212.200.127.246:4022/udp/239.1.0.191:1234
+#EXTINF:0,Discovery HD
+http://212.200.127.246:4022/udp/239.1.1.32:1234
+#EXTINF:0,Discovery Serbia
+http://212.200.127.246:4022/udp/239.1.0.32:1234
+#EXTINF:0,DM Sat
+http://212.200.127.246:4022/udp/239.1.0.202:1234
+#EXTINF:0,DM Sat HD
+http://212.200.127.246:4022/udp/239.1.1.202:1234
+#EXTINF:0,Eurosport
+http://212.200.127.246:4022/udp/239.1.0.82:1234
+#EXTINF:0,Eurosport 2
+http://212.200.127.246:4022/udp/239.1.0.125:1234
+#EXTINF:0,Film Box Plus
+http://212.200.127.246:4022/udp/239.1.0.37:1234
+#EXTINF:0,Filmbox Plus HD
+http://212.200.127.246:4022/udp/239.1.1.37:1234
+#EXTINF:3600,Hayatovci
+http://212.200.127.246:4022/udp/239.1.0.201:1234
+#EXTINF:0,ID Xtra
+http://212.200.127.246:4022/udp/239.1.0.14:1234
+#EXTINF:0,ID Xtra HD
+http://212.200.127.246:4022/udp/239.1.1.14:1234
+#EXTINF:0,KCN Kopernikus 1
+http://212.200.127.246:4022/udp/239.1.0.33:1234
+#EXTINF:0,Minimax
+http://212.200.127.246:4022/udp/239.1.0.38:1234
+#EXTINF:0,Minimax HD
+http://212.200.127.246:4022/udp/239.1.1.38:1234
+#EXTINF:0,Nat Geo HD
+http://212.200.127.246:4022/udp/239.1.1.35:1234
+#EXTINF:0,Nat Geo Wild HD
+http://212.200.127.246:4022/udp/239.1.1.7:1234
+#EXTINF:0,National Geographic
+http://212.200.127.246:4022/udp/239.1.0.35:1234
+#EXTINF:0,NG Wild
+http://212.200.127.246:4022/udp/239.1.0.7:1234
+#EXTINF:0,Nick Jr
+http://212.200.127.246:4022/udp/239.1.0.62:1234
+#EXTINF:0,O2 TV
+http://212.200.127.246:4022/udp/239.1.0.154:1234
+#EXTINF:0,O2 TV HD
+http://212.200.127.246:4022/udp/239.1.1.154:1234
+#EXTINF:0,OBN
+http://212.200.127.246:4022/udp/239.1.0.40:1234
+#EXTINF:0,PINK
+http://212.200.127.246:4022/udp/239.1.0.153:1234
+#EXTINF:0,Pink Comedy
+http://212.200.127.246:4022/udp/239.1.0.184:1234
+#EXTINF:0,Pink Crime & Mystery
+http://212.200.127.246:4022/udp/239.1.0.172:1234
+#EXTINF:0,Pink Folk
+http://212.200.127.246:4022/udp/239.1.0.183:1234
+#EXTINF:0,Pink HD
+http://212.200.127.246:4022/udp/239.1.1.153:1234
+#EXTINF:0,Pink Premium
+http://212.200.127.246:4022/udp/239.1.0.176:1234
+#EXTINF:0,Pink Sci-Fi & Fantasy
+http://212.200.127.246:4022/udp/239.1.0.174:1234
+#EXTINF:0,Pink Thriller
+http://212.200.127.246:4022/udp/239.1.0.171:1234
+#EXTINF:0,PRVA
+http://212.200.127.246:4022/udp/239.1.0.155:1234
+#EXTINF:0,PRVA HD
+http://212.200.127.246:4022/udp/239.1.1.155:1234
+#EXTINF:0,PTC 1 HD
+http://212.200.127.246:4022/udp/239.1.1.151:1234
+#EXTINF:0,PTC 2 HD
+http://212.200.127.246:4022/udp/239.1.1.152:1234
+#EXTINF:0,RTS 1 HD
+http://212.200.127.246:4022/udp/239.1.0.151:1234
+#EXTINF:0,RTS 2 HD
+http://212.200.127.246:4022/udp/239.1.0.152:1234
 #EXTINF:0,RTS 3
-http://tvmaksi.iptvposokuca.info:80/live?channelId=209&uid=59&deviceUser=danielrazmjena&devicePass=proba
-#EXTINF:0,Sport Klub 2 HR
-http://tvmaksi.iptvposokuca.info:80/live?channelId=229&uid=59&deviceUser=danielrazmjena&devicePass=proba
-#EXTINF:0,Sport Klub 4
-http://tvmaksi.iptvposokuca.info:80/live?channelId=216&uid=59&deviceUser=danielrazmjena&devicePass=proba
-#EXTINF:0,Sport Klub 5
-http://tvmaksi.iptvposokuca.info:80/live?channelId=217&uid=59&deviceUser=danielrazmjena&devicePass=proba
-#EXTINF:0,Sport Klub 6
-http://tvmaksi.iptvposokuca.info:80/live?channelId=218&uid=59&deviceUser=danielrazmjena&devicePass=proba
-#EXTINF:0,TK - TK
-http://maksitv.iptvposokuca.info:80/live?channelId=119&uid=59&deviceUser=danielrazmjena&devicePass=proba
-#EXTINF:0,Travel Channel - Travel Channel
-http://maksitv.iptvposokuca.info:80/live?channelId=162&uid=59&deviceUser=danielrazmjena&devicePass=proba
-#EXTINF:0,TV 1000 - TV 1000
-http://maksitv.iptvposokuca.info:80/live?channelId=125&uid=59&deviceUser=danielrazmjena&devicePass=proba
-#EXTINF:0,TV1 - TV1
-http://maksitv.iptvposokuca.info:80/live?channelId=116&uid=59&deviceUser=danielrazmjena&devicePass=proba
-#EXTINF:0,Viasat Nature - Viasat Nature
-http://tvmaksi.iptvposokuca.info:80/live?channelId=219&uid=59&deviceUser=danielrazmjena&devicePass=proba
+http://212.200.127.246:4022/udp/239.1.0.159:1234
+#EXTINF:0,RTV 1
+http://212.200.127.246:4022/udp/239.1.0.157:1234
+#EXTINF:0,RTV 1 HD
+http://212.200.127.246:4022/udp/239.1.1.157:1234
+#EXTINF:0,RTV 2
+http://212.200.127.246:4022/udp/239.1.0.158:1234
+#EXTINF:0,SOS Kanal
+http://212.200.127.246:4022/udp/239.1.0.42:1234
+#EXTINF:0,The Voice
+http://212.200.127.246:4022/udp/239.1.0.60:1234
+#EXTINF:0,Viasat Explore HD
+http://212.200.127.246:4022/udp/239.1.1.3:1234
+#EXTINF:0,Viasat Explorer
+http://212.200.127.246:4022/udp/239.1.0.3:1234
+#EXTINF:0,Viasat History
+http://212.200.127.246:4022/udp/239.1.0.36:1234
