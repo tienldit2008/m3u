@@ -1,87 +1,1415 @@
 #EXTM3U
-#EXTINF:-1,AND FLIX HD
-http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/23920
-#EXTINF:-1,AND PRIVE HD
-http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/23919
-#EXTINF:-1,ANIMAL PLANET WORLD HD
-http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/23918
-#EXTINF:-1,AXN HD
-http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/23917
-#EXTINF:-1,BLOOMBERG INDIA
-http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/23916
+#EXTINF:-1,Us- ABC US
+http://linux-app.tv:6204/yous/123/10440
+#EXTINF:-1,Us- CNBC US
+http://linux-app.tv:6204/yous/123/10429
+#EXTINF:-1,Us- CNN US HD
+http://linux-app.tv:6204/yous/123/10428
+#EXTINF:-1,Us- MTV HD US
+http://linux-app.tv:6204/yous/123/10403
+#EXTINF:-1,Us- Starz HD US
+http://linux-app.tv:6204/yous/123/10390
+#EXTINF:-1,Us- SyFy HD USA
+http://linux-app.tv:6204/yous/123/10387
+#EXTINF:-1,Us- TBS USA
+http://linux-app.tv:6204/yous/123/10386
+#EXTINF:-1,Us- TNT US
+http://linux-app.tv:6204/yous/123/10384
+#EXTINF:-1,Us- VH1 HD US
+http://linux-app.tv:6204/yous/123/10380
+#EXTINF:-1,Us- History HD US
+http://linux-app.tv:6204/yous/123/10405
+#EXTINF:-1,Us- Nat Geo Wild HD US
+http://linux-app.tv:6204/yous/123/10402
+#EXTINF:-1,Us- NatGeo HD USA
+http://linux-app.tv:6204/yous/123/10401
+#EXTINF:-1,Us- Discovery Channel US HD
+http://linux-app.tv:6204/yous/123/10424
+#EXTINF:-1,Us- Discovery Science US HD
+http://linux-app.tv:6204/yous/123/10421
+#EXTINF:-1,Us- Bloomberg US
+http://linux-app.tv:6204/yous/123/10436
+#EXTINF:-1,Us- Cartoon Network US
+http://linux-app.tv:6204/yous/123/10434
+#EXTINF:-1,Us- Disney Channel US
+http://linux-app.tv:6204/yous/123/10420
+#EXTINF:-1,Us- Disney Junior US
+http://linux-app.tv:6204/yous/123/10419
+#EXTINF:-1,Us- Nick Junior US
+http://linux-app.tv:6204/yous/123/10397
+#EXTINF:-1,Us- Nick Toons US
+http://linux-app.tv:6204/yous/123/10396
+#EXTINF:-1,Us- CBS Sport HD
+http://linux-app.tv:6204/yous/123/10433
+#EXTINF:-1,Us- CBS US
+http://linux-app.tv:6204/yous/123/10432
+#EXTINF:-1,Us- HBO Comedy HD
+http://linux-app.tv:6204/yous/123/10411
+#EXTINF:-1,Us- HBO Signature
+http://linux-app.tv:6204/yous/123/10410
+#EXTINF:-1,Us- HBO US HD
+http://linux-app.tv:6204/yous/123/10409
+#EXTINF:-1,Us- HBO ZONE HD
+http://linux-app.tv:6204/yous/123/10408
+#EXTINF:-1,Us- Animal Planet HD
+http://linux-app.tv:6204/yous/123/10439
+#EXTINF:-1,Us- BET HD
+http://linux-app.tv:6204/yous/123/10645
+#EXTINF:-1,Us- Bravo HD
+http://linux-app.tv:6204/yous/123/10435
+#EXTINF:-1,Us- CINEMAX HD
+http://linux-app.tv:6204/yous/123/10431
+#EXTINF:-1,Us- DISCOVERY FAMILY
+http://linux-app.tv:6204/yous/123/10423
+#EXTINF:-1,Us- Discovery Investigation
+http://linux-app.tv:6204/yous/123/10422
+#EXTINF:-1,Us- Fox sport 1 HD
+http://linux-app.tv:6204/yous/123/10416
+#EXTINF:-1,Us- Fox sport 2 HD
+http://linux-app.tv:6204/yous/123/10415
+#EXTINF:-1,Us- FX HD
+http://linux-app.tv:6204/yous/123/10414
+#EXTINF:-1,Us- GSN HD
+http://linux-app.tv:6204/yous/123/10412
+#EXTINF:-1,Us- HGTV HD
+http://linux-app.tv:6204/yous/123/10407
+#EXTINF:-1,Us- History
+http://linux-app.tv:6204/yous/123/10406
+#EXTINF:-1,Us- Life Time HD
+http://linux-app.tv:6204/yous/123/10404
+#EXTINF:-1,Us- NBA HD
+http://linux-app.tv:6204/yous/123/10400
+#EXTINF:-1,Us- NBC EAST HD
+http://linux-app.tv:6204/yous/123/10399
+#EXTINF:-1,Us- NBCSN HD
+http://linux-app.tv:6204/yous/123/10398
+#EXTINF:-1,Us- NEWS 12
+http://linux-app.tv:6204/yous/123/10643
+#EXTINF:-1,Us- OWN HD
+http://linux-app.tv:6204/yous/123/10395
+#EXTINF:-1,Us- SHOWTIME FAMILY ZONE
+http://linux-app.tv:6204/yous/123/10393
+#EXTINF:-1,Us- SLICE HD
+http://linux-app.tv:6204/yous/123/10392
+#EXTINF:-1,Us- Syfy HD
+http://linux-app.tv:6204/yous/123/10388
+#EXTINF:-1,Us- STARZ KIDS & Family HD
+http://linux-app.tv:6204/yous/123/10389
+#EXTINF:-1,Us- TLC HD
+http://linux-app.tv:6204/yous/123/10385
+#EXTINF:-1,Us- TRU TV HD
+http://linux-app.tv:6204/yous/123/10383
+#EXTINF:-1,Us- TV Land HD
+http://linux-app.tv:6204/yous/123/10382
+#EXTINF:-1,Us- Viceland TV
+http://linux-app.tv:6204/yous/123/10379
+#EXTINF:-1,Us- WE HD
+http://linux-app.tv:6204/yous/123/10378
+#EXTINF:-1,Us- Weather channel
+http://linux-app.tv:6204/yous/123/10377
+#EXTINF:-1,Us- WWE HD
+http://linux-app.tv:6204/yous/123/10376
+#EXTINF:-1,Us- TSN 1 HD
+http://linux-app.tv:6204/yous/123/10636
+#EXTINF:-1,Us- TSN 2 HD
+http://linux-app.tv:6204/yous/123/10635
+#EXTINF:-1,Us- TSN 3 HD
+http://linux-app.tv:6204/yous/123/10634
+#EXTINF:-1,Us- TSN 4 HD
+http://linux-app.tv:6204/yous/123/10633
+#EXTINF:-1,Us- TSN 5 HD
+http://linux-app.tv:6204/yous/123/10632
+#EXTINF:-1,Us- PAC-12 Arizona HD
+http://linux-app.tv:6204/yous/123/10642
+#EXTINF:-1,Us- PAC-12 Bay Area HD
+http://linux-app.tv:6204/yous/123/10641
+#EXTINF:-1,Us- PAC-12 Los Angeles HD
+http://linux-app.tv:6204/yous/123/10640
+#EXTINF:-1,Us- PAC-12 Mountain HD-
+http://linux-app.tv:6204/yous/123/10639
+#EXTINF:-1,Us- PAC-12 Oregon HD
+http://linux-app.tv:6204/yous/123/10638
+#EXTINF:-1,Us- A&E  US
+http://linux-app.tv:6204/yous/123/10441
+#EXTINF:-1,Sky News HD
+http://linux-app.tv:6204/yous/123/8533
+#EXTINF:-1,Sky Sports Main Event HD
+http://linux-app.tv:6204/yous/123/8517
+#EXTINF:-1,Sky Sports Cricket HD
+http://linux-app.tv:6204/yous/123/8516
+#EXTINF:-1,Sky Sports Action HD
+http://linux-app.tv:6204/yous/123/8515
+#EXTINF:-1,Sky Sports Golf HD
+http://linux-app.tv:6204/yous/123/8514
+#EXTINF:-1,Sky Sports Premier League HD
+http://linux-app.tv:6204/yous/123/8513
+#EXTINF:-1,Sky Sports Arena HD
+http://linux-app.tv:6204/yous/123/9059
+#EXTINF:-1,Sky Sport Football
+http://linux-app.tv:6204/yous/123/8523
+#EXTINF:-1,Sky Sports MixHD
+http://linux-app.tv:6204/yous/123/8511
+#EXTINF:-1,Sky BoxNation
+http://linux-app.tv:6204/yous/123/8583
+#EXTINF:-1,Sky Sports F1 HD
+http://linux-app.tv:6204/yous/123/8512
+#EXTINF:-1,Sky Sports F1 HD Backup S
+http://linux-app.tv:6204/yous/123/11099
+#EXTINF:-1,Sky BT Sport 1 HD
+http://linux-app.tv:6204/yous/123/8582
+#EXTINF:-1,Sky BT Sport 2 HD
+http://linux-app.tv:6204/yous/123/8580
+#EXTINF:-1,Sky BT Sport 3 HD
+http://linux-app.tv:6204/yous/123/10166
+#EXTINF:-1,Sky BT Sports Extra 1
+http://linux-app.tv:6204/yous/123/8581
+#EXTINF:-1,Sky BT Sports Extra 2
+http://linux-app.tv:6204/yous/123/8579
+#EXTINF:-1,Sky BT Sports Extra 3
+http://linux-app.tv:6204/yous/123/8578
+#EXTINF:-1,Sky BT Sport ESPN HD
+http://linux-app.tv:6204/yous/123/8577
+#EXTINF:-1,Sky Eurosport 1 HD
+http://linux-app.tv:6204/yous/123/8560
+#EXTINF:-1,Sky Eurosport 2 HD
+http://linux-app.tv:6204/yous/123/8559
+#EXTINF:-1,Sky Eir Sport 1
+http://linux-app.tv:6204/yous/123/11118
+#EXTINF:-1,Sky Eir Sport 2
+http://linux-app.tv:6204/yous/123/11117
+#EXTINF:-1,Sky YourTV HD
+http://linux-app.tv:6204/yous/123/11114
+#EXTINF:-1,Sky MUTV
+http://linux-app.tv:6204/yous/123/8536
+#EXTINF:-1,Sky Chelsea TV HD
+http://linux-app.tv:6204/yous/123/8572
+#EXTINF:-1,Sky Liverpool FC TV HD
+http://linux-app.tv:6204/yous/123/8548
+#EXTINF:-1,Sky BBC News
+http://linux-app.tv:6204/yous/123/8589
+#EXTINF:-1,Sky BBC One HD
+http://linux-app.tv:6204/yous/123/8587
+#EXTINF:-1,Sky BBC Two HD
+http://linux-app.tv:6204/yous/123/8585
+#EXTINF:-1,Sky BBC Three HD
+http://linux-app.tv:6204/yous/123/8586
+#EXTINF:-1,Sky BBC Four HD
+http://linux-app.tv:6204/yous/123/8588
+#EXTINF:-1,Sky More 4 HD
+http://linux-app.tv:6204/yous/123/8547
+#EXTINF:-1,Sky Sports Box Office HD
+http://linux-app.tv:6204/yous/123/11115
+#EXTINF:-1,Sky Movies Action HD
+http://linux-app.tv:6204/yous/123/8545
+#EXTINF:-1,Sky Movies Drama HD
+http://linux-app.tv:6204/yous/123/8541
+#EXTINF:-1,Sky Movies Family HD
+http://linux-app.tv:6204/yous/123/8540
+#EXTINF:-1,Sky Movies Premiere HD
+http://linux-app.tv:6204/yous/123/8538
+#EXTINF:-1,Sky Movies Select HD
+http://linux-app.tv:6204/yous/123/8537
+#EXTINF:-1,Sky Movies 24
+http://linux-app.tv:6204/yous/123/8546
+#EXTINF:-1,Sky Movies Crime
+http://linux-app.tv:6204/yous/123/8543
+#EXTINF:-1,Sky Movies Disney
+http://linux-app.tv:6204/yous/123/8542
+#EXTINF:-1,Sky Movies Greats
+http://linux-app.tv:6204/yous/123/8539
+#EXTINF:-1,Sky Atlantic
+http://linux-app.tv:6204/yous/123/8591
+#EXTINF:-1,Sky Cbs Action
+http://linux-app.tv:6204/yous/123/8575
+#EXTINF:-1,Sky Cbs Drama
+http://linux-app.tv:6204/yous/123/8574
+#EXTINF:-1,Sky CBS Reality
+http://linux-app.tv:6204/yous/123/8573
+#EXTINF:-1,Sky RTE One
+http://linux-app.tv:6204/yous/123/8525
+#EXTINF:-1,Sky RTE Two
+http://linux-app.tv:6204/yous/123/8524
+#EXTINF:-1,Sky True Movies 1
+http://linux-app.tv:6204/yous/123/8510
+#EXTINF:-1,Sky True Movies 2
+http://linux-app.tv:6204/yous/123/8509
+#EXTINF:-1,Sky ITV 1
+http://linux-app.tv:6204/yous/123/8552
+#EXTINF:-1,Sky ITV 2
+http://linux-app.tv:6204/yous/123/8551
+#EXTINF:-1,Sky ITV 3
+http://linux-app.tv:6204/yous/123/8550
+#EXTINF:-1,Sky ITV 4
+http://linux-app.tv:6204/yous/123/8549
+#EXTINF:-1,Sky 1
+http://linux-app.tv:6204/yous/123/11120
+#EXTINF:-1,Sky 2
+http://linux-app.tv:6204/yous/123/11119
+#EXTINF:-1,Sky Living HD
+http://linux-app.tv:6204/yous/123/11116
+#EXTINF:-1,Sky Quest
+http://linux-app.tv:6204/yous/123/8529
+#EXTINF:-1,Sky Racing
+http://linux-app.tv:6204/yous/123/8528
+#EXTINF:-1,Sky Really
+http://linux-app.tv:6204/yous/123/8527
+#EXTINF:-1,Sky Ci
+http://linux-app.tv:6204/yous/123/8571
+#EXTINF:-1,Sky 4 Music
+http://linux-app.tv:6204/yous/123/8595
+#EXTINF:-1,Sky 5 USA
+http://linux-app.tv:6204/yous/123/8594
+#EXTINF:-1,Sky Arts 1 HD
+http://linux-app.tv:6204/yous/123/8592
+#EXTINF:-1,Sky Gold
+http://linux-app.tv:6204/yous/123/8557
+#EXTINF:-1,Sky Comedy Central
+http://linux-app.tv:6204/yous/123/8569
+#EXTINF:-1,Sky Home & Health
+http://linux-app.tv:6204/yous/123/8554
+#EXTINF:-1,Sky Horse & Country
+http://linux-app.tv:6204/yous/123/8553
+#EXTINF:-1,Sky Food Network
+http://linux-app.tv:6204/yous/123/8558
+#EXTINF:-1,Sky Good Food HD
+http://linux-app.tv:6204/yous/123/8556
+#EXTINF:-1,Sky History HD
+http://linux-app.tv:6204/yous/123/8555
+#EXTINF:-1,Sky Discovery
+http://linux-app.tv:6204/yous/123/8568
+#EXTINF:-1,Sky Discovery Shed
+http://linux-app.tv:6204/yous/123/8565
+#EXTINF:-1,Sky Discovery Turbo
+http://linux-app.tv:6204/yous/123/8564
+#EXTINF:-1,Sky Discovery History
+http://linux-app.tv:6204/yous/123/8567
+#EXTINF:-1,Sky Discovery Science
+http://linux-app.tv:6204/yous/123/8566
+#EXTINF:-1,Sky Animal Planet HD
+http://linux-app.tv:6204/yous/123/8593
+#EXTINF:-1,Sky Nat Geo Wild HD
+http://linux-app.tv:6204/yous/123/8535
+#EXTINF:-1,Sky National Geographic HD
+http://linux-app.tv:6204/yous/123/8534
+#EXTINF:-1,Sky Travel Channel
+http://linux-app.tv:6204/yous/123/8508
+#EXTINF:-1,Sky Baby
+http://linux-app.tv:6204/yous/123/8590
+#EXTINF:-1,Sky Bloomberg HD
+http://linux-app.tv:6204/yous/123/8584
+#EXTINF:-1,Sky Cartoon Network
+http://linux-app.tv:6204/yous/123/8576
+#EXTINF:-1,Sky NickToons
+http://linux-app.tv:6204/yous/123/8530
+#EXTINF:-1,Sky Nickelodeon
+http://linux-app.tv:6204/yous/123/8532
+#EXTINF:-1,Sky Disney Chaneel HD
+http://linux-app.tv:6204/yous/123/8563
+#EXTINF:-1,Sky Disney Junior HD
+http://linux-app.tv:6204/yous/123/8562
+#EXTINF:-1,Sky Disney XD HD
+http://linux-app.tv:6204/yous/123/8561
+#EXTINF:-1,Sky Nickelodeon JR
+http://linux-app.tv:6204/yous/123/8531
+#EXTINF:-1,USA  : OWN (E)
+http://jarvis.bet:80/michael1/12345678/33910
+#EXTINF:-1,USA  : TLC USA (E)
+http://jarvis.bet:80/michael1/12345678/33909
+#EXTINF:-1,A and E HD
+http://jarvis.bet:80/michael1/12345678/34048
+#EXTINF:-1,A&E (E)
+http://jarvis.bet:80/michael1/12345678/33908
+#EXTINF:-1,ABC HD*
+http://jarvis.bet:80/michael1/12345678/34047
+#EXTINF:-1,ABC NEWS HD
+http://jarvis.bet:80/michael1/12345678/34046
+#EXTINF:-1,ABC NY FHD (E)
+http://jarvis.bet:80/michael1/12345678/33907
+#EXTINF:-1,ABC Spark HD
+http://jarvis.bet:80/michael1/12345678/34045
+#EXTINF:-1,AETV US HD
+http://jarvis.bet:80/michael1/12345678/34044
+#EXTINF:-1,AMC HD (E)
+http://jarvis.bet:80/michael1/12345678/33906
+#EXTINF:-1,AMC HD*
+http://jarvis.bet:80/michael1/12345678/33943
+#EXTINF:-1,AMERICAN HEROES AND ICONS (E)
+http://jarvis.bet:80/michael1/12345678/33911
+#EXTINF:-1,AMERICAN HEROES CHANNEL
+http://jarvis.bet:80/michael1/12345678/33912
+#EXTINF:-1,Animal Planet HD
+http://jarvis.bet:80/michael1/12345678/33942
+#EXTINF:-1,ANIMAL PLANET HD (E)
+http://jarvis.bet:80/michael1/12345678/33905
+#EXTINF:-1,ANTENNA TV (E)
+http://jarvis.bet:80/michael1/12345678/33904
+#EXTINF:-1,BBC America HD
+http://jarvis.bet:80/michael1/12345678/34043
+#EXTINF:-1,BET (E)
+http://jarvis.bet:80/michael1/12345678/33903
+#EXTINF:-1,BET HER
+http://jarvis.bet:80/michael1/12345678/33902
+#EXTINF:-1,Bloomberg HD
+http://jarvis.bet:80/michael1/12345678/34041
+#EXTINF:-1,BRAVO HD
+http://jarvis.bet:80/michael1/12345678/34040
+#EXTINF:-1,BTN HD
+http://jarvis.bet:80/michael1/12345678/34039
+#EXTINF:-1,C-SPAN 1 HD
+http://jarvis.bet:80/michael1/12345678/34038
+#EXTINF:-1,C-SPAN 2 HD
+http://jarvis.bet:80/michael1/12345678/34037
+#EXTINF:-1,C-SPAN 3 HD
+http://jarvis.bet:80/michael1/12345678/34036
 #EXTINF:-1,CARTOON NETWORK
-http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/23915
-#EXTINF:-1,CARTOON NETWORK PLUS HD
-http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/23914
-#EXTINF:-1,CNBC TV18 PRIME NEWS HD
-http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/23913
-#EXTINF:-1,COLORS INFINITY HD
-http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/23912
-#EXTINF:-1,COMEDY CENTRAL HD
-http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/23911
-#EXTINF:-1,DISCOVERY WORLD HD
-http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/23910
-#EXTINF:-1,DISNEY
-http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/23909
-#EXTINF:-1,DISNEY INTERNATIONAL HD
-http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/23908
-#EXTINF:-1,DISNEY XD
-http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/23907
-#EXTINF:-1,ET NOW HD
-http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/23906
-#EXTINF:-1,FOX LIFE HD
-http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/23905
-#EXTINF:-1,HBO INDIA HD
-http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/23904
-#EXTINF:-1,HISTORY TV18 HD
-http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/23903
-#EXTINF:-1,MIRROR NOW HD
-http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/23902
-#EXTINF:-1,MN PLUS HD
-http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/23901
-#EXTINF:-1,MNX HD
-http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/23900
-#EXTINF:-1,MOVIES NOW HD
-http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/23899
-#EXTINF:-1,NAT GEO MUSIC HD
-http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/23898
-#EXTINF:-1,NAT GEO PEOPLE HD
-http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/23897
+http://jarvis.bet:80/michael1/12345678/34035
+#EXTINF:-1,CARTOON NETWORK (E)
+http://jarvis.bet:80/michael1/12345678/33901
+#EXTINF:-1,CBN HD
+http://jarvis.bet:80/michael1/12345678/34034
+#EXTINF:-1,CBN NEWS
+http://jarvis.bet:80/michael1/12345678/34033
+#EXTINF:-1,CBS
+http://jarvis.bet:80/michael1/12345678/33940
+#EXTINF:-1,CBS NY FHD (E)
+http://jarvis.bet:80/michael1/12345678/33900
+#EXTINF:-1,CINEMAX ACTION MAX (E)
+http://jarvis.bet:80/michael1/12345678/33899
+#EXTINF:-1,CINEMAX HD
+http://jarvis.bet:80/michael1/12345678/34031
+#EXTINF:-1,CINEMAX MORE MAX (E)
+http://jarvis.bet:80/michael1/12345678/33898
+#EXTINF:-1,Cinemax MoreMax HD
+http://jarvis.bet:80/michael1/12345678/34030
+#EXTINF:-1,CINEMAX OUTER MAX (E)
+http://jarvis.bet:80/michael1/12345678/33897
+#EXTINF:-1,Cinemax ThrillerMax HD
+http://jarvis.bet:80/michael1/12345678/34029
+#EXTINF:-1,CMT HD (E)
+http://jarvis.bet:80/michael1/12345678/33896
+#EXTINF:-1,CNN (E)
+http://jarvis.bet:80/michael1/12345678/33895
+#EXTINF:-1,CNN HD
+http://jarvis.bet:80/michael1/12345678/33939
+#EXTINF:-1,COMEDY CENTRAL
+http://jarvis.bet:80/michael1/12345678/34028
+#EXTINF:-1,COZI TV (E)
+http://jarvis.bet:80/michael1/12345678/33918
+#EXTINF:-1,DESTINATION AMERICA
+http://jarvis.bet:80/michael1/12345678/34026
+#EXTINF:-1,DISCOVERY HD (E)
+http://jarvis.bet:80/michael1/12345678/33894
+#EXTINF:-1,Discovery HD*
+http://jarvis.bet:80/michael1/12345678/33938
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://jarvis.bet:80/michael1/12345678/33937
+#EXTINF:-1,DISCOVERY VELOCITY HD
+http://jarvis.bet:80/michael1/12345678/34025
+#EXTINF:-1,Disney HD
+http://jarvis.bet:80/michael1/12345678/34024
+#EXTINF:-1,Disney HD*
+http://jarvis.bet:80/michael1/12345678/33936
+#EXTINF:-1,DISNEY XD (E)
+http://jarvis.bet:80/michael1/12345678/33913
+#EXTINF:-1,DIY NETWORK HD**
+http://jarvis.bet:80/michael1/12345678/33935
+#EXTINF:-1,E! HD
+http://jarvis.bet:80/michael1/12345678/34023
+#EXTINF:-1,ELEVEN SPORTS HD
+http://jarvis.bet:80/michael1/12345678/34022
+#EXTINF:-1,Epix
+http://jarvis.bet:80/michael1/12345678/34020
+#EXTINF:-1,Epix 2 HD
+http://jarvis.bet:80/michael1/12345678/34021
+#EXTINF:-1,Food Network HD
+http://jarvis.bet:80/michael1/12345678/33934
+#EXTINF:-1,FOX 5 (E)
+http://jarvis.bet:80/michael1/12345678/33893
+#EXTINF:-1,FOX 5 HD (E)
+http://jarvis.bet:80/michael1/12345678/33892
+#EXTINF:-1,FOX BUSINESS NETWORK HD
+http://jarvis.bet:80/michael1/12345678/34018
+#EXTINF:-1,FREEFORM HD
+http://jarvis.bet:80/michael1/12345678/34015
+#EXTINF:-1,FUSION HD
+http://jarvis.bet:80/michael1/12345678/34014
+#EXTINF:-1,FX HD*
+http://jarvis.bet:80/michael1/12345678/33932
+#EXTINF:-1,FXX HD
+http://jarvis.bet:80/michael1/12345678/33931
+#EXTINF:-1,FYI (E)
+http://jarvis.bet:80/michael1/12345678/33891
+#EXTINF:-1,GOLF HD
+http://jarvis.bet:80/michael1/12345678/34013
+#EXTINF:-1,GSN HD*
+http://jarvis.bet:80/michael1/12345678/34012
+#EXTINF:-1,H2
+http://jarvis.bet:80/michael1/12345678/34011
+#EXTINF:-1,Hall Mark HD
+http://jarvis.bet:80/michael1/12345678/34010
+#EXTINF:-1,HBO HD
+http://jarvis.bet:80/michael1/12345678/34008
+#EXTINF:-1,HBO HD 1*
+http://jarvis.bet:80/michael1/12345678/33930
+#EXTINF:-1,HBO HD 2*
+http://jarvis.bet:80/michael1/12345678/33929
+#EXTINF:-1,HBO HD East
+http://jarvis.bet:80/michael1/12345678/34009
+#EXTINF:-1,HBO Zone
+http://jarvis.bet:80/michael1/12345678/34007
+#EXTINF:-1,HEROS & ICONS (E)
+http://jarvis.bet:80/michael1/12345678/33890
+#EXTINF:-1,HGTV FHD (E)
+http://jarvis.bet:80/michael1/12345678/33889
+#EXTINF:-1,HGTV HD
+http://jarvis.bet:80/michael1/12345678/34006
+#EXTINF:-1,HGTV HD (E)
+http://jarvis.bet:80/michael1/12345678/33888
+#EXTINF:-1,HISTORY HD
+http://jarvis.bet:80/michael1/12345678/33922
+#EXTINF:-1,HSN (E)
+http://jarvis.bet:80/michael1/12345678/33917
+#EXTINF:-1,ID HD
+http://jarvis.bet:80/michael1/12345678/34005
+#EXTINF:-1,INVESTIGATION DISCOVERY (E)
+http://jarvis.bet:80/michael1/12345678/33887
+#EXTINF:-1,ION TV (E)
+http://jarvis.bet:80/michael1/12345678/33886
+#EXTINF:-1,Lifetime HD
+http://jarvis.bet:80/michael1/12345678/33928
+#EXTINF:-1,LMN HD
+http://jarvis.bet:80/michael1/12345678/34004
+#EXTINF:-1,MAV TV (E)
+http://jarvis.bet:80/michael1/12345678/33885
+#EXTINF:-1,MAV TV(E)
+http://jarvis.bet:80/michael1/12345678/33919
+#EXTINF:-1,MLB NETWORK
+http://jarvis.bet:80/michael1/12345678/34003
+#EXTINF:-1,MoreMax HD*
+http://jarvis.bet:80/michael1/12345678/34002
+#EXTINF:-1,MTV 2 (E)
+http://jarvis.bet:80/michael1/12345678/33884
+#EXTINF:-1,MY 9 (E)
+http://jarvis.bet:80/michael1/12345678/33883
+#EXTINF:-1,Nat Geo hd
+http://jarvis.bet:80/michael1/12345678/34001
+#EXTINF:-1,NAT GEO USA (E)
+http://jarvis.bet:80/michael1/12345678/33882
 #EXTINF:-1,NAT GEO WILD HD
-http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/23896
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/23895
-#EXTINF:-1,NEWS X
-http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/23894
-#EXTINF:-1,ROMEDY NOW HD
-http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/23893
-#EXTINF:-1,SONY BBC EARTH ENGLISH HD
-http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/23892
-#EXTINF:-1,SONY LE PLEX HD
-http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/23891
-#EXTINF:-1,STAR MOVIES HD
-http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/23890
-#EXTINF:-1,STAR MOVIES SELECT HD
-http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/23889
-#EXTINF:-1,STAR WORLD HD
-http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/23888
-#EXTINF:-1,STAR WORLD PREMIER HD
-http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/23887
-#EXTINF:-1,TATA SKY KIDS CINEMA
-http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/23886
-#EXTINF:-1,TATA SKY WORLD CINEMA HD
-http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/23885
-#EXTINF:-1,THE QYOU
-http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/23884
-#EXTINF:-1,TIMES NOW NEWS HD
-http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/23883
-#EXTINF:-1,TLC WORLD HD
-http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/23882
-#EXTINF:-1,TRAVEL XP HD
-http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/23881
+http://jarvis.bet:80/michael1/12345678/33926
+#EXTINF:-1,NAT GEO WILD HD US (E)
+http://jarvis.bet:80/michael1/12345678/33881
+#EXTINF:-1,NICK HD*
+http://jarvis.bet:80/michael1/12345678/33997
+#EXTINF:-1,NICK JR (E)
+http://jarvis.bet:80/michael1/12345678/33880
+#EXTINF:-1,Nick Jr. HD
+http://jarvis.bet:80/michael1/12345678/33996
+#EXTINF:-1,Nicktoons
+http://jarvis.bet:80/michael1/12345678/33995
+#EXTINF:-1,NO TV New Orleans
+http://jarvis.bet:80/michael1/12345678/33994
+#EXTINF:-1,OWN HD (E)
+http://jarvis.bet:80/michael1/12345678/33879
+#EXTINF:-1,OWN HD (OPRAH WINFRY NETWORK)
+http://jarvis.bet:80/michael1/12345678/33924
+#EXTINF:-1,OXYGEN HD
+http://jarvis.bet:80/michael1/12345678/33993
+#EXTINF:-1,PARAMOUNT (E)
+http://jarvis.bet:80/michael1/12345678/33878
+#EXTINF:-1,PBS HD
+http://jarvis.bet:80/michael1/12345678/33992
+#EXTINF:-1,PBS KIDS EAST (E)
+http://jarvis.bet:80/michael1/12345678/33877
+#EXTINF:-1,PBS WLIW 21 (E)
+http://jarvis.bet:80/michael1/12345678/33876
+#EXTINF:-1,SHOWTIME 2
+http://jarvis.bet:80/michael1/12345678/33991
+#EXTINF:-1,SHOWTIME EXTREME (E)
+http://jarvis.bet:80/michael1/12345678/33875
+#EXTINF:-1,SHOWTIME HD
+http://jarvis.bet:80/michael1/12345678/33988
+#EXTINF:-1,SHOWTIME HD (E)
+http://jarvis.bet:80/michael1/12345678/33874
+#EXTINF:-1,SPIKE/PARAMOUNT (E)
+http://jarvis.bet:80/michael1/12345678/33873
+#EXTINF:-1,SPIKE/PARAMOUNT HD
+http://jarvis.bet:80/michael1/12345678/33987
+#EXTINF:-1,Starz Comedy
+http://jarvis.bet:80/michael1/12345678/33985
+#EXTINF:-1,Starz kids family
+http://jarvis.bet:80/michael1/12345678/33986
+#EXTINF:-1,SYFY HD
+http://jarvis.bet:80/michael1/12345678/33984
+#EXTINF:-1,TBN Trinity Broadcasting Network (E)
+http://jarvis.bet:80/michael1/12345678/33872
+#EXTINF:-1,TBS
+http://jarvis.bet:80/michael1/12345678/33983
+#EXTINF:-1,TCM (E)
+http://jarvis.bet:80/michael1/12345678/33871
+#EXTINF:-1,TELEMUNDO (E)
+http://jarvis.bet:80/michael1/12345678/33915
+#EXTINF:-1,TENNIS HD
+http://jarvis.bet:80/michael1/12345678/33982
+#EXTINF:-1,THE Travel Channel HD
+http://jarvis.bet:80/michael1/12345678/33981
+#EXTINF:-1,TLC HD (E)
+http://jarvis.bet:80/michael1/12345678/33923
+#EXTINF:-1,TNT HD
+http://jarvis.bet:80/michael1/12345678/33980
+#EXTINF:-1,TRU TV HD
+http://jarvis.bet:80/michael1/12345678/33870
+#EXTINF:-1,TRU TV HD *
+http://jarvis.bet:80/michael1/12345678/33979
+#EXTINF:-1,TURNER CLASSIC MOVIES (E)
+http://jarvis.bet:80/michael1/12345678/33869
+#EXTINF:-1,TV LAND (E)
+http://jarvis.bet:80/michael1/12345678/33868
+#EXTINF:-1,TV LAND HD
+http://jarvis.bet:80/michael1/12345678/33978
+#EXTINF:-1,TV ONE (E)
+http://jarvis.bet:80/michael1/12345678/33867
+#EXTINF:-1,UNIMAS (E)
+http://jarvis.bet:80/michael1/12345678/33916
+#EXTINF:-1,UNIVERSAL KIDS HD
+http://jarvis.bet:80/michael1/12345678/33977
+#EXTINF:-1,UNIVISION (E)
+http://jarvis.bet:80/michael1/12345678/33914
+#EXTINF:-1,USA NETWORK (E)
+http://jarvis.bet:80/michael1/12345678/33866
+#EXTINF:-1,VELOCITY HD
+http://jarvis.bet:80/michael1/12345678/33921
 #EXTINF:-1,VH1 HD
-http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/23880
-#EXTINF:-1,WARNER BROS
-http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/23879
-#EXTINF:-1,ZEE CAFE HD
-http://www.pandar.tv:25461/028926130190/ZDEDhDMioXA3x3H/23878
+http://jarvis.bet:80/michael1/12345678/33975
+#EXTINF:-1,Viceland HD
+http://jarvis.bet:80/michael1/12345678/33974
+#EXTINF:-1,WE HD
+http://jarvis.bet:80/michael1/12345678/33973
+#EXTINF:-1,WE TV (E)
+http://jarvis.bet:80/michael1/12345678/33865
+#EXTINF:-1,WGN AMERICA (E)
+http://jarvis.bet:80/michael1/12345678/33864
+#EXTINF:-1,WPIX 11 NY (E)
+http://jarvis.bet:80/michael1/12345678/33863
+#EXTINF:-1,YES NETWORK (E)
+http://jarvis.bet:80/michael1/12345678/33862
+#EXTINF:-1,BET HD
+http://jarvis.bet:80/michael1/12345678/33972
+#EXTINF:-1,Boomerang HD
+http://jarvis.bet:80/michael1/12345678/33971
+#EXTINF:-1,CMT HD
+http://jarvis.bet:80/michael1/12345678/33970
+#EXTINF:-1,Cooking Channel HD
+http://jarvis.bet:80/michael1/12345678/33969
+#EXTINF:-1,Crime & Investigation HD
+http://jarvis.bet:80/michael1/12345678/33968
+#EXTINF:-1,Disney Jr. HD
+http://jarvis.bet:80/michael1/12345678/33967
+#EXTINF:-1,Disney XD HD
+http://jarvis.bet:80/michael1/12345678/33966
+#EXTINF:-1,Hallmark Movies&Mysteries HD
+http://jarvis.bet:80/michael1/12345678/33964
+#EXTINF:-1,HBOComedy HD
+http://jarvis.bet:80/michael1/12345678/33963
+#EXTINF:-1,HBOFamily
+http://jarvis.bet:80/michael1/12345678/33962
+#EXTINF:-1,HBOSignature HD
+http://jarvis.bet:80/michael1/12345678/33961
+#EXTINF:-1,MTV HD
+http://jarvis.bet:80/michael1/12345678/33960
+#EXTINF:-1,MTVLive HD
+http://jarvis.bet:80/michael1/12345678/33959
+#EXTINF:-1,ShowtimeFamily Zone HD
+http://jarvis.bet:80/michael1/12345678/33958
+#EXTINF:-1,StarzKids & Family HD
+http://jarvis.bet:80/michael1/12345678/33957
+#EXTINF:-1,Sundance HD
+http://jarvis.bet:80/michael1/12345678/33956
+#EXTINF:-1,USA Discovery Family HD
+http://jarvis.bet:80/michael1/12345678/33920
+#EXTINF:-1,CW HD
+http://jarvis.bet:80/michael1/12345678/34027
+#EXTINF:-1,EPIX HITS
+http://jarvis.bet:80/michael1/12345678/33861
+#EXTINF:-1,FOX HD
+http://jarvis.bet:80/michael1/12345678/33933
+#EXTINF:-1,FOX NEWS
+http://jarvis.bet:80/michael1/12345678/33949
+#EXTINF:-1,FXM
+http://jarvis.bet:80/michael1/12345678/33860
+#EXTINF:-1,FXM EAST SD
+http://jarvis.bet:80/michael1/12345678/33859
+#EXTINF:-1,TEEN NICK
+http://jarvis.bet:80/michael1/12345678/33858
+#EXTINF:-1,USA NETWORK
+http://jarvis.bet:80/michael1/12345678/33976
+#EXTINF:-1,UK I BABY TV
+http://jarvis.bet:80/michael1/12345678/9802
+#EXTINF:-1,UK I BOOMERANG
+http://jarvis.bet:80/michael1/12345678/9815
+#EXTINF:-1,UK I CARTOON NETWORK
+http://jarvis.bet:80/michael1/12345678/9817
+#EXTINF:-1,UK I CARTOON NETWORK HD
+http://jarvis.bet:80/michael1/12345678/9818
+#EXTINF:-1,UK I CARTOONITO
+http://jarvis.bet:80/michael1/12345678/9816
+#EXTINF:-1,UK I CBBC
+http://jarvis.bet:80/michael1/12345678/9804
+#EXTINF:-1,UK I CBBC HD
+http://jarvis.bet:80/michael1/12345678/9805
+#EXTINF:-1,UK I CBEEBIES HD
+http://jarvis.bet:80/michael1/12345678/9806
+#EXTINF:-1,UK I DISNEY CHANNEL
+http://jarvis.bet:80/michael1/12345678/9810
+#EXTINF:-1,UK I DISNEY JNR
+http://jarvis.bet:80/michael1/12345678/9807
+#EXTINF:-1,UK I DISNEY XD
+http://jarvis.bet:80/michael1/12345678/9808
+#EXTINF:-1,UK I NICK JR
+http://jarvis.bet:80/michael1/12345678/9812
+#EXTINF:-1,UK I NICK JR TOO
+http://jarvis.bet:80/michael1/12345678/9811
+#EXTINF:-1,UK I NICKELODEON
+http://jarvis.bet:80/michael1/12345678/9814
+#EXTINF:-1,UK I NICKTOONS
+http://jarvis.bet:80/michael1/12345678/9813
+#EXTINF:-1,UK I POP MAX
+http://jarvis.bet:80/michael1/12345678/9809
+#EXTINF:-1,Pop
+http://jarvis.bet:80/michael1/12345678/9819
+#EXTINF:-1,UK I TINY POP
+http://jarvis.bet:80/michael1/12345678/9803
+#EXTINF:-1,BBC 1 Northern Ireland HD
+http://jarvis.bet:80/michael1/12345678/9824
+#EXTINF:-1,BBC Two Northen Ireland
+http://jarvis.bet:80/michael1/12345678/9823
+#EXTINF:-1,RTE 1
+http://jarvis.bet:80/michael1/12345678/9834
+#EXTINF:-1,RTE 1 HD
+http://jarvis.bet:80/michael1/12345678/9833
+#EXTINF:-1,RTE 2
+http://jarvis.bet:80/michael1/12345678/9832
+#EXTINF:-1,RTE 2 HD
+http://jarvis.bet:80/michael1/12345678/9831
+#EXTINF:-1,RTE Junior
+http://jarvis.bet:80/michael1/12345678/9830
+#EXTINF:-1,RTE News
+http://jarvis.bet:80/michael1/12345678/9829
+#EXTINF:-1,S4C
+http://jarvis.bet:80/michael1/12345678/9825
+#EXTINF:-1,UTV
+http://jarvis.bet:80/michael1/12345678/9827
+#EXTINF:-1,Eir Sports 1
+http://jarvis.bet:80/michael1/12345678/9821
+#EXTINF:-1,Eir Sports 2
+http://jarvis.bet:80/michael1/12345678/9820
+#EXTINF:-1,Chelsea TV HD
+http://jarvis.bet:80/michael1/12345678/11142
+#EXTINF:-1,MUTV
+http://jarvis.bet:80/michael1/12345678/11130
+#EXTINF:-1,BOX HITS
+http://jarvis.bet:80/michael1/12345678/19251
+#EXTINF:-1,CLUBLAND TV
+http://jarvis.bet:80/michael1/12345678/19249
+#EXTINF:-1,MTV
+http://jarvis.bet:80/michael1/12345678/19248
+#EXTINF:-1,MTV Backup
+http://jarvis.bet:80/michael1/12345678/19247
+#EXTINF:-1,MTV BASE
+http://jarvis.bet:80/michael1/12345678/19246
+#EXTINF:-1,MTV BASE Backup
+http://jarvis.bet:80/michael1/12345678/19245
+#EXTINF:-1,MTV CLASSIC
+http://jarvis.bet:80/michael1/12345678/19244
+#EXTINF:-1,MTV CLASSIC Backup
+http://jarvis.bet:80/michael1/12345678/19243
+#EXTINF:-1,MTV DANCE
+http://jarvis.bet:80/michael1/12345678/19242
+#EXTINF:-1,MTV DANCE Backup
+http://jarvis.bet:80/michael1/12345678/19240
+#EXTINF:-1,MTV HITS
+http://jarvis.bet:80/michael1/12345678/19239
+#EXTINF:-1,MTV HITS Backup
+http://jarvis.bet:80/michael1/12345678/19238
+#EXTINF:-1,MTV ROCKS
+http://jarvis.bet:80/michael1/12345678/19235
+#EXTINF:-1,MTV ROCKS Backup
+http://jarvis.bet:80/michael1/12345678/19234
+#EXTINF:-1,MTV OMG
+http://jarvis.bet:80/michael1/12345678/19229
+#EXTINF:-1,Sky Cinema Christmas HD
+http://jarvis.bet:80/michael1/12345678/35375
+#EXTINF:-1,UK Sky Cinema Action FHD
+http://jarvis.bet:80/michael1/12345678/35386
+#EXTINF:-1,SKY CINEMA ACTION HD
+http://jarvis.bet:80/michael1/12345678/29672
+#EXTINF:-1,sky cinema Action SD
+http://jarvis.bet:80/michael1/12345678/29660
+#EXTINF:-1,UK Sky Cinema Comedy FHD
+http://jarvis.bet:80/michael1/12345678/35385
+#EXTINF:-1,SKY CINEMA COMEDY HD
+http://jarvis.bet:80/michael1/12345678/29671
+#EXTINF:-1,sky cinema comedy SD
+http://jarvis.bet:80/michael1/12345678/29659
+#EXTINF:-1,UK Sky Cinema Disney FHD
+http://jarvis.bet:80/michael1/12345678/35384
+#EXTINF:-1,SKY CINEMA DISNEY HD
+http://jarvis.bet:80/michael1/12345678/29670
+#EXTINF:-1,sky cinema Disney SD
+http://jarvis.bet:80/michael1/12345678/29658
+#EXTINF:-1,UK Sky Cinema Drama FHD
+http://jarvis.bet:80/michael1/12345678/35383
+#EXTINF:-1,SKY CINEMA DRAMA HD
+http://jarvis.bet:80/michael1/12345678/29669
+#EXTINF:-1,sky cinema Drama SD
+http://jarvis.bet:80/michael1/12345678/29657
+#EXTINF:-1,UK Sky Cinema Family FHD
+http://jarvis.bet:80/michael1/12345678/35382
+#EXTINF:-1,SKY CINEMA FAMILY HD
+http://jarvis.bet:80/michael1/12345678/29668
+#EXTINF:-1,sky cinema Family SD
+http://jarvis.bet:80/michael1/12345678/29656
+#EXTINF:-1,UK Sky Cinema Greats FHD
+http://jarvis.bet:80/michael1/12345678/35381
+#EXTINF:-1,SKY CINEMA GREATS HD
+http://jarvis.bet:80/michael1/12345678/29662
+#EXTINF:-1,sky cinema Greats SD
+http://jarvis.bet:80/michael1/12345678/29655
+#EXTINF:-1,SKY CINEMA HEROES HD
+http://jarvis.bet:80/michael1/12345678/29667
+#EXTINF:-1,UK Sky Cinema Hits FHD
+http://jarvis.bet:80/michael1/12345678/35380
+#EXTINF:-1,SKY CINEMA HITS HD
+http://jarvis.bet:80/michael1/12345678/29666
+#EXTINF:-1,UK Sky Cinema Premier FHD
+http://jarvis.bet:80/michael1/12345678/35379
+#EXTINF:-1,SKY CINEMA PREMIERE HD
+http://jarvis.bet:80/michael1/12345678/29665
+#EXTINF:-1,sky cinema Premiere SD
+http://jarvis.bet:80/michael1/12345678/29654
+#EXTINF:-1,UK Sky Cinema Sci Fi FHD
+http://jarvis.bet:80/michael1/12345678/35378
+#EXTINF:-1,SKY CINEMA SCI-FI HORROR HD
+http://jarvis.bet:80/michael1/12345678/29664
+#EXTINF:-1,Sky Cinema Sci-Fi SD
+http://jarvis.bet:80/michael1/12345678/29653
+#EXTINF:-1,UK Sky Cinema Select FHD
+http://jarvis.bet:80/michael1/12345678/35377
+#EXTINF:-1,SKY CINEMA SELECT HD
+http://jarvis.bet:80/michael1/12345678/29663
+#EXTINF:-1,sky cinema Select SD
+http://jarvis.bet:80/michael1/12345678/29652
+#EXTINF:-1,UK Sky Cinema Thriller FHD
+http://jarvis.bet:80/michael1/12345678/35376
+#EXTINF:-1,SKY CINEMA THRILLER HD
+http://jarvis.bet:80/michael1/12345678/29661
+#EXTINF:-1,sky cinema Thriller SD
+http://jarvis.bet:80/michael1/12345678/29651
+#EXTINF:-1,UK I ANIMAL PLANET
+http://jarvis.bet:80/michael1/12345678/9489
+#EXTINF:-1,UK I ANIMAL PLANET HD
+http://jarvis.bet:80/michael1/12345678/9488
+#EXTINF:-1,UK I CRIME & INVESTIGATION
+http://jarvis.bet:80/michael1/12345678/9490
+#EXTINF:-1,UK I DISCOVERY HD
+http://jarvis.bet:80/michael1/12345678/9497
+#EXTINF:-1,UK I DISCOVERY HISTORY
+http://jarvis.bet:80/michael1/12345678/9493
+#EXTINF:-1,UK I DISCOVERY HISTORY (BU)
+http://jarvis.bet:80/michael1/12345678/9492
+#EXTINF:-1,UK I DISCOVERY SCIENCE
+http://jarvis.bet:80/michael1/12345678/9494
+#EXTINF:-1,UK I DISCOVERY SHED
+http://jarvis.bet:80/michael1/12345678/9496
+#EXTINF:-1,UK I DISCOVERY TURBO
+http://jarvis.bet:80/michael1/12345678/9495
+#EXTINF:-1,History HD
+http://jarvis.bet:80/michael1/12345678/42938
+#EXTINF:-1,History SD
+http://jarvis.bet:80/michael1/12345678/42939
+#EXTINF:-1,UK I H2
+http://jarvis.bet:80/michael1/12345678/9491
+#EXTINF:-1,UK I HOME & HEATH
+http://jarvis.bet:80/michael1/12345678/9486
+#EXTINF:-1,UK I I.D
+http://jarvis.bet:80/michael1/12345678/9487
+#EXTINF:-1,UK I NAT GEO
+http://jarvis.bet:80/michael1/12345678/9485
+#EXTINF:-1,UK I NAT GEO WILD HD
+http://jarvis.bet:80/michael1/12345678/9484
+#EXTINF:-1,Pop 2019 Hits
+http://jarvis.bet:80/michael1/12345678/45965
+#EXTINF:-1,CORAL REEF AQUARIUM
+http://jarvis.bet:80/michael1/12345678/45966
+#EXTINF:-1,FLYING OVER NORWAY
+http://jarvis.bet:80/michael1/12345678/45967
+#EXTINF:-1,FLYING OVER BERMUDA
+http://jarvis.bet:80/michael1/12345678/45968
+#EXTINF:-1,Northern Lights Relaxation
+http://jarvis.bet:80/michael1/12345678/45969
+#EXTINF:-1,Relaxing Music and Soothing Water Sounds
+http://jarvis.bet:80/michael1/12345678/45970
+#EXTINF:-1,Monks OM Chanting
+http://jarvis.bet:80/michael1/12345678/45971
+#EXTINF:-1,Buddhist Meditation Music for Positive Energy
+http://jarvis.bet:80/michael1/12345678/45972
+#EXTINF:-1,BBC RED BUTTON
+http://jarvis.bet:80/michael1/12345678/17369
+#EXTINF:-1,Bbc Two England
+http://jarvis.bet:80/michael1/12345678/17368
+#EXTINF:-1,Bbc Two Ni
+http://jarvis.bet:80/michael1/12345678/17367
+#EXTINF:-1,BBC TWO SCOTLAND
+http://jarvis.bet:80/michael1/12345678/17366
+#EXTINF:-1,BBC3
+http://jarvis.bet:80/michael1/12345678/17365
+#EXTINF:-1,BBC4
+http://jarvis.bet:80/michael1/12345678/17364
+#EXTINF:-1,ITV1
+http://jarvis.bet:80/michael1/12345678/12552
+#EXTINF:-1,CHANNEL 4
+http://jarvis.bet:80/michael1/12345678/17360
+#EXTINF:-1,Channel 5
+http://jarvis.bet:80/michael1/12345678/17359
+#EXTINF:-1,ITV2
+http://jarvis.bet:80/michael1/12345678/17363
+#EXTINF:-1,ITV3
+http://jarvis.bet:80/michael1/12345678/17362
+#EXTINF:-1,ITV4
+http://jarvis.bet:80/michael1/12345678/17361
+#EXTINF:-1,SKY REAL LIVES
+http://jarvis.bet:80/michael1/12345678/17354
+#EXTINF:-1,TG4
+http://jarvis.bet:80/michael1/12345678/23183
+#EXTINF:-1,SKY STORE 1
+http://jarvis.bet:80/michael1/12345678/24151
+#EXTINF:-1,SKY STORE 2
+http://jarvis.bet:80/michael1/12345678/24150
+#EXTINF:-1,SKY STORE 3
+http://jarvis.bet:80/michael1/12345678/24149
+#EXTINF:-1,SKY STORE 4
+http://jarvis.bet:80/michael1/12345678/24148
+#EXTINF:-1,SKY STORE 5
+http://jarvis.bet:80/michael1/12345678/24147
+#EXTINF:-1,SKY STORE 6
+http://jarvis.bet:80/michael1/12345678/24146
+#EXTINF:-1,SKY STORE 7
+http://jarvis.bet:80/michael1/12345678/24145
+#EXTINF:-1,Virgin Media One
+http://jarvis.bet:80/michael1/12345678/9828
+#EXTINF:-1,Virgin Media Two
+http://jarvis.bet:80/michael1/12345678/9826
+#EXTINF:-1,VIRGIN MEDIA THREE
+http://jarvis.bet:80/michael1/12345678/24894
+#EXTINF:-1,5 SPIKE PLUS 1
+http://jarvis.bet:80/michael1/12345678/27709
+#EXTINF:-1,5 STAR PLUS 1
+http://jarvis.bet:80/michael1/12345678/27708
+#EXTINF:-1,ALIBI PLUS 1
+http://jarvis.bet:80/michael1/12345678/27707
+#EXTINF:-1,ANIMAL PLANET PLUS 1
+http://jarvis.bet:80/michael1/12345678/27706
+#EXTINF:-1,CARTOON NETWORK PLUS 1
+http://jarvis.bet:80/michael1/12345678/27705
+#EXTINF:-1,CBS REALITY PLUS 1
+http://jarvis.bet:80/michael1/12345678/27704
+#EXTINF:-1,CHALLENGE PLUS 1
+http://jarvis.bet:80/michael1/12345678/27703
+#EXTINF:-1,CHANNEL 4 PLUS 1
+http://jarvis.bet:80/michael1/12345678/27702
+#EXTINF:-1,CHANNEL 5 PLUS 1
+http://jarvis.bet:80/michael1/12345678/27701
+#EXTINF:-1,COMEDY CENTRAL PLUS 1
+http://jarvis.bet:80/michael1/12345678/27700
+#EXTINF:-1,COMEDY XTRA PLUS 1
+http://jarvis.bet:80/michael1/12345678/27699
+#EXTINF:-1,CRIME & INVESTIGATION PLUS 1
+http://jarvis.bet:80/michael1/12345678/27698
+#EXTINF:-1,DISCOVERY HISTORY PLUS 1
+http://jarvis.bet:80/michael1/12345678/27697
+#EXTINF:-1,DISCOVERY SCIENCE PLUS 1
+http://jarvis.bet:80/michael1/12345678/27696
+#EXTINF:-1,DISCOVERY TURBO PLUS 1
+http://jarvis.bet:80/michael1/12345678/27695
+#EXTINF:-1,DISNEY CHANNEL PLUS 1
+http://jarvis.bet:80/michael1/12345678/27694
+#EXTINF:-1,DISNEY XD PLUS 1
+http://jarvis.bet:80/michael1/12345678/27692
+#EXTINF:-1,DMAX PLUS 1
+http://jarvis.bet:80/michael1/12345678/27691
+#EXTINF:-1,E4 PLUS 1
+http://jarvis.bet:80/michael1/12345678/27690
+#EXTINF:-1,FILM 4 PLUS 1
+http://jarvis.bet:80/michael1/12345678/27689
+#EXTINF:-1,GOLD PLUS 1
+http://jarvis.bet:80/michael1/12345678/27687
+#EXTINF:-1,GOOD FOOD PLUS 1
+http://jarvis.bet:80/michael1/12345678/27686
+#EXTINF:-1,HISTORY PLUS 1
+http://jarvis.bet:80/michael1/12345678/27685
+#EXTINF:-1,HOME & HEALTH PLUS 1
+http://jarvis.bet:80/michael1/12345678/27684
+#EXTINF:-1,HOME PLUS 1
+http://jarvis.bet:80/michael1/12345678/27683
+#EXTINF:-1,HORROR CHANNEL PLUS 1
+http://jarvis.bet:80/michael1/12345678/27682
+#EXTINF:-1,INVESTIGATION DISCOVERY PLUS 1
+http://jarvis.bet:80/michael1/12345678/27681
+#EXTINF:-1,ITV 1 PLUS 1
+http://jarvis.bet:80/michael1/12345678/27680
+#EXTINF:-1,ITV 2 PLUS 1
+http://jarvis.bet:80/michael1/12345678/27679
+#EXTINF:-1,ITV 3 PLUS 1
+http://jarvis.bet:80/michael1/12345678/27678
+#EXTINF:-1,ITV 4 PLUS 1
+http://jarvis.bet:80/michael1/12345678/27677
+#EXTINF:-1,ITVBE PLUS 1
+http://jarvis.bet:80/michael1/12345678/27676
+#EXTINF:-1,MORE 4 PLUS 1
+http://jarvis.bet:80/michael1/12345678/27674
+#EXTINF:-1,NICK JR PLUS 1
+http://jarvis.bet:80/michael1/12345678/27670
+#EXTINF:-1,NICK PLUS 1
+http://jarvis.bet:80/michael1/12345678/27669
+#EXTINF:-1,PICK TV PLUS 1
+http://jarvis.bet:80/michael1/12345678/27668
+#EXTINF:-1,POP MAX PLUS 1
+http://jarvis.bet:80/michael1/12345678/27667
+#EXTINF:-1,SKY ONE PLUS 1
+http://jarvis.bet:80/michael1/12345678/27665
+#EXTINF:-1,SONY CRIME PLUS 1
+http://jarvis.bet:80/michael1/12345678/27663
+#EXTINF:-1,SONY MOVIES PLUS 1
+http://jarvis.bet:80/michael1/12345678/27662
+#EXTINF:-1,SYFY PLUS 1
+http://jarvis.bet:80/michael1/12345678/27661
+#EXTINF:-1,TLC PLUS 1
+http://jarvis.bet:80/michael1/12345678/27659
+#EXTINF:-1,TRAVEL CHANNEL PLUS 1
+http://jarvis.bet:80/michael1/12345678/27658
+#EXTINF:-1,TRUE CHRISTMAS PLUS 1
+http://jarvis.bet:80/michael1/12345678/27657
+#EXTINF:-1,TRUE ENTERTAINMENT PLUS 1
+http://jarvis.bet:80/michael1/12345678/27656
+#EXTINF:-1,TRUTV PLUS 1
+http://jarvis.bet:80/michael1/12345678/27655
+#EXTINF:-1,Channel 5 Plus 1
+http://jarvis.bet:80/michael1/12345678/17358
+#EXTINF:-1,UNIVERSAL PLUS 1
+http://jarvis.bet:80/michael1/12345678/27654
+#EXTINF:-1,W PLUS 1
+http://jarvis.bet:80/michael1/12345678/27653
+#EXTINF:-1,CANADA:  CARTOON NETWORK
+http://jarvis.bet:80/michael1/12345678/34721
+#EXTINF:-1,CANADA: A & E
+http://jarvis.bet:80/michael1/12345678/34743
+#EXTINF:-1,CANADA: ABC EAST
+http://jarvis.bet:80/michael1/12345678/34742
+#EXTINF:-1,CANADA: ABC SPARK
+http://jarvis.bet:80/michael1/12345678/34741
+#EXTINF:-1,CANADA: ABC WEST
+http://jarvis.bet:80/michael1/12345678/34740
+#EXTINF:-1,CANADA: ACTION
+http://jarvis.bet:80/michael1/12345678/34739
+#EXTINF:-1,CANADA: ADDIK TV
+http://jarvis.bet:80/michael1/12345678/34738
+#EXTINF:-1,CANADA: AHC
+http://jarvis.bet:80/michael1/12345678/34737
+#EXTINF:-1,CANADA: AMC
+http://jarvis.bet:80/michael1/12345678/34736
+#EXTINF:-1,CANADA: ANIMAL PLANET
+http://jarvis.bet:80/michael1/12345678/34735
+#EXTINF:-1,CANADA: APTN
+http://jarvis.bet:80/michael1/12345678/34734
+#EXTINF:-1,CANADA: ARAB TV
+http://jarvis.bet:80/michael1/12345678/34733
+#EXTINF:-1,CANADA: ARTV
+http://jarvis.bet:80/michael1/12345678/34732
+#EXTINF:-1,CANADA: BBC CANADA
+http://jarvis.bet:80/michael1/12345678/34731
+#EXTINF:-1,CANADA: BBC EARTH HD
+http://jarvis.bet:80/michael1/12345678/34730
+#EXTINF:-1,CANADA: BBC KIDS
+http://jarvis.bet:80/michael1/12345678/34729
+#EXTINF:-1,CANADA: BBC WORLD NEWS
+http://jarvis.bet:80/michael1/12345678/34728
+#EXTINF:-1,CANADA: BET
+http://jarvis.bet:80/michael1/12345678/34727
+#EXTINF:-1,CANADA: BNN
+http://jarvis.bet:80/michael1/12345678/34726
+#EXTINF:-1,CANADA: BOOK TV
+http://jarvis.bet:80/michael1/12345678/34725
+#EXTINF:-1,CANADA: BRAVO
+http://jarvis.bet:80/michael1/12345678/34724
+#EXTINF:-1,CANADA: CANAL D
+http://jarvis.bet:80/michael1/12345678/34723
+#EXTINF:-1,CANADA: CANAL SAVOIR
+http://jarvis.bet:80/michael1/12345678/34722
+#EXTINF:-1,CANADA: CASA
+http://jarvis.bet:80/michael1/12345678/34720
+#EXTINF:-1,CANADA: CBC CALGARY
+http://jarvis.bet:80/michael1/12345678/34719
+#EXTINF:-1,CANADA: CBC CHARLOTTETOWN
+http://jarvis.bet:80/michael1/12345678/34718
+#EXTINF:-1,CANADA: CBC FREDERICTON
+http://jarvis.bet:80/michael1/12345678/34717
+#EXTINF:-1,CANADA: CBC FRENCH
+http://jarvis.bet:80/michael1/12345678/34716
+#EXTINF:-1,CANADA: CBC HALIFAX
+http://jarvis.bet:80/michael1/12345678/34684
+#EXTINF:-1,CANADA: CBC MONTREAL
+http://jarvis.bet:80/michael1/12345678/34715
+#EXTINF:-1,CANADA: CBC NEWS
+http://jarvis.bet:80/michael1/12345678/34714
+#EXTINF:-1,CANADA: CBC OTTAWA
+http://jarvis.bet:80/michael1/12345678/34713
+#EXTINF:-1,CANADA: CBC RADIO
+http://jarvis.bet:80/michael1/12345678/34712
+#EXTINF:-1,CANADA: CBC ST. JOHNS
+http://jarvis.bet:80/michael1/12345678/34711
+#EXTINF:-1,CANADA: CBC TORONTO
+http://jarvis.bet:80/michael1/12345678/34710
+#EXTINF:-1,CANADA: CBC VANCOUVER
+http://jarvis.bet:80/michael1/12345678/34709
+#EXTINF:-1,CANADA: CBC WINNIPEG
+http://jarvis.bet:80/michael1/12345678/34708
+#EXTINF:-1,CANADA: CBS EAST
+http://jarvis.bet:80/michael1/12345678/34707
+#EXTINF:-1,CANADA: CBS WEST
+http://jarvis.bet:80/michael1/12345678/34706
+#EXTINF:-1,CANADA: CHCH
+http://jarvis.bet:80/michael1/12345678/34705
+#EXTINF:-1,CANADA: CINEPOP
+http://jarvis.bet:80/michael1/12345678/34704
+#EXTINF:-1,CANADA: CITY MONTREAL
+http://jarvis.bet:80/michael1/12345678/34703
+#EXTINF:-1,CANADA: CITY TORONTO
+http://jarvis.bet:80/michael1/12345678/34702
+#EXTINF:-1,CANADA: CITY VANCOUVER
+http://jarvis.bet:80/michael1/12345678/34701
+#EXTINF:-1,CANADA: CITY WINNIPEG
+http://jarvis.bet:80/michael1/12345678/34700
+#EXTINF:-1,CANADA: CMT CANADA
+http://jarvis.bet:80/michael1/12345678/34699
+#EXTINF:-1,CANADA: CNBC
+http://jarvis.bet:80/michael1/12345678/34698
+#EXTINF:-1,CANADA: CNN
+http://jarvis.bet:80/michael1/12345678/34697
+#EXTINF:-1,CANADA: CNN INTERNATIONAL
+http://jarvis.bet:80/michael1/12345678/34696
+#EXTINF:-1,CANADA: COMEDY EAST
+http://jarvis.bet:80/michael1/12345678/34695
+#EXTINF:-1,CANADA: COMEDY GOLD
+http://jarvis.bet:80/michael1/12345678/34694
+#EXTINF:-1,CANADA: COMEDY WEST
+http://jarvis.bet:80/michael1/12345678/34693
+#EXTINF:-1,CANADA: COOKING CHANNEL
+http://jarvis.bet:80/michael1/12345678/34692
+#EXTINF:-1,CANADA: COSMO
+http://jarvis.bet:80/michael1/12345678/34691
+#EXTINF:-1,CANADA: COTTAGE LIFE
+http://jarvis.bet:80/michael1/12345678/34690
+#EXTINF:-1,CANADA: CP24
+http://jarvis.bet:80/michael1/12345678/34689
+#EXTINF:-1,CANADA: CPAC
+http://jarvis.bet:80/michael1/12345678/34688
+#EXTINF:-1,CANADA: CPAC FRENCH
+http://jarvis.bet:80/michael1/12345678/34687
+#EXTINF:-1,CANADA: CRIME &  INVEST
+http://jarvis.bet:80/michael1/12345678/34686
+#EXTINF:-1,CANADA: CTV 2 VANCOUVER
+http://jarvis.bet:80/michael1/12345678/34685
+#EXTINF:-1,CANADA: CTV MONTREAL
+http://jarvis.bet:80/michael1/12345678/34683
+#EXTINF:-1,CANADA: CTV NEWS NETWORK
+http://jarvis.bet:80/michael1/12345678/34682
+#EXTINF:-1,CANADA: CTV OTTAWA
+http://jarvis.bet:80/michael1/12345678/34681
+#EXTINF:-1,CANADA: CTV TORONTO
+http://jarvis.bet:80/michael1/12345678/34680
+#EXTINF:-1,CANADA: CTV VANCOUVER
+http://jarvis.bet:80/michael1/12345678/34679
+#EXTINF:-1,CANADA: CTV2 OTTAWA
+http://jarvis.bet:80/michael1/12345678/34678
+#EXTINF:-1,CANADA: CW 11
+http://jarvis.bet:80/michael1/12345678/34677
+#EXTINF:-1,CANADA: DAYSTAR TV
+http://jarvis.bet:80/michael1/12345678/34676
+#EXTINF:-1,CANADA: DEJAVIEW
+http://jarvis.bet:80/michael1/12345678/34675
+#EXTINF:-1,CANADA: DISCOVERY CANADA
+http://jarvis.bet:80/michael1/12345678/34674
+#EXTINF:-1,CANADA: DISCOVERY SCIENCE
+http://jarvis.bet:80/michael1/12345678/34673
+#EXTINF:-1,CANADA: DISNEY CANADA
+http://jarvis.bet:80/michael1/12345678/34672
+#EXTINF:-1,CANADA: DISNEY FRENCH
+http://jarvis.bet:80/michael1/12345678/34671
+#EXTINF:-1,CANADA: DISNEY JR
+http://jarvis.bet:80/michael1/12345678/34670
+#EXTINF:-1,CANADA: DIY
+http://jarvis.bet:80/michael1/12345678/34669
+#EXTINF:-1,CANADA: DOCUMENTARY
+http://jarvis.bet:80/michael1/12345678/34668
+#EXTINF:-1,CANADA: DTOUR
+http://jarvis.bet:80/michael1/12345678/34667
+#EXTINF:-1,CANADA: E! CANADA
+http://jarvis.bet:80/michael1/12345678/34666
+#EXTINF:-1,CANADA: ENCORE 1 EAST
+http://jarvis.bet:80/michael1/12345678/34665
+#EXTINF:-1,CANADA: ENCORE 2 EAST
+http://jarvis.bet:80/michael1/12345678/34664
+#EXTINF:-1,CANADA: FAMILY CHRGD
+http://jarvis.bet:80/michael1/12345678/34663
+#EXTINF:-1,CANADA: FAMILY EAST
+http://jarvis.bet:80/michael1/12345678/34662
+#EXTINF:-1,CANADA: FAMILY WEST
+http://jarvis.bet:80/michael1/12345678/34661
+#EXTINF:-1,CANADA: FIGHT NETWORK
+http://jarvis.bet:80/michael1/12345678/34660
+#EXTINF:-1,CANADA: FOOD NETWORK
+http://jarvis.bet:80/michael1/12345678/34659
+#EXTINF:-1,CANADA: FOX EAST
+http://jarvis.bet:80/michael1/12345678/34658
+#EXTINF:-1,CANADA: FOX NEWS
+http://jarvis.bet:80/michael1/12345678/34656
+#EXTINF:-1,CANADA: FOX WEST
+http://jarvis.bet:80/michael1/12345678/34657
+#EXTINF:-1,CANADA: FYI
+http://jarvis.bet:80/michael1/12345678/34655
+#EXTINF:-1,CANADA: Game TV
+http://jarvis.bet:80/michael1/12345678/34654
+#EXTINF:-1,CANADA: GLOBAL CALGARY
+http://jarvis.bet:80/michael1/12345678/34653
+#EXTINF:-1,CANADA: GLOBAL EDMONTON
+http://jarvis.bet:80/michael1/12345678/34652
+#EXTINF:-1,CANADA: GLOBAL HALIFAX
+http://jarvis.bet:80/michael1/12345678/34651
+#EXTINF:-1,CANADA: GLOBAL TORONTO
+http://jarvis.bet:80/michael1/12345678/34650
+#EXTINF:-1,CANADA: GLOBAL VANCOUVER
+http://jarvis.bet:80/michael1/12345678/34649
+#EXTINF:-1,CANADA: GOLF
+http://jarvis.bet:80/michael1/12345678/34648
+#EXTINF:-1,CANADA: GOLF HD
+http://jarvis.bet:80/michael1/12345678/34647
+#EXTINF:-1,CANADA: GSN
+http://jarvis.bet:80/michael1/12345678/34646
+#EXTINF:-1,CANADA: GUSTO
+http://jarvis.bet:80/michael1/12345678/34645
+#EXTINF:-1,CANADA: H2 CANADA
+http://jarvis.bet:80/michael1/12345678/34644
+#EXTINF:-1,CANADA: HBO 1
+http://jarvis.bet:80/michael1/12345678/34643
+#EXTINF:-1,CANADA: HBO 2
+http://jarvis.bet:80/michael1/12345678/34642
+#EXTINF:-1,CANADA: HGTV
+http://jarvis.bet:80/michael1/12345678/34641
+#EXTINF:-1,CANADA: HISTORIA
+http://jarvis.bet:80/michael1/12345678/34640
+#EXTINF:-1,CANADA: HISTORY
+http://jarvis.bet:80/michael1/12345678/34639
+#EXTINF:-1,CANADA: HLN
+http://jarvis.bet:80/michael1/12345678/34638
+#EXTINF:-1,CANADA: ICI MONTREAL
+http://jarvis.bet:80/michael1/12345678/34637
+#EXTINF:-1,CANADA: ICI TELEVISION
+http://jarvis.bet:80/michael1/12345678/34636
+#EXTINF:-1,CANADA: ICI VANCOUVER
+http://jarvis.bet:80/michael1/12345678/34635
+#EXTINF:-1,CANADA: ID CANADA
+http://jarvis.bet:80/michael1/12345678/34634
+#EXTINF:-1,CANADA: IFC
+http://jarvis.bet:80/michael1/12345678/34633
+#EXTINF:-1,CANADA: JOY TV
+http://jarvis.bet:80/michael1/12345678/34632
+#EXTINF:-1,CANADA: KNOWLEDGE KIDS
+http://jarvis.bet:80/michael1/12345678/34631
+#EXTINF:-1,CANADA: LCN
+http://jarvis.bet:80/michael1/12345678/34630
+#EXTINF:-1,CANADA: LIFETIME
+http://jarvis.bet:80/michael1/12345678/34629
+#EXTINF:-1,CANADA: LOVE NATURE HD
+http://jarvis.bet:80/michael1/12345678/34628
+#EXTINF:-1,CANADA: MAX
+http://jarvis.bet:80/michael1/12345678/34627
+#EXTINF:-1,CANADA: METEO
+http://jarvis.bet:80/michael1/12345678/34626
+#EXTINF:-1,CANADA: MIRACLE
+http://jarvis.bet:80/michael1/12345678/34625
+#EXTINF:-1,CANADA: MLB NETWORK
+http://jarvis.bet:80/michael1/12345678/34624
+#EXTINF:-1,CANADA: MOI CIE
+http://jarvis.bet:80/michael1/12345678/34623
+#EXTINF:-1,CANADA: MOVIETIME
+http://jarvis.bet:80/michael1/12345678/34622
+#EXTINF:-1,CANADA: MTV
+http://jarvis.bet:80/michael1/12345678/34621
+#EXTINF:-1,CANADA: MUCH MUSIC
+http://jarvis.bet:80/michael1/12345678/34620
+#EXTINF:-1,CANADA: MUSIQUE PLUS
+http://jarvis.bet:80/michael1/12345678/34619
+#EXTINF:-1,CANADA: NAT GEO
+http://jarvis.bet:80/michael1/12345678/34618
+#EXTINF:-1,CANADA: NBA TV
+http://jarvis.bet:80/michael1/12345678/34617
+#EXTINF:-1,CANADA: NBC EAST
+http://jarvis.bet:80/michael1/12345678/34616
+#EXTINF:-1,CANADA: NBC WEST
+http://jarvis.bet:80/michael1/12345678/34615
+#EXTINF:-1,CANADA: NICK
+http://jarvis.bet:80/michael1/12345678/34614
+#EXTINF:-1,CANADA: NICKTOON
+http://jarvis.bet:80/michael1/12345678/34613
+#EXTINF:-1,CANADA: NTV
+http://jarvis.bet:80/michael1/12345678/34612
+#EXTINF:-1,CANADA: OLN
+http://jarvis.bet:80/michael1/12345678/34611
+#EXTINF:-1,CANADA: OMNI 1
+http://jarvis.bet:80/michael1/12345678/34610
+#EXTINF:-1,CANADA: OMNI 2
+http://jarvis.bet:80/michael1/12345678/34609
+#EXTINF:-1,CANADA: OUTTV
+http://jarvis.bet:80/michael1/12345678/34608
+#EXTINF:-1,CANADA: OWN
+http://jarvis.bet:80/michael1/12345678/34607
+#EXTINF:-1,CANADA: PBS
+http://jarvis.bet:80/michael1/12345678/34605
+#EXTINF:-1,CANADA: PBS EAST
+http://jarvis.bet:80/michael1/12345678/34606
+#EXTINF:-1,CANADA: PEACHTREE
+http://jarvis.bet:80/michael1/12345678/34604
+#EXTINF:-1,CANADA: PRISE
+http://jarvis.bet:80/michael1/12345678/34603
+#EXTINF:-1,CANADA: RDI
+http://jarvis.bet:80/michael1/12345678/34602
+#EXTINF:-1,CANADA: RDS
+http://jarvis.bet:80/michael1/12345678/34601
+#EXTINF:-1,CANADA: RDS 2
+http://jarvis.bet:80/michael1/12345678/34600
+#EXTINF:-1,CANADA: RDS INFO
+http://jarvis.bet:80/michael1/12345678/34599
+#EXTINF:-1,CANADA: SERIES
+http://jarvis.bet:80/michael1/12345678/34598
+#EXTINF:-1,CANADA: SHOPPING
+http://jarvis.bet:80/michael1/12345678/34597
+#EXTINF:-1,CANADA: SHOWCASE EAST
+http://jarvis.bet:80/michael1/12345678/34596
+#EXTINF:-1,CANADA: SILVER SCREEN CLASSICS
+http://jarvis.bet:80/michael1/12345678/34595
+#EXTINF:-1,CANADA: SLICE
+http://jarvis.bet:80/michael1/12345678/34594
+#EXTINF:-1,CANADA: SMITHSONIAN
+http://jarvis.bet:80/michael1/12345678/34593
+#EXTINF:-1,CANADA: SPACE HD
+http://jarvis.bet:80/michael1/12345678/34592
+#EXTINF:-1,CANADA: SPIKE TV / PARAMOUNT CANADA
+http://jarvis.bet:80/michael1/12345678/34591
+#EXTINF:-1,CANADA: SPORTSNET 360
+http://jarvis.bet:80/michael1/12345678/34590
+#EXTINF:-1,CANADA: SPORTSNET EAST
+http://jarvis.bet:80/michael1/12345678/34589
+#EXTINF:-1,CANADA: SPORTSNET ONE
+http://jarvis.bet:80/michael1/12345678/34588
+#EXTINF:-1,CANADA: SPORTSNET ONTARIO
+http://jarvis.bet:80/michael1/12345678/34587
+#EXTINF:-1,CANADA: SPORTSNET PACIFIC
+http://jarvis.bet:80/michael1/12345678/34586
+#EXTINF:-1,CANADA: SPORTSNET WEST
+http://jarvis.bet:80/michael1/12345678/34585
+#EXTINF:-1,CANADA: SPORTSNET WORLD
+http://jarvis.bet:80/michael1/12345678/34584
+#EXTINF:-1,CANADA: SUPER CHANNEL VAULT
+http://jarvis.bet:80/michael1/12345678/34583
+#EXTINF:-1,CANADA: SUPER ECRAN 1
+http://jarvis.bet:80/michael1/12345678/34582
+#EXTINF:-1,CANADA: SUPER ECRAN 2
+http://jarvis.bet:80/michael1/12345678/34581
+#EXTINF:-1,CANADA: SUPER ECRAN 3
+http://jarvis.bet:80/michael1/12345678/34580
+#EXTINF:-1,CANADA: SUPER ECRAN 4
+http://jarvis.bet:80/michael1/12345678/34579
+#EXTINF:-1,CANADA: TCM
+http://jarvis.bet:80/michael1/12345678/34578
+#EXTINF:-1,CANADA: TELE LATINO
+http://jarvis.bet:80/michael1/12345678/34577
+#EXTINF:-1,CANADA: TELE QUEBEC
+http://jarvis.bet:80/michael1/12345678/34576
+#EXTINF:-1,CANADA: TELE TOON EAST
+http://jarvis.bet:80/michael1/12345678/34575
+#EXTINF:-1,CANADA: TELE TOON FRENCH
+http://jarvis.bet:80/michael1/12345678/34574
+#EXTINF:-1,CANADA: TELE TOON WEST
+http://jarvis.bet:80/michael1/12345678/34573
+#EXTINF:-1,CANADA: TELEMAGINO
+http://jarvis.bet:80/michael1/12345678/34572
+#EXTINF:-1,CANADA: TFO
+http://jarvis.bet:80/michael1/12345678/34571
+#EXTINF:-1,CANADA: THE WEATHER NETWORK
+http://jarvis.bet:80/michael1/12345678/34570
+#EXTINF:-1,CANADA: TLC CANADA
+http://jarvis.bet:80/michael1/12345678/34569
+#EXTINF:-1,CANADA: TMN 1
+http://jarvis.bet:80/michael1/12345678/34568
+#EXTINF:-1,CANADA: TMN 2
+http://jarvis.bet:80/michael1/12345678/34567
+#EXTINF:-1,CANADA: TMN 3
+http://jarvis.bet:80/michael1/12345678/34566
+#EXTINF:-1,CANADA: TMN 4
+http://jarvis.bet:80/michael1/12345678/34565
+#EXTINF:-1,CANADA: TREEHOUSE
+http://jarvis.bet:80/michael1/12345678/34564
+#EXTINF:-1,CANADA: TSN 1 HD
+http://jarvis.bet:80/michael1/12345678/34563
+#EXTINF:-1,CANADA: TSN 2 HD
+http://jarvis.bet:80/michael1/12345678/34562
+#EXTINF:-1,CANADA: TSN 3 HD
+http://jarvis.bet:80/michael1/12345678/34561
+#EXTINF:-1,CANADA: TSN 4 HD
+http://jarvis.bet:80/michael1/12345678/34560
+#EXTINF:-1,CANADA: TSN 5 HD
+http://jarvis.bet:80/michael1/12345678/34559
+#EXTINF:-1,CANADA: TV5 QUEBEC
+http://jarvis.bet:80/michael1/12345678/34558
+#EXTINF:-1,CANADA: TVA GATINEAU
+http://jarvis.bet:80/michael1/12345678/34557
+#EXTINF:-1,CANADA: TVA MONTREAL
+http://jarvis.bet:80/michael1/12345678/34556
+#EXTINF:-1,CANADA: TVA QUEBEC
+http://jarvis.bet:80/michael1/12345678/34555
+#EXTINF:-1,CANADA: TVA SPORTS
+http://jarvis.bet:80/michael1/12345678/34554
+#EXTINF:-1,CANADA: TVO
+http://jarvis.bet:80/michael1/12345678/34553
+#EXTINF:-1,CANADA: UNIS TV
+http://jarvis.bet:80/michael1/12345678/34552
+#EXTINF:-1,CANADA: V MONTREAL
+http://jarvis.bet:80/michael1/12345678/34551
+#EXTINF:-1,CANADA: V QUEBEC
+http://jarvis.bet:80/michael1/12345678/34550
+#EXTINF:-1,CANADA: VIE
+http://jarvis.bet:80/michael1/12345678/34549
+#EXTINF:-1,CANADA: VISION
+http://jarvis.bet:80/michael1/12345678/34548
+#EXTINF:-1,CANADA: VRAK TV
+http://jarvis.bet:80/michael1/12345678/34547
+#EXTINF:-1,CANADA: W NETWORK
+http://jarvis.bet:80/michael1/12345678/34546
+#EXTINF:-1,CANADA: WFN
+http://jarvis.bet:80/michael1/12345678/34545
+#EXTINF:-1,CANADA: WGN
+http://jarvis.bet:80/michael1/12345678/34544
+#EXTINF:-1,CANADA: Wild TV
+http://jarvis.bet:80/michael1/12345678/34543
+#EXTINF:-1,CANADA: YES TV
+http://jarvis.bet:80/michael1/12345678/34542
+#EXTINF:-1,CANADA: YOOPA
+http://jarvis.bet:80/michael1/12345678/34541
+#EXTINF:-1,CANADA: YTV
+http://jarvis.bet:80/michael1/12345678/34540
+#EXTINF:-1,CANADA: YTV West
+http://jarvis.bet:80/michael1/12345678/34539
+#EXTINF:-1,CANADA: Z TELE
+http://jarvis.bet:80/michael1/12345678/34538
+#EXTINF:-1,CANADA: ZESTE
+http://jarvis.bet:80/michael1/12345678/34537
