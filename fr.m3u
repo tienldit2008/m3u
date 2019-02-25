@@ -1,161 +1,439 @@
 #EXTM3U
-#EXTINF:-1,Tf1 Hd
-http://force102.com:8080/live/rafetabi/13042018/11410.m3u8
-#EXTINF:-1,France O Hd
-http://force102.com:8080/live/rafetabi/13042018/11404.m3u8
-#EXTINF:-1,France 2 Hd
-http://force102.com:8080/live/rafetabi/13042018/11403.m3u8
-#EXTINF:-1,France 24
-http://force102.com:8080/live/rafetabi/13042018/11362.m3u8
-#EXTINF:-1,France 3 Hd
-http://force102.com:8080/live/rafetabi/13042018/11402.m3u8
-#EXTINF:-1,France 4 Hd
-http://force102.com:8080/live/rafetabi/13042018/11401.m3u8
-#EXTINF:-1,France 5
-http://force102.com:8080/live/rafetabi/13042018/11400.m3u8
-#EXTINF:-1,M6 Hd
-http://force102.com:8080/live/rafetabi/13042018/11406.m3u8
-#EXTINF:-1,M6 Music
-http://force102.com:8080/live/rafetabi/13042018/11365.m3u8
-#EXTINF:-1,Rtl9
-http://force102.com:8080/live/rafetabi/13042018/11385.m3u8
-#EXTINF:-1,Syfy Hd
-http://force102.com:8080/live/rafetabi/13042018/11372.m3u8
-#EXTINF:-1,Teva Hd
-http://force102.com:8080/live/rafetabi/13042018/11379.m3u8
-#EXTINF:-1,Tmc
-http://force102.com:8080/live/rafetabi/13042018/11397.m3u8
-#EXTINF:-1,Tv Breitz
-http://force102.com:8080/live/rafetabi/13042018/11374.m3u8
-#EXTINF:-1,W9
-http://force102.com:8080/live/rafetabi/13042018/11375.m3u8
-#EXTINF:-1,C8
-http://force102.com:8080/live/rafetabi/13042018/11360.m3u8
-#EXTINF:-1,13 Eme Rue
-http://force102.com:8080/live/rafetabi/13042018/11348.m3u8
-#EXTINF:-1,6ter Hd
-http://force102.com:8080/live/rafetabi/13042018/11349.m3u8
-#EXTINF:-1,Ab1 Hd
-http://force102.com:8080/live/rafetabi/13042018/11378.m3u8
-#EXTINF:-1,Ab3
-http://force102.com:8080/live/rafetabi/13042018/11351.m3u8
-#EXTINF:-1,Ab Moteurs Hd
-http://force102.com:8080/live/rafetabi/13042018/11350.m3u8
-#EXTINF:-1,Arte Hd
-http://force102.com:8080/live/rafetabi/13042018/11384.m3u8
-#EXTINF:-1,I Tele
-http://force102.com:8080/live/rafetabi/13042018/11364.m3u8
-#EXTINF:-1,L'equipe 21
-http://force102.com:8080/live/rafetabi/13042018/11377.m3u8
-#EXTINF:-1,Mangas
-http://force102.com:8080/live/rafetabi/13042018/11366.m3u8
-#EXTINF:-1,Nrj 12 Hd
-http://force102.com:8080/live/rafetabi/13042018/11391.m3u8
-#EXTINF:-1,Nt 1
-http://force102.com:8080/live/rafetabi/13042018/11389.m3u8
-#EXTINF:-1,Piwi
-http://force102.com:8080/live/rafetabi/13042018/11368.m3u8
-#EXTINF:-1,Chasse Et Peche
-http://force102.com:8080/live/rafetabi/13042018/11359.m3u8
-#EXTINF:-1,Cherie 25 Hd
-http://force102.com:8080/live/rafetabi/13042018/11383.m3u8
-#EXTINF:-1,Comedie Hd
-http://force102.com:8080/live/rafetabi/13042018/11345.m3u8
-#EXTINF:-1,Discovery Science Hd
-http://force102.com:8080/live/rafetabi/13042018/11388.m3u8
-#EXTINF:-1,Disney Channel
-http://force102.com:8080/live/rafetabi/13042018/11361.m3u8
-#EXTINF:-1,Cartoon Network
-http://force102.com:8080/live/rafetabi/13042018/11380.m3u8
-#EXTINF:-1,Disney Xd
-http://force102.com:8080/live/rafetabi/13042018/11387.m3u8
-#EXTINF:-1,Foot 24 Hd
-http://force102.com:8080/live/rafetabi/13042018/11390.m3u8
-#EXTINF:-1,Gulli Hd
-http://force102.com:8080/live/rafetabi/13042018/11363.m3u8
-#EXTINF:-1,Nat Geo Wild
-http://force102.com:8080/live/rafetabi/13042018/11367.m3u8
-#EXTINF:-1,Ocs Choc Hd
-http://force102.com:8080/live/rafetabi/13042018/11382.m3u8
-#EXTINF:-1,Planete Ci Hd
-http://force102.com:8080/live/rafetabi/13042018/11369.m3u8
-#EXTINF:-1,Planete Hd
-http://force102.com:8080/live/rafetabi/13042018/11370.m3u8
-#EXTINF:-1,Rmc Decouverte
-http://force102.com:8080/live/rafetabi/13042018/11371.m3u8
-#EXTINF:-1,Teletoon Hd
-http://force102.com:8080/live/rafetabi/13042018/11373.m3u8
-#EXTINF:-1,Cine Family Hd
-http://force102.com:8080/live/rafetabi/13042018/11392.m3u8
-#EXTINF:-1,Cine Frisson Hd
-http://force102.com:8080/live/rafetabi/13042018/11396.m3u8
-#EXTINF:-1,Cine Premier Hd
-http://force102.com:8080/live/rafetabi/13042018/11386.m3u8
-#EXTINF:-1,Cine Classic
-http://force102.com:8080/live/rafetabi/13042018/11412.m3u8
-#EXTINF:-1,Cine Polar
-http://force102.com:8080/live/rafetabi/13042018/11411.m3u8
-#EXTINF:-1,Canal Hd
-http://force102.com:8080/live/rafetabi/13042018/11353.m3u8
-#EXTINF:-1,Canal J Hd
-http://force102.com:8080/live/rafetabi/13042018/11405.m3u8
-#EXTINF:-1,Canal Series Hd
-http://force102.com:8080/live/rafetabi/13042018/11346.m3u8
-#EXTINF:-1,Canal Cinema Hd
-http://force102.com:8080/live/rafetabi/13042018/11347.m3u8
-#EXTINF:-1,Canal Decale Hd
-http://force102.com:8080/live/rafetabi/13042018/11352.m3u8
-#EXTINF:-1,Canal Play 1
-http://force102.com:8080/live/rafetabi/13042018/11354.m3u8
-#EXTINF:-1,Canal Play 2
-http://force102.com:8080/live/rafetabi/13042018/11355.m3u8
-#EXTINF:-1,Canal Play 3
-http://force102.com:8080/live/rafetabi/13042018/11356.m3u8
-#EXTINF:-1,Canal Play 4
-http://force102.com:8080/live/rafetabi/13042018/11357.m3u8
-#EXTINF:-1,A La Carte 1
-http://force102.com:8080/live/rafetabi/13042018/11399.m3u8
-#EXTINF:-1,A La Carte 2
-http://force102.com:8080/live/rafetabi/13042018/11398.m3u8
-#EXTINF:-1,A La Carte 3
-http://force102.com:8080/live/rafetabi/13042018/11395.m3u8
-#EXTINF:-1,A La Carte 4
-http://force102.com:8080/live/rafetabi/13042018/11394.m3u8
-#EXTINF:-1,A La Carte 5
-http://force102.com:8080/live/rafetabi/13042018/11393.m3u8
-#EXTINF:-1,A La Carte 6
-http://force102.com:8080/live/rafetabi/13042018/11376.m3u8
-#EXTINF:-1,A La Carte 7
-http://force102.com:8080/live/rafetabi/13042018/11408.m3u8
-#EXTINF:-1,A La Carte 8
-http://force102.com:8080/live/rafetabi/13042018/11381.m3u8
-#EXTINF:-1,A La Carte 9
-http://force102.com:8080/live/rafetabi/13042018/11409.m3u8
-#EXTINF:-1,Canal Sport Hd
-http://force102.com:8080/live/rafetabi/13042018/11358.m3u8
-#EXTINF:-1,Infosport
-http://force102.com:8080/live/rafetabi/13042018/11407.m3u8
-#EXTINF:-1,Eurosport 1
-http://force102.com:8080/live/rafetabi/13042018/10903.m3u8
-#EXTINF:-1,Eurosport 2
-http://force102.com:8080/live/rafetabi/13042018/10902.m3u8
-#EXTINF:-1,Sfr Sport 1 Hd
-http://force102.com:8080/live/rafetabi/13042018/11344.m3u8
-#EXTINF:-1,Sfr Sport 2 Hd
-http://force102.com:8080/live/rafetabi/13042018/11343.m3u8
-#EXTINF:-1,Sfr Sport 3 Hd
-http://force102.com:8080/live/rafetabi/13042018/11342.m3u8
-#EXTINF:-1,Bein Sport 1 Fr
-http://force102.com:8080/live/rafetabi/13042018/10906.m3u8
-#EXTINF:-1,Bein Sport 2 Fr
-http://force102.com:8080/live/rafetabi/13042018/10905.m3u8
-#EXTINF:-1,Bein Sport 3 Fr
-http://force102.com:8080/live/rafetabi/13042018/10904.m3u8
-#EXTINF:-1,Beinsport 4 Max
-http://force102.com:8080/live/rafetabi/13042018/11341.m3u8
-#EXTINF:-1,Beinsport 5 Max
-http://force102.com:8080/live/rafetabi/13042018/11340.m3u8
-#EXTINF:-1,Beinsport 6 Max
-http://force102.com:8080/live/rafetabi/13042018/11339.m3u8
-#EXTINF:-1,Beinsport 7 Max
-http://force102.com:8080/live/rafetabi/13042018/11338.m3u8
+#EXTINF:-1,? La Carte 1 HD
+http://p4.giffy.be:8080/live/sandy/1234/96762.m3u8
+#EXTINF:-1,? La Carte 1 HD
+http://p4.giffy.be:8080/live/sandy/1234/96724.m3u8
+#EXTINF:-1,? La Carte 1 HD
+http://p4.giffy.be:8080/live/sandy/1234/96651.m3u8
+#EXTINF:-1,? La Carte 2 HD
+http://p4.giffy.be:8080/live/sandy/1234/96761.m3u8
+#EXTINF:-1,? La Carte 2 HD
+http://p4.giffy.be:8080/live/sandy/1234/96723.m3u8
+#EXTINF:-1,? La Carte 2 HD
+http://p4.giffy.be:8080/live/sandy/1234/96650.m3u8
+#EXTINF:-1,? La Carte 3 HD
+http://p4.giffy.be:8080/live/sandy/1234/96722.m3u8
+#EXTINF:-1,? La Carte 3 HD
+http://p4.giffy.be:8080/live/sandy/1234/96649.m3u8
+#EXTINF:-1,? La Carte 4 HD
+http://p4.giffy.be:8080/live/sandy/1234/96759.m3u8
+#EXTINF:-1,? La Carte 4 HD
+http://p4.giffy.be:8080/live/sandy/1234/96721.m3u8
+#EXTINF:-1,? La Carte 4 HD
+http://p4.giffy.be:8080/live/sandy/1234/96648.m3u8
+#EXTINF:-1,? La Carte 5 HD
+http://p4.giffy.be:8080/live/sandy/1234/96758.m3u8
+#EXTINF:-1,? La Carte 5 HD
+http://p4.giffy.be:8080/live/sandy/1234/96720.m3u8
+#EXTINF:-1,? La Carte 5 HD
+http://p4.giffy.be:8080/live/sandy/1234/96647.m3u8
+#EXTINF:-1,? La Carte 6 HD
+http://p4.giffy.be:8080/live/sandy/1234/96757.m3u8
+#EXTINF:-1,? La Carte 6 HD
+http://p4.giffy.be:8080/live/sandy/1234/96719.m3u8
+#EXTINF:-1,? La Carte 6 HD
+http://p4.giffy.be:8080/live/sandy/1234/96646.m3u8
+#EXTINF:-1,? La Carte 7 HD
+http://p4.giffy.be:8080/live/sandy/1234/96756.m3u8
+#EXTINF:-1,? La Carte 7 HD
+http://p4.giffy.be:8080/live/sandy/1234/96718.m3u8
+#EXTINF:-1,? La Carte 7 HD
+http://p4.giffy.be:8080/live/sandy/1234/96645.m3u8
+#EXTINF:-1,?quidia HD
+http://p4.giffy.be:8080/live/sandy/1234/96752.m3u8
+#EXTINF:-1,?quidia HD
+http://p4.giffy.be:8080/live/sandy/1234/96714.m3u8
+#EXTINF:-1,?quidia HD
+http://p4.giffy.be:8080/live/sandy/1234/96593.m3u8
+#EXTINF:-1,?quipe HD
+http://p4.giffy.be:8080/live/sandy/1234/96754.m3u8
+#EXTINF:-1,?quipe HD
+http://p4.giffy.be:8080/live/sandy/1234/96716.m3u8
+#EXTINF:-1,?quipe HD
+http://p4.giffy.be:8080/live/sandy/1234/96602.m3u8
+#EXTINF:-1,13?me Rue HD
+http://p4.giffy.be:8080/live/sandy/1234/96737.m3u8
+#EXTINF:-1,13?me Rue HD
+http://p4.giffy.be:8080/live/sandy/1234/96667.m3u8
+#EXTINF:-1,6Ter HD
+http://p4.giffy.be:8080/live/sandy/1234/96693.m3u8
+#EXTINF:-1,AB Moteurs HD
+http://p4.giffy.be:8080/live/sandy/1234/96596.m3u8
+#EXTINF:-1,AB1 HD
+http://p4.giffy.be:8080/live/sandy/1234/96570.m3u8
+#EXTINF:-1,AB3 HD
+http://p4.giffy.be:8080/live/sandy/1234/96569.m3u8
+#EXTINF:-1,Action HD
+http://p4.giffy.be:8080/live/sandy/1234/96665.m3u8
+#EXTINF:-1,Animaux HD
+http://p4.giffy.be:8080/live/sandy/1234/96579.m3u8
+#EXTINF:-1,Arte HD
+http://p4.giffy.be:8080/live/sandy/1234/96701.m3u8
+#EXTINF:-1,BeIN Sport 1 Fr HD
+http://p4.giffy.be:8080/live/sandy/1234/96619.m3u8
+#EXTINF:-1,BeIN Sport 2 Fr HD
+http://p4.giffy.be:8080/live/sandy/1234/96618.m3u8
+#EXTINF:-1,BeIN Sport 3 Fr HD
+http://p4.giffy.be:8080/live/sandy/1234/96617.m3u8
+#EXTINF:-1,BeIN Sport Max FR 10 HD
+http://p4.giffy.be:8080/live/sandy/1234/96610.m3u8
+#EXTINF:-1,BeIN Sport Max FR 4 HD
+http://p4.giffy.be:8080/live/sandy/1234/96616.m3u8
+#EXTINF:-1,BeIN Sport Max FR 5 HD
+http://p4.giffy.be:8080/live/sandy/1234/96615.m3u8
+#EXTINF:-1,BeIN Sport Max FR 6 HD
+http://p4.giffy.be:8080/live/sandy/1234/96614.m3u8
+#EXTINF:-1,BeIN Sport Max FR 7 HD
+http://p4.giffy.be:8080/live/sandy/1234/96613.m3u8
+#EXTINF:-1,BeIN Sport Max FR 8 HD
+http://p4.giffy.be:8080/live/sandy/1234/96612.m3u8
+#EXTINF:-1,BeIN Sport Max FR 9 HD
+http://p4.giffy.be:8080/live/sandy/1234/96611.m3u8
+#EXTINF:-1,Bet HD
+http://p4.giffy.be:8080/live/sandy/1234/96565.m3u8
+#EXTINF:-1,BFM HD
+http://p4.giffy.be:8080/live/sandy/1234/96626.m3u8
+#EXTINF:-1,BFM Sport HD
+http://p4.giffy.be:8080/live/sandy/1234/96625.m3u8
+#EXTINF:-1,Boing HD
+http://p4.giffy.be:8080/live/sandy/1234/96631.m3u8
+#EXTINF:-1,Boomerang Fr HD
+http://p4.giffy.be:8080/live/sandy/1234/96633.m3u8
+#EXTINF:-1,C 8 HD
+http://p4.giffy.be:8080/live/sandy/1234/96576.m3u8
+#EXTINF:-1,C8 HD
+http://p4.giffy.be:8080/live/sandy/1234/96700.m3u8
+#EXTINF:-1,Canal Cin?ma HD
+http://p4.giffy.be:8080/live/sandy/1234/96783.m3u8
+#EXTINF:-1,Canal Cin?ma HD
+http://p4.giffy.be:8080/live/sandy/1234/96745.m3u8
+#EXTINF:-1,Canal Cin?ma HD
+http://p4.giffy.be:8080/live/sandy/1234/96686.m3u8
+#EXTINF:-1,Canal Decale HD
+http://p4.giffy.be:8080/live/sandy/1234/96685.m3u8
+#EXTINF:-1,Canal Emotion HD
+http://p4.giffy.be:8080/live/sandy/1234/96681.m3u8
+#EXTINF:-1,Canal Family HD
+http://p4.giffy.be:8080/live/sandy/1234/96640.m3u8
+#EXTINF:-1,Canal HD
+http://p4.giffy.be:8080/live/sandy/1234/96702.m3u8
+#EXTINF:-1,Canal Junior HD
+http://p4.giffy.be:8080/live/sandy/1234/96637.m3u8
+#EXTINF:-1,Canal News HD
+http://p4.giffy.be:8080/live/sandy/1234/96622.m3u8
+#EXTINF:-1,Canal Premier HD
+http://p4.giffy.be:8080/live/sandy/1234/96683.m3u8
+#EXTINF:-1,Canal S?ries HD
+http://p4.giffy.be:8080/live/sandy/1234/96684.m3u8
+#EXTINF:-1,Canal Sport HD
+http://p4.giffy.be:8080/live/sandy/1234/96621.m3u8
+#EXTINF:-1,Cartoon Network Fr HD
+http://p4.giffy.be:8080/live/sandy/1234/96635.m3u8
+#EXTINF:-1,Chasse et P?che HD
+http://p4.giffy.be:8080/live/sandy/1234/96750.m3u8
+#EXTINF:-1,Chasse et P?che HD
+http://p4.giffy.be:8080/live/sandy/1234/96712.m3u8
+#EXTINF:-1,Chasse et P?che HD
+http://p4.giffy.be:8080/live/sandy/1234/96577.m3u8
+#EXTINF:-1,Cherie 25 HD
+http://p4.giffy.be:8080/live/sandy/1234/96690.m3u8
+#EXTINF:-1,Cin? Classic HD
+http://p4.giffy.be:8080/live/sandy/1234/96780.m3u8
+#EXTINF:-1,Cin? Classic HD
+http://p4.giffy.be:8080/live/sandy/1234/96742.m3u8
+#EXTINF:-1,Cin? Classic HD
+http://p4.giffy.be:8080/live/sandy/1234/96680.m3u8
+#EXTINF:-1,Cin? Famiz HD
+http://p4.giffy.be:8080/live/sandy/1234/96779.m3u8
+#EXTINF:-1,Cin? Famiz HD
+http://p4.giffy.be:8080/live/sandy/1234/96741.m3u8
+#EXTINF:-1,Cin? Famiz HD
+http://p4.giffy.be:8080/live/sandy/1234/96679.m3u8
+#EXTINF:-1,Cin? Frisson HD
+http://p4.giffy.be:8080/live/sandy/1234/96781.m3u8
+#EXTINF:-1,Cin? Frisson HD
+http://p4.giffy.be:8080/live/sandy/1234/96743.m3u8
+#EXTINF:-1,Cin? Frisson HD
+http://p4.giffy.be:8080/live/sandy/1234/96682.m3u8
+#EXTINF:-1,Cin? Fx HD
+http://p4.giffy.be:8080/live/sandy/1234/96678.m3u8
+#EXTINF:-1,Cin? Polar HD
+http://p4.giffy.be:8080/live/sandy/1234/96777.m3u8
+#EXTINF:-1,Cin? Polar HD
+http://p4.giffy.be:8080/live/sandy/1234/96739.m3u8
+#EXTINF:-1,Cin? Polar HD
+http://p4.giffy.be:8080/live/sandy/1234/96677.m3u8
+#EXTINF:-1,Com?die  HD
+http://p4.giffy.be:8080/live/sandy/1234/96748.m3u8
+#EXTINF:-1,Com?die  HD
+http://p4.giffy.be:8080/live/sandy/1234/96710.m3u8
+#EXTINF:-1,Com?die  HD
+http://p4.giffy.be:8080/live/sandy/1234/96571.m3u8
+#EXTINF:-1,CStar HD
+http://p4.giffy.be:8080/live/sandy/1234/96695.m3u8
+#EXTINF:-1,Discovery Fr HD
+http://p4.giffy.be:8080/live/sandy/1234/96590.m3u8
+#EXTINF:-1,Discovery Science Fr HD
+http://p4.giffy.be:8080/live/sandy/1234/96589.m3u8
+#EXTINF:-1,Disney Channel HD
+http://p4.giffy.be:8080/live/sandy/1234/96642.m3u8
+#EXTINF:-1,Disney Cinema HD
+http://p4.giffy.be:8080/live/sandy/1234/96643.m3u8
+#EXTINF:-1,Disney Junior FR HD
+http://p4.giffy.be:8080/live/sandy/1234/96638.m3u8
+#EXTINF:-1,Disney XD HD
+http://p4.giffy.be:8080/live/sandy/1234/96632.m3u8
+#EXTINF:-1,E! Fr HD
+http://p4.giffy.be:8080/live/sandy/1234/96564.m3u8
+#EXTINF:-1,Elle Girl HD
+http://p4.giffy.be:8080/live/sandy/1234/96566.m3u8
+#EXTINF:-1,Euronews HD
+http://p4.giffy.be:8080/live/sandy/1234/96609.m3u8
+#EXTINF:-1,EuroSport Fr 1 HD
+http://p4.giffy.be:8080/live/sandy/1234/96608.m3u8
+#EXTINF:-1,EuroSport Fr 2 HD
+http://p4.giffy.be:8080/live/sandy/1234/96607.m3u8
+#EXTINF:-1,Foot HD
+http://p4.giffy.be:8080/live/sandy/1234/96595.m3u8
+#EXTINF:-1,France 2 HD
+http://p4.giffy.be:8080/live/sandy/1234/96707.m3u8
+#EXTINF:-1,France 24 HD
+http://p4.giffy.be:8080/live/sandy/1234/96620.m3u8
+#EXTINF:-1,France 3 HD
+http://p4.giffy.be:8080/live/sandy/1234/96706.m3u8
+#EXTINF:-1,France 4 HD
+http://p4.giffy.be:8080/live/sandy/1234/96705.m3u8
+#EXTINF:-1,France 5 HD
+http://p4.giffy.be:8080/live/sandy/1234/96704.m3u8
+#EXTINF:-1,France O HD.
+http://p4.giffy.be:8080/live/sandy/1234/96703.m3u8
+#EXTINF:-1,Game One HD
+http://p4.giffy.be:8080/live/sandy/1234/96641.m3u8
+#EXTINF:-1,Girondins Tv HD
+http://p4.giffy.be:8080/live/sandy/1234/96563.m3u8
+#EXTINF:-1,Golf  FR HD
+http://p4.giffy.be:8080/live/sandy/1234/96599.m3u8
+#EXTINF:-1,Golf Channel HD
+http://p4.giffy.be:8080/live/sandy/1234/96598.m3u8
+#EXTINF:-1,Gong Tv HD
+http://p4.giffy.be:8080/live/sandy/1234/96664.m3u8
+#EXTINF:-1,Gulli HD
+http://p4.giffy.be:8080/live/sandy/1234/96644.m3u8
+#EXTINF:-1,Histoire Fr HD
+http://p4.giffy.be:8080/live/sandy/1234/96585.m3u8
+#EXTINF:-1,i24 News HD
+http://p4.giffy.be:8080/live/sandy/1234/96623.m3u8
+#EXTINF:-1,Infosport HD
+http://p4.giffy.be:8080/live/sandy/1234/96600.m3u8
+#EXTINF:-1,J-One HD
+http://p4.giffy.be:8080/live/sandy/1234/96562.m3u8
+#EXTINF:-1,L'?quipe HD
+http://p4.giffy.be:8080/live/sandy/1234/96753.m3u8
+#EXTINF:-1,L'?quipe HD
+http://p4.giffy.be:8080/live/sandy/1234/96715.m3u8
+#EXTINF:-1,L'?quipe HD
+http://p4.giffy.be:8080/live/sandy/1234/96601.m3u8
+#EXTINF:-1,LCi HD
+http://p4.giffy.be:8080/live/sandy/1234/96624.m3u8
+#EXTINF:-1,M6 HD
+http://p4.giffy.be:8080/live/sandy/1234/96699.m3u8
+#EXTINF:-1,M6 Music HD
+http://p4.giffy.be:8080/live/sandy/1234/96561.m3u8
+#EXTINF:-1,Mangas HD
+http://p4.giffy.be:8080/live/sandy/1234/96639.m3u8
+#EXTINF:-1,MotorSport Tv HD
+http://p4.giffy.be:8080/live/sandy/1234/96597.m3u8
+#EXTINF:-1,National Geo Wild FR HD
+http://p4.giffy.be:8080/live/sandy/1234/96591.m3u8
+#EXTINF:-1,National Geographic FR HD
+http://p4.giffy.be:8080/live/sandy/1234/96592.m3u8
+#EXTINF:-1,Nickelodeon FR HD
+http://p4.giffy.be:8080/live/sandy/1234/96634.m3u8
+#EXTINF:-1,Nickelodeon Junior FR HD
+http://p4.giffy.be:8080/live/sandy/1234/96636.m3u8
+#EXTINF:-1,NrJ 12 HD
+http://p4.giffy.be:8080/live/sandy/1234/96696.m3u8
+#EXTINF:-1,Nrj Hits HD
+http://p4.giffy.be:8080/live/sandy/1234/96560.m3u8
+#EXTINF:-1,Nt 1 HD
+http://p4.giffy.be:8080/live/sandy/1234/96559.m3u8
+#EXTINF:-1,NT1 HD
+http://p4.giffy.be:8080/live/sandy/1234/96558.m3u8
+#EXTINF:-1,Numero 23 HD
+http://p4.giffy.be:8080/live/sandy/1234/96692.m3u8
+#EXTINF:-1,Ocs Choc HD
+http://p4.giffy.be:8080/live/sandy/1234/96676.m3u8
+#EXTINF:-1,Ocs City HD
+http://p4.giffy.be:8080/live/sandy/1234/96675.m3u8
+#EXTINF:-1,Ocs Geant HD
+http://p4.giffy.be:8080/live/sandy/1234/96674.m3u8
+#EXTINF:-1,OCS GO Cin? 1 HD
+http://p4.giffy.be:8080/live/sandy/1234/96774.m3u8
+#EXTINF:-1,OCS GO Cin? 1 HD
+http://p4.giffy.be:8080/live/sandy/1234/96736.m3u8
+#EXTINF:-1,OCS GO Cin? 1 HD
+http://p4.giffy.be:8080/live/sandy/1234/96663.m3u8
+#EXTINF:-1,OCS GO Cin? 2 HD
+http://p4.giffy.be:8080/live/sandy/1234/96773.m3u8
+#EXTINF:-1,OCS GO Cin? 2 HD
+http://p4.giffy.be:8080/live/sandy/1234/96735.m3u8
+#EXTINF:-1,OCS GO Cin? 2 HD
+http://p4.giffy.be:8080/live/sandy/1234/96662.m3u8
+#EXTINF:-1,OCS GO Cin? 3 HD
+http://p4.giffy.be:8080/live/sandy/1234/96772.m3u8
+#EXTINF:-1,OCS GO Cin? 3 HD
+http://p4.giffy.be:8080/live/sandy/1234/96734.m3u8
+#EXTINF:-1,OCS GO Cin? 3 HD
+http://p4.giffy.be:8080/live/sandy/1234/96661.m3u8
+#EXTINF:-1,OCS GO Cin? 4 HD
+http://p4.giffy.be:8080/live/sandy/1234/96733.m3u8
+#EXTINF:-1,OCS GO Cin? 4 HD
+http://p4.giffy.be:8080/live/sandy/1234/96660.m3u8
+#EXTINF:-1,OCS GO Cin? 5 HD
+http://p4.giffy.be:8080/live/sandy/1234/96770.m3u8
+#EXTINF:-1,OCS GO Cin? 5 HD
+http://p4.giffy.be:8080/live/sandy/1234/96732.m3u8
+#EXTINF:-1,OCS GO Cin? 5 HD
+http://p4.giffy.be:8080/live/sandy/1234/96659.m3u8
+#EXTINF:-1,Ocs Max HD
+http://p4.giffy.be:8080/live/sandy/1234/96673.m3u8
+#EXTINF:-1,OL Tv HD
+http://p4.giffy.be:8080/live/sandy/1234/96557.m3u8
+#EXTINF:-1,Orange Cin? 1 HD
+http://p4.giffy.be:8080/live/sandy/1234/96658.m3u8
+#EXTINF:-1,Orange Cin? 2 HD
+http://p4.giffy.be:8080/live/sandy/1234/96768.m3u8
+#EXTINF:-1,Orange Cin? 2 HD
+http://p4.giffy.be:8080/live/sandy/1234/96730.m3u8
+#EXTINF:-1,Orange Cin? 2 HD
+http://p4.giffy.be:8080/live/sandy/1234/96657.m3u8
+#EXTINF:-1,Orange Cin? 3 HD
+http://p4.giffy.be:8080/live/sandy/1234/96767.m3u8
+#EXTINF:-1,Orange Cin? 3 HD
+http://p4.giffy.be:8080/live/sandy/1234/96729.m3u8
+#EXTINF:-1,Orange Cin? 3 HD
+http://p4.giffy.be:8080/live/sandy/1234/96656.m3u8
+#EXTINF:-1,Orange Cin? 4 HD
+http://p4.giffy.be:8080/live/sandy/1234/96766.m3u8
+#EXTINF:-1,Orange Cin? 4 HD
+http://p4.giffy.be:8080/live/sandy/1234/96728.m3u8
+#EXTINF:-1,Orange Cin? 4 HD
+http://p4.giffy.be:8080/live/sandy/1234/96655.m3u8
+#EXTINF:-1,Orange Cin? 5 HD
+http://p4.giffy.be:8080/live/sandy/1234/96765.m3u8
+#EXTINF:-1,Orange Cin? 5 HD
+http://p4.giffy.be:8080/live/sandy/1234/96727.m3u8
+#EXTINF:-1,Orange Cin? 5 HD
+http://p4.giffy.be:8080/live/sandy/1234/96654.m3u8
+#EXTINF:-1,Orange Cin? 6 HD
+http://p4.giffy.be:8080/live/sandy/1234/96726.m3u8
+#EXTINF:-1,Orange Cin? 6 HD
+http://p4.giffy.be:8080/live/sandy/1234/96653.m3u8
+#EXTINF:-1,Orange Cin? 8 HD
+http://p4.giffy.be:8080/live/sandy/1234/96725.m3u8
+#EXTINF:-1,Orange Cin? 8 HD
+http://p4.giffy.be:8080/live/sandy/1234/96652.m3u8
+#EXTINF:-1,Paramount Fr HD
+http://p4.giffy.be:8080/live/sandy/1234/96666.m3u8
+#EXTINF:-1,Paris Premier HD
+http://p4.giffy.be:8080/live/sandy/1234/96689.m3u8
+#EXTINF:-1,Piwi HD
+http://p4.giffy.be:8080/live/sandy/1234/96628.m3u8
+#EXTINF:-1,Planet AE HD
+http://p4.giffy.be:8080/live/sandy/1234/96587.m3u8
+#EXTINF:-1,Planet CI HD
+http://p4.giffy.be:8080/live/sandy/1234/96586.m3u8
+#EXTINF:-1,Planet HD
+http://p4.giffy.be:8080/live/sandy/1234/96588.m3u8
+#EXTINF:-1,RMC Decouverte HD
+http://p4.giffy.be:8080/live/sandy/1234/96691.m3u8
+#EXTINF:-1,Rouge HD
+http://p4.giffy.be:8080/live/sandy/1234/96555.m3u8
+#EXTINF:-1,RTL9 FR HD
+http://p4.giffy.be:8080/live/sandy/1234/96568.m3u8
+#EXTINF:-1,RTL9 HD
+http://p4.giffy.be:8080/live/sandy/1234/96567.m3u8
+#EXTINF:-1,S?rie Club HD
+http://p4.giffy.be:8080/live/sandy/1234/96776.m3u8
+#EXTINF:-1,S?rie Club HD
+http://p4.giffy.be:8080/live/sandy/1234/96738.m3u8
+#EXTINF:-1,S?rie Club HD
+http://p4.giffy.be:8080/live/sandy/1234/96671.m3u8
+#EXTINF:-1,Science & Vie Tv HD
+http://p4.giffy.be:8080/live/sandy/1234/96580.m3u8
+#EXTINF:-1,Seasons HD
+http://p4.giffy.be:8080/live/sandy/1234/96578.m3u8
+#EXTINF:-1,Serie Club
+http://p4.giffy.be:8080/live/sandy/1234/96672.m3u8
+#EXTINF:-1,SFR Sport 1 HD
+http://p4.giffy.be:8080/live/sandy/1234/96606.m3u8
+#EXTINF:-1,SFR Sport 2 HD
+http://p4.giffy.be:8080/live/sandy/1234/96605.m3u8
+#EXTINF:-1,SFR Sport 3 HD
+http://p4.giffy.be:8080/live/sandy/1234/96604.m3u8
+#EXTINF:-1,SFR Sport 5 HD
+http://p4.giffy.be:8080/live/sandy/1234/96603.m3u8
+#EXTINF:-1,Sundance Tv HD
+http://p4.giffy.be:8080/live/sandy/1234/96688.m3u8
+#EXTINF:-1,Syfy Fr HD
+http://p4.giffy.be:8080/live/sandy/1234/96670.m3u8
+#EXTINF:-1,Syfy HD FR
+http://p4.giffy.be:8080/live/sandy/1234/96669.m3u8
+#EXTINF:-1,T?l?Toon HD
+http://p4.giffy.be:8080/live/sandy/1234/96755.m3u8
+#EXTINF:-1,T?l?Toon HD
+http://p4.giffy.be:8080/live/sandy/1234/96717.m3u8
+#EXTINF:-1,T?l?Toon HD
+http://p4.giffy.be:8080/live/sandy/1234/96629.m3u8
+#EXTINF:-1,T?va HD
+http://p4.giffy.be:8080/live/sandy/1234/96749.m3u8
+#EXTINF:-1,T?va HD
+http://p4.giffy.be:8080/live/sandy/1234/96711.m3u8
+#EXTINF:-1,T?va HD
+http://p4.giffy.be:8080/live/sandy/1234/96572.m3u8
+#EXTINF:-1,TCM Cinema HD
+http://p4.giffy.be:8080/live/sandy/1234/96668.m3u8
+#EXTINF:-1,Teva FR HD
+http://p4.giffy.be:8080/live/sandy/1234/96554.m3u8
+#EXTINF:-1,TF1 HD
+http://p4.giffy.be:8080/live/sandy/1234/96708.m3u8
+#EXTINF:-1,TF1 S?ries Films HD
+http://p4.giffy.be:8080/live/sandy/1234/96784.m3u8
+#EXTINF:-1,TF1 S?ries Films HD
+http://p4.giffy.be:8080/live/sandy/1234/96746.m3u8
+#EXTINF:-1,TF1 S?ries Films HD
+http://p4.giffy.be:8080/live/sandy/1234/96694.m3u8
+#EXTINF:-1,TFX HD
+http://p4.giffy.be:8080/live/sandy/1234/96697.m3u8
+#EXTINF:-1,Tiji HD
+http://p4.giffy.be:8080/live/sandy/1234/96630.m3u8
+#EXTINF:-1,TMC Fr HD
+http://p4.giffy.be:8080/live/sandy/1234/96698.m3u8
+#EXTINF:-1,Toute l'Histoire HD
+http://p4.giffy.be:8080/live/sandy/1234/96584.m3u8
+#EXTINF:-1,Tr?k HD
+http://p4.giffy.be:8080/live/sandy/1234/96751.m3u8
+#EXTINF:-1,Tr?k HD
+http://p4.giffy.be:8080/live/sandy/1234/96713.m3u8
+#EXTINF:-1,Tr?k HD
+http://p4.giffy.be:8080/live/sandy/1234/96583.m3u8
+#EXTINF:-1,Trace Sport Stars HD
+http://p4.giffy.be:8080/live/sandy/1234/96594.m3u8
+#EXTINF:-1,TV Breizh HD
+http://p4.giffy.be:8080/live/sandy/1234/96687.m3u8
+#EXTINF:-1,TV5 Monde Europe HD
+http://p4.giffy.be:8080/live/sandy/1234/96574.m3u8
+#EXTINF:-1,TV5 Monde HD
+http://p4.giffy.be:8080/live/sandy/1234/96573.m3u8
+#EXTINF:-1,Ushuaia Tv HD
+http://p4.giffy.be:8080/live/sandy/1234/96581.m3u8
+#EXTINF:-1,Voyage HD
+http://p4.giffy.be:8080/live/sandy/1234/96582.m3u8
+#EXTINF:-1,W?o Tv HD
+http://p4.giffy.be:8080/live/sandy/1234/96747.m3u8
+#EXTINF:-1,W?o Tv HD
+http://p4.giffy.be:8080/live/sandy/1234/96709.m3u8
+#EXTINF:-1,W?o Tv HD
+http://p4.giffy.be:8080/live/sandy/1234/96556.m3u8
+#EXTINF:-1,W9 HD
+http://p4.giffy.be:8080/live/sandy/1234/96575.m3u8
