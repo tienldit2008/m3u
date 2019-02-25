@@ -1,181 +1,165 @@
 #EXTM3U
-#EXTINF:-1,RTP 1
-http://linux-app.tv:6204/yous/123/8826
-#EXTINF:-1,RTP 2
-http://linux-app.tv:6204/yous/123/8825
-#EXTINF:-1,RTP 3
-http://linux-app.tv:6204/yous/123/8824
-#EXTINF:-1,RTP Acores
-http://linux-app.tv:6204/yous/123/8823
-#EXTINF:-1,RTP Ãfrica
-http://linux-app.tv:6204/yous/123/8822
-#EXTINF:-1,RTP Madeira
-http://linux-app.tv:6204/yous/123/8821
-#EXTINF:-1,RTP Memoria
-http://linux-app.tv:6204/yous/123/8820
-#EXTINF:-1,SIC
-http://linux-app.tv:6204/yous/123/8819
-#EXTINF:-1,SIC Caras
-http://linux-app.tv:6204/yous/123/8818
-#EXTINF:-1,SIC HD
-http://linux-app.tv:6204/yous/123/8817
-#EXTINF:-1,SIC K
-http://linux-app.tv:6204/yous/123/8816
-#EXTINF:-1,SIC Kids HD
-http://linux-app.tv:6204/yous/123/8815
-#EXTINF:-1,SIC Mulher
-http://linux-app.tv:6204/yous/123/8814
-#EXTINF:-1,SIC Noticias
-http://linux-app.tv:6204/yous/123/8813
-#EXTINF:-1,SIC Noticias HD
-http://linux-app.tv:6204/yous/123/8812
-#EXTINF:-1,SIC Radical
-http://linux-app.tv:6204/yous/123/8811
-#EXTINF:-1,SPORT TV
-http://linux-app.tv:6204/yous/123/8810
-#EXTINF:-1,SPORT TV   HD
-http://linux-app.tv:6204/yous/123/8809
-#EXTINF:-1,SPORTING TV
-http://linux-app.tv:6204/yous/123/8808
-#EXTINF:-1,SPORTTV 1 HD
-http://linux-app.tv:6204/yous/123/8807
-#EXTINF:-1,SPORTTV 1 SD
-http://linux-app.tv:6204/yous/123/8806
-#EXTINF:-1,SPORTTV 2 HD
-http://linux-app.tv:6204/yous/123/8805
-#EXTINF:-1,SPORTTV 2 SD
-http://linux-app.tv:6204/yous/123/8804
-#EXTINF:-1,SPORTTV 3 HD
-http://linux-app.tv:6204/yous/123/8803
-#EXTINF:-1,SPORTTV 3 SD
-http://linux-app.tv:6204/yous/123/8802
-#EXTINF:-1,SPORTTV 4 HD
-http://linux-app.tv:6204/yous/123/8801
-#EXTINF:-1,SPORTTV 5 HD
-http://linux-app.tv:6204/yous/123/8800
-#EXTINF:-1,EUROSPORT 1
-http://linux-app.tv:6204/yous/123/8853
-#EXTINF:-1,EUROSPORT 2
-http://linux-app.tv:6204/yous/123/8852
-#EXTINF:-1,EUROSPORT NEWS
-http://linux-app.tv:6204/yous/123/8850
-#EXTINF:-1,EuroSport 2 XTRA HD
-http://linux-app.tv:6204/yous/123/8851
-#EXTINF:-1,BTV 1 HD
-http://linux-app.tv:6204/yous/123/8867
-#EXTINF:-1,Caca & Pesca
-http://linux-app.tv:6204/yous/123/8866
-#EXTINF:-1,Canal Historia
-http://linux-app.tv:6204/yous/123/8865
-#EXTINF:-1,CANAL PANDA
-http://linux-app.tv:6204/yous/123/8864
-#EXTINF:-1,Cancao Nova
-http://linux-app.tv:6204/yous/123/8863
-#EXTINF:-1,TVCINE 1 HD
-http://linux-app.tv:6204/yous/123/8795
-#EXTINF:-1,TVCINE 2 HD
-http://linux-app.tv:6204/yous/123/8794
-#EXTINF:-1,TVCINE 3 HD
-http://linux-app.tv:6204/yous/123/8793
-#EXTINF:-1,TVCINE 4 HD
-http://linux-app.tv:6204/yous/123/8792
-#EXTINF:-1,TVE Internacional
-http://linux-app.tv:6204/yous/123/8791
-#EXTINF:-1,TVI
-http://linux-app.tv:6204/yous/123/8790
-#EXTINF:-1,Tvi 24
-http://linux-app.tv:6204/yous/123/8789
-#EXTINF:-1,TVI FICCAO
-http://linux-app.tv:6204/yous/123/8788
-#EXTINF:-1,TVI REALITY
-http://linux-app.tv:6204/yous/123/8787
-#EXTINF:-1,TV Globo Premium
-http://linux-app.tv:6204/yous/123/8796
-#EXTINF:-1,Odisseia
-http://linux-app.tv:6204/yous/123/8830
-#EXTINF:-1,Hollywood HD
-http://linux-app.tv:6204/yous/123/8839
-#EXTINF:-1,24 Kitchen HD
-http://linux-app.tv:6204/yous/123/8876
-#EXTINF:-1,A&E
-http://linux-app.tv:6204/yous/123/8875
-#EXTINF:-1,ABOLA TV
-http://linux-app.tv:6204/yous/123/8874
-#EXTINF:-1,Afro Music
-http://linux-app.tv:6204/yous/123/8873
-#EXTINF:-1,AXN HD
-http://linux-app.tv:6204/yous/123/8871
-#EXTINF:-1,AXN WHITE
-http://linux-app.tv:6204/yous/123/8870
-#EXTINF:-1,AXN BLACK HD
-http://linux-app.tv:6204/yous/123/8872
-#EXTINF:-1,Biggs
-http://linux-app.tv:6204/yous/123/8868
-#EXTINF:-1,CBS Reality
-http://linux-app.tv:6204/yous/123/8861
-#EXTINF:-1,CINEMUNDO
-http://linux-app.tv:6204/yous/123/8860
-#EXTINF:-1,CMTV
-http://linux-app.tv:6204/yous/123/8859
-#EXTINF:-1,E! Entertaunment
-http://linux-app.tv:6204/yous/123/8855
-#EXTINF:-1,EUroNews
-http://linux-app.tv:6204/yous/123/8854
-#EXTINF:-1,FOX COMEDY
-http://linux-app.tv:6204/yous/123/8849
-#EXTINF:-1,FOX Crime HD
-http://linux-app.tv:6204/yous/123/8848
-#EXTINF:-1,FOX HD
-http://linux-app.tv:6204/yous/123/8847
-#EXTINF:-1,Fox Life HD
-http://linux-app.tv:6204/yous/123/8846
-#EXTINF:-1,FOX Movies
-http://linux-app.tv:6204/yous/123/8845
-#EXTINF:-1,Fuel TV
-http://linux-app.tv:6204/yous/123/8844
-#EXTINF:-1,FX
-http://linux-app.tv:6204/yous/123/8843
-#EXTINF:-1,Globo
-http://linux-app.tv:6204/yous/123/8842
-#EXTINF:-1,Globo Premium
-http://linux-app.tv:6204/yous/123/8841
-#EXTINF:-1,MCM Pop
-http://linux-app.tv:6204/yous/123/8838
-#EXTINF:-1,MOV
-http://linux-app.tv:6204/yous/123/8835
-#EXTINF:-1,MTV Portugal
-http://linux-app.tv:6204/yous/123/8834
-#EXTINF:-1,PFC
-http://linux-app.tv:6204/yous/123/8829
-#EXTINF:-1,Porto Canal
-http://linux-app.tv:6204/yous/123/8828
-#EXTINF:-1,Record News
-http://linux-app.tv:6204/yous/123/8827
-#EXTINF:-1,TLC
-http://linux-app.tv:6204/yous/123/8799
-#EXTINF:-1,TPA Angola
-http://linux-app.tv:6204/yous/123/8798
-#EXTINF:-1,Motors TV
-http://linux-app.tv:6204/yous/123/8837
-#EXTINF:-1,Motorvision
-http://linux-app.tv:6204/yous/123/8836
-#EXTINF:-1,Travel Channel HD
-http://linux-app.tv:6204/yous/123/8797
-#EXTINF:-1,Historia
-http://linux-app.tv:6204/yous/123/8840
-#EXTINF:-1,Nat Geo Wild
-http://linux-app.tv:6204/yous/123/8833
-#EXTINF:-1,National Geographic HD
-http://linux-app.tv:6204/yous/123/8832
-#EXTINF:-1,Nickelodeon
-http://linux-app.tv:6204/yous/123/8831
-#EXTINF:-1,Discovery Channel
-http://linux-app.tv:6204/yous/123/8858
-#EXTINF:-1,Discovery Showcase HD
-http://linux-app.tv:6204/yous/123/8857
-#EXTINF:-1,Baby Tv
-http://linux-app.tv:6204/yous/123/8869
-#EXTINF:-1,Cartoon NetWork
-http://linux-app.tv:6204/yous/123/8862
-#EXTINF:-1,Disney Channel
-http://linux-app.tv:6204/yous/123/8856
+#EXTINF:0,24 Kitchen FHD PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/19017
+#EXTINF:0,A&E PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/19016
+#EXTINF:0,AXN Black HD PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/19015
+#EXTINF:0,AXN HD PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/19014
+#EXTINF:0,AXN White HD PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/19013
+#EXTINF:0,AXN.HD PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/19012
+#EXTINF:0,BABY TV PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/19011
+#EXTINF:0,BENFICA TV 1 HD PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/19010
+#EXTINF:0,BENFICA TV 2 PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/19009
+#EXTINF:0,Benfica TV PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/19008
+#EXTINF:0,BIGGS PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/19007
+#EXTINF:0,CACA E PESCA PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/19006
+#EXTINF:0,CACAVISION HD PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/19005
+#EXTINF:0,CANAL PANDA PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/19004
+#EXTINF:0,CANAL Q PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/19003
+#EXTINF:0,Cartoon Network PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/19002
+#EXTINF:0,CBS Reality PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/19001
+#EXTINF:0,Cine Mundo PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/19000
+#EXTINF:0,DISCOVERY SHOWCASE HD PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18999
+#EXTINF:0,Disney JR PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18998
+#EXTINF:0,Eleven Sports 1 FHD PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18997
+#EXTINF:0,Eleven Sports 2 FHD PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18996
+#EXTINF:0,Eleven Sports 3 FHD PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18995
+#EXTINF:0,Eleven Sports 4 HD PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18994
+#EXTINF:0,Eleven Sport 5 HD PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18993
+#EXTINF:0,Eleven Sport 6 HD PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18992
+#EXTINF:0,ENTERTAINMENT PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18991
+#EXTINF:0,Euronews PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18990
+#EXTINF:0,EUROSPORT PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18989
+#EXTINF:0,Fox Comedy PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18988
+#EXTINF:0,Fox Crime PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18987
+#EXTINF:0,Fox HD PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18986
+#EXTINF:0,Fox Life HD PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18985
+#EXTINF:0,Fox Movies HD PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18984
+#EXTINF:0,FUEL TV PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18983
+#EXTINF:0,Globo TV PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18982
+#EXTINF:0,Historia PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18981
+#EXTINF:0,HOLLYWOOD PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18980
+#EXTINF:0,JIM JAM PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18979
+#EXTINF:0,Kombat Sports PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18978
+#EXTINF:0,LIfestyle TV PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18977
+#EXTINF:0,MOTORVISION PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18976
+#EXTINF:0,MOV HD PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18975
+#EXTINF:0,Nat Geo Wild PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18973
+#EXTINF:0,NICKELODEON PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18972
+#EXTINF:0,Panda Biggs PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18971
+#EXTINF:0,PFC HD PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18970
+#EXTINF:0,Porto Canal PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18969
+#EXTINF:0,Rede TV HD PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18968
+#EXTINF:0,RTP 1 FHD PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18966
+#EXTINF:0,RTP 1 HD PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18967
+#EXTINF:0,RTP 2 PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18965
+#EXTINF:0,RTP 3 PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18964
+#EXTINF:0,RTP Acores PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18963
+#EXTINF:0,RTP Africa PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18962
+#EXTINF:0,RTP Madeira PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18961
+#EXTINF:0,RTP Memoria PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18960
+#EXTINF:0,SIC CARAS PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18959
+#EXTINF:0,Sic Kids PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18958
+#EXTINF:0,Sic Mulher PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18957
+#EXTINF:0,Sic Noticias PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18956
+#EXTINF:0,Sic PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18955
+#EXTINF:0,Sic Radical PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18954
+#EXTINF:0,SPORT TV  HD PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18953
+#EXTINF:0,SPORT TV 1 PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18952
+#EXTINF:0,SPORT TV 3 PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18951
+#EXTINF:0,SPORT TV 4 PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18950
+#EXTINF:0,SPORTING TV PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18949
+#EXTINF:0,SYFY HD PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18948
+#EXTINF:0,SYFY SD PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18947
+#EXTINF:0,TLC PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18946
+#EXTINF:0,TRAVEL CHANNEL HD PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18945
+#EXTINF:0,TV CINE 1 HD PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18944
+#EXTINF:0,TV Cine 1 PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18943
+#EXTINF:0,TV Cine 2 PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18942
+#EXTINF:0,TV Cine 3 PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18941
+#EXTINF:0,TV Cine 4 PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18940
+#EXTINF:0,TV Record PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18939
+#EXTINF:0,TV Series PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18938
+#EXTINF:0,Tvi 24 PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18937
+#EXTINF:0,TVI PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18936
+#EXTINF:0,TVI REALITY PT
+http://epic1.ddns.net:80/8c8ikxWrBi/iAOhLquEP3/18935
