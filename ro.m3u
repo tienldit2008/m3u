@@ -1,45 +1,191 @@
 #EXTM3U
-#EXTINF:-1,Antena 1
-http://linux-app.tv:6204/yous/123/9055
-#EXTINF:-1,Antena 3
-http://linux-app.tv:6204/yous/123/9054
-#EXTINF:-1,Antena Stars
-http://linux-app.tv:6204/yous/123/9053
-#EXTINF:-1,Kanal D
-http://linux-app.tv:6204/yous/123/9044
-#EXTINF:-1,Acasa TV
-http://linux-app.tv:6204/yous/123/5904
-#EXTINF:-1,Acasa Gold
-http://linux-app.tv:6204/yous/123/9056
-#EXTINF:-1,B1 TV
-http://linux-app.tv:6204/yous/123/5798
-#EXTINF:-1,Romania TV
-http://linux-app.tv:6204/yous/123/9033
-#EXTINF:-1,Prima TV
-http://linux-app.tv:6204/yous/123/9038
-#EXTINF:-1,Pro TV
-http://linux-app.tv:6204/yous/123/9036
-#EXTINF:-1,Pro TV International
-http://linux-app.tv:6204/yous/123/9035
-#EXTINF:-1,Realitatea TV
-http://linux-app.tv:6204/yous/123/9034
-#EXTINF:-1,Na?ional TV
-http://linux-app.tv:6204/yous/123/9041
-#EXTINF:-1,CBS Reality
-http://linux-app.tv:6204/yous/123/9051
-#EXTINF:-1,Digi 24
-http://linux-app.tv:6204/yous/123/9050
-#EXTINF:-1,HBO
-http://linux-app.tv:6204/yous/123/9045
-#EXTINF:-1,Kiss TV
-http://linux-app.tv:6204/yous/123/9043
-#EXTINF:-1,Taraf TV
-http://linux-app.tv:6204/yous/123/9032
 #EXTINF:-1,1 Music Channel
-http://linux-app.tv:6204/yous/123/9057
-#EXTINF:-1,National Geographic Wild
-http://linux-app.tv:6204/yous/123/9039
-#EXTINF:-1,Dolce Sport 1 HD
-http://linux-app.tv:6204/yous/123/9049
-#EXTINF:-1,Dolce Sport 2 HD
-http://linux-app.tv:6204/yous/123/9048
+http://31.220.1.190:8080/debo/12345/184564
+#EXTINF:-1,Agro TV
+http://31.220.1.190:8080/debo/12345/75025
+#EXTINF:-1,AMC
+http://31.220.1.190:8080/debo/12345/63031
+#EXTINF:-1,Animal Planet HD
+http://31.220.1.190:8080/debo/12345/63030
+#EXTINF:-1,ANTENA 1 HD
+http://31.220.1.190:8080/debo/12345/155447
+#EXTINF:-1,ANTENA 3 HD
+http://31.220.1.190:8080/debo/12345/155448
+#EXTINF:-1,ANTENA STARS HD
+http://31.220.1.190:8080/debo/12345/134500
+#EXTINF:-1,AXN BLACK
+http://31.220.1.190:8080/debo/12345/112894
+#EXTINF:-1,AXN PREMIERA
+http://31.220.1.190:8080/debo/12345/90209
+#EXTINF:-1,AXN White HD
+http://31.220.1.190:8080/debo/12345/90210
+#EXTINF:-1,B1 HD
+http://31.220.1.190:8080/debo/12345/98558
+#EXTINF:-1,Boomerang
+http://31.220.1.190:8080/debo/12345/63029
+#EXTINF:-1,Cartoon Network HD
+http://31.220.1.190:8080/debo/12345/63027
+#EXTINF:-1,Cinemax 2 HD
+http://31.220.1.190:8080/debo/12345/63026
+#EXTINF:-1,Cinemax HD
+http://31.220.1.190:8080/debo/12345/63024
+#EXTINF:-1,DIBI TV
+http://31.220.1.190:8080/debo/12345/62992
+#EXTINF:-1,Digi 24 HD
+http://31.220.1.190:8080/debo/12345/63016
+#EXTINF:-1,Digi Animal World HD
+http://31.220.1.190:8080/debo/12345/63015
+#EXTINF:-1,Digi Film HD
+http://31.220.1.190:8080/debo/12345/184567
+#EXTINF:-1,Digi Life HD
+http://31.220.1.190:8080/debo/12345/63013
+#EXTINF:-1,DIGI SPORT 1 HD
+http://31.220.1.190:8080/debo/12345/65872
+#EXTINF:-1,DIGI SPORT 2 HD
+http://31.220.1.190:8080/debo/12345/65871
+#EXTINF:-1,DIGI SPORT 3 HD
+http://31.220.1.190:8080/debo/12345/65870
+#EXTINF:-1,DIGI SPORT 4 HD
+http://31.220.1.190:8080/debo/12345/110982
+#EXTINF:-1,Digi World HD
+http://31.220.1.190:8080/debo/12345/63012
+#EXTINF:-1,Discovery Channel
+http://31.220.1.190:8080/debo/12345/63011
+#EXTINF:-1,Discovery Science HD
+http://31.220.1.190:8080/debo/12345/63010
+#EXTINF:-1,Disney Channel
+http://31.220.1.190:8080/debo/12345/63009
+#EXTINF:-1,Disney Junior
+http://31.220.1.190:8080/debo/12345/63008
+#EXTINF:-1,Dolce Sport 3 HD
+http://31.220.1.190:8080/debo/12345/176394
+#EXTINF:-1,Etno Tv HD
+http://31.220.1.190:8080/debo/12345/156195
+#EXTINF:-1,EUROSPORT 1 HD
+http://31.220.1.190:8080/debo/12345/145815
+#EXTINF:-1,EUROSPORT 2 HD
+http://31.220.1.190:8080/debo/12345/62973
+#EXTINF:-1,FAVORIT TV
+http://31.220.1.190:8080/debo/12345/90218
+#EXTINF:-1,Film Now HD
+http://31.220.1.190:8080/debo/12345/155777
+#EXTINF:-1,Fishing & Hunting HD
+http://31.220.1.190:8080/debo/12345/75030
+#EXTINF:-1,Food Network HD
+http://31.220.1.190:8080/debo/12345/112954
+#EXTINF:-1,HAPPY CHANNEL HD
+http://31.220.1.190:8080/debo/12345/98561
+#EXTINF:-1,HBO 2 HD
+http://31.220.1.190:8080/debo/12345/63006
+#EXTINF:-1,HBO 3 HD
+http://31.220.1.190:8080/debo/12345/63005
+#EXTINF:-1,HBO HD
+http://31.220.1.190:8080/debo/12345/63004
+#EXTINF:-1,History Channel HD
+http://31.220.1.190:8080/debo/12345/63001
+#EXTINF:-1,Hit Music Channel
+http://31.220.1.190:8080/debo/12345/133932
+#EXTINF:-1,KANAL D HD
+http://31.220.1.190:8080/debo/12345/155780
+#EXTINF:-1,Kiss TV
+http://31.220.1.190:8080/debo/12345/62989
+#EXTINF:-1,Look Plus
+http://31.220.1.190:8080/debo/12345/75031
+#EXTINF:-1,Look TV HD
+http://31.220.1.190:8080/debo/12345/155781
+#EXTINF:-1,MegaMax HD
+http://31.220.1.190:8080/debo/12345/75033
+#EXTINF:-1,Minimax HD
+http://31.220.1.190:8080/debo/12345/156199
+#EXTINF:-1,Music 1 Channel
+http://31.220.1.190:8080/debo/12345/98564
+#EXTINF:-1,Music Channel
+http://31.220.1.190:8080/debo/12345/192689
+#EXTINF:-1,NAT GEO HD
+http://31.220.1.190:8080/debo/12345/75035
+#EXTINF:-1,NAT GEO Wild HD
+http://31.220.1.190:8080/debo/12345/63000
+#EXTINF:-1,National TV
+http://31.220.1.190:8080/debo/12345/66907
+#EXTINF:-1,Neptun TV
+http://31.220.1.190:8080/debo/12345/75036
+#EXTINF:-1,Nickelodeon HD
+http://31.220.1.190:8080/debo/12345/62996
+#EXTINF:-1,Nova Tv Brasov
+http://31.220.1.190:8080/debo/12345/140801
+#EXTINF:-1,Paramount Channel
+http://31.220.1.190:8080/debo/12345/62988
+#EXTINF:-1,Prima Cool
+http://31.220.1.190:8080/debo/12345/75037
+#EXTINF:-1,Prima TV
+http://31.220.1.190:8080/debo/12345/140802
+#EXTINF:-1,Pro Cinema HD
+http://31.220.1.190:8080/debo/12345/62995
+#EXTINF:-1,PRO Gold HD
+http://31.220.1.190:8080/debo/12345/75024
+#EXTINF:-1,Pro TV HD
+http://31.220.1.190:8080/debo/12345/66902
+#EXTINF:-1,PRO X HD
+http://31.220.1.190:8080/debo/12345/62972
+#EXTINF:-1,PRO2 HD
+http://31.220.1.190:8080/debo/12345/158233
+#EXTINF:-1,Realitatea TV
+http://31.220.1.190:8080/debo/12345/184575
+#EXTINF:-1,Romania TV HD
+http://31.220.1.190:8080/debo/12345/155782
+#EXTINF:-1,STARS chef HD
+http://31.220.1.190:8080/debo/12345/198010
+#EXTINF:-1,SUPERTENNIS HD
+http://31.220.1.190:8080/debo/12345/134687
+#EXTINF:-1,Taraf HD
+http://31.220.1.190:8080/debo/12345/66899
+#EXTINF:-1,Tele Moldova Plus
+http://31.220.1.190:8080/debo/12345/98569
+#EXTINF:-1,TELEKOM 3
+http://31.220.1.190:8080/debo/12345/196345
+#EXTINF:-1,Telekom Sport 1 HD
+http://31.220.1.190:8080/debo/12345/62979
+#EXTINF:-1,Telekom Sport 2 HD
+http://31.220.1.190:8080/debo/12345/62978
+#EXTINF:-1,TELEKOM SPORT 3 HD
+http://31.220.1.190:8080/debo/12345/89362
+#EXTINF:-1,TELEKOM SPORT 4 HD
+http://31.220.1.190:8080/debo/12345/113005
+#EXTINF:-1,Telekom Sport 5 HD
+http://31.220.1.190:8080/debo/12345/62977
+#EXTINF:-1,Telekom Sport 6 HD
+http://31.220.1.190:8080/debo/12345/62976
+#EXTINF:-1,TELESHOP TV
+http://31.220.1.190:8080/debo/12345/62987
+#EXTINF:-1,TLC
+http://31.220.1.190:8080/debo/12345/113010
+#EXTINF:-1,TNT HD
+http://31.220.1.190:8080/debo/12345/90215
+#EXTINF:-1,Travel Mix
+http://31.220.1.190:8080/debo/12345/155207
+#EXTINF:-1,TRINITAS TV
+http://31.220.1.190:8080/debo/12345/75039
+#EXTINF:-1,TV 1000 HD
+http://31.220.1.190:8080/debo/12345/62993
+#EXTINF:-1,TV Paprika
+http://31.220.1.190:8080/debo/12345/155783
+#EXTINF:-1,TV5 Monde HD
+http://31.220.1.190:8080/debo/12345/90214
+#EXTINF:-1,TVR 1 HD
+http://31.220.1.190:8080/debo/12345/146493
+#EXTINF:-1,TVR 2 HD
+http://31.220.1.190:8080/debo/12345/155784
+#EXTINF:-1,TVR 3 HD
+http://31.220.1.190:8080/debo/12345/62983
+#EXTINF:-1,TVR International
+http://31.220.1.190:8080/debo/12345/142401
+#EXTINF:-1,U TV
+http://31.220.1.190:8080/debo/12345/75040
+#EXTINF:-1,VIASAT EXPLORER
+http://31.220.1.190:8080/debo/12345/98571
+#EXTINF:-1,Viasat History
+http://31.220.1.190:8080/debo/12345/63003
+#EXTINF:-1,Viasat Nature
+http://31.220.1.190:8080/debo/12345/155785
+#EXTINF:-1,ZU TV HD
+http://31.220.1.190:8080/debo/12345/113024

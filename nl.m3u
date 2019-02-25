@@ -1,141 +1,117 @@
 #EXTM3U
-#EXTINF:-1,NPO 1 HD
-http://force102.com:8080/live/rafetabi/13042018/11314.m3u8
-#EXTINF:-1,NPO 2 HD
-http://force102.com:8080/live/rafetabi/13042018/11313.m3u8
-#EXTINF:-1,NPO 3 HD
-http://force102.com:8080/live/rafetabi/13042018/11312.m3u8
-#EXTINF:-1,Npo Politiek
-http://force102.com:8080/live/rafetabi/13042018/11278.m3u8
-#EXTINF:-1,Npo Zapp Xtra/npo Best
-http://force102.com:8080/live/rafetabi/13042018/11277.m3u8
-#EXTINF:-1,RTL 4 HD
-http://force102.com:8080/live/rafetabi/13042018/11311.m3u8
-#EXTINF:-1,RTL 5 HD
-http://force102.com:8080/live/rafetabi/13042018/11310.m3u8
-#EXTINF:-1,RTL 7 HD
-http://force102.com:8080/live/rafetabi/13042018/11309.m3u8
-#EXTINF:-1,RTL 8 HD
-http://force102.com:8080/live/rafetabi/13042018/11308.m3u8
-#EXTINF:-1,Rtl Crime Hd
-http://force102.com:8080/live/rafetabi/13042018/11274.m3u8
-#EXTINF:-1,Rtl Lounge-nl
-http://force102.com:8080/live/rafetabi/13042018/11273.m3u8
-#EXTINF:-1,RTL Z
-http://force102.com:8080/live/rafetabi/13042018/11305.m3u8
-#EXTINF:-1,Fox
-http://force102.com:8080/live/rafetabi/13042018/11292.m3u8
-#EXTINF:-1,SBS 6 HD
-http://force102.com:8080/live/rafetabi/13042018/11307.m3u8
-#EXTINF:-1,SBS 9
-http://force102.com:8080/live/rafetabi/13042018/11306.m3u8
-#EXTINF:-1,FILM 1 ACTION
-http://force102.com:8080/live/rafetabi/13042018/11333.m3u8
-#EXTINF:-1,FILM 1 COMEDY
-http://force102.com:8080/live/rafetabi/13042018/11328.m3u8
-#EXTINF:-1,FILM 1 DRAMA
-http://force102.com:8080/live/rafetabi/13042018/11334.m3u8
-#EXTINF:-1,FILM 1 PREMIER HD
-http://force102.com:8080/live/rafetabi/13042018/11327.m3u8
-#EXTINF:-1,Tlc Hd
-http://force102.com:8080/live/rafetabi/13042018/11269.m3u8
-#EXTINF:-1,Omroep Brabant
-http://force102.com:8080/live/rafetabi/13042018/11276.m3u8
-#EXTINF:-1,Omroep Gelderland
-http://force102.com:8080/live/rafetabi/13042018/11275.m3u8
-#EXTINF:-1,24 KITCHEN
-http://force102.com:8080/live/rafetabi/13042018/11332.m3u8
-#EXTINF:-1,Food Network
-http://force102.com:8080/live/rafetabi/13042018/11293.m3u8
-#EXTINF:-1,AT5
-http://force102.com:8080/live/rafetabi/13042018/11301.m3u8
-#EXTINF:-1,Mtv Nl
-http://force102.com:8080/live/rafetabi/13042018/11284.m3u8
-#EXTINF:-1,Djazz TV
-http://force102.com:8080/live/rafetabi/13042018/11296.m3u8
-#EXTINF:-1,Ketnet
-http://force102.com:8080/live/rafetabi/13042018/11286.m3u8
-#EXTINF:-1,L1 Limburg Hd
-http://force102.com:8080/live/rafetabi/13042018/11285.m3u8
-#EXTINF:-1,N1 Nijmegen Tv
-http://force102.com:8080/live/rafetabi/13042018/11283.m3u8
-#EXTINF:-1,NET 5 HD
-http://force102.com:8080/live/rafetabi/13042018/11315.m3u8
-#EXTINF:-1,Rtv Drenthe
-http://force102.com:8080/live/rafetabi/13042018/11272.m3u8
-#EXTINF:-1,Slam Tv
-http://force102.com:8080/live/rafetabi/13042018/11271.m3u8
-#EXTINF:-1,Spike
-http://force102.com:8080/live/rafetabi/13042018/11270.m3u8
-#EXTINF:-1,Tv Oost Hd
-http://force102.com:8080/live/rafetabi/13042018/11268.m3u8
-#EXTINF:-1,Tv Oranje
-http://force102.com:8080/live/rafetabi/13042018/11267.m3u8
-#EXTINF:-1,Tv West
-http://force102.com:8080/live/rafetabi/13042018/11266.m3u8
-#EXTINF:-1,Xite
-http://force102.com:8080/live/rafetabi/13042018/11265.m3u8
-#EXTINF:-1,Jim Jam
-http://force102.com:8080/live/rafetabi/13042018/11287.m3u8
-#EXTINF:-1,Nick Jr Hd
-http://force102.com:8080/live/rafetabi/13042018/11281.m3u8
-#EXTINF:-1,Nick Music
-http://force102.com:8080/live/rafetabi/13042018/11280.m3u8
-#EXTINF:-1,NICKELODEON HD
-http://force102.com:8080/live/rafetabi/13042018/11326.m3u8
-#EXTINF:-1,VERONICA DISNEY XD
-http://force102.com:8080/live/rafetabi/13042018/11336.m3u8
-#EXTINF:-1,Nicktoons Hd
-http://force102.com:8080/live/rafetabi/13042018/11279.m3u8
-#EXTINF:-1,Animal Planet NL
-http://force102.com:8080/live/rafetabi/13042018/11302.m3u8
-#EXTINF:-1,BABY TV
-http://force102.com:8080/live/rafetabi/13042018/11300.m3u8
-#EXTINF:-1,Boomerang
-http://force102.com:8080/live/rafetabi/13042018/11299.m3u8
-#EXTINF:-1,CARTOON NETWORK HD
-http://force102.com:8080/live/rafetabi/13042018/11298.m3u8
-#EXTINF:-1,COMEDY CENTRAL
-http://force102.com:8080/live/rafetabi/13042018/11331.m3u8
-#EXTINF:-1,DISNEY JUNIOR HD
-http://force102.com:8080/live/rafetabi/13042018/11297.m3u8
-#EXTINF:-1,History Chanel Hd
-http://force102.com:8080/live/rafetabi/13042018/11289.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL  HD
-http://force102.com:8080/live/rafetabi/13042018/11335.m3u8
-#EXTINF:-1,Investigation Discovery Hd
-http://force102.com:8080/live/rafetabi/13042018/11288.m3u8
-#EXTINF:-1,NATIONAL GEO HD
-http://force102.com:8080/live/rafetabi/13042018/11329.m3u8
-#EXTINF:-1,National Geopraphic Hd
-http://force102.com:8080/live/rafetabi/13042018/11282.m3u8
-#EXTINF:-1,EUROSPORT 1 HD
-http://force102.com:8080/live/rafetabi/13042018/11295.m3u8
-#EXTINF:-1,Eurosport 2 Hd
-http://force102.com:8080/live/rafetabi/13042018/11294.m3u8
-#EXTINF:-1,Ziggo Sport Extra 1
-http://force102.com:8080/live/rafetabi/13042018/11264.m3u8
-#EXTINF:-1,Ziggo Sport Extra 2
-http://force102.com:8080/live/rafetabi/13042018/11263.m3u8
-#EXTINF:-1,ZIGGO SPORT GOLF
-http://force102.com:8080/live/rafetabi/13042018/11317.m3u8
-#EXTINF:-1,Ziggo Sport Hd
-http://force102.com:8080/live/rafetabi/13042018/11262.m3u8
-#EXTINF:-1,ZIGGO SPORT RACING
-http://force102.com:8080/live/rafetabi/13042018/11318.m3u8
-#EXTINF:-1,ZIGGO SPORT SELECT HD
-http://force102.com:8080/live/rafetabi/13042018/11319.m3u8
-#EXTINF:-1,ZIGGO SPORT VOETBAL
-http://force102.com:8080/live/rafetabi/13042018/11320.m3u8
-#EXTINF:-1,FOX SPORT 1  HD EREDIVISIE
-http://force102.com:8080/live/rafetabi/13042018/11325.m3u8
-#EXTINF:-1,FOX SPORTS 2 INTERNATIONAL
-http://force102.com:8080/live/rafetabi/13042018/11324.m3u8
-#EXTINF:-1,FOX SPORTS 3 EREDIVISIE
-http://force102.com:8080/live/rafetabi/13042018/11323.m3u8
-#EXTINF:-1,FOX SPORTS 4 INTERNATIONAL
-http://force102.com:8080/live/rafetabi/13042018/11322.m3u8
-#EXTINF:-1,FOX SPORTS 5 EREDIVISIE HD
-http://force102.com:8080/live/rafetabi/13042018/11321.m3u8
-#EXTINF:-1,FOX SPORT 6 HD
-http://force102.com:8080/live/rafetabi/13042018/11291.m3u8
+#EXTINF:0,NPO 1
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/637.ts
+#EXTINF:0,NPO 2
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/636.ts
+#EXTINF:0,NPO 3
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/635.ts
+#EXTINF:0,RTL 4
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/634.ts
+#EXTINF:0,NET 5
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/632.ts
+#EXTINF:0,RTL 5
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/633.ts
+#EXTINF:0,SBS 6
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/628.ts
+#EXTINF:0,RTL 7
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/631.ts
+#EXTINF:0,RTL 8
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/630.ts
+#EXTINF:0,SBS 9HD
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/627.ts
+#EXTINF:0,VERONICA/DISNEY XD HD
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/622.ts
+#EXTINF:0,FOX
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/621.ts
+#EXTINF:0,TLC
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/626.ts
+#EXTINF:0,SPIKE
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/625.ts
+#EXTINF:0,RTL Z
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/629.ts
+#EXTINF:0,FILM 1 PREMIERE HD
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/614.ts
+#EXTINF:0,FILM 1 FAMILY
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/612.ts
+#EXTINF:0,FILM 1 DRAMA
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/611.ts
+#EXTINF:0,HBO HD
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/561.ts
+#EXTINF:0,HBO 2
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/562.ts
+#EXTINF:0,FOX SPORTS 1 HD
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/610.ts
+#EXTINF:0,FOX SPORTS 2 HD
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/609.ts
+#EXTINF:0,FOX SPORTS 3 HD
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/608.ts
+#EXTINF:0,FOX SPORTS 4 HD
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/607.ts
+#EXTINF:0,FOX SPORTS 5 HD
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/606.ts
+#EXTINF:0,FOX SPORT 6 HD
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/584.ts
+#EXTINF:0,ZIGGO SPORT HD (S)
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/594.ts
+#EXTINF:0,ZIGGO SPORT HD
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/560.ts
+#EXTINF:0,ZIGGO SPORT SELECT HD
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/593.ts
+#EXTINF:0,ZIGGO SPORT VOETBAL HD
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/592.ts
+#EXTINF:0,ZIGGO SPORT GOLF HD
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/595.ts
+#EXTINF:0,ZIGGO SPORT RACING HD
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/596.ts
+#EXTINF:0,ZIGGO SPORT EXTRA 1
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/557.ts
+#EXTINF:0,ZIGGO SPORT EXTRA 2
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/556.ts
+#EXTINF:0,EUROSPORT 1 HD
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/586.ts
+#EXTINF:0,EUROSPORT 2 HD
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/585.ts
+#EXTINF:0,HISTORY CHANEL HD
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/602.ts
+#EXTINF:0,24 KITCHEN
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/583.ts
+#EXTINF:0,ANIMAL PLANET NL
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/620.ts
+#EXTINF:0,DISCOVERY CHANNEL
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/589.ts
+#EXTINF:0,INVESTIGATION DISCOVERY HD
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/581.ts
+#EXTINF:0,NATIONAL GEO WILD NL
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/580.ts
+#EXTINF:0,NATIONAL GEOGRAPHIC
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/582.ts
+#EXTINF:0,CARTOON NETWORK HD
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/618.ts
+#EXTINF:0,NICK JR HD
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/598.ts
+#EXTINF:0,NICKTOONS HD
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/597.ts
+#EXTINF:0,DISNEY CHANNEL
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/588.ts
+#EXTINF:0,BOOMERANG
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/574.ts
+#EXTINF:0,NPO ZAPP XTRAA
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/572.ts
+#EXTINF:0,NICKELEDEON NL
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/623.ts
+#EXTINF:0,JIM JAM
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/601.ts
+#EXTINF:0,KETNET
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/600.ts
+#EXTINF:0,DISNEY JUNIOR HD
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/616.ts
+#EXTINF:0,BABY TV HD
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/619.ts
+#EXTINF:0,COMEDY CENTRAL
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/624.ts
+#EXTINF:0,COMEDY CENTRAL EXTRA
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/617.ts
+#EXTINF:0,ONS
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/571.ts
+#EXTINF:0,RTL LOUNGE
+http://cosmos-tv.live:25461/live/iYAdINksk5/iL8vMZj8j8/563.ts
