@@ -1,226 +1,259 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-vMAQNoRpfA8/UelW10uDRvI/AAAAAAAAJhs/LcAP-VsO8YY/s1600/Logo_TVE_24h.jpg" group-title="SPAIN",24H (Opt-1)
-http://hlsliveamdgl8-lh.akamaihd.net:80/i/hlslive_1@583029/index_0400_av-b.m3u8
-
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-vMAQNoRpfA8/UelW10uDRvI/AAAAAAAAJhs/LcAP-VsO8YY/s1600/Logo_TVE_24h.jpg" group-title="SPAIN",24H (Opt-2)
-http://hlsliveamdgl8-lh.akamaihd.net:80/i/hlslive_1@583029/index_1500_av-b.m3u8
-
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-vMAQNoRpfA8/UelW10uDRvI/AAAAAAAAJhs/LcAP-VsO8YY/s1600/Logo_TVE_24h.jpg" group-title="SPAIN",24H (Opt-3)
-http://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@583029/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-vMAQNoRpfA8/UelW10uDRvI/AAAAAAAAJhs/LcAP-VsO8YY/s1600/Logo_TVE_24h.jpg" group-title="SPAIN",24 Horas (Opt-4)
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/25-tv-barcelona-en-directo-online.png" group-title="SPAIN",25 Televisio
-http://cdnlive.shooowit.net/25televisiolive/amlst:25tv/chunklist_b300000.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://statics.ccma.cat/multimedia/jpg/7/9/1466521666097.jpg" group-title="SPAIN",3/24
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7tvregiondemurcia.es/wp-content/uploads/2015/04/LOGO.jpg" group-title="SPAIN",7 Murcia
-http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.axartel.es/assets/img/sliders/tv-canales/tv-13tv.jpg" group-title="SPAIN",13 TV (Opt-1)
-http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.axartel.es/assets/img/sliders/tv-canales/tv-13tv.jpg" group-title="SPAIN",13 TV (Opt-2)
-http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ROPlvzc.png" group-title="SPAIN",A Punt
-https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae_6.m3u8
-
-#EXTINF:-1 tvg-logo="http://alcarria.tv/web/wp-content/uploads/2016/09/logotipo_alcarria_television.png" group-title="SPAIN",Alcarria TV
-http://217.182.77.27/live/alcarriatv-livestream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.vsn-tv.com/wp-content/uploads/2014/11/logo_atv.jpg" group-title="SPAIN",Andorra TV (Andorra)
-http://194.158.80.31:443/live/rtva/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/aragon-tv-logo.png" group-title="SPAIN",Aragon TV
-http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
-
-#EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/be_mad_circular_500_-1_8f1a.png" group-title="SPAIN",Be Mad
-https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.brandemia.org/sites/default/files/inline/images/beteve_logo_despues.jpg" group-title="SPAIN",Beteve
-http://api-cdn.overon.es/SmilLive/getLiveIOS/playlist.m3u8?stream=btv_stream01
-
-#EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/e71951274016a962de9ad9e442e95997" group-title="SPAIN",Betis TV
-http://rbetis-hls.flumotion.com/rbetis/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f3/Boing_circular_500.png" group-title="SPAIN",Boing
-https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7C9rreQ.png" group-title="SPAIN",Calle 13
-http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canal4tenerife.tv/wp-content/uploads/2017/02/LOGO-CANAL-4-azul-80.png" group-title="SPAIN",Canal 4 Tenerife
-https://5940924978228.streamlock.net/Directo2/Directo2/chunklist_w221845664.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canal25tv.es/images/template-content/untitled.png" group-title="SPAIN",Canal 25
-http://188.165.135.22/tvbarbastro/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://m.canalextremadura.es/sites/all/themes/canalex_2016/images/canalex/logotipo@2x.png" group-title="SPAIN",Canal Extremadura
-http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ptvtelecom.com/ficheros/imagennoticia311_0.jpg" group-title="SPAIN",Canal Parlamento
-http://congresodirecto-f.akamaihd.net:80/i/congreso6_1@54665/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/c/cd/Televisión_Canaria_SAT_logo_2008.png" group-title="SPAIN",Canaria SAT
-http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.360plr.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/cancionero-tv.png" group-title="SPAIN",Cancionero TV
-http://89.140.99.41/hls/1080.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-VmyM6ux4ivw/AAAAAAAAAAI/AAAAAAAAAAA/PyvyJBePBbk/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="SPAIN",Ceuta TV
-http://cls.todostreaming.eu/anguloce/livestream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://files.antenista.webnode.es/200002504-5844f5c19b/costa%20del%20sol%20tv%20abm%20antenista%20en%20malaga.png" group-title="SPAIN",Costa del Sol TV
-http://cls.todostreaming.eu/benalmadena/webtv/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Divinity_2012.png" group-title="SPAIN",Divinity
-https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canal10.cat/img/logofacebook_400x400.jpg" group-title="SPAIN",Emporda TV
-http://ventdelnord.tv:8080/escala/directe.m3u8
-
-#EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/energy_circular_500_-1_4048.png" group-title="SPAIN",Energy
-https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-Grt64gpUA1w/UZH6VNoXDZI/AAAAAAAAXK4/aOHkzPorWAQ/s1600/etb-sat.png" group-title="SPAIN",ETB Sat
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kgnflq9.png" group-title="SPAIN",FDF
-https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
-
-#EXTINF:-1 tvg-logo="http://fight-time.com/wp-content/uploads/2017/03/Fight-Time-Logo-Transparente-g.png" group-title="SPAIN",Fight Time (Opt-1)
-http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
-#EXTINF:-1 tvg-logo="http://fight-time.com/wp-content/uploads/2017/03/Fight-Time-Logo-Transparente-g.png" group-title="SPAIN",Fight Time (Opt-2)
-http://109.232.71.249/stream/stream_fighttime/fighttimehd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%20tv%20Series%20y%20Animes%20de%20Tv.png" group-title="SPAIN",Hit TV (Opt-1)
-http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%20tv%20Series%20y%20Animes%20de%20Tv.png" group-title="SPAIN",Hit TV (Opt-2)
-http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/6/62/IB3_logo_2008_1.jpg" group-title="SPAIN",IB3
-http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_2.m3u8
-
-#EXTINF:-1 tvg-logo="https://ibizaglobal.tv/wp-content/uploads/2017/03/LOGO-GLOBALTV.png" group-title="SPAIN",Ibiza Global TV
-http://server10.streaming-pro.com:1937/live/ibgtvlive/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.imastv.es/imagenes/logos/CABEZERA%20WEB%201.png" group-title="SPAIN",Imas TV
-http://cls.todostreaming.eu/imastv/livestream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.informaciontv.es/elementosWeb/version5_20090902/mediaweb/images/logoInfTV.jpg" group-title="SPAIN",Informacion TV
-http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/livestream.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TVE_La1_-_Logo_2008.png" group-title="SPAIN",La 1 (Opt-1) (Geo)
-http://hlsliveamdgl7-lh.akamaihd.net:80/i/hlslive_1@583043/index_0400_av-p.m3u8 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TVE_La1_-_Logo_2008.png" group-title="SPAIN",La 1 (Opt-2) (Geo)
-https://hlsliveamdgl7-lh.akamaihd.net:80/i/hlslive_1@583041/index_1500_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Se15.png" group-title="SPAIN",La 2
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8
-
-#EXTINF:0 tvg-logo="https://www.diariodesevilla.es/resources/images/0001688255.jpg" group-title="SPAIN",La Banda
-https://593fa17dec176.streamlock.net/cslabanda/cslabanda.stream/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cablevisionguadalquivir.com/wp-content/uploads/2014/11/laotra-455x250.jpg" group-title="SPAIN",La Otra
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/ca/b/bc/COMR%C3%A0dio_logo_2012.jpg" group-title="SPAIN",La Xarxa
-http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.lancelot.tv/lancelot.jpg" group-title="SPAIN",Lancelot TV
-http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.lebrija.tv/wp-content/uploads/2016/06/logo-web-2.png" group-title="SPAIN",Lebrija TV
-http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/s6HpNzd.png" group-title="SPAIN",LifeTV
-http://178.132.6.97/uzivo/lifetvesp/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.tvalacarta.info/canales/256x256/tvmelilla.png" group-title="SPAIN",Melilla TV
-http://melillatv-hls.flumotion.com/melillatv/melillatv_all/melillatv/melillatv_source/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.tucabletv.com/wp-content/uploads/2018/05/miamitv.png" group-title="SPAIN",Miami TV Espana
-http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.colectivosvip.com/public/colectivos/390/logo.png" group-title="SPAIN",Mola TV
-http://ventdelnord.tv:8080/mola/directe.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sergioalvarezweb.hol.es/img/navarratv.png" group-title="SPAIN",Navarra TV (Opt-1)
-http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sergioalvarezweb.hol.es/img/navarratv.png" group-title="SPAIN",Navarra TV (Opt-2)
-http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ondaalgecirastv.com/wp-content/uploads/2015/11/logooatv.png" group-title="SPAIN",Onda Algeciras
-http://cls.provideo.es/algecirastv/livestream/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://static.wixstatic.com/media/76b12f_980c794be91b440faac46de6e57eb10e~mv2.png" group-title="SPAIN",PequeRadio TV
-http://panel2.cdnstreamserver.com/live/peque-pequetv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.imaginaus.com/es/wp-content/uploads/2014/02/real-madrid.jpg" group-title="SPAIN",Real Madrid TV (Opt-1)
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.imaginaus.com/es/wp-content/uploads/2014/02/real-madrid.jpg" group-title="SPAIN",Real Madrid TV (Opt-2)
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.imaginaus.com/es/wp-content/uploads/2014/02/real-madrid.jpg" group-title="SPAIN",Real Madrid TV (English)
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.wp.com/www.riberatelevisio.com/wp-content/uploads/2015/03/LOGO-RIBERA-TV-1.png" group-title="SPAIN",Ribera TV
-http://188.165.135.22/ribera/livestream/.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-twjWLzywppo/VnBHIEtqgRI/AAAAAAAABOY/ZiwcFOt-rcg/s1600/rtvce.jpeg" group-title="SPAIN",RTVCE
-http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2010/04/rtp-asturias.jpg" group-title="SPAIN",RTPA
-http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-J3V2v8xCup4/AAAAAAAAAAI/AAAAAAAAAAA/B8BLxY30p98/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="SPAIN",San Roque TV
-http://188.165.135.22/sanroque/mystream/chunklist_w1703138822.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PJwmSnC.png" group-title="SPAIN",Sevilla FC TV
-http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.tvalacarta.info/canales/256x256/teftv.png" group-title="SPAIN",TEF TV
-http://server10.streaming-pro.com:1937/live/teftvlive/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.karpinabentura.com/images/Karpin/imagenes_web_karpin/medios_amigos/logo_tbilbao.jpg" group-title="SPAIN",TeleBilbao
-http://cls.todostreaming.eu/telebilbao/restricted/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.teleelx.es/eniusimg/enius2/2016/01/adj_569e704973b6d.jpg" group-title="SPAIN",TeleElx
-http://teledifusion.tv:1935/teleelx/teleelxlive/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s03.s3c.es/imag/_v0/640x300/8/1/f/telemadridrecursonuevo.jpg" group-title="SPAIN",Telemadrid
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://telesafor.com/wp-content/uploads/2016/08/telesafor_b.png" group-title="SPAIN",TeleSafor
-http://video.telesafor.com/hls/video_low.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://canal7televalencia.es/wp-content/uploads/2017/03/Logo_A_vertical-242x300.png" group-title="SPAIN",TeleValencia
-http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.gelabert.net/wp-content/uploads/2016/06/LOGO-TV3-OFICIAL-FONS-NEGRE.jpg" group-title="SPAIN",TV3 (Opt-1)
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.gelabert.net/wp-content/uploads/2016/06/LOGO-TV3-OFICIAL-FONS-NEGRE.jpg" group-title="SPAIN",TV3 (Opt-2)
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000_DVR.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh5.googleusercontent.com/-9PLgxPlDPwI/UJuu6yeS7WI/AAAAAAAAAXI/EMp3l9mR8LQ/s800/Teve4-LaVall_logo.jpg" group-title="SPAIN",TV4 La Vall
-http://188.165.135.22/15o8376r/mystream/chunklist_w511176900.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jl1Nnd4.png" group-title="SPAIN",TV Galicia America
-http://america-crtvg.flumotion.com/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jl1Nnd4.png" group-title="SPAIN",TV Galicia Europa
-http://europa-crtvg.flumotion.com/playlist.m3u8
-
-#EXTINF:0 tvg-logo="http://www.crtvg.es/files/web/20170619205043_CanalInfantil.png" group-title="SPAIN",TVG Xabarin
-http://infantil-crtvg.flumotion.com/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.enetres.tv/img/slider-projects/mediterraneo-tv.jpg" group-title="SPAIN",TV Mediterraneo
-http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.televisionvegabaja.es/wp-content/uploads/2016/11/favicon-150x150.png" group-title="SPAIN",Vega Baja TV
-http://185.29.68.24/tvb.m3u8
+#EXTINF:-1,--------SPANISH--------
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/3679
+#EXTINF:-1,24 Horas
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14184
+#EXTINF:-1,DW ES
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14185
+#EXTINF:-1,---------ES.TD ---------
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14170
+#EXTINF:-1,La 1 FHD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14131
+#EXTINF:-1,LA 1
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5559
+#EXTINF:-1,LA 2
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5560
+#EXTINF:-1,Antenna 3 FHD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14132
+#EXTINF:-1,Antenna 3
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5527
+#EXTINF:-1,Cuatro FHD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14134
+#EXTINF:-1,Cuatro
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5545
+#EXTINF:-1,Canal Sur A.
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14178
+#EXTINF:-1,Tele Madrid FHD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14177
+#EXTINF:-1,TeleCinco FHD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14133
+#EXTINF:-1,TeleCinco
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5587
+#EXTINF:-1,La Sexta FHD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14135
+#EXTINF:-1,La Sexta
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5561
+#EXTINF:-1,Hollywood'
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5634
+#EXTINF:-1,Divinity
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5549
+#EXTINF:-1,Energy
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5550
+#EXTINF:-1,FDF
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5553
+#EXTINF:-1,SyFy'
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5635
+#EXTINF:-1,Mega HD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14136
+#EXTINF:-1,AMC
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5526
+#EXTINF:-1,AMC FHD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14150
+#EXTINF:-1,NOVA
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5583
+#EXTINF:-1,Iberalia Tv
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5558
+#EXTINF:-1,---------ES.Deportes---------
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14171
+#EXTINF:-1,Teledeporte
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5588
+#EXTINF:-1,TeleDeporte FHD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14162
+#EXTINF:-1,beIN LaLiga FHD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14161
+#EXTINF:-1,beIN Laliga
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5533
+#EXTINF:-1,Laliga TV FHD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14163
+#EXTINF:-1,LaLiga TV
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5562
+#EXTINF:-1,M. Deportes FHD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14158
+#EXTINF:-1,M. Deportes
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5568
+#EXTINF:-1,Liga Campeones 1
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/12603
+#EXTINF:-1,Liga Campeones 2
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/12604
+#EXTINF:-1,Liga Campeones 3
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/12605
+#EXTINF:-1,M. Vamos FHD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14157
+#EXTINF:-1,Eurosport'1
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5551
+#EXTINF:-1,Eurosport'2
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5552
+#EXTINF:-1,GOL
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5556
+#EXTINF:-1,M. Formula 1 FHD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14168
+#EXTINF:-1,M. Formula 1
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5573
+#EXTINF:-1,M. Futbol FHD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14160
+#EXTINF:-1,Real Madrid TV
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5585
+#EXTINF:-1,Barça TV
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5532
+#EXTINF:-1,M. Golf HD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14164
+#EXTINF:-1,M. Golf
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5574
+#EXTINF:-1,M. Toros
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5631
+#EXTINF:-1,---------ES.Docus---------
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14172
+#EXTINF:-1,National Geographic FHD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14165
+#EXTINF:-1,National' Geographic
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5580
+#EXTINF:-1,Nat Geo Wild FHD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14166
+#EXTINF:-1,NatGeo' Wild
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5579
+#EXTINF:-1,DISCOVERY'
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5632
+#EXTINF:-1,Crime& Investigation
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14181
+#EXTINF:-1,Dmax
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14180
+#EXTINF:-1,Odisea
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14179
+#EXTINF:-1,Caza y Pesca
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5540
+#EXTINF:-1,BLAZE
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5525
+#EXTINF:-1,VIAJAR
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5589
+#EXTINF:-1,Historia
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5557
+#EXTINF:-1,---------ES.Cine&Series---------
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14173
+#EXTINF:-1,#0 FHD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14145
+#EXTINF:-1,#0
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5523
+#EXTINF:-1,M. Accion FHD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14138
+#EXTINF:-1,M. Accion
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5564
+#EXTINF:-1,M. Comedia FHD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14141
+#EXTINF:-1,M. Comedia
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5566
+#EXTINF:-1,M. Estrenos HD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14137
+#EXTINF:-1,M. Estrenos
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5571
+#EXTINF:-1,M. Series FHD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14146
+#EXTINF:-1,M. Series
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5565
+#EXTINF:-1,M. Cine N
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5567
+#EXTINF:-1,M. Drama FHD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14140
+#EXTINF:-1,M. DRAMA
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5577
+#EXTINF:-1,M. Seriesmania FHD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14147
+#EXTINF:-1,M. Seriesmania
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5576
+#EXTINF:-1,M. CineDoc&Roll FHD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14139
+#EXTINF:-1,M. CineDoc&Roll
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5570
+#EXTINF:-1,TMC FHD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14143
+#EXTINF:-1,TCM
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5586
+#EXTINF:-1,Telenovelas
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14182
+#EXTINF:-1,Paramount
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5584
+#EXTINF:-1,Comedy. Central
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5542
+#EXTINF:-1,Fox FHD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14148
+#EXTINF:-1,Fox'
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5633
+#EXTINF:-1,Fox Life FHD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14149
+#EXTINF:-1,Fox Life'
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5554
+#EXTINF:-1,AXN FHD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14151
+#EXTINF:-1,AXN'
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5629
+#EXTINF:-1,AXN White FHD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14152
+#EXTINF:-1,AXN White
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5529
+#EXTINF:-1,TNT FHD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14144
+#EXTINF:-1,TNT'
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5636
+#EXTINF:-1,Cosmo HD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14156
+#EXTINF:-1,Cosmo
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5563
+#EXTINF:-1,A3 Series FHD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14155
+#EXTINF:-1,A3 Series
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5544
+#EXTINF:-1,Calle 13 FHD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14154
+#EXTINF:-1,Calle 13
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5534
+#EXTINF:-1,Canal Decasa
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5536
+#EXTINF:-1,Canal Cocina
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5535
+#EXTINF:-1,---------ES.Bajo'Demanda---------
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14174
+#EXTINF:-1,Alquiler 1
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/12301
+#EXTINF:-1,Alquiler 2
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/12303
+#EXTINF:-1,Alquiler 3
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/12305
+#EXTINF:-1,Alquiler 4
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/12306
+#EXTINF:-1,Alquiler 5
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/12308
+#EXTINF:-1,Alquiler 6
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/12309
+#EXTINF:-1,Alquiler 7
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/12310
+#EXTINF:-1,Alquiler 8
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/12312
+#EXTINF:-1,Alquiler 9
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/12314
+#EXTINF:-1,Alquiler 10
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/12316
+#EXTINF:-1,---------ES.Infantil---------
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14175
+#EXTINF:-1,Canal Panda
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5538
+#EXTINF:-1,BOING'
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5630
+#EXTINF:-1,BabyTV
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5530
+#EXTINF:-1,Disney' XD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5548
+#EXTINF:-1,Disney' Junior
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5547
+#EXTINF:-1,Disney' Channel
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5546
+#EXTINF:-1,Nick JR
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14183
+#EXTINF:-1,Neox
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5581
+#EXTINF:-1,Clan TVE
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5541
+#EXTINF:-1,Aragón TV
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5528
+#EXTINF:-1,---------ES.Musica---------
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14176
+#EXTINF:-1,MTV España
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5578
