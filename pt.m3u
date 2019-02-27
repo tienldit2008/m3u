@@ -1,111 +1,129 @@
 #EXTM3U
-#EXTINF:-1,24 Kitchen
-http://p4.giffy.be:8080/live/sandy/1234/95093.m3u8
-#EXTINF:-1,ABOLATV
-http://p4.giffy.be:8080/live/sandy/1234/95091.m3u8
-#EXTINF:-1,Agueda TV
-http://p4.giffy.be:8080/live/sandy/1234/95043.m3u8
-#EXTINF:-1,Angelus TV
-http://p4.giffy.be:8080/live/sandy/1234/95050.m3u8
-#EXTINF:-1,BENFICATV 1 SD
-http://p4.giffy.be:8080/live/sandy/1234/95038.m3u8
-#EXTINF:-1,BLAZE
-http://p4.giffy.be:8080/live/sandy/1234/95092.m3u8
-#EXTINF:-1,Caca e Pesca
-http://p4.giffy.be:8080/live/sandy/1234/95049.m3u8
-#EXTINF:-1,CACAVISION
-http://p4.giffy.be:8080/live/sandy/1234/95061.m3u8
-#EXTINF:-1,CANAL PANDA
-http://p4.giffy.be:8080/live/sandy/1234/95060.m3u8
-#EXTINF:-1,Cinemundo
-http://p4.giffy.be:8080/live/sandy/1234/95048.m3u8
-#EXTINF:-1,ELEVEN SPORTS 1 HD
-http://p4.giffy.be:8080/live/sandy/1234/95041.m3u8
-#EXTINF:-1,ELEVEN SPORTS 2 HD
-http://p4.giffy.be:8080/live/sandy/1234/95040.m3u8
-#EXTINF:-1,ELEVEN SPORTS 3
-http://p4.giffy.be:8080/live/sandy/1234/95036.m3u8
-#EXTINF:-1,ELEVEN SPORTS 3 HD
-http://p4.giffy.be:8080/live/sandy/1234/95039.m3u8
-#EXTINF:-1,Eurosport 1 HD
-http://p4.giffy.be:8080/live/sandy/1234/95059.m3u8
-#EXTINF:-1,Eurosport 2
-http://p4.giffy.be:8080/live/sandy/1234/95058.m3u8
-#EXTINF:-1,Globo PORTUGAL
-http://p4.giffy.be:8080/live/sandy/1234/95057.m3u8
-#EXTINF:-1,Globo Premium
-http://p4.giffy.be:8080/live/sandy/1234/95056.m3u8
-#EXTINF:-1,Localvision
-http://p4.giffy.be:8080/live/sandy/1234/95047.m3u8
-#EXTINF:-1,MY CUISINE
-http://p4.giffy.be:8080/live/sandy/1234/95035.m3u8
-#EXTINF:-1,Odisseia
-http://p4.giffy.be:8080/live/sandy/1234/95046.m3u8
-#EXTINF:-1,PFC
-http://p4.giffy.be:8080/live/sandy/1234/95055.m3u8
-#EXTINF:-1,PORTO CANAL
-http://p4.giffy.be:8080/live/sandy/1234/95054.m3u8
-#EXTINF:-1,RECORD
-http://p4.giffy.be:8080/live/sandy/1234/95045.m3u8
-#EXTINF:-1,Regioes TV
-http://p4.giffy.be:8080/live/sandy/1234/95044.m3u8
-#EXTINF:-1,SIC CARAS
-http://p4.giffy.be:8080/live/sandy/1234/95053.m3u8
-#EXTINF:-1,SIC Kids
-http://p4.giffy.be:8080/live/sandy/1234/95052.m3u8
-#EXTINF:-1,Sic Mulher
-http://p4.giffy.be:8080/live/sandy/1234/95064.m3u8
-#EXTINF:-1,SIC NOTICIAS
-http://p4.giffy.be:8080/live/sandy/1234/95065.m3u8
-#EXTINF:-1,SIC Radical
-http://p4.giffy.be:8080/live/sandy/1234/95051.m3u8
-#EXTINF:-1,SPORT TV 1 FULL HD
-http://p4.giffy.be:8080/live/sandy/1234/95066.m3u8
-#EXTINF:-1,SPORTINGTV
-http://p4.giffy.be:8080/live/sandy/1234/95067.m3u8
-#EXTINF:-1,SPORTTV
-http://p4.giffy.be:8080/live/sandy/1234/95068.m3u8
-#EXTINF:-1,SPORTTV 1 HD
-http://p4.giffy.be:8080/live/sandy/1234/95079.m3u8
-#EXTINF:-1,SPORTTV 1 SD
-http://p4.giffy.be:8080/live/sandy/1234/95078.m3u8
-#EXTINF:-1,SPORTTV 2 HD
-http://p4.giffy.be:8080/live/sandy/1234/95077.m3u8
-#EXTINF:-1,SPORTTV 3
-http://p4.giffy.be:8080/live/sandy/1234/95076.m3u8
-#EXTINF:-1,SPORTTV 4
-http://p4.giffy.be:8080/live/sandy/1234/95075.m3u8
-#EXTINF:-1,SPORTTV 5
-http://p4.giffy.be:8080/live/sandy/1234/95074.m3u8
-#EXTINF:-1,SPORTV
-http://p4.giffy.be:8080/live/sandy/1234/95073.m3u8
-#EXTINF:-1,SPORTV 2
-http://p4.giffy.be:8080/live/sandy/1234/95072.m3u8
-#EXTINF:-1,SPORTV 3
-http://p4.giffy.be:8080/live/sandy/1234/95071.m3u8
-#EXTINF:-1,SYFY
-http://p4.giffy.be:8080/live/sandy/1234/95070.m3u8
-#EXTINF:-1,TCV Cabo Verde
-http://p4.giffy.be:8080/live/sandy/1234/95069.m3u8
-#EXTINF:-1,TV CANCAO NOVA
-http://p4.giffy.be:8080/live/sandy/1234/95084.m3u8
-#EXTINF:-1,TV CINE 1
-http://p4.giffy.be:8080/live/sandy/1234/95083.m3u8
-#EXTINF:-1,TV CINE 2
-http://p4.giffy.be:8080/live/sandy/1234/95082.m3u8
-#EXTINF:-1,TV CINE 3
-http://p4.giffy.be:8080/live/sandy/1234/95081.m3u8
-#EXTINF:-1,TV CINE 4
-http://p4.giffy.be:8080/live/sandy/1234/95080.m3u8
-#EXTINF:-1,TV SERIES
-http://p4.giffy.be:8080/live/sandy/1234/95085.m3u8
-#EXTINF:-1,TVI
-http://p4.giffy.be:8080/live/sandy/1234/95086.m3u8
-#EXTINF:-1,TVI FICÇÃO
-http://p4.giffy.be:8080/live/sandy/1234/95087.m3u8
-#EXTINF:-1,TVI REALITY
-http://p4.giffy.be:8080/live/sandy/1234/95088.m3u8
-#EXTINF:-1,TVI24
-http://p4.giffy.be:8080/live/sandy/1234/95089.m3u8
-#EXTINF:-1,UM EUROPA
-http://p4.giffy.be:8080/live/sandy/1234/95042.m3u8
+#EXTINF:0,24 Kitchen HD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5014
+#EXTINF:0,Axn. Black HD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5048
+#EXTINF:0,AXN. HD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5050
+#EXTINF:0,Axn. White HD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5049
+#EXTINF:0,RTP 1
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5076
+#EXTINF:0,RTP 2
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5075
+#EXTINF:0,RTP 3
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5074
+#EXTINF:0,RTP  Acores
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5070
+#EXTINF:0,RTP Africa
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5071
+#EXTINF:0,RTP Madeira
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5072
+#EXTINF:0,RTP Memoria
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5073
+#EXTINF:0,TV Cine 1HD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5060
+#EXTINF:0,TV Cine 2
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5059
+#EXTINF:0,TV Cine 3
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5058
+#EXTINF:0,TV Cine 4
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5057
+#EXTINF:0,TV  Series
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5061
+#EXTINF:0,TV. Globo
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5020
+#EXTINF:0,TV Record
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5041
+#EXTINF:0,TV Urbana
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5038
+#EXTINF:0,TVE/TV Cultura
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5040
+#EXTINF:0,TVI
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5042
+#EXTINF:0,TVI_24
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5067
+#EXTINF:0,TVI Ficcao
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5021
+#EXTINF:0,TVI Reality
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5022
+#EXTINF:0,SIC
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/12543
+#EXTINF:0,Sic Caras
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5009
+#EXTINF:0,Sic Noticias
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5018
+#EXTINF:0,Sic Radical
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5019
+#EXTINF:0,SIC MULHER
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/12544
+#EXTINF:0,Baby. TV
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5065
+#EXTINF:0,Canal Porto
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5011
+#EXTINF:0,CINEMUNDO
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5047
+#EXTINF:0,CM TV
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5015
+#EXTINF:0,Discovery. Showcase HD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5023
+#EXTINF:0,National Geographic .Wild
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5001
+#EXTINF:0,Disney. Junior
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5064
+#EXTINF:0,Porto Canal
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5066
+#EXTINF:0,Fox.Comedy
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5053
+#EXTINF:0,Fox Crime HD.
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5054
+#EXTINF:0,Fox. HD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5056
+#EXTINF:0,Fox. Life HD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5052
+#EXTINF:0,Fox .Movies
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5055
+#EXTINF:0,History HD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5000
+#EXTINF:0,Hollywood
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5051
+#EXTINF:0,JIM JAM
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5063
+#EXTINF:0,Odisseia
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5002
+#EXTINF:0,Panda Canal
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5062
+#EXTINF:0,PFC
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5039
+#EXTINF:0,Motor vision
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5036
+#EXTINF:0,Real MadridTV
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5028
+#EXTINF:0,Eleven Sport 1 HD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/12545
+#EXTINF:0,Eleven Sport 2 HD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/12546
+#EXTINF:0,Eleven Sport 3 HD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/12547
+#EXTINF:0,Eleven Sport 4 HD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/12548
+#EXTINF:0,Eleven Sport 5 HD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/12549
+#EXTINF:0,Eleven Sport 6 HD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/12550
+#EXTINF:0,Benfica TV1
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5069
+#EXTINF:0,Benfica TV 2
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5068
+#EXTINF:0,Sport TV 1HD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5035
+#EXTINF:0,Sport TV 2HD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5034
+#EXTINF:0,Sport TV 3HD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5033
+#EXTINF:0,Sport TV 4HD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5032
+#EXTINF:0,Sport TV 5HD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5031
+#EXTINF:0,Sporting TV HD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5029
