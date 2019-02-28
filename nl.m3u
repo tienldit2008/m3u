@@ -1,133 +1,81 @@
 #EXTM3U
-#EXTINF:0,HISTORY
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7554
-#EXTINF:0,History HD
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7508
-#EXTINF:0,Investigation Discovery
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7507
-#EXTINF:0,L1 Limburg
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7506
-#EXTINF:0,Motorsport.TV
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7505
-#EXTINF:0,Nat Geo Wild
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7502
-#EXTINF:0,Nat Geo Wild HD
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7570
-#EXTINF:0,National Geographic Channel
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7563
-#EXTINF:0,National Geographic HD
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7501
-#EXTINF:0,NET 5
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7538
-#EXTINF:0,NET 5 HD
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7500
-#EXTINF:0,Nick Jr.
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7499
-#EXTINF:0,Nick Toons
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7498
-#EXTINF:0,Nickelodeon
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7539
-#EXTINF:0,Nicktoons
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7540
-#EXTINF:0,NPO 1
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7564
-#EXTINF:0,NPO 1 HD
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7497
-#EXTINF:0,NPO 101
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7541
-#EXTINF:0,NPO 2
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7557
-#EXTINF:0,NPO 2 HD
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7496
-#EXTINF:0,NPO 3
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7558
-#EXTINF:0,NPO 3 HD
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7495
-#EXTINF:0,NPO Cultura
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7494
-#EXTINF:0,NPO Extra Zapp
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7493
-#EXTINF:0,NPO Nieuws
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7451
-#EXTINF:0,NPO Politiek/Sport
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7492
-#EXTINF:0,NPO Zapp Xtra
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7542
-#EXTINF:0,Omroep Brabant
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7491
-#EXTINF:0,Omroep Flevoland
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7490
-#EXTINF:0,Omroep Limburg
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7489
-#EXTINF:0,Omroep Zeeland
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7450
-#EXTINF:0,ONS
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7488
-#EXTINF:0,Pebble TV
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7449
-#EXTINF:0,Rijnmond Tv
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7448
-#EXTINF:0,RTL 4
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7543
-#EXTINF:0,RTL 4 HD
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7487
-#EXTINF:0,RTL 5
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7559
-#EXTINF:0,RTL 5 HD
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7560
-#EXTINF:0,RTL 7
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7561
-#EXTINF:0,RTL 7 HD
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7486
-#EXTINF:0,RTL 8
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7485
-#EXTINF:0,RTL 8 HD
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7555
-#EXTINF:0,RTL Crime
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7484
-#EXTINF:0,RTL Lounge
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7571
-#EXTINF:0,RTL Z
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7544
-#EXTINF:0,RTL Z HD
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7483
-#EXTINF:0,RTV Drenthe
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7545
-#EXTINF:0,RTV Oost
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7482
-#EXTINF:0,RTV Slingeland
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7481
-#EXTINF:0,RTV Utrecht
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7572
-#EXTINF:0,SBS 6
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7546
-#EXTINF:0,SBS 6 HD
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7480
-#EXTINF:0,SBS 9
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7547
-#EXTINF:0,TLC
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7479
-#EXTINF:0,Travel Channel
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7478
-#EXTINF:0,Travel Channel HD
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7477
-#EXTINF:0,Veronica/Disney XD HD
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7475
-#EXTINF:0,Zappelin Xtra
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7444
-#EXTINF:0,ZIGGO SPORT
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7443
-#EXTINF:0,Ziggo Sport Extra 1
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7551
-#EXTINF:0,Ziggo Sport Extra 2
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7552
-#EXTINF:0,Ziggo Sport Golf
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7474
-#EXTINF:0,Ziggo Sport Racing
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7549
-#EXTINF:0,ZIGGO SPORT SELECT
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7473
-#EXTINF:0,Ziggo Sport Select HD
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7472
-#EXTINF:0,Ziggo Sport Voetbal HD
-http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/7471
+#EXTINF:-1, NPO 1
+http://ciciturk.8000/live/TEST/TEST/2.ts
+#EXTINF:-1, NPO 2
+http://ciciturk.8000/live/TEST/TEST/3.ts
+#EXTINF:-1, NPO 3
+http://ciciturk.8000/live/TEST/TEST/5.ts
+#EXTINF:-1,RTL 4
+http://ciciturk.8000/live/TEST/TEST/4.ts
+#EXTINF:-1,RTL 5
+http://ciciturk.8000/live/TEST/TEST/6.ts
+#EXTINF:-1,SBS 6
+http://ciciturk.8000/live/TEST/TEST/7.ts
+#EXTINF:-1,RTL 7
+http://ciciturk.8000/live/TEST/TEST/8.ts
+#EXTINF:-1,veronica
+http://ciciturk.8000/live/TEST/TEST/9.ts
+#EXTINF:-1,ID. Discovery
+http://ciciturk.8000/live/TEST/TEST/10.ts
+#EXTINF:-1,Cartoon Network
+http://ciciturk.8000/live/TEST/TEST/14.ts
+#EXTINF:-1,Discovery
+http://ciciturk.8000/live/TEST/TEST/11.ts
+#EXTINF:-1,Disney Channel
+http://ciciturk.8000/live/TEST/TEST/13.ts
+#EXTINF:-1,Fox sports 3
+http://ciciturk.8000/live/TEST/TEST/12.ts
+#EXTINF:-1,Film 1 action
+http://ciciturk.8000/live/TEST/TEST/16.ts
+#EXTINF:-1,Film1 Drama
+http://ciciturk.8000/live/TEST/TEST/15.ts
+#EXTINF:-1,Film1 Family
+http://ciciturk.8000/live/TEST/TEST/18.ts
+#EXTINF:-1,Film1 Premiere HD
+http://ciciturk.8000/live/TEST/TEST/17.ts
+#EXTINF:-1,Ziggo Sport Select
+http://ciciturk.8000/live/TEST/TEST/20.ts
+#EXTINF:-1,Ziggo Sport Voetbal
+http://ciciturk.8000/live/TEST/TEST/19.ts
+#EXTINF:-1,Nickelodoen
+http://ciciturk.8000/live/TEST/TEST/21.ts
+#EXTINF:-1,comedy center
+http://ciciturk.8000/live/TEST/TEST/22.ts
+#EXTINF:-1,sbs 9
+http://ciciturk.8000/live/TEST/TEST/23.ts
+#EXTINF:-1,Fox sports 4
+http://ciciturk.8000/live/TEST/TEST/24.ts
+#EXTINF:-1,rtl crime
+http://ciciturk.8000/live/TEST/TEST/25.ts
+#EXTINF:-1,rtl 8
+http://ciciturk.8000/live/TEST/TEST/26.ts
+#EXTINF:-1,Rtl Lounge
+http://ciciturk.8000/live/TEST/TEST/27.ts
+#EXTINF:-1,TLC
+http://ciciturk.8000/live/TEST/TEST/28.ts
+#EXTINF:-1,Nick Jr
+http://ciciturk.8000/live/TEST/TEST/31.ts
+#EXTINF:-1,Ziggo Sport Select extra
+http://ciciturk.8000/live/TEST/TEST/30.ts
+#EXTINF:-1,Ziggo Sport Voetbal extra
+http://ciciturk.8000/live/TEST/TEST/29.ts
+#EXTINF:-1,Fox sport 2 (K)
+http://ciciturk.8000/live/TEST/TEST/34.ts
+#EXTINF:-1,NL-FOX SPORTS 1 HD
+http://ciciturk.8000/live/TEST/TEST/46.ts
+#EXTINF:-1,NL-NATIONAL GEOGRAPHIC
+http://ciciturk.8000/live/TEST/TEST/50.ts
+#EXTINF:-1,NL-NPO HUMOR/ZAPPELING TV
+http://ciciturk.8000/live/TEST/TEST/51.ts
+#EXTINF:-1,NL-RTL Z
+http://ciciturk.8000/live/TEST/TEST/39.ts
+#EXTINF:-1,NL-SLAM TV
+http://ciciturk.8000/live/TEST/TEST/40.ts
+#EXTINF:-1,NL-ZIGGO SPORT EXTRA 1
+http://ciciturk.8000/live/TEST/TEST/42.ts
+#EXTINF:-1,NL-ZIGGO SPORT EXTRA 2
+http://ciciturk.8000/live/TEST/TEST/43.ts
+#EXTINF:-1,FOX SPOR 4
+http://ciciturk.8000/live/TEST/TEST/54.ts
+#EXTINF:-1,FOX  SPOR 5
+http://ciciturk.8000/live/TEST/TEST/55.ts
