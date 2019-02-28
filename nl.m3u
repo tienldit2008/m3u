@@ -1,81 +1,105 @@
 #EXTM3U
-#EXTINF:-1, NPO 1
-http://ciciturk.8000/live/TEST/TEST/2.ts
-#EXTINF:-1, NPO 2
-http://ciciturk.8000/live/TEST/TEST/3.ts
-#EXTINF:-1, NPO 3
-http://ciciturk.8000/live/TEST/TEST/5.ts
-#EXTINF:-1,RTL 4
-http://ciciturk.8000/live/TEST/TEST/4.ts
-#EXTINF:-1,RTL 5
-http://ciciturk.8000/live/TEST/TEST/6.ts
-#EXTINF:-1,SBS 6
-http://ciciturk.8000/live/TEST/TEST/7.ts
-#EXTINF:-1,RTL 7
-http://ciciturk.8000/live/TEST/TEST/8.ts
-#EXTINF:-1,veronica
-http://ciciturk.8000/live/TEST/TEST/9.ts
-#EXTINF:-1,ID. Discovery
-http://ciciturk.8000/live/TEST/TEST/10.ts
-#EXTINF:-1,Cartoon Network
-http://ciciturk.8000/live/TEST/TEST/14.ts
-#EXTINF:-1,Discovery
-http://ciciturk.8000/live/TEST/TEST/11.ts
-#EXTINF:-1,Disney Channel
-http://ciciturk.8000/live/TEST/TEST/13.ts
-#EXTINF:-1,Fox sports 3
-http://ciciturk.8000/live/TEST/TEST/12.ts
-#EXTINF:-1,Film 1 action
-http://ciciturk.8000/live/TEST/TEST/16.ts
-#EXTINF:-1,Film1 Drama
-http://ciciturk.8000/live/TEST/TEST/15.ts
-#EXTINF:-1,Film1 Family
-http://ciciturk.8000/live/TEST/TEST/18.ts
-#EXTINF:-1,Film1 Premiere HD
-http://ciciturk.8000/live/TEST/TEST/17.ts
-#EXTINF:-1,Ziggo Sport Select
-http://ciciturk.8000/live/TEST/TEST/20.ts
-#EXTINF:-1,Ziggo Sport Voetbal
-http://ciciturk.8000/live/TEST/TEST/19.ts
-#EXTINF:-1,Nickelodoen
-http://ciciturk.8000/live/TEST/TEST/21.ts
-#EXTINF:-1,comedy center
-http://ciciturk.8000/live/TEST/TEST/22.ts
-#EXTINF:-1,sbs 9
-http://ciciturk.8000/live/TEST/TEST/23.ts
-#EXTINF:-1,Fox sports 4
-http://ciciturk.8000/live/TEST/TEST/24.ts
-#EXTINF:-1,rtl crime
-http://ciciturk.8000/live/TEST/TEST/25.ts
-#EXTINF:-1,rtl 8
-http://ciciturk.8000/live/TEST/TEST/26.ts
-#EXTINF:-1,Rtl Lounge
-http://ciciturk.8000/live/TEST/TEST/27.ts
-#EXTINF:-1,TLC
-http://ciciturk.8000/live/TEST/TEST/28.ts
-#EXTINF:-1,Nick Jr
-http://ciciturk.8000/live/TEST/TEST/31.ts
-#EXTINF:-1,Ziggo Sport Select extra
-http://ciciturk.8000/live/TEST/TEST/30.ts
-#EXTINF:-1,Ziggo Sport Voetbal extra
-http://ciciturk.8000/live/TEST/TEST/29.ts
-#EXTINF:-1,Fox sport 2 (K)
-http://ciciturk.8000/live/TEST/TEST/34.ts
-#EXTINF:-1,NL-FOX SPORTS 1 HD
-http://ciciturk.8000/live/TEST/TEST/46.ts
-#EXTINF:-1,NL-NATIONAL GEOGRAPHIC
-http://ciciturk.8000/live/TEST/TEST/50.ts
-#EXTINF:-1,NL-NPO HUMOR/ZAPPELING TV
-http://ciciturk.8000/live/TEST/TEST/51.ts
-#EXTINF:-1,NL-RTL Z
-http://ciciturk.8000/live/TEST/TEST/39.ts
-#EXTINF:-1,NL-SLAM TV
-http://ciciturk.8000/live/TEST/TEST/40.ts
-#EXTINF:-1,NL-ZIGGO SPORT EXTRA 1
-http://ciciturk.8000/live/TEST/TEST/42.ts
-#EXTINF:-1,NL-ZIGGO SPORT EXTRA 2
-http://ciciturk.8000/live/TEST/TEST/43.ts
-#EXTINF:-1,FOX SPOR 4
-http://ciciturk.8000/live/TEST/TEST/54.ts
-#EXTINF:-1,FOX  SPOR 5
-http://ciciturk.8000/live/TEST/TEST/55.ts
+#EXTINF:0,NPO 1HD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4209
+#EXTINF:0,NPO 2HD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4167
+#EXTINF:0,NPO 3 HD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4205
+#EXTINF:0,RTL4 HD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4187
+#EXTINF:0,RTL5 HD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4186
+#EXTINF:0,SBS6 HD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4191
+#EXTINF:0,RTL7 HD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4181
+#EXTINF:0,RTL 8
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4180
+#EXTINF:0,SBS 9
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4179
+#EXTINF:0,RTL Z
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4172
+#EXTINF:0,RTL LOUNGE
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4178
+#EXTINF:0,Net 5 HD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4175
+#EXTINF:0,NPO Politiek
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4208
+#EXTINF:0,FOX HD.
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4169
+#EXTINF:0,Film FAMILY
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4196
+#EXTINF:0,Film DRAMA
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4195
+#EXTINF:0,Film 1 Sundance
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4194
+#EXTINF:0,Film 1 Premiere HD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4192
+#EXTINF:0,RTL Telekids
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/7974
+#EXTINF:0,TV Oranje
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/7975
+#EXTINF:0,TV Noord
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/7976
+#EXTINF:0,Comedy Central Extra.
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/7963
+#EXTINF:0,Comedy Central - 
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/7964
+#EXTINF:0,Crime & Investigation - 
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/7962
+#EXTINF:0,RTL Crime.
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/7968
+#EXTINF:0,Omroep Zeeland
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/7970
+#EXTINF:0,Omroep Brabant Televisie
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/7971
+#EXTINF:0,TV GELDERLAND
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/7973
+#EXTINF:0,TLC
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4171
+#EXTINF:0,24 Kitchen HD.
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4170
+#EXTINF:0,Nat Geo Wild.
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4166
+#EXTINF:0,Discovery.
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4168
+#EXTINF:0,DISCOVERY - 
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/7961
+#EXTINF:0,National Geographic HD - 
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/7960
+#EXTINF:0,Disney Channel HD - 
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/7956
+#EXTINF:0,Disney Junior;
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/7958
+#EXTINF:0,Cartoon Network;
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/7955
+#EXTINF:0,NICK TOONS - 
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/7959
+#EXTINF:0,NPO Zapp Xtra
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4207
+#EXTINF:0,Ziggo Sport Golf
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4200
+#EXTINF:0,Ziggo Sport Racing
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4201
+#EXTINF:0,Ziggo Sport Voetbal HD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4204
+#EXTINF:0,Ziggo Sport eXtra 1
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4199
+#EXTINF:0,Ziggo Sport eXtra 2
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4197
+#EXTINF:0,Ziggo Sport Select HD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4202
+#EXTINF:0,Veronica Disney XD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4173
+#EXTINF:0,Fox Sports 1 HD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4185
+#EXTINF:0,Fox Sports 2 HD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4165
+#EXTINF:0,Fox Sports 3 HD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4183
+#EXTINF:0,Fox Sports 4 HD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4184
+#EXTINF:0,Fox Sports 5 Hd
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4206
+#EXTINF:0,Fox Sports 6 HD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4182
