@@ -1,475 +1,500 @@
 #EXTM3U
-#EXTINF:0,MBC 1
-http://145.239.2.221:25461/greg/greg/73
-#EXTINF:0,MBC Masr
-http://145.239.2.221:25461/greg/greg/80
-#EXTINF:0,MBC Masr 2
-http://145.239.2.221:25461/greg/greg/81
-#EXTINF:0,MBC 2
-http://145.239.2.221:25461/greg/greg/74
-#EXTINF:0,MBC 3
-http://145.239.2.221:25461/greg/greg/75
-#EXTINF:0,MBC 4
-http://145.239.2.221:25461/greg/greg/76
-#EXTINF:0,MBC Drama
-http://145.239.2.221:25461/greg/greg/79
-#EXTINF:0,MBC Max
-http://145.239.2.221:25461/greg/greg/82
-#EXTINF:0,MBC Bollywood
-http://145.239.2.221:25461/greg/greg/78
-#EXTINF:0,MBC Action
-http://145.239.2.221:25461/greg/greg/77
-#EXTINF:0,Ajyal
-http://145.239.2.221:25461/greg/greg/72
-#EXTINF:0,Baraem
-http://145.239.2.221:25461/greg/greg/256
-#EXTINF:0,CN Arabic
-http://145.239.2.221:25461/greg/greg/71
-#EXTINF:0,Karameesh
-http://145.239.2.221:25461/greg/greg/70
-#EXTINF:0,Majd Kids
-http://145.239.2.221:25461/greg/greg/65
-#EXTINF:0,Spacetoon
-http://145.239.2.221:25461/greg/greg/68
-#EXTINF:0,Toyor Al Janah
-http://145.239.2.221:25461/greg/greg/67
-#EXTINF:0,Toyor Baby
-http://145.239.2.221:25461/greg/greg/66
-#EXTINF:0,Al Jadeed
-http://145.239.2.221:25461/greg/greg/8
-#EXTINF:0,Future TV
-http://145.239.2.221:25461/greg/greg/7
-#EXTINF:0,Heya TV
-http://145.239.2.221:25461/greg/greg/20
-#EXTINF:0,LBC Sat
-http://145.239.2.221:25461/greg/greg/4
-#EXTINF:0,LDC
-http://145.239.2.221:25461/greg/greg/10
-#EXTINF:0,NBN
-http://145.239.2.221:25461/greg/greg/6
-#EXTINF:0,OTV
-http://145.239.2.221:25461/greg/greg/15
-#EXTINF:0,Tele Liban
-http://145.239.2.221:25461/greg/greg/12
-#EXTINF:0,Noor Al-Sham
-http://145.239.2.221:25461/greg/greg/29
-#EXTINF:0,Sama TV
-http://145.239.2.221:25461/greg/greg/30
-#EXTINF:0,Syria Drama
-http://145.239.2.221:25461/greg/greg/28
-#EXTINF:0,Syria Sat
-http://145.239.2.221:25461/greg/greg/27
-#EXTINF:0,Lana TV
-http://145.239.2.221:25461/greg/greg/31
-#EXTINF:0,Al Falstiniah TV
-http://145.239.2.221:25461/greg/greg/59
-#EXTINF:0,Al Quds
-http://145.239.2.221:25461/greg/greg/60
-#EXTINF:0,Palestine TV
-http://145.239.2.221:25461/greg/greg/58
-#EXTINF:0,Jordan TV
-http://145.239.2.221:25461/greg/greg/128
-#EXTINF:0,Roya TV
-http://145.239.2.221:25461/greg/greg/127
-#EXTINF:0,2M
-http://145.239.2.221:25461/greg/greg/203
-#EXTINF:0,Abu Dhabi
-http://145.239.2.221:25461/greg/greg/115
-#EXTINF:0,Abu Dhabi Drama
-http://145.239.2.221:25461/greg/greg/116
-#EXTINF:0,Abu Dhabi Emarat
-http://145.239.2.221:25461/greg/greg/117
-#EXTINF:0,Abu Dhabi Sports 1
-http://145.239.2.221:25461/greg/greg/118
-#EXTINF:0,Abu Dhabi Sports 2
-http://145.239.2.221:25461/greg/greg/119
-#EXTINF:0,Aden
-http://145.239.2.221:25461/greg/greg/227
-#EXTINF:0,Afaq Tv
-http://145.239.2.221:25461/greg/greg/153
-#EXTINF:0,Al Ahd
-http://145.239.2.221:25461/greg/greg/151
-#EXTINF:0,Al Ahly TV
-http://145.239.2.221:25461/greg/greg/186
-#EXTINF:0,Al Anbar
-http://145.239.2.221:25461/greg/greg/144
-#EXTINF:0,Al Aoula Maroc
-http://145.239.2.221:25461/greg/greg/202
-#EXTINF:0,Al Araby
-http://145.239.2.221:25461/greg/greg/38
-#EXTINF:0,Al Ekhbaria
-http://145.239.2.221:25461/greg/greg/135
-#EXTINF:0,Al Fallujah
-http://145.239.2.221:25461/greg/greg/158
-#EXTINF:0,Al hurra Iraq
-https://mbningestmena-i.akamaihd.net/hls/live/586115/alhurramena/master.m3u8
-#EXTINF:0,Al Iraqiya
-http://145.239.2.221:25461/greg/greg/142
-#EXTINF:0,Al Janoubiya
-http://145.239.2.221:25461/greg/greg/53
-#EXTINF:0,Al Kahera Wal Nes
-http://145.239.2.221:25461/greg/greg/195
-#EXTINF:0,Al Maghribia
-http://145.239.2.221:25461/greg/greg/206
-#EXTINF:0,Al Majd
-http://145.239.2.221:25461/greg/greg/132
-#EXTINF:0,Al Masriya
-http://145.239.2.221:25461/greg/greg/194
-#EXTINF:0,Al Mawsleya
-http://145.239.2.221:25461/greg/greg/147
-#EXTINF:0,Al Mehwar
-http://145.239.2.221:25461/greg/greg/180
-#EXTINF:0,Almustakillah TV
-http://145.239.2.221:25461/greg/greg/52
-#EXTINF:0,Al Nahar
-http://145.239.2.221:25461/greg/greg/183
-#EXTINF:0,Al Nahar Drama
-http://145.239.2.221:25461/greg/greg/184
-#EXTINF:0,Al Oula
-http://145.239.2.221:25461/greg/greg/181
-#EXTINF:0,Al Quran Al Karim
-http://145.239.2.221:25461/greg/greg/131
-#EXTINF:0,Al Rafidain
-http://145.239.2.221:25461/greg/greg/143
-#EXTINF:0,Al Rahma
-http://145.239.2.221:25461/greg/greg/159
-#EXTINF:0,Al rasheed
-http://145.239.2.221:25461/greg/greg/145
-#EXTINF:0,Al Resalah
-http://145.239.2.221:25461/greg/greg/133
-#EXTINF:0,Al Saeedah
-http://145.239.2.221:25461/greg/greg/226
-#EXTINF:0,Al Sharqiya
-http://145.239.2.221:25461/greg/greg/148
-#EXTINF:0,Al Sharqiya News
-http://145.239.2.221:25461/greg/greg/45
-#EXTINF:0,Al Sumaria
-http://145.239.2.221:25461/greg/greg/155
-#EXTINF:0,Al Thanya
-http://145.239.2.221:25461/greg/greg/182
-#EXTINF:0,AlGeria
-http://145.239.2.221:25461/greg/greg/210
-#EXTINF:0,Algeria 3
-http://145.239.2.221:25461/greg/greg/211
-#EXTINF:0,Alhayah TV
-http://145.239.2.221:25461/greg/greg/197
-#EXTINF:0,Alhayah Series TV
-http://145.239.2.221:25461/greg/greg/196
-#EXTINF:0,Aljazeera Doc
-http://145.239.2.221:25461/greg/greg/43
-#EXTINF:0,Aljazeera Mubasher
-http://145.239.2.221:25461/greg/greg/44
-#EXTINF:0,Alriadia Sport
-http://145.239.2.221:25461/greg/greg/204
-#EXTINF:0,Arrabia
-http://145.239.2.221:25461/greg/greg/207
-#EXTINF:0,Art Aflam 1
-http://145.239.2.221:25461/greg/greg/61
-#EXTINF:0,Art Aflam 2
-http://145.239.2.221:25461/greg/greg/62
-#EXTINF:0,Art Cinema
-http://145.239.2.221:25461/greg/greg/63
-#EXTINF:0,Art Hekayat
-http://145.239.2.221:25461/greg/greg/64
-#EXTINF:0,Ashorooq TV
-http://145.239.2.221:25461/greg/greg/26
-#EXTINF:0,Assadissa
-http://145.239.2.221:25461/greg/greg/208
-#EXTINF:0,Atessia TV
-http://145.239.2.221:25461/greg/greg/51
-#EXTINF:0,B4U Aflam
-http://145.239.2.221:25461/greg/greg/94
-#EXTINF:0,Baghdad
-http://145.239.2.221:25461/greg/greg/150
-#EXTINF:0,Bahia Tv
-http://145.239.2.221:25461/greg/greg/217
-#EXTINF:0,BBC arabic
-http://145.239.2.221:25461/greg/greg/41
-#EXTINF:0,Blue Nile
-http://145.239.2.221:25461/greg/greg/25
-#EXTINF:0,Cairo Cinema
-http://145.239.2.221:25461/greg/greg/171
-#EXTINF:0,Cairo Drama
-http://145.239.2.221:25461/greg/greg/172
-#EXTINF:0,Carthage TV
-http://145.239.2.221:25461/greg/greg/57
-#EXTINF:0,CBC TV
-http://145.239.2.221:25461/greg/greg/177
-#EXTINF:0,CBC Drama
-http://145.239.2.221:25461/greg/greg/178
-#EXTINF:0,CBC Sofra
-http://145.239.2.221:25461/greg/greg/179
-#EXTINF:0,Cima
-http://145.239.2.221:25461/greg/greg/192
-#EXTINF:0,CNN
-http://145.239.2.221:25461/greg/greg/36
-#EXTINF:0,Coran
-http://145.239.2.221:25461/greg/greg/224
-#EXTINF:0,Dijlah Tv
-http://145.239.2.221:25461/greg/greg/146
-#EXTINF:0,DMC
-http://145.239.2.221:25461/greg/greg/168
-#EXTINF:0,DMC Drama
-http://145.239.2.221:25461/greg/greg/169
-#EXTINF:0,Dream 1
-http://145.239.2.221:25461/greg/greg/173
-#EXTINF:0,Dubai
-http://145.239.2.221:25461/greg/greg/122
-#EXTINF:0,Dubai One
-http://145.239.2.221:25461/greg/greg/124
-#EXTINF:0,Dubai Sport 1
-http://145.239.2.221:25461/greg/greg/120
-#EXTINF:0,Dzair Tv
-http://145.239.2.221:25461/greg/greg/222
-#EXTINF:0,Echorouk Benna Tv
-http://145.239.2.221:25461/greg/greg/220
-#EXTINF:0,Echorouk News
-http://145.239.2.221:25461/greg/greg/221
-#EXTINF:0,Echorouk Tv
-http://145.239.2.221:25461/greg/greg/216
-#EXTINF:0,El Bilad
-http://145.239.2.221:25461/greg/greg/219
-#EXTINF:0,EL DJAZAIRIA
-http://145.239.2.221:25461/greg/greg/214
-#EXTINF:0,El Fadjr
-http://145.239.2.221:25461/greg/greg/218
-#EXTINF:0,El Heddaf TV
-http://145.239.2.221:25461/greg/greg/215
-#EXTINF:0,El Sharq
-http://145.239.2.221:25461/greg/greg/163
-#EXTINF:0,Ennahar TV
-http://145.239.2.221:25461/greg/greg/212
-#EXTINF:0,ERI TV 1
-http://145.239.2.221:25461/greg/greg/239
-#EXTINF:0,Funoon TV
-http://145.239.2.221:25461/greg/greg/138
-#EXTINF:0,Hannibal TV
-http://145.239.2.221:25461/greg/greg/50
-#EXTINF:0,Huda Tv
-http://145.239.2.221:25461/greg/greg/161
-#EXTINF:0,Iqraa Arabic
-http://145.239.2.221:25461/greg/greg/134
-#EXTINF:0,Iraqia sport
-http://145.239.2.221:25461/greg/greg/149
-#EXTINF:0,KSA 1
-http://145.239.2.221:25461/greg/greg/129
-#EXTINF:0,KSA 2
-http://145.239.2.221:25461/greg/greg/130
-#EXTINF:0,Kuwait TV
-http://145.239.2.221:25461/greg/greg/137
-#EXTINF:0,Libya Al Ahrar
-http://145.239.2.221:25461/greg/greg/230
-#EXTINF:0,Libya Tv
-http://145.239.2.221:25461/greg/greg/229
-#EXTINF:0,M Tunisia
-http://145.239.2.221:25461/greg/greg/55
-#EXTINF:0,Medi 1 Sat
-http://145.239.2.221:25461/greg/greg/205
-#EXTINF:0,Nat Geo Ad
-http://145.239.2.221:25461/greg/greg/121
-#EXTINF:0,Nessma TV
-http://145.239.2.221:25461/greg/greg/48
-#EXTINF:0,Nile Cinema
-http://145.239.2.221:25461/greg/greg/191
-#EXTINF:0,Nile Comedy
-http://145.239.2.221:25461/greg/greg/187
-#EXTINF:0,Nile Drama
-http://145.239.2.221:25461/greg/greg/189
-#EXTINF:0,Nile News
-http://145.239.2.221:25461/greg/greg/190
-#EXTINF:0,Nile Sport
-http://145.239.2.221:25461/greg/greg/188
-#EXTINF:0,Nile TV
-http://145.239.2.221:25461/greg/greg/170
-#EXTINF:0,Noor Dubai
-http://145.239.2.221:25461/greg/greg/125
-#EXTINF:0,Oman
-http://145.239.2.221:25461/greg/greg/136
-#EXTINF:0,ON Drama
-http://145.239.2.221:25461/greg/greg/166
-#EXTINF:0,ON E
-http://145.239.2.221:25461/greg/greg/165
-#EXTINF:0,ON Sport-
-http://145.239.2.221:25461/greg/greg/167
-#EXTINF:0,ON TV
-http://145.239.2.221:25461/greg/greg/164
-#EXTINF:0,OBN
-http://145.239.2.221:25461/greg/greg/238
-#EXTINF:0,Panorama Drama
-http://145.239.2.221:25461/greg/greg/199
-#EXTINF:0,Panorama Drama 2
-http://145.239.2.221:25461/greg/greg/200
-#EXTINF:0,Panorama Food
-http://145.239.2.221:25461/greg/greg/198
-#EXTINF:0,Qatar
-http://145.239.2.221:25461/greg/greg/32
-#EXTINF:0,Quest Arabiya
-http://145.239.2.221:25461/greg/greg/126
+#EXTINF:0,AR:BEINSPORTS-1 HD
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3221
+#EXTINF:0,AR:BEINSPORTS-2 HD
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3220
+#EXTINF:0,AR:BEINSPORTS-3 HD
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3219
+#EXTINF:0,AR:BEINSPORTS-4 HD
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3218
+#EXTINF:0,AR:BEINSPORTS-5 HD
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3217
+#EXTINF:0,AR:BEINSPORTS-6 HD
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3216
+#EXTINF:0,AR:BEINSPORTS-7 HD
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3215
+#EXTINF:0,AR:BEINSPORTS-8 HD
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3214
+#EXTINF:0,Bein 2
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3348
+#EXTINF:0,Bein 3
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3347
+#EXTINF:0,Bein 4
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3346
+#EXTINF:0,Bein 5
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3345
+#EXTINF:0,Bein 6
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3344
+#EXTINF:0,Bein 7
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3343
+#EXTINF:0,http://iptv-janberyan.com:25461/janberyan2722019/45667657657/488
+#EXTINF:0,AR:BEINSPORTS-1 SD
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3237
+#EXTINF:0,AR:BEINSPORTS-2 SD
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3236
+#EXTINF:0,AR:BEINSPORTS-3 SD
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3235
+#EXTINF:0,AR:BEINSPORTS-4 SD
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3234
+#EXTINF:0,AR:BEINSPORTS-5 SD
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3233
+#EXTINF:0,AR:BEINSPORTS-6 SD
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3232
+#EXTINF:0,AR:BEINSPORTS-7 SD
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3231
+#EXTINF:0,AR:BEINSPORTS-8 SD
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3230
+#EXTINF:0,http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3261
+#EXTINF:0,beoutQ sports 1HD
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3256
+#EXTINF:0,beoutQ sports 2HD
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3257
+#EXTINF:0,beoutQ sports 3HD
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3258
+#EXTINF:0,beoutQ sports 4HD
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3259
+#EXTINF:0,beoutQ sports 5HD
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3260
+#EXTINF:0,Bein 1
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3349
+#EXTINF:0,Bein -1
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3342
+#EXTINF:0,Bein 1*
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3341
+#EXTINF:0,Bein 1**
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3340
+#EXTINF:0,http://iptv-janberyan.com:25461/janberyan2722019/45667657657/448
+#EXTINF:0,AlfajertvHD1
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3357
+#EXTINF:0,AlfajertvHD2
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3381
+#EXTINF:0,AlfajertvHD3
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3358
+#EXTINF:0,AlfajertvHD4
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3359
+#EXTINF:0,AlfajertvHD5
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3360
+#EXTINF:0,RayaHD1
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3382
+#EXTINF:0,RayaHD2
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3383
+#EXTINF:0,RayaHD3
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3384
+#EXTINF:0,Sport1
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3330
+#EXTINF:0,Sport2
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3331
+#EXTINF:0,Sport3
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3361
+#EXTINF:0,Astera-Sport
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3332
+#EXTINF:0,Ajyal TV Mada*
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/451
+#EXTINF:0,Almahed*
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/452
+#EXTINF:0,AlSalam TV*
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/457
+#EXTINF:0,Bethlehem TV*
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/449
+#EXTINF:0,Byaban Sports*
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/453
+#EXTINF:0,Falcon-Eye-1*
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/456
+#EXTINF:0,Falcon-Eye-2*
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/455
+#EXTINF:0,Falcon-Family*
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/454
+#EXTINF:0,Watar1*
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/450
+#EXTINF:0,Lana +
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3389
+#EXTINF:0,AD-Sport-HD1
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3364
+#EXTINF:0,AD-Sport-HD2
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3365
+#EXTINF:0,AD-Sport-HD3
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3366
+#EXTINF:0,AD-Sport-HD4
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3367
+#EXTINF:0,Ksa Sport 1
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3390
+#EXTINF:0,Ksa Sport 2
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3391
+#EXTINF:0,http://iptv-janberyan.com:25461/janberyan2722019/45667657657/483
+#EXTINF:0,AR-MBC1
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/482
+#EXTINF:0,AR-MBC 2
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/481
+#EXTINF:0,AR-MBC3
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/480
+#EXTINF:0,AR-MBC4
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/479
+#EXTINF:0,AR-MBCDrama
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/474
+#EXTINF:0,MBC DRAMA+
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/475
+#EXTINF:0,MBC IRAQ
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3398
+#EXTINF:0,SBC
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3431
+#EXTINF:0,AR-MBCAction
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/478
+#EXTINF:0,AR-MBCMax
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/473
+#EXTINF:0,B4u Aflam
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/476
+#EXTINF:0,AR-MBC Bollywood
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/477
+#EXTINF:0,http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3251
+#EXTINF:0,OSN Musalsalat
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3362
+#EXTINF:0,OSN Al Youm
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3397
+#EXTINF:0,OSN Ya Hala
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3395
+#EXTINF:0,OSN Ya Hala Shabab
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3396
+#EXTINF:0,Bein Drama
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3417
+#EXTINF:0,CINMA 1
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3400
+#EXTINF:0,OSN Movies HD
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3394
+#EXTINF:0,OSN Action
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3393
+#EXTINF:0,FX-HD
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3418
+#EXTINF:0,MY-FILM-BOX-HD
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3329
+#EXTINF:0,FOX-ACTION
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3420
+#EXTINF:0,Fox-Channel
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3419
+#EXTINF:0,FOX-FAMILY
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3421
+#EXTINF:0,Star Movies
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3399
+#EXTINF:0,My-Cinema-HD
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3373
+#EXTINF:0,Bein Movies 1 HD
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3412
+#EXTINF:0,Bein Movies 2 HD
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3413
+#EXTINF:0,Bein Movies 3 HD
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3414
+#EXTINF:0,Bein Movies 4 HD
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3415
+#EXTINF:0,Bein Dream Works
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3416
+#EXTINF:0,HBO-1
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3425
+#EXTINF:0,HBO-2
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3424
+#EXTINF:0,HBO-3
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3423
+#EXTINF:0,TLC-HD
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3422
+#EXTINF:0,AD_Nat_Geo
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3315
+#EXTINF:0,http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3411
+#EXTINF:0,Erth Alnabawi
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3406
+#EXTINF:0,PNN
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3404
+#EXTINF:0,TRT Arabic
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3407
+#EXTINF:0,Almamlka
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3405
+#EXTINF:0,Maan
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3409
+#EXTINF:0,Musawa
+http://vnczgbk-lh.akamaihd.net/i/test_1@525503/index_2000_av-p.m3u8
+#EXTINF:0,http://iptv-janberyan.com:25461/janberyan2722019/45667657657/120
+#EXTINF:0,Alarabiya
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/119
+#EXTINF:0,Alarabiya Alhadath
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/118
+#EXTINF:0,Alaraby
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/111
+#EXTINF:0,Aljazeera News
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/117
+#EXTINF:0,Ann
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/112
+#EXTINF:0,BBC ARABIC
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/115
+#EXTINF:0,Cnbc arabia
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/113
 #EXTINF:0,RT Arabic
-http://145.239.2.221:25461/greg/greg/37
-#EXTINF:0,Sada Al Balad
-http://145.239.2.221:25461/greg/greg/185
-#EXTINF:0,Safa TV
-http://145.239.2.221:25461/greg/greg/140
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/116
+#EXTINF:0,RT Arabic old
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/110
+#EXTINF:0,Sky news arabia
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/114
+#EXTINF:0,http://iptv-janberyan.com:25461/janberyan2722019/45667657657/109
+#EXTINF:0,CN_Arabia
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3426
+#EXTINF:0,Karamish
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3428
+#EXTINF:0,Nickelodeon-JR
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3430
+#EXTINF:0,TAHA
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3427
+#EXTINF:0,TOYOR-BABY
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3429
+#EXTINF:0,Majid_Kids
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/107
+#EXTINF:0,Nour kids
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/101
+#EXTINF:0,Spacetoon
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/106
+#EXTINF:0,Toyor aljanah
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/108
+#EXTINF:0,http://iptv-janberyan.com:25461/janberyan2722019/45667657657/3310
+#EXTINF:0,Suriya tv*
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/35
+#EXTINF:0,Syria 1 HD*
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/38
+#EXTINF:0,Syria Drama HD*
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/36
+#EXTINF:0,Syria EDU*
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/32
+#EXTINF:0,Syria news HD*
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/37
+#EXTINF:0,Alminber*
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/24
+#EXTINF:0,HALAB TODAY*
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/26
+#EXTINF:0,LANA SYRIA*
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/34
+#EXTINF:0,NOOR ALSHAM HD*
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/31
+#EXTINF:0,ORIENT NEWS*
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/25
+#EXTINF:0,Sama tv*
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/29
+#EXTINF:0,Ugarit*
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/33
+#EXTINF:0,http://iptv-janberyan.com:25461/janberyan2722019/45667657657/71
+#EXTINF:0,Aljadeed
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/61
+#EXTINF:0,Future
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/63
+#EXTINF:0,Future backup
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/62
+#EXTINF:0,LBC HD
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/66
+#EXTINF:0,LDC HD
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/67
+#EXTINF:0,NBN
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/59
+#EXTINF:0,New TELE LEBANON
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/70
+#EXTINF:0,OTV
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/60
+#EXTINF:0,http://iptv-janberyan.com:25461/janberyan2722019/45667657657/141
+#EXTINF:0,CBC HD
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/135
+#EXTINF:0,Cbc1
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/140
+#EXTINF:0,Cbcdrama
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/139
+#EXTINF:0,Cbcsofra
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/138
+#EXTINF:0,CBCSOFRA HD
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/134
+#EXTINF:0,Dmc
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/137
+#EXTINF:0,Dmcdrama
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/136
+#EXTINF:0,SADA ELBALAD HD
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/133
+#EXTINF:0,ZEE AFLAM HD
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/124
+#EXTINF:0,Zee alwan
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/121
+#EXTINF:0,ZEE ALWAN HD
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/123
+#EXTINF:0,Zeeaflam
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/122
+#EXTINF:0,http://iptv-janberyan.com:25461/janberyan2722019/45667657657/100
+#EXTINF:0,AL Etejah
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/87
+#EXTINF:0,AL Rasheed TV
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/86
+#EXTINF:0,AL Rasheed TV backup
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/85
+#EXTINF:0,Alahad
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/75
+#EXTINF:0,Alfaloja
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/98
+#EXTINF:0,Alforat
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/74
+#EXTINF:0,Alhura
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/72
+#EXTINF:0,Alqanat
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/90
+#EXTINF:0,Sumaria
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/99
+#EXTINF:0,ALSHARQIA HD
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/94
+#EXTINF:0,AlSharqiya sd
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/92
+#EXTINF:0,AlsharqiyaNews sd
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/91
+#EXTINF:0,ALSUMARIA HD
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/95
+#EXTINF:0,Altaghier
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/89
+#EXTINF:0,Anb iraq
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/76
+#EXTINF:0,Asia TV
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/79
+#EXTINF:0,Baghdad
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/84
+#EXTINF:0,Dejlah
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/88
+#EXTINF:0,DIJLAH HD
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/96
+#EXTINF:0,Hadath Iraq TV
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/77
+#EXTINF:0,HOUNA BAGHDAD HD
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/97
+#EXTINF:0,Samaraa
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/83
+#EXTINF:0,http://iptv-janberyan.com:25461/janberyan2722019/45667657657/162
+#EXTINF:0,Abudhabi
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/153
+#EXTINF:0,Abudhabi drama
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/149
+#EXTINF:0,Abudhabi drama HD
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/148
+#EXTINF:0,Abudhabi emarat
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/151
+#EXTINF:0,Abudhabi emarat HD
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/150
+#EXTINF:0,Abudhabi HD
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/152
+#EXTINF:0,Alan
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/155
+#EXTINF:0,Aldhafra
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/154
+#EXTINF:0,Alsharqa
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/145
+#EXTINF:0,Alsharqiya from kalba
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/144
+#EXTINF:0,Alwoustatv
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/142
+#EXTINF:0,Dubai one HD
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/160
+#EXTINF:0,Dubai one sd
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/159
+#EXTINF:0,Dubai TV
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/161
+#EXTINF:0,Dubai zaman
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/157
+#EXTINF:0,Natgeo abudhabi
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/147
+#EXTINF:0,Natgeo abudhabi HD
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/146
+#EXTINF:0,Noor dubai
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/156
 #EXTINF:0,Sama Dubai
-http://145.239.2.221:25461/greg/greg/123
-#EXTINF:0,Samira Tv
-http://145.239.2.221:25461/greg/greg/213
-#EXTINF:0,Sheba TV
-http://145.239.2.221:25461/greg/greg/228
-#EXTINF:0,SNTV
-http://145.239.2.221:25461/greg/greg/233
-#EXTINF:0,Somali Cable TV
-http://145.239.2.221:25461/greg/greg/235
-#EXTINF:0,Somaliland National TV
-http://145.239.2.221:25461/greg/greg/234
-#EXTINF:0,Sudan Drama
-http://145.239.2.221:25461/greg/greg/22
-#EXTINF:0,Sudan Sport
-http://145.239.2.221:25461/greg/greg/23
-#EXTINF:0,Sudan Tv
-http://145.239.2.221:25461/greg/greg/21
-#EXTINF:0,Tamazight
-http://145.239.2.221:25461/greg/greg/209
-#EXTINF:0,Tamazight Algeria
-http://145.239.2.221:25461/greg/greg/223
-#EXTINF:0,TÈlÈ Tchad
-http://145.239.2.221:25461/greg/greg/237
-#EXTINF:0,Ten
-http://145.239.2.221:25461/greg/greg/176
-#EXTINF:0,Tok Tok Cinema
-http://145.239.2.221:25461/greg/greg/193
-#EXTINF:0,Tunisna TV
-http://145.239.2.221:25461/greg/greg/54
-#EXTINF:0,TV Tunisia 1
-http://145.239.2.221:25461/greg/greg/46
-#EXTINF:0,TV Tunisia 2
-http://145.239.2.221:25461/greg/greg/47
-#EXTINF:0,Universal Somali TV
-http://145.239.2.221:25461/greg/greg/236
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/158
+#EXTINF:0,Sharqa sport
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/143
+#EXTINF:0,http://iptv-janberyan.com:25461/janberyan2722019/45667657657/172
+#EXTINF:0,ALDAWAA alshafy
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/164
+#EXTINF:0,ALordon Alyoom
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/168
+#EXTINF:0,Amn
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/167
+#EXTINF:0,Jordan lights
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/165
+#EXTINF:0,Jordan sport
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/170
+#EXTINF:0,Jordan Tv
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/171
+#EXTINF:0,Kife
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/163
+#EXTINF:0,Manaseer
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/166
+#EXTINF:0,Roya
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/169
+#EXTINF:0,http://iptv-janberyan.com:25461/janberyan2722019/45667657657/182
+#EXTINF:0,2M HD
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/180
+#EXTINF:0,Al aoula laayoune
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/178
+#EXTINF:0,Al maghribia
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/175
+#EXTINF:0,Aloula
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/179
+#EXTINF:0,Arriadia
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/177
+#EXTINF:0,Assadissa
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/174
+#EXTINF:0,Athaqafia 4
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/176
+#EXTINF:0,tamazight tv8
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/173
+#EXTINF:0,http://iptv-janberyan.com:25461/janberyan2722019/45667657657/191
+#EXTINF:0,ALRAI
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/183
+#EXTINF:0,Ktv 2
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/189
+#EXTINF:0,Ktv almajlis
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/186
+#EXTINF:0,Ktv arabe
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/187
+#EXTINF:0,Ktv plus
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/185
+#EXTINF:0,Ktv sports plus
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/184
+#EXTINF:0,Ktvethraalive
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/188
+#EXTINF:0,Kuwait1
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/190
+#EXTINF:0,http://iptv-janberyan.com:25461/janberyan2722019/45667657657/196
+#EXTINF:0,Alnabaa
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/194
+#EXTINF:0,Altanasuh
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/193
+#EXTINF:0,Libya 218 tv
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/192
+#EXTINF:0,Libya news
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/195
+#EXTINF:0,http://iptv-janberyan.com:25461/janberyan2722019/45667657657/205
 #EXTINF:0,Yemen
-http://145.239.2.221:25461/greg/greg/225
-#EXTINF:0,Zitouna TV
-http://145.239.2.221:25461/greg/greg/56
-#EXTINF:0,Zee Aflam
-http://145.239.2.221:25461/greg/greg/92
-#EXTINF:0,Zee Alwan
-http://145.239.2.221:25461/greg/greg/93
-#EXTINF:0,Al Arabiya
-http://145.239.2.221:25461/greg/greg/34
-#EXTINF:0,Al Hadath
-http://145.239.2.221:25461/greg/greg/40
-#EXTINF:0,Wanasah
-http://145.239.2.221:25461/greg/greg/91
-#EXTINF:0,TRT ArapÁa
-http://145.239.2.221:25461/greg/greg/257
-#EXTINF:0,Alghad TV
-http://145.239.2.221:25461/greg/greg/259
-#EXTINF:0,Libya 218
-http://145.239.2.221:25461/greg/greg/258
-#EXTINF:0,Sada Albalad Drama
-http://145.239.2.221:25461/greg/greg/2606
-#EXTINF:0,Al Karma
-http://145.239.2.221:25461/greg/greg/2657
-#EXTINF:0,Numidia Tv
-http://145.239.2.221:25461/greg/greg/2665
-#EXTINF:0,MBC  Iraq
-http://145.239.2.221:25461/greg/greg/2829
-#EXTINF:0,AF: RTS1
-http://145.239.2.221:25461/greg/greg/1226
-#EXTINF:0,Teledunet TV
-http://145.239.2.221:25461/greg/greg/1
-#EXTINF:0,Al Jazeera Channel
-http://145.239.2.221:25461/greg/greg/33
-#EXTINF:0,Elhiwar Ettounsi TV
-http://145.239.2.221:25461/greg/greg/49
-#EXTINF:0,Bein sport 1
-http://145.239.2.221:25461/greg/greg/95
-#EXTINF:0,Bein sport 2
-http://145.239.2.221:25461/greg/greg/96
-#EXTINF:0,Bein sport 3
-http://145.239.2.221:25461/greg/greg/97
-#EXTINF:0,Bein sport 4
-http://145.239.2.221:25461/greg/greg/98
-#EXTINF:0,Bein sport 5
-http://145.239.2.221:25461/greg/greg/99
-#EXTINF:0,Bein sport 6
-http://145.239.2.221:25461/greg/greg/100
-#EXTINF:0,Bein sport 7
-http://145.239.2.221:25461/greg/greg/101
-#EXTINF:0,Bein sport 8
-http://145.239.2.221:25461/greg/greg/102
-#EXTINF:0,Bein sport 9
-http://145.239.2.221:25461/greg/greg/103
-#EXTINF:0,Bein sport 10
-http://145.239.2.221:25461/greg/greg/104
-#EXTINF:0,Bein sport 11
-http://145.239.2.221:25461/greg/greg/105
-#EXTINF:0,Bein sport 12
-http://145.239.2.221:25461/greg/greg/106
-#EXTINF:0,Bein Sports
-http://145.239.2.221:25461/greg/greg/111
-#EXTINF:0,beIN MAX 1
-http://145.239.2.221:25461/greg/greg/2643
-#EXTINF:0,beIN MAX 2
-http://145.239.2.221:25461/greg/greg/2642
-#EXTINF:0,beIN MAX 3
-http://145.239.2.221:25461/greg/greg/2641
-#EXTINF:0,beIN MAX 4
-http://145.239.2.221:25461/greg/greg/2640
-#EXTINF:0,BeIn Movies 1 HD
-http://145.239.2.221:25461/greg/greg/107
-#EXTINF:0,BeIn Movies 2 HD
-http://145.239.2.221:25461/greg/greg/108
-#EXTINF:0,BeIn Movies 3 HD
-http://145.239.2.221:25461/greg/greg/109
-#EXTINF:0,BeIn Movies 4 HD
-http://145.239.2.221:25461/greg/greg/110
-#EXTINF:0,KSA Sport 1
-http://145.239.2.221:25461/greg/greg/2658
-#EXTINF:0,TF1
-http://145.239.2.221:25461/greg/greg/240
-#EXTINF:0,M6
-http://145.239.2.221:25461/greg/greg/241
-#EXTINF:0,France 2
-http://145.239.2.221:25461/greg/greg/242
-#EXTINF:0,France 3
-http://145.239.2.221:25461/greg/greg/243
-#EXTINF:0,France 4
-http://145.239.2.221:25461/greg/greg/244
-#EXTINF:0,France Ù
-http://145.239.2.221:25461/greg/greg/246
-#EXTINF:0,France24 Arabic
-http://145.239.2.221:25461/greg/greg/35
-#EXTINF:0,Gulli
-http://145.239.2.221:25461/greg/greg/251
-#EXTINF:0,TV5 Monde
-http://145.239.2.221:25461/greg/greg/247
-#EXTINF:0,W9
-http://145.239.2.221:25461/greg/greg/252
-#EXTINF:0,Canal Plus
-http://145.239.2.221:25461/greg/greg/250
-#EXTINF:0,Canal Plus Cinema
-http://145.239.2.221:25461/greg/greg/248
-#EXTINF:0,Canal Plus Sport
-http://145.239.2.221:25461/greg/greg/249
-#EXTINF:0,ARTE
-http://145.239.2.221:25461/greg/greg/253
-#EXTINF:0,RMC Sport 1
-http://145.239.2.221:25461/greg/greg/261
-#EXTINF:0,RMC Sport 2
-http://145.239.2.221:25461/greg/greg/262
-#EXTINF:0,RMC Sport 3
-http://145.239.2.221:25461/greg/greg/263
-#EXTINF:0,RMC Sport 4
-http://145.239.2.221:25461/greg/greg/264
-#EXTINF:0,LCI
-http://145.239.2.221:25461/greg/greg/265
-#EXTINF:0,BFM TV
-http://145.239.2.221:25461/greg/greg/260
-#EXTINF:0,Bein Sport 1 HD FR
-http://145.239.2.221:25461/greg/greg/112
-#EXTINF:0,Bein Sport 2 HD FR
-http://145.239.2.221:25461/greg/greg/113
-#EXTINF:0,Bein Sport 3 HD FR
-http://145.239.2.221:25461/greg/greg/114
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/204
+#EXTINF:0,Almasira TV
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/199
+#EXTINF:0,Belqees TV
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/202
+#EXTINF:0,Hadramout
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/197
+#EXTINF:0,Rushd
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/203
+#EXTINF:0,Sanaa
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/201
+#EXTINF:0,Shabab Yemen
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/198
+#EXTINF:0,Suhail
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/200
+#EXTINF:0,http://iptv-janberyan.com:25461/janberyan2722019/45667657657/214
+#EXTINF:0,Afriqia1
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/206
+#EXTINF:0,Afriqia2
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/207
+#EXTINF:0,Afriqia3
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/208
+#EXTINF:0,Afriqia4
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/209
+#EXTINF:0,Alshorooq sudan
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/213
+#EXTINF:0,Sudan tv
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/211
+#EXTINF:0,Sudani24
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/212
+#EXTINF:0,Tayba
+http://iptv-janberyan.com:25461/janberyan2722019/45667657657/210
