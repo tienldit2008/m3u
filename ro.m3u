@@ -1,77 +1,139 @@
 #EXTM3U
-#EXTINF:-1,Acasa TV
-http://212.8.248.233:8080/itris1/itris1/1721
-#EXTINF:-1,Acasa Gold
-http://212.8.248.233:8080/itris1/itris1/1737
-#EXTINF:-1,AXN White
-http://212.8.248.233:8080/itris1/itris1/1728
-#EXTINF:-1,AXN Romania
-http://212.8.248.233:8080/itris1/itris1/1729
-#EXTINF:-1,AXN Black
-http://212.8.248.233:8080/itris1/itris1/1734
+#EXTINF:-1, Agro TV
+http://5.254.66.131:8000/ss/ss123/132789
+#EXTINF:-1, TVR 3
+http://5.254.66.131:8000/ss/ss123/132781
+#EXTINF:-1,ACASA TV
+http://5.254.66.131:8000/ss/ss123/5552
+#EXTINF:-1,Acasa Tv HD
+http://5.254.66.131:8000/ss/ss123/30440
+#EXTINF:-1,AMC Romania
+http://5.254.66.131:8000/ss/ss123/129268
+#EXTINF:-1,Antena 1
+http://5.254.66.131:8000/ss/ss123/3257
+#EXTINF:-1,ANTENA 3
+http://5.254.66.131:8000/ss/ss123/5549
+#EXTINF:-1,Antena Stars
+http://5.254.66.131:8000/ss/ss123/3256
+#EXTINF:-1,AXN
+http://5.254.66.131:8000/ss/ss123/5548
+#EXTINF:-1,AXN RO
+http://5.254.66.131:8000/ss/ss123/7627
+#EXTINF:-1,AXN WHITE
+http://5.254.66.131:8000/ss/ss123/5546
+#EXTINF:-1,Cartoon Network Eastern Europe
+http://5.254.66.131:8000/ss/ss123/132780
 #EXTINF:-1,Cinemax 2
-http://212.8.248.233:8080/itris1/itris1/1701
-#EXTINF:-1,HBO 1
-http://212.8.248.233:8080/itris1/itris1/1725
-#EXTINF:-1,HBO 2
-http://212.8.248.233:8080/itris1/itris1/1712
-#EXTINF:-1,HBO 3
-http://212.8.248.233:8080/itris1/itris1/1704
-#EXTINF:-1,TNT
-http://212.8.248.233:8080/itris1/itris1/1731
-#EXTINF:-1,Paramount Channel
-http://212.8.248.233:8080/itris1/itris1/1730
-#EXTINF:-1,Discovery HD
-http://212.8.248.233:8080/itris1/itris1/1736
-#EXTINF:-1,National Geographic
-http://212.8.248.233:8080/itris1/itris1/1726
-#EXTINF:-1,History HD
-http://212.8.248.233:8080/itris1/itris1/1727
-#EXTINF:-1,National TV
-http://212.8.248.233:8080/itris1/itris1/1685
-#EXTINF:-1,Nickelodeon
-http://212.8.248.233:8080/itris1/itris1/1682
-#EXTINF:-1,Disney Junior
-http://212.8.248.233:8080/itris1/itris1/1716
-#EXTINF:-1,Megamax
-http://212.8.248.233:8080/itris1/itris1/1690
-#EXTINF:-1,Etno TV
-http://212.8.248.233:8080/itris1/itris1/1738
-#EXTINF:-1,TV 1000
-http://212.8.248.233:8080/itris1/itris1/1735
-#EXTINF:-1,Prima
-http://212.8.248.233:8080/itris1/itris1/1684
-#EXTINF:-1,B1
-http://212.8.248.233:8080/itris1/itris1/1689
-#EXTINF:-1,ProTV
-http://212.8.248.233:8080/itris1/itris1/1723
-#EXTINF:-1,Kanal D
-http://212.8.248.233:8080/itris1/itris1/1714
-#EXTINF:-1,TVR
-http://212.8.248.233:8080/itris1/itris1/1691
-#EXTINF:-1,TVR 1
-http://212.8.248.233:8080/itris1/itris1/1693
-#EXTINF:-1,TVR 2
-http://212.8.248.233:8080/itris1/itris1/1694
-#EXTINF:-1,TVR 3
-http://212.8.248.233:8080/itris1/itris1/1703
+http://5.254.66.131:8000/ss/ss123/132778
 #EXTINF:-1,Digi 24
-http://212.8.248.233:8080/itris1/itris1/1732
+http://5.254.66.131:8000/ss/ss123/3255
+#EXTINF:-1,Digi Animal World
+http://5.254.66.131:8000/ss/ss123/3254
+#EXTINF:-1,DIGI FILIM
+http://5.254.66.131:8000/ss/ss123/5540
+#EXTINF:-1,Digi Life
+http://5.254.66.131:8000/ss/ss123/3252
+#EXTINF:-1,Digi Sport 1
+http://5.254.66.131:8000/ss/ss123/3247
+#EXTINF:-1,Digi Sport 2
+http://5.254.66.131:8000/ss/ss123/3248
+#EXTINF:-1,Digi Sport 3
+http://5.254.66.131:8000/ss/ss123/3249
+#EXTINF:-1,Digi Sport 4
+http://5.254.66.131:8000/ss/ss123/3250
+#EXTINF:-1,Digi World
+http://5.254.66.131:8000/ss/ss123/3251
+#EXTINF:-1,Disney Junior
+http://5.254.66.131:8000/ss/ss123/5539
+#EXTINF:-1,Etno TV
+http://5.254.66.131:8000/ss/ss123/132787
+#EXTINF:-1,Eurosport
+http://5.254.66.131:8000/ss/ss123/3245
+#EXTINF:-1,Eurosport 2
+http://5.254.66.131:8000/ss/ss123/3246
+#EXTINF:-1,FAVORIT TV
+http://5.254.66.131:8000/ss/ss123/128993
+#EXTINF:-1,Film Cafe
+http://5.254.66.131:8000/ss/ss123/129270
+#EXTINF:-1,Fishing and Hunting
+http://5.254.66.131:8000/ss/ss123/30431
+#EXTINF:-1,Happy Channel
+http://5.254.66.131:8000/ss/ss123/5537
+#EXTINF:-1,HBO 2
+http://5.254.66.131:8000/ss/ss123/5536
+#EXTINF:-1,HBO 3
+http://5.254.66.131:8000/ss/ss123/5535
+#EXTINF:-1,HBO 3 Central Europe
+http://5.254.66.131:8000/ss/ss123/132788
+#EXTINF:-1,HBO Romania
+http://5.254.66.131:8000/ss/ss123/5534
+#EXTINF:-1,HISTORY CHANNEL
+http://5.254.66.131:8000/ss/ss123/128994
+#EXTINF:-1,Kanal D
+http://5.254.66.131:8000/ss/ss123/3244
+#EXTINF:-1,KISS TV
+http://5.254.66.131:8000/ss/ss123/3243
+#EXTINF:-1,Look Plus
+http://5.254.66.131:8000/ss/ss123/3242
+#EXTINF:-1,Look Tv
+http://5.254.66.131:8000/ss/ss123/3241
+#EXTINF:-1,Megamax
+http://5.254.66.131:8000/ss/ss123/3240
+#EXTINF:-1,Minimax
+http://5.254.66.131:8000/ss/ss123/3239
+#EXTINF:-1,MiniMax Romania
+http://5.254.66.131:8000/ss/ss123/129271
+#EXTINF:-1,Nat Geo Wild
+http://5.254.66.131:8000/ss/ss123/5531
+#EXTINF:-1,Nat Geo Wild SD
+http://5.254.66.131:8000/ss/ss123/128995
+#EXTINF:-1,National Tv
+http://5.254.66.131:8000/ss/ss123/3237
+#EXTINF:-1,Nick Jr
+http://5.254.66.131:8000/ss/ss123/132775
+#EXTINF:-1,Nickelodeon
+http://5.254.66.131:8000/ss/ss123/128996
+#EXTINF:-1,Prima Tv
+http://5.254.66.131:8000/ss/ss123/3235
+#EXTINF:-1,Pro 2
+http://5.254.66.131:8000/ss/ss123/132785
+#EXTINF:-1,Pro Gold
+http://5.254.66.131:8000/ss/ss123/129266
+#EXTINF:-1,ProTV
+http://5.254.66.131:8000/ss/ss123/3234
+#EXTINF:-1,ProTV International
+http://5.254.66.131:8000/ss/ss123/129007
+#EXTINF:-1,Realitatea Tv
+http://5.254.66.131:8000/ss/ss123/128997
+#EXTINF:-1,ROMANIA TV
+http://5.254.66.131:8000/ss/ss123/7624
+#EXTINF:-1,RTV (Romania)
+http://5.254.66.131:8000/ss/ss123/132790
+#EXTINF:-1,SOMAX TV
+http://5.254.66.131:8000/ss/ss123/7626
+#EXTINF:-1,Sport.ro
+http://5.254.66.131:8000/ss/ss123/30423
+#EXTINF:-1,Taraf HD
+http://5.254.66.131:8000/ss/ss123/30416
+#EXTINF:-1,Taraf Tv
+http://5.254.66.131:8000/ss/ss123/5558
+#EXTINF:-1,TNT
+http://5.254.66.131:8000/ss/ss123/129005
+#EXTINF:-1,Trinitas tv
+http://5.254.66.131:8000/ss/ss123/129004
+#EXTINF:-1,Tv 1000
+http://5.254.66.131:8000/ss/ss123/128998
+#EXTINF:-1,Tv Paprika
+http://5.254.66.131:8000/ss/ss123/129003
+#EXTINF:-1,TVR 1
+http://5.254.66.131:8000/ss/ss123/3229
+#EXTINF:-1,TVR 2
+http://5.254.66.131:8000/ss/ss123/3230
+#EXTINF:-1,TVR HD
+http://5.254.66.131:8000/ss/ss123/30443
 #EXTINF:-1,U TV
-http://212.8.248.233:8080/itris1/itris1/1681
-#EXTINF:-1,Universal HD
-http://212.8.248.233:8080/itris1/itris1/1683
-#EXTINF:-1,Music Channe hu
-http://212.8.248.233:8080/itris1/itris1/1692
-#EXTINF:-1,Mooz HD
-http://212.8.248.233:8080/itris1/itris1/1743
-#EXTINF:-1,TeleMoldovaPlus
-http://212.8.248.233:8080/itris1/itris1/1702
-#EXTINF:-1,Realtaea TV
-http://212.8.248.233:8080/itris1/itris1/1695
-#EXTINF:-1,PRO X
-http://212.8.248.233:8080/itris1/itris1/1699
-#EXTINF:-1,Travel Mix
-http://212.8.248.233:8080/itris1/itris1/1688
-#EXTINF:-1,Look Sport TV
-http://212.8.248.233:8080/itris1/itris1/1687
+http://5.254.66.131:8000/ss/ss123/149262
+#EXTINF:-1,Viasat Nature HD
+http://5.254.66.131:8000/ss/ss123/128999
+#EXTINF:-1,Zu tv
+http://5.254.66.131:8000/ss/ss123/129000
