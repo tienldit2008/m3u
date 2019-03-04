@@ -1,87 +1,659 @@
 #EXTM3U
-#EXTINF:-1,BEINSPORTSHD1
-http://185.180.221.217:8080/live/DREAMTVPANELLE/s2yKmL202P/15.ts
-#EXTINF:-1,BEINSPORTSHD2
-http://185.180.221.217:8080/live/DREAMTVPANELLE/s2yKmL202P/16.ts
-#EXTINF:-1,BEINSPORTSHD3
-http://185.180.221.217:8080/live/DREAMTVPANELLE/s2yKmL202P/17.ts
-#EXTINF:-1,BEINSPORTSHD4
-http://185.180.221.217:8080/live/DREAMTVPANELLE/s2yKmL202P/18.ts
-#EXTINF:-1,BEINSPORTSHD5
-http://185.180.221.217:8080/live/DREAMTVPANELLE/s2yKmL202P/19.ts
-#EXTINF:-1,BEINSPORTSHD6
-http://185.180.221.217:8080/live/DREAMTVPANELLE/s2yKmL202P/20.ts
-#EXTINF:-1,BEINSPORTSHD7
-http://185.180.221.217:8080/live/DREAMTVPANELLE/s2yKmL202P/21.ts
-#EXTINF:-1,BEINSPORTSHD8
-http://185.180.221.217:8080/live/DREAMTVPANELLE/s2yKmL202P/22.ts
-#EXTINF:-1,BEINSPORTSHD9
-http://185.180.221.217:8080/live/DREAMTVPANELLE/s2yKmL202P/23.ts
-#EXTINF:-1,BEINSPORTSHD10
-http://185.180.221.217:8080/live/DREAMTVPANELLE/s2yKmL202P/24.ts
-#EXTINF:-1,BeinSportsHD1 720p
-http://185.180.221.217:8080/live/DREAMTVPANELLE/s2yKmL202P/1.ts
-#EXTINF:-1,BeinSportsHD2 720p
-http://185.180.221.217:8080/live/DREAMTVPANELLE/s2yKmL202P/2.ts
-#EXTINF:-1,BeinSportsHD3 720p
-http://185.180.221.217:8080/live/DREAMTVPANELLE/s2yKmL202P/3.ts
-#EXTINF:-1,BeinSportsHD4 720p
-http://185.180.221.217:8080/live/DREAMTVPANELLE/s2yKmL202P/4.ts
-#EXTINF:-1,BeinSportsHD5 720p
-http://185.180.221.217:8080/live/DREAMTVPANELLE/s2yKmL202P/5.ts
-#EXTINF:-1,BeinSportsHD6 720p
-http://185.180.221.217:8080/live/DREAMTVPANELLE/s2yKmL202P/6.ts
-#EXTINF:-1,BeinSportsHD7 720p
-http://185.180.221.217:8080/live/DREAMTVPANELLE/s2yKmL202P/7.ts
-#EXTINF:-1,BeinSportsHD8 720p
-http://185.180.221.217:8080/live/DREAMTVPANELLE/s2yKmL202P/8.ts
-#EXTINF:-1,BeinSportsHD9 720p
-http://185.180.221.217:8080/live/DREAMTVPANELLE/s2yKmL202P/9.ts
-#EXTINF:-1,BeinSportsHD10 720p
-http://185.180.221.217:8080/live/DREAMTVPANELLE/s2yKmL202P/10.ts
-#EXTINF:-1,BEIN  SPORTS HD1 (4K)
-http://185.180.221.217:8080/live/DREAMTVPANELLE/s2yKmL202P/38.ts
-#EXTINF:-1,BEIN  SPORTS HD2 (4K)
-http://185.180.221.217:8080/live/DREAMTVPANELLE/s2yKmL202P/39.ts
-#EXTINF:-1,BEIN  SPORTS HD3 (4K)
-http://185.180.221.217:8080/live/DREAMTVPANELLE/s2yKmL202P/40.ts
-#EXTINF:-1,BEIN  SPORTS HD4 (4K)
-http://185.180.221.217:8080/live/DREAMTVPANELLE/s2yKmL202P/41.ts
-#EXTINF:-1,BEIN  SPORTS HD5 (4K)
-http://185.180.221.217:8080/live/DREAMTVPANELLE/s2yKmL202P/42.ts
-#EXTINF:-1,BEIN  SPORTS HD6 (4K)
-http://185.180.221.217:8080/live/DREAMTVPANELLE/s2yKmL202P/43.ts
-#EXTINF:-1,BEIN SPORTS HD1 HEVC
-http://185.180.221.217:8080/live/DREAMTVPANELLE/s2yKmL202P/26.ts
-#EXTINF:-1,BEIN SPORTS HD2 HEVC
-http://185.180.221.217:8080/live/DREAMTVPANELLE/s2yKmL202P/27.ts
-#EXTINF:-1,BEIN SPORTS HD3 HEVC
-http://185.180.221.217:8080/live/DREAMTVPANELLE/s2yKmL202P/28.ts
-#EXTINF:-1,BEIN SPORTS HD4 HEVC
-http://185.180.221.217:8080/live/DREAMTVPANELLE/s2yKmL202P/29.ts
-#EXTINF:-1,BEIN SPORTS HD5 HEVC
-http://185.180.221.217:8080/live/DREAMTVPANELLE/s2yKmL202P/30.ts
-#EXTINF:-1,BEIN SPORTS HD6 HEVC
-http://185.180.221.217:8080/live/DREAMTVPANELLE/s2yKmL202P/31.ts
-#EXTINF:-1,BEIN SPORTS HD7 HEVC
-http://185.180.221.217:8080/live/DREAMTVPANELLE/s2yKmL202P/32.ts
-#EXTINF:-1,BEIN SPORTS HD8 HEVC
-http://185.180.221.217:8080/live/DREAMTVPANELLE/s2yKmL202P/33.ts
-#EXTINF:-1,BEIN SPORTS HD9 HEVC
-http://185.180.221.217:8080/live/DREAMTVPANELLE/s2yKmL202P/34.ts
-#EXTINF:-1,BEIN SPORTS HD10 HEVC
-http://185.180.221.217:8080/live/DREAMTVPANELLE/s2yKmL202P/35.ts
-#EXTINF:-1,beIN SPORTS HD1 FR
-http://185.180.221.217:8080/live/DREAMTVPANELLE/s2yKmL202P/14.ts
-#EXTINF:-1,beIN SPORTS HD2 FR
-http://185.180.221.217:8080/live/DREAMTVPANELLE/s2yKmL202P/37.ts
-#EXTINF:-1,RMC SPORT 1
-http://185.180.221.217:8080/live/DREAMTVPANELLE/s2yKmL202P/11.ts
-#EXTINF:-1,RMC SPORTS HD2
-http://185.180.221.217:8080/live/DREAMTVPANELLE/s2yKmL202P/36.ts
-#EXTINF:-1,Eleven Sport HD1
-http://185.180.221.217:8080/live/DREAMTVPANELLE/s2yKmL202P/25.ts
-#EXTINF:-1,CANAL + HD
-http://185.180.221.217:8080/live/DREAMTVPANELLE/s2yKmL202P/12.ts
-#EXTINF:-1,CANA CANAL +
-http://185.180.221.217:8080/live/DREAMTVPANELLE/s2yKmL202P/44.ts
+#EXTINF:-1,TR: TRT SPOR HD
+http://ip.bttv.be:8000/ss/ss123/1028
+#EXTINF:-1,TR: TRT SPOR HD+
+http://ip.bttv.be:8000/ss/ss123/128288
+#EXTINF:-1,TR: A SPOR HD
+http://ip.bttv.be:8000/ss/ss123/1883
+#EXTINF:-1,TR: A SPOR HD+
+http://ip.bttv.be:8000/ss/ss123/164957
+#EXTINF:-1,TR: GS TV
+http://ip.bttv.be:8000/ss/ss123/2626
+#EXTINF:-1,TR: FENERBAHCE TV
+http://ip.bttv.be:8000/ss/ss123/2028
+#EXTINF:-1,TR: BJK TV
+http://ip.bttv.be:8000/ss/ss123/2625
+#EXTINF:-1,TR: BURSA-TV
+http://ip.bttv.be:8000/ss/ss123/89308
+#EXTINF:-1,TR: A SPOR
+http://ip.bttv.be:8000/ss/ss123/279
+#EXTINF:-1,TR: A SPOR 1080P
+http://ip.bttv.be:8000/ss/ss123/128291
+#EXTINF:-1,UK VIP: BBC RED BUTTON
+http://ip.bttv.be:8000/ss/ss123/179927
+#EXTINF:-1,UK VIP: BBC RED BUTTON 1 HD
+http://ip.bttv.be:8000/ss/ss123/179926
+#EXTINF:-1,UK VIP: BBC RED BUTTON 2 HD
+http://ip.bttv.be:8000/ss/ss123/179924
+#EXTINF:-1,UK VIP: BBC RED BUTTON 3 HD
+http://ip.bttv.be:8000/ss/ss123/179923
+#EXTINF:-1,UK VIP: BBC RED BUTTON 4 HD
+http://ip.bttv.be:8000/ss/ss123/179922
+#EXTINF:-1,UK VIP: BBC RED BUTTON 5 HD
+http://ip.bttv.be:8000/ss/ss123/179921
+#EXTINF:-1,UK VIP: BBC RED BUTTON 6 HD
+http://ip.bttv.be:8000/ss/ss123/179920
+#EXTINF:-1,UK VIP: BBC RED BUTTON 7 HD
+http://ip.bttv.be:8000/ss/ss123/179919
+#EXTINF:-1,UK VIP: BBC RED BUTTON 8 HD
+http://ip.bttv.be:8000/ss/ss123/179918
+#EXTINF:-1,UK VIP: BBC RED BUTTON 9 HD
+http://ip.bttv.be:8000/ss/ss123/179917
+#EXTINF:-1,UK VIP: BBC RED BUTTON 10 HD
+http://ip.bttv.be:8000/ss/ss123/179925
+#EXTINF:-1,UK VIP: BT Sports 1 FHD
+http://ip.bttv.be:8000/ss/ss123/179905
+#EXTINF:-1,UK VIP: BT Sports 2 FHD
+http://ip.bttv.be:8000/ss/ss123/179904
+#EXTINF:-1,UK VIP: BT Sports 3 FHD
+http://ip.bttv.be:8000/ss/ss123/179903
+#EXTINF:-1,UK VIP: BT SPORTS ESPN FHD
+http://ip.bttv.be:8000/ss/ss123/179902
+#EXTINF:-1,UK VIP: BT SPORTS EXTRA 1 HD
+http://ip.bttv.be:8000/ss/ss123/179901
+#EXTINF:-1,UK VIP: BT SPORTS EXTRA 2 HD
+http://ip.bttv.be:8000/ss/ss123/179900
+#EXTINF:-1,UK VIP: BT SPORTS EXTRA 3 HD
+http://ip.bttv.be:8000/ss/ss123/179899
+#EXTINF:-1,UK VIP: BT SPORTS EXTRA 4 HD
+http://ip.bttv.be:8000/ss/ss123/179898
+#EXTINF:-1,UK VIP: BT SPORTS EXTRA 5 HD
+http://ip.bttv.be:8000/ss/ss123/179897
+#EXTINF:-1,UK VIP: BT SPORTS EXTRA 6 HD
+http://ip.bttv.be:8000/ss/ss123/179896
+#EXTINF:-1,UK VIP: BT SPORTS EXTRA 7 HD
+http://ip.bttv.be:8000/ss/ss123/179895
+#EXTINF:-1,UK VIP: EIR SPORTS 1
+http://ip.bttv.be:8000/ss/ss123/179865
+#EXTINF:-1,UK VIP: EIR SPORTS 2
+http://ip.bttv.be:8000/ss/ss123/179864
+#EXTINF:-1,UK VIP: ELEVEN SPORTS 1 FHD
+http://ip.bttv.be:8000/ss/ss123/179863
+#EXTINF:-1,UK VIP: ELEVEN SPORTS 2 FHD
+http://ip.bttv.be:8000/ss/ss123/179862
+#EXTINF:-1,UK VIP: EUROSPORTS 1 FHD
+http://ip.bttv.be:8000/ss/ss123/179861
+#EXTINF:-1,UK VIP: EUROSPORTS 2 FHD
+http://ip.bttv.be:8000/ss/ss123/179860
+#EXTINF:-1,UK VIP: SKY SPORTS  CRICKET FHD
+http://ip.bttv.be:8000/ss/ss123/179786
+#EXTINF:-1,UK VIP: SKY SPORTS ACTION FHD
+http://ip.bttv.be:8000/ss/ss123/179785
+#EXTINF:-1,UK VIP: SKY SPORTS ARENA FHD
+http://ip.bttv.be:8000/ss/ss123/179784
+#EXTINF:-1,UK VIP: SKY SPORTS F1 FHD
+http://ip.bttv.be:8000/ss/ss123/179783
+#EXTINF:-1,UK VIP: SKY SPORTS FOOTBALL FHD
+http://ip.bttv.be:8000/ss/ss123/179782
+#EXTINF:-1,UK VIP: SKY SPORTS GOLF FHD
+http://ip.bttv.be:8000/ss/ss123/179781
+#EXTINF:-1,UK VIP: SKY SPORTS MAIN EVENT FHD
+http://ip.bttv.be:8000/ss/ss123/179780
+#EXTINF:-1,UK VIP: SKY SPORTS MIX FHD
+http://ip.bttv.be:8000/ss/ss123/179779
+#EXTINF:-1,UK VIP: SKY SPORTS NEWS FHD
+http://ip.bttv.be:8000/ss/ss123/179778
+#EXTINF:-1,UK VIP: SKY SPORTS PREMIER LEAGUE FHD
+http://ip.bttv.be:8000/ss/ss123/179777
+#EXTINF:-1,UK VIP: UK Premier Sports 1
+http://ip.bttv.be:8000/ss/ss123/179763
+#EXTINF:-1,UK VIP: PREMIER SPORTS 2
+http://ip.bttv.be:8000/ss/ss123/179816
+#EXTINF:-1,UK VIP: CHELSEA TV HD
+http://ip.bttv.be:8000/ss/ss123/179884
+#EXTINF:-1,UK VIP: LFC TV
+http://ip.bttv.be:8000/ss/ss123/179842
+#EXTINF:-1,UK VIP: MU FHD
+http://ip.bttv.be:8000/ss/ss123/179830
+#EXTINF:-1,UK VIP: RACING UK FHD
+http://ip.bttv.be:8000/ss/ss123/179810
+#EXTINF:-1,UK VIP: Setanta/Premier Sports FHD
+http://ip.bttv.be:8000/ss/ss123/179807
+#EXTINF:-1,UK VIP: SIS Live Europe
+http://ip.bttv.be:8000/ss/ss123/179805
+#EXTINF:-1,UK VIP: Paddy Power
+http://ip.bttv.be:8000/ss/ss123/179822
+#EXTINF:-1,UK VIP: PDC DARTS
+http://ip.bttv.be:8000/ss/ss123/179821
+#EXTINF:-1,UK VIP: William Hills TV
+http://ip.bttv.be:8000/ss/ss123/179758
+#EXTINF:-1,EPL: ASTRO SUPERSPORTS 1
+http://ip.bttv.be:8000/ss/ss123/187617
+#EXTINF:-1,EPL: ASTRO SUPERSPORTS 2
+http://ip.bttv.be:8000/ss/ss123/187616
+#EXTINF:-1,EPL: ASTRO SUPERSPORTS 3
+http://ip.bttv.be:8000/ss/ss123/187615
+#EXTINF:-1,EPL: ASTRO SUPERSPORTS 4
+http://ip.bttv.be:8000/ss/ss123/187614
+#EXTINF:-1,EPL: beIN Sports 1 HD TH
+http://ip.bttv.be:8000/ss/ss123/187609
+#EXTINF:-1,EPL: beIN Sports 1 TH
+http://ip.bttv.be:8000/ss/ss123/187608
+#EXTINF:-1,EPL: beIN Sports 2 HD TH
+http://ip.bttv.be:8000/ss/ss123/187607
+#EXTINF:-1,EPL: beIN Sports 2 TH
+http://ip.bttv.be:8000/ss/ss123/187606
+#EXTINF:-1,EPL: beIN Sports 3 HD TH
+http://ip.bttv.be:8000/ss/ss123/187605
+#EXTINF:-1,EPL: beIN Sports 3 TH
+http://ip.bttv.be:8000/ss/ss123/187604
+#EXTINF:-1,EPL: beIN Sports 4 HD TH
+http://ip.bttv.be:8000/ss/ss123/187603
+#EXTINF:-1,EPL: beIN Sports 4 TH
+http://ip.bttv.be:8000/ss/ss123/187602
+#EXTINF:-1,EPL: beIN SPORTS HD 1 TH
+http://ip.bttv.be:8000/ss/ss123/187613
+#EXTINF:-1,EPL: beIN SPORTS HD 2 TH
+http://ip.bttv.be:8000/ss/ss123/187612
+#EXTINF:-1,EPL: beIN SPORTS HD 3 TH
+http://ip.bttv.be:8000/ss/ss123/187611
+#EXTINF:-1,EPL: beIN SPORTS HD 4 TH
+http://ip.bttv.be:8000/ss/ss123/187610
+#EXTINF:-1,EPL: Fox Soccer Plus HD
+http://ip.bttv.be:8000/ss/ss123/187586
+#EXTINF:-1,EPL: Fox Sports 1 FHD
+http://ip.bttv.be:8000/ss/ss123/187585
+#EXTINF:-1,EPL: FLOW SPORT 1 HD
+http://ip.bttv.be:8000/ss/ss123/187625
+#EXTINF:-1,EPL: FLOW SPORT 2 HD
+http://ip.bttv.be:8000/ss/ss123/187624
+#EXTINF:-1,EPL: iFollow 3 HD
+http://ip.bttv.be:8000/ss/ss123/187623
+#EXTINF:-1,EPL: iFollow 4 HD
+http://ip.bttv.be:8000/ss/ss123/187622
+#EXTINF:-1,EPL: iFollow 5 HD
+http://ip.bttv.be:8000/ss/ss123/187621
+#EXTINF:-1,EPL: iFollow 6 HD
+http://ip.bttv.be:8000/ss/ss123/187620
+#EXTINF:-1,EPL: iFollow Sport 1 HD
+http://ip.bttv.be:8000/ss/ss123/187619
+#EXTINF:-1,EPL: iFollow Sport 2 HD
+http://ip.bttv.be:8000/ss/ss123/187618
+#EXTINF:-1,EPL: Skynet Sports 1
+http://ip.bttv.be:8000/ss/ss123/187600
+#EXTINF:-1,EPL: Skynet Sports 1 SD
+http://ip.bttv.be:8000/ss/ss123/187592
+#EXTINF:-1,EPL: Skynet Sports 2
+http://ip.bttv.be:8000/ss/ss123/187599
+#EXTINF:-1,EPL: Skynet Sports 2 SD
+http://ip.bttv.be:8000/ss/ss123/187591
+#EXTINF:-1,EPL: Skynet Sports 3
+http://ip.bttv.be:8000/ss/ss123/187598
+#EXTINF:-1,EPL: Skynet Sports 3 SD
+http://ip.bttv.be:8000/ss/ss123/187590
+#EXTINF:-1,EPL: Skynet Sports 4
+http://ip.bttv.be:8000/ss/ss123/187597
+#EXTINF:-1,EPL: Skynet Sports 4 SD
+http://ip.bttv.be:8000/ss/ss123/187589
+#EXTINF:-1,EPL: Skynet Sports 5
+http://ip.bttv.be:8000/ss/ss123/187596
+#EXTINF:-1,EPL: Skynet Sports 5 SD
+http://ip.bttv.be:8000/ss/ss123/187588
+#EXTINF:-1,EPL: Skynet Sports 6
+http://ip.bttv.be:8000/ss/ss123/187595
+#EXTINF:-1,EPL: Skynet Sports 6 SD
+http://ip.bttv.be:8000/ss/ss123/187587
+#EXTINF:-1,EPL: Skynet Sports HD
+http://ip.bttv.be:8000/ss/ss123/187601
+#EXTINF:-1,EPL: Skynet Sports Plus
+http://ip.bttv.be:8000/ss/ss123/187594
+#EXTINF:-1,CZ: NOVA SPORT 1 HD
+http://ip.bttv.be:8000/ss/ss123/147791
+#EXTINF:-1,CZ: NOVA SPORT 2 HD
+http://ip.bttv.be:8000/ss/ss123/147792
+#EXTINF:-1,CZ: SPORT 1
+http://ip.bttv.be:8000/ss/ss123/147764
+#EXTINF:-1,CZ: SPORT 2
+http://ip.bttv.be:8000/ss/ss123/147765
+#EXTINF:-1,CZ: EUROSPORT 1
+http://ip.bttv.be:8000/ss/ss123/147777
+#EXTINF:-1,HR: Sportska TV
+http://ip.bttv.be:8000/ss/ss123/176568
+#EXTINF:-1,HR: Sport Klub 1
+http://ip.bttv.be:8000/ss/ss123/3036
+#EXTINF:-1,HR: Sport Klub 2
+http://ip.bttv.be:8000/ss/ss123/3037
+#EXTINF:-1,HR: Sport Klub 3
+http://ip.bttv.be:8000/ss/ss123/3038
+#EXTINF:-1,HR: ARENA SPORT 1 HD
+http://ip.bttv.be:8000/ss/ss123/898
+#EXTINF:-1,HR: ARENA SPORT 2 HD
+http://ip.bttv.be:8000/ss/ss123/899
+#EXTINF:-1,HR: ARENA SPORT 3 HD
+http://ip.bttv.be:8000/ss/ss123/900
+#EXTINF:-1,HR: ARENA SPORT 4 HD
+http://ip.bttv.be:8000/ss/ss123/901
+#EXTINF:-1,HR: ARENA SPORT 5 HD
+http://ip.bttv.be:8000/ss/ss123/902
+#EXTINF:-1,HR: ARENA SPORT 6 HD
+http://ip.bttv.be:8000/ss/ss123/175710
+#EXTINF:-1,BG: Diema Sport HD
+http://ip.bttv.be:8000/ss/ss123/3855
+#EXTINF:-1,BG: DIEMA SPORT 1 HD
+http://ip.bttv.be:8000/ss/ss123/93379
+#EXTINF:-1,BG: Diema Sport 2 HD
+http://ip.bttv.be:8000/ss/ss123/3856
+#EXTINF:-1,BG: Max Sport 1 HD
+http://ip.bttv.be:8000/ss/ss123/145104
+#EXTINF:-1,BG: Max Sport 2 HD
+http://ip.bttv.be:8000/ss/ss123/145105
+#EXTINF:-1,BG: MAX SPORT 3 HD
+http://ip.bttv.be:8000/ss/ss123/178716
+#EXTINF:-1,BG: Nova Sport
+http://ip.bttv.be:8000/ss/ss123/133663
+#EXTINF:-1,BG: Nova Sport HD
+http://ip.bttv.be:8000/ss/ss123/3842
+#EXTINF:-1,BG: EUROSPORT 1
+http://ip.bttv.be:8000/ss/ss123/133655
+#EXTINF:-1,BG: EUROSPORT 2
+http://ip.bttv.be:8000/ss/ss123/133654
+#EXTINF:-1,BG: EUROSPORT 2 HD
+http://ip.bttv.be:8000/ss/ss123/93380
+#EXTINF:-1,BG: SPORT
+http://ip.bttv.be:8000/ss/ss123/133646
+#EXTINF:-1,BG: AUTO MOTOR SPORT
+http://ip.bttv.be:8000/ss/ss123/133659
+#EXTINF:-1,BG: Sport Plus HD
+http://ip.bttv.be:8000/ss/ss123/147716
+#EXTINF:-1,ES: Bein Sports HD
+http://ip.bttv.be:8000/ss/ss123/14412
+#EXTINF:-1,ES: Bein Sports La Liga HD
+http://ip.bttv.be:8000/ss/ss123/14411
+#EXTINF:-1,ES: Teledeporte
+http://ip.bttv.be:8000/ss/ss123/178734
+#EXTINF:-1,ES: Movistar Futbol
+http://ip.bttv.be:8000/ss/ss123/174640
+#EXTINF:-1,ES: Movistar Deportes 1
+http://ip.bttv.be:8000/ss/ss123/174639
+#EXTINF:-1,ES: Movistar Deportes 2 HD
+http://ip.bttv.be:8000/ss/ss123/174641
+#EXTINF:-1,ES: Eurosport 1 HD
+http://ip.bttv.be:8000/ss/ss123/14410
+#EXTINF:-1,ES: Movistar F1 HD
+http://ip.bttv.be:8000/ss/ss123/14405
+#EXTINF:-1,ES: Movistar Golf
+http://ip.bttv.be:8000/ss/ss123/14402
+#EXTINF:-1,ES: Eurosport 1
+http://ip.bttv.be:8000/ss/ss123/164680
+#EXTINF:-1,ES VIP: Eurosport  2
+http://ip.bttv.be:8000/ss/ss123/180127
+#EXTINF:-1,ES VIP: EUROSPORT FULL HD
+http://ip.bttv.be:8000/ss/ss123/180128
+#EXTINF:-1,ES: Movistar MotoGP HD
+http://ip.bttv.be:8000/ss/ss123/14404
+#EXTINF:-1,ES: CANAL TOROS
+http://ip.bttv.be:8000/ss/ss123/13908
+#EXTINF:-1,ES: La Liga TV 4k
+http://ip.bttv.be:8000/ss/ss123/164681
+#EXTINF:-1,ES: LA LIGA TV BAR HD
+http://ip.bttv.be:8000/ss/ss123/133296
+#EXTINF:-1,ES: Real Madrid TV
+http://ip.bttv.be:8000/ss/ss123/14398
+#EXTINF:-1,ES VIP: ESPORT 3
+http://ip.bttv.be:8000/ss/ss123/180090
+#EXTINF:-1,ES VIP: LA 1 H264 FHD
+http://ip.bttv.be:8000/ss/ss123/180045
+#EXTINF:-1,ES VIP: LIGA 123 MULTI 3
+http://ip.bttv.be:8000/ss/ss123/180157
+#EXTINF:-1,AL: Tring Sport 1 HD
+http://ip.bttv.be:8000/ss/ss123/3133
+#EXTINF:-1,AL: Tring Sport 2 HD
+http://ip.bttv.be:8000/ss/ss123/3134
+#EXTINF:-1,AL: Tring Sport 3 HD
+http://ip.bttv.be:8000/ss/ss123/3135
+#EXTINF:-1,AL: Tring Sport 4 HD
+http://ip.bttv.be:8000/ss/ss123/3136
+#EXTINF:-1,AL: Tring Sport News
+http://ip.bttv.be:8000/ss/ss123/3132
+#EXTINF:-1,AL: Super Sport 1 HD
+http://ip.bttv.be:8000/ss/ss123/3127
+#EXTINF:-1,AL: Super Sport 2 HD
+http://ip.bttv.be:8000/ss/ss123/3128
+#EXTINF:-1,AL: Super Sport 3 HD
+http://ip.bttv.be:8000/ss/ss123/3129
+#EXTINF:-1,AL: Super Sport 4
+http://ip.bttv.be:8000/ss/ss123/3130
+#EXTINF:-1,GR: Cosmote Sport 1 HD
+http://ip.bttv.be:8000/ss/ss123/145132
+#EXTINF:-1,GR: Cosmote Sport 1 HD+
+http://ip.bttv.be:8000/ss/ss123/128414
+#EXTINF:-1,GR: Cosmote Sport 2 HD
+http://ip.bttv.be:8000/ss/ss123/145133
+#EXTINF:-1,GR: Cosmote Sport 2 HD+
+http://ip.bttv.be:8000/ss/ss123/128415
+#EXTINF:-1,GR: Cosmote Sport 3 HD
+http://ip.bttv.be:8000/ss/ss123/145134
+#EXTINF:-1,GR: Cosmote Sport 3 HD+
+http://ip.bttv.be:8000/ss/ss123/128416
+#EXTINF:-1,GR: Cosmote Sport 4 HD
+http://ip.bttv.be:8000/ss/ss123/145135
+#EXTINF:-1,GR: Cosmote Sport 4 HD+
+http://ip.bttv.be:8000/ss/ss123/128417
+#EXTINF:-1,GR: Cosmote Sport 5 HD
+http://ip.bttv.be:8000/ss/ss123/145136
+#EXTINF:-1,GR: Cosmote Sport 5 HD+
+http://ip.bttv.be:8000/ss/ss123/128418
+#EXTINF:-1,GR: Cosmote Sport 6 HD
+http://ip.bttv.be:8000/ss/ss123/145137
+#EXTINF:-1,GR: Cosmote Sport 6 HD+
+http://ip.bttv.be:8000/ss/ss123/128419
+#EXTINF:-1,GR: Cosmote Sport 7 HD
+http://ip.bttv.be:8000/ss/ss123/145138
+#EXTINF:-1,GR: Cosmote Sport 7 HD+
+http://ip.bttv.be:8000/ss/ss123/128420
+#EXTINF:-1,GR: Cosmote Sport 8 HD
+http://ip.bttv.be:8000/ss/ss123/145139
+#EXTINF:-1,GR: Cosmote Sport 8 HD+
+http://ip.bttv.be:8000/ss/ss123/128421
+#EXTINF:-1,GR: Cosmote Sport 9 HD+
+http://ip.bttv.be:8000/ss/ss123/165458
+#EXTINF:-1,GR: Cosmote Sport Highlights HD
+http://ip.bttv.be:8000/ss/ss123/145147
+#EXTINF:-1,GR: Fox Sports HD
+http://ip.bttv.be:8000/ss/ss123/161826
+#EXTINF:-1,GR: Edge Sports HD
+http://ip.bttv.be:8000/ss/ss123/169832
+#EXTINF:-1,GR: Extreme Sports HD
+http://ip.bttv.be:8000/ss/ss123/169502
+#EXTINF:-1,GR: Eurosport 1 HD
+http://ip.bttv.be:8000/ss/ss123/129160
+#EXTINF:-1,GR: EuroSport 2 HD
+http://ip.bttv.be:8000/ss/ss123/145148
+#EXTINF:-1,GR: Nautical Channel HD
+http://ip.bttv.be:8000/ss/ss123/155556
+#EXTINF:-1,GR: UFC Fight TV HD
+http://ip.bttv.be:8000/ss/ss123/169840
+#EXTINF:-1,GR: Formula 1 TV HD
+http://ip.bttv.be:8000/ss/ss123/169839
+#EXTINF:-1,GR: MOTO GP TV HD
+http://ip.bttv.be:8000/ss/ss123/169838
+#EXTINF:-1,GR: GINX Sports TV
+http://ip.bttv.be:8000/ss/ss123/177085
+#EXTINF:-1,GR: NBA TV
+http://ip.bttv.be:8000/ss/ss123/177086
+#EXTINF:-1,GR: Super Tennis HD
+http://ip.bttv.be:8000/ss/ss123/177088
+#EXTINF:-1,GR: Motor Vision TV
+http://ip.bttv.be:8000/ss/ss123/129095
+#EXTINF:-1,GR: RedBull TV
+http://ip.bttv.be:8000/ss/ss123/177089
+#EXTINF:-1,GR: TileSport TV
+http://ip.bttv.be:8000/ss/ss123/176005
+#EXTINF:-1,SKY-IT: SKY SPORTS UNO HD +
+http://ip.bttv.be:8000/ss/ss123/184235
+#EXTINF:-1,SKY-IT: SKY-SPORT UNO HD
+http://ip.bttv.be:8000/ss/ss123/7794
+#EXTINF:-1,SKY-IT: SKY SPORT 24 HD +
+http://ip.bttv.be:8000/ss/ss123/184234
+#EXTINF:-1,SKY-IT: SKY SPORTS 24
+http://ip.bttv.be:8000/ss/ss123/7793
+#EXTINF:-1,SKY-IT: SKY SPORT FOOTBALL HD +
+http://ip.bttv.be:8000/ss/ss123/131349
+#EXTINF:-1,SKY-IT: SKY-SPORT FOOTBALL HD
+http://ip.bttv.be:8000/ss/ss123/7796
+#EXTINF:-1,SKY-IT: SKY-SPORTS NBA HD+
+http://ip.bttv.be:8000/ss/ss123/131346
+#EXTINF:-1,SKY-IT: SKY SPORT NBA FHD
+http://ip.bttv.be:8000/ss/ss123/169380
+#EXTINF:-1,SKY-IT: SKY-SPORTS GOLF HD +
+http://ip.bttv.be:8000/ss/ss123/131340
+#EXTINF:-1,SKY-IT: SKY SPORT GOLF FHD
+http://ip.bttv.be:8000/ss/ss123/169383
+#EXTINF:-1,SKY-IT: SKY SPORT SERIE A HD +
+http://ip.bttv.be:8000/ss/ss123/131345
+#EXTINF:-1,SKY-IT: SKY SPORT SERIE A
+http://ip.bttv.be:8000/ss/ss123/169389
+#EXTINF:-1,SKY-IT: SKY SPORT ARENA HD +
+http://ip.bttv.be:8000/ss/ss123/131347
+#EXTINF:-1,SKY-IT: SKY-SPORT ARENA HD
+http://ip.bttv.be:8000/ss/ss123/7795
+#EXTINF:-1,IT: VIP DAZN-SPORT-1 WEB
+http://ip.bttv.be:8000/ss/ss123/184496
+#EXTINF:-1,SKY-IT: DAZN 1
+http://ip.bttv.be:8000/ss/ss123/162757
+#EXTINF:-1,IT: VIP DAZN-SPORT-2 WEB
+http://ip.bttv.be:8000/ss/ss123/184495
+#EXTINF:-1,SKY-IT: DAZN 2
+http://ip.bttv.be:8000/ss/ss123/162758
+#EXTINF:-1,IT: VIP DAZN-SPORT-03 WEB
+http://ip.bttv.be:8000/ss/ss123/184494
+#EXTINF:-1,SKY-IT: DAZN 3
+http://ip.bttv.be:8000/ss/ss123/162759
+#EXTINF:-1,IT: VIP DAZN-SPORT-04 WEB
+http://ip.bttv.be:8000/ss/ss123/184493
+#EXTINF:-1,SKY-IT: DAZN 4
+http://ip.bttv.be:8000/ss/ss123/162760
+#EXTINF:-1,IT: VIP DAZN-SPORT-05 WEB
+http://ip.bttv.be:8000/ss/ss123/184492
+#EXTINF:-1,SKY-IT: DAZN 5
+http://ip.bttv.be:8000/ss/ss123/162761
+#EXTINF:-1,IT: VIP DAZN-SPORT-06 WEB
+http://ip.bttv.be:8000/ss/ss123/184491
+#EXTINF:-1,SKY-IT: DAZN 6
+http://ip.bttv.be:8000/ss/ss123/162762
+#EXTINF:-1,IT: VIP DAZN-SPORT-07 WEB
+http://ip.bttv.be:8000/ss/ss123/184490
+#EXTINF:-1,SKY-IT: DAZN 7
+http://ip.bttv.be:8000/ss/ss123/162763
+#EXTINF:-1,IT: VIP DAZN-SPORT-08 WEB
+http://ip.bttv.be:8000/ss/ss123/184489
+#EXTINF:-1,SKY-IT: DAZN 8
+http://ip.bttv.be:8000/ss/ss123/162764
+#EXTINF:-1,IT: VIP DAZN-SPORT-09 WEB
+http://ip.bttv.be:8000/ss/ss123/184488
+#EXTINF:-1,SKY-IT: DAZN 9
+http://ip.bttv.be:8000/ss/ss123/162765
+#EXTINF:-1,IT: VIP DAZN-SPORT-10 WEB
+http://ip.bttv.be:8000/ss/ss123/184487
+#EXTINF:-1,SKY-IT: DAZN 10
+http://ip.bttv.be:8000/ss/ss123/162766
+#EXTINF:-1,IT: VIP DAZN-SPORT-11 WEB
+http://ip.bttv.be:8000/ss/ss123/184486
+#EXTINF:-1,SKY-IT: DAZN 11
+http://ip.bttv.be:8000/ss/ss123/162767
+#EXTINF:-1,IT: VIP DAZN-SPORT-12 WEB
+http://ip.bttv.be:8000/ss/ss123/184485
+#EXTINF:-1,SKY-IT: SKY-SPORT F1 +
+http://ip.bttv.be:8000/ss/ss123/131344
+#EXTINF:-1,SKY-IT: SKY-SPORT F1 HD
+http://ip.bttv.be:8000/ss/ss123/7800
+#EXTINF:-1,SKY-IT: SKY-MOTO GP +
+http://ip.bttv.be:8000/ss/ss123/131343
+#EXTINF:-1,SKY-IT: SKY-MOTO GP HD
+http://ip.bttv.be:8000/ss/ss123/7799
+#EXTINF:-1,SKY-IT: SKY SPORT 1 HD
+http://ip.bttv.be:8000/ss/ss123/134116
+#EXTINF:-1,SKY-IT: SKY SPORT 2 HD
+http://ip.bttv.be:8000/ss/ss123/169387
+#EXTINF:-1,SKY-IT: SKY SPORT 3 HD
+http://ip.bttv.be:8000/ss/ss123/169388
+#EXTINF:-1,SKY-IT: SKY SPORTS 24 FHD
+http://ip.bttv.be:8000/ss/ss123/169377
+#EXTINF:-1,SKY-IT: SKY SPORTS HD
+http://ip.bttv.be:8000/ss/ss123/7809
+#EXTINF:-1,SKY-IT: SKY SPORTS UNO
+http://ip.bttv.be:8000/ss/ss123/169378
+#EXTINF:-1,SKY-IT: SKY UNO
+http://ip.bttv.be:8000/ss/ss123/7780
+#EXTINF:-1,SKY-IT: SKY-CINEMA MAX+1 HD
+http://ip.bttv.be:8000/ss/ss123/718
+#EXTINF:-1,SKY-IT: SKY-SPORT F1 FHD
+http://ip.bttv.be:8000/ss/ss123/169379
+#EXTINF:-1,NL: FOX SPORTS 1 EREDIVISIE HD
+http://ip.bttv.be:8000/ss/ss123/474
+#EXTINF:-1,NL: FOX SPORTS 2 INTERNATIONAL
+http://ip.bttv.be:8000/ss/ss123/475
+#EXTINF:-1,NL: FOX SPORTS 3 FHD
+http://ip.bttv.be:8000/ss/ss123/480
+#EXTINF:-1,NL: FOX SPORTS 4 INTERNATIONAL
+http://ip.bttv.be:8000/ss/ss123/510
+#EXTINF:-1,NL: FOX SPORTS 5 EREDIVISIE HD
+http://ip.bttv.be:8000/ss/ss123/485
+#EXTINF:-1,NL: FOX SPORTS 6 INTERNATIONAL
+http://ip.bttv.be:8000/ss/ss123/511
+#EXTINF:-1,NL: Fox Sports Eredivisie 1 FHD
+http://ip.bttv.be:8000/ss/ss123/135814
+#EXTINF:-1,NL: ZIGGO SPORT EXTRA 1
+http://ip.bttv.be:8000/ss/ss123/3222
+#EXTINF:-1,NL: ZIGGO SPORT EXTRA 2
+http://ip.bttv.be:8000/ss/ss123/3223
+#EXTINF:-1,NL: ZIGGO SPORT GOLF
+http://ip.bttv.be:8000/ss/ss123/3220
+#EXTINF:-1,NL: ZIGGO SPORT RACING
+http://ip.bttv.be:8000/ss/ss123/3221
+#EXTINF:-1,NL: ZIGGO SPORT SELECT FHD
+http://ip.bttv.be:8000/ss/ss123/3218
+#EXTINF:-1,NL: ZIGGO SPORT VOETBAL
+http://ip.bttv.be:8000/ss/ss123/3219
+#EXTINF:-1,PL: CANAL  SPORT
+http://ip.bttv.be:8000/ss/ss123/7422
+#EXTINF:-1,PL: CANAL  SPORT 2
+http://ip.bttv.be:8000/ss/ss123/7423
+#EXTINF:-1,PL: CANAL  SPORT 2 HD
+http://ip.bttv.be:8000/ss/ss123/170451
+#EXTINF:-1,PL: CANAL  SPORT HD
+http://ip.bttv.be:8000/ss/ss123/170425
+#EXTINF:-1,PL: ELEVEN Sport HD
+http://ip.bttv.be:8000/ss/ss123/7387
+#EXTINF:-1,PL: Eleven Sports 1 HD
+http://ip.bttv.be:8000/ss/ss123/170441
+#EXTINF:-1,PL: Eleven Sports 2 HD
+http://ip.bttv.be:8000/ss/ss123/170442
+#EXTINF:-1,PL: Eleven Sports 3 HD
+http://ip.bttv.be:8000/ss/ss123/170443
+#EXTINF:-1,PL: Eleven Sports 4 HD
+http://ip.bttv.be:8000/ss/ss123/170380
+#EXTINF:-1,PL: Eurosport 1
+http://ip.bttv.be:8000/ss/ss123/38739
+#EXTINF:-1,PL: Eurosport 1 HD
+http://ip.bttv.be:8000/ss/ss123/133254
+#EXTINF:-1,PL: Eurosport 2 HD
+http://ip.bttv.be:8000/ss/ss123/133253
+#EXTINF:-1,PL: Extreme Sports HD
+http://ip.bttv.be:8000/ss/ss123/133252
+#EXTINF:-1,PL: Fightbox HD
+http://ip.bttv.be:8000/ss/ss123/133251
+#EXTINF:-1,PL: Polsat Sport
+http://ip.bttv.be:8000/ss/ss123/133217
+#EXTINF:-1,PL: Polsat Sport Extra HD
+http://ip.bttv.be:8000/ss/ss123/7371
+#EXTINF:-1,PL: Polsat Sport Fight
+http://ip.bttv.be:8000/ss/ss123/170409
+#EXTINF:-1,PL: Polsat Sport Fight HD
+http://ip.bttv.be:8000/ss/ss123/170418
+#EXTINF:-1,PL: Polsat Sport HD
+http://ip.bttv.be:8000/ss/ss123/7370
+#EXTINF:-1,PL: Polsat Sport News HD
+http://ip.bttv.be:8000/ss/ss123/7372
+#EXTINF:-1,PL: Polsat Sport Premium 2
+http://ip.bttv.be:8000/ss/ss123/170118
+#EXTINF:-1,PT: ELEVEN SPORT 1 HD
+http://ip.bttv.be:8000/ss/ss123/158069
+#EXTINF:-1,PT: ELEVEN SPORT 2 HD
+http://ip.bttv.be:8000/ss/ss123/158902
+#EXTINF:-1,PT: ELEVEN SPORTS 1 FHD
+http://ip.bttv.be:8000/ss/ss123/165455
+#EXTINF:-1,PT: ELEVEN SPORTS 1 SD
+http://ip.bttv.be:8000/ss/ss123/164977
+#EXTINF:-1,PT: ELEVEN SPORTS 2 FHD
+http://ip.bttv.be:8000/ss/ss123/165456
+#EXTINF:-1,PT: ELEVEN SPORTS 2 SD
+http://ip.bttv.be:8000/ss/ss123/164978
+#EXTINF:-1,PT: ELEVEN SPORTS 3 FHD
+http://ip.bttv.be:8000/ss/ss123/167456
+#EXTINF:-1,PT: ELEVEN SPORTS 3 SD
+http://ip.bttv.be:8000/ss/ss123/164979
+#EXTINF:-1,PT: ELEVEN SPORTS 4 FHD
+http://ip.bttv.be:8000/ss/ss123/167457
+#EXTINF:-1,PT: ELEVEN SPORTS 4 SD
+http://ip.bttv.be:8000/ss/ss123/164980
+#EXTINF:-1,PT: ELEVEN SPORTS 5 FHD
+http://ip.bttv.be:8000/ss/ss123/167458
+#EXTINF:-1,PT: ELEVEN SPORTS 5 SD
+http://ip.bttv.be:8000/ss/ss123/164981
+#EXTINF:-1,PT: ELEVEN SPORTS 6 FHD
+http://ip.bttv.be:8000/ss/ss123/167459
+#EXTINF:-1,PT: ELEVEN SPORTS 6 SD
+http://ip.bttv.be:8000/ss/ss123/164982
+#EXTINF:-1,PT: ELEVENSPORT 3 HD
+http://ip.bttv.be:8000/ss/ss123/159765
+#EXTINF:-1,PT: ELEVENSPORT 4 HD
+http://ip.bttv.be:8000/ss/ss123/159766
+#EXTINF:-1,PT: ELEVENSPORT 5 HD
+http://ip.bttv.be:8000/ss/ss123/159767
+#EXTINF:-1,PT: ELEVENSPORT 6 HD
+http://ip.bttv.be:8000/ss/ss123/159768
+#EXTINF:-1,PT: EUROSPORT 1
+http://ip.bttv.be:8000/ss/ss123/136682
+#EXTINF:-1,PT: EUROSPORT 1 HD
+http://ip.bttv.be:8000/ss/ss123/2231
+#EXTINF:-1,PT: Eurosport 2
+http://ip.bttv.be:8000/ss/ss123/132911
+#EXTINF:-1,PT: Fashion TV
+http://ip.bttv.be:8000/ss/ss123/136676
+#EXTINF:-1,PT: FIGHT NETWORH HD
+http://ip.bttv.be:8000/ss/ss123/136665
+#EXTINF:-1,PT: SPORT + LOW
+http://ip.bttv.be:8000/ss/ss123/167483
+#EXTINF:-1,PT: SPORT TV +
+http://ip.bttv.be:8000/ss/ss123/161969
+#EXTINF:-1,PT: SPORT TV + HD
+http://ip.bttv.be:8000/ss/ss123/136265
+#EXTINF:-1,PT: SPORT TV 1
+http://ip.bttv.be:8000/ss/ss123/161955
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://ip.bttv.be:8000/ss/ss123/1455
+#EXTINF:-1,PT: SPORT TV 1 HD 1080P
+http://ip.bttv.be:8000/ss/ss123/162643
+#EXTINF:-1,PT: SPORT TV 1 LOW
+http://ip.bttv.be:8000/ss/ss123/167478
+#EXTINF:-1,PT: SPORT TV 2
+http://ip.bttv.be:8000/ss/ss123/161957
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://ip.bttv.be:8000/ss/ss123/1456
+#EXTINF:-1,PT: SPORT TV 2 HD 1080P
+http://ip.bttv.be:8000/ss/ss123/162644
+#EXTINF:-1,PT: SPORT TV 2 LOW
+http://ip.bttv.be:8000/ss/ss123/167479
+#EXTINF:-1,PT: SPORT TV 3
+http://ip.bttv.be:8000/ss/ss123/161966
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://ip.bttv.be:8000/ss/ss123/1457
+#EXTINF:-1,PT: SPORT TV 3 LOW
+http://ip.bttv.be:8000/ss/ss123/167480
+#EXTINF:-1,PT: SPORT TV 4
+http://ip.bttv.be:8000/ss/ss123/161967
+#EXTINF:-1,PT: SPORT TV 4 HD
+http://ip.bttv.be:8000/ss/ss123/1458
+#EXTINF:-1,PT: SPORT TV 4 LOW
+http://ip.bttv.be:8000/ss/ss123/167481
+#EXTINF:-1,PT: SPORT TV 5
+http://ip.bttv.be:8000/ss/ss123/161968
+#EXTINF:-1,PT: SPORT TV 5 HD
+http://ip.bttv.be:8000/ss/ss123/1459
+#EXTINF:-1,PT: SPORT TV 5 LOW
+http://ip.bttv.be:8000/ss/ss123/167482
+#EXTINF:-1,PT: SPORT TV NBA HD
+http://ip.bttv.be:8000/ss/ss123/183821
+#EXTINF:-1,PT: SPORTING TV
+http://ip.bttv.be:8000/ss/ss123/2232
+#EXTINF:-1,PT: SPORTING TV HD
+http://ip.bttv.be:8000/ss/ss123/161971
+#EXTINF:-1,RO: Digi Sport 1
+http://ip.bttv.be:8000/ss/ss123/3247
+#EXTINF:-1,RO: Digi Sport 2
+http://ip.bttv.be:8000/ss/ss123/3248
+#EXTINF:-1,RO: Digi Sport 3
+http://ip.bttv.be:8000/ss/ss123/3249
+#EXTINF:-1,RO: Digi Sport 4
+http://ip.bttv.be:8000/ss/ss123/3250
+#EXTINF:-1,RS: Arena Sport 1
+http://ip.bttv.be:8000/ss/ss123/2986
+#EXTINF:-1,RS: Arena Sport 2
+http://ip.bttv.be:8000/ss/ss123/2987
+#EXTINF:-1,RS: Arena Sport 3
+http://ip.bttv.be:8000/ss/ss123/2988
+#EXTINF:-1,RS: Arena Sport 4
+http://ip.bttv.be:8000/ss/ss123/2989
+#EXTINF:-1,RS: Arena Sport 5
+http://ip.bttv.be:8000/ss/ss123/2990
