@@ -1,47 +1,434 @@
 #EXTM3U
-#EXTINF:-1,TV GLOBO
-http://185.23.213.162:8789/salim123/salim123/24902
-#EXTINF:-1,TV BRASIL
-http://185.23.213.162:8789/salim123/salim123/24903
-#EXTINF:-1,SBT
-http://185.23.213.162:8789/salim123/salim123/24911
-#EXTINF:-1,BAND
-http://185.23.213.162:8789/salim123/salim123/24923
-#EXTINF:-1,REDE TV !
-http://185.23.213.162:8789/salim123/salim123/24925
-#EXTINF:-1,SPACE
-http://185.23.213.162:8789/salim123/salim123/24910
-#EXTINF:-1,TNT
-http://185.23.213.162:8789/salim123/salim123/24906
-#EXTINF:-1,MULTISHOW
-http://185.23.213.162:8789/salim123/salim123/24913
-#EXTINF:-1,MEGAPIX
-http://185.23.213.162:8789/salim123/salim123/24914
-#EXTINF:-1,LIFETIME
-http://185.23.213.162:8789/salim123/salim123/24915
-#EXTINF:-1,TRU TV
-http://185.23.213.162:8789/salim123/salim123/24904
-#EXTINF:-1,SPORTV1
-http://185.23.213.162:8789/salim123/salim123/24909
-#EXTINF:-1,SPORTV2
-http://185.23.213.162:8789/salim123/salim123/24908
-#EXTINF:-1,SPORTV3
-http://185.23.213.162:8789/salim123/salim123/24907
-#EXTINF:-1,FOX SPORT
-http://185.23.213.162:8789/salim123/salim123/24917
-#EXTINF:-1,FOX SPORT2
-http://185.23.213.162:8789/salim123/salim123/24916
-#EXTINF:-1,COMBATE
-http://185.23.213.162:8789/salim123/salim123/24920
-#EXTINF:-1,DISNEY CHANNEL
-http://185.23.213.162:8789/salim123/salim123/24918
-#EXTINF:-1,DISCOVERY KIDS
-http://185.23.213.162:8789/salim123/salim123/24919
-#EXTINF:-1,TOONCAST
-http://185.23.213.162:8789/salim123/salim123/24905
-#EXTINF:-1,BAND NEWS
-http://185.23.213.162:8789/salim123/salim123/24922
-#EXTINF:-1,BIS
-http://185.23.213.162:8789/salim123/salim123/24921
-#EXTINF:-1,OFF
-http://185.23.213.162:8789/salim123/salim123/24912
+#EXTINF:0,A&E
+http://playtv.selfip.net:80/alex2019/alex2019/63151
+#EXTINF:0,A&E http://playtv.selfip.net:80/alex2019/alex2019/63150
+#EXTINF:0,AGRO
+http://playtv.selfip.net:80/alex2019/alex2019/62910
+#EXTINF:0,AMC
+http://playtv.selfip.net:80/alex2019/alex2019/63149
+#EXTINF:0,AMC http://playtv.selfip.net:80/alex2019/alex2019/63148
+#EXTINF:0,Animal Planet
+http://playtv.selfip.net:80/alex2019/alex2019/63145
+#EXTINF:0,Animal Planet http://playtv.selfip.net:80/alex2019/alex2019/63144
+#EXTINF:0,Arte1
+http://playtv.selfip.net:80/alex2019/alex2019/63143
+#EXTINF:0,Arte1 http://playtv.selfip.net:80/alex2019/alex2019/63142
+#EXTINF:0,AXN
+http://playtv.selfip.net:80/alex2019/alex2019/63147
+#EXTINF:0,AXN http://playtv.selfip.net:80/alex2019/alex2019/63146
+#EXTINF:0,Baby TV
+http://playtv.selfip.net:80/alex2019/alex2019/63139
+#EXTINF:0,Baby TV http://playtv.selfip.net:80/alex2019/alex2019/63138
+#EXTINF:0,Band Campinas
+http://playtv.selfip.net:80/alex2019/alex2019/63162
+#EXTINF:0,Band Campinas http://playtv.selfip.net:80/alex2019/alex2019/63161
+#EXTINF:0,Band News
+http://playtv.selfip.net:80/alex2019/alex2019/63153
+#EXTINF:0,Band News http://playtv.selfip.net:80/alex2019/alex2019/63152
+#EXTINF:0,Band Nordeste http://playtv.selfip.net:80/alex2019/alex2019/63160
+#EXTINF:0,Band SP
+http://playtv.selfip.net:80/alex2019/alex2019/63159
+#EXTINF:0,Band Sports
+http://playtv.selfip.net:80/alex2019/alex2019/63135
+#EXTINF:0,Band Sports http://playtv.selfip.net:80/alex2019/alex2019/63134
+#EXTINF:0,Boomerang
+http://playtv.selfip.net:80/alex2019/alex2019/63133
+#EXTINF:0,Boomerang http://playtv.selfip.net:80/alex2019/alex2019/63132
+#EXTINF:0,CANAL DO BOI
+http://playtv.selfip.net:80/alex2019/alex2019/62909
+#EXTINF:0,Canal Rural
+http://playtv.selfip.net:80/alex2019/alex2019/63128
+#EXTINF:0,CanÁ„o Nova
+http://playtv.selfip.net:80/alex2019/alex2019/63127
+#EXTINF:0,Cartoon Network
+http://playtv.selfip.net:80/alex2019/alex2019/63126
+#EXTINF:0,Cartoon Network http://playtv.selfip.net:80/alex2019/alex2019/63125
+#EXTINF:0,CBTV International
+http://playtv.selfip.net:80/alex2019/alex2019/63131
+#EXTINF:0,CHEF TV
+http://playtv.selfip.net:80/alex2019/alex2019/62908
+#EXTINF:0,Cine  TV
+http://playtv.selfip.net:80/alex2019/alex2019/63123
+#EXTINF:0,CINE BRASIL
+http://playtv.selfip.net:80/alex2019/alex2019/62907
+#EXTINF:0,Cine Sky
+http://playtv.selfip.net:80/alex2019/alex2019/63124
+#EXTINF:0,Cinemax
+http://playtv.selfip.net:80/alex2019/alex2019/63122
+#EXTINF:0,Cinemax http://playtv.selfip.net:80/alex2019/alex2019/63121
+#EXTINF:0,Classique TV
+http://playtv.selfip.net:80/alex2019/alex2019/63120
+#EXTINF:0,CNN Espanhol
+http://playtv.selfip.net:80/alex2019/alex2019/63130
+#EXTINF:0,CNN INTERNACIONAL
+http://playtv.selfip.net:80/alex2019/alex2019/62906
+#EXTINF:0,CNT
+http://playtv.selfip.net:80/alex2019/alex2019/63129
+#EXTINF:0,Combate
+http://playtv.selfip.net:80/alex2019/alex2019/63119
+#EXTINF:0,Combate http://playtv.selfip.net:80/alex2019/alex2019/63118
+#EXTINF:0,Comedy Central
+http://playtv.selfip.net:80/alex2019/alex2019/63117
+#EXTINF:0,Comedy Central http://playtv.selfip.net:80/alex2019/alex2019/63116
+#EXTINF:0,COPA NORDESTE 2019 | 1
+http://playtv.selfip.net:80/alex2019/alex2019/63137
+#EXTINF:0,COPA NORDESTE 2019 | 2
+http://playtv.selfip.net:80/alex2019/alex2019/63136
+#EXTINF:0,Curta!
+http://playtv.selfip.net:80/alex2019/alex2019/63115
+#EXTINF:0,Curta! http://playtv.selfip.net:80/alex2019/alex2019/63114
+#EXTINF:0,Discovery Channel
+http://playtv.selfip.net:80/alex2019/alex2019/63113
+#EXTINF:0,Discovery Channel http://playtv.selfip.net:80/alex2019/alex2019/63112
+#EXTINF:0,Discovery Civilization
+http://playtv.selfip.net:80/alex2019/alex2019/63111
+#EXTINF:0,Discovery Civilization http://playtv.selfip.net:80/alex2019/alex2019/63110
+#EXTINF:0,Discovery H&H
+http://playtv.selfip.net:80/alex2019/alex2019/63109
+#EXTINF:0,Discovery H&H http://playtv.selfip.net:80/alex2019/alex2019/63108
+#EXTINF:0,Discovery Kids
+http://playtv.selfip.net:80/alex2019/alex2019/63107
+#EXTINF:0,Discovery Kids http://playtv.selfip.net:80/alex2019/alex2019/63106
+#EXTINF:0,Discovery Science
+http://playtv.selfip.net:80/alex2019/alex2019/63105
+#EXTINF:0,Discovery Science http://playtv.selfip.net:80/alex2019/alex2019/63104
+#EXTINF:0,Discovery Theater
+http://playtv.selfip.net:80/alex2019/alex2019/63103
+#EXTINF:0,Discovery Theater http://playtv.selfip.net:80/alex2019/alex2019/63102
+#EXTINF:0,Discovery Turbo
+http://playtv.selfip.net:80/alex2019/alex2019/63101
+#EXTINF:0,Discovery Turbo http://playtv.selfip.net:80/alex2019/alex2019/63100
+#EXTINF:0,Discovery World
+http://playtv.selfip.net:80/alex2019/alex2019/63099
+#EXTINF:0,Discovery World http://playtv.selfip.net:80/alex2019/alex2019/63098
+#EXTINF:0,Disney Channel
+http://playtv.selfip.net:80/alex2019/alex2019/63097
+#EXTINF:0,Disney Channel http://playtv.selfip.net:80/alex2019/alex2019/63096
+#EXTINF:0,Disney Junior
+http://playtv.selfip.net:80/alex2019/alex2019/63095
+#EXTINF:0,Disney Junior http://playtv.selfip.net:80/alex2019/alex2019/63094
+#EXTINF:0,Disney XD
+http://playtv.selfip.net:80/alex2019/alex2019/63093
+#EXTINF:0,Disney XD http://playtv.selfip.net:80/alex2019/alex2019/63092
+#EXTINF:0,E!
+http://playtv.selfip.net:80/alex2019/alex2019/63091
+#EXTINF:0,E! http://playtv.selfip.net:80/alex2019/alex2019/63090
+#EXTINF:0,ESPN
+http://playtv.selfip.net:80/alex2019/alex2019/63089
+#EXTINF:0,ESPN 2
+http://playtv.selfip.net:80/alex2019/alex2019/63087
+#EXTINF:0,ESPN 2 http://playtv.selfip.net:80/alex2019/alex2019/63086
+#EXTINF:0,ESPN EXTRA
+http://playtv.selfip.net:80/alex2019/alex2019/63085
+#EXTINF:0,ESPN EXTRA http://playtv.selfip.net:80/alex2019/alex2019/63084
+#EXTINF:0,ESPN http://playtv.selfip.net:80/alex2019/alex2019/63088
+#EXTINF:0,FASHION TV
+http://playtv.selfip.net:80/alex2019/alex2019/62905
+#EXTINF:0,Fish  TV http://playtv.selfip.net:80/alex2019/alex2019/63080
+#EXTINF:0,Fish TV
+http://playtv.selfip.net:80/alex2019/alex2019/63081
+#EXTINF:0,Food Network
+http://playtv.selfip.net:80/alex2019/alex2019/63079
+#EXTINF:0,Food Network http://playtv.selfip.net:80/alex2019/alex2019/63078
+#EXTINF:0,Fox
+http://playtv.selfip.net:80/alex2019/alex2019/63077
+#EXTINF:0,Fox http://playtv.selfip.net:80/alex2019/alex2019/63076
+#EXTINF:0,Fox Life
+http://playtv.selfip.net:80/alex2019/alex2019/63075
+#EXTINF:0,Fox Life http://playtv.selfip.net:80/alex2019/alex2019/63074
+#EXTINF:0,Fox Premium 1
+http://playtv.selfip.net:80/alex2019/alex2019/63073
+#EXTINF:0,Fox Premium 1 http://playtv.selfip.net:80/alex2019/alex2019/63072
+#EXTINF:0,Fox Premium 2
+http://playtv.selfip.net:80/alex2019/alex2019/63071
+#EXTINF:0,Fox Premium 2 http://playtv.selfip.net:80/alex2019/alex2019/63070
+#EXTINF:0,Fox Sports
+http://playtv.selfip.net:80/alex2019/alex2019/63069
+#EXTINF:0,Fox Sports 2
+http://playtv.selfip.net:80/alex2019/alex2019/63067
+#EXTINF:0,Fox Sports 2 http://playtv.selfip.net:80/alex2019/alex2019/63066
+#EXTINF:0,Fox Sports http://playtv.selfip.net:80/alex2019/alex2019/63068
+#EXTINF:0,Futura
+http://playtv.selfip.net:80/alex2019/alex2019/63065
+#EXTINF:0,Futura http://playtv.selfip.net:80/alex2019/alex2019/63064
+#EXTINF:0,FX
+http://playtv.selfip.net:80/alex2019/alex2019/63083
+#EXTINF:0,FX http://playtv.selfip.net:80/alex2019/alex2019/63082
+#EXTINF:0,Globo Anhanguera Goiania
+http://playtv.selfip.net:80/alex2019/alex2019/63173
+#EXTINF:0,BR-GLOBO EPTV CAMPINAS
+http://playtv.selfip.net:80/alex2019/alex2019/63178
+#EXTINF:0,BR-GLOBO EPTV CAMPINAS http://playtv.selfip.net:80/alex2019/alex2019/63177
+#EXTINF:0,Globo EPTV Ribeir„o Preto
+http://playtv.selfip.net:80/alex2019/alex2019/63172
+#EXTINF:0,Globo Internacional
+http://playtv.selfip.net:80/alex2019/alex2019/63171
+#EXTINF:0,Globo Minas
+http://playtv.selfip.net:80/alex2019/alex2019/63170
+#EXTINF:0,Globo News
+http://playtv.selfip.net:80/alex2019/alex2019/63155
+#EXTINF:0,Globo News http://playtv.selfip.net:80/alex2019/alex2019/63154
+#EXTINF:0,BR-GLOBO NORDESTE
+http://playtv.selfip.net:80/alex2019/alex2019/63176
+#EXTINF:0,Globo Nordeste http://playtv.selfip.net:80/alex2019/alex2019/63175
+#EXTINF:0,Globo RBS Porto Alegre
+http://playtv.selfip.net:80/alex2019/alex2019/63169
+#EXTINF:0,BR-GLOBO RJ
+http://playtv.selfip.net:80/alex2019/alex2019/63182
+#EXTINF:0,BR-GLOBO RJ http://playtv.selfip.net:80/alex2019/alex2019/63181
+#EXTINF:0,Globo RN
+http://playtv.selfip.net:80/alex2019/alex2019/63168
+#EXTINF:0,BR-GLOBO SP
+http://playtv.selfip.net:80/alex2019/alex2019/63180
+#EXTINF:0,BR-GLOBO SP http://playtv.selfip.net:80/alex2019/alex2019/63179
+#EXTINF:0,Globo Tv Belem
+http://playtv.selfip.net:80/alex2019/alex2019/63167
+#EXTINF:0,Globo Tv Tem Bauru
+http://playtv.selfip.net:80/alex2019/alex2019/63166
+#EXTINF:0,Globo Tv Tem Sorocaba
+http://playtv.selfip.net:80/alex2019/alex2019/63165
+#EXTINF:0,Globo Tv Tribuna Santos
+http://playtv.selfip.net:80/alex2019/alex2019/63174
+#EXTINF:0,Globo Tv Vanguarda S.J dos Campos
+http://playtv.selfip.net:80/alex2019/alex2019/63164
+#EXTINF:0,Globo Tv Verdes Mares Fortaleza
+http://playtv.selfip.net:80/alex2019/alex2019/63163
+#EXTINF:0,Globosat
+http://playtv.selfip.net:80/alex2019/alex2019/63061
+#EXTINF:0,Globosat http://playtv.selfip.net:80/alex2019/alex2019/63060
+#EXTINF:0,Gloob
+http://playtv.selfip.net:80/alex2019/alex2019/63059
+#EXTINF:0,Gloob http://playtv.selfip.net:80/alex2019/alex2019/63058
+#EXTINF:0,Gloobinho
+http://playtv.selfip.net:80/alex2019/alex2019/63057
+#EXTINF:0,GNT
+http://playtv.selfip.net:80/alex2019/alex2019/63063
+#EXTINF:0,GNT http://playtv.selfip.net:80/alex2019/alex2019/63062
+#EXTINF:0,Gospel Cartoon TV
+http://playtv.selfip.net:80/alex2019/alex2019/63056
+#EXTINF:0,Gospel Movies TV
+http://playtv.selfip.net:80/alex2019/alex2019/63055
+#EXTINF:0,H2
+http://playtv.selfip.net:80/alex2019/alex2019/63051
+#EXTINF:0,H2 http://playtv.selfip.net:80/alex2019/alex2019/63050
+#EXTINF:0,HBO
+http://playtv.selfip.net:80/alex2019/alex2019/63049
+#EXTINF:0,HBO 2
+http://playtv.selfip.net:80/alex2019/alex2019/63047
+#EXTINF:0,HBO 2 http://playtv.selfip.net:80/alex2019/alex2019/63046
+#EXTINF:0,HBO Family
+http://playtv.selfip.net:80/alex2019/alex2019/63045
+#EXTINF:0,HBO Family http://playtv.selfip.net:80/alex2019/alex2019/63044
+#EXTINF:0,HBO http://playtv.selfip.net:80/alex2019/alex2019/63048
+#EXTINF:0,HBO Plus
+http://playtv.selfip.net:80/alex2019/alex2019/63043
+#EXTINF:0,HBO Plus http://playtv.selfip.net:80/alex2019/alex2019/63042
+#EXTINF:0,HBO Plus*e
+http://playtv.selfip.net:80/alex2019/alex2019/63041
+#EXTINF:0,HBO Plus*e http://playtv.selfip.net:80/alex2019/alex2019/63040
+#EXTINF:0,HBO Signature
+http://playtv.selfip.net:80/alex2019/alex2019/63039
+#EXTINF:0,HBO Signature http://playtv.selfip.net:80/alex2019/alex2019/63038
+#EXTINF:0,History Channel
+http://playtv.selfip.net:80/alex2019/alex2019/63053
+#EXTINF:0,History Channel http://playtv.selfip.net:80/alex2019/alex2019/63052
+#EXTINF:0,Hit TV http://playtv.selfip.net:80/alex2019/alex2019/63037
+#EXTINF:0,I-Sat
+http://playtv.selfip.net:80/alex2019/alex2019/63036
+#EXTINF:0,InvestigaÁ„o Discovery
+http://playtv.selfip.net:80/alex2019/alex2019/63035
+#EXTINF:0,InvestigaÁ„o Discovery http://playtv.selfip.net:80/alex2019/alex2019/63034
+#EXTINF:0,Lifetime
+http://playtv.selfip.net:80/alex2019/alex2019/63033
+#EXTINF:0,Lifetime http://playtv.selfip.net:80/alex2019/alex2019/63032
+#EXTINF:0,Max
+http://playtv.selfip.net:80/alex2019/alex2019/63029
+#EXTINF:0,Max http://playtv.selfip.net:80/alex2019/alex2019/63028
+#EXTINF:0,Max Prime
+http://playtv.selfip.net:80/alex2019/alex2019/63027
+#EXTINF:0,Max Prime http://playtv.selfip.net:80/alex2019/alex2019/63026
+#EXTINF:0,Max Prime*e
+http://playtv.selfip.net:80/alex2019/alex2019/63025
+#EXTINF:0,Max Prime*e http://playtv.selfip.net:80/alex2019/alex2019/63024
+#EXTINF:0,Max Up
+http://playtv.selfip.net:80/alex2019/alex2019/63023
+#EXTINF:0,Max Up http://playtv.selfip.net:80/alex2019/alex2019/63022
+#EXTINF:0,Megapix
+http://playtv.selfip.net:80/alex2019/alex2019/63021
+#EXTINF:0,Megapix http://playtv.selfip.net:80/alex2019/alex2019/63020
+#EXTINF:0,NatGeo Kids
+http://playtv.selfip.net:80/alex2019/alex2019/63015
+#EXTINF:0,NatGeo Kids http://playtv.selfip.net:80/alex2019/alex2019/63014
+#EXTINF:0,NatGeo Wild
+http://playtv.selfip.net:80/alex2019/alex2019/63013
+#EXTINF:0,NatGeo Wild http://playtv.selfip.net:80/alex2019/alex2019/63012
+#EXTINF:0,National Geographic
+http://playtv.selfip.net:80/alex2019/alex2019/63011
+#EXTINF:0,National Geographic http://playtv.selfip.net:80/alex2019/alex2019/63010
+#EXTINF:0,NBR
+http://playtv.selfip.net:80/alex2019/alex2019/63016
+#EXTINF:0,Nick Jr
+http://playtv.selfip.net:80/alex2019/alex2019/63009
+#EXTINF:0,Nick Jr http://playtv.selfip.net:80/alex2019/alex2019/63008
+#EXTINF:0,Nickelodeon
+http://playtv.selfip.net:80/alex2019/alex2019/63007
+#EXTINF:0,Nickelodeon http://playtv.selfip.net:80/alex2019/alex2019/63006
+#EXTINF:0,Novo Tempo
+http://playtv.selfip.net:80/alex2019/alex2019/63005
+#EXTINF:0,OFF
+http://playtv.selfip.net:80/alex2019/alex2019/63004
+#EXTINF:0,OFF http://playtv.selfip.net:80/alex2019/alex2019/63003
+#EXTINF:0,Paramount
+http://playtv.selfip.net:80/alex2019/alex2019/63002
+#EXTINF:0,Paramount http://playtv.selfip.net:80/alex2019/alex2019/63001
+#EXTINF:0,Polishop Tv
+http://playtv.selfip.net:80/alex2019/alex2019/62999
+#EXTINF:0,Premiere 1
+http://playtv.selfip.net:80/alex2019/alex2019/62998
+#EXTINF:0,Premiere 2
+http://playtv.selfip.net:80/alex2019/alex2019/62997
+#EXTINF:0,Premiere 2 http://playtv.selfip.net:80/alex2019/alex2019/62996
+#EXTINF:0,Premiere 3
+http://playtv.selfip.net:80/alex2019/alex2019/62995
+#EXTINF:0,Premiere 3 http://playtv.selfip.net:80/alex2019/alex2019/62994
+#EXTINF:0,Premiere 4
+http://playtv.selfip.net:80/alex2019/alex2019/62993
+#EXTINF:0,Premiere 4 http://playtv.selfip.net:80/alex2019/alex2019/62992
+#EXTINF:0,Premiere 5
+http://playtv.selfip.net:80/alex2019/alex2019/62991
+#EXTINF:0,Premiere 5 http://playtv.selfip.net:80/alex2019/alex2019/62990
+#EXTINF:0,Premiere 6
+http://playtv.selfip.net:80/alex2019/alex2019/62989
+#EXTINF:0,Premiere 7
+http://playtv.selfip.net:80/alex2019/alex2019/62988
+#EXTINF:0,Premiere 8
+http://playtv.selfip.net:80/alex2019/alex2019/62987
+#EXTINF:0,Premiere 9
+http://playtv.selfip.net:80/alex2019/alex2019/62986
+#EXTINF:0,Premiere Clubes
+http://playtv.selfip.net:80/alex2019/alex2019/62985
+#EXTINF:0,Premiere Clubes http://playtv.selfip.net:80/alex2019/alex2019/62984
+#EXTINF:0,PRIME BOX
+http://playtv.selfip.net:80/alex2019/alex2019/62904
+#EXTINF:0,Record Amazonas
+http://playtv.selfip.net:80/alex2019/alex2019/62983
+#EXTINF:0,Record Campinas
+http://playtv.selfip.net:80/alex2019/alex2019/62982
+#EXTINF:0,Record Campinas http://playtv.selfip.net:80/alex2019/alex2019/62981
+#EXTINF:0,Record News
+http://playtv.selfip.net:80/alex2019/alex2019/62980
+#EXTINF:0,Record News http://playtv.selfip.net:80/alex2019/alex2019/62979
+#EXTINF:0,Record SP
+http://playtv.selfip.net:80/alex2019/alex2019/62978
+#EXTINF:0,Record SP http://playtv.selfip.net:80/alex2019/alex2019/62977
+#EXTINF:0,REDE 21
+http://playtv.selfip.net:80/alex2019/alex2019/62903
+#EXTINF:0,REDE SUPER
+http://playtv.selfip.net:80/alex2019/alex2019/62902
+#EXTINF:0,Rede TV
+http://playtv.selfip.net:80/alex2019/alex2019/62976
+#EXTINF:0,Rede TV http://playtv.selfip.net:80/alex2019/alex2019/62975
+#EXTINF:0,Rede Vida
+http://playtv.selfip.net:80/alex2019/alex2019/62974
+#EXTINF:0,Rede Vida http://playtv.selfip.net:80/alex2019/alex2019/62973
+#EXTINF:0,Rit Tv
+http://playtv.selfip.net:80/alex2019/alex2019/62972
+#EXTINF:0,SBT
+http://playtv.selfip.net:80/alex2019/alex2019/63158
+#EXTINF:0,SBT http://playtv.selfip.net:80/alex2019/alex2019/63157
+#EXTINF:0,SBT Nordeste http://playtv.selfip.net:80/alex2019/alex2019/63156
+#EXTINF:0,SHOPTIME
+http://playtv.selfip.net:80/alex2019/alex2019/62901
+#EXTINF:0,Sony
+http://playtv.selfip.net:80/alex2019/alex2019/62971
+#EXTINF:0,Sony http://playtv.selfip.net:80/alex2019/alex2019/62970
+#EXTINF:0,Space
+http://playtv.selfip.net:80/alex2019/alex2019/62969
+#EXTINF:0,Space http://playtv.selfip.net:80/alex2019/alex2019/62968
+#EXTINF:0,SporTV
+http://playtv.selfip.net:80/alex2019/alex2019/62967
+#EXTINF:0,SporTV 2
+http://playtv.selfip.net:80/alex2019/alex2019/62965
+#EXTINF:0,SporTV 2 http://playtv.selfip.net:80/alex2019/alex2019/62964
+#EXTINF:0,SporTV 3
+http://playtv.selfip.net:80/alex2019/alex2019/62963
+#EXTINF:0,SporTV 3 http://playtv.selfip.net:80/alex2019/alex2019/62962
+#EXTINF:0,SporTV http://playtv.selfip.net:80/alex2019/alex2019/62966
+#EXTINF:0,Studio Universal
+http://playtv.selfip.net:80/alex2019/alex2019/62961
+#EXTINF:0,Studio Universal http://playtv.selfip.net:80/alex2019/alex2019/62960
+#EXTINF:0,SUNDANCE
+http://playtv.selfip.net:80/alex2019/alex2019/62900
+#EXTINF:0,SyFy
+http://playtv.selfip.net:80/alex2019/alex2019/62959
+#EXTINF:0,SyFy http://playtv.selfip.net:80/alex2019/alex2019/62958
+#EXTINF:0,TBS
+http://playtv.selfip.net:80/alex2019/alex2019/62957
+#EXTINF:0,TBS http://playtv.selfip.net:80/alex2019/alex2019/62956
+#EXTINF:0,TCM
+http://playtv.selfip.net:80/alex2019/alex2019/62955
+#EXTINF:0,TCM http://playtv.selfip.net:80/alex2019/alex2019/62954
+#EXTINF:0,Telecine Action
+http://playtv.selfip.net:80/alex2019/alex2019/62941
+#EXTINF:0,Telecine Action http://playtv.selfip.net:80/alex2019/alex2019/62940
+#EXTINF:0,Telecine Cult
+http://playtv.selfip.net:80/alex2019/alex2019/62933
+#EXTINF:0,Telecine Cult http://playtv.selfip.net:80/alex2019/alex2019/62932
+#EXTINF:0,Telecine Fun
+http://playtv.selfip.net:80/alex2019/alex2019/62939
+#EXTINF:0,Telecine Fun http://playtv.selfip.net:80/alex2019/alex2019/62938
+#EXTINF:0,Telecine Pipoca
+http://playtv.selfip.net:80/alex2019/alex2019/62937
+#EXTINF:0,Telecine Pipoca http://playtv.selfip.net:80/alex2019/alex2019/62936
+#EXTINF:0,Telecine Premium
+http://playtv.selfip.net:80/alex2019/alex2019/62935
+#EXTINF:0,Telecine Premium http://playtv.selfip.net:80/alex2019/alex2019/62934
+#EXTINF:0,Telecine Touch
+http://playtv.selfip.net:80/alex2019/alex2019/62931
+#EXTINF:0,Telecine Touch http://playtv.selfip.net:80/alex2019/alex2019/62930
+#EXTINF:0,TLC
+http://playtv.selfip.net:80/alex2019/alex2019/62953
+#EXTINF:0,TLC http://playtv.selfip.net:80/alex2019/alex2019/62952
+#EXTINF:0,TNT
+http://playtv.selfip.net:80/alex2019/alex2019/62951
+#EXTINF:0,TNT http://playtv.selfip.net:80/alex2019/alex2019/62950
+#EXTINF:0,TNT SÈries
+http://playtv.selfip.net:80/alex2019/alex2019/62949
+#EXTINF:0,TNT SÈries http://playtv.selfip.net:80/alex2019/alex2019/62948
+#EXTINF:0,Tooncast
+http://playtv.selfip.net:80/alex2019/alex2019/62928
+#EXTINF:0,Tooncast http://playtv.selfip.net:80/alex2019/alex2019/62927
+#EXTINF:0,TOP TV
+http://playtv.selfip.net:80/alex2019/alex2019/62898
+#EXTINF:0,TRAVEL BOX
+http://playtv.selfip.net:80/alex2019/alex2019/62899
+#EXTINF:0,TruTv
+http://playtv.selfip.net:80/alex2019/alex2019/62926
+#EXTINF:0,TV Aparecida
+http://playtv.selfip.net:80/alex2019/alex2019/62947
+#EXTINF:0,TV Aparecida http://playtv.selfip.net:80/alex2019/alex2019/62946
+#EXTINF:0,Tv Boa Vontade
+http://playtv.selfip.net:80/alex2019/alex2019/62925
+#EXTINF:0,TV Cultura
+http://playtv.selfip.net:80/alex2019/alex2019/62945
+#EXTINF:0,TV Cultura http://playtv.selfip.net:80/alex2019/alex2019/62944
+#EXTINF:0,Tv Escola
+http://playtv.selfip.net:80/alex2019/alex2019/62924
+#EXTINF:0,Tv Gazeta
+http://playtv.selfip.net:80/alex2019/alex2019/62923
+#EXTINF:0,TV JustiÁa
+http://playtv.selfip.net:80/alex2019/alex2019/62943
+#EXTINF:0,TV Ra Ti Bum
+http://playtv.selfip.net:80/alex2019/alex2019/62942
+#EXTINF:0,Universal Channel
+http://playtv.selfip.net:80/alex2019/alex2019/62922
+#EXTINF:0,Universal Channel http://playtv.selfip.net:80/alex2019/alex2019/62921
+#EXTINF:0,Warner Channel
+http://playtv.selfip.net:80/alex2019/alex2019/62916
+#EXTINF:0,Warner Channel http://playtv.selfip.net:80/alex2019/alex2019/62915
+#EXTINF:0,Woohoo
+http://playtv.selfip.net:80/alex2019/alex2019/62914
+#EXTINF:0,Woohoo http://playtv.selfip.net:80/alex2019/alex2019/62913
+#EXTINF:0,Zoomoo
+http://playtv.selfip.net:80/alex2019/alex2019/62912
+#EXTINF:0,Zoomoo http://playtv.selfip.net:80/alex2019/alex2019/62911
