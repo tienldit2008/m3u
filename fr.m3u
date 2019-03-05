@@ -1,885 +1,735 @@
 #EXTM3U
-#EXTINF:-1,TF1 FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13847
-#EXTINF:-1,TF1 HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13917
-#EXTINF:-1,TF1 SD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/84
-#EXTINF:-1,TF1 +1 FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13817
-#EXTINF:-1,FRANCE 2 FHD
-http://163.172.52.182:8789/live/serversportp2/PMM106scdO/3.ts
-#EXTINF:-1,FRANCE 2 HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13916
-#EXTINF:-1,FRANCE 2 SD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/1007
-#EXTINF:-1,FRANCE 3 FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13738
-#EXTINF:-1,FRANCE 3 HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13915
-#EXTINF:-1,FRANCE 3 SD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/1008
-#EXTINF:-1,FRANCE 4 FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13737
-#EXTINF:-1,FRANCE 4 HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13914
-#EXTINF:-1,FRANCE 4 SD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/1009
-#EXTINF:-1,FRANCE 5 FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13736
-#EXTINF:-1,FRANCE 5 HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13913
-#EXTINF:-1,FRANCE 5 SD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/1013
-#EXTINF:-1,FRANCE O HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13735
-#EXTINF:-1,FRANCE O SD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/1021
-#EXTINF:-1,M6 FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13726
-#EXTINF:-1,M6 HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/14003
-#EXTINF:-1,M6 SD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/90
-#EXTINF:-1,PARIS PREMIERE FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13824
-#EXTINF:-1,PARIS PREMIERE HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13993
-#EXTINF:-1,PARIS PREMIERE SD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/1030
-#EXTINF:-1,TMC FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13696
-#EXTINF:-1,TMC HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13979
-#EXTINF:-1,TMC SD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/1014
-#EXTINF:-1,TV BREIZH FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13693
-#EXTINF:-1,TV BREIZH HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13975
-#EXTINF:-1,TV BREIZH SD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/1032
-#EXTINF:-1,6TER FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13793
-#EXTINF:-1,6TER SD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/1024
-#EXTINF:-1,ARTE FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13788
-#EXTINF:-1,ARTE HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/14043
-#EXTINF:-1,ARTE SD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/426
-#EXTINF:-1,IDF
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13810
-#EXTINF:-1,|FR|*****CINEMA FRANCE*****|FR|
-http://iptvpro.premium-itv.com:8789/salim123/salim123/24927
-#EXTINF:-1,CANAL+ FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/14151
-#EXTINF:-1,CANAL + HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/28946
-#EXTINF:-1,CANAL + SD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/28345
-#EXTINF:-1,CANAL + DECALE FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13768
-#EXTINF:-1,CANAL + DECALE HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/14035
-#EXTINF:-1,CANAL + DECALE SD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/28346
-#EXTINF:-1,CANAL + FAMILY FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13767
-#EXTINF:-1,CANAL + FAMILY HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/14033
-#EXTINF:-1,CANAL + FAMILY SD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/28348
-#EXTINF:-1,CANAL + CINEMA FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13769
-#EXTINF:-1,CANAL + CINEMA HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/28942
-#EXTINF:-1,CANAL + CINEMA SD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/28347
-#EXTINF:-1,OCS MAX FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13825
-#EXTINF:-1,OCS MAX HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13996
-#EXTINF:-1,OCS GEANTS FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13833
-#EXTINF:-1,OCS GEANTS HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13846
-#EXTINF:-1,OCS CITY FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13827
-#EXTINF:-1,OCS CITY HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13994
-#EXTINF:-1,OCS CHOC FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13834
-#EXTINF:-1,OCS CHOC HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13995
-#EXTINF:-1,CINE+ PREMIER FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13759
-#EXTINF:-1,CINE+ PREMIER HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/14021
-#EXTINF:-1,CINE+ PREMIER SD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/28332
-#EXTINF:-1,CINE+ FAMIZ FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13755
-#EXTINF:-1,CINE+ FAMIZ HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13941
-#EXTINF:-1,CINE+ FAMIZ SD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/28329
-#EXTINF:-1,CINE+ EMOTION FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13756
-#EXTINF:-1,CINE+ EMOTION HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/14024
-#EXTINF:-1,CINE+ EMOTION SD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/28330
-#EXTINF:-1,ACTION FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13790
-#EXTINF:-1,ACTION HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/14045
-#EXTINF:-1,ACTION SD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/28334
-#EXTINF:-1,CINE+ CLUB FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13757
-#EXTINF:-1,CINE+ CLUB HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/14025
-#EXTINF:-1,CINE+ CLUB SD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/28328
-#EXTINF:-1,CINE POLAR FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13752
-#EXTINF:-1,CINE+ POLAR HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/14027
-#EXTINF:-1,CINE+ POLAR SD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/28335
-#EXTINF:-1,WARNER TV FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13784
-#EXTINF:-1,POLAR+  FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13763
-#EXTINF:-1,POLAR+ HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/25041
-#EXTINF:-1,TCM CINEMA FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13697
-#EXTINF:-1,TCM CINEMA HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13980
-#EXTINF:-1,TCM CINEMA SD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/28337
-#EXTINF:-1,CINE+ CLASSIC FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13758
-#EXTINF:-1,CINE+ CLASSIC HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/14026
-#EXTINF:-1,CINE+ CLASSIC SD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/28327
-#EXTINF:-1,CINE+ FX FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13753
-#EXTINF:-1,CINE+ FX HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/14022
-#EXTINF:-1,CINE+ FX SD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/28336
-#EXTINF:-1,EUROCHANNEL SD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/28333
-#EXTINF:-1,ALTICE STUDIO FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13787
-#EXTINF:-1,ALTICE STUDIO HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/28413
-#EXTINF:-1,PARAMOUNT CHANNEL FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13713
-#EXTINF:-1,PARAMOUNT CHANNEL HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13911
-#EXTINF:-1,PARAMOUNT CHANNEL SD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/28340
-#EXTINF:-1,SUNDANCE TV FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13733
-#EXTINF:-1,SUNDANCE CHANNEL SD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/28338
-#EXTINF:-1,PARAMOUNT DECALE FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13829
-#EXTINF:-1,PARAMOUNT CHANNEL DECALE SD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/28339
-#EXTINF:-1,CANALPLAY 1
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13970
-#EXTINF:-1,CANALPLAY 2
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13962
-#EXTINF:-1,CANALPLAY 3
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13961
-#EXTINF:-1,CANALPLAY 4
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13960
-#EXTINF:-1,CANALPLAY 5
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13959
-#EXTINF:-1,CANALPLAY 6
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13958
-#EXTINF:-1,CANALPLAY 7
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13957
-#EXTINF:-1,CANALPLAY 8
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13956
-#EXTINF:-1,CANALPLAY 9
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13955
-#EXTINF:-1,CANALPLAY 10
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13969
-#EXTINF:-1,CANALPLAY 11
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13968
-#EXTINF:-1,CANALPLAY 12
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13967
-#EXTINF:-1,CANALPLAY 13
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13966
-#EXTINF:-1,CANALPLAY 14
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13965
-#EXTINF:-1,CANALPLAY 15
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13964
-#EXTINF:-1,CANALPLAY 16
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13963
-#EXTINF:-1,|FR|***ORANGE***|FR|
-http://iptvpro.premium-itv.com:8789/salim123/salim123/24928
-#EXTINF:-1,ORANGE CINE
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13926
-#EXTINF:-1,ORANGE CINE 1
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13925
-#EXTINF:-1,ORANGE CINE 2
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13924
-#EXTINF:-1,ORANGE CINE 3
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13923
-#EXTINF:-1,ORANGE CINE 4
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13922
-#EXTINF:-1,ORANGE CINE 5
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13921
-#EXTINF:-1,ORANGE CINE 6
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13920
-#EXTINF:-1,ORANGE CINE 7
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13919
-#EXTINF:-1,ORANGE CINE 8
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13918
-#EXTINF:-1,ALACARTE 1
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13949
-#EXTINF:-1,ALACARTE 2
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13947
-#EXTINF:-1,ALACARTE 3
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13946
-#EXTINF:-1,ALACARTE 4
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13945
-#EXTINF:-1,ALACARTE 5
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13954
-#EXTINF:-1,ALACARTE 6
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13953
-#EXTINF:-1,ALACARTE 7
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13952
-#EXTINF:-1,ALACARTE 8
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13951
-#EXTINF:-1,ALACARTE 9
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13950
-#EXTINF:-1,ALACARTE 10
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13948
-#EXTINF:-1,|FR|***SPORT***|FR|
-http://iptvpro.premium-itv.com:8789/salim123/salim123/24929
-#EXTINF:-1,RMC SPORT 1 FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13702
-#EXTINF:-1,RMC SPORT 1 HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/28945
-#EXTINF:-1,RMC SPORT 2 FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13701
-#EXTINF:-1,RMC SPORT 2 HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13982
-#EXTINF:-1,RMC SPORT 3 FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13700
-#EXTINF:-1,RMC SPORT 3 HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13985
-#EXTINF:-1,RMC SPORT 4 FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13699
-#EXTINF:-1,RMC SPORT 4 HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13984
-#EXTINF:-1,BEINSPORTS 1 FHD
-http://163.172.52.182:8789/live/serversportp2/PMM106scdO/4.ts
-#EXTINF:-1,BEINSPORTS 2 FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/14153
-#EXTINF:-1,BEINSPORTS 3 FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/14152
-#EXTINF:-1,BEINSPORTS 1 HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/28941
-#EXTINF:-1,BEINSPORTS 2 HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/28943
-#EXTINF:-1,BEINSPORTS 3 HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/14163
-#EXTINF:-1,BEINSPORT 1 SD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/92
-#EXTINF:-1,BEINSPORT 2 SD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/93
-#EXTINF:-1,BEINSPORT 3 SD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/94
-#EXTINF:-1,BEINSPORT MAX 4FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13779
-#EXTINF:-1,BEINSPORT MAX 4
-http://iptvpro.premium-itv.com:8789/salim123/salim123/95
-#EXTINF:-1,BEINSPORT MAX 5FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13778
-#EXTINF:-1,BEINSPORT MAX 5
-http://iptvpro.premium-itv.com:8789/salim123/salim123/1088
-#EXTINF:-1,BEINSPORT MAX 6FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13777
-#EXTINF:-1,BEINSPORT MAX 6
-http://iptvpro.premium-itv.com:8789/salim123/salim123/1089
-#EXTINF:-1,BEINSPORT MAX 7FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13776
-#EXTINF:-1,BEINSPORT MAX 7
-http://iptvpro.premium-itv.com:8789/salim123/salim123/1113
-#EXTINF:-1,BEINSPORT MAX 8FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13775
-#EXTINF:-1,BEINSPORT MAX 8
-http://iptvpro.premium-itv.com:8789/salim123/salim123/1468
-#EXTINF:-1,BEINSPORT MAX 9FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13774
-#EXTINF:-1,BEINSPORT MAX 9
-http://iptvpro.premium-itv.com:8789/salim123/salim123/1469
-#EXTINF:-1,BEIN SPORT MAX 10
-http://iptvpro.premium-itv.com:8789/salim123/salim123/1470
-#EXTINF:-1,SPORT 365 FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/25040
-#EXTINF:-1,FOOT+
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13937
-#EXTINF:-1,FOOT+24 SD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/425
-#EXTINF:-1,FOOT  HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13936
-#EXTINF:-1,ONZEO FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13786
-#EXTINF:-1,MULTISPORTS 1
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13807
-#EXTINF:-1,MULTISPORTS 2
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13802
-#EXTINF:-1,MULTISPORTS 3
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13806
-#EXTINF:-1,MULTISPORTS 4
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13805
-#EXTINF:-1,TRACE SPORT FULLHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13797
-#EXTINF:-1,BFM SPORT FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13843
-#EXTINF:-1,BFM SPORTS HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13943
-#EXTINF:-1,BFM HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13839
-#EXTINF:-1,INFOSPORT FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13729
-#EXTINF:-1,LEQUIPE 21 FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13728
-#EXTINF:-1,LEQUIPE 21 HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/14005
-#EXTINF:-1,EQUIPE 21 SD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/1023
-#EXTINF:-1,OL TV FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13842
-#EXTINF:-1,GIRONDINS TV FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13785
-#EXTINF:-1,EXTREME SPORTS
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13740
-#EXTINF:-1,MUSCULATION TV HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13801
-#EXTINF:-1,AUTOMOTO  HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/1035
-#EXTINF:-1,MOTORSPORT HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13782
-#EXTINF:-1,MOTORSPORT FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13722
-#EXTINF:-1,EUROSPORT 1 FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13742
-#EXTINF:-1,EUROSPORT1 HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/14011
-#EXTINF:-1,EUROSPORT 2 FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13741
-#EXTINF:-1,EUROSPORT2 HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/14010
-#EXTINF:-1,EQUIDIA LIVE FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13743
-#EXTINF:-1,EQUIDIA LIVE HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/14012
-#EXTINF:-1,EQUIDIA LIFE FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13744
-#EXTINF:-1,EQUIDIA LIFE HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/14013
-#EXTINF:-1,FRANCE O
-http://iptvpro.premium-itv.com:8789/salim123/salim123/89
-#EXTINF:-1,EQUIDIA LIVE
-http://iptvpro.premium-itv.com:8789/salim123/salim123/1036
-#EXTINF:-1,EQUIDIA LIFE
-http://iptvpro.premium-itv.com:8789/salim123/salim123/85
-#EXTINF:-1,|FR|***SPORT GOLF***|FR|
-http://iptvpro.premium-itv.com:8789/salim123/salim123/24930
-#EXTINF:-1,GOLF+ FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13734
-#EXTINF:-1,GOLF CHANNEL FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13689
-#EXTINF:-1,GOLF CHANNELS HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13977
-#EXTINF:-1,|FR|***DIVERTISSEMENT***|FR|
-http://iptvpro.premium-itv.com:8789/salim123/salim123/24931
-#EXTINF:-1,CANAL+ SERIES FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13766
-#EXTINF:-1,CANAL + SERIES HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/28944
-#EXTINF:-1,13EME RUE FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13794
-#EXTINF:-1,13EME RUE HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/14048
-#EXTINF:-1,SYFY HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13981
-#EXTINF:-1,SYFY FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13698
-#EXTINF:-1,TEVA HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/25039
-#EXTINF:-1,TEVA SD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/1031
-#EXTINF:-1,NOLIFE
-http://iptvpro.premium-itv.com:8789/salim123/salim123/1098
-#EXTINF:-1,COMEDIE+ FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13751
-#EXTINF:-1,COMEDIE  HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/14019
-#EXTINF:-1,MY CUISINE FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13781
-#EXTINF:-1,NO STOP PEOPLE FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13780
-#EXTINF:-1,NON STOP PEOPE
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13928
-#EXTINF:-1,VIVOLTA HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/25044
-#EXTINF:-1,IL TV
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13934
-#EXTINF:-1,ELLE GIRL FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13745
-#EXTINF:-1,ELLE GIRL HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/14014
-#EXTINF:-1,BET FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13841
-#EXTINF:-1,VICELAND FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13772
-#EXTINF:-1,TV5 MONDE STYLE
-http://iptvpro.premium-itv.com:8789/salim123/salim123/25042
-#EXTINF:-1,TV 5 monde
-http://iptvpro.premium-itv.com:8789/salim123/salim123/1033
-#EXTINF:-1,CHERIE 25 FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13760
-#EXTINF:-1,CHERIE 25 HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/14028
-#EXTINF:-1,CHERIE 25 SD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/1027
-#EXTINF:-1,TF1 FILM ET SERIE FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13732
-#EXTINF:-1,TF1 SERIES FILMS SD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/1022
-#EXTINF:-1,C8 FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13823
-#EXTINF:-1,C8 HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/14036
-#EXTINF:-1,C8 SD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/188
-#EXTINF:-1,CSTAR FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13749
-#EXTINF:-1,DIRECT8
-http://iptvpro.premium-itv.com:8789/salim123/salim123/1091
-#EXTINF:-1,CSTAR HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13940
-#EXTINF:-1,AZUR TV FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/25043
-#EXTINF:-1,WEO FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13795
-#EXTINF:-1,WEO HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/25045
-#EXTINF:-1,TV8 MONT BLANC FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13796
-#EXTINF:-1,RTL9 FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13707
-#EXTINF:-1,RTL9 HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13989
-#EXTINF:-1,RTL9 SD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/1029
-#EXTINF:-1,A+  FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13695
-#EXTINF:-1,NUMERO 23 FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13715
-#EXTINF:-1,NUMERO 23 HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13997
-#EXTINF:-1,NUMERO23 SD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/1025
-#EXTINF:-1,TFX FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13716
-#EXTINF:-1,TFX HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13998
-#EXTINF:-1,TFX SD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/1015
-#EXTINF:-1,W9 FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13690
-#EXTINF:-1,W9
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13973
-#EXTINF:-1,W9 SD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/421
-#EXTINF:-1,OFIVE TV
-http://iptvpro.premium-itv.com:8789/salim123/salim123/1038
-#EXTINF:-1,GUYSEN TV
-http://iptvpro.premium-itv.com:8789/salim123/salim123/1063
-#EXTINF:-1,ALSACE
-http://iptvpro.premium-itv.com:8789/salim123/salim123/25048
-#EXTINF:-1,DISNEY CHANNEL FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13861
-#EXTINF:-1,DISNEY CHANNEL  HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/24948
-#EXTINF:-1,DISNEY CHA SD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/1040
-#EXTINF:-1,DISNEY CHA +1 HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13849
-#EXTINF:-1,DISNEY CHA+1
-http://iptvpro.premium-itv.com:8789/salim123/salim123/1041
-#EXTINF:-1,DISNEY XD FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13862
-#EXTINF:-1,DISNEY XD HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/24942
-#EXTINF:-1,DISNEY JUNIOR FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13863
-#EXTINF:-1,DISNEY JUNIOR HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/24934
-#EXTINF:-1,DISNEY CINEMA FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13860
-#EXTINF:-1,DISNEY CINEMA HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/24940
-#EXTINF:-1,NICKELODEON  FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13854
-#EXTINF:-1,NICKELODEON HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/14037
-#EXTINF:-1,NICKELODEON JUN FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13851
-#EXTINF:-1,NICKELODEON JUNIOR HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/24935
-#EXTINF:-1,NICKELODEON JUN SD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/28344
-#EXTINF:-1,NICKELODEON 4 TEEN FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/24957
-#EXTINF:-1,TOONAMI FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13850
-#EXTINF:-1,TELETOON+ 1 FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13855
-#EXTINF:-1,TELETOON+ HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/24958
-#EXTINF:-1,TELETOON +  FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13869
-#EXTINF:-1,PIWI FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13867
-#EXTINF:-1,PIWI+ HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/24937
-#EXTINF:-1,BABY TV HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13848
-#EXTINF:-1,ZOUZOUS
-http://iptvpro.premium-itv.com:8789/salim123/salim123/24944
-#EXTINF:-1,CANAL J FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13764
-#EXTINF:-1,Canal J HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/24941
-#EXTINF:-1,TIJI FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13868
-#EXTINF:-1,TIJI HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/24949
-#EXTINF:-1,BOOMERANG FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13858
-#EXTINF:-1,BOOMERANG HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/24954
-#EXTINF:-1,BOING FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13859
-#EXTINF:-1,BOING HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/24945
-#EXTINF:-1,CARTOON NETWORK FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13761
-#EXTINF:-1,CARTOON NETWORK HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/24933
-#EXTINF:-1,GAME ONE FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13856
-#EXTINF:-1,GAMEONE HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/24952
-#EXTINF:-1,GAMEONE
-http://iptvpro.premium-itv.com:8789/salim123/salim123/1034
-#EXTINF:-1,GAME ONE +1
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13857
-#EXTINF:-1,J ONE FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13852
-#EXTINF:-1,J ONE HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/24938
-#EXTINF:-1,GULLI FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13864
-#EXTINF:-1,GULLI SD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/1020
-#EXTINF:-1,GONG
-http://iptvpro.premium-itv.com:8789/salim123/salim123/24936
-#EXTINF:-1,MANGAS FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13865
-#EXTINF:-1,MANGAS HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/24932
-#EXTINF:-1,CINE KIDS HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/24959
-#EXTINF:-1,DISNEY ORANGE 1
-http://iptvpro.premium-itv.com:8789/salim123/salim123/24939
-#EXTINF:-1,DISNEY ORANGE 2
-http://iptvpro.premium-itv.com:8789/salim123/salim123/24950
-#EXTINF:-1,DISNEY ORANGE 3
-http://iptvpro.premium-itv.com:8789/salim123/salim123/24951
-#EXTINF:-1,=========DESSINS ANIMES 24/24=========
-http://iptvpro.premium-itv.com:8789/salim123/salim123/24961
-#EXTINF:-1,PEPPA PIG
-http://iptvpro.premium-itv.com:8789/salim123/salim123/6700
-#EXTINF:-1,DISNEYS CARTOON CLASSIC
-http://iptvpro.premium-itv.com:8789/salim123/salim123/6713
-#EXTINF:-1,MILA MILA
-http://iptvpro.premium-itv.com:8789/salim123/salim123/6736
-#EXTINF:-1,TOM AND JERRY
-http://iptvpro.premium-itv.com:8789/salim123/salim123/6757
-#EXTINF:-1,MASHA ET MICHKA
-http://iptvpro.premium-itv.com:8789/salim123/salim123/7185
-#EXTINF:-1,LAPIN CRETIN
-http://iptvpro.premium-itv.com:8789/salim123/salim123/7258
-#EXTINF:-1,PLANETE+ FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13712
-#EXTINF:-1,PLANETE  HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13991
-#EXTINF:-1,PLANETE+ CI FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13710
-#EXTINF:-1,PLANETE  CI HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13992
-#EXTINF:-1,PLANETE+ AE FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13711
-#EXTINF:-1,PLANETE A&E HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13971
-#EXTINF:-1,DISCOVERY FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13748
-#EXTINF:-1,DISCOVERY HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/14017
-#EXTINF:-1,DISCOVERY SCIENCE FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13747
-#EXTINF:-1,DISCOVERY SCIENCE HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/14016
-#EXTINF:-1,DISCOVERY INVESTIGATION FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13836
-#EXTINF:-1,DISCOVERY INVESTIGATION HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13828
-#EXTINF:-1,DISCOVERY FAMILY FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13811
-#EXTINF:-1,DISCOVERY FAMLIY HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/25047
-#EXTINF:-1,NATIONAL GEO WILD FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13719
-#EXTINF:-1,NATIONAL GEO HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13999
-#EXTINF:-1,NAT GEO WILD HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/14000
-#EXTINF:-1,ANIMAUX FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13789
-#EXTINF:-1,ANIMAUX HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/14044
-#EXTINF:-1,USHUAIA TV FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13692
-#EXTINF:-1,USHUAIA HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13974
-#EXTINF:-1,USHUAIA SD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/1055
-#EXTINF:-1,ULTRA NATURE UHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/25049
-#EXTINF:-1,RMC HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13990
-#EXTINF:-1,RMC SD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/1026
-#EXTINF:-1,VOYAGE FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13691
-#EXTINF:-1,VOYAGE HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13972
-#EXTINF:-1,TREK FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13694
-#EXTINF:-1,TREK HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13976
-#EXTINF:-1,CHASSE&PECHE FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13837
-#EXTINF:-1,CHASSE & PECHE HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/14029
-#EXTINF:-1,CAMPAGNE TV
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13942
-#EXTINF:-1,CRIME DISTRICT FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13750
-#EXTINF:-1,CRIME DISTRICT HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/14018
-#EXTINF:-1,MUSEUM CHANNEL FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13714
-#EXTINF:-1,HISTOIRE FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13731
-#EXTINF:-1,HISTOIRE HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/14007
-#EXTINF:-1,TOUTE L'HISTOIRE FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13832
-#EXTINF:-1,TOUTE L'HISTOIRE HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/25050
-#EXTINF:-1,HISTOIRE SD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/1056
-#EXTINF:-1,|FR|***FRANCE INFO***|FR|
-http://iptvpro.premium-itv.com:8789/salim123/salim123/24963
-#EXTINF:-1,LA CHAINE METEO FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13783
-#EXTINF:-1,EURONEWS
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13938
-#EXTINF:-1,FRANCE 24
-http://iptvpro.premium-itv.com:8789/salim123/salim123/162
-#EXTINF:-1,BFMTV HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/14039
-#EXTINF:-1,BFM BUISINESS
-http://iptvpro.premium-itv.com:8789/salim123/salim123/1045
-#EXTINF:-1,BFM TV SD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/424
-#EXTINF:-1,LCI FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13727
-#EXTINF:-1,LCI sd
-http://iptvpro.premium-itv.com:8789/salim123/salim123/1042
-#EXTINF:-1,LCP FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13809
-#EXTINF:-1,LCP
-http://iptvpro.premium-itv.com:8789/salim123/salim123/1016
-#EXTINF:-1,LCP100%
-http://iptvpro.premium-itv.com:8789/salim123/salim123/1046
-#EXTINF:-1,CNEWS HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/14020
-#EXTINF:-1,CNEWS SD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/1017
-#EXTINF:-1,FRANCE INFO HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/13935
-#EXTINF:-1,FRANCE INFO SD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/1917
-#EXTINF:-1,TV5 MONDE FHD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/25051
-#EXTINF:-1,TV5 MONDE
-http://iptvpro.premium-itv.com:8789/salim123/salim123/25052
-#EXTINF:-1,TELESUD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/1101
-#EXTINF:-1,BET HD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/28341
-#EXTINF:-1,FRANCE 2 HD (GPU)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30439
-#EXTINF:-1,FRANCE 3 HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30435
-#EXTINF:-1,FRANCE 4 HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30433
-#EXTINF:-1,FRANCE 5 HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30431
-#EXTINF:-1,FRANCE O HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30374
-#EXTINF:-1,ARTE HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30427
-#EXTINF:-1,M6 HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30429
-#EXTINF:-1,RMC STORTY HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30334
-#EXTINF:-1,6TER HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30425
-#EXTINF:-1,W9 HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30296
-#EXTINF:-1,NRJ12 HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30336
-#EXTINF:-1,TFX HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30313
-#EXTINF:-1,TF1 SERIES ET FILMS HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30314
-#EXTINF:-1,C8 HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30399
-#EXTINF:-1,CSTAR HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30385
-#EXTINF:-1,TMC HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30310
-#EXTINF:-1,CHERIE 25 HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30394
-#EXTINF:-1,CINE  PREMIER HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30387
-#EXTINF:-1,CINE  FRISSON HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30388
-#EXTINF:-1,CINE  EMOTION HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30390
-#EXTINF:-1,CINE  FAMIZ HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30389
-#EXTINF:-1,CINE  CLUB HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30391
-#EXTINF:-1,CINE  CLASSIC HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30392
-#EXTINF:-1,ACTION HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30421
-#EXTINF:-1,PARAMOUNT CHANNEL HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30329
-#EXTINF:-1,TCM CINEMA HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30319
-#EXTINF:-1,RTL9 HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30322
-#EXTINF:-1,L'EQUIPE 21 HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30359
-#EXTINF:-1,BEIN SPORTS 1 HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30416
-#EXTINF:-1,BEIN SPORTS 2 HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30415
-#EXTINF:-1,BEIN SPORTS 3 HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30414
-#EXTINF:-1,BEIN SPORTS MAX 10 HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30413
-#EXTINF:-1,BEIN SPORTS MAX 4 HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30412
-#EXTINF:-1,BEIN SPORTS MAX 5 HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30411
-#EXTINF:-1,BEIN SPORTS MAX 6 HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30410
-#EXTINF:-1,BEIN SPORTS MAX 7 HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30409
-#EXTINF:-1,BEIN SPORTS MAX 8 HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30408
-#EXTINF:-1,BEIN SPORTS MAX 9 HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30407
-#EXTINF:-1,OL TV HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30330
-#EXTINF:-1,EQUIDIA  HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30381
-#EXTINF:-1,FIGHT SPORTS HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30376
-#EXTINF:-1,MOTOR TV HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30344
-#EXTINF:-1,MOTORVISION TV HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30343
-#EXTINF:-1,GOLF CHANNEL HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30368
-#EXTINF:-1,AUTOMOTO  HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30422
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30341
-#EXTINF:-1,NATIONAL GEO WILD HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30342
-#EXTINF:-1,RMC DECOUVERTE HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30324
-#EXTINF:-1,HISTOIRE HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30362
-#EXTINF:-1,TOUTE L HISTOIRE HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30306
-#EXTINF:-1,TEVA HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30316
-#EXTINF:-1,VOYAGE HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30297
-#EXTINF:-1,USHUAIA TV HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30299
-#EXTINF:-1,TREK HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30304
-#EXTINF:-1,CHASSE & PECHE HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30395
-#EXTINF:-1,TIJI HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30312
-#EXTINF:-1,MANGAS HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30350
-#EXTINF:-1,BOOMERANG HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30402
-#EXTINF:-1,CANAL J HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30396
-#EXTINF:-1,GAME ONE HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30371
-#EXTINF:-1,GULLI HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30366
-#EXTINF:-1,TOONAMI HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30307
-#EXTINF:-1,BFM BUSINESS SD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30405
-#EXTINF:-1,BFM TV HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30404
-#EXTINF:-1,C-NEWS HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30400
-#EXTINF:-1,LCI HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30358
-#EXTINF:-1,LCP HD (gpu)
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30356
-#EXTINF:-1,LCP SD
-http://iptvpro.premium-itv.com:8789/salim123/salim123/30355
+#EXTINF:0,TF1 FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/1406
+#EXTINF:0,TF1 HD
+http://proiptvfr.wissdz.com:8081/333666/666333/429
+#EXTINF:0,Tf1 SD
+http://proiptvfr.wissdz.com:8081/333666/666333/1925
+#EXTINF:0,FRANCE 2 FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/9018
+#EXTINF:0,France 2 HD
+http://proiptvfr.wissdz.com:8081/333666/666333/427
+#EXTINF:0,France 2 SD
+http://proiptvfr.wissdz.com:8081/333666/666333/1923
+#EXTINF:0,FRANCE 3 FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/9017
+#EXTINF:0,France 3 HD
+http://proiptvfr.wissdz.com:8081/333666/666333/426
+#EXTINF:0,france 3 SD
+http://proiptvfr.wissdz.com:8081/333666/666333/1927
+#EXTINF:0,FRANCE 4 FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/9015
+#EXTINF:0,France 4  HD
+http://proiptvfr.wissdz.com:8081/333666/666333/425
+#EXTINF:0,France 4 SD
+http://proiptvfr.wissdz.com:8081/333666/666333/9016
+#EXTINF:0,FRANCE 5 FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/9013
+#EXTINF:0,France 5 HD
+http://proiptvfr.wissdz.com:8081/333666/666333/424
+#EXTINF:0,France 5 SD
+http://proiptvfr.wissdz.com:8081/333666/666333/9014
+#EXTINF:0,FRANCE O FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/9010
+#EXTINF:0,France O  HD
+http://proiptvfr.wissdz.com:8081/333666/666333/9011
+#EXTINF:0,France O SD
+http://proiptvfr.wissdz.com:8081/333666/666333/9012
+#EXTINF:0,M6 FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/9019
+#EXTINF:0,M6 HD
+http://proiptvfr.wissdz.com:8081/333666/666333/1924
+#EXTINF:0,M6 SD
+http://proiptvfr.wissdz.com:8081/333666/666333/11367
+#EXTINF:0,ARTE FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/9002
+#EXTINF:0,ARTE HD
+http://proiptvfr.wissdz.com:8081/333666/666333/9003
+#EXTINF:0,Arte SD
+http://proiptvfr.wissdz.com:8081/333666/666333/9004
+#EXTINF:0,6TER FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/9005
+#EXTINF:0,6TER HD
+http://proiptvfr.wissdz.com:8081/333666/666333/423
+#EXTINF:0,6ter SD
+http://proiptvfr.wissdz.com:8081/333666/666333/1918
+#EXTINF:0,C8 FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8972
+#EXTINF:0,C8 HD
+http://proiptvfr.wissdz.com:8081/333666/666333/416
+#EXTINF:0,C8 SD
+http://proiptvfr.wissdz.com:8081/333666/666333/8973
+#EXTINF:0,CHERIE 25 FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8981
+#EXTINF:0,CHERIE 25 HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8982
+#EXTINF:0,Cherie 25 SD
+http://proiptvfr.wissdz.com:8081/333666/666333/8983
+#EXTINF:0,NRJ12 FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8987
+#EXTINF:0, NRJ12 HD
+http://proiptvfr.wissdz.com:8081/333666/666333/418
+#EXTINF:0,NRJ12 SD
+http://proiptvfr.wissdz.com:8081/333666/666333/8988
+#EXTINF:0,W9 FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8960
+#EXTINF:0,W9 HD
+http://proiptvfr.wissdz.com:8081/333666/666333/409
+#EXTINF:0,W9 SD
+http://proiptvfr.wissdz.com:8081/333666/666333/8961
+#EXTINF:0,TMC FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8919
+#EXTINF:0,TMC HD
+http://proiptvfr.wissdz.com:8081/333666/666333/1421
+#EXTINF:0,TMC SD
+http://proiptvfr.wissdz.com:8081/333666/666333/8920
+#EXTINF:0,RTL9 FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8967
+#EXTINF:0,RTL9 HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8968
+#EXTINF:0,RTL9 SD
+http://proiptvfr.wissdz.com:8081/333666/666333/8969
+#EXTINF:0,NUMERO 23 FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8964
+#EXTINF:0,NUMERO 23 HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8965
+#EXTINF:0,RMC STORY SD
+http://proiptvfr.wissdz.com:8081/333666/666333/8966
+#EXTINF:0,NT1 FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8962
+#EXTINF:0,NT1 HD
+http://proiptvfr.wissdz.com:8081/333666/666333/410
+#EXTINF:0,TFX SD
+http://proiptvfr.wissdz.com:8081/333666/666333/8963
+#EXTINF:0,HD1 FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8980
+#EXTINF:0,HD1 HD
+http://proiptvfr.wissdz.com:8081/333666/666333/417
+#EXTINF:0,PARIS PREMIERE SD
+http://proiptvfr.wissdz.com:8081/333666/666333/9009
+#EXTINF:0,PARIS PREMIERE HD
+http://proiptvfr.wissdz.com:8081/333666/666333/9008
+#EXTINF:0,13EME RUE FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8998
+#EXTINF:0,13 EME RUE HD
+http://proiptvfr.wissdz.com:8081/333666/666333/422
+#EXTINF:0,13EME RUE SD
+http://proiptvfr.wissdz.com:8081/333666/666333/8999
+#EXTINF:0,AB1 FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8977
+#EXTINF:0,AB1 HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8978
+#EXTINF:0,AB3 FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8974
+#EXTINF:0,AB3 HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8975
+#EXTINF:0,AB3 SD
+http://proiptvfr.wissdz.com:8081/333666/666333/8976
+#EXTINF:0,Teva HD+
+http://proiptvfr.wissdz.com:8081/333666/666333/1422
+#EXTINF:0,FR: Teva SD
+http://proiptvfr.wissdz.com:8081/333666/666333/11340
+#EXTINF:0,TV5 MONDE
+http://proiptvfr.wissdz.com:8081/333666/666333/8844
+#EXTINF:0,SYFY FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/421
+#EXTINF:0,Syfy HD FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8995
+#EXTINF:0,Syfy HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8996
+#EXTINF:0,Syfy SD
+http://proiptvfr.wissdz.com:8081/333666/666333/8997
+#EXTINF:0,TV BREIZH FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/9006
+#EXTINF:0,TV BREIZH HD
+http://proiptvfr.wissdz.com:8081/333666/666333/1550
+#EXTINF:0,TV BREIZH
+http://proiptvfr.wissdz.com:8081/333666/666333/9007
+#EXTINF:0,E! ENTERTAINMENT FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8990
+#EXTINF:0,E! Entertainment HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8991
+#EXTINF:0,E! HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8992
+#EXTINF:0,ELLE GIRL FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8984
+#EXTINF:0,ELLE GIRL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8985
+#EXTINF:0,ELLE GIRL
+http://proiptvfr.wissdz.com:8081/333666/666333/8986
+#EXTINF:0,TREK FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8815
+#EXTINF:0,TREK HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8816
+#EXTINF:0,TREK
+http://proiptvfr.wissdz.com:8081/333666/666333/8817
+#EXTINF:0,###### -- CINEMA FRANCE  -- ######
+http://proiptvfr.wissdz.com:8081/333666/666333/8959
+#EXTINF:0,CANAL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/926
+#EXTINF:0,FR: CANAL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/11389
+#EXTINF:0,CANAL+  4K
+http://proiptvfr.wissdz.com:8081/333666/666333/18986
+#EXTINF:0,CANAL  FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/925
+#EXTINF:0,FR: CANAL  HD (1080P)
+http://proiptvfr.wissdz.com:8081/333666/666333/1538
+#EXTINF:0,FR : CANAL+ SD
+http://proiptvfr.wissdz.com:8081/333666/666333/13556
+#EXTINF:0,CANAL  CINEMA FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/922
+#EXTINF:0,Canal Cinema HD
+http://proiptvfr.wissdz.com:8081/333666/666333/923
+#EXTINF:0,Canal cinema SD
+http://proiptvfr.wissdz.com:8081/333666/666333/8958
+#EXTINF:0,CANAL  FAMILY FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8954
+#EXTINF:0,Canal Family FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/917
+#EXTINF:0,Canal Family HD
+http://proiptvfr.wissdz.com:8081/333666/666333/918
+#EXTINF:0,Canal family SD
+http://proiptvfr.wissdz.com:8081/333666/666333/8955
+#EXTINF:0,CANAL  SERIES FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/913
+#EXTINF:0,Canal Series HD
+http://proiptvfr.wissdz.com:8081/333666/666333/914
+#EXTINF:0,CANAL SERIE SD
+http://proiptvfr.wissdz.com:8081/333666/666333/8953
+#EXTINF:0,CANAL  DECALE FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8956
+#EXTINF:0,Canal  Decale HD
+http://proiptvfr.wissdz.com:8081/333666/666333/920
+#EXTINF:0,CANAL DECALE SD
+http://proiptvfr.wissdz.com:8081/333666/666333/8957
+#EXTINF:0,COMEDIE SD
+http://proiptvfr.wissdz.com:8081/333666/666333/8994
+#EXTINF:0,COMEDIE  FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8993
+#EXTINF:0,CINE   PREMIER FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8924
+#EXTINF:0,CINE PREMIER FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8923
+#EXTINF:0,CINE PREMIER HD
+http://proiptvfr.wissdz.com:8081/333666/666333/337
+#EXTINF:0,cine premier SD
+http://proiptvfr.wissdz.com:8081/333666/666333/8925
+#EXTINF:0,CINE  FAMIZ FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8931
+#EXTINF:0,Cine Famiz FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/349
+#EXTINF:0,Cine Famiz HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8932
+#EXTINF:0,CINE  FRISSON FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8928
+#EXTINF:0,Cine Frisson FULL  HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8929
+#EXTINF:0,CINE FRISSON HD
+http://proiptvfr.wissdz.com:8081/333666/666333/345
+#EXTINF:0,CINE FRISSON SD
+http://proiptvfr.wissdz.com:8081/333666/666333/8930
+#EXTINF:0,CINE  EMOTION FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8933
+#EXTINF:0,CINE EMOTION SD
+http://proiptvfr.wissdz.com:8081/333666/666333/8934
+#EXTINF:0,CINE EMOTION HD
+http://proiptvfr.wissdz.com:8081/333666/666333/351
+#EXTINF:0,CINE  CLASSIC FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8936
+#EXTINF:0,CINE CLASSIC
+http://proiptvfr.wissdz.com:8081/333666/666333/8937
+#EXTINF:0,CINE CLASSIC HD
+http://proiptvfr.wissdz.com:8081/333666/666333/355
+#EXTINF:0,CINE CLUB HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8935
+#EXTINF:0,CINE FX
+http://proiptvfr.wissdz.com:8081/333666/666333/342
+#EXTINF:0,CINE FX FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8927
+#EXTINF:0,CINE POLAR FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/340
+#EXTINF:0,CINE POLAR HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8926
+#EXTINF:0,ACTION FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8921
+#EXTINF:0,ACTION HD
+http://proiptvfr.wissdz.com:8081/333666/666333/333
+#EXTINF:0,ACTION
+http://proiptvfr.wissdz.com:8081/333666/666333/8922
+#EXTINF:0,OCS CHOC FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8951
+#EXTINF:0,OCS CHOC HD
+http://proiptvfr.wissdz.com:8081/333666/666333/315
+#EXTINF:0,OCS CHOC SD
+http://proiptvfr.wissdz.com:8081/333666/666333/8952
+#EXTINF:0,OCS CITY FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8949
+#EXTINF:0,OCS CITY HD
+http://proiptvfr.wissdz.com:8081/333666/666333/312
+#EXTINF:0,OCS CITY SD
+http://proiptvfr.wissdz.com:8081/333666/666333/8950
+#EXTINF:0,OCS GEANTS FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8947
+#EXTINF:0,OCS GEANT HD
+http://proiptvfr.wissdz.com:8081/333666/666333/309
+#EXTINF:0,OCS GEANTS SD
+http://proiptvfr.wissdz.com:8081/333666/666333/8948
+#EXTINF:0,OCS MAX FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8945
+#EXTINF:0,OCS MAX HD
+http://proiptvfr.wissdz.com:8081/333666/666333/306
+#EXTINF:0,OCS MAX SD
+http://proiptvfr.wissdz.com:8081/333666/666333/8946
+#EXTINF:0,Paramount Channel
+http://proiptvfr.wissdz.com:8081/333666/666333/8918
+#EXTINF:0,PARAMOUNT CHANNEL FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8916
+#EXTINF:0,PARAMOUNT CHANNEL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8917
+#EXTINF:0,TCM CINEMA HD
+http://proiptvfr.wissdz.com:8081/333666/666333/11316
+#EXTINF:0,SERIE CLUB
+http://proiptvfr.wissdz.com:8081/333666/666333/9000
+#EXTINF:0,Clique TV
+http://proiptvfr.wissdz.com:8081/333666/666333/21709
+#EXTINF:0,###### -- ORANGE FRANCE  -- ######
+http://vip.on
+#EXTINF:0,A LA CARTE 1
+http://proiptvfr.wissdz.com:8081/333666/666333/2052
+#EXTINF:0,A LA CARTE 3
+http://proiptvfr.wissdz.com:8081/333666/666333/2051
+#EXTINF:0,A LA CARTE 5
+http://proiptvfr.wissdz.com:8081/333666/666333/2049
+#EXTINF:0,A LA CARTE 6
+http://proiptvfr.wissdz.com:8081/333666/666333/2048
+#EXTINF:0,A LA CARTE 7
+http://proiptvfr.wissdz.com:8081/333666/666333/2047
+#EXTINF:0,A LA CARTE 9
+http://proiptvfr.wissdz.com:8081/333666/666333/2045
+#EXTINF:0,A LA CARTE 10
+http://proiptvfr.wissdz.com:8081/333666/666333/2044
+#EXTINF:0,CANAL PLAY 1
+http://proiptvfr.wissdz.com:8081/333666/666333/8944
+#EXTINF:0,CANAL PLAY 2
+http://proiptvfr.wissdz.com:8081/333666/666333/8943
+#EXTINF:0,CANAL PLAY 3
+http://proiptvfr.wissdz.com:8081/333666/666333/8942
+#EXTINF:0,CANAL PLAY 4
+http://proiptvfr.wissdz.com:8081/333666/666333/8941
+#EXTINF:0,CANAL PLAY 5
+http://proiptvfr.wissdz.com:8081/333666/666333/8940
+#EXTINF:0,CANAL PLAY 6
+http://proiptvfr.wissdz.com:8081/333666/666333/8939
+#EXTINF:0,CANAL PLAY 7
+http://proiptvfr.wissdz.com:8081/333666/666333/8938
+#EXTINF:0,ORANGE CINE 2
+http://proiptvfr.wissdz.com:8081/333666/666333/2068
+#EXTINF:0,ORANGE CINE 3
+http://proiptvfr.wissdz.com:8081/333666/666333/2067
+#EXTINF:0,ORANGE CINE 4
+http://proiptvfr.wissdz.com:8081/333666/666333/2066
+#EXTINF:0,ORANGE CINE 5
+http://proiptvfr.wissdz.com:8081/333666/666333/2065
+#EXTINF:0,ORANGE CINE 6
+http://proiptvfr.wissdz.com:8081/333666/666333/2063
+#EXTINF:0,ORANGE CINE 7
+http://proiptvfr.wissdz.com:8081/333666/666333/2062
+#EXTINF:0,ORANGE CINE 8
+http://proiptvfr.wissdz.com:8081/333666/666333/2061
+#EXTINF:0,ORANGE CINE Action HD
+http://proiptvfr.wissdz.com:8081/333666/666333/2060
+#EXTINF:0,ORANGE CINE Aventure
+http://proiptvfr.wissdz.com:8081/333666/666333/2059
+#EXTINF:0,ORANGE CINE Aventure HD
+http://proiptvfr.wissdz.com:8081/333666/666333/2058
+#EXTINF:0,Orange Cine horreur HD
+http://proiptvfr.wissdz.com:8081/333666/666333/2057
+#EXTINF:0,ORANGE COMMENT C'EST FAIT
+http://proiptvfr.wissdz.com:8081/333666/666333/2056
+#EXTINF:0,ORANGE ENQUETE EXCLUSIVE
+http://proiptvfr.wissdz.com:8081/333666/666333/2054
+#EXTINF:0,Orange enquete exclusive HD
+http://proiptvfr.wissdz.com:8081/333666/666333/2053
+#EXTINF:0,###### -- SPORT FRANCE  -- ######
+http://vip.s
+#EXTINF:0,BEINSPORT 1 FR FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/1419
+#EXTINF:0,FR: BeIN SPORTS 1 HD (1080P)
+http://proiptvfr.wissdz.com:8081/333666/666333/4528
+#EXTINF:0,BEIN SPORT 1 HD
+http://proiptvfr.wissdz.com:8081/333666/666333/303
+#EXTINF:0,BeIN Sports 1 HD
+http://proiptvfr.wissdz.com:8081/333666/666333/304
+#EXTINF:0,FR: beIN SPORTS1 HD
+http://proiptvfr.wissdz.com:8081/333666/666333/4529
+#EXTINF:0,FR: Bein Sports 1 SD
+http://proiptvfr.wissdz.com:8081/333666/666333/4530
+#EXTINF:0,BEINSPORT 2 FR FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/1417
+#EXTINF:0,FR: BeIN SPORTS 2 HD (1080P)
+http://proiptvfr.wissdz.com:8081/333666/666333/9606
+#EXTINF:0,BEIN SPORT 2 HD
+http://proiptvfr.wissdz.com:8081/333666/666333/299
+#EXTINF:0,FR: beIN SPORT 2HD
+http://proiptvfr.wissdz.com:8081/333666/666333/11343
+#EXTINF:0,BEIN SPORT 2 HD (BACKUP)
+http://proiptvfr.wissdz.com:8081/333666/666333/1418
+#EXTINF:0,BeIN Sports 2 SD
+http://proiptvfr.wissdz.com:8081/333666/666333/300
+#EXTINF:0,BEINSPORT 3 FR FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/1415
+#EXTINF:0,FR: BeIN SPORTS 3 HD (1080P)
+http://proiptvfr.wissdz.com:8081/333666/666333/9605
+#EXTINF:0, BEIN SPORT 3 HD
+http://proiptvfr.wissdz.com:8081/333666/666333/295
+#EXTINF:0,FR: beIN SPORTS 3HD
+http://proiptvfr.wissdz.com:8081/333666/666333/11342
+#EXTINF:0,BEIN SPORT 3 HD (BACKUP)
+http://proiptvfr.wissdz.com:8081/333666/666333/1416
+#EXTINF:0,BeIN Sports 3
+http://proiptvfr.wissdz.com:8081/333666/666333/296
+#EXTINF:0,BeIN Sports MAX 4
+http://proiptvfr.wissdz.com:8081/333666/666333/292
+#EXTINF:0,FR : Bein max 4
+http://proiptvfr.wissdz.com:8081/333666/666333/11445
+#EXTINF:0,BeIN Sports MAX 5
+http://proiptvfr.wissdz.com:8081/333666/666333/291
+#EXTINF:0,FR: Bein Sport Max 5
+http://proiptvfr.wissdz.com:8081/333666/666333/11416
+#EXTINF:0,BeIN Sports MAX 6
+http://proiptvfr.wissdz.com:8081/333666/666333/290
+#EXTINF:0,FR: Bein Sport Max 6
+http://proiptvfr.wissdz.com:8081/333666/666333/11417
+#EXTINF:0,BeIN Sports MAX 7
+http://proiptvfr.wissdz.com:8081/333666/666333/289
+#EXTINF:0,FR: Bein Sport Max 7
+http://proiptvfr.wissdz.com:8081/333666/666333/11418
+#EXTINF:0,BeIN Sports MAX 8
+http://proiptvfr.wissdz.com:8081/333666/666333/288
+#EXTINF:0,FR: Bein Sport Max 8
+http://proiptvfr.wissdz.com:8081/333666/666333/11419
+#EXTINF:0,BeIN Sports MAX 9
+http://proiptvfr.wissdz.com:8081/333666/666333/287
+#EXTINF:0,FR: Bein Sport Max 9
+http://proiptvfr.wissdz.com:8081/333666/666333/11420
+#EXTINF:0,BeIN Sports MAX 10
+http://proiptvfr.wissdz.com:8081/333666/666333/286
+#EXTINF:0,FR: Bein Sport Max 10
+http://proiptvfr.wissdz.com:8081/333666/666333/11415
+#EXTINF:0,RMC 1 Full HD
+http://proiptvfr.wissdz.com:8081/333666/666333/20642
+#EXTINF:0,RMC 1 HD
+http://proiptvfr.wissdz.com:8081/333666/666333/20643
+#EXTINF:0,RMC 1 SD
+http://proiptvfr.wissdz.com:8081/333666/666333/20644
+#EXTINF:0,FR: RMC Sport  1 local
+http://proiptvfr.wissdz.com:8081/333666/666333/21695
+#EXTINF:0,RMC 2 FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/20639
+#EXTINF:0,RMC 2 HD
+http://proiptvfr.wissdz.com:8081/333666/666333/20640
+#EXTINF:0,RMC 2 SD
+http://proiptvfr.wissdz.com:8081/333666/666333/20641
+#EXTINF:0,RMC 3 FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/20636
+#EXTINF:0,RMC 3 HD
+http://proiptvfr.wissdz.com:8081/333666/666333/20637
+#EXTINF:0,RMC 3 SD
+http://proiptvfr.wissdz.com:8081/333666/666333/20638
+#EXTINF:0,RMC 4 FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/20633
+#EXTINF:0,RMC 4 HD
+http://proiptvfr.wissdz.com:8081/333666/666333/20634
+#EXTINF:0,RMC 4 SD
+http://proiptvfr.wissdz.com:8081/333666/666333/20635
+#EXTINF:0,RMC NEWS
+http://proiptvfr.wissdz.com:8081/333666/666333/20632
+#EXTINF:0,Canal Sport FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8912
+#EXTINF:0,Canal  Sport HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8913
+#EXTINF:0,CANAL SPORT SD
+http://proiptvfr.wissdz.com:8081/333666/666333/1413
+#EXTINF:0,OLTV HD
+http://proiptvfr.wissdz.com:8081/333666/666333/1873
+#EXTINF:0,OMTV HD
+http://proiptvfr.wissdz.com:8081/333666/666333/1872
+#EXTINF:0,MOTORSPORT TV
+http://proiptvfr.wissdz.com:8081/333666/666333/8905
+#EXTINF:0,MOTORSPORT.TV FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8904
+#EXTINF:0,AB Moteur HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8901
+#EXTINF:0,L'EQUIPE 21 FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8902
+#EXTINF:0,L'EQUIPE 21 HD
+http://proiptvfr.wissdz.com:8081/333666/666333/191
+#EXTINF:0,L EQUIPE 21
+http://proiptvfr.wissdz.com:8081/333666/666333/8903
+#EXTINF:0,INFOSPORT FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8906
+#EXTINF:0,INFOSPORT HD
+http://proiptvfr.wissdz.com:8081/333666/666333/194
+#EXTINF:0,INFOSPORT SD
+http://proiptvfr.wissdz.com:8081/333666/666333/1412
+#EXTINF:0,GOLF  FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8893
+#EXTINF:0,GOLF  HD
+http://proiptvfr.wissdz.com:8081/333666/666333/1410
+#EXTINF:0,GOLF+ HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8894
+#EXTINF:0,GOLF CHANNEL FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8891
+#EXTINF:0,GOLF  CHANNEL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/1409
+#EXTINF:0,GOLF CHANNEL
+http://proiptvfr.wissdz.com:8081/333666/666333/8892
+#EXTINF:0,EUROSPORT 1 FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8910
+#EXTINF:0,EUROSPORT1
+http://proiptvfr.wissdz.com:8081/333666/666333/8911
+#EXTINF:0,Eurosport
+http://proiptvfr.wissdz.com:8081/333666/666333/197
+#EXTINF:0,EUROSPORT 2 FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8908
+#EXTINF:0,EUROSPORT2
+http://proiptvfr.wissdz.com:8081/333666/666333/196
+#EXTINF:0,EXTREME SPORTS
+http://proiptvfr.wissdz.com:8081/333666/666333/8907
+#EXTINF:0,EQUIDIA LIVE FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8895
+#EXTINF:0,EQUIDIA LIVE HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8896
+#EXTINF:0,EQUIDIA LIFE FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8898
+#EXTINF:0,EQUIDIA LIFE HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8899
+#EXTINF:0,EQUIDIA LIFE
+http://proiptvfr.wissdz.com:8081/333666/666333/8900
+#EXTINF:0,Equidia Live
+http://proiptvfr.wissdz.com:8081/333666/666333/8897
+#EXTINF:0,###### --  ENFANTS FRANCE  -- ######
+C:\Documents and Settings\Islam-pc\Bureau\Nouveau dossier\22437.ts
+#EXTINF:0,Disney Junior full HD
+http://proiptvfr.wissdz.com:8081/333666/666333/405
+#EXTINF:0,DISNEY JUNIOR HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8886
+#EXTINF:0, DISNEY JUNIOR HD+
+http://proiptvfr.wissdz.com:8081/333666/666333/404
+#EXTINF:0,Disney Junior SD
+http://proiptvfr.wissdz.com:8081/333666/666333/8887
+#EXTINF:0,DISNEY XD FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8882
+#EXTINF:0,DISNEY XD HD
+http://proiptvfr.wissdz.com:8081/333666/666333/397
+#EXTINF:0,DISNEY XD SD
+http://proiptvfr.wissdz.com:8081/333666/666333/8883
+#EXTINF:0,DISNEY CINEMA FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8884
+#EXTINF:0,DISNEY CINEMA HD
+http://proiptvfr.wissdz.com:8081/333666/666333/400
+#EXTINF:0,DISNEY CINEMA SD
+http://proiptvfr.wissdz.com:8081/333666/666333/8885
+#EXTINF:0,DISNEY CHANNEL FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8888
+#EXTINF:0,DISNEY CHANNEL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/407
+#EXTINF:0,DISNEY CHANNEL SD
+http://proiptvfr.wissdz.com:8081/333666/666333/8889
+#EXTINF:0,CARTOON NETWORK FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8862
+#EXTINF:0, CARTOON NETWORK  HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8863
+#EXTINF:0,CARTOON NETWORK SD
+http://proiptvfr.wissdz.com:8081/333666/666333/8864
+#EXTINF:0,CANAL J FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8871
+#EXTINF:0,CANAL J HD
+http://proiptvfr.wissdz.com:8081/333666/666333/381
+#EXTINF:0,Canal J
+http://proiptvfr.wissdz.com:8081/333666/666333/8872
+#EXTINF:0,NICKELODEON FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8880
+#EXTINF:0,NICKELODEON HD
+http://proiptvfr.wissdz.com:8081/333666/666333/394
+#EXTINF:0,NICKELODEON SD
+http://proiptvfr.wissdz.com:8081/333666/666333/8881
+#EXTINF:0,NICKELODEON JUNIOR HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8878
+#EXTINF:0,NICKELODEON JUNIOR
+http://proiptvfr.wissdz.com:8081/333666/666333/390
+#EXTINF:0,Nick Jr
+http://proiptvfr.wissdz.com:8081/333666/666333/8879
+#EXTINF:0,PIWI  FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8875
+#EXTINF:0,PIWI HD
+http://proiptvfr.wissdz.com:8081/333666/666333/386
+#EXTINF:0,PIWI SD
+http://proiptvfr.wissdz.com:8081/333666/666333/8876
+#EXTINF:0,BOOMERANG FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8867
+#EXTINF:0,BOOMERANG HD
+http://proiptvfr.wissdz.com:8081/333666/666333/375
+#EXTINF:0,Boomerang
+http://proiptvfr.wissdz.com:8081/333666/666333/8868
+#EXTINF:0,BOING FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8865
+#EXTINF:0,BOING HD
+http://proiptvfr.wissdz.com:8081/333666/666333/372
+#EXTINF:0,Boing SD
+http://proiptvfr.wissdz.com:8081/333666/666333/8866
+#EXTINF:0,TELETOON  FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/388
+#EXTINF:0,TELETOON HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8877
+#EXTINF:0,MANGA FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8856
+#EXTINF:0,MANGAS SD
+http://proiptvfr.wissdz.com:8081/333666/666333/8857
+#EXTINF:0,MANGAS HD
+http://proiptvfr.wissdz.com:8081/333666/666333/359
+#EXTINF:0,GAME ONE FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8860
+#EXTINF:0,GAME ONE HD
+http://proiptvfr.wissdz.com:8081/333666/666333/365
+#EXTINF:0,GameOne SD
+http://proiptvfr.wissdz.com:8081/333666/666333/8861
+#EXTINF:0,J ONE HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8855
+#EXTINF:0,GULLI FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8858
+#EXTINF:0,GULLI HD
+http://proiptvfr.wissdz.com:8081/333666/666333/362
+#EXTINF:0,Gulli SD
+http://proiptvfr.wissdz.com:8081/333666/666333/8859
+#EXTINF:0,TIJI FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8869
+#EXTINF:0,TIJI HD
+http://proiptvfr.wissdz.com:8081/333666/666333/378
+#EXTINF:0,Tiji SD
+http://proiptvfr.wissdz.com:8081/333666/666333/8870
+#EXTINF:0,Zouzous
+http://proiptvfr.wissdz.com:8081/333666/666333/8874
+#EXTINF:0,Zouzou TV
+http://proiptvfr.wissdz.com:8081/333666/666333/8873
+#EXTINF:0,###### -- CULTURE FRANCE  -- ######
+http://proiptvfr.wissdz.com:8081/333666/666333/1384
+#EXTINF:0,RMC DECOUVERTE FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8820
+#EXTINF:0,RMC DECOUVERTE HD
+http://proiptvfr.wissdz.com:8081/333666/666333/1371
+#EXTINF:0,RMC Decouverte
+http://proiptvfr.wissdz.com:8081/333666/666333/8821
+#EXTINF:0,VOYAGE FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8818
+#EXTINF:0,VOYAGE HD
+http://proiptvfr.wissdz.com:8081/333666/666333/1370
+#EXTINF:0,VOYAGE SD
+http://proiptvfr.wissdz.com:8081/333666/666333/8819
+#EXTINF:0,USHUAIA  HD
+http://proiptvfr.wissdz.com:8081/333666/666333/1372
+#EXTINF:0,USHUAIA TV
+http://proiptvfr.wissdz.com:8081/333666/666333/8823
+#EXTINF:0,USHUAIA TV FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8822
+#EXTINF:0,SEASON FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8811
+#EXTINF:0,Seasons HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8812
+#EXTINF:0,SEASON SD
+http://proiptvfr.wissdz.com:8081/333666/666333/8813
+#EXTINF:0,SCIENCES & VIE FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8826
+#EXTINF:0,SCIENCE ET VIE HD
+http://proiptvfr.wissdz.com:8081/333666/666333/1374
+#EXTINF:0,SCIENCES & VIE SD
+http://proiptvfr.wissdz.com:8081/333666/666333/8827
+#EXTINF:0,NATIONAL GEOGRAPHIC FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8831
+#EXTINF:0, NATIONAL GEOGRAPHIC HD
+http://proiptvfr.wissdz.com:8081/333666/666333/1377
+#EXTINF:0,NATIONAL GEOGRAPHIC SD
+http://proiptvfr.wissdz.com:8081/333666/666333/8832
+#EXTINF:0,NATIONAL GEO WILD FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8829
+#EXTINF:0,NATIONAL GEO WILD HD
+http://proiptvfr.wissdz.com:8081/333666/666333/1375
+#EXTINF:0,NAT GEO WILD SD
+http://proiptvfr.wissdz.com:8081/333666/666333/8830
+#EXTINF:0,PLANETE  FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8842
+#EXTINF:0,PLANETE  HD
+http://proiptvfr.wissdz.com:8081/333666/666333/1383
+#EXTINF:0,PLANETE SD
+http://proiptvfr.wissdz.com:8081/333666/666333/8843
+#EXTINF:0,PLANETE AE FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8840
+#EXTINF:0,PLANETE A&E HD
+http://proiptvfr.wissdz.com:8081/333666/666333/1382
+#EXTINF:0,PLANETE A&E SD
+http://proiptvfr.wissdz.com:8081/333666/666333/8841
+#EXTINF:0,PLANETE CI FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8838
+#EXTINF:0,PLANETE CI HD
+http://proiptvfr.wissdz.com:8081/333666/666333/1381
+#EXTINF:0,Planete ci SD
+http://proiptvfr.wissdz.com:8081/333666/666333/8839
+#EXTINF:0,DISCOVERY SCIENCE FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8833
+#EXTINF:0,DISCOVERY SCIENCE HD
+http://proiptvfr.wissdz.com:8081/333666/666333/1378
+#EXTINF:0,Discovery Science SD
+http://proiptvfr.wissdz.com:8081/333666/666333/8834
+#EXTINF:0,DISCOVERY FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8835
+#EXTINF:0,DISCOVERY HD
+http://proiptvfr.wissdz.com:8081/333666/666333/1379
+#EXTINF:0,DISCOVERY SD
+http://proiptvfr.wissdz.com:8081/333666/666333/8836
+#EXTINF:0,CRIME DISTRICT FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8810
+#EXTINF:0,CRIME DISTRICT HD
+http://proiptvfr.wissdz.com:8081/333666/666333/1368
+#EXTINF:0,DISCOVERY INVESTIGATION FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8837
+#EXTINF:0,Discovrey family HD
+http://proiptvfr.wissdz.com:8081/333666/666333/19007
+#EXTINF:0,ANIMAUX FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8824
+#EXTINF:0,ANIMAUX HD
+http://proiptvfr.wissdz.com:8081/333666/666333/1373
+#EXTINF:0,Animaux SD
+http://proiptvfr.wissdz.com:8081/333666/666333/8825
+#EXTINF:0,Chasse et P
+http://proiptvfr.wissdz.com:8081/333666/666333/8814
+#EXTINF:0,Chasse et Peche
+http://proiptvfr.wissdz.com:8081/333666/666333/1369
+#EXTINF:0,HISTOIRE FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8809
+#EXTINF:0,HISTOIRE
+http://proiptvfr.wissdz.com:8081/333666/666333/1367
+#EXTINF:0,TOUTE L HISTOIRE
+http://proiptvfr.wissdz.com:8081/333666/666333/8807
+#EXTINF:0,toute l'histoire
+http://proiptvfr.wissdz.com:8081/333666/666333/8808
+#EXTINF:0,###### -- NEWS FRANCE  -- ######
+http://vip
+#EXTINF:0,BFM BUSINESS HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8849
+#EXTINF:0,C News
+http://proiptvfr.wissdz.com:8081/333666/666333/1386
+#EXTINF:0,BFM TV HD
+http://proiptvfr.wissdz.com:8081/333666/666333/1390
+#EXTINF:0,EURONEWS
+http://proiptvfr.wissdz.com:8081/333666/666333/1392
+#EXTINF:0,FRANCE 24
+http://proiptvfr.wissdz.com:8081/333666/666333/1391
+#EXTINF:0,France INFO
+http://proiptvfr.wissdz.com:8081/333666/666333/1387
+#EXTINF:0,France24
+http://proiptvfr.wissdz.com:8081/333666/666333/8854
+#EXTINF:0,I24 NEWS FULL HD
+http://proiptvfr.wissdz.com:8081/333666/666333/8853
+#EXTINF:0,LCI
+http://proiptvfr.wissdz.com:8081/333666/666333/8847
