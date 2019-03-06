@@ -1,146 +1,218 @@
-#EXTINF:-1 tvg-id="" tvg-name="ESPA?A - CANAL LA LIGA TV SD" tvg-logo="http://www.jomyson.com/logo/LaLigatV.png" group-title="Espa?a",ESPA?A - CANAL LA LIGA TV SD
-http://www.jomyson.com:8000/erwin/1234/518
-#EXTINF:-1 tvg-id="" tvg-name="ESPA?A - EUROSPORT 2 SD" tvg-logo="http://www.jomyson.com/logo/eurosport2.jpg" group-title="Espa?a",ESPA?A - EUROSPORT 2 SD
-http://www.jomyson.com:8000/erwin/1234/756
-#EXTINF:-1 tvg-id="Teledeporte HD" tvg-name="ESPA?A - TELEDEPORTE FHD" tvg-logo="http://www.jomyson.com/logo/teledeporte.png" group-title="Espa?a",ESPA?A - TELEDEPORTE FHD
-http://www.jomyson.com:8000/erwin/1234/286
-#EXTINF:-1 tvg-id="" tvg-name="ESPA?A - A3SERIES HD" tvg-logo="http://www.jomyson.com/logo/a3series.png" group-title="Espa?a",ESPA?A - A3SERIES HD
-http://www.jomyson.com:8000/erwin/1234/229
-#EXTINF:-1 tvg-id="AMC.es" tvg-name="ESPA?A - AMC HD" tvg-logo="http://www.jomyson.com/logo/amc.png" group-title="Espa?a",ESPA?A - AMC HD
-http://www.jomyson.com:8000/erwin/1234/253
-#EXTINF:-1 tvg-id="AMC" tvg-name="ESPA?A - AMC FHD" tvg-logo="http://www.jomyson.com/logo/amc.png" group-title="Espa?a",ESPA?A - AMC FHD
-http://www.jomyson.com:8000/erwin/1234/575
-#EXTINF:-1 tvg-id="AXN.es" tvg-name="ESPA?A - AXN FHD" tvg-logo="http://www.jomyson.com/logo/axn.png" group-title="Espa?a",ESPA?A - AXN FHD
-http://www.jomyson.com:8000/erwin/1234/419
-#EXTINF:-1 tvg-id="AXNWhite.es" tvg-name="ESPA?A - AXN WHITE FHD" tvg-logo="http://www.jomyson.com/logo/AXNWHITE.png" group-title="Espa?a",ESPA?A - AXN WHITE FHD
-http://www.jomyson.com:8000/erwin/1234/261
-#EXTINF:-1 tvg-id="Fox.es" tvg-name="ESPA?A - FOX HD" tvg-logo="http://www.jomyson.com/logo/fox.png" group-title="Espa?a",ESPA?A - FOX HD
-http://www.jomyson.com:8000/erwin/1234/263
-#EXTINF:-1 tvg-id="" tvg-name="ESPA?A - FOX FHD" tvg-logo="http://www.jomyson.com/logo/fox.png" group-title="Espa?a",ESPA?A - FOX FHD
-http://www.jomyson.com:8000/erwin/1234/327
-#EXTINF:-1 tvg-id="FoxLife.es" tvg-name="ESPA?A - FOX LIFE HD." tvg-logo="http://www.jomyson.com/logo/FOX-LIFE-HD.png" group-title="Espa?a",ESPA?A - FOX LIFE HD.
-http://www.jomyson.com:8000/erwin/1234/265
-#EXTINF:-1 tvg-id="FOX LIFE HD" tvg-name="ESPA?A - FOX LIFE FHD" tvg-logo="http://www.jomyson.com/logo/foxLife.PNG" group-title="Espa?a",ESPA?A - FOX LIFE FHD
-http://www.jomyson.com:8000/erwin/1234/984
-#EXTINF:-1 tvg-id="Hollywood HD" tvg-name="ESPA?A - HOLLYWOOD HD" tvg-logo="http://www.jomyson.com/logo/Hollywood.png" group-title="Espa?a",ESPA?A - HOLLYWOOD HD
-http://www.jomyson.com:8000/erwin/1234/251
-#EXTINF:-1 tvg-id="Hollywood HD" tvg-name="ESPA?A - HOLLYWOOD FHD" tvg-logo="http://www.jomyson.com/logo/Hollywood.png" group-title="Espa?a",ESPA?A - HOLLYWOOD FHD
-http://www.jomyson.com:8000/erwin/1234/1529
-#EXTINF:-1 tvg-id="MovistarAccion.es" tvg-name="ESPA?A - MOVISTAR+ ACCION" tvg-logo="http://www.jomyson.com/logo/MovistarAccion.jpg" group-title="Espa?a",ESPA?A - MOVISTAR+ ACCION
-http://www.jomyson.com:8000/erwin/1234/235
-#EXTINF:-1 tvg-id="Plus Accion" tvg-name="ESPA?A - MOVISTAR+ ACCION FHD" tvg-logo="http://www.jomyson.com/logo/MovistarAccion.jpg" group-title="Espa?a",ESPA?A - MOVISTAR+ ACCION FHD
-http://www.jomyson.com:8000/erwin/1234/1527
-#EXTINF:-1 tvg-id="MovistarComedia.es" tvg-name="ESPA?A - MOVISTAR+ COMEDIA FHD" tvg-logo="http://www.jomyson.com/logo/MovistarComedia.png" group-title="Espa?a",ESPA?A - MOVISTAR+ COMEDIA FHD
-http://www.jomyson.com:8000/erwin/1234/237
-#EXTINF:-1 tvg-id="Plus Comedia" tvg-name="ESPA?A - MOVISTAR+  COMEDIA FHD" tvg-logo="http://www.jomyson.com/logo/MovistarComedia.png" group-title="Espa?a",ESPA?A - MOVISTAR+  COMEDIA FHD
-http://www.jomyson.com:8000/erwin/1234/1526
-#EXTINF:-1 tvg-id="MovistarDCine.es" tvg-name="ESPA?A - MOVISTAR+ DCINE" tvg-logo="http://www.jomyson.com/logo/MovistarDCINE.png" group-title="Espa?a",ESPA?A - MOVISTAR+ DCINE
-http://www.jomyson.com:8000/erwin/1234/239
-#EXTINF:-1 tvg-id="Plus DCine ES" tvg-name="ESPA?A - MOVISTAR+ DCINE FHD" tvg-logo="http://www.jomyson.com/logo/MovistarDCINE.png" group-title="Espa?a",ESPA?A - MOVISTAR+ DCINE FHD
-http://www.jomyson.com:8000/erwin/1234/1525
-#EXTINF:-1 tvg-id="Canal+ Estrenos HD" tvg-name="ESPA?A - MOVISTAR+ ESTRENOS" tvg-logo="http://www.jomyson.com/logo/MovistarEstreno.jpg" group-title="Espa?a",ESPA?A - MOVISTAR+ ESTRENOS
-http://www.jomyson.com:8000/erwin/1234/242
-#EXTINF:-1 tvg-id="Canal+ Estrenos HD" tvg-name="ESPA?A - MOVISTAR+ ESTRENOS FHD" tvg-logo="http://www.jomyson.com/logo/MovistarEstreno.jpg" group-title="Espa?a",ESPA?A - MOVISTAR+ ESTRENOS FHD
-http://www.jomyson.com:8000/erwin/1234/1523
-#EXTINF:-1 tvg-id="CcanalPlusSeriesXtra.es" tvg-name="ESPA?A - MOVISTAR+ SERIES XTRA" tvg-logo="http://www.jomyson.com/logo/MovistarSeriesExtras.png" group-title="Espa?a",ESPA?A - MOVISTAR+ SERIES XTRA
-http://www.jomyson.com:8000/erwin/1234/246
-#EXTINF:-1 tvg-id="Canal+ Series HD" tvg-name="ESPA?A - MOVISTAR+ SERIES FHD" tvg-logo="http://www.jomyson.com/logo/Movistar+Series.jpg" group-title="Espa?a",ESPA?A - MOVISTAR+ SERIES FHD
-http://www.jomyson.com:8000/erwin/1234/244
-#EXTINF:-1 tvg-id="Canal+ Series HD" tvg-name="ESPA?A - MOVISTAR + SERIES FHD" tvg-logo="http://www.jomyson.com/logo/Movistar+Series.jpg" group-title="Espa?a",ESPA?A - MOVISTAR + SERIES FHD
-http://www.jomyson.com:8000/erwin/1234/1524
-#EXTINF:-1 tvg-id="Canal+ Xtra HD" tvg-name="ESPA?A - MOVISTAR+  XTRA" tvg-logo="http://www.jomyson.com/logo/Movistar-extra.jpg" group-title="Espa?a",ESPA?A - MOVISTAR+  XTRA
-http://www.jomyson.com:8000/erwin/1234/248
-#EXTINF:-1 tvg-id="MovistarXtra.es" tvg-name="ESPA?A - MOVISTAR XTRA FHD" tvg-logo="http://www.jomyson.com/logo/Movistar-extra.jpg" group-title="Espa?a",ESPA?A - MOVISTAR XTRA FHD
-http://www.jomyson.com:8000/erwin/1234/1600
-#EXTINF:-1 tvg-id="Canal+ Series Xtra HD" tvg-name="ESPA?A - MOVISTAR+ SERIES XTRA FHD" tvg-logo="http://www.jomyson.com/logo/MovistarSeriesExtras.png" group-title="Espa?a",ESPA?A - MOVISTAR+ SERIES XTRA FHD
-http://www.jomyson.com:8000/erwin/1234/1528
-#EXTINF:-1 tvg-id="ParamountChannel.es" tvg-name="ESPA?A - PARAMOUNT" tvg-logo="http://www.jomyson.com/logo/Paramount.png" group-title="Espa?a",ESPA?A - PARAMOUNT
-http://www.jomyson.com:8000/erwin/1234/249
-#EXTINF:-1 tvg-id="SyFy.es" tvg-name="ESPA?A - SYFY HD." tvg-logo="http://www.jomyson.com/logo/SYFY-HD.png" group-title="Espa?a",ESPA?A - SYFY HD.
-http://www.jomyson.com:8000/erwin/1234/267
-#EXTINF:-1 tvg-id="SYFY HD" tvg-name="ESPA?A - SYFY FHD" tvg-logo="http://www.jomyson.com/logo/SYFY-HD.png" group-title="Espa?a",ESPA?A - SYFY FHD
-http://www.jomyson.com:8000/erwin/1234/1541
-#EXTINF:-1 tvg-id="TCM.es" tvg-name="ESPA?A - TCM HD" tvg-logo="http://www.jomyson.com/logo/TCM-3.gif" group-title="Espa?a",ESPA?A - TCM HD
-http://www.jomyson.com:8000/erwin/1234/255
-#EXTINF:-1 tvg-id="" tvg-name="ESPA?A - TNT HD" tvg-logo="http://www.jomyson.com/logo/TNT-HD.png" group-title="Espa?a",ESPA?A - TNT HD
-http://www.jomyson.com:8000/erwin/1234/257
-#EXTINF:-1 tvg-id="TNT HD" tvg-name="ESPA?A - TNT FHD" tvg-logo="http://www.jomyson.com/logo/tnt.png" group-title="Espa?a",ESPA?A - TNT FHD
-http://www.jomyson.com:8000/erwin/1234/996
-#EXTINF:-1 tvg-id="DisneyXD.es" tvg-name="ESPA?A - DISNEY XD" tvg-logo="http://www.jomyson.com/logo/DisneyXD.png" group-title="Espa?a",ESPA?A - DISNEY XD
-http://www.jomyson.com:8000/erwin/1234/309
-#EXTINF:-1 tvg-id="" tvg-name="ESPA?A - NICKELODEON HD" tvg-logo="http://www.jomyson.com/logo/NICKELODEON.png" group-title="Espa?a",ESPA?A - NICKELODEON HD
-http://www.jomyson.com:8000/erwin/1234/304
-#EXTINF:-1 tvg-id="CanalPanda.es" tvg-name="ESPA?A - PANDA" tvg-logo="http://www.jomyson.com/logo/CanalPanda.png" group-title="Espa?a",ESPA?A - PANDA
-http://www.jomyson.com:8000/erwin/1234/1004
-#EXTINF:-1 tvg-id="CanalCocina.es" tvg-name="ESPA?A - CANAL COCINA" tvg-logo="http://www.jomyson.com/logo/CanalCocina.png" group-title="Espa?a",ESPA?A - CANAL COCINA
-http://www.jomyson.com:8000/erwin/1234/291
-#EXTINF:-1 tvg-id="DiscoveryChannel.es" tvg-name="ESPA?A - DISCOVERY CHANNEL HD" tvg-logo="http://www.jomyson.com/logo/DISCOVERYCHANNEL.jpg" group-title="Espa?a",ESPA?A - DISCOVERY CHANNEL HD
-http://www.jomyson.com:8000/erwin/1234/294
-#EXTINF:-1 tvg-id="" tvg-name="ESPA?A - HISTORIA HD" tvg-logo="http://www.jomyson.com/logo/historia.png" group-title="Espa?a",ESPA?A - HISTORIA HD
-http://www.jomyson.com:8000/erwin/1234/296
-#EXTINF:-1 tvg-id="" tvg-name="ESPA?A - NATIONAL GEOGRAPHIC" tvg-logo="http://www.jomyson.com/logo/NationalGeographic.jpg" group-title="Espa?a",ESPA?A - NATIONAL GEOGRAPHIC
-http://www.jomyson.com:8000/erwin/1234/300
-#EXTINF:-1 tvg-id="" tvg-name="ESPA?A - NAT GEO WILD" tvg-logo="http://www.jomyson.com/logo/NatGeoWild.png" group-title="Espa?a",ESPA?A - NAT GEO WILD
-http://www.jomyson.com:8000/erwin/1234/302
-#EXTINF:-1 tvg-id="Viajar.es" tvg-name="ESPA?A - VIAJAR HD" tvg-logo="http://www.jomyson.com/logo/Viajar.png" group-title="Espa?a",ESPA?A - VIAJAR HD
-http://www.jomyson.com:8000/erwin/1234/295
-#EXTINF:-1 tvg-id="" tvg-name="ESPA?A -: #0 FHD" tvg-logo="http://www.jomyson.com/logo/%230.png" group-title="Espa?a",ESPA?A -: #0 FHD
-http://www.jomyson.com:8000/erwin/1234/325
-#EXTINF:-1 tvg-id="" tvg-name="ESPA?A - #O" tvg-logo="http://www.jomyson.com/logo/%230.png" group-title="Espa?a",ESPA?A - #O
-http://www.jomyson.com:8000/erwin/1234/233
-#EXTINF:-1 tvg-id="" tvg-name="ESPA?A - ANTENA 3 FHD" tvg-logo="http://www.jomyson.com/logo/antena3.png" group-title="Espa?a",ESPA?A - ANTENA 3 FHD
-http://www.jomyson.com:8000/erwin/1234/219
-#EXTINF:-1 tvg-id="" tvg-name="ESPA?A - CALLE 13 HD" tvg-logo="http://www.jomyson.com/logo/calle13.png" group-title="Espa?a",ESPA?A - CALLE 13 HD
-http://www.jomyson.com:8000/erwin/1234/269
-#EXTINF:-1 tvg-id="" tvg-name="ESPA?A - CALLE 13 FHD" tvg-logo="https://static.iptv-epg.com/es/Calle13.es.png" group-title="Espa?a",ESPA?A - CALLE 13 FHD
-http://www.jomyson.com:8000/erwin/1234/324
-#EXTINF:-1 tvg-id="" tvg-name="ESPA?A - CAZA Y PESCA FHD" tvg-logo="http://www.jomyson.com/logo/caza-pesca.png" group-title="Espa?a",ESPA?A - CAZA Y PESCA FHD
-http://www.jomyson.com:8000/erwin/1234/819
-#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="ESPA?A - CUATRO HD" tvg-logo="http://www.jomyson.com/logo/CUATRO-TV.png" group-title="Espa?a",ESPA?A - CUATRO HD
-http://www.jomyson.com:8000/erwin/1234/222
-#EXTINF:-1 tvg-id="" tvg-name="ESPA?A - CUATRO FHD" tvg-logo="http://www.jomyson.com/logo/cuatro.png" group-title="Espa?a",ESPA?A - CUATRO FHD
-http://www.jomyson.com:8000/erwin/1234/221
-#EXTINF:-1 tvg-id="" tvg-name="ESPA?A - COSMO FHD" tvg-logo="http://www.jomyson.com/logo/cosmo.png" group-title="Espa?a",ESPA?A - COSMO FHD
-http://www.jomyson.com:8000/erwin/1234/272
-#EXTINF:-1 tvg-id="Discovery" tvg-name="ESPA?A - DISCOVERY CHANNEL" tvg-logo="http://www.jomyson.com/logo/discovery-channel.png" group-title="Espa?a",ESPA?A - DISCOVERY CHANNEL
-http://www.jomyson.com:8000/erwin/1234/609
-#EXTINF:-1 tvg-id="DisneyChannel.es" tvg-name="ESPA?A - DISNEY CHANNEL FHD" tvg-logo="http://www.jomyson.com/logo/DisneyChannel.png" group-title="Espa?a",ESPA?A - DISNEY CHANNEL FHD
-http://www.jomyson.com:8000/erwin/1234/308
-#EXTINF:-1 tvg-id="" tvg-name="ESPA?A - DIVINITY" tvg-logo="http://www.jomyson.com/logo/divinity.png" group-title="Espa?a",ESPA?A - DIVINITY
-http://www.jomyson.com:8000/erwin/1234/231
-#EXTINF:-1 tvg-id="" tvg-name="ESPA?A - ENERGY" tvg-logo="http://www.jomyson.com/logo/energy.png" group-title="Espa?a",ESPA?A - ENERGY
-http://www.jomyson.com:8000/erwin/1234/321
-#EXTINF:-1 tvg-id="" tvg-name="ESPA?A - FDF" tvg-logo="http://www.jomyson.com/logo/fdf.png" group-title="Espa?a",ESPA?A - FDF
-http://www.jomyson.com:8000/erwin/1234/230
-#EXTINF:-1 tvg-id="Historia" tvg-name="ESPA?A - HISTORIA FHD" tvg-logo="http://www.jomyson.com/logo/historia.png" group-title="Espa?a",ESPA?A - HISTORIA FHD
-http://www.jomyson.com:8000/erwin/1234/564
-#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ESPA?A - LA 1" tvg-logo="http://www.jomyson.com/logo/LaLigatV.png" group-title="Espa?a",ESPA?A - LA 1
-http://www.jomyson.com:8000/erwin/1234/217
-#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ESPA?A - LA 1 FHD" tvg-logo="http://www.jomyson.com/logo/La1HD.png" group-title="Espa?a",ESPA?A - LA 1 FHD
-http://www.jomyson.com:8000/erwin/1234/341
-#EXTINF:-1 tvg-id="LA2.es" tvg-name="ESPA?A - LA 2 FHD" tvg-logo="http://www.jomyson.com/logo/La2.png" group-title="Espa?a",ESPA?A - LA 2 FHD
-http://www.jomyson.com:8000/erwin/1234/218
-#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="ESPA?A - LA SEXTA FHD" tvg-logo="http://www.jomyson.com/logo/LaSexta.png" group-title="Espa?a",ESPA?A - LA SEXTA FHD
-http://www.jomyson.com:8000/erwin/1234/1429
-#EXTINF:-1 tvg-id="Mega.es" tvg-name="ESPA?A - MEGA" tvg-logo="http://www.jomyson.com/logo/mega.png" group-title="Espa?a",ESPA?A - MEGA
-http://www.jomyson.com:8000/erwin/1234/227
-#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="ESPA?A - NAT GEO FHD" tvg-logo="http://www.jomyson.com/logo/NATGEO.jpg" group-title="Espa?a",ESPA?A - NAT GEO FHD
-http://www.jomyson.com:8000/erwin/1234/510
-#EXTINF:-1 tvg-id="" tvg-name="ESPA?A - NAT GEO WILD FHD" tvg-logo="http://www.jomyson.com/logo/NATGEO-WILD-HD.png" group-title="Espa?a",ESPA?A - NAT GEO WILD FHD
-http://www.jomyson.com:8000/erwin/1234/1545
-#EXTINF:-1 tvg-id="ES: NICKELODEON HD" tvg-name="ESPA?A - NICKELODEON FHD" tvg-logo="http://www.jomyson.com/logo/nickelodeon.png" group-title="Espa?a",ESPA?A - NICKELODEON FHD
-http://www.jomyson.com:8000/erwin/1234/470
-#EXTINF:-1 tvg-id="Neox.es" tvg-name="ESPA?A - NEOX" tvg-logo="http://www.jomyson.com/logo/neox.png" group-title="Espa?a",ESPA?A - NEOX
-http://www.jomyson.com:8000/erwin/1234/228
-#EXTINF:-1 tvg-id="" tvg-name="ESPA?A - NOVA" tvg-logo="http://www.jomyson.com/logo/nova.png" group-title="Espa?a",ESPA?A - NOVA
-http://www.jomyson.com:8000/erwin/1234/1431
-#EXTINF:-1 tvg-id="Odisea.es" tvg-name="ESPA?A - ODISEA" tvg-logo="http://www.jomyson.com/logo/odisea.png" group-title="Espa?a",ESPA?A - ODISEA
-http://www.jomyson.com:8000/erwin/1234/297
-#EXTINF:-1 tvg-id="TCM.es" tvg-name="ESPA?A - TCM FHD" tvg-logo="http://www.jomyson.com/logo/TCM-HD.png" group-title="Espa?a",ESPA?A - TCM FHD
-http://www.jomyson.com:8000/erwin/1234/1380
-#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="ESPA?A - TELECINCO HD" tvg-logo="http://www.jomyson.com/logo/Telecinco.png" group-title="Espa?a",ESPA?A - TELECINCO HD
-http://www.jomyson.com:8000/erwin/1234/224
-#EXTINF:-1 tvg-id="Telecinco HD" tvg-name="ESPA?A - TELECINCO FHD" tvg-logo="http://www.jomyson.com/logo/telecinco.png" group-title="Espa?a",ESPA?A - TELECINCO FHD
-http://www.jomyson.com:8000/erwin/1234/314
-#EXTINF:-1 tvg-id="Viajar HD" tvg-name="ESPA?A - VIAJAR FHD" tvg-logo="http://www.jomyson.com/logo/viajar.png" group-title="Espa?a",ESPA?A - VIAJAR FHD
-http://www.jomyson.com:8000/erwin/1234/117
+#EXTINF:-1,LA 1 HD
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23174
+#EXTINF:-1,LA1
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23173
+#EXTINF:-1,CLAN TVE
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23172
+#EXTINF:-1,LA2
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23171
+#EXTINF:-1,ANTENA 3HD
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23170
+#EXTINF:-1,ANTENA3
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23169
+#EXTINF:-1,CUATRO HD
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23168
+#EXTINF:-1,CUATRO
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23167
+#EXTINF:-1,TELECINCO HD
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23166
+#EXTINF:-1,TELECINCO
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23165
+#EXTINF:-1,LA SEXTA FHD
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23164
+#EXTINF:-1,LA SEXTA HD
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23163
+#EXTINF:-1,LA SEXTA
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23162
+#EXTINF:-1,TV GALICIA
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23161
+#EXTINF:-1,CANAL ANDALUCIA
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23160
+#EXTINF:-1,TV3 CATALUNYA
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23159
+#EXTINF:-1,|ES|*****NOTICIAS*****|ES|
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23158
+#EXTINF:-1,CANAL 24 HORAS
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23157
+#EXTINF:-1,FOXNEWS
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23156
+#EXTINF:-1,|ES|*****DEPORTES*****|ES|
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23155
+#EXTINF:-1,M DEPORTES 1 HD
+http://iptvpro.premium-itv.com:8789/salim123/salim123/14065
+#EXTINF:-1,M DEPORTES 1
+http://iptvpro.premium-itv.com:8789/salim123/salim123/14066
+#EXTINF:-1,M DEPORTES 2
+http://iptvpro.premium-itv.com:8789/salim123/salim123/14064
+#EXTINF:-1,M DEPORTES 2 HD
+http://iptvpro.premium-itv.com:8789/salim123/salim123/14062
+#EXTINF:-1,TOROS TV
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23154
+#EXTINF:-1,M GOL TV
+http://iptvpro.premium-itv.com:8789/salim123/salim123/14082
+#EXTINF:-1,M F?TBOL FHD
+http://iptvpro.premium-itv.com:8789/salim123/salim123/14081
+#EXTINF:-1,M F?TBOL
+http://iptvpro.premium-itv.com:8789/salim123/salim123/14080
+#EXTINF:-1,M TELEDEPORTE
+http://iptvpro.premium-itv.com:8789/salim123/salim123/14061
+#EXTINF:-1,M beINSPORT HD
+http://iptvpro.premium-itv.com:8789/salim123/salim123/14076
+#EXTINF:-1,M beINSPORTS
+http://iptvpro.premium-itv.com:8789/salim123/salim123/14077
+#EXTINF:-1,M beIN LALIGA
+http://iptvpro.premium-itv.com:8789/salim123/salim123/14075
+#EXTINF:-1,M beIN LALIGA FHD
+http://iptvpro.premium-itv.com:8789/salim123/salim123/14073
+#EXTINF:-1,M LALIGA TV BAR
+http://iptvpro.premium-itv.com:8789/salim123/salim123/14072
+#EXTINF:-1,M LALIGA TV Bar HD
+http://iptvpro.premium-itv.com:8789/salim123/salim123/14071
+#EXTINF:-1,M REAL MADRID TV
+http://iptvpro.premium-itv.com:8789/salim123/salim123/14084
+#EXTINF:-1,M BARCA TV
+http://iptvpro.premium-itv.com:8789/salim123/salim123/14085
+#EXTINF:-1,M EUROSPORT 1 FULLHD
+http://iptvpro.premium-itv.com:8789/salim123/salim123/14060
+#EXTINF:-1,M EUROSPORT 1
+http://iptvpro.premium-itv.com:8789/salim123/salim123/14059
+#EXTINF:-1,M PARTIDAZO HD
+http://iptvpro.premium-itv.com:8789/salim123/salim123/14068
+#EXTINF:-1,M PARTIDAZO
+http://iptvpro.premium-itv.com:8789/salim123/salim123/14069
+#EXTINF:-1,M FORMULA 1 FHD
+http://iptvpro.premium-itv.com:8789/salim123/salim123/14053
+#EXTINF:-1,M FORMULA 1 HD
+http://iptvpro.premium-itv.com:8789/salim123/salim123/14052
+#EXTINF:-1,M MOTOGP HD
+http://iptvpro.premium-itv.com:8789/salim123/salim123/14050
+#EXTINF:-1,M GOLF HD
+http://iptvpro.premium-itv.com:8789/salim123/salim123/14057
+#EXTINF:-1,|ES|*****CINE*****|ES|
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23153
+#EXTINF:-1,M ESTRENOS FHD
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23152
+#EXTINF:-1,M ESTRENOS
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23151
+#EXTINF:-1,M XTRA HD
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23150
+#EXTINF:-1,M ACCION FHD
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23149
+#EXTINF:-1,M ACCION
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23148
+#EXTINF:-1,M COMEDIA HD
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23147
+#EXTINF:-1,M Comedia
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23146
+#EXTINF:-1,M DCINE FHD
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23145
+#EXTINF:-1,LIFE TV
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23144
+#EXTINF:-1,M DCINE
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23143
+#EXTINF:-1,M DCINE ESPANOL
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23142
+#EXTINF:-1,M HOLLYWOOD HD
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23141
+#EXTINF:-1,TCM
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23140
+#EXTINF:-1,M TNT FHD
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23139
+#EXTINF:-1,|ES|*****ENTRETENIMIENTO*****|ES|
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23138
+#EXTINF:-1,M #0
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23137
+#EXTINF:-1,M SERIES
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23136
+#EXTINF:-1,M SERIES XTRA HD
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23135
+#EXTINF:-1,M COMEDY CENTRAL FHD
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23134
+#EXTINF:-1,COMEDYCENTRAL
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23133
+#EXTINF:-1,FDF
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23132
+#EXTINF:-1,A3SERIES
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23131
+#EXTINF:-1,FOX
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23130
+#EXTINF:-1,FOX LIFE
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23129
+#EXTINF:-1,M AMC FHD
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23128
+#EXTINF:-1,M AMC
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23127
+#EXTINF:-1,M AXN FHD
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23126
+#EXTINF:-1,M AXN
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23125
+#EXTINF:-1,M AXN WHITE FHD
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23124
+#EXTINF:-1,M SYFY FHD
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23123
+#EXTINF:-1,DIVINITY
+http://iptvpro.premium-itv.com:8789/salim123/salim123/28361
+#EXTINF:-1,M CALLE13
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23122
+#EXTINF:-1,M ENERGY
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23121
+#EXTINF:-1,M COSMO
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23120
+#EXTINF:-1,MEGA TV HD
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23119
+#EXTINF:-1,M DECASA
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23118
+#EXTINF:-1,M NON STOP PEOPLE
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23117
+#EXTINF:-1,|ES|*****CULTURA*****|ES|
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23116
+#EXTINF:-1,ODISEA
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23115
+#EXTINF:-1,NATGEOGRAPHIC HD
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23114
+#EXTINF:-1,NATGEOWILD HD
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23113
+#EXTINF:-1,NAT GEO WILD
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23112
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23110
+#EXTINF:-1,HISTORIA
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23109
+#EXTINF:-1,A&E
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23108
+#EXTINF:-1,CAZA Y PESCA HD
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23107
+#EXTINF:-1,IBERALIA TV
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23106
+#EXTINF:-1,VIAJAR HD
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23105
+#EXTINF:-1,CANAL COCINA
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23104
+#EXTINF:-1,|ES|****NINOS****|ES|
+http://iptvpro.premium-itv.com:8789/salim123/salim123/24986
+#EXTINF:-1,NICKELODEON HD
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23102
+#EXTINF:-1,NICKELODEON ESP HD
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23101
+#EXTINF:-1,NICK JR
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23100
+#EXTINF:-1,DISNEY ESP XD
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23099
+#EXTINF:-1,DISNEY CHANNEL HD
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23098
+#EXTINF:-1,DISNEY JR
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23097
+#EXTINF:-1,DISNEY CHANNEL
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23096
+#EXTINF:-1,CANAL PANDA
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23095
+#EXTINF:-1,BOING ESP
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23094
+#EXTINF:-1,BABY ESP
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23093
+#EXTINF:-1,|ES|*****TAQUILLA*****|ES|
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23092
+#EXTINF:-1,TAQUILLA 8
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23084
+#EXTINF:-1,TAQUILLA 9
+http://iptvpro.premium-itv.com:8789/salim123/salim123/23083
