@@ -1,21 +1,222 @@
-#EXTM3U
-#EXTINF:-1,Arena-Sport-1-HD-Cro
-http://185.23.213.162:8789/salim123/salim123/24015
-#EXTINF:-1,Arena-Sport-1-Srb
-http://185.23.213.162:8789/salim123/salim123/24014
-#EXTINF:-1,Arena-Sport-2-HD-Cro
-http://185.23.213.162:8789/salim123/salim123/24013
-#EXTINF:-1,Arena-Sport-2-Srb
-http://185.23.213.162:8789/salim123/salim123/24012
-#EXTINF:-1,Arena-Sport-3-HD-Cro
-http://185.23.213.162:8789/salim123/salim123/24011
-#EXTINF:-1,Arena-Sport-3-Srb
-http://185.23.213.162:8789/salim123/salim123/24010
-#EXTINF:-1,Arena-Sport-4-HD-Cro
-http://185.23.213.162:8789/salim123/salim123/24009
-#EXTINF:-1,Arena-Sport-4-Srb
-http://185.23.213.162:8789/salim123/salim123/24008
-#EXTINF:-1,Arena-Sport-5-HD-Cro
-http://185.23.213.162:8789/salim123/salim123/24007
-#EXTINF:-1,Arena-Sport-5-Srb
-http://185.23.213.162:8789/salim123/salim123/24006
+#EXTINF:0,CINEMAX-1
+http://tv.hotboxtv.net:8000/madagascar/madagascar/4048
+#EXTINF:0,CINEMAX-2
+http://tv.hotboxtv.net:8000/madagascar/madagascar/4047
+#EXTINF:0,CINESTAR TV
+http://tv.hotboxtv.net:8000/madagascar/madagascar/4046
+#EXTINF:0,FILMBOX
+http://tv.hotboxtv.net:8000/madagascar/madagascar/4043
+#EXTINF:0,Cinemax HD
+http://tv.hotboxtv.net:8000/madagascar/madagascar/4049
+#EXTINF:0,Cinestar Action
+http://tv.hotboxtv.net:8000/madagascar/madagascar/4045
+#EXTINF:0,Cinestar Premiere 1
+http://tv.hotboxtv.net:8000/madagascar/madagascar/4051
+#EXTINF:0,Cinestar Premiere 2
+http://tv.hotboxtv.net:8000/madagascar/madagascar/4050
+#EXTINF:0,Arena Sport 1 HR
+http://tv.hotboxtv.net:8000/madagascar/madagascar/934
+#EXTINF:0,Arena Sport 1 SRB
+http://tv.hotboxtv.net:8000/madagascar/madagascar/939
+#EXTINF:0,Arena Sport 2 HR
+http://tv.hotboxtv.net:8000/madagascar/madagascar/935
+#EXTINF:0,Arena Sport 2 SRB
+http://tv.hotboxtv.net:8000/madagascar/madagascar/940
+#EXTINF:0,Arena Sport 3 HR
+http://tv.hotboxtv.net:8000/madagascar/madagascar/936
+#EXTINF:0,Arena Sport 3 SRB
+http://tv.hotboxtv.net:8000/madagascar/madagascar/941
+#EXTINF:0,Arena Sport 4 HR
+http://tv.hotboxtv.net:8000/madagascar/madagascar/937
+#EXTINF:0,Arena Sport 4 SRB
+http://tv.hotboxtv.net:8000/madagascar/madagascar/942
+#EXTINF:0,Arena Sport 5 HR
+http://tv.hotboxtv.net:8000/madagascar/madagascar/938
+#EXTINF:0,Arena Sport 5 SRB
+http://tv.hotboxtv.net:8000/madagascar/madagascar/943
+#EXTINF:0,Pink 3 Info RS
+http://tv.hotboxtv.net:8000/madagascar/madagascar/3438
+#EXTINF:0,Pink Action RS
+http://tv.hotboxtv.net:8000/madagascar/madagascar/3437
+#EXTINF:0,Pink Comedy RS
+http://tv.hotboxtv.net:8000/madagascar/madagascar/3436
+#EXTINF:0,Pink Crime & Mystery RS
+http://tv.hotboxtv.net:8000/madagascar/madagascar/3435
+#EXTINF:0,Pink Extra RS
+http://tv.hotboxtv.net:8000/madagascar/madagascar/3434
+#EXTINF:0,Pink Film RS
+http://tv.hotboxtv.net:8000/madagascar/madagascar/3433
+#EXTINF:0,Pink Folk 1 RS
+http://tv.hotboxtv.net:8000/madagascar/madagascar/3432
+#EXTINF:0,Pink Folk 2 RS
+http://tv.hotboxtv.net:8000/madagascar/madagascar/3431
+#EXTINF:0,Pink HAHA RS
+http://tv.hotboxtv.net:8000/madagascar/madagascar/3430
+#EXTINF:0,Pink Horror RS
+http://tv.hotboxtv.net:8000/madagascar/madagascar/3428
+#EXTINF:0,Pink Kids RS
+http://tv.hotboxtv.net:8000/madagascar/madagascar/3427
+#EXTINF:0,Pink Kuvar RS
+http://tv.hotboxtv.net:8000/madagascar/madagascar/3426
+#EXTINF:0,Pink LOL RS
+http://tv.hotboxtv.net:8000/madagascar/madagascar/3425
+#EXTINF:0,Pink Movies RS
+http://tv.hotboxtv.net:8000/madagascar/madagascar/3424
+#EXTINF:0,Pink Pedia RS
+http://tv.hotboxtv.net:8000/madagascar/madagascar/3420
+#EXTINF:0,Pink Plus RS
+http://tv.hotboxtv.net:8000/madagascar/madagascar/3419
+#EXTINF:0,Pink Premium RS
+http://tv.hotboxtv.net:8000/madagascar/madagascar/3418
+#EXTINF:0,Pink Reality RS
+http://tv.hotboxtv.net:8000/madagascar/madagascar/3417
+#EXTINF:0,Pink Romance RS
+http://tv.hotboxtv.net:8000/madagascar/madagascar/3416
+#EXTINF:0,Pink RS
+http://tv.hotboxtv.net:8000/madagascar/madagascar/3415
+#EXTINF:0,Pink Sci-fi & Fantasy RS
+http://tv.hotboxtv.net:8000/madagascar/madagascar/3414
+#EXTINF:0,Pink Serije RS
+http://tv.hotboxtv.net:8000/madagascar/madagascar/3413
+#EXTINF:0,Pink Soap RS
+http://tv.hotboxtv.net:8000/madagascar/madagascar/3412
+#EXTINF:0,Pink Super Kids RS
+http://tv.hotboxtv.net:8000/madagascar/madagascar/3411
+#EXTINF:0,Pink Thriller RS
+http://tv.hotboxtv.net:8000/madagascar/madagascar/3410
+#EXTINF:0,Pink Western RS
+http://tv.hotboxtv.net:8000/madagascar/madagascar/3409
+#EXTINF:0,Pink World Cinema RS
+http://tv.hotboxtv.net:8000/madagascar/madagascar/3408
+#EXTINF:0,Pink Zabava RS
+http://tv.hotboxtv.net:8000/madagascar/madagascar/3407
+#EXTINF:0,KS AKSION
+http://tv.hotboxtv.net:8000/madagascar/madagascar/17466
+#EXTINF:0,KS COMEDY
+http://tv.hotboxtv.net:8000/madagascar/madagascar/17465
+#EXTINF:0,KS DRAMA
+http://tv.hotboxtv.net:8000/madagascar/madagascar/17464
+#EXTINF:0,KS EPIC HD
+http://tv.hotboxtv.net:8000/madagascar/madagascar/17467
+#EXTINF:0,KS FESTA HD
+http://tv.hotboxtv.net:8000/madagascar/madagascar/17468
+#EXTINF:0,KS GOLD 1 HD
+http://tv.hotboxtv.net:8000/madagascar/madagascar/17472
+#EXTINF:0,KS GOLD 2 HD
+http://tv.hotboxtv.net:8000/madagascar/madagascar/17471
+#EXTINF:0,KS GOLD 3 HD
+http://tv.hotboxtv.net:8000/madagascar/madagascar/17470
+#EXTINF:0,KS GOLD 4 HD
+http://tv.hotboxtv.net:8000/madagascar/madagascar/17469
+#EXTINF:0,KS HINDI HD
+http://tv.hotboxtv.net:8000/madagascar/madagascar/17462
+#EXTINF:0,KS HUMOR HD
+http://tv.hotboxtv.net:8000/madagascar/madagascar/17461
+#EXTINF:0,KS PRANKS
+http://tv.hotboxtv.net:8000/madagascar/madagascar/17458
+#EXTINF:0,KS PREMIER 1 HD
+http://tv.hotboxtv.net:8000/madagascar/madagascar/17476
+#EXTINF:0,KS PREMIER 2 HD
+http://tv.hotboxtv.net:8000/madagascar/madagascar/17475
+#EXTINF:0,KS PREMIER 3 HD
+http://tv.hotboxtv.net:8000/madagascar/madagascar/17474
+#EXTINF:0,KS PREMIER 4 HD
+http://tv.hotboxtv.net:8000/madagascar/madagascar/17473
+#EXTINF:0,KS SERIAL
+http://tv.hotboxtv.net:8000/madagascar/madagascar/17460
+#EXTINF:0,KS SERIES HD
+http://tv.hotboxtv.net:8000/madagascar/madagascar/17459
+#EXTINF:0,KS WESTERN HD
+http://tv.hotboxtv.net:8000/madagascar/madagascar/17463
+#EXTINF:0,KS HORROR
+http://tv.hotboxtv.net:8000/madagascar/madagascar/4365
+#EXTINF:0,ShqipTv Aksion
+http://tv.hotboxtv.net:8000/madagascar/madagascar/4202
+#EXTINF:0,ShqipTV Cinema
+http://tv.hotboxtv.net:8000/madagascar/madagascar/4205
+#EXTINF:0,ShqipTV Film HD
+http://tv.hotboxtv.net:8000/madagascar/madagascar/4199
+#EXTINF:0,ShqipTv Horror HD
+http://tv.hotboxtv.net:8000/madagascar/madagascar/4207
+#EXTINF:0,ShqipTv Humor HD
+http://tv.hotboxtv.net:8000/madagascar/madagascar/4206
+#EXTINF:0,ShqipTv Komedi HD
+http://tv.hotboxtv.net:8000/madagascar/madagascar/4208
+#EXTINF:0,ShqipTV MIMI
+http://tv.hotboxtv.net:8000/madagascar/madagascar/4224
+#EXTINF:0,ShqipTV Tom & Jerry
+http://tv.hotboxtv.net:8000/madagascar/madagascar/4223
+#EXTINF:0,ShqipTv Western HD
+http://tv.hotboxtv.net:8000/madagascar/madagascar/4201
+#EXTINF:0,AL:ShqipTv Fantasy HD
+http://tv.hotboxtv.net:8000/madagascar/madagascar/4203
+#EXTINF:0,AL:SHQIPTV Hindi HD
+http://tv.hotboxtv.net:8000/madagascar/madagascar/4204
+#EXTINF:0,Digi Gold 1
+http://tv.hotboxtv.net:8000/madagascar/madagascar/17480
+#EXTINF:0,Digi Gold 2
+http://tv.hotboxtv.net:8000/madagascar/madagascar/17479
+#EXTINF:0,Digi Gold 3
+http://tv.hotboxtv.net:8000/madagascar/madagascar/17478
+#EXTINF:0,Digi Gold 4
+http://tv.hotboxtv.net:8000/madagascar/madagascar/17477
+#EXTINF:0,Euro Film
+http://tv.hotboxtv.net:8000/madagascar/madagascar/17487
+#EXTINF:0,Family HD
+http://tv.hotboxtv.net:8000/madagascar/madagascar/17490
+#EXTINF:0,Film Aksion
+http://tv.hotboxtv.net:8000/madagascar/madagascar/17485
+#EXTINF:0,Film Autor
+http://tv.hotboxtv.net:8000/madagascar/madagascar/17483
+#EXTINF:0,Film Dram
+http://tv.hotboxtv.net:8000/madagascar/madagascar/17482
+#EXTINF:0,Film Dy HD
+http://tv.hotboxtv.net:8000/madagascar/madagascar/17488
+#EXTINF:0,Film Hits
+http://tv.hotboxtv.net:8000/madagascar/madagascar/17486
+#EXTINF:0,Film Komedi
+http://tv.hotboxtv.net:8000/madagascar/madagascar/17484
+#EXTINF:0,Film NJ
+http://tv.hotboxtv.net:8000/madagascar/madagascar/17489
+#EXTINF:0,Film Thriller
+http://tv.hotboxtv.net:8000/madagascar/madagascar/17481
+#EXTINF:0,Sky 7 HD
+http://tv.hotboxtv.net:8000/madagascar/madagascar/4222
+#EXTINF:0,Sky Aksion
+http://tv.hotboxtv.net:8000/madagascar/madagascar/4221
+#EXTINF:0,Sky Dram
+http://tv.hotboxtv.net:8000/madagascar/madagascar/4218
+#EXTINF:0,Sky Komedi
+http://tv.hotboxtv.net:8000/madagascar/madagascar/4219
+#EXTINF:0,Sky Max
+http://tv.hotboxtv.net:8000/madagascar/madagascar/4220
+#EXTINF:0,AL:REAL RTV
+http://tv.hotboxtv.net:8000/madagascar/madagascar/4212
+#EXTINF:0,AL:Tring Fantasy
+http://tv.hotboxtv.net:8000/madagascar/madagascar/3933
+#EXTINF:0,AL:Tring History
+http://tv.hotboxtv.net:8000/madagascar/madagascar/3929
+#EXTINF:0,AL:Tring Life
+http://tv.hotboxtv.net:8000/madagascar/madagascar/3932
+#EXTINF:0,AL:Tring Max
+http://tv.hotboxtv.net:8000/madagascar/madagascar/3931
+#EXTINF:0,AL:Tring Planet
+http://tv.hotboxtv.net:8000/madagascar/madagascar/3927
+#EXTINF:0,AL:Tring Shqip
+http://tv.hotboxtv.net:8000/madagascar/madagascar/3930
+#EXTINF:0,AL:Tring Smile
+http://tv.hotboxtv.net:8000/madagascar/madagascar/3926
+#EXTINF:0,AL:Tring Tring
+http://tv.hotboxtv.net:8000/madagascar/madagascar/3928
+#EXTINF:0,AL:Tring Sport News HD
+http://tv.hotboxtv.net:8000/madagascar/madagascar/3924
+#EXTINF:0,Spersport1
+http://tv.hotboxtv.net:8000/madagascar/madagascar/929
+#EXTINF:0,Spersport2
+http://tv.hotboxtv.net:8000/madagascar/madagascar/933
+#EXTINF:0,Spersport3
+http://tv.hotboxtv.net:8000/madagascar/madagascar/930
+#EXTINF:0,Spersport4
+http://tv.hotboxtv.net:8000/madagascar/madagascar/931
+#EXTINF:0,Spersport5
+http://tv.hotboxtv.net:8000/madagascar/madagascar/932
