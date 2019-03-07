@@ -1,97 +1,139 @@
 #EXTM3U
-#EXTINF:-1,BeinSport
-http://185-8-178-138.livesports24.online/bsporttur1.m3u8
-#EXTINF:0,KRAL POP KONSER TV
-http://0ajuu84p.rocketcdn.com/kraldijital-popkonsertv.smil/chunklist.m3u8?HasBahCa_IPTV
-#EXTINF:0,DIYANET TV - TRT DIYANET
-http://5.44.154.68/dvr/diyanettv.stream/playlist.m3u8s
-#EXTINF:0,TRT 1
-http://31.186.24.233:8001/1?HasBahCa_IPTV
-#EXTINF:0,TRT MUZIK
-http://31.186.24.233:8001/12?HasBahCa_IPTV
-#EXTINF:0,TRT COCUK
-http://31.186.24.233:8001/16?HasBahCa_IPTV
-#EXTINF:0,TRT AVAZ
-http://31.186.24.233:8001/21?HasBahCa_IPTV
-#EXTINF:0,TRT SPOR
-http://31.186.24.233:8001/25?HasBahCa_IPTV
-#EXTINF:0,TRT DIYANET
-http://31.186.24.233:8001/27?HasBahCa_IPTV
-#EXTINF:0,TRT HABER
-http://31.186.24.233:8001/5?HasBahCa_IPTV
-#EXTINF:0,TRT TURK
-http://31.186.24.233:8001/9?HasBahCa_IPTV
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.teksas.org/haber/resim/detay/bursasportv-yayinina-digiturkte-basladi_2.jpg" group-title="TURKEY",Bursapor TV
-http://stream.yayindayiz.biz/Bursaspor/bursaspor/radyodelisi.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.siyred.com/uploads/thumbs/8808168ff-1.jpg" group-title="TURKEY",Cay TV
-http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mirzaturizm.com.tr/site/assets/files/1118/cnnturk-logo2.jpg" group-title="TURKEY",CNN Turk (Opt-1)
-http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mirzaturizm.com.tr/site/assets/files/1118/cnnturk-logo2.jpg" group-title="TURKEY",CNN Turk (Opt-2)
-https://cdn.dogannet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/795977867008077824/YLp6rTAL.jpg" group-title="TURKEY",Dream TV
-http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/864443317437702145/Ggcrwoln.jpg" group-title="TURKEY",Dreamturk TV
-http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tivigi.com/img/kanallar/dost-tv.png" group-title="TURKEY",Dost TV
-http://yayin.dosttv.com:1935/dosttv/dosttv2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://frmtv.com/wp-content/uploads/2017/08/frmtvlogo.png" group-title="TURKEY",FRM TV
-http://185.50.68.221:1935/live/myStream/iptvdelisi.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.guneytv.com.tr/img/logo.png" group-title="TURKEY",Guney TV Tarsus
-rtmp://stream.taksimbilisim.com:1935/tarsusguneytv/bant1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xcrRa9Y.png" group-title="TURKEY",IBB TV
-rtmp://wowza.istweb.tv:1935/webtv/webtv_wowza1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sentezyapi.com/Files/referanskanal242794433.jpg" group-title="TURKEY",Kanal 24
-http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/kanal-d-hd-logo-resmi.png" group-title="TURKEY",Kanal D (Opt-1)
-http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/kanal-d-hd-logo-resmi.png" group-title="TURKEY",Kanal D (Opt-2)
-http://live.netd.com.tr/S1/HLS_LIVE/kanald/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/eIGYTkv.png" group-title="TURKEY",Kanal V
-rtmp://stream2.taksimbilisim.com/kanalvip/bant1
-#EXTINF:-1 tvg-logo="http://muzrad.com/wp-content/uploads/2015/11/muzrad_kral-world-radio-8-ilde-yayinda.jpg" group-title="TURKEY",KRAL World TV
-http://stmpo0wa.rocketcdn.com/kralworldtv.smil/chunklist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tamtvizle.com/wp-content/uploads/2016/01/meclis-tv.jpg" group-title="TURKEY",Meclis TV
-http://mecliscanlitv-lh.akamaihd.net:80/i/MECLISTV_1@127503/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://rumelitv.com.tr/img/rumelilogo.png" group-title="TURKEY",Rumeli TV
-http://yayin3.canlitv.com:1935/live/rumelitv/HasBahCa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.digitaltveurope.com/files/2014/06/SkyTurk-360.png" group-title="TURKEY",Sky Turk 360
-http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://georgianlive.com/wp-content/uploads/2013/02/sportstv.jpg" group-title="TURKEY",SportsTV
-http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wUPmhTk.png" group-title="TURKEY",Sun TV Mersin
-rtmp://stream2.taksimbilisim.com:1935/mersinsuntv/bant1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvizle.net/logo/teve2.png" group-title="TURKEY",Teve2
-http://media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/458666982905098240/Ef3T7N7P.png" group-title="TURKEY",TGRT Belgesel
-http://cdn1.streamencoding.com:1935/tgrt_belgesel/amlst:live-30/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iblog.milliyet.com.tr/imgroot/blogv7/Blog333/2014/03/12/05/452667-3-4-60de4.jpg" group-title="TURKEY",TJK TV
-http://tjktv.ercdn.net/tjktv_576p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/06/Trt1_2012.png" group-title="TURKEY",TRT 1
-http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.batitrakya.org/wp-content/uploads/2016/01/trt-avaz.jpg" group-title="TURKEY",TRT Avaz
-http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.trtbelgesel.net.tr/fotograf/makaleler/1-yeni-donem-basin-bulteni-20150404-141137-trtbelgesel-makaleler_270x198.jpg" group-title="TURKEY",TRT Belgesel
-http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://trthaberstatic.s3-website-eu-west-1.amazonaws.com/resimler/542000/543144.jpg" group-title="TURKEY",TRT Cocuk
-http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/media/CyVPO6MW8AAvy-0.jpg" group-title="TURKEY",TRT Haber
-http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canlitv.gallery/wp-content/uploads/2016/09/trtmuzik-tv-canli.png" group-title="TURKEY",TRT Muzik
-http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://trtkurumsal.trt.net.tr/Uploads/image/png/2015-07-02-16.22.45/a778abff5363462182f7a3bd5a87f259.png" group-title="TURKEY",TRT Okul
-http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ecanlitvizle.net/logo/trt-spor-izle.png" group-title="TURKEY",TRT Spor
-http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Trt_turk.png" group-title="TURKEY",TRT Turk
-http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://kurtcetvizle.com/wp-content/uploads/2014/03/tv-10-canli-zindi-izle.jpg" group-title="TURKEY",TV 10
-rtmp://5.135.142.60:1935/tv10/xetero
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soombo.com/assets/images/200_1448989903.png" group-title="TURKEY",TV 41
-rtmp://stream.taksimbilisim.com/tv41/bant1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/L6GE7ZG.png" group-title="TURKEY",TV 52
-rtmp://stream.taksimbilisim.com/tv52/bant1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.frocus.net/images/logotv/original/TV2000-Turkey.jpg" group-title="TURKEY",TV 2000
-rtmp://stream.taksimbilisim.com/tv2000/bant1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canlitv.world/images/channels/vuslat-tv.png" group-title="TURKEY",Vulsat TV
-http://yayin3.canlitv.com:1935/live/vuslattv/playlist.m3u8
+#EXTINF:-1,Ziggo Sport Select FHD 1080
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/5452
+#EXTINF:-1,Veronica / Disney XD FHD 1080
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/5453
+#EXTINF:-1,Sport 1 Voetbal
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/150
+#EXTINF:-1,SBS 9
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/3899
+#EXTINF:-1,RTL 8 FHD 1080
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/5455
+#EXTINF:-1,RTL 7 FHD 1080
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/5454
+#EXTINF:-1,RTL 5 FHD 1080
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/5451
+#EXTINF:-1,RTL 4 FHD
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/5450
+#EXTINF:-1,NPO 3 FHD 1080
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/5449
+#EXTINF:-1,NPO 2 FHD 1080
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/5448
+#EXTINF:-1,NPO 1 HD
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/5447
+#EXTINF:-1,Fox Sports 6
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/152
+#EXTINF:-1,Fox Sports 5
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/153
+#EXTINF:-1,Fox Sports 4
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/154
+#EXTINF:-1,Fox Sports 3
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/155
+#EXTINF:-1,Fox Sports 2
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/156
+#EXTINF:-1,Fox Sports 1
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/157
+#EXTINF:-1,Eurosport 1 FHD 1080
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/5654
+#EXTINF:-1,Eurosport 2 HD
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/5655
+#EXTINF:-1,Film1 Premiere FHD 1080
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/5647
+#EXTINF:-1,FOX Sports 1 FHD 1080
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/5644
+#EXTINF:-1,FOX Sports 2 HD
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/5645
+#EXTINF:-1,Nat Geo Wild FHD 1080
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/5653
+#EXTINF:-1,National Geographic FHD 1080
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/5652
+#EXTINF:-1,Net 5 FHD 1080
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/5649
+#EXTINF:-1,SBS6 FHD 1080
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/5648
+#EXTINF:-1,Fox Sports 4 HD ( 1080P )
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/7475
+#EXTINF:-1,Fox Sports 5 HD ( 1080P )
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/7476
+#EXTINF:-1,FOX Sports 3 HD ( 1080P )
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/7474
+#EXTINF:-1,Ziggo Sport.Voetbal
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/3891
+#EXTINF:-1,Ziggo Sport Select HD
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/3892
+#EXTINF:-1,Ziggo Sport Racing
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/3890
+#EXTINF:-1,Ziggo Sport Golf
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/3893
+#EXTINF:-1,Ziggo Sport Extra2
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/3894
+#EXTINF:-1,Ziggo Sport Extra1
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/3895
+#EXTINF:-1,Veronica Disney XD
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/3896
+#EXTINF:-1,TLC
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/3897
+#EXTINF:-1,SYFY
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/3898
+#EXTINF:-1,SBS 6
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/3900
+#EXTINF:-1,RTL lounge
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/3901
+#EXTINF:-1,RTL 8
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/3902
+#EXTINF:-1,RTL 7
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/3903
+#EXTINF:-1,RTL 5
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/3904
+#EXTINF:-1,RTL 4
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/3905
+#EXTINF:-1,NPO 3
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/3907
+#EXTINF:-1,NPO 2
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/3908
+#EXTINF:-1,NPO 1
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/3909
+#EXTINF:-1,Nickelodeon
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/3911
+#EXTINF:-1,Nick Jr
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/3910
+#EXTINF:-1,National Geographic
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/3912
+#EXTINF:-1,NET 5
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/3913
+#EXTINF:-1,JimJam
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/3914
+#EXTINF:-1,Investigation Discovery
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/3915
+#EXTINF:-1,History
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/3916
+#EXTINF:-1,HBO2
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/3918
+#EXTINF:-1,HBO 3
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/3917
+#EXTINF:-1,HBO
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/3919
+#EXTINF:-1,FOX Channel
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/3920
+#EXTINF:-1,Film1 SUNDANCE
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/3921
+#EXTINF:-1,Film1 Spotlight
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/3922
+#EXTINF:-1,Film1 Premiere
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/3923
+#EXTINF:-1,Film1 Comedy & Kids
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/3924
+#EXTINF:-1,Film1 Action
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/3925
+#EXTINF:-1,Disney Channel
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/3926
+#EXTINF:-1,Discovery Channel
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/3927
+#EXTINF:-1,Comedy Central
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/3928
+#EXTINF:-1,Boomerang
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/3929
+#EXTINF:-1,Animal Planet
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/3930
+#EXTINF:-1,13th
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/3931
