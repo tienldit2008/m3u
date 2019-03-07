@@ -1,63 +1,159 @@
 #EXTM3U
-#EXTINF:-1,Channel 5+1
-http://85.149.16.137:9981/stream/channelid/1609695449
-#EXTINF:-1,NPO1 HD
-http://85.149.16.137:9981/stream/channelid/1621458567
-#EXTINF:-1,NPO2 HD
-http://85.149.16.137:9981/stream/channelid/466477894
-#EXTINF:-1,NPO3 HD
-http://85.149.16.137:9981/stream/channelid/1743699817
-#EXTINF:-1,RTL4 HD
-http://85.149.16.137:9981/stream/channelid/1022210289
-#EXTINF:-1,RTL5 HD
-http://85.149.16.137:9981/stream/channelid/986142981
-#EXTINF:-1,SBS6 HD
-http://85.149.16.137:9981/stream/channelid/273864211
-#EXTINF:-1,RTL7 HD
-http://85.149.16.137:9981/stream/channelid/689014925
-#EXTINF:-1,RTL8 HD
-http://85.149.16.137:9981/stream/channelid/1230455654
-#EXTINF:-1,NET5 HD
-http://85.149.16.137:9981/stream/channelid/893991091
-#EXTINF:-1,Veronica/DisneyXD HD
-http://85.149.16.137:9981/stream/channelid/29595766
-#EXTINF:-1,een HD
-http://85.149.16.137:9981/stream/channelid/1559611497
-#EXTINF:-1,Canvas HD
-http://85.149.16.137:9981/stream/channelid/585568522
-#EXTINF:-1,VTM HD
-http://85.149.16.137:9981/stream/channelid/1534690448
-#EXTINF:-1,Q2 HD
-http://85.149.16.137:9981/stream/channelid/728970761
-#EXTINF:-1,VIER HD
-http://85.149.16.137:9981/stream/channelid/368325758
-#EXTINF:-1,BBC One HD
-http://85.149.16.137:9981/stream/channelid/856005258
-#EXTINF:-1,BBC Two HD
-http://85.149.16.137:9981/stream/channelid/1964158785
-#EXTINF:-1,BBC Four HD
-http://85.149.16.137:9981/stream/channelid/1592047928
-#EXTINF:-1,ITV HD
-http://85.149.16.137:9981/stream/channelid/1995287707
-#EXTINF:-1,ITV2 HD
-http://85.149.16.137:9981/stream/channelid/1778659969
-#EXTINF:-1,ITV3 HD
-http://85.149.16.137:9981/stream/channelid/1054682679
-#EXTINF:-1,ITV4 HD
-http://85.149.16.137:9981/stream/channelid/1947420014
-#EXTINF:-1,Channel 4 HD
-http://85.149.16.137:9981/stream/channelid/423553244
-#EXTINF:-1,Channel 5 HD
-http://85.149.16.137:9981/stream/channelid/1047738708
-#EXTINF:-1,FOX Sports 1 HD
-http://85.149.16.137:9981/stream/channelid/789407748
-#EXTINF:-1,FOX Sports 4 HD
-http://85.149.16.137:9981/stream/channelid/422257215
-#EXTINF:-1,Ziggo Sport Select HD
-http://85.149.16.137:9981/stream/channelid/798013593
-#EXTINF:-1,Ziggo Sport Golf
-http://85.149.16.137:9981/stream/channelid/800566920
-#EXTINF:-1,Ziggo Sport Voetbal
-http://85.149.16.137:9981/stream/channelid/127791948
-#EXTINF:-1,Eurosport 1 HD NL
-http://85.149.16.137:9981/stream/channelid/1916152619
+#EXTINF:-1,ANIMAL PLANET HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8479
+#EXTINF:-1,BABY TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8478
+#EXTINF:-1,BOOMERANG HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8477
+#EXTINF:-1,CANVAS UHD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8476
+#EXTINF:-1,CARTOON NETWORK
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8475
+#EXTINF:-1,COMEDY CENTRAL EXTRA
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8474
+#EXTINF:-1,COMEDY CENTRAL HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8473
+#EXTINF:-1,CRIME INVESTIGATION HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8472
+#EXTINF:-1,DISCOVERY HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8471
+#EXTINF:-1,DISCOVERY ID
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8470
+#EXTINF:-1,DISCOVERY SHOWCASE HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8469
+#EXTINF:-1,DISNEY CHANNEL HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8468
+#EXTINF:-1,DISNEY JUNIOR HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8467
+#EXTINF:-1,EEN TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8466
+#EXTINF:-1,EUROSPORT 1 HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8465
+#EXTINF:-1,FILM 1 ACTION HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8464
+#EXTINF:-1,FILM 1 COMEDY & KIDS HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8463
+#EXTINF:-1,FILM 1 DRAM
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8462
+#EXTINF:-1,FILM 1 FAMILY
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8461
+#EXTINF:-1,FILM 1 PREMIERE HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8460
+#EXTINF:-1,FILM 1 SPOTLIGHT
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8459
+#EXTINF:-1,FILM EUROPA
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8458
+#EXTINF:-1,FOX HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8457
+#EXTINF:-1,FOX SPORTS 1 HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8456
+#EXTINF:-1,FOX SPORTS 1 UHD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8455
+#EXTINF:-1,FOX SPORTS 2 HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8454
+#EXTINF:-1,FOX SPORTS 2 UHD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8453
+#EXTINF:-1,FOX SPORTS 3 UHD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8452
+#EXTINF:-1,FOX SPORTS 4 UHD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8451
+#EXTINF:-1,FOX SPORTS 5 UHD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8450
+#EXTINF:-1,FOX SPORTS 6 HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8449
+#EXTINF:-1,HBO
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8448
+#EXTINF:-1,HBO COMEDY
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8447
+#EXTINF:-1,HISTORY
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8446
+#EXTINF:-1,MTV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8445
+#EXTINF:-1,NAT GEO HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8444
+#EXTINF:-1,NAT GEO WILD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8443
+#EXTINF:-1,NET 5 HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8442
+#EXTINF:-1,NICK JUNIOR HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8441
+#EXTINF:-1,NICKELODEON HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8440
+#EXTINF:-1,NICKTOONS HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8439
+#EXTINF:-1,NPO 1 HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8438
+#EXTINF:-1,NPO 101 UHD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8437
+#EXTINF:-1,NPO 2 HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8436
+#EXTINF:-1,NPO 3 HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8435
+#EXTINF:-1,NPO POLITIEK
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8434
+#EXTINF:-1,NPO Zapp Xtra
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8433
+#EXTINF:-1,OMROEP BRABANT
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8432
+#EXTINF:-1,OMROEP FRYSLAN
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8431
+#EXTINF:-1,OMROEP WEST
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8430
+#EXTINF:-1,OMROEP ZEELAND
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8429
+#EXTINF:-1,ONS
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8428
+#EXTINF:-1,RTL 4 HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8427
+#EXTINF:-1,RTL 5
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8426
+#EXTINF:-1,RTL 7 UHD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8425
+#EXTINF:-1,RTL 8 UHD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8424
+#EXTINF:-1,RTL CRIME
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8423
+#EXTINF:-1,RTL LOUNGE
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8422
+#EXTINF:-1,RTL Z
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8421
+#EXTINF:-1,RTV DRENTHE HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8420
+#EXTINF:-1,RTV TOTAAL
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8419
+#EXTINF:-1,SBS 6 HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8418
+#EXTINF:-1,SBS9 HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8417
+#EXTINF:-1,SPIKE 24
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8416
+#EXTINF:-1,TLC HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8415
+#EXTINF:-1,VERONICA / DISNEY XD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8414
+#EXTINF:-1,VERONICA HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8413
+#EXTINF:-1,ZIGGO SPORT EXTRA 1
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8412
+#EXTINF:-1,ZIGGO SPORT EXTRA 2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8411
+#EXTINF:-1,ZIGGO SPORT GOLF HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8410
+#EXTINF:-1,ZIGGO SPORT RACING UHD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8409
+#EXTINF:-1,ZIGGO SPORT SELECT UHD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8408
+#EXTINF:-1,ZIGGO SPORT VOETBAL HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/8407
+#EXTINF:-1,---------HOLLANDA  KANALLARI---------
+http://avrasyatv.net:2086/kadiryildirim2/24082018/1832
+#EXTINF:-1,Fox Sports 1
+http://avrasyatv.net:2086/kadiryildirim2/24082018/1789
+#EXTINF:-1,Fox Sports 2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/1790
+#EXTINF:-1,Fox Sports 3
+http://avrasyatv.net:2086/kadiryildirim2/24082018/1791
+#EXTINF:-1,Fox Sports 4
+http://avrasyatv.net:2086/kadiryildirim2/24082018/1792
+#EXTINF:-1,Fox Sports 5
+http://avrasyatv.net:2086/kadiryildirim2/24082018/1793

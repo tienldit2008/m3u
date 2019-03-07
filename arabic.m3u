@@ -1,149 +1,1345 @@
 #EXTM3U
-#EXTINF:-1,TUNISIE_NAT1_TV
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/57.ts
-#EXTINF:-1,TUNISIE_NAT2_TV
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/58.ts
-#EXTINF:-1,Elhiwar_Ettounsi
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/91.ts
-#EXTINF:-1,ATTESSIA_TV
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/56.ts
-#EXTINF:-1,ZITOUNA
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/60.ts
-#EXTINF:-1,Dzair_TV
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/93.ts
-#EXTINF:-1,Aouala
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/55.ts
-#EXTINF:-1,2M_MAROC
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/44.ts
-#EXTINF:-1,medi1afrique
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/95.ts
-#EXTINF:-1,Libya_Hadash
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/79.ts
-#EXTINF:-1,Libya_TV
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/81.ts
-#EXTINF:-1,Libya_One
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/78.ts
-#EXTINF:-1,Libya218
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/77.ts
-#EXTINF:-1,Libya_24
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/80.ts
-#EXTINF:-1,MBC_1
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/61.ts
-#EXTINF:-1,MBC_2
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/65.ts
-#EXTINF:-1,MBC_4
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/62.ts
-#EXTINF:-1,MTV_lebenon
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/103.ts
-#EXTINF:-1,ROTANA_KHALIJIA_TV
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/125.ts
-#EXTINF:-1,BAHRAIN_SPORTS
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/140.ts
-#EXTINF:-1,BAHRAIN_QURAN
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/139.ts
-#EXTINF:-1,BAHRAIN_INTERNATIONAL
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/138.ts
-#EXTINF:-1,TOYOR_ALJANAH
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/126.ts
-#EXTINF:-1,BAHRAIN_TV
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/137.ts
-#EXTINF:-1,Al_Jazeera_Documentaire
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/46.ts
-#EXTINF:-1,Al_Arabiya
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/38.ts
-#EXTINF:-1,Al_Hadath
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/40.ts
-#EXTINF:-1,FRANCE_24_AR
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/20.ts
-#EXTINF:-1,Sky_News_Arabic
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/45.ts
-#EXTINF:-1,BBC_Arabic
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/28.ts
-#EXTINF:-1,ALAAN_TV
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/19.ts
-#EXTINF:-1,RUSSIA ALYAOUM_TV
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/88.ts
-#EXTINF:-1,hiwar_news
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/67.ts
-#EXTINF:-1,Alalam_news
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/97.ts
-#EXTINF:-1,SAUDI_ALIKHBARIYA_HD
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/3.ts
-#EXTINF:-1,Space_Toon
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/75.ts
-#EXTINF:-1,Majed_Kids
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/76.ts
+#EXTINF:-1,BeIN Sports 1 HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/2169
+#EXTINF:-1,BeIN Sports 2 HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/2164
+#EXTINF:-1,BeIN Sports 3 HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/2163
+#EXTINF:-1,BeIN Sports 4 HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/2162
+#EXTINF:-1,BeIN Sports 5 HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/2161
+#EXTINF:-1,BeIN Sports 6 HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/2160
+#EXTINF:-1,BeIN Sports 7 HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/2159
+#EXTINF:-1,BeIN Sports 8 HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/2158
+#EXTINF:-1,BeIN Sports 9 HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/2157
+#EXTINF:-1,BeIN Sports 10 HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/2168
+#EXTINF:-1,2M MAROC NATIONAL
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10401
+#EXTINF:-1,2M Monde
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10400
+#EXTINF:-1,7besha
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10399
+#EXTINF:-1,A TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10398
+#EXTINF:-1,A1 Jordan
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10397
+#EXTINF:-1,Abu Dhabi National Geo HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10396
+#EXTINF:-1,Abu Dhabi National Geo HD  2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10395
+#EXTINF:-1,Abu Dhabi National Geo HD  4
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10394
+#EXTINF:-1,Abu Dhabi National Geo HD  8
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10393
+#EXTINF:-1,Abu Dhabi TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10392
+#EXTINF:-1,Abu Dhabi TV  4
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10391
+#EXTINF:-1,AD Drama
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10390
+#EXTINF:-1,AD DRAMA HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10389
+#EXTINF:-1,AD DRAMA HD  1
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10388
+#EXTINF:-1,AD Emarate
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10387
+#EXTINF:-1,AD Sports 1
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10386
+#EXTINF:-1,AD Sports 1 HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10385
+#EXTINF:-1,AD Sports 2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10384
+#EXTINF:-1,AD Sports 2 HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10383
+#EXTINF:-1,Aden TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10382
+#EXTINF:-1,AFAQ
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10381
+#EXTINF:-1,AFLAM TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10380
+#EXTINF:-1,Afrah TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10379
+#EXTINF:-1,Aghani TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10378
+#EXTINF:-1,Aghapy TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10377
+#EXTINF:-1,Ahel Alquran
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10376
+#EXTINF:-1,AHWAZNA TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10375
+#EXTINF:-1,Ajman TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10374
+#EXTINF:-1,Al Afasy
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10373
+#EXTINF:-1,Al Ahd
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10372
+#EXTINF:-1,Al Ahly Sport
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10371
+#EXTINF:-1,Al Alam
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10370
+#EXTINF:-1,Al Anbar TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10369
+#EXTINF:-1,Al Anwar
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10368
+#EXTINF:-1,Al Anwar 2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10367
+#EXTINF:-1,AL AOULA MAROC FHD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10366
+#EXTINF:-1,Al Aoula Morroco HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10365
+#EXTINF:-1,Al Araby
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10364
+#EXTINF:-1,Al Araby 2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10363
+#EXTINF:-1,Al Assema TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10362
+#EXTINF:-1,Al Awhad TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10361
+#EXTINF:-1,Al Basira
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10360
+#EXTINF:-1,Al Ekhbaria TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10359
+#EXTINF:-1,Al Fajer TV 1
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10358
+#EXTINF:-1,Al Fajer TV 2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10357
+#EXTINF:-1,Al Falastiniah
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10356
+#EXTINF:-1,Al Fallujah
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10355
+#EXTINF:-1,Al Forat Tv
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10354
+#EXTINF:-1,Al Ghad AlArabi
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10353
+#EXTINF:-1,Al Ghad Almushreq
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10352
+#EXTINF:-1,Al Ghadeer
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10351
+#EXTINF:-1,Al Hadath Alyoum
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10350
+#EXTINF:-1,Al Hayat Musalsalat
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10349
+#EXTINF:-1,Al Hayat we alnas
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10348
+#EXTINF:-1,Al Hilal
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10347
+#EXTINF:-1,Al Hurra
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10346
+#EXTINF:-1,Al Hurra HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10345
+#EXTINF:-1,Al Hurra Iraq
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10344
+#EXTINF:-1,Al Iman
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10343
+#EXTINF:-1,Al Iraqia 1
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10342
+#EXTINF:-1,Al Istijaba TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10341
+#EXTINF:-1,Al Itejah
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10340
+#EXTINF:-1,AL Jadeed
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10339
+#EXTINF:-1,AL Jadeed  2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10338
+#EXTINF:-1,AL Jadeed  4
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10337
+#EXTINF:-1,Al Jamahiria TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10336
+#EXTINF:-1,AL Jameela
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10335
+#EXTINF:-1,AL JAZEERA
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10334
+#EXTINF:-1,Al Jazeera Documentary
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10333
+#EXTINF:-1,Al Jazeera Documentary  2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10332
+#EXTINF:-1,Al Jazeera Documentary  4
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10331
+#EXTINF:-1,Al Jazeera English
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10330
+#EXTINF:-1,AL Jazeera HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10329
+#EXTINF:-1,Al Jazeera Mubasher
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10328
+#EXTINF:-1,Al Jazeera*
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10327
+#EXTINF:-1,Al Kawthar
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10326
+#EXTINF:-1,Al Khalij TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10325
+#EXTINF:-1,Al Kofiya
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10324
+#EXTINF:-1,Al Maaly
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10323
+#EXTINF:-1,Al Maaref TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10322
+#EXTINF:-1,Al Magharibia 2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10321
+#EXTINF:-1,AL Maghribia News
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10320
+#EXTINF:-1,Al Majd 1
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10319
+#EXTINF:-1,Al Majd 3
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10318
+#EXTINF:-1,AL Majd El3lmia
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10317
+#EXTINF:-1,Al Majlis
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10316
+#EXTINF:-1,AL MALAKOOT
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10315
+#EXTINF:-1,AL MANAR
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10314
+#EXTINF:-1,Al Masrawia
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10313
+#EXTINF:-1,Al Massar
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10312
+#EXTINF:-1,Al Mawseleya
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10311
+#EXTINF:-1,Al Mayadeen TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10310
+#EXTINF:-1,AL MINBAR TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10309
+#EXTINF:-1,AL Mustakilah
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10308
+#EXTINF:-1,AL Nabaa
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10307
+#EXTINF:-1,AL Nada
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10306
+#EXTINF:-1,Al Nahar
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10305
+#EXTINF:-1,Al Nahar Drama plus
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10304
+#EXTINF:-1,Al Nas
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10303
+#EXTINF:-1,AL Osstoura
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10302
+#EXTINF:-1,Al Qanat
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10301
+#EXTINF:-1,Al Qassim
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10300
+#EXTINF:-1,Al Quds
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10299
+#EXTINF:-1,Al Qurain
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10298
+#EXTINF:-1,Al Rahma
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10297
+#EXTINF:-1,Al Rasheed
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10296
+#EXTINF:-1,Al Rayyan Al Qadeem HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10295
+#EXTINF:-1,Al Rayyan TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10294
+#EXTINF:-1,AL Resalah
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10293
+#EXTINF:-1,Al Sa3aa Comedy
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10292
+#EXTINF:-1,Al Saeeda
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10291
+#EXTINF:-1,Al Sahraa
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10290
+#EXTINF:-1,Al Seraj
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10289
+#EXTINF:-1,Al Shahed TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10288
+#EXTINF:-1,AL SHARQ TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10287
+#EXTINF:-1,Al Sharqiya News
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10286
+#EXTINF:-1,AL Sharqyia
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10285
+#EXTINF:-1,Al Shasha Drama
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10284
+#EXTINF:-1,Al Shasha Film
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10283
+#EXTINF:-1,Al Sumaria
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10282
+#EXTINF:-1,Al Tanasuh TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10281
+#EXTINF:-1,AL TEB ALBADEL
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10280
+#EXTINF:-1,Al Wa7a
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10279
+#EXTINF:-1,Al-Majd Al Hadeeth Al Nabawy
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10278
+#EXTINF:-1,AL-WAHA
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10277
+#EXTINF:-1,Alaan TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10276
+#EXTINF:-1,Alafasy
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10275
+#EXTINF:-1,Alamaken
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10274
+#EXTINF:-1,AlAmaken Drama
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10273
+#EXTINF:-1,Alarabiya
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10272
+#EXTINF:-1,Alarabiya Alhadath
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10271
+#EXTINF:-1,Alarabiya Alhadath FHD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10270
+#EXTINF:-1,Alarabiya HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10269
+#EXTINF:-1,ALBAEENAH IRAQ
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10268
+#EXTINF:-1,Albaitbaitak Cinema
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10267
+#EXTINF:-1,ALFURSAN
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10266
+#EXTINF:-1,Algerie tv4
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10265
+#EXTINF:-1,ALhayat Tv 1
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10264
+#EXTINF:-1,ALhayat Tv 2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10263
+#EXTINF:-1,Alhorreya
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10262
+#EXTINF:-1,Alistiqama
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10261
+#EXTINF:-1,ALkahera Wal Nas 1
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10260
+#EXTINF:-1,ALkahera Wal Nas 2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10259
+#EXTINF:-1,AlKarma Praise
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10258
+#EXTINF:-1,ALKASS 1
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10257
+#EXTINF:-1,ALKASS 2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10256
+#EXTINF:-1,ALKASS 4
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10255
+#EXTINF:-1,ALL TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10254
+#EXTINF:-1,Almagad TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10253
+#EXTINF:-1,ALMASA
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10252
+#EXTINF:-1,Almasriya Sat ( ESC )
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10251
+#EXTINF:-1,Almasriyah 1
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10250
+#EXTINF:-1,ALmasriyah 2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10249
+#EXTINF:-1,AlNahar  2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10248
+#EXTINF:-1,Alnahar  4
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10247
+#EXTINF:-1,Alnahar Drama
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10246
+#EXTINF:-1,Alnahar Drama  2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10245
+#EXTINF:-1,Alnahar Drama  4
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10244
+#EXTINF:-1,ALNASSAR CHAD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10243
+#EXTINF:-1,ALORDON ALYOOM
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10242
+#EXTINF:-1,Alostora
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10241
+#EXTINF:-1,Alqassim
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10240
+#EXTINF:-1,Alrai TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10239
+#EXTINF:-1,Alsahat
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10238
+#EXTINF:-1,ALSALAM
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10237
+#EXTINF:-1,Alsharjah HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10236
+#EXTINF:-1,Alsharjah Sport
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10235
+#EXTINF:-1,Alsharqiya HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10234
+#EXTINF:-1,Alsharqiya News HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10233
+#EXTINF:-1,Altaghier
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10232
+#EXTINF:-1,ALTALEAA TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10231
+#EXTINF:-1,Alwadi TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10230
+#EXTINF:-1,Amhara TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10229
+#EXTINF:-1,Amman TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10228
+#EXTINF:-1,ANB
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10227
+#EXTINF:-1,ANB TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10226
+#EXTINF:-1,Angel TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10225
+#EXTINF:-1,ANN
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10224
+#EXTINF:-1,Arabica TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10223
+#EXTINF:-1,Arrabia
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10222
+#EXTINF:-1,Arriadia FHD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10221
+#EXTINF:-1,ARRIADIA HD LIVE
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10220
+#EXTINF:-1,ARRIADIA MAROC
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10219
+#EXTINF:-1,ARRIADIA TNT
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10218
+#EXTINF:-1,ASAYEL TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10217
+#EXTINF:-1,Ashorooq TV ( Sudan )
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10216
+#EXTINF:-1,ASIA News
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10215
+#EXTINF:-1,Assadissa
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10214
+#EXTINF:-1,Atfal w Mawaheb
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10213
+#EXTINF:-1,Awdeh
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10212
+#EXTINF:-1,Azhari
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10211
+#EXTINF:-1,B4U Aflam
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10210
+#EXTINF:-1,B4U Aflam  4
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10209
+#EXTINF:-1,B4U Plus
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10208
+#EXTINF:-1,BABY CHANNEL
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10207
+#EXTINF:-1,Bahia TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10206
+#EXTINF:-1,Bahrain International
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10205
+#EXTINF:-1,Bahrain Quran
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10204
+#EXTINF:-1,Bahrain Sports 1
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10203
+#EXTINF:-1,Bahrain Sports 2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10202
+#EXTINF:-1,Bahrain TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10201
+#EXTINF:-1,Baynounah TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10200
+#EXTINF:-1,BBC Arabic
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10199
+#EXTINF:-1,BBC World News
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10198
+#EXTINF:-1,Beity TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10197
+#EXTINF:-1,Beladi
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10196
+#EXTINF:-1,BELODY AFLAM
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10195
+#EXTINF:-1,Belqees
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10194
+#EXTINF:-1,Berbere Jeunesse
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10193
+#EXTINF:-1,Berbere Music
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10192
+#EXTINF:-1,Berbere TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10191
+#EXTINF:-1,BLUE NILE
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10190
+#EXTINF:-1,CA TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10189
+#EXTINF:-1,Cairo Cinema
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10188
+#EXTINF:-1,Cairo Drama
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10187
+#EXTINF:-1,Canal Algerie
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10186
+#EXTINF:-1,CATV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10185
+#EXTINF:-1,CBC
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10184
+#EXTINF:-1,CBC  2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10183
+#EXTINF:-1,CBC  4
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10182
+#EXTINF:-1,CBC  8
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10181
+#EXTINF:-1,CBC Benna
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10180
+#EXTINF:-1,CBC Drama
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10179
+#EXTINF:-1,CBC Drama  2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10178
+#EXTINF:-1,CBC Drama  4
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10177
+#EXTINF:-1,CBC Sofra
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10176
+#EXTINF:-1,CBC Sofra  2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10175
+#EXTINF:-1,CHAMS TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10174
+#EXTINF:-1,Christ Army
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10173
+#EXTINF:-1,Christ TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10172
+#EXTINF:-1,Cima
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10171
+#EXTINF:-1,Cima  2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10170
+#EXTINF:-1,Cima  4
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10169
+#EXTINF:-1,Cinema Alibaba
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10168
+#EXTINF:-1,Cinema Pro
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10167
+#EXTINF:-1,Cinema Pro  2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10166
+#EXTINF:-1,Cinema Pro  4
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10165
+#EXTINF:-1,Citruss TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10164
+#EXTINF:-1,CN Arabia
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10163
+#EXTINF:-1,CN Arabia  2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10162
+#EXTINF:-1,CN Arabia  4
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10161
+#EXTINF:-1,CNBC Arabiya
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10160
+#EXTINF:-1,CNN
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10159
+#EXTINF:-1,DAAWAH TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10158
+#EXTINF:-1,Daloaa
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10157
+#EXTINF:-1,Dijlah TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10156
+#EXTINF:-1,Direct
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10155
+#EXTINF:-1,Diwan TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10154
+#EXTINF:-1,dmc DRAMA HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10153
+#EXTINF:-1,dmc DRAMA HD  2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10152
+#EXTINF:-1,dmc DRAMA HD  4
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10151
+#EXTINF:-1,dmc HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10150
+#EXTINF:-1,dmc HD  2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10149
+#EXTINF:-1,dmc HD  4
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10148
+#EXTINF:-1,DMC Sports
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10147
+#EXTINF:-1,DMC Sports HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10146
+#EXTINF:-1,DOLLY MOSALSALAT
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10145
+#EXTINF:-1,DR.ABO ELNASR
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10144
+#EXTINF:-1,Dream TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10143
+#EXTINF:-1,Dream TV 2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10142
+#EXTINF:-1,DUA CHANNEL
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10141
+#EXTINF:-1,Dubai 1
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10140
+#EXTINF:-1,Dubai 1  2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10139
+#EXTINF:-1,Dubai 1  4
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10138
+#EXTINF:-1,Dubai HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10137
+#EXTINF:-1,Dubai One
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10136
+#EXTINF:-1,Dubai One  2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10135
+#EXTINF:-1,Dubai One  4
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10134
+#EXTINF:-1,Dubai Racing 2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10133
+#EXTINF:-1,Dubai Racing 3
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10132
+#EXTINF:-1,Dubai Sport 3 HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10131
+#EXTINF:-1,Dubai Sports 1
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10130
+#EXTINF:-1,Dubai Zaman
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10129
+#EXTINF:-1,DW TV Arabia
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10128
+#EXTINF:-1,Dzaier News
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10127
+#EXTINF:-1,Dzair 25
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10126
+#EXTINF:-1,Dzair Jannah
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10125
+#EXTINF:-1,Dzair TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10124
+#EXTINF:-1,Echorouk TV HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10123
+#EXTINF:-1,El Adjwaa TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10122
+#EXTINF:-1,El Bilad TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10121
+#EXTINF:-1,EL Djazairia
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10120
+#EXTINF:-1,El Eiman
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10119
+#EXTINF:-1,El Moled TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10118
+#EXTINF:-1,El Shaddai
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10117
+#EXTINF:-1,ELFADJR TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10116
+#EXTINF:-1,ElHayat TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10115
+#EXTINF:-1,Elheddaf ( algerie )
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10114
+#EXTINF:-1,Elqubba Elkhedhra
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10113
+#EXTINF:-1,Ennahar TV Algerie
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10112
+#EXTINF:-1,ESTV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10111
+#EXTINF:-1,ETIHAD TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10110
+#EXTINF:-1,Extra News
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10109
+#EXTINF:-1,Falak Sat
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10108
+#EXTINF:-1,FAMILY DRAMA
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10107
+#EXTINF:-1,FM TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10106
+#EXTINF:-1,France 24 Arabic
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10105
+#EXTINF:-1,France 24 EN
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10104
+#EXTINF:-1,Free TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10103
+#EXTINF:-1,FUJAIRAH TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10102
+#EXTINF:-1,Funoon TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10101
+#EXTINF:-1,Future TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10100
+#EXTINF:-1,GEM Arabia HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10099
+#EXTINF:-1,Green Life
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10098
+#EXTINF:-1,GTV Elbehara
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10097
+#EXTINF:-1,Hawacom
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10096
+#EXTINF:-1,Hawas TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10095
+#EXTINF:-1,HEKAYA TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10094
+#EXTINF:-1,Heya tv
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10093
+#EXTINF:-1,Hiwar tv
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10092
+#EXTINF:-1,HodHod TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10091
+#EXTINF:-1,Ifilm Arabic
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10090
+#EXTINF:-1,Imagine Movies
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10089
+#EXTINF:-1,IMAM REDA TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10088
 #EXTINF:-1,Iqraa
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/68.ts
-#EXTINF:-1,Makkah_TV
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/89.ts
-#EXTINF:-1,SAUDI_SONNA_HD
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/5.ts
-#EXTINF:-1,SAUDI_QURAN_HD
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/4.ts
-#EXTINF:-1,SAUDI_THAKAFIYA_HD
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/6.ts
-#EXTINF:-1,DUBAI_ONE_HD
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/15.ts
-#EXTINF:-1,ABUDHABI_Emirat
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/70.ts
-#EXTINF:-1,AD_Drama
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/69.ts
-#EXTINF:-1,CBC_Drama
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/42.ts
-#EXTINF:-1,Nahar_Drama_Egypt
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/72.ts
-#EXTINF:-1,Palestine
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/101.ts
-#EXTINF:-1,ALMAYADEEN_TV
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/87.ts
-#EXTINF:-1,TRT_Arabiya
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/73.ts
-#EXTINF:-1,Nahar_TV_Egypt
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/71.ts
-#EXTINF:-1,Jordon_TV
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/74.ts
-#EXTINF:-1,ALCHARQIYA
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/98.ts
-#EXTINF:-1,Al_Manar_TV
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/54.ts
-#EXTINF:-1,ALRAI_TV
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/50.ts
-#EXTINF:-1,Syrian_Drama
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/29.ts
-#EXTINF:-1,SAMA_SYRIA
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/36.ts
-#EXTINF:-1,SHARQIYA_TV
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/37.ts
-#EXTINF:-1,ON_E
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/43.ts
-#EXTINF:-1,Qatar_TV_HD
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/27.ts
-#EXTINF:-1,ABU_DHABI_TV
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/53.ts
-#EXTINF:-1,SAUDI_2_HD
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/1.ts
-#EXTINF:-1,SAUDI_1_HD
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/2.ts
-#EXTINF:-1,SAMA_DUBAI_HD
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/12.ts
-#EXTINF:-1,NOUR_DUBAI
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/16.ts
-#EXTINF:-1,FUTURE_TV
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/17.ts
-#EXTINF:-1,DW_AR
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/22.ts
-#EXTINF:-1,DUBAI_ZAMAN
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/11.ts
-#EXTINF:-1,DUBAI_TV_HD
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/10.ts
-#EXTINF:-1,SHARJAH_SPORTS
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/39.ts
-#EXTINF:-1,SAUDI_RIYADHIYA_1_HD
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/9.ts
-#EXTINF:-1,DUBAI_RACING_1_HD
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/13.ts
-#EXTINF:-1,DUBAI_RACING_2_HD
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/14.ts
-#EXTINF:-1,DUBAI_SPORTS_3_HD
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/18.ts
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10087
+#EXTINF:-1,Iraq Future
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10086
+#EXTINF:-1,Iraq News
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10085
+#EXTINF:-1,Iraqia News
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10084
+#EXTINF:-1,Iraqia News HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10083
+#EXTINF:-1,Iraqia Sport
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10082
+#EXTINF:-1,Iraqiya TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10081
+#EXTINF:-1,Ishtar TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10080
+#EXTINF:-1,JAM3TNA TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10079
+#EXTINF:-1,Jesus TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10078
+#EXTINF:-1,JORDAN SAMA
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10077
+#EXTINF:-1,Jordan Sport
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10076
+#EXTINF:-1,Jordan TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10075
+#EXTINF:-1,Kaif tv
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10074
+#EXTINF:-1,kana tv
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10073
+#EXTINF:-1,Karameesh
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10072
+#EXTINF:-1,Karbala Tv
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10071
+#EXTINF:-1,Kassala TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10070
+#EXTINF:-1,Khaleej Al Arab TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10069
+#EXTINF:-1,Khartoum TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10068
+#EXTINF:-1,kokky tv
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10067
+#EXTINF:-1,KTV Al Arabi
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10066
+#EXTINF:-1,KTV Ethraa
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10065
+#EXTINF:-1,Kuwait Sport
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10064
+#EXTINF:-1,Kuwait Sport Plus
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10063
+#EXTINF:-1,Kuwait TV 1
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10062
+#EXTINF:-1,Kuwait TV 1 HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10061
+#EXTINF:-1,Kuwait TV 2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10060
+#EXTINF:-1,Lana TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10059
+#EXTINF:-1,Lana TV  1
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10058
+#EXTINF:-1,Lana TV  2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10057
+#EXTINF:-1,Lana TV  4
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10056
+#EXTINF:-1,LBC Europa
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10055
+#EXTINF:-1,LBC SAT
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10054
+#EXTINF:-1,LBC SAT  2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10053
+#EXTINF:-1,LBC SAT  4
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10052
+#EXTINF:-1,LDC
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10051
+#EXTINF:-1,LDC  2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10050
+#EXTINF:-1,LDC  4
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10049
+#EXTINF:-1,Libya 218 News
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10048
+#EXTINF:-1,Libya Al Ahrar
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10047
+#EXTINF:-1,Libya Al Hadath
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10046
+#EXTINF:-1,LIBYA ALHADATH
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10045
+#EXTINF:-1,Libya Channel
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10044
+#EXTINF:-1,Libya elwatan
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10043
+#EXTINF:-1,Libya Panorama TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10042
+#EXTINF:-1,Libya Rsmia
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10041
+#EXTINF:-1,Libya Sport
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10040
+#EXTINF:-1,Libya TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10039
+#EXTINF:-1,Libyas Channel
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10038
+#EXTINF:-1,Logos TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10037
+#EXTINF:-1,LTC
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10036
+#EXTINF:-1,LTC  2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10035
+#EXTINF:-1,Lybia 218
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10034
+#EXTINF:-1,M CINEMA
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10033
+#EXTINF:-1,Majan
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10032
+#EXTINF:-1,Majid Kids TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10031
+#EXTINF:-1,Mara7 TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10030
+#EXTINF:-1,Marcil TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10029
+#EXTINF:-1,Maroc Alaoula Inter HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10028
+#EXTINF:-1,Maroc Arriadia
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10027
+#EXTINF:-1,Maroc Tamazight
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10026
+#EXTINF:-1,MASDAR TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10025
+#EXTINF:-1,Maspero Zaman
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10024
+#EXTINF:-1,Masr alhayah
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10023
+#EXTINF:-1,Mazazik tv
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10022
+#EXTINF:-1,Mazzika TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10021
+#EXTINF:-1,MBC  Drama FHD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10458
+#EXTINF:-1,MBC  Drama HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10457
+#EXTINF:-1,MBC  Drama HD  1
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10456
+#EXTINF:-1,MBC  Variety HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10455
+#EXTINF:-1,MBC  Variety HD  1
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10454
+#EXTINF:-1,MBC 1
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10478
+#EXTINF:-1,MBC 1  2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10477
+#EXTINF:-1,MBC 1  4
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10476
+#EXTINF:-1,MBC 1  8
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10475
+#EXTINF:-1,MBC 1 Europe
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10474
+#EXTINF:-1,MBC 1 HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10480
+#EXTINF:-1,MBC 1 HD  1
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10479
+#EXTINF:-1,MBC 2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10472
+#EXTINF:-1,MBC 2  2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10471
+#EXTINF:-1,MBC 2  4
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10470
+#EXTINF:-1,MBC 2  8
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10469
+#EXTINF:-1,MBC 3
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10465
+#EXTINF:-1,MBC 3  2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10464
+#EXTINF:-1,MBC 3  4
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10463
+#EXTINF:-1,MBC 4
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10462
+#EXTINF:-1,MBC 4  2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10461
+#EXTINF:-1,MBC 4  4
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10460
+#EXTINF:-1,MBC 4  8
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10459
+#EXTINF:-1,MBC Action
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10448
+#EXTINF:-1,MBC Action  2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10447
+#EXTINF:-1,MBC Action  4
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10446
+#EXTINF:-1,MBC Action  8
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10445
+#EXTINF:-1,MBC Action HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10453
+#EXTINF:-1,MBC BOLLYWOOD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10444
+#EXTINF:-1,MBC BOLLYWOOD  2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10443
+#EXTINF:-1,MBC BOLLYWOOD  4
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10442
+#EXTINF:-1,MBC BOLLYWOOD  8
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10441
+#EXTINF:-1,MBC Boolywood HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10452
+#EXTINF:-1,MBC DRAMA
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10440
+#EXTINF:-1,MBC DRAMA  2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10439
+#EXTINF:-1,MBC DRAMA  4
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10438
+#EXTINF:-1,MBC DRAMA  8
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10437
+#EXTINF:-1,MBC Drama HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10451
+#EXTINF:-1,MBC Drama HD  1
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10450
+#EXTINF:-1,MBC MASR
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10436
+#EXTINF:-1,MBC MASR  2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10435
+#EXTINF:-1,MBC MASR  4
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10434
+#EXTINF:-1,MBC MASR  8
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10433
+#EXTINF:-1,MBC MASR 2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10432
+#EXTINF:-1,MBC MASR 2  2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10431
+#EXTINF:-1,MBC MASR 2  4
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10430
+#EXTINF:-1,MBC MASR 2  8
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10429
+#EXTINF:-1,MBC MAX
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10428
+#EXTINF:-1,MBC MAX  2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10427
+#EXTINF:-1,MBC MAX  4
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10426
+#EXTINF:-1,MBC MAX  8
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10425
+#EXTINF:-1,MBC Max HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10449
+#EXTINF:-1,MBC Plus Drama HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10405
+#EXTINF:-1,MBC Plus Drama HD  2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10404
+#EXTINF:-1,MBC Plus Drama HD  4
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10403
+#EXTINF:-1,MBC Plus Drama HD  8
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10402
+#EXTINF:-1,MBCode
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10424
+#EXTINF:-1,MD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10020
+#EXTINF:-1,Mecca
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10019
+#EXTINF:-1,Medi 1 TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10018
+#EXTINF:-1,Medi1 Afrique
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10017
+#EXTINF:-1,Medi1 HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10016
+#EXTINF:-1,Mehwer
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10015
+#EXTINF:-1,Mehwer  2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10014
+#EXTINF:-1,Mekameleen TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10013
+#EXTINF:-1,Melody Classic
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10012
+#EXTINF:-1,Menhag AlNbowa
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10011
+#EXTINF:-1,MESat
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10010
+#EXTINF:-1,Miracle TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10009
+#EXTINF:-1,Mody Kids
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10008
+#EXTINF:-1,Mosalsalat Tube
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10007
+#EXTINF:-1,Mta3 Alarabiyah
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10006
+#EXTINF:-1,MTV Lebanon  2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10005
+#EXTINF:-1,MTV Lebanon HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10004
+#EXTINF:-1,Music Al Haneen
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10003
+#EXTINF:-1,Music Al Remas
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10002
+#EXTINF:-1,Music Alarrab
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10001
+#EXTINF:-1,Music Alremas
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10000
+#EXTINF:-1,Nabaa TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9999
+#EXTINF:-1,Nabath Syria
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9998
+#EXTINF:-1,Nat Geo Kids
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9997
+#EXTINF:-1,Nat Geo Kids  1
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9996
+#EXTINF:-1,Nat Geo Kids Abu Dhabi
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9995
+#EXTINF:-1,NBN TV HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9994
+#EXTINF:-1,NBN TV HD  2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9993
+#EXTINF:-1,NBN TV HD  4
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9992
+#EXTINF:-1,Neelain Sport
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9991
+#EXTINF:-1,NHK World
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9990
+#EXTINF:-1,NILE CINEMA
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9989
+#EXTINF:-1,NILE CINEMA  2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9988
+#EXTINF:-1,NILE COMEDY
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9987
+#EXTINF:-1,NILE COMEDY  2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9986
+#EXTINF:-1,Nile Culture
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9985
+#EXTINF:-1,Nile Drama
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9984
+#EXTINF:-1,Nile Drama  2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9983
+#EXTINF:-1,Nile Family
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9982
+#EXTINF:-1,Nile Life
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9981
+#EXTINF:-1,Nile News
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9980
+#EXTINF:-1,NILE SPORT
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9979
+#EXTINF:-1,Nile TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9978
+#EXTINF:-1,Njoom Hollywood
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9977
+#EXTINF:-1,Nogoum FM TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9976
+#EXTINF:-1,Noor Dubai
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9975
+#EXTINF:-1,Nour Al Sham TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9974
+#EXTINF:-1,Nour Dubai
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9973
+#EXTINF:-1,NOUR TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9972
+#EXTINF:-1,Noursat
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9971
+#EXTINF:-1,Noursat Alchabab
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9970
+#EXTINF:-1,Numidia News
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9969
+#EXTINF:-1,Oman TV Culture HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9968
+#EXTINF:-1,Oman TV General HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9967
+#EXTINF:-1,Oman TV HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9966
+#EXTINF:-1,Oman TV Live HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9965
+#EXTINF:-1,Oman TV Sport HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9964
+#EXTINF:-1,ON Drama
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9963
+#EXTINF:-1,ON Drama  1
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9962
+#EXTINF:-1,ON E HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9961
+#EXTINF:-1,ON E HD  2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9960
+#EXTINF:-1,ON E HD  4
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9959
+#EXTINF:-1,ON live HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9958
+#EXTINF:-1,ON SPORT
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9957
+#EXTINF:-1,ON Sport HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9956
+#EXTINF:-1,ON Sports 2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9955
+#EXTINF:-1,Orient News
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9954
+#EXTINF:-1,Oscar TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9953
+#EXTINF:-1,OTV Lebanon
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9952
+#EXTINF:-1,OTV Lebanon  2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9951
+#EXTINF:-1,Oyoon Alwatan
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9950
+#EXTINF:-1,Palestine live
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9949
+#EXTINF:-1,Palestine News
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9948
+#EXTINF:-1,Palestine today
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9947
+#EXTINF:-1,Palestine tv
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9946
+#EXTINF:-1,Palestinian TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9945
+#EXTINF:-1,Panorama Drama
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9944
+#EXTINF:-1,Panorama Drama2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9943
+#EXTINF:-1,Panorama Film
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9942
+#EXTINF:-1,Panorama Food
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9941
+#EXTINF:-1,Panoroma Food
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9940
+#EXTINF:-1,Presence TV Channel
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9939
+#EXTINF:-1,Press TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9938
+#EXTINF:-1,Press tv FHD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9937
+#EXTINF:-1,Prog Nat
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9936
+#EXTINF:-1,Qatar TV HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9935
+#EXTINF:-1,Quest arabiya
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9934
+#EXTINF:-1,Quest arabiya  2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9933
+#EXTINF:-1,Quest arabiya  4
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9932
+#EXTINF:-1,Quest arabiya  8
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9931
+#EXTINF:-1,Quran TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9930
+#EXTINF:-1,Resalat AL Islam
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9929
+#EXTINF:-1,Ronahi TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9928
+#EXTINF:-1,Rotana Aflam
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9927
+#EXTINF:-1,Rotana Cinema
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9926
+#EXTINF:-1,Rotana cinema  2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9925
+#EXTINF:-1,Rotana cinema  4
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9924
+#EXTINF:-1,Rotana cinema ( ksa )
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9923
+#EXTINF:-1,Rotana Classic
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9922
+#EXTINF:-1,Rotana Classic  2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9921
+#EXTINF:-1,Rotana Classic  4
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9920
+#EXTINF:-1,Rotana Clip
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9919
+#EXTINF:-1,Rotana Drama
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9918
+#EXTINF:-1,Rotana Drama  1
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9917
+#EXTINF:-1,Rotana Khalijiah
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9916
+#EXTINF:-1,Rotana Khalijiah  2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9915
+#EXTINF:-1,Rotana Khalijiah  4
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9914
+#EXTINF:-1,Rotana Music
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9913
+#EXTINF:-1,Roya
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9912
+#EXTINF:-1,RT ARABIC
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9911
+#EXTINF:-1,RT Arabic HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9910
+#EXTINF:-1,Sada El Balad 2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9909
+#EXTINF:-1,Sada El Balad HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9908
+#EXTINF:-1,Sada Elbalad Drama
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9907
+#EXTINF:-1,Sada Elbalad Drama  2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9906
+#EXTINF:-1,Safa TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9905
+#EXTINF:-1,Saha
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9904
+#EXTINF:-1,Sahar India
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9903
+#EXTINF:-1,SAHAR TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9902
+#EXTINF:-1,Sama Dubai
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9901
+#EXTINF:-1,Sama TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9900
+#EXTINF:-1,Samira TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9899
+#EXTINF:-1,sat-7 Arabic
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9898
+#EXTINF:-1,sat-7 kids
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9897
+#EXTINF:-1,Saudi 1
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9896
+#EXTINF:-1,Saudi 1 HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9895
+#EXTINF:-1,SAUDI 24
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9894
+#EXTINF:-1,Saudi AlHaj
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9893
+#EXTINF:-1,SAUDI ENJAZAT
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9892
+#EXTINF:-1,SAUDI FAMILY
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9891
+#EXTINF:-1,Saudi Quraan
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9890
+#EXTINF:-1,Saudi Quran
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9889
+#EXTINF:-1,Saudi Quran HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9888
+#EXTINF:-1,Saudi Sport 1 HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9887
+#EXTINF:-1,Saudi Sport 2 HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9886
+#EXTINF:-1,Saudi Sunnah
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9885
+#EXTINF:-1,Sawt Alitra TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9884
+#EXTINF:-1,SBC HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9883
+#EXTINF:-1,Scare TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9882
+#EXTINF:-1,Scope TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9881
+#EXTINF:-1,Semsem
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9880
+#EXTINF:-1,Sha3beyat
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9879
+#EXTINF:-1,Shabab TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9878
+#EXTINF:-1,Shahrazad Alkher
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9877
+#EXTINF:-1,Sham TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9876
+#EXTINF:-1,SHANPOO AFLAM
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9875
+#EXTINF:-1,Sharjah Sport HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9874
+#EXTINF:-1,Sharjah TV HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9873
+#EXTINF:-1,SHARO5AN HINDI
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9872
+#EXTINF:-1,Sheba TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9871
+#EXTINF:-1,Sky News Arabia
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9870
+#EXTINF:-1,Sky News Arabiya HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9869
+#EXTINF:-1,Sout Alarab
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9868
+#EXTINF:-1,Sout Masr
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9867
+#EXTINF:-1,SPACETOON
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9866
+#EXTINF:-1,SPACETOON  2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9865
+#EXTINF:-1,SPACETOON  4
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9864
+#EXTINF:-1,SPACETOON  8
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9863
+#EXTINF:-1,Star Cinema 1
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9862
+#EXTINF:-1,Star Cinema 2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9861
+#EXTINF:-1,Sudan Drama
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9860
+#EXTINF:-1,Sudan Knowledge
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9859
+#EXTINF:-1,Sudan Music
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9858
+#EXTINF:-1,SUDAN SPORT
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9857
+#EXTINF:-1,Sudan TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9856
+#EXTINF:-1,Sudania24
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9855
+#EXTINF:-1,Sumaria
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9854
+#EXTINF:-1,SYRIA FM
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9853
+#EXTINF:-1,Syria News
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9852
+#EXTINF:-1,SYRIA TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9851
+#EXTINF:-1,Syrian Drama TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9850
+#EXTINF:-1,SYRIAN EDUCATION
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9849
+#EXTINF:-1,Syrian TV HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9848
+#EXTINF:-1,Tamazight
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9847
+#EXTINF:-1,Tanasoh tv
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9846
+#EXTINF:-1,TANASUH TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9845
+#EXTINF:-1,Tatt7
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9844
+#EXTINF:-1,Tayba TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9843
+#EXTINF:-1,Tele liban TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9842
+#EXTINF:-1,Télé Maroc
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9841
+#EXTINF:-1,TEN
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9840
+#EXTINF:-1,TEN  2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9839
+#EXTINF:-1,Time Cinema
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9838
+#EXTINF:-1,Tok Tok Aflam
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9837
+#EXTINF:-1,Toktok Cima
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9836
+#EXTINF:-1,Toyor Baby
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9835
+#EXTINF:-1,Toyor-aljanah
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9834
+#EXTINF:-1,TRP Mix
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9833
+#EXTINF:-1,TRT Elarabiye
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9832
+#EXTINF:-1,TV Tamazight
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9831
+#EXTINF:-1,TV5 Maghreb Orient
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9830
+#EXTINF:-1,VIP MBC  Variety HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10423
+#EXTINF:-1,VIP MBC 1 HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10422
+#EXTINF:-1,VIP MBC 1 HD  2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10421
+#EXTINF:-1,VIP MBC 2 HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10420
+#EXTINF:-1,VIP MBC 2 HD  2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10419
+#EXTINF:-1,VIP MBC 3 HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10418
+#EXTINF:-1,VIP MBC 3 HD  2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10417
+#EXTINF:-1,VIP MBC 4 HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10416
+#EXTINF:-1,VIP MBC 4 HD  2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10415
+#EXTINF:-1,VIP MBC Action HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10414
+#EXTINF:-1,VIP MBC Action HD  2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10413
+#EXTINF:-1,VIP MBC BOLLYWOOD HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10412
+#EXTINF:-1,VIP MBC BOLLYWOOD HD  2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10411
+#EXTINF:-1,VIP MBC Drama HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10410
+#EXTINF:-1,VIP MBC Drama HD  2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10409
+#EXTINF:-1,VIP MBC Max HD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10408
+#EXTINF:-1,VIP MBC Max HD  2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10407
+#EXTINF:-1,VIP MBC Variety HD  2
+http://avrasyatv.net:2086/kadiryildirim2/24082018/10406
+#EXTINF:-1,Wasitakom TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9829
+#EXTINF:-1,Watan TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9828
+#EXTINF:-1,Watan TV FHD
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9827
+#EXTINF:-1,Wessal Tv
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9826
+#EXTINF:-1,Yemen Education
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9825
+#EXTINF:-1,Yemen Sama
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9824
+#EXTINF:-1,Yemen Shabab
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9823
+#EXTINF:-1,Yemen Today
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9822
+#EXTINF:-1,Yemen TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9821
+#EXTINF:-1,ZAD TV
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9820
+#EXTINF:-1,ZEE AFLAM
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9819
+#EXTINF:-1,ZEE AFLAM  4
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9818
+#EXTINF:-1,ZEE ALWAN
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9817
+#EXTINF:-1,ZEE ALWAN  4
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9816
+#EXTINF:-1,Zweina Beladna
+http://avrasyatv.net:2086/kadiryildirim2/24082018/9815
