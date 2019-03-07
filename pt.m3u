@@ -1,354 +1,220 @@
-#EXTINF:0,RTP 1 HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/105
-#EXTINF:0,PT:RTP1 LOW
-http://tv.hotboxtv.net:8000/madagascar/madagascar/4453
-#EXTINF:0,PT: RTP 1  FHD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/4461
-#EXTINF:0,RTP2
-http://tv.hotboxtv.net:8000/madagascar/madagascar/104
-#EXTINF:0,RTP 2 HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/103
-#EXTINF:0,SIC HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/101
-#EXTINF:0,PT: SIC  (net baixa)
-http://tv.hotboxtv.net:8000/madagascar/madagascar/4592
-#EXTINF:0,TVi
-http://tv.hotboxtv.net:8000/madagascar/madagascar/100
-#EXTINF:0,TVI HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/99
-#EXTINF:0,PT: TVI (LOCAL)
-http://tv.hotboxtv.net:8000/madagascar/madagascar/4440
-#EXTINF:0,PT: TVI  (net baixa)
-http://tv.hotboxtv.net:8000/madagascar/madagascar/4459
-#EXTINF:0,TVI SD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/2403
-#EXTINF:0,PT: TVIFICCAO SD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/4996
-#EXTINF:0,TVI REALITY
-http://tv.hotboxtv.net:8000/madagascar/madagascar/91
-#EXTINF:0,PT: TVI REALITY (LOCAL)
-http://tv.hotboxtv.net:8000/madagascar/madagascar/4442
-#EXTINF:0,PT: TVI REALITY CAMARA 1
-http://tv.hotboxtv.net:8000/madagascar/madagascar/5019
-#EXTINF:0,PT: TVI REALITY CAMARA 2
-http://tv.hotboxtv.net:8000/madagascar/madagascar/5020
-#EXTINF:0,PT: TVI REALITY CAMARA 3
-http://tv.hotboxtv.net:8000/madagascar/madagascar/5021
-#EXTINF:0,PT: TVI REALITY CAMARA 4
-http://tv.hotboxtv.net:8000/madagascar/madagascar/5022
-#EXTINF:0,SIC CARAS
-http://tv.hotboxtv.net:8000/madagascar/madagascar/90
-#EXTINF:0,SIC RADICAL
-http://tv.hotboxtv.net:8000/madagascar/madagascar/85
-#EXTINF:0,SIC MULHER
-http://tv.hotboxtv.net:8000/madagascar/madagascar/89
-#EXTINF:0,RTP3
-http://tv.hotboxtv.net:8000/madagascar/madagascar/95
-#EXTINF:0,RTP ACORES
-http://tv.hotboxtv.net:8000/madagascar/madagascar/127
-#EXTINF:0,RTP AFRICA
-http://tv.hotboxtv.net:8000/madagascar/madagascar/128
-#EXTINF:0,RTP Int.
-http://tv.hotboxtv.net:8000/madagascar/madagascar/133
-#EXTINF:0,RTP MADEIRA
-http://tv.hotboxtv.net:8000/madagascar/madagascar/129
-#EXTINF:0,RTP MEMORIA
-http://tv.hotboxtv.net:8000/madagascar/madagascar/117
-#EXTINF:0,CMTV
-http://tv.hotboxtv.net:8000/madagascar/madagascar/96
-#EXTINF:0,CMTV HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/2115
-#EXTINF:0,PT:TVI 24SD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/4450
-#EXTINF:0,TVI 24
-http://tv.hotboxtv.net:8000/madagascar/madagascar/97
-#EXTINF:0,SIC NOTICIAS
-http://tv.hotboxtv.net:8000/madagascar/madagascar/98
-#EXTINF:0,E!
-http://tv.hotboxtv.net:8000/madagascar/madagascar/126
-#EXTINF:0,SIC k
-http://tv.hotboxtv.net:8000/madagascar/madagascar/78
-#EXTINF:0,BABY  FIRST
-http://tv.hotboxtv.net:8000/madagascar/madagascar/73
-#EXTINF:0,BABY TV
-http://tv.hotboxtv.net:8000/madagascar/madagascar/74
-#EXTINF:0,CANAL PANDA
-http://tv.hotboxtv.net:8000/madagascar/madagascar/79
-#EXTINF:0,Disney Channel
-http://tv.hotboxtv.net:8000/madagascar/madagascar/81
-#EXTINF:0,DISNEY JUNIOR
-http://tv.hotboxtv.net:8000/madagascar/madagascar/80
-#EXTINF:0,Nickelodeon
-http://tv.hotboxtv.net:8000/madagascar/madagascar/76
-#EXTINF:0,CARTOON NETWORK
-http://tv.hotboxtv.net:8000/madagascar/madagascar/125
-#EXTINF:0,PANDA BIGGS
-http://tv.hotboxtv.net:8000/madagascar/madagascar/77
-#EXTINF:0,JIM JAM
-http://tv.hotboxtv.net:8000/madagascar/madagascar/75
-#EXTINF:0,TV CINE 1
-http://tv.hotboxtv.net:8000/madagascar/madagascar/46
-#EXTINF:0,TV CINE 2
-http://tv.hotboxtv.net:8000/madagascar/madagascar/45
-#EXTINF:0,TV CINE 3
-http://tv.hotboxtv.net:8000/madagascar/madagascar/44
-#EXTINF:0,TV CINE 4
-http://tv.hotboxtv.net:8000/madagascar/madagascar/43
-#EXTINF:0,TV SERIES
-http://tv.hotboxtv.net:8000/madagascar/madagascar/23
-#EXTINF:0,TV CINE 1 HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/42
-#EXTINF:0,TV CINE 2 HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/41
-#EXTINF:0,TV CINE 3 HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/40
-#EXTINF:0,TV CINE 4 HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/39
-#EXTINF:0,HOLLYWOOD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/38
-#EXTINF:0,HOLLYWOOD HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/37
-#EXTINF:0,PT: Cinemundo
-http://tv.hotboxtv.net:8000/madagascar/madagascar/4994
-#EXTINF:0,PT: Cinemundo HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/4995
-#EXTINF:0,AMC
-http://tv.hotboxtv.net:8000/madagascar/madagascar/34
-#EXTINF:0,FOX MOVIES
-http://tv.hotboxtv.net:8000/madagascar/madagascar/35
-#EXTINF:0,FOX
-http://tv.hotboxtv.net:8000/madagascar/madagascar/29
-#EXTINF:0,FOX HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/28
-#EXTINF:0,FOX CRIME
-http://tv.hotboxtv.net:8000/madagascar/madagascar/27
-#EXTINF:0,FOX CRIME HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/26
-#EXTINF:0,FOX COMEDY
-http://tv.hotboxtv.net:8000/madagascar/madagascar/25
-#EXTINF:0,FOX LIVE
-http://tv.hotboxtv.net:8000/madagascar/madagascar/24
-#EXTINF:0,AXN HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/32
-#EXTINF:0,AXN
-http://tv.hotboxtv.net:8000/madagascar/madagascar/1893
-#EXTINF:0,AXN BLACK HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/30
-#EXTINF:0,SYFY
-http://tv.hotboxtv.net:8000/madagascar/madagascar/115
-#EXTINF:0,PT: SYFY SD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/4464
-#EXTINF:0,WARNER BROS TV
-http://tv.hotboxtv.net:8000/madagascar/madagascar/4038
-#EXTINF:0,AXN WHITE HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/31
-#EXTINF:0,SPORT TV+
-http://tv.hotboxtv.net:8000/madagascar/madagascar/61
-#EXTINF:0,SPORT TV 1
-http://tv.hotboxtv.net:8000/madagascar/madagascar/71
-#EXTINF:0,SPORT TV 2
-http://tv.hotboxtv.net:8000/madagascar/madagascar/70
-#EXTINF:0,SPORT TV 3
-http://tv.hotboxtv.net:8000/madagascar/madagascar/69
-#EXTINF:0,SPORT TV 4
-http://tv.hotboxtv.net:8000/madagascar/madagascar/68
-#EXTINF:0,SPORT TV 5
-http://tv.hotboxtv.net:8000/madagascar/madagascar/67
-#EXTINF:0,Sport TV   Full HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/2117
-#EXTINF:0,PT: SPOR TV 1 (LOCAL 360p)
-http://tv.hotboxtv.net:8000/madagascar/madagascar/4441
-#EXTINF:0,SPORT TV 1
-http://tv.hotboxtv.net:8000/madagascar/madagascar/2400
-#EXTINF:0,PT  SPORTTV 1HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/66
-#EXTINF:0,Sport TV 1 SD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/2401
-#EXTINF:0,SPORT TV 1 HD 720p
-http://tv.hotboxtv.net:8000/madagascar/madagascar/2119
-#EXTINF:0,Sport TV 1 Full HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/2118
-#EXTINF:0,SPORT TV 2 HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/65
-#EXTINF:0,Sport TV 2 Full HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/2120
-#EXTINF:0,SPORT TV 3 HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/64
-#EXTINF:0,Sport TV 3 Full HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/2121
-#EXTINF:0,SPORT TV4 HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/63
-#EXTINF:0,SportTV 4 Full HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/2122
-#EXTINF:0,SPORT TV 5 HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/62
-#EXTINF:0,SportTV 5 Full HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/2123
-#EXTINF:0,PT:Movistar MotoGP(ES)
-http://tv.hotboxtv.net:8000/madagascar/madagascar/4455
-#EXTINF:0,SPORTING TV
-http://tv.hotboxtv.net:8000/madagascar/madagascar/58
-#EXTINF:0,SPORTING TV HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/57
-#EXTINF:0,A BOLA TV
-http://tv.hotboxtv.net:8000/madagascar/madagascar/55
-#EXTINF:0,BTV
-http://tv.hotboxtv.net:8000/madagascar/madagascar/60
-#EXTINF:0,BENFICA TV1 HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/3006
-#EXTINF:0,PORTO CANAL
-http://tv.hotboxtv.net:8000/madagascar/madagascar/93
-#EXTINF:0,PT:PORTO CANAL SD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/4451
-#EXTINF:0,EUROSPORT 1
-http://tv.hotboxtv.net:8000/madagascar/madagascar/54
-#EXTINF:0,EUROSPORT 2
-http://tv.hotboxtv.net:8000/madagascar/madagascar/53
-#EXTINF:0,Motors TV
-http://tv.hotboxtv.net:8000/madagascar/madagascar/51
-#EXTINF:0,MOTORVISION
-http://tv.hotboxtv.net:8000/madagascar/madagascar/52
-#EXTINF:0,KOMBAT_SPORT
-http://tv.hotboxtv.net:8000/madagascar/madagascar/1363
-#EXTINF:0,PFC
-http://tv.hotboxtv.net:8000/madagascar/madagascar/56
-#EXTINF:0,Motorsport.Tv
-http://tv.hotboxtv.net:8000/madagascar/madagascar/1910
-#EXTINF:0,PT: M.FORMULA1H DESP
-http://tv.hotboxtv.net:8000/madagascar/madagascar/4454
-#EXTINF:0,Touros TV
-http://tv.hotboxtv.net:8000/madagascar/madagascar/50
-#EXTINF:0,National Geo Wild HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/2116
-#EXTINF:0,NATIONAL GEOGRAPHIC
-http://tv.hotboxtv.net:8000/madagascar/madagascar/18
-#EXTINF:0,NAT GEO WILD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/17
-#EXTINF:0,DISCOVERY
-http://tv.hotboxtv.net:8000/madagascar/madagascar/16
-#EXTINF:0,Discovery Showcase
-http://tv.hotboxtv.net:8000/madagascar/madagascar/15
-#EXTINF:0,CA«AVISION
-http://tv.hotboxtv.net:8000/madagascar/madagascar/48
-#EXTINF:0,CACA E PESCA HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/49
-#EXTINF:0,A&E
-http://tv.hotboxtv.net:8000/madagascar/madagascar/19
-#EXTINF:0,CANAL HISTORIA
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14
-#EXTINF:0,ODISSEIA
-http://tv.hotboxtv.net:8000/madagascar/madagascar/20
-#EXTINF:0,BBC ENTRAITEMENT
-http://tv.hotboxtv.net:8000/madagascar/madagascar/132
-#EXTINF:0,24 KITCHEN
-http://tv.hotboxtv.net:8000/madagascar/madagascar/123
-#EXTINF:0,24 KITCHEN HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/83
-#EXTINF:0,FOOD NETWORK
-http://tv.hotboxtv.net:8000/madagascar/madagascar/84
-#EXTINF:0,TLC
-http://tv.hotboxtv.net:8000/madagascar/madagascar/12
-#EXTINF:0,FASHION TV
-http://tv.hotboxtv.net:8000/madagascar/madagascar/121
-#EXTINF:0,CBS REALITY
-http://tv.hotboxtv.net:8000/madagascar/madagascar/13
-#EXTINF:0,PT: Crime+ Envestigation
-http://tv.hotboxtv.net:8000/madagascar/madagascar/3116
-#EXTINF:0,Euronews
-http://tv.hotboxtv.net:8000/madagascar/madagascar/911
-#EXTINF:0,PT: TV Globo PortugaL
-http://tv.hotboxtv.net:8000/madagascar/madagascar/4993
-#EXTINF:0,TV GLOBO
-http://tv.hotboxtv.net:8000/madagascar/madagascar/86
-#EXTINF:0,TV GLOBO PREMIUM
-http://tv.hotboxtv.net:8000/madagascar/madagascar/87
-#EXTINF:0,TV RECORD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/88
-#EXTINF:0,RTP 1  LOW
-http://tv.hotboxtv.net:8000/madagascar/madagascar/703
-#EXTINF:0,RTP 2 LOW
-http://tv.hotboxtv.net:8000/madagascar/madagascar/702
-#EXTINF:0,SIC LOW
-http://tv.hotboxtv.net:8000/madagascar/madagascar/701
-#EXTINF:0,TVI LOW
-http://tv.hotboxtv.net:8000/madagascar/madagascar/700
-#EXTINF:0,TVI 24 LOW
-http://tv.hotboxtv.net:8000/madagascar/madagascar/914
-#EXTINF:0,TVI Reality LOW
-http://tv.hotboxtv.net:8000/madagascar/madagascar/916
-#EXTINF:0,TV CINE 1 LOW
-http://tv.hotboxtv.net:8000/madagascar/madagascar/691
-#EXTINF:0,TV CINE 2 LOW
-http://tv.hotboxtv.net:8000/madagascar/madagascar/690
-#EXTINF:0,TV CINE 3 LOW
-http://tv.hotboxtv.net:8000/madagascar/madagascar/689
-#EXTINF:0,TV CINE 4 LOW
-http://tv.hotboxtv.net:8000/madagascar/madagascar/688
-#EXTINF:0,TV SERIES LOW
-http://tv.hotboxtv.net:8000/madagascar/madagascar/687
-#EXTINF:0,AXN BLACK HD LOW
-http://tv.hotboxtv.net:8000/madagascar/madagascar/686
-#EXTINF:0,AXN WHITE LOW
-http://tv.hotboxtv.net:8000/madagascar/madagascar/684
-#EXTINF:0,AXN  LOW
-http://tv.hotboxtv.net:8000/madagascar/madagascar/685
-#EXTINF:0,FOX CRIME LOW
-http://tv.hotboxtv.net:8000/madagascar/madagascar/682
-#EXTINF:0,FOX LIFE HD LOW
-http://tv.hotboxtv.net:8000/madagascar/madagascar/681
-#EXTINF:0,FOX  LOW
-http://tv.hotboxtv.net:8000/madagascar/madagascar/683
-#EXTINF:0,HOLLYWOOD HD LOW
-http://tv.hotboxtv.net:8000/madagascar/madagascar/679
-#EXTINF:0,AMC  LOW
-http://tv.hotboxtv.net:8000/madagascar/madagascar/680
-#EXTINF:0,Sport TV +   LOW
-http://tv.hotboxtv.net:8000/madagascar/madagascar/926
-#EXTINF:0,SPORTV 1   LOW
-http://tv.hotboxtv.net:8000/madagascar/madagascar/697
-#EXTINF:0,SPORTV 2 LOW
-http://tv.hotboxtv.net:8000/madagascar/madagascar/696
-#EXTINF:0,SPORTV 3 HD LOW
-http://tv.hotboxtv.net:8000/madagascar/madagascar/695
-#EXTINF:0,SPORTV 4  LOW
-http://tv.hotboxtv.net:8000/madagascar/madagascar/694
-#EXTINF:0,SPORTV 5 HD  LOW
-http://tv.hotboxtv.net:8000/madagascar/madagascar/693
-#EXTINF:0,A Bola TV LOW
-http://tv.hotboxtv.net:8000/madagascar/madagascar/915
-#EXTINF:0,Porto Canal LOW
-http://tv.hotboxtv.net:8000/madagascar/madagascar/925
-#EXTINF:0,EUROSPORT 1 LOW
-http://tv.hotboxtv.net:8000/madagascar/madagascar/692
-#EXTINF:0,DISCOVERY SHOWCASE HD LOW
-http://tv.hotboxtv.net:8000/madagascar/madagascar/677
-#EXTINF:0,NATIONAL GEOGRAPHIC HD LOW
-http://tv.hotboxtv.net:8000/madagascar/madagascar/676
-#EXTINF:0,TRAVEL CHANNEL HD LOW
-http://tv.hotboxtv.net:8000/madagascar/madagascar/675
-#EXTINF:0,24 KITCHEN HD LOW
-http://tv.hotboxtv.net:8000/madagascar/madagascar/678
-#EXTINF:0,Canal  Panda LOW
-http://tv.hotboxtv.net:8000/madagascar/madagascar/917
-#EXTINF:0,Cartoon Network LOW
-http://tv.hotboxtv.net:8000/madagascar/madagascar/918
-#EXTINF:0,Disney Channel LOW
-http://tv.hotboxtv.net:8000/madagascar/madagascar/920
-#EXTINF:0,Fox Comedy LOW
-http://tv.hotboxtv.net:8000/madagascar/madagascar/921
-#EXTINF:0,Nickelodeon LOW
-http://tv.hotboxtv.net:8000/madagascar/madagascar/923
-#EXTINF:0,Panda Biggs LOW
-http://tv.hotboxtv.net:8000/madagascar/madagascar/924
-#EXTINF:0,ELEVEN SPORTS 1
-http://tv.hotboxtv.net:8000/madagascar/madagascar/10158
-#EXTINF:0,ELEVEN SPORTS 2
-http://tv.hotboxtv.net:8000/madagascar/madagascar/10157
-#EXTINF:0,ELEVEN SPORTS 3
-http://tv.hotboxtv.net:8000/madagascar/madagascar/10156
-#EXTINF:0,ELEVEN SPORTS 4
-http://tv.hotboxtv.net:8000/madagascar/madagascar/10155
-#EXTINF:0,ELEVEN SPORTS 5
-http://tv.hotboxtv.net:8000/madagascar/madagascar/10154
-#EXTINF:0,ELEVEN SPORTS 6
-http://tv.hotboxtv.net:8000/madagascar/madagascar/10153
+#EXTINF:-1,RTP 1 HD
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23261
+#EXTINF:-1,RTP 1
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23260
+#EXTINF:-1,RTP2 HD
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23259
+#EXTINF:-1,RTP 2
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23258
+#EXTINF:-1,RTP 3
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23257
+#EXTINF:-1,RTP MEMORIA
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23256
+#EXTINF:-1,RTP AFRICA
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23255
+#EXTINF:-1,TCV
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23254
+#EXTINF:-1,RTP ACORES
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23253
+#EXTINF:-1,SIC RADICAL
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23252
+#EXTINF:-1,SIC MULHER
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23251
+#EXTINF:-1,SIC CARAS
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23250
+#EXTINF:-1,SIC NOTICIAS
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23249
+#EXTINF:-1,SIC HD
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23248
+#EXTINF:-1,SIC
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23247
+#EXTINF:-1,TVI HD
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23246
+#EXTINF:-1,TVI
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23245
+#EXTINF:-1,TVI FICCAO
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23244
+#EXTINF:-1,CANAL Q
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23243
+#EXTINF:-1,GLOBO PREM
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23242
+#EXTINF:-1,TV RECORD
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23241
+#EXTINF:-1,TVI24
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23240
+#EXTINF:-1,CM TV
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23239
+#EXTINF:-1,TV GLOBO
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23238
+#EXTINF:-1,RECORD NEWS
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/1061
+#EXTINF:-1,EURONEWS
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23237
+#EXTINF:-1,PORTO CANAL
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23236
+#EXTINF:-1,|PT|*****SPORT*****|PT|
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23235
+#EXTINF:-1,SPORT TV
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/14108
+#EXTINF:-1,SPORT TV1 HD
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/14102
+#EXTINF:-1,SPORT TV1
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/14107
+#EXTINF:-1,SPORT TV2 HD
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/14101
+#EXTINF:-1,SPORT TV2
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/14106
+#EXTINF:-1,SPORT TV3 HD
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/14100
+#EXTINF:-1,SPORT TV3
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/14105
+#EXTINF:-1,SPORT TV4 HD
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/14099
+#EXTINF:-1,SPORT TV4
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/14104
+#EXTINF:-1,SPORT TV5 HD
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/14098
+#EXTINF:-1,SPORT TV5
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/14103
+#EXTINF:-1,BENIFICA TV FHD
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/14092
+#EXTINF:-1,BENIFICA TV
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/14093
+#EXTINF:-1,SPORTING TV
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/14091
+#EXTINF:-1,A BOLA TV
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/14087
+#EXTINF:-1,PFC
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/14086
+#EXTINF:-1,KOMBATSPORT
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/14090
+#EXTINF:-1,EUROSPORT NEWS
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/14096
+#EXTINF:-1,EUROSPORT 1HD
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/14097
+#EXTINF:-1,EUROSPORT 1
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/14095
+#EXTINF:-1,EUROSPORT 2
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/14094
+#EXTINF:-1,FUEL TV
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23234
+#EXTINF:-1,MOTORSPORT TV
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/14089
+#EXTINF:-1,MOTORVISION
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/14088
+#EXTINF:-1,TOROS
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23233
+#EXTINF:-1,|PT|*****ENFANTS*****|PT|
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23232
+#EXTINF:-1,JIM JAM
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23231
+#EXTINF:-1,BABY FIRST
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23230
+#EXTINF:-1,BABY TV
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23229
+#EXTINF:-1,CANAL PANDA
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23228
+#EXTINF:-1,BIGGS
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23227
+#EXTINF:-1,NICKELODEON
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23226
+#EXTINF:-1,DISNEY JUNIOR
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23225
+#EXTINF:-1,DISNEY CHANNEL
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23224
+#EXTINF:-1,CARTOONNETWORK
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23223
+#EXTINF:-1,SIC K
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23222
+#EXTINF:-1,|PT|*****CINEMA*****|PT|
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23221
+#EXTINF:-1,TVCINE1 HD
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23220
+#EXTINF:-1,TVCINE1
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23219
+#EXTINF:-1,TVCINE 2HD
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23218
+#EXTINF:-1,TVCINE2
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23217
+#EXTINF:-1,TVCINE  3HD
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23216
+#EXTINF:-1,TVCINE3
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23215
+#EXTINF:-1,TVCINE 4HD
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23214
+#EXTINF:-1,TVCINE4
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23213
+#EXTINF:-1,HOLLYWOOD
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23212
+#EXTINF:-1,NATGEO HD
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23211
+#EXTINF:-1,FOX MOVIES
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23210
+#EXTINF:-1,AMC
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23209
+#EXTINF:-1,CINEMUNDO
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23208
+#EXTINF:-1,|PT|*****CULTURE*****|PT|
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23207
+#EXTINF:-1,ODISSEIA
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23206
+#EXTINF:-1,NATGEO WILD
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23205
+#EXTINF:-1,DISCOVERY
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23204
+#EXTINF:-1,DISCOVERY SHOWCASE FHD
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23203
+#EXTINF:-1,TRAVEL CHANNEL HD
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23202
+#EXTINF:-1, HISTORIA
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23201
+#EXTINF:-1,CAÃ‡A E PESCA
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23200
+#EXTINF:-1,FOOD
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23199
+#EXTINF:-1,NATGEO
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23198
+#EXTINF:-1,CASAVISION
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23197
+#EXTINF:-1,|PT|*****SERIES*****|PT|
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23196
+#EXTINF:-1,FOX HD
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23195
+#EXTINF:-1,FOX CRIME FHD
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23194
+#EXTINF:-1,FOX CRIME
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23193
+#EXTINF:-1,FOX COMEDY
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23192
+#EXTINF:-1,FOX LIFE HD
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23191
+#EXTINF:-1,AXN WHITE HD
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23190
+#EXTINF:-1,AXN HD
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23189
+#EXTINF:-1,AXN BLACK FHD
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23188
+#EXTINF:-1,AXN BLACK
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23187
+#EXTINF:-1,SYFY HD
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23186
+#EXTINF:-1,SYFY
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23185
+#EXTINF:-1,TLC
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23184
+#EXTINF:-1,TVSERIE FHD
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23183
+#EXTINF:-1,TVSERIES
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23182
+#EXTINF:-1,MCS LIFESTYLE
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23181
+#EXTINF:-1,CBSREALITY
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23180
+#EXTINF:-1,TVI REALITY
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23179
+#EXTINF:-1,E!
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23178
+#EXTINF:-1,A&E
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23177
+#EXTINF:-1,24 KITCHEN HD
+http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/23176
