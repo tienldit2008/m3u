@@ -1,501 +1,248 @@
 #EXTM3U
-#EXTINF:0,CBS_Sports_(CBSSN)_HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14643
-#EXTINF:0, ABC HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14654
-#EXTINF:0, CNN HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14615
-#EXTINF:0, FX HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14645
-#EXTINF:0, Ladbrokes TV
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14466
-#EXTINF:0, LIFETIME TV
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14558
-#EXTINF:0, Star Media Peppa Pig
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14473
-#EXTINF:0, STARZ TV
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14489
-#EXTINF:0, The Vault
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14424
-#EXTINF:0, WEATHER CHANNEL
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14653
-#EXTINF:0,:ESPN_3
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14566
-#EXTINF:0,5 Star Max
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14602
-#EXTINF:0,A&E_HD(1080)
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14565
-#EXTINF:0,A&E_TV_HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14648
-#EXTINF:0,ABC
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14656
-#EXTINF:0,ABC_(EAST)_HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14663
-#EXTINF:0,ABC_HD(1080)
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14563
-#EXTINF:0,ABC_News_HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14664
-#EXTINF:0,Action Max FHD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14534
-#EXTINF:0,ACTION_MAX_HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14617
-#EXTINF:0,AFN_MOVIES
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14561
-#EXTINF:0,AFN_PRIME_PACIFIC
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14560
-#EXTINF:0,AMC_FHD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14557
-#EXTINF:0,American_Heroes_Channel
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14556
-#EXTINF:0,BBC_America_FHD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14603
-#EXTINF:0,Beauty_iQ
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14555
-#EXTINF:0,Bein Sports  FHD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14417
-#EXTINF:0,beIN_Sports
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14416
-#EXTINF:0,BET_HD(1080)
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14554
-#EXTINF:0,Big Ten Network FHD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14553
-#EXTINF:0,Bloomberg
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14646
-#EXTINF:0,Boomerang HD(1080)
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14552
-#EXTINF:0,Boomerang_HD(1080)
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14551
-#EXTINF:0,Box Office Movies FHD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14550
-#EXTINF:0,BOX_OFFICE_MOVIES_FHD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14661
-#EXTINF:0,Bravo
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14619
-#EXTINF:0,Bravo_TV_HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14639
-#EXTINF:0,BT_SPORT_ESPN
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14548
-#EXTINF:0,BTN Sport HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14549
-#EXTINF:0,BYU Sports TV
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14547
-#EXTINF:0,C-SPAN_1
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14546
-#EXTINF:0,C-SPAN_2
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14545
-#EXTINF:0,C-SPAN_3_HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14544
-#EXTINF:0,CAPITAL_TV
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14543
-#EXTINF:0,Cartoon Network
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14542
-#EXTINF:0,Cartoon_Network_HD(1080)
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14541
-#EXTINF:0,CBN_NEWS
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14670
-#EXTINF:0,CBS Sports Network HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14421
-#EXTINF:0,CBS_(East)_FHD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14601
-#EXTINF:0,CBS_HD(1080)
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14537
-#EXTINF:0,CBSN_HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14613
-#EXTINF:0,CBSN_News_HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14538
-#EXTINF:0,Cinemax FHD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14611
-#EXTINF:0,Cinemax_5_Starmax
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14637
-#EXTINF:0,CINEMAX_ACTIONMAX
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14631
-#EXTINF:0,Cinemax_East
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14598
-#EXTINF:0,Cinemax_FHD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14536
-#EXTINF:0,Cinemax_HD(1080)
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14535
-#EXTINF:0,CNBC_HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14668
-#EXTINF:0,CNN_FHD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14533
-#EXTINF:0,CNN_HD(1080)
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14569
-#EXTINF:0,COMEDY_C_HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14532
-#EXTINF:0,COMEDY_CENTRAL
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14571
-#EXTINF:0,Comedy_Central_(West)_HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14667
-#EXTINF:0,COMEDY_NETWORK_HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14531
-#EXTINF:0,COOKING_CHANNEL_FHD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14530
-#EXTINF:0,Cozi
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14529
-#EXTINF:0,CP24_HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14658
-#EXTINF:0,CW_11_FHD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14666
-#EXTINF:0,CW_Network
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14662
-#EXTINF:0,DayStar
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14527
-#EXTINF:0,Destination_America_FHD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14526
-#EXTINF:0,Discovery HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14524
-#EXTINF:0,DISCOVERY_HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14523
-#EXTINF:0,Discovery_Science_HD(1080)
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14522
-#EXTINF:0,Discovery_Showcase
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14596
-#EXTINF:0,Discovery-Science-HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14525
-#EXTINF:0,Disney Channel HD(1080)
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14520
-#EXTINF:0,Disney JR HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14518
-#EXTINF:0,Disney XD FHD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14517
-#EXTINF:0,Disney_Channel_HD(1080)
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14519
-#EXTINF:0,DIY_NETWORK_FHD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14650
-#EXTINF:0,E!
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14516
-#EXTINF:0,E!_FHD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14630
-#EXTINF:0,E!_HD(1080)
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14515
-#EXTINF:0,EI HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14559
-#EXTINF:0,EL Rey Network FHD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14474
-#EXTINF:0,El_Rey_Network_FHD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14514
-#EXTINF:0,ESPN_2_FHD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14599
-#EXTINF:0,ESPN_2_HD(1080)
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14511
-#EXTINF:0,ESPN_3
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14649
-#EXTINF:0,ESPN_FHD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14629
-#EXTINF:0,ESPN_HD(1080)
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14510
-#EXTINF:0,ESPN_NEWS_HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14509
-#EXTINF:0,ESPN_U
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14628
-#EXTINF:0,Fight_Sport_1
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14419
-#EXTINF:0,Food Network FHD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14508
-#EXTINF:0,Food_Network_HD(1080)
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14507
-#EXTINF:0,FOX_East_HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14506
-#EXTINF:0,Fox_HD(1080)
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14505
-#EXTINF:0,FOX_News_HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14587
-#EXTINF:0,Fox_Soccer_Plus_HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14624
-#EXTINF:0,Fox_Sports_1_FHD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14503
-#EXTINF:0,Fox_Sports_1_HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14622
-#EXTINF:0,Fox_Sports_1_HD(1080)
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14502
-#EXTINF:0,Fox_Sports_2_FHD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14586
-#EXTINF:0,Fox_Sports_2_HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14621
-#EXTINF:0,Fox_Sports_2_HD(1080)
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14501
-#EXTINF:0,Fox_Sports_Florida_HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14589
-#EXTINF:0,Fox_Sports_North_HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14500
-#EXTINF:0,Fox_Sports_Sun_HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14627
-#EXTINF:0,Freeform HD(1080)
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14499
-#EXTINF:0,Freeform_HD(1080)
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14498
-#EXTINF:0,FXM
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14497
-#EXTINF:0,FXX
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14496
-#EXTINF:0,Golf HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14513
-#EXTINF:0,Grit
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14657
-#EXTINF:0,GSN FHD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14539
-#EXTINF:0,GSN_(Game_Show_Network)_FHD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14616
-#EXTINF:0,GSN_HD(1080)
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14568
-#EXTINF:0,Hallmark
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14495
-#EXTINF:0,Hallmark_Movies_&_Mysteries_HD(1080)
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14494
-#EXTINF:0,HBO
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14618
-#EXTINF:0,HBO Comedy
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14493
-#EXTINF:0,HBO Family HD(1080)
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14492
-#EXTINF:0,HBO FHD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14491
-#EXTINF:0,HBO Zone FHD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14487
-#EXTINF:0,HBO_2_HD(1080)
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14567
-#EXTINF:0,HBO_COMEDY
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14581
-#EXTINF:0,HBO_HD(1080)
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14490
-#EXTINF:0,HBO_Signature_HD(1080)
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14488
-#EXTINF:0,HBO_Zone_HD(1080)
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14486
-#EXTINF:0,HBO2
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14607
-#EXTINF:0,HGTV_FHD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14591
-#EXTINF:0,HIFI_HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14610
-#EXTINF:0,History
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14521
-#EXTINF:0,History_Channel_HD(1080)
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14484
-#EXTINF:0,History_HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14580
-#EXTINF:0,HLN
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14483
-#EXTINF:0,HSN_YT_LIVE_FHD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14641
-#EXTINF:0,ID-HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14590
-#EXTINF:0,IFC_FHD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14482
-#EXTINF:0,Investigation Discovery FHD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14528
-#EXTINF:0,Investigation_Discovery
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14609
-#EXTINF:0,Investigation_Discovery_HD(1080)
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14480
-#EXTINF:0,iON TV
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14479
-#EXTINF:0,KIDS_READING_TV
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14477
-#EXTINF:0,LIFE_TIME_HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14592
-#EXTINF:0,Lifetime
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14476
-#EXTINF:0,Lifetime_HD(1080)
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14475
-#EXTINF:0,LMN HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14633
-#EXTINF:0,LONGHORN
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14634
-#EXTINF:0,Massive R&B
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14458
-#EXTINF:0,MAV_TV
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14612
-#EXTINF:0,MLB_Network
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14608
+http://185.23.213.162:8789/besmir/12345/24142
+#EXTINF:0,CNN HD
+http://185.23.213.162:8789/besmir/12345/24141
+#EXTINF:0,Fox News HD
+http://185.23.213.162:8789/besmir/12345/24140
+#EXTINF:0,MSNBC FHD
+http://185.23.213.162:8789/besmir/12345/24139
+#EXTINF:0,ABC NEWS
+http://185.23.213.162:8789/besmir/12345/24138
+#EXTINF:0,CNBC
+http://185.23.213.162:8789/besmir/12345/24137
+#EXTINF:0,FOX BUSINESS FHD
+http://185.23.213.162:8789/besmir/12345/24136
+#EXTINF:0,BLOOMBERG TV
+http://185.23.213.162:8789/besmir/12345/24135
+#EXTINF:0,ABC 7
+http://185.23.213.162:8789/besmir/12345/24134
+#EXTINF:0,beINSPORT N
+http://185.23.213.162:8789/besmir/12345/24108
+#EXTINF:0,ESPN 3
+http://185.23.213.162:8789/besmir/12345/24103
+#EXTINF:0,The Weather Channel
+http://185.23.213.162:8789/besmir/12345/24133
+#EXTINF:0,|USA|******MOVIES******|USA|
+http://185.23.213.162:8789/besmir/12345/24132
+#EXTINF:0,SHOWTIME SHOWCASE
+http://185.23.213.162:8789/besmir/12345/24120
+#EXTINF:0,Starz Cinema HD
+http://185.23.213.162:8789/besmir/12345/24118
+#EXTINF:0,STARZ
+http://185.23.213.162:8789/besmir/12345/24119
+#EXTINF:0,FX TV HD
+http://185.23.213.162:8789/besmir/12345/24125
 #EXTINF:0,MoreMax HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14584
-#EXTINF:0,MSNBC_FHD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14597
-#EXTINF:0,My9_TV
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14626
-#EXTINF:0,NASA_TV_HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14593
-#EXTINF:0,NATGEO_HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14582
-#EXTINF:0,NBA HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14470
-#EXTINF:0,NBA_TV_HD**
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14469
-#EXTINF:0,NBC
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14540
-#EXTINF:0,NBC_(East)_FHD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14605
-#EXTINF:0,NBC_GOLF
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14468
-#EXTINF:0,NBC_HD(1080)
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14467
-#EXTINF:0,NBC_SPORT
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14659
-#EXTINF:0,NBCSN_FHD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14573
-#EXTINF:0,NETWORK
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14600
-#EXTINF:0,NEWS 12 (BROOKLYN)
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14595
-#EXTINF:0,NEWS_12_BROOKLYN
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14465
-#EXTINF:0,NEWS_12_HUDSON_VALLEY
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14464
-#EXTINF:0,NEWS_12_LONG_ISLAND
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14463
-#EXTINF:0,NEWS_12_NEW_JERSEY
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14462
-#EXTINF:0,NFL Network
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14632
-#EXTINF:0,NFL_Network
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14635
-#EXTINF:0,NFL_NOW_FHD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14647
-#EXTINF:0,NFL_Red_Zone
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14461
-#EXTINF:0,NHL_NETWORK_HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14460
-#EXTINF:0,Nick JR HD(1080)
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14459
-#EXTINF:0,NICKELODEAN HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14562
-#EXTINF:0,NICKELODEAN_HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14640
-#EXTINF:0,NickToons
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14481
-#EXTINF:0,OWN_FHD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14623
-#EXTINF:0,OWN_HD(1080)
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14457
-#EXTINF:0,Oxygen HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14456
-#EXTINF:0,PAC-12_Arizona_FHD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14455
-#EXTINF:0,PAC-12_Bay_Area_FHD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14454
-#EXTINF:0,PAC-12_Los_Angeles_FHD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14453
-#EXTINF:0,PAC-12_Oregon_FHD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14452
-#EXTINF:0,PAC-12_Washington_FHD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14451
-#EXTINF:0,PARAMONT HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14435
-#EXTINF:0,PRESS_TV
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14449
-#EXTINF:0,Pursuit_HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14604
-#EXTINF:0,Red_Bull_TV
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14638
-#EXTINF:0,Reelz FHD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14655
-#EXTINF:0,RT_America
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14448
-#EXTINF:0,RUSSIA TODAY HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14447
-#EXTINF:0,Science_HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14446
-#EXTINF:0,SEC_Network
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14614
-#EXTINF:0,Showcase
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14445
-#EXTINF:0,Showtime
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14444
-#EXTINF:0,SHOWTIME2_HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14443
-#EXTINF:0,SPIKE
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14442
-#EXTINF:0,SPORTSNET_360_HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14585
-#EXTINF:0,Starz HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14485
-#EXTINF:0,Starz_Cinema
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14441
-#EXTINF:0,Starz_Comedy
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14440
-#EXTINF:0,Starz_East_HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14439
-#EXTINF:0,Starz_Edge
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14644
-#EXTINF:0,Starz_Encore_HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14438
-#EXTINF:0,Starz_West
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14437
-#EXTINF:0,SUNDANCE_TV
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14625
-#EXTINF:0,Syfy HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14512
-#EXTINF:0,SYFY_HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14652
-#EXTINF:0,TBN_HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14434
-#EXTINF:0,TBS
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14433
-#EXTINF:0,TBS FHD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14432
-#EXTINF:0,Telemundo
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14579
-#EXTINF:0,TENNIS
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14431
-#EXTINF:0,Tennis Channel HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14430
-#EXTINF:0,The_Blaze
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14660
-#EXTINF:0,TLC_HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14594
+http://185.23.213.162:8789/besmir/12345/24116
+#EXTINF:0,Lifetime Movies HD
+http://185.23.213.162:8789/besmir/12345/24117
+#EXTINF:0,5 Star Max
+http://185.23.213.162:8789/besmir/12345/24114
+#EXTINF:0,ACTIONMAX HD
+http://185.23.213.162:8789/besmir/12345/24115
+#EXTINF:0,AMC HD
+http://185.23.213.162:8789/besmir/12345/24122
+#EXTINF:0,Cinemax East HD
+http://185.23.213.162:8789/besmir/12345/24113
+#EXTINF:0,CINEMAX HD
+http://185.23.213.162:8789/besmir/12345/24112
+#EXTINF:0,EL REY  HD
+http://185.23.213.162:8789/besmir/12345/24111
 #EXTINF:0,TNT HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14429
-#EXTINF:0,TOGEATHER
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14450
-#EXTINF:0,Travel Channel FHD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14651
-#EXTINF:0,Travel_Channel_HD(1080)
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14428
-#EXTINF:0,TRT_World_FHD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14572
-#EXTINF:0,Tru_TV
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14588
-#EXTINF:0,TSN-1HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14577
-#EXTINF:0,TSN-2HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14576
-#EXTINF:0,TSN-3HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14575
-#EXTINF:0,TSN-4HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14574
-#EXTINF:0,TSN-5HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14578
-#EXTINF:0,TV_Land_(West)
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14427
-#EXTINF:0,UFC_Fight_Pass_HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14606
-#EXTINF:0,USA
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14570
-#EXTINF:0,USA_NETWORK_HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14665
-#EXTINF:0,Velocity  FHD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14426
-#EXTINF:0,Viceland FHD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14420
-#EXTINF:0,Viceland_HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14620
-#EXTINF:0,WEATHER CHANNEL
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14564
-#EXTINF:0,WFOR_4_News_Miami
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14583
-#EXTINF:0,WGN_America
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14636
-#EXTINF:0,William Hills TV
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14504
-#EXTINF:0,Willow Cricket HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14436
-#EXTINF:0,WWE Network HD
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14423
-#EXTINF:0,WWE_NETWORK
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14418
-#EXTINF:0,YANGA
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14669
-#EXTINF:0,Yes_Network
-http://tv.hotboxtv.net:8000/madagascar/madagascar/14422
+http://185.23.213.162:8789/besmir/12345/24123
+#EXTINF:0,HBO
+http://185.23.213.162:8789/besmir/12345/24131
+#EXTINF:0,HBO COMEDY HD
+http://185.23.213.162:8789/besmir/12345/24130
+#EXTINF:0,HBO FAMILY HD
+http://185.23.213.162:8789/besmir/12345/24129
+#EXTINF:0,STARZ CINEMA
+http://185.23.213.162:8789/besmir/12345/24128
+#EXTINF:0,HBO SIGNATURE HD
+http://185.23.213.162:8789/besmir/12345/24127
+#EXTINF:0,HBO ZONE
+http://185.23.213.162:8789/besmir/12345/24126
+#EXTINF:0,HALLMARK HD
+http://185.23.213.162:8789/besmir/12345/24124
+#EXTINF:0,|USA|******SPORTS******|USA|
+http://185.23.213.162:8789/besmir/12345/24110
+#EXTINF:0,beINSPORT US
+http://185.23.213.162:8789/besmir/12345/24109
+#EXTINF:0,FOX SPORT 1HD
+http://185.23.213.162:8789/besmir/12345/24107
+#EXTINF:0,FOX SPORT 2HD
+http://185.23.213.162:8789/besmir/12345/24106
+#EXTINF:0,ESPN
+http://185.23.213.162:8789/besmir/12345/24105
+#EXTINF:0,ESPN 2HD
+http://185.23.213.162:8789/besmir/12345/24104
+#EXTINF:0,ESPN Deportes
+http://185.23.213.162:8789/besmir/12345/24102
+#EXTINF:0,ESPNEWS
+http://185.23.213.162:8789/besmir/12345/24100
+#EXTINF:0,ESPN U HD
+http://185.23.213.162:8789/besmir/12345/24101
+#EXTINF:0,BTN
+http://185.23.213.162:8789/besmir/12345/24099
+#EXTINF:0,CBS SPORTS NET
+http://185.23.213.162:8789/besmir/12345/24098
+#EXTINF:0,NBC SPORTS Net HD
+http://185.23.213.162:8789/besmir/12345/24097
+#EXTINF:0,NBC GOLF
+http://185.23.213.162:8789/besmir/12345/24096
+#EXTINF:0,Tennis Channel HD
+http://185.23.213.162:8789/besmir/12345/24095
+#EXTINF:0,FOX DEPORTES
+http://185.23.213.162:8789/besmir/12345/24094
+#EXTINF:0,WWE HD
+http://185.23.213.162:8789/besmir/12345/24093
+#EXTINF:0,MLB HD
+http://185.23.213.162:8789/besmir/12345/24092
+#EXTINF:0,NBA
+http://185.23.213.162:8789/besmir/12345/24091
+#EXTINF:0,NBA 1  MATCH EVENT
+http://185.23.213.162:8789/besmir/12345/24090
+#EXTINF:0,NBA 2  MATCH EVENT
+http://185.23.213.162:8789/besmir/12345/24089
+#EXTINF:0,NBA 3  MATCH EVENT
+http://185.23.213.162:8789/besmir/12345/24088
+#EXTINF:0,NBA 4  MATCH EVENT
+http://185.23.213.162:8789/besmir/12345/24087
+#EXTINF:0,NBA 5  MATCH EVENT
+http://185.23.213.162:8789/besmir/12345/24086
+#EXTINF:0,NBA 6  MATCH EVENT
+http://185.23.213.162:8789/besmir/12345/24085
+#EXTINF:0,NBA 7 MATCH EVENT
+http://185.23.213.162:8789/besmir/12345/24084
+#EXTINF:0,NBA 8 MATCH EVENT
+http://185.23.213.162:8789/besmir/12345/24083
+#EXTINF:0,NBA 9 MATCH EVENT
+http://185.23.213.162:8789/besmir/12345/24082
+#EXTINF:0,NBA 10 MATCH EVENT
+http://185.23.213.162:8789/besmir/12345/24081
+#EXTINF:0,NBA 11
+http://185.23.213.162:8789/besmir/12345/24080
+#EXTINF:0,NHL HD
+http://185.23.213.162:8789/besmir/12345/24079
+#EXTINF:0,NHL 1 MATCH EVENT
+http://185.23.213.162:8789/besmir/12345/24078
+#EXTINF:0,NHL 2 MATCH EVENT
+http://185.23.213.162:8789/besmir/12345/24077
+#EXTINF:0,NHL 3 MATCH EVENT
+http://185.23.213.162:8789/besmir/12345/24076
+#EXTINF:0,NHL 4 MATCH EVENT
+http://185.23.213.162:8789/besmir/12345/24075
+#EXTINF:0,NHL 5  MATCH EVENT
+http://185.23.213.162:8789/besmir/12345/24074
+#EXTINF:0,NHL 6
+http://185.23.213.162:8789/besmir/12345/24073
+#EXTINF:0,NHL 7
+http://185.23.213.162:8789/besmir/12345/24072
+#EXTINF:0,NHL 8
+http://185.23.213.162:8789/besmir/12345/24071
+#EXTINF:0,NHL 9
+http://185.23.213.162:8789/besmir/12345/24070
+#EXTINF:0,NHL 10
+http://185.23.213.162:8789/besmir/12345/24069
+#EXTINF:0,NHL 11
+http://185.23.213.162:8789/besmir/12345/24068
+#EXTINF:0,NFL NETWORK HD
+http://185.23.213.162:8789/besmir/12345/24067
+#EXTINF:0,NFL 705
+http://185.23.213.162:8789/besmir/12345/24066
+#EXTINF:0,NFL 706
+http://185.23.213.162:8789/besmir/12345/24065
+#EXTINF:0,NFL 707
+http://185.23.213.162:8789/besmir/12345/24064
+#EXTINF:0,NFL 708
+http://185.23.213.162:8789/besmir/12345/24063
+#EXTINF:0,NFL 709
+http://185.23.213.162:8789/besmir/12345/24062
+#EXTINF:0,NFL 710
+http://185.23.213.162:8789/besmir/12345/24061
+#EXTINF:0,NFL 711
+http://185.23.213.162:8789/besmir/12345/24060
+#EXTINF:0,NFL 712
+http://185.23.213.162:8789/besmir/12345/24059
+#EXTINF:0,NFL 713
+http://185.23.213.162:8789/besmir/12345/24058
+#EXTINF:0,NFL 714
+http://185.23.213.162:8789/besmir/12345/24057
+#EXTINF:0,NFL 715
+http://185.23.213.162:8789/besmir/12345/24056
+#EXTINF:0,NFL 716
+http://185.23.213.162:8789/besmir/12345/24055
+#EXTINF:0,NFL 717
+http://185.23.213.162:8789/besmir/12345/24054
+#EXTINF:0,|USA|*****ENTRETAINMENT****|USA|
+http://185.23.213.162:8789/besmir/12345/24992
+#EXTINF:0,BRAVO
+http://185.23.213.162:8789/besmir/12345/24052
+#EXTINF:0,A&E
+http://185.23.213.162:8789/besmir/12345/24051
+#EXTINF:0,COMEDY CENTRAL HD
+http://185.23.213.162:8789/besmir/12345/24050
+#EXTINF:0,HGTV
+http://185.23.213.162:8789/besmir/12345/24049
+#EXTINF:0,E!
+http://185.23.213.162:8789/besmir/12345/24048
+#EXTINF:0,Fox HD
+http://185.23.213.162:8789/besmir/12345/24047
+#EXTINF:0,FXX
+http://185.23.213.162:8789/besmir/12345/24046
+#EXTINF:0,GSN FHD
+http://185.23.213.162:8789/besmir/12345/24045
+#EXTINF:0,SPIKE TV HD
+http://185.23.213.162:8789/besmir/12345/24044
+#EXTINF:0,Syfy HD
+http://185.23.213.162:8789/besmir/12345/24043
+#EXTINF:0,TLC HD
+http://185.23.213.162:8789/besmir/12345/24042
+#EXTINF:0,Viceland
+http://185.23.213.162:8789/besmir/12345/24041
+#EXTINF:0,DIY Network
+http://185.23.213.162:8789/besmir/12345/24040
+#EXTINF:0,FREEFROM
+http://185.23.213.162:8789/besmir/12345/24039
+#EXTINF:0,TBS
+http://185.23.213.162:8789/besmir/12345/24038
+#EXTINF:0,SBTN
+http://185.23.213.162:8789/besmir/12345/24037
+#EXTINF:0,|USA|*****LIFESTYLE*****|USA|
+http://185.23.213.162:8789/besmir/12345/24036
+#EXTINF:0,ANIMAL PLANET HD
+http://185.23.213.162:8789/besmir/12345/24035
+#EXTINF:0,NAT GEO WILD HD
+http://185.23.213.162:8789/besmir/12345/24034
+#EXTINF:0,NAT GEO
+http://185.23.213.162:8789/besmir/12345/24033
+#EXTINF:0,DISCOVERY  HD
+http://185.23.213.162:8789/besmir/12345/24032
+#EXTINF:0,DISCOVERY SC HD
+http://185.23.213.162:8789/besmir/12345/24031
+#EXTINF:0,DISCOVERY ID HD
+http://185.23.213.162:8789/besmir/12345/24030
+#EXTINF:0,HISTORY HD
+http://185.23.213.162:8789/besmir/12345/24029
+#EXTINF:0,H2
+http://185.23.213.162:8789/besmir/12345/24028
+#EXTINF:0,Travel Channel
+http://185.23.213.162:8789/besmir/12345/24027
+#EXTINF:0,FOOD NETWORK
+http://185.23.213.162:8789/besmir/12345/24026
+#EXTINF:0,|USA|*****KIDS AND FAMILY*****|USA|
+http://185.23.213.162:8789/besmir/12345/24025
+#EXTINF:0,Cartoon Network
+http://185.23.213.162:8789/besmir/12345/24024
+#EXTINF:0,Disney Channel FHD
+http://185.23.213.162:8789/besmir/12345/24023
+#EXTINF:0,Nick
+http://185.23.213.162:8789/besmir/12345/24022
+#EXTINF:0,NICKTOONS
+http://185.23.213.162:8789/besmir/12345/24021
+#EXTINF:0,|USA|*****MUSIC*****|USA|
+http://185.23.213.162:8789/besmir/12345/24020
+#EXTINF:0,MTV
+http://185.23.213.162:8789/besmir/12345/24019
+#EXTINF:0,VH1 FHD
+http://185.23.213.162:8789/besmir/12345/24018
