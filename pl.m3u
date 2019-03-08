@@ -1,101 +1,145 @@
 #EXTM3U
-#EXTINF:-1,TVP 2 HD
-http://iptvpro.premium-itv.com:8789/Svgg/12345/28862
-#EXTINF:-1,TVP 3
-http://iptvpro.premium-itv.com:8789/Svgg/12345/28861
-#EXTINF:-1,TVP SERIALE
-http://iptvpro.premium-itv.com:8789/Svgg/12345/28860
-#EXTINF:-1,POLSAT
-http://iptvpro.premium-itv.com:8789/Svgg/12345/28859
-#EXTINF:-1,POLSAT 2
-http://iptvpro.premium-itv.com:8789/Svgg/12345/28858
-#EXTINF:-1,POLSAT CAFE
-http://iptvpro.premium-itv.com:8789/Svgg/12345/28857
-#EXTINF:-1,TVP INFO
-http://iptvpro.premium-itv.com:8789/Svgg/12345/28856
-#EXTINF:-1,TV PLUS HD
-http://iptvpro.premium-itv.com:8789/Svgg/12345/28855
-#EXTINF:-1,TV6
-http://iptvpro.premium-itv.com:8789/Svgg/12345/28854
-#EXTINF:-1,TVN 7
-http://iptvpro.premium-itv.com:8789/Svgg/12345/28853
-#EXTINF:-1,TVP ABC
-http://iptvpro.premium-itv.com:8789/Svgg/12345/28852
-#EXTINF:-1,POLSAT ROMANS
-http://iptvpro.premium-itv.com:8789/Svgg/12345/28851
-#EXTINF:-1,POLSAT SUPER
-http://iptvpro.premium-itv.com:8789/Svgg/12345/28850
-#EXTINF:-1,TLC
-http://iptvpro.premium-itv.com:8789/Svgg/12345/28849
-#EXTINF:-1,TV 4
-http://iptvpro.premium-itv.com:8789/Svgg/12345/28848
-#EXTINF:-1,CANAL  HD
-http://iptvpro.premium-itv.com:8789/Svgg/12345/28847
-#EXTINF:-1,CANAL FAMILY HD
-http://iptvpro.premium-itv.com:8789/Svgg/12345/28846
-#EXTINF:-1,CANAL  FILM HD
-http://iptvpro.premium-itv.com:8789/Svgg/12345/28845
-#EXTINF:-1,CANAL SERIALE
-http://iptvpro.premium-itv.com:8789/Svgg/12345/28844
-#EXTINF:-1,FILMBOX
-http://iptvpro.premium-itv.com:8789/Svgg/12345/28842
-#EXTINF:-1,POLSAT FILM HD
-http://iptvpro.premium-itv.com:8789/Svgg/12345/28843
-#EXTINF:-1,CINEMAX HD
-http://iptvpro.premium-itv.com:8789/Svgg/12345/28841
-#EXTINF:-1,AXN WHITE
-http://iptvpro.premium-itv.com:8789/Svgg/12345/28840
+#EXTINF:-1,4Fun TV
+http://iptvtool.es:9977/pepo/pepo2018/52684
+#EXTINF:-1,Ale Kino  HD
+http://iptvtool.es:9977/pepo/pepo2018/52683
+#EXTINF:-1,Amazing
+http://iptvtool.es:9977/pepo/pepo2018/52682
+#EXTINF:-1,Animal Planet
+http://iptvtool.es:9977/pepo/pepo2018/52681
 #EXTINF:-1,AXN HD
-http://iptvpro.premium-itv.com:8789/Svgg/12345/28839
-#EXTINF:-1,AXN SPIN
-http://iptvpro.premium-itv.com:8789/Svgg/12345/28838
-#EXTINF:-1,COMEDY CENTRAL
-http://iptvpro.premium-itv.com:8789/Svgg/12345/28837
-#EXTINF:-1,DISNEY HD
-http://iptvpro.premium-itv.com:8789/Svgg/12345/28836
-#EXTINF:-1,BOOMERANG
-http://iptvpro.premium-itv.com:8789/Svgg/12345/28835
-#EXTINF:-1,CARTOON NETWORK
-http://iptvpro.premium-itv.com:8789/Svgg/12345/28834
-#EXTINF:-1,TELETOON
-http://iptvpro.premium-itv.com:8789/Svgg/12345/28833
-#EXTINF:-1,POLSAT JIMJAM
-http://iptvpro.premium-itv.com:8789/Svgg/12345/28832
-#EXTINF:-1,POLSAT DOKU
-http://iptvpro.premium-itv.com:8789/Svgg/12345/28831
-#EXTINF:-1,DISCOVERY
-http://iptvpro.premium-itv.com:8789/Svgg/12345/28830
-#EXTINF:-1,DISCOVERY SC
-http://iptvpro.premium-itv.com:8789/Svgg/12345/28829
+http://iptvtool.es:9977/pepo/pepo2018/52680
+#EXTINF:-1,AXN Spin HD
+http://iptvtool.es:9977/pepo/pepo2018/52679
+#EXTINF:-1,AXN White
+http://iptvtool.es:9977/pepo/pepo2018/52678
 #EXTINF:-1,BBC Earth
-http://iptvpro.premium-itv.com:8789/Svgg/12345/28828
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://iptvpro.premium-itv.com:8789/Svgg/12345/28827
-#EXTINF:-1,TVN TURBO
-http://iptvpro.premium-itv.com:8789/Svgg/12345/28826
-#EXTINF:-1,CANAL SPORT HD
-http://iptvpro.premium-itv.com:8789/Svgg/12345/28825
-#EXTINF:-1,CANAL 2 SPORT HD
-http://iptvpro.premium-itv.com:8789/Svgg/12345/28824
-#EXTINF:-1,TVP SPORT
-http://iptvpro.premium-itv.com:8789/Svgg/12345/28823
-#EXTINF:-1,ELEVEN
-http://iptvpro.premium-itv.com:8789/Svgg/12345/28822
-#EXTINF:-1,ELEVEN EXTRA HD
-http://iptvpro.premium-itv.com:8789/Svgg/12345/28821
-#EXTINF:-1,ELEVEN SPORTS
-http://iptvpro.premium-itv.com:8789/Svgg/12345/28820
-#EXTINF:-1,POLSAT SPORT NEWS
-http://iptvpro.premium-itv.com:8789/Svgg/12345/28819
-#EXTINF:-1,POLSAT SPORT
-http://iptvpro.premium-itv.com:8789/Svgg/12345/28818
-#EXTINF:-1,POLSAT SPORT EXTREA
-http://iptvpro.premium-itv.com:8789/Svgg/12345/28817
-#EXTINF:-1,CANAL  DISCO
-http://iptvpro.premium-itv.com:8789/Svgg/12345/28816
-#EXTINF:-1,N SPORT HD
-http://iptvpro.premium-itv.com:8789/Svgg/12345/28815
-#EXTINF:-1,4 FUN TV
-http://iptvpro.premium-itv.com:8789/Svgg/12345/28814
-#EXTINF:-1,DISCO POLO
-http://iptvpro.premium-itv.com:8789/Svgg/12345/28813
+http://iptvtool.es:9977/pepo/pepo2018/52677
+#EXTINF:-1,BBC HD
+http://iptvtool.es:9977/pepo/pepo2018/52676
+#EXTINF:-1,Boomerang
+http://iptvtool.es:9977/pepo/pepo2018/52675
+#EXTINF:-1,Canal  Discovery HD
+http://iptvtool.es:9977/pepo/pepo2018/52674
+#EXTINF:-1,Canal  Family HD
+http://iptvtool.es:9977/pepo/pepo2018/52673
+#EXTINF:-1,Canal  HD
+http://iptvtool.es:9977/pepo/pepo2018/52672
+#EXTINF:-1,Canal  Seriale HD
+http://iptvtool.es:9977/pepo/pepo2018/52671
+#EXTINF:-1,Cinemax HD
+http://iptvtool.es:9977/pepo/pepo2018/52670
+#EXTINF:-1,CW24
+http://iptvtool.es:9977/pepo/pepo2018/52669
+#EXTINF:-1,Da Vinci Learning
+http://iptvtool.es:9977/pepo/pepo2018/52668
+#EXTINF:-1,Discovery HD
+http://iptvtool.es:9977/pepo/pepo2018/52667
+#EXTINF:-1,Discovery Life
+http://iptvtool.es:9977/pepo/pepo2018/52666
+#EXTINF:-1,Discovery Science
+http://iptvtool.es:9977/pepo/pepo2018/52665
+#EXTINF:-1,Discovery Turbo Xtra
+http://iptvtool.es:9977/pepo/pepo2018/52664
+#EXTINF:-1,Disney Channel
+http://iptvtool.es:9977/pepo/pepo2018/52663
+#EXTINF:-1,Filmbox
+http://iptvtool.es:9977/pepo/pepo2018/52662
+#EXTINF:-1,Filmbox Action
+http://iptvtool.es:9977/pepo/pepo2018/52661
+#EXTINF:-1,Filmbox Family
+http://iptvtool.es:9977/pepo/pepo2018/52660
+#EXTINF:-1,Filmbox Premium
+http://iptvtool.es:9977/pepo/pepo2018/52659
+#EXTINF:-1,Fox Comedy
+http://iptvtool.es:9977/pepo/pepo2018/52657
+#EXTINF:-1,Fox HD
+http://iptvtool.es:9977/pepo/pepo2018/52656
+#EXTINF:-1,HBO 2
+http://iptvtool.es:9977/pepo/pepo2018/52655
+#EXTINF:-1,HBO HD
+http://iptvtool.es:9977/pepo/pepo2018/52654
+#EXTINF:-1,History
+http://iptvtool.es:9977/pepo/pepo2018/52653
+#EXTINF:-1,Kino Polska
+http://iptvtool.es:9977/pepo/pepo2018/52652
+#EXTINF:-1,Kino Polska Muzyka
+http://iptvtool.es:9977/pepo/pepo2018/52651
+#EXTINF:-1,Kuchina HD
+http://iptvtool.es:9977/pepo/pepo2018/52650
+#EXTINF:-1,Mini Mini
+http://iptvtool.es:9977/pepo/pepo2018/52649
+#EXTINF:-1,Motorwizja
+http://iptvtool.es:9977/pepo/pepo2018/52648
+#EXTINF:-1,MTV Polska
+http://iptvtool.es:9977/pepo/pepo2018/52647
+#EXTINF:-1,National Geo Wild
+http://iptvtool.es:9977/pepo/pepo2018/52646
+#EXTINF:-1,National Geographic
+http://iptvtool.es:9977/pepo/pepo2018/52645
+#EXTINF:-1,Nickelodeon
+http://iptvtool.es:9977/pepo/pepo2018/52644
+#EXTINF:-1,Planete HD
+http://iptvtool.es:9977/pepo/pepo2018/52643
+#EXTINF:-1,Polo TV
+http://iptvtool.es:9977/pepo/pepo2018/52642
+#EXTINF:-1,Polsat 2
+http://iptvtool.es:9977/pepo/pepo2018/52641
+#EXTINF:-1,Polsat Cafe
+http://iptvtool.es:9977/pepo/pepo2018/52640
+#EXTINF:-1,Polsat Film
+http://iptvtool.es:9977/pepo/pepo2018/52639
+#EXTINF:-1,Polsat HD
+http://iptvtool.es:9977/pepo/pepo2018/52638
+#EXTINF:-1,Polsat News
+http://iptvtool.es:9977/pepo/pepo2018/52637
+#EXTINF:-1,Polsat Play
+http://iptvtool.es:9977/pepo/pepo2018/52635
+#EXTINF:-1,Teletoon  HD
+http://iptvtool.es:9977/pepo/pepo2018/52634
+#EXTINF:-1,Telewizja
+http://iptvtool.es:9977/pepo/pepo2018/52633
+#EXTINF:-1,Travel Channel
+http://iptvtool.es:9977/pepo/pepo2018/52658
+#EXTINF:-1,Trwam
+http://iptvtool.es:9977/pepo/pepo2018/52632
+#EXTINF:-1,TTV HD
+http://iptvtool.es:9977/pepo/pepo2018/52636
+#EXTINF:-1,TV 4
+http://iptvtool.es:9977/pepo/pepo2018/52631
+#EXTINF:-1,TV 6
+http://iptvtool.es:9977/pepo/pepo2018/52630
+#EXTINF:-1,TV Asta
+http://iptvtool.es:9977/pepo/pepo2018/52629
+#EXTINF:-1,TV Puls
+http://iptvtool.es:9977/pepo/pepo2018/52628
+#EXTINF:-1,TV Republika
+http://iptvtool.es:9977/pepo/pepo2018/52627
+#EXTINF:-1,TV Trwam
+http://iptvtool.es:9977/pepo/pepo2018/52626
+#EXTINF:-1,TVN
+http://iptvtool.es:9977/pepo/pepo2018/52625
+#EXTINF:-1,TVN 24
+http://iptvtool.es:9977/pepo/pepo2018/52624
+#EXTINF:-1,TVN 7
+http://iptvtool.es:9977/pepo/pepo2018/52623
+#EXTINF:-1,TVN Style
+http://iptvtool.es:9977/pepo/pepo2018/52622
+#EXTINF:-1,TVN Turbo
+http://iptvtool.es:9977/pepo/pepo2018/52621
+#EXTINF:-1,TVP 1 HD
+http://iptvtool.es:9977/pepo/pepo2018/52620
+#EXTINF:-1,TVP 2 HD
+http://iptvtool.es:9977/pepo/pepo2018/52619
+#EXTINF:-1,TVP 3
+http://iptvtool.es:9977/pepo/pepo2018/52618
+#EXTINF:-1,TVP Info
+http://iptvtool.es:9977/pepo/pepo2018/52617
+#EXTINF:-1,TVP Polonia
+http://iptvtool.es:9977/pepo/pepo2018/52616
+#EXTINF:-1,TVP Seriale
+http://iptvtool.es:9977/pepo/pepo2018/52615
+#EXTINF:-1,Twoja TV
+http://iptvtool.es:9977/pepo/pepo2018/52614
+#EXTINF:-1,WTK
+http://iptvtool.es:9977/pepo/pepo2018/52613
