@@ -1,133 +1,673 @@
 #EXTM3U
-#EXTINF:0,QR: BEIN SPORT 2 HD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/636
-#EXTINF:0,QR: BEIN SPORT 3 HD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/635
-#EXTINF:0,QR: BEIN SPORT 4 HD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/634
-#EXTINF:0,QR: BEIN SPORT 5 HD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/633
-#EXTINF:0,QR: BEIN SPORT 6 HD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/632
-#EXTINF:0,QR: BEIN SPORT 7 HD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/631
-#EXTINF:0,QR: BEIN SPORT 8 HD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/630
-#EXTINF:0,QR: BEIN SPORT 9 HD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/629
-#EXTINF:0,QR: BEIN SPORT 10 HD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/628
-#EXTINF:0,|QR| BEIN SPORTS 1 SD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/4418
-#EXTINF:0,|QR| BEIN SPORTS 10 SD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/4475
-#EXTINF:0,|QR| BEIN SPORTS 2 SD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/4417
-#EXTINF:0,|QR| BEIN SPORTS 3 SD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/4416
-#EXTINF:0,|QR| BEIN SPORTS 4 SD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/4415
-#EXTINF:0,|QR| BEIN SPORTS 5 SD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/4414
-#EXTINF:0,|QR| BEIN SPORTS 6 SD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/4413
-#EXTINF:0,|QR| BEIN SPORTS 7 SD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/4412
-#EXTINF:0,|QR| BEIN SPORTS 8 SD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/4411
-#EXTINF:0,|QR| BEIN SPORTS 9 SD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/4474
-#EXTINF:0,TR: BEIN SPORT 1 HD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/1379
-#EXTINF:0,TR: BEIN SPORT 2 HD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/1380
-#EXTINF:0,TR: BEIN SPORT 3 HD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/1381
-#EXTINF:0,TR: BEIN SPORT 4 HD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/1382
-#EXTINF:0,BEIN SPORT 1 SD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/18296
-#EXTINF:0,BEIN SPORT 2 SD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/18297
-#EXTINF:0,BEIN SPORT 3 SD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/18298
-#EXTINF:0,BeIN SPORTS 1 FR SD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/5841
-#EXTINF:0,BeIN SPORTS 1-HD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/5311
-#EXTINF:0,BeIN SPORTS 2 FR SD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/5840
-#EXTINF:0,BeIN SPORTS 2-HD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/5312
-#EXTINF:0,BeIN SPORTS 3 FR SD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/5839
-#EXTINF:0,BeIN SPORTS 3-HD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/5313
-#EXTINF:0,BeIN SPORTS MAX 10-HD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/5314
-#EXTINF:0,BeIN SPORTS MAX 4-HD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/5315
-#EXTINF:0,BeIN SPORTS MAX 5-HD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/5316
-#EXTINF:0,BeIN SPORTS MAX 6-HD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/5317
-#EXTINF:0,BeIN SPORTS MAX 7-HD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/5318
-#EXTINF:0,BeIN SPORTS MAX 8-HD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/5319
-#EXTINF:0,BeIN SPORTS MAX 9-HD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/5320
-#EXTINF:0,BeIN SPORTS MAX FR 10 SD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/5763
-#EXTINF:0,BeIN SPORTS MAX FR 4 SD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/5769
-#EXTINF:0,BeIN SPORTS MAX FR 5 SD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/5768
-#EXTINF:0,BeIN SPORTS MAX FR 6 SD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/5767
-#EXTINF:0,BeIN SPORTS MAX FR 7 SD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/5766
-#EXTINF:0,BeIN SPORTS MAX FR 8 SD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/5765
-#EXTINF:0,BeIN SPORTS MAX FR 9 SD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/5764
-#EXTINF:0,BEINSPORT 1 FULL HD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/6506
-#EXTINF:0,BEINSPORT 2 FULL HD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/5549
-#EXTINF:0,BEINSPORT 3 FULL HD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/5548
-#EXTINF:0,BEINSPORT MAX 10 FULL HD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/5541
-#EXTINF:0,BEINSPORT MAX 4 FULL HD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/5547
-#EXTINF:0,BEINSPORT MAX 5 FULL HD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/5546
-#EXTINF:0,BEINSPORT MAX 6 FULL HD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/5545
-#EXTINF:0,BEINSPORT MAX 7 FULL HD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/5544
-#EXTINF:0,BEINSPORT MAX 8 FULL HD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/5543
-#EXTINF:0,BEINSPORT MAX 9 FULL HD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/5542
-#EXTINF:0,|FR| BEIN MAX  10
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/1365
-#EXTINF:0,|FR| BEIN MAX  9
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/1364
-#EXTINF:0,|FR| BEIN MAX 4
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/189
-#EXTINF:0,|FR| BEIN MAX 5
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/188
-#EXTINF:0,|FR| BEIN MAX 6
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/187
-#EXTINF:0,|FR| BEIN MAX 7
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/186
-#EXTINF:0,|FR| BEIN MAX 8
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/185
-#EXTINF:0,|FR| BEIN SPORT 1 SD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/4810
-#EXTINF:0,|FR| BEIN SPORT 2 SD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/4811
-#EXTINF:0,|FR| BEIN SPORT 3 SD
-http://tv.ultimate-iptv.pro:8000/jamel/jamel/4812
+#EXTINF:-1,|AR| BEINSPORTS NEWS HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/24979
+#EXTINF:-1,|AR| BEINSPORTS HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/24980
+#EXTINF:-1,|AR| BEINSPORTS HD1
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13688
+#EXTINF:-1,|AR| BEINSPORTS BKP1
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13687
+#EXTINF:-1,|AR| BEINSPORTS HD2
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13686
+#EXTINF:-1,|AR| BEINSPORTS BKP2
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13685
+#EXTINF:-1,|AR| BEINSPORTS HD3
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13684
+#EXTINF:-1,|AR| BEINSPORTS BKP3
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13683
+#EXTINF:-1,|AR| BEINSPORTS HD4
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13682
+#EXTINF:-1,|AR| BEINSPORTS BKP4
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13681
+#EXTINF:-1,|AR| BEINSPORTS HD5
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13680
+#EXTINF:-1,|AR| BEINSPORTS BKP5
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13679
+#EXTINF:-1,|AR| BEINSPORTS HD6
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13678
+#EXTINF:-1,|AR| BEINSPORTS BKP6
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13677
+#EXTINF:-1,|AR| BEINSPORTS HD7
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13676
+#EXTINF:-1,|AR| BEINSPORTS BKP7
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13675
+#EXTINF:-1,|AR| BEINSPORTS HD8
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13674
+#EXTINF:-1,|AR| BEINSPORTS BKP8
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13673
+#EXTINF:-1,|AR| BEINSPORTS HD9
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13672
+#EXTINF:-1,|AR| BEINSPORTS 9 BKP
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13587
+#EXTINF:-1,|AR| BEINSPORTS HD10
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13670
+#EXTINF:-1,|AR| BEINSPORTS BKP10
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13669
+#EXTINF:-1,|AR| BEINSPORTS HD11
+http://iptvpro.premium-itv.com:8789/Svgg/12345/24977
+#EXTINF:-1,|AR| BEINSPORTS HD12
+http://iptvpro.premium-itv.com:8789/Svgg/12345/24978
+#EXTINF:-1,|AR| BEINSPORTS HD13
+http://iptvpro.premium-itv.com:8789/Svgg/12345/21202
+#EXTINF:-1,|AR| BEINSPORTS HD14
+http://iptvpro.premium-itv.com:8789/Svgg/12345/21201
+#EXTINF:-1,|AR| BEINSPORTS HD15
+http://iptvpro.premium-itv.com:8789/Svgg/12345/21200
+#EXTINF:-1,|AR| BEINSPORTS HD16
+http://iptvpro.premium-itv.com:8789/Svgg/12345/21199
+#EXTINF:-1,|AR| BEINSPORTS HD17
+http://iptvpro.premium-itv.com:8789/Svgg/12345/21198
+#EXTINF:-1,|AR| BEINSPORTS MAX 1.HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/28065
+#EXTINF:-1,|AR| BEINSPORTS MAX 1 BKP
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13667
+#EXTINF:-1,|AR| BEINSPORTS MAX 2.HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/28064
+#EXTINF:-1,|AR| BEINSPORTS MAX 2 BKP
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13665
+#EXTINF:-1,|AR| BEINSPORT 1 FHD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13611
+#EXTINF:-1,|AR| BEINSPORT 2 FHD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13610
+#EXTINF:-1,|AR| BEINSPORT 3 FHD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13609
+#EXTINF:-1,|AR| BEINSPORT 4 FHD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13608
+#EXTINF:-1,|AR| BEINSPORT 5 FHD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13607
+#EXTINF:-1,|AR| BEINSPORT 6 FHD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13606
+#EXTINF:-1,|AR| BEINSPORT 7 FHD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13605
+#EXTINF:-1,|AR| BEINSPORT 8 FHD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13604
+#EXTINF:-1,|AR| BEINSPORT 9 FHD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13603
+#EXTINF:-1,|AR| BEINSPORT 10 FHD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13602
+#EXTINF:-1,|AR| BEOUTQ SPORT 1 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/28658
+#EXTINF:-1,|AR| BEOUTQ SPORT 2 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/28657
+#EXTINF:-1,|AR| BEOUTQ SPORT 3 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/28656
+#EXTINF:-1,|AR| BEOUTQ SPORT 4 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/28655
+#EXTINF:-1,|AR| BEOUTQ SPORT 5 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/28654
+#EXTINF:-1,|AR| BEOUTQ SPORT 6 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/28653
+#EXTINF:-1,|AR| BEINSPORTS 1  SD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13601
+#EXTINF:-1,|AR| BEINSPORTS 2  SD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13612
+#EXTINF:-1,|AR| BEINSPORTS 3  SD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13613
+#EXTINF:-1,|AR| BEINSPORTS 4  SD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13614
+#EXTINF:-1,|AR| BEINSPORTS 5  SD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13615
+#EXTINF:-1,|AR| BEINSPORTS 6  SD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13616
+#EXTINF:-1,|AR| BEINSPORTS 7 SD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13617
+#EXTINF:-1,|AR| BEINSPORTS 8 SD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13618
+#EXTINF:-1,|AR| BEINSPORTS 9  SD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13641
+#EXTINF:-1,|AR| BEINSPORTS 10  SD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13642
+#EXTINF:-1,|AR| BEINSPORTS 11  SD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13643
+#EXTINF:-1,|AR| AD SPORT 1HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/21196
+#EXTINF:-1,|AR| AD SPORT 2HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/21195
+#EXTINF:-1,|AR| AD SPORT 3HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/21194
+#EXTINF:-1,|AR| AD SPORT 4HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/21193
+#EXTINF:-1,|AR| AD SPORT 5HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/21192
+#EXTINF:-1,|AR| AD SPORT 6HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/21191
+#EXTINF:-1,|FR| RMC SPORT NEWS FHD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/35031
+#EXTINF:-1,|FR| RMC SPORT 1FHD
+http://163.172.52.182:8789/live/serversportp2/PMM106scdO/1.ts
+#EXTINF:-1,|FR| RMC SPORT 1HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/32718
+#EXTINF:-1,|FR| RMC SPORT ACCESS 1 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/37931
+#EXTINF:-1,|FR| RMC SPORT 2FHD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/32714
+#EXTINF:-1,|FR| RMC SPORT 2HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/32719
+#EXTINF:-1,|FR| RMC SPORT ACCESS 2 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/37930
+#EXTINF:-1,|FR| RMC SPORT 3FHD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/32715
+#EXTINF:-1,|FR| RMC SPORT 3HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/32720
+#EXTINF:-1,|FR| RMC SPORT ACCESS 3 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/37929
+#EXTINF:-1,|FR| RMC SPORT 4FHD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/32716
+#EXTINF:-1,|FR| RMC SPORT 4HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/32721
+#EXTINF:-1,|FR| RMC SPORT 4K
+http://iptvpro.premium-itv.com:8789/Svgg/12345/37942
+#EXTINF:-1,|FR| RMC SPORT LIVE 5FHD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/32717
+#EXTINF:-1,|FR| RMC SPORT LIVE 6 FHD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/37941
+#EXTINF:-1,|FR| RMC SPORT LIVE 7 FHD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/37940
+#EXTINF:-1,|FR| RMC SPORT LIVE 8 FHD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/37939
+#EXTINF:-1,|FR| RMC SPORT LIVE 9 FHD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/37938
+#EXTINF:-1,|FR| RMC SPORT LIVE 10 FHD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/37937
+#EXTINF:-1,|FR| RMC SPORT LIVE 11 FHD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/37936
+#EXTINF:-1,|FR| RMC SPORT LIVE 12 FHD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/37935
+#EXTINF:-1,|FR| RMC SPORT LIVE 13 FHD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/37934
+#EXTINF:-1,|FR| RMC SPORT LIVE 14 FHD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/37933
+#EXTINF:-1,|FR| RMC SPORT LIVE 15 FHD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/37932
+#EXTINF:-1,|FR| RMC SPORT LIVE 16 FHD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/35340
+#EXTINF:-1,|FR| BEINSPORTS 1 F.HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14160
+#EXTINF:-1,|FR| BEINSPORTS 1 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/28941
+#EXTINF:-1,|FR| BEINSPORT 1 SD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/92
+#EXTINF:-1,|FR| BEINSPORTS 2 F.HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14159
+#EXTINF:-1,|FR| BEINSPORTS 2 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/28943
+#EXTINF:-1,|FR| BEINSPORT 2 SD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/93
+#EXTINF:-1,|FR| BEINSPORTS 3 F.HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14158
+#EXTINF:-1,|FR| BEINSPORTS 3 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14163
+#EXTINF:-1,|FR| BEINSPORT 3 SD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/94
+#EXTINF:-1,|FR| BEINSPORT MAX 4
+http://iptvpro.premium-itv.com:8789/Svgg/12345/95
+#EXTINF:-1,|FR| BEINSPORT MAX 5
+http://iptvpro.premium-itv.com:8789/Svgg/12345/1088
+#EXTINF:-1,|FR| BEINSPORT MAX 6
+http://iptvpro.premium-itv.com:8789/Svgg/12345/1089
+#EXTINF:-1,|FR| BEINSPORT MAX 7
+http://iptvpro.premium-itv.com:8789/Svgg/12345/1113
+#EXTINF:-1,|FR| BEINSPORT MAX 8
+http://iptvpro.premium-itv.com:8789/Svgg/12345/1468
+#EXTINF:-1,|FR| BEINSPORT MAX 9
+http://iptvpro.premium-itv.com:8789/Svgg/12345/1469
+#EXTINF:-1,|FR| BEIN SPORT MAX 10
+http://iptvpro.premium-itv.com:8789/Svgg/12345/1470
+#EXTINF:-1,|FR| CANAL+ SPORT F.HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14156
+#EXTINF:-1,|FR| CANAL+ SPORT HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14161
+#EXTINF:-1,|FR| SPORT 365 FHD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/25040
+#EXTINF:-1,|FR| FOOT+
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13937
+#EXTINF:-1,|FR| FOOT+24 SD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/425
+#EXTINF:-1,|FR| FOOT  HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13936
+#EXTINF:-1,|FR| ONZEO FHD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13786
+#EXTINF:-1,|FR| MULTISPORTS 1
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13807
+#EXTINF:-1,|FR| MULTISPORTS 2
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13802
+#EXTINF:-1,|FR| MULTISPORTS 3
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13806
+#EXTINF:-1,|FR| MULTISPORTS 4
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13805
+#EXTINF:-1,|FR| TRACE SPORT FULLHD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13797
+#EXTINF:-1,|FR| BFM SPORT FHD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13843
+#EXTINF:-1,|FR| BFM SPORTS HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13943
+#EXTINF:-1,|FR| BFM HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13839
+#EXTINF:-1,|FR| INFOSPORT FHD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13729
+#EXTINF:-1,|FR| LEQUIPE 21 FHD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13728
+#EXTINF:-1,|FR| EQUIPE 21 SD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/1023
+#EXTINF:-1,|FR| OL TV FHD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13842
+#EXTINF:-1,|FR| GIRONDINS TV FHD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13785
+#EXTINF:-1,|FR| EXTREME SPORTS
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13740
+#EXTINF:-1,|FR| MUSCULATION TV HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13801
+#EXTINF:-1,|FR| AUTOMOTO  HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/1035
+#EXTINF:-1,|FR| MOTORSPORT HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13782
+#EXTINF:-1,|FR| MOTORSPORT FHD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13722
+#EXTINF:-1,|FR| EUROSPORT 1 FHD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13742
+#EXTINF:-1,|FR| EUROSPORT1 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14011
+#EXTINF:-1,|FR| EUROSPORT 2 FHD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13741
+#EXTINF:-1,|FR| EUROSPORT2 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14010
+#EXTINF:-1,|FR| EQUIDIA LIVE FHD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13743
+#EXTINF:-1,|FR| EQUIDIA LIVE HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14012
+#EXTINF:-1,|FR| EQUIDIA LIFE FHD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/13744
+#EXTINF:-1,|FR| EQUIDIA LIFE HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14013
+#EXTINF:-1,|FR| FRANCE O
+http://iptvpro.premium-itv.com:8789/Svgg/12345/89
+#EXTINF:-1,|FR| EQUIDIA LIVE
+http://iptvpro.premium-itv.com:8789/Svgg/12345/1036
+#EXTINF:-1,|FR| EQUIDIA LIFE
+http://iptvpro.premium-itv.com:8789/Svgg/12345/85
+#EXTINF:-1,|BE| VOO SPORT 1 FHD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14137
+#EXTINF:-1,|BE| VOO SPORT WORLD 1
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14136
+#EXTINF:-1,|BE| VOO SPORT WORLD 2
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14128
+#EXTINF:-1,|BE| ELEVEN SPORT 3
+http://iptvpro.premium-itv.com:8789/Svgg/12345/33590
+#EXTINF:-1,|BE| ELEVEN SPORT 1 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14134
+#EXTINF:-1,|BE| ELEVEN SPORT 2 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14133
+#EXTINF:-1,|CH| TELECLUB SPORT1
+http://iptvpro.premium-itv.com:8789/Svgg/12345/21764
+#EXTINF:-1,|CH|  TELECLUB SPORT 2
+http://iptvpro.premium-itv.com:8789/Svgg/12345/21763
+#EXTINF:-1,|AR| OSN SPORTS 3 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/29485
+#EXTINF:-1,|AR| OSN SPORTS 4 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/29484
+#EXTINF:-1,|AR| OSN SPORTS 5 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/29483
+#EXTINF:-1,|AR| OSN SPORTS ACTION 1 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/29482
+#EXTINF:-1,|AR| OSN SPORTS ACTION 2 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/29481
+#EXTINF:-1,|AR| OSN SPORTS CRICKET HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/29480
+#EXTINF:-1,|ES| M DEPORTES 1 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14065
+#EXTINF:-1,|ES| M DEPORTES 1
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14066
+#EXTINF:-1,|ES| M DEPORTES 2
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14064
+#EXTINF:-1,|ES| M DEPORTES 2 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14062
+#EXTINF:-1,|ES| TOROS TV
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23154
+#EXTINF:-1,|ES| M GOL TV
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14082
+#EXTINF:-1,|ES| M FÚTBOL FHD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14081
+#EXTINF:-1,|ES| M FÚTBOL
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14080
+#EXTINF:-1,|ES| M TELEDEPORTE
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14061
+#EXTINF:-1,|ES| M beINSPORT HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14076
+#EXTINF:-1,|ES| M beINSPORTS
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14077
+#EXTINF:-1,|ES| M beIN LALIGA
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14075
+#EXTINF:-1,|ES| M beIN LALIGA FHD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14073
+#EXTINF:-1,|ES| M LALIGA TV BAR
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14072
+#EXTINF:-1,|ES| M LALIGA TV Bar HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14071
+#EXTINF:-1,|ES| M REAL MADRID TV
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14084
+#EXTINF:-1,|ES| M BARCA TV
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14085
+#EXTINF:-1,|ES| M EUROSPORT 1 FULLHD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14060
+#EXTINF:-1,|ES| M EUROSPORT 1
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14059
+#EXTINF:-1,|ES| M PARTIDAZO HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14068
+#EXTINF:-1,|ES| M PARTIDAZO
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14069
+#EXTINF:-1,|ES| M FORMULA 1 FHD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14053
+#EXTINF:-1,|ES| M FORMULA 1 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14052
+#EXTINF:-1,|ES| M MOTOGP FHD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14051
+#EXTINF:-1,|ES| M MOTOGP HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14050
+#EXTINF:-1,|ES| M GOLF HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14057
+#EXTINF:-1,|PT| SPORT TV
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14108
+#EXTINF:-1,|PT| SPORT TV1 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14102
+#EXTINF:-1,|PT| SPORT TV1
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14107
+#EXTINF:-1,|PT| SPORT TV2 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14101
+#EXTINF:-1,|PT| SPORT TV2
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14106
+#EXTINF:-1,|PT| SPORT TV3 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14100
+#EXTINF:-1,|PT| SPORT TV3
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14105
+#EXTINF:-1,|PT| SPORT TV4 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14099
+#EXTINF:-1,|PT| SPORT TV4
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14104
+#EXTINF:-1,|PT| SPORT TV5 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14098
+#EXTINF:-1,|PT| SPORT TV5
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14103
+#EXTINF:-1,|PT| ELEVEN SPORTS 1 FHD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/29988
+#EXTINF:-1,|PT| ELEVEN SPORTS 1 BKP
+http://iptvpro.premium-itv.com:8789/Svgg/12345/35371
+#EXTINF:-1,|PT| ELEVEN SPORTS 2 FHD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/29987
+#EXTINF:-1,|PT| ELEVEN SPORTS 2 BKP
+http://iptvpro.premium-itv.com:8789/Svgg/12345/35372
+#EXTINF:-1,|PT| ELEVEN SPORTS 3 FHD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/29986
+#EXTINF:-1,|PT| ELEVEN SPORTS 3 BKP
+http://iptvpro.premium-itv.com:8789/Svgg/12345/35373
+#EXTINF:-1,|PT| ELEVEN SPORTS 4 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/29985
+#EXTINF:-1,|PT| ELEVEN SPORTS 5 FHD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/29984
+#EXTINF:-1,|PT| ELEVEN SPORTS 6 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/29983
+#EXTINF:-1,|PT| BENIFICA TV FHD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14092
+#EXTINF:-1,|PT| BENIFICA TV
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14093
+#EXTINF:-1,|PT| SPORTING TV
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14091
+#EXTINF:-1,|PT| A BOLA TV
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14087
+#EXTINF:-1,|PT| PFC
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14086
+#EXTINF:-1,|PT| KOMBATSPORT
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14090
+#EXTINF:-1,|PT| EUROSPORT NEWS
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14096
+#EXTINF:-1,|PT| EUROSPORT 1HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14097
+#EXTINF:-1,|PT| EUROSPORT 1
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14095
+#EXTINF:-1,|PT| EUROSPORT 2
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14094
+#EXTINF:-1,|PT| FUEL TV
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23234
+#EXTINF:-1,|PT| MOTORSPORT TV
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14089
+#EXTINF:-1,|PT| MOTORVISION
+http://iptvpro.premium-itv.com:8789/Svgg/12345/14088
+#EXTINF:-1,|PT| TOROS
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23233
+#EXTINF:-1,|BR| SPORTV1
+http://iptvpro.premium-itv.com:8789/Svgg/12345/24909
+#EXTINF:-1,|BR| SPORTV2
+http://iptvpro.premium-itv.com:8789/Svgg/12345/24908
+#EXTINF:-1,|BR| SPORTV3
+http://iptvpro.premium-itv.com:8789/Svgg/12345/24907
+#EXTINF:-1,|BR| FOX SPORT
+http://iptvpro.premium-itv.com:8789/Svgg/12345/24917
+#EXTINF:-1,|BR| FOX SPORT2
+http://iptvpro.premium-itv.com:8789/Svgg/12345/24916
+#EXTINF:-1,|BR| COMBATE
+http://iptvpro.premium-itv.com:8789/Svgg/12345/24920
+#EXTINF:-1,|UK| SKY SPORT NEWS HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23458
+#EXTINF:-1,|UK| SKY SPORT PREMIERE LEAGUE
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23457
+#EXTINF:-1,|UK| SKY SPORT CRICKET
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23456
+#EXTINF:-1,|UK| SKY SPORT ACTION
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23455
+#EXTINF:-1,|UK| SKY SPORT GOLF HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23454
+#EXTINF:-1,|UK| SKY SPORT FOOTBALL HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23453
+#EXTINF:-1,|UK| BT SPORT HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23452
+#EXTINF:-1,|UK| BT SPORT2HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23451
+#EXTINF:-1,|UK| BT SPORT3FHD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23450
+#EXTINF:-1,|UK| BTSPORT ESPN HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23449
+#EXTINF:-1,|UK| CHELSEA
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23446
+#EXTINF:-1,|UK| SKY SPORTF1
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23445
+#EXTINF:-1,|UK| EUROSPORT UK
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23444
+#EXTINF:-1,|UK| EUROSPORT2
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23443
+#EXTINF:-1,|UK| Setanta Sport 1
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23447
+#EXTINF:-1,|UK| SetantaSports Ireland
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23448
+#EXTINF:-1,|UK| PREMIER SPORTS
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23442
+#EXTINF:-1,|UK| MOTORS
+http://iptvpro.premium-itv.com:8789/Svgg/12345/28358
+#EXTINF:-1,|UK| BIKE
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23441
+#EXTINF:-1,|UK| AT THE RACES
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23440
+#EXTINF:-1,|UK| FIGHTBOX
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23439
+#EXTINF:-1,|IT| SKY SPORT 24 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23588
+#EXTINF:-1,|IT| SKY SPORT UNO HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23587
+#EXTINF:-1,|IT| SKY SPORT 2 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23586
+#EXTINF:-1,|IT| SKY SPORT FOOTBALL  HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23585
+#EXTINF:-1,|IT| SKY SPORT ARENA FHD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23584
+#EXTINF:-1,|IT| SKY SPORT MIX HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23583
+#EXTINF:-1,|IT| SKY SUPERCALCIO
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23582
+#EXTINF:-1,|IT| SKY SPORT F1
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23580
+#EXTINF:-1,|IT| SKY MOTO GP
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23579
+#EXTINF:-1,|IT| EUROSPORT 1 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23578
+#EXTINF:-1,|IT| EUROSPORT 2 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23577
+#EXTINF:-1,|IT| SPORT ITALIA
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23576
+#EXTINF:-1,|IT| FIGHT CHANNEL
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23575
+#EXTINF:-1,|IT| SUPER TENNIS HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23574
+#EXTINF:-1,|IT| MILAN CHANNEL HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23571
+#EXTINF:-1,|IT| JUVENTUS TV
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23570
+#EXTINF:-1,|IT| INTER CHANNEL
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23569
+#EXTINF:-1,|IT| ROMA TV
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23568
+#EXTINF:-1,|IT| LAZIO CHANNEL HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23567
+#EXTINF:-1,|IT| TOP CALCIO 24
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23566
+#EXTINF:-1,|IT| PREMIUM SPORT HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23471
+#EXTINF:-1,|IT| PREMIUM SPORT 2
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23470
+#EXTINF:-1,|IT| FOX SPORT
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23581
+#EXTINF:-1,IT|PREMIUM EUROSPORT 1
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23468
+#EXTINF:-1,PREMIUM_EUROSPORT-2
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23467
+#EXTINF:-1,|IT| PREMIUM CALCIO 1
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23466
+#EXTINF:-1,|IT| PREMIUM CALCIO 2
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23465
+#EXTINF:-1,|DE| SKY SPORT NEWS HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23706
+#EXTINF:-1,|DE| SKY SPORT 1HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23705
+#EXTINF:-1,|DE|SKY SPORT 2
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23702
+#EXTINF:-1,|DE| SKY SPORT 3HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23701
+#EXTINF:-1,|DE| SKY SPORT 4HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23700
+#EXTINF:-1,|DE| SKY SPORT 5HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23699
+#EXTINF:-1,|DE| SKY SPORT 6HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23698
+#EXTINF:-1,|DE| SKY SPORT 7HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23697
+#EXTINF:-1,|DE| EUROSPORT 1 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23689
+#EXTINF:-1,|DE| EUROSPORT 2 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23688
+#EXTINF:-1,|DE| SPORT 1
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23687
+#EXTINF:-1,|DE| SPORT 1   HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23686
+#EXTINF:-1,|DE| AUTO MOTOR SPORT
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23685
+#EXTINF:-1,|NL| FOX SPORT1 EREDIVISIE HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23841
+#EXTINF:-1,|NL| FOX SPORT 2HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23840
+#EXTINF:-1,|NL| FOX SPORT 3 EREDIVISIE HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23839
+#EXTINF:-1,|NL| FOX  SPORT 4HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23838
+#EXTINF:-1,|NL| FOX SPORT 5 EREDIVISIE HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23837
+#EXTINF:-1,|NL| FOX SPORTS 6HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23836
+#EXTINF:-1,|NL| ELEVEN SPORT 1 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/33593
+#EXTINF:-1,|NL| ELEVEN SPORT 2 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/33592
+#EXTINF:-1,|NL| ELEVEN SPORT 3 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/33591
+#EXTINF:-1,|NL| Ziggo Sport Voetbal
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23835
+#EXTINF:-1,|NL| Ziggo Sport Extra1
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23834
+#EXTINF:-1,|NL| Ziggo Sport Extra 2
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23833
+#EXTINF:-1,|NL| Ziggo Sport Racing
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23832
+#EXTINF:-1,|NL| Ziggo Sport Select
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23831
+#EXTINF:-1,|NL| Ziggo Sport Golf
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23830
+#EXTINF:-1,|NL| Sport 1 SelectHD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23829
+#EXTINF:-1,|NL| EUROSPORT
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23828
+#EXTINF:-1,|NL| EUROSPORT 2HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23827
+#EXTINF:-1,|NL| Edge Sport HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23826
+#EXTINF:-1,|NL| Sport1 Voetbal
+http://iptvpro.premium-itv.com:8789/Svgg/12345/23825
+#EXTINF:-1,|USA| beINSPORT US
+http://iptvpro.premium-itv.com:8789/Svgg/12345/24109
+#EXTINF:-1,|USA| FOX SPORT 1HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/24107
+#EXTINF:-1,|USA| FOX SPORT 2HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/24106
+#EXTINF:-1,|USA| ESPN
+http://iptvpro.premium-itv.com:8789/Svgg/12345/24105
+#EXTINF:-1,|USA| ESPN 2HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/24104
+#EXTINF:-1,|USA| CBS SPORTS NET
+http://iptvpro.premium-itv.com:8789/Svgg/12345/24098
+#EXTINF:-1,|USA| NBC SPORTS Net HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/24097
+#EXTINF:-1,|USA| NBC GOLF
+http://iptvpro.premium-itv.com:8789/Svgg/12345/24096
+#EXTINF:-1,|USA| Tennis Channel HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/24095
+#EXTINF:-1,|USA| FOX DEPORTES
+http://iptvpro.premium-itv.com:8789/Svgg/12345/24094
+#EXTINF:-1,|USA| WWE HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/24093
+#EXTINF:-1,|RO| DIGI SPORT 1 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/37711
+#EXTINF:-1,|RO| Digi Sport 2 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/37710
+#EXTINF:-1,|RO| Digi Sport 3 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/37709
+#EXTINF:-1,|RO| Digi Sport 4 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/37708
+#EXTINF:-1,|RO| DOLCE SPORT 1 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/37702
+#EXTINF:-1,|RO| DOLCE SPORT 2 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/37701
+#EXTINF:-1,|RO| DOLCE SPORT 3 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/37700
+#EXTINF:-1,|RO| DOLCE SPORT 5 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/37699
+#EXTINF:-1,|RO| Dolce Sport 6 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/37698
+#EXTINF:-1,|RO| Etno Tv HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/37697
+#EXTINF:-1,|RO| EUROSPORT 1 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/37696
+#EXTINF:-1,|RO| EUROSPORT 2 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/37695
+#EXTINF:-1,|RO| Telekom Sport 1 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/37657
+#EXTINF:-1,|RO| Telekom Sport 2 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/37656
+#EXTINF:-1,|RO| TELEKOM SPORT 3 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/37655
+#EXTINF:-1,|RO| TELEKOM SPORT 4 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/37654
+#EXTINF:-1,|RO| Telekom Sport 5 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/37653
+#EXTINF:-1,|RO| Telekom Sport 6 HD
+http://iptvpro.premium-itv.com:8789/Svgg/12345/37652
+#EXTINF:-1,|RU| DigiSport 2
+http://iptvpro.premium-itv.com:8789/Svgg/12345/30707
+#EXTINF:-1,|RU| DigiSport 3
+http://iptvpro.premium-itv.com:8789/Svgg/12345/30706
+#EXTINF:-1,|RU| DigiSport 4
+http://iptvpro.premium-itv.com:8789/Svgg/12345/30705
