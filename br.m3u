@@ -1,671 +1,483 @@
 #EXTM3U
-#EXTINF:0,A&E HD
-http://streamtv.com.br:80/rodolfo/1234/233
-#EXTINF:0,AMC
-http://streamtv.com.br:80/rodolfo/1234/1666
-#EXTINF:0,AMC HD
-http://streamtv.com.br:80/rodolfo/1234/232
-#EXTINF:0,ANIMAL PLANET
-http://streamtv.com.br:80/rodolfo/1234/1665
-#EXTINF:0,ANIMAL PLANET HD
-http://streamtv.com.br:80/rodolfo/1234/231
-#EXTINF:0,ARTE 1
-http://streamtv.com.br:80/rodolfo/1234/1664
-#EXTINF:0,ARTE 1 HD
-http://streamtv.com.br:80/rodolfo/1234/230
-#EXTINF:0,AXN
-http://streamtv.com.br:80/rodolfo/1234/1663
-#EXTINF:0,AXN HD
-http://streamtv.com.br:80/rodolfo/1234/229
-#EXTINF:0,AXN FHD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/20042
-#EXTINF:0,BAND SD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/20039
-#EXTINF:0,BAND HD
-http://streamtv.com.br:80/rodolfo/1234/228
-#EXTINF:0,BAND FHD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/20041
-#EXTINF:0,BAND NEWS
-http://streamtv.com.br:80/rodolfo/1234/1660
-#EXTINF:0,BAND NEWS HD
-http://streamtv.com.br:80/rodolfo/1234/227
-#EXTINF:0,BAND NEWS FHD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/20040
-#EXTINF:0,BAND SPORTS
-http://streamtv.com.br:80/rodolfo/1234/1659
-#EXTINF:0,BAND SPORTS HD
-http://streamtv.com.br:80/rodolfo/1234/226
-#EXTINF:0,BAND SPORTS HD II
-http://streamtv.com.br:80/rodolfo/1234/20037
-#EXTINF:0,Band Sports FHD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/20038
-#EXTINF:0,BOOMERANG
-http://streamtv.com.br:80/rodolfo/1234/1656
-#EXTINF:0,BOOMERANG HD
-http://streamtv.com.br:80/rodolfo/1234/223
-#EXTINF:0,CAN«√O NOVA
-http://streamtv.com.br:80/rodolfo/1234/3164
-#EXTINF:0,CANAL SONY
-http://streamtv.com.br:80/rodolfo/1234/1654
-#EXTINF:0,CANAL SONY HD
-http://streamtv.com.br:80/rodolfo/1234/221
-#EXTINF:0,CARTOON NETWORK
-http://streamtv.com.br:80/rodolfo/1234/1652
-#EXTINF:0,CARTOON NETWORK HD
-http://streamtv.com.br:80/rodolfo/1234/220
-#EXTINF:0,Cartoon Network FHD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/20035
-#EXTINF:0,CINEMAX
-http://streamtv.com.br:80/rodolfo/1234/1651
-#EXTINF:0,CINEMAX HD
-http://streamtv.com.br:80/rodolfo/1234/219
-#EXTINF:0,COMBATE
-http://streamtv.com.br:80/rodolfo/1234/1650
-#EXTINF:0,COMBATE HD
-http://streamtv.com.br:80/rodolfo/1234/218
-#EXTINF:0,COMBATE FHD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/20034
-#EXTINF:0,COMEDY CENTRAL
-http://streamtv.com.br:80/rodolfo/1234/1649
-#EXTINF:0,COMEDY CENTRAL ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/20032
-#EXTINF:0,COMEDY CENTRAL HD
-http://streamtv.com.br:80/rodolfo/1234/217
-#EXTINF:0,COMEDY CENTRAL FHD
-http://streamtv.com.br:80/rodolfo/1234/20033
-#EXTINF:0,CURTA!
-http://streamtv.com.br:80/rodolfo/1234/1648
-#EXTINF:0,CURTA! HD
-http://streamtv.com.br:80/rodolfo/1234/216
-#EXTINF:0,DISCOVERY CHANNEL
-http://streamtv.com.br:80/rodolfo/1234/1647
-#EXTINF:0,DISCOVERY CHANNEL HD
-http://streamtv.com.br:80/rodolfo/1234/215
-#EXTINF:0,DISCOVERY CIVILIZATION
-http://streamtv.com.br:80/rodolfo/1234/1646
-#EXTINF:0,DISCOVERY CIVILIZATION HD
-http://streamtv.com.br:80/rodolfo/1234/214
-#EXTINF:0,DISCOVERY HOME & HEALTH
-http://streamtv.com.br:80/rodolfo/1234/1645
-#EXTINF:0,DISCOVERY HOME & HEALTH HD
-http://streamtv.com.br:80/rodolfo/1234/213
-#EXTINF:0,DISCOVERY KIDS
-http://streamtv.com.br:80/rodolfo/1234/1644
-#EXTINF:0,DISCOVERY KIDS HD
-http://streamtv.com.br:80/rodolfo/1234/212
-#EXTINF:0,DISCOVERY SCIENCE
-http://streamtv.com.br:80/rodolfo/1234/1643
-#EXTINF:0,DISCOVERY SCIENCE HD
-http://streamtv.com.br:80/rodolfo/1234/211
-#EXTINF:0,DISCOVERY THEATER
-http://streamtv.com.br:80/rodolfo/1234/1642
-#EXTINF:0,DISCOVERY THEATER HD
-http://streamtv.com.br:80/rodolfo/1234/210
-#EXTINF:0,DISCOVERY TURBO
-http://streamtv.com.br:80/rodolfo/1234/1641
-#EXTINF:0,DISCOVERY TURBO HD
-http://streamtv.com.br:80/rodolfo/1234/209
-#EXTINF:0,DISCOVERY TURBO HD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/20030
-#EXTINF:0,DISCOVERY TURBO FHD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/20031
-#EXTINF:0,DISCOVERY WORLD
-http://streamtv.com.br:80/rodolfo/1234/1640
-#EXTINF:0,DISCOVERY WORLD  HD
-http://streamtv.com.br:80/rodolfo/1234/208
-#EXTINF:0,DISNEY CHANNEL
-http://streamtv.com.br:80/rodolfo/1234/1639
-#EXTINF:0,DISNEY CHANNEL HD
-http://streamtv.com.br:80/rodolfo/1234/207
-#EXTINF:0,DISNEY JR HD
-http://streamtv.com.br:80/rodolfo/1234/234
-#EXTINF:0,DISNEY JUNIOR
-http://streamtv.com.br:80/rodolfo/1234/1638
-#EXTINF:0,DISNEY XD
-http://streamtv.com.br:80/rodolfo/1234/1637
-#EXTINF:0,E!
-http://streamtv.com.br:80/rodolfo/1234/1635
-#EXTINF:0,E! HD
-http://streamtv.com.br:80/rodolfo/1234/206
-#EXTINF:0,ESPN
-http://streamtv.com.br:80/rodolfo/1234/1668
-#EXTINF:0,ESPN HD
-http://streamtv.com.br:80/rodolfo/1234/202
-#EXTINF:0,ESPN HD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/20026
-#EXTINF:0,ESPN FHD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/20027
-#EXTINF:0,ESPN BRASIL
-http://streamtv.com.br:80/rodolfo/1234/1633
-#EXTINF:0,ESPN BRASIL HD
-http://streamtv.com.br:80/rodolfo/1234/204
-#EXTINF:0,ESPN EXTRA
-http://streamtv.com.br:80/rodolfo/1234/1632
-#EXTINF:0,ESPN EXTRA ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/20028
-#EXTINF:0,ESPN EXTRA HD
-http://streamtv.com.br:80/rodolfo/1234/726
-#EXTINF:0,ESPN EXTRA FHD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/20029
-#EXTINF:0,ESPN+
-http://streamtv.com.br:80/rodolfo/1234/1634
-#EXTINF:0,ESPN+ HD
-http://streamtv.com.br:80/rodolfo/1234/205
-#EXTINF:0,PLAYKIDS SD
-http://streamtv.com.br:80/rodolfo/1234/1629
-#EXTINF:0,PLAYKIDS HD
-http://streamtv.com.br:80/rodolfo/1234/199
-#EXTINF:0,FISH TV
-http://streamtv.com.br:80/rodolfo/1234/1628
-#EXTINF:0,FISH TV HD
-http://streamtv.com.br:80/rodolfo/1234/272
-#EXTINF:0,FOOD NETWORK
-http://streamtv.com.br:80/rodolfo/1234/1627
-#EXTINF:0,FOOD NETWORK HD
-http://streamtv.com.br:80/rodolfo/1234/198
-#EXTINF:0,FOX
-http://streamtv.com.br:80/rodolfo/1234/1626
-#EXTINF:0,FOX HD
-http://streamtv.com.br:80/rodolfo/1234/197
-#EXTINF:0,FOX FHD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/20025
-#EXTINF:0,FOX LIFE
-http://streamtv.com.br:80/rodolfo/1234/1625
-#EXTINF:0,FOX LIVE II
-http://streamtv.com.br:80/rodolfo/1234/20023
-#EXTINF:0,FOX LIFE HD
-http://streamtv.com.br:80/rodolfo/1234/196
-#EXTINF:0,FOX LIFE FHD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/20024
-#EXTINF:0,FILM & ARTS
-http://streamtv.com.br:80/rodolfo/1234/4338
-#EXTINF:0,FOX PREMIUM 1
-http://streamtv.com.br:80/rodolfo/1234/1624
-#EXTINF:0,FOX PREMIUM 1 HD
-http://streamtv.com.br:80/rodolfo/1234/195
-#EXTINF:0,Fox Premium 1 FHD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/20022
-#EXTINF:0,FOX PREMIUM 2
-http://streamtv.com.br:80/rodolfo/1234/1623
-#EXTINF:0,FOX PREMIUM 2 HD
-http://streamtv.com.br:80/rodolfo/1234/194
-#EXTINF:0,FOX PREMIUM 2 FHD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/20021
-#EXTINF:0,FOX MOVIES PT HD
-http://streamtv.com.br:80/rodolfo/1234/20048
-#EXTINF:0,FOX SPORTS
-http://streamtv.com.br:80/rodolfo/1234/1622
-#EXTINF:0,FOX SPORTS 1 HD
-http://streamtv.com.br:80/rodolfo/1234/192
-#EXTINF:0,FOX SPORTS FHD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/20018
-#EXTINF:0,FOX SPORTS HD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/20017
-#EXTINF:0,FOX SPORTS 2
-http://streamtv.com.br:80/rodolfo/1234/1621
-#EXTINF:0,FOX SPORTS 2 HD
-http://streamtv.com.br:80/rodolfo/1234/193
-#EXTINF:0,FOX SPORTS 2 HD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/20019
-#EXTINF:0,FOX SPORTS 2 FHD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/20020
-#EXTINF:0,FUTURA
-http://streamtv.com.br:80/rodolfo/1234/1620
-#EXTINF:0,FX
-http://streamtv.com.br:80/rodolfo/1234/1619
-#EXTINF:0,FX HD
-http://streamtv.com.br:80/rodolfo/1234/190
-#EXTINF:0,GLOBO HD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/20012
-#EXTINF:0,GLOBO FHD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/20016
-#EXTINF:0,GLOBO FHD RJ ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/20015
-#EXTINF:0,GLOBO BRASILIA
-http://streamtv.com.br:80/rodolfo/1234/1618
-#EXTINF:0,GLOBO BRASILIA HD
-http://streamtv.com.br:80/rodolfo/1234/723
-#EXTINF:0,GLOBO EPTV CAMPINAS
-http://streamtv.com.br:80/rodolfo/1234/1617
-#EXTINF:0,GLOBO EPTV CAMPINAS HD
-http://streamtv.com.br:80/rodolfo/1234/1675
-#EXTINF:0,GLOBO EPTV RIBEIR√O PRETO HD
-http://streamtv.com.br:80/rodolfo/1234/1674
-#EXTINF:0,GLOBO EPTV RIBEIR√O PRETO
-http://streamtv.com.br:80/rodolfo/1234/1616
-#EXTINF:0,GLOBO MINAS
-http://streamtv.com.br:80/rodolfo/1234/1615
-#EXTINF:0,GLOBO MINAS HD
-http://streamtv.com.br:80/rodolfo/1234/1673
-#EXTINF:0,Globo Now HD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/19072
-#EXTINF:0,GLOBO NEWS
-http://streamtv.com.br:80/rodolfo/1234/1614
-#EXTINF:0,GLOBO NEWS HD
-http://streamtv.com.br:80/rodolfo/1234/185
-#EXTINF:0,GLOBO NEWS HD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/20010
-#EXTINF:0,GLOBO NORDESTE
-http://streamtv.com.br:80/rodolfo/1234/1613
-#EXTINF:0,GLOBO NORDESTE HD
-http://streamtv.com.br:80/rodolfo/1234/1671
-#EXTINF:0,GLOBO NSC TV
-http://streamtv.com.br:80/rodolfo/1234/1677
-#EXTINF:0,GLOBO NSC TV HD
-http://streamtv.com.br:80/rodolfo/1234/1672
-#EXTINF:0,GLOBO RBS
-http://streamtv.com.br:80/rodolfo/1234/1612
-#EXTINF:0,GLOBO RBS HD
-http://streamtv.com.br:80/rodolfo/1234/182
-#EXTINF:0,GLOBO RJ
-http://streamtv.com.br:80/rodolfo/1234/1611
-#EXTINF:0,GLOBO RJ HD
-http://streamtv.com.br:80/rodolfo/1234/181
-#EXTINF:0,GLOBO HD RJ ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/20011
-#EXTINF:0,GLOBO RPC CURITIBA
-http://streamtv.com.br:80/rodolfo/1234/1610
-#EXTINF:0,GLOBO RPC CURITIBA HD
-http://streamtv.com.br:80/rodolfo/1234/1670
-#EXTINF:0,GLOBO S. J. DO RIO PRETO
-http://streamtv.com.br:80/rodolfo/1234/1605
-#EXTINF:0,GLOBO S. J. DO RIO PRETO HD
-http://streamtv.com.br:80/rodolfo/1234/1049
-#EXTINF:0,GLOBO SP
-http://streamtv.com.br:80/rodolfo/1234/1609
-#EXTINF:0,GLOBO SP HD
-http://streamtv.com.br:80/rodolfo/1234/275
-#EXTINF:0,GLOBO TV ANHANGUERA
-http://streamtv.com.br:80/rodolfo/1234/1608
-#EXTINF:0,GLOBO TV ANHANGUERA HD
-http://streamtv.com.br:80/rodolfo/1234/1669
-#EXTINF:0,GLOBO TV BAHIA
-http://streamtv.com.br:80/rodolfo/1234/1607
-#EXTINF:0,GLOBO TV BAHIA HD
-http://streamtv.com.br:80/rodolfo/1234/1676
-#EXTINF:0,GLOBO GAZETA SUL FHD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/20014
-#EXTINF:0,GLOBO GAZETA SUL HD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/20013
-#EXTINF:0,GLOOB
-http://streamtv.com.br:80/rodolfo/1234/1603
-#EXTINF:0,GLOOB HD
-http://streamtv.com.br:80/rodolfo/1234/176
-#EXTINF:0,GLOOBINHO HD
-http://streamtv.com.br:80/rodolfo/1234/175
-#EXTINF:0,GLOOBINHO
-http://streamtv.com.br:80/rodolfo/1234/1602
-#EXTINF:0,GNT
-http://streamtv.com.br:80/rodolfo/1234/1601
-#EXTINF:0,GNT HD
-http://streamtv.com.br:80/rodolfo/1234/174
-#EXTINF:0,H2
-http://streamtv.com.br:80/rodolfo/1234/1600
-#EXTINF:0,H2 HD
-http://streamtv.com.br:80/rodolfo/1234/173
-#EXTINF:0,H2 FHD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/20009
-#EXTINF:0,HBO
-http://streamtv.com.br:80/rodolfo/1234/1599
-#EXTINF:0,HBO HD
-http://streamtv.com.br:80/rodolfo/1234/170
-#EXTINF:0,HBO FHD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/20007
-#EXTINF:0,HBO ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/20006
-#EXTINF:0,HBO 2
-http://streamtv.com.br:80/rodolfo/1234/1598
-#EXTINF:0,HBO 2 HD
-http://streamtv.com.br:80/rodolfo/1234/172
-#EXTINF:0,HBO 2 FHD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/20008
-#EXTINF:0,HBO FAMILY
-http://streamtv.com.br:80/rodolfo/1234/1597
-#EXTINF:0,HBO FAMILY HD
-http://streamtv.com.br:80/rodolfo/1234/171
-#EXTINF:0,HBO PLUS
-http://streamtv.com.br:80/rodolfo/1234/1596
-#EXTINF:0,HBO PLUS ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/20004
-#EXTINF:0,HBO PLUS HD
-http://streamtv.com.br:80/rodolfo/1234/169
-#EXTINF:0,HBO PLUS FHD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/20005
-#EXTINF:0,HBO SIGNATURE
-http://streamtv.com.br:80/rodolfo/1234/1594
-#EXTINF:0,HBO SIGNATURE HD
-http://streamtv.com.br:80/rodolfo/1234/168
-#EXTINF:0,HOLLYWOOD HD
-http://streamtv.com.br:80/rodolfo/1234/19071
-#EXTINF:0,HISTORY
-http://streamtv.com.br:80/rodolfo/1234/1593
-#EXTINF:0,HISTORY HD
-http://streamtv.com.br:80/rodolfo/1234/167
-#EXTINF:0,INVESTIGATION DISCOVERY
-http://streamtv.com.br:80/rodolfo/1234/1592
-#EXTINF:0,INVESTIGATION DISCOVERY HD
-http://streamtv.com.br:80/rodolfo/1234/166
-#EXTINF:0,ID FHD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/20003
-#EXTINF:0,LIFETIME
-http://streamtv.com.br:80/rodolfo/1234/1591
-#EXTINF:0,LIFETIME HD
-http://streamtv.com.br:80/rodolfo/1234/165
-#EXTINF:0,MAIS GLOBOSAT
-http://streamtv.com.br:80/rodolfo/1234/1590
-#EXTINF:0,MAIS GLOBOSAT HD
-http://streamtv.com.br:80/rodolfo/1234/164
-#EXTINF:0,MAX
-http://streamtv.com.br:80/rodolfo/1234/1589
-#EXTINF:0,MAX ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/20001
-#EXTINF:0,MAX HD
-http://streamtv.com.br:80/rodolfo/1234/163
-#EXTINF:0,MAX FHD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/20002
-#EXTINF:0,Nick Jr FHD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/19990
-#EXTINF:0,MAX PRIME
-http://streamtv.com.br:80/rodolfo/1234/1588
-#EXTINF:0,MAXPRIME II
-http://streamtv.com.br:80/rodolfo/1234/19999
-#EXTINF:0,MAX PRIME HD
-http://streamtv.com.br:80/rodolfo/1234/162
-#EXTINF:0,MAXPRIME FHD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/20000
-#EXTINF:0,MAX UP
-http://streamtv.com.br:80/rodolfo/1234/1586
-#EXTINF:0,MAX UP HD
-http://streamtv.com.br:80/rodolfo/1234/161
-#EXTINF:0,MEGAPIX
-http://streamtv.com.br:80/rodolfo/1234/1585
-#EXTINF:0,MEGAPIX HD
-http://streamtv.com.br:80/rodolfo/1234/160
-#EXTINF:0,MEGAPIX FHD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/19998
-#EXTINF:0,NAT GEO
-http://streamtv.com.br:80/rodolfo/1234/1581
-#EXTINF:0,NAT GEO HD
-http://streamtv.com.br:80/rodolfo/1234/156
-#EXTINF:0,NatGeo FHD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/19994
-#EXTINF:0,NAT GEO KIDS
-http://streamtv.com.br:80/rodolfo/1234/1580
-#EXTINF:0,NATGEOKIDS ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/19992
-#EXTINF:0,NAT GEO KIDS HD
-http://streamtv.com.br:80/rodolfo/1234/155
-#EXTINF:0,NATGEO KIDS FHD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/19993
-#EXTINF:0,NAT GEO WILD HD
-http://streamtv.com.br:80/rodolfo/1234/154
-#EXTINF:0,NATGEO WILD
-http://streamtv.com.br:80/rodolfo/1234/1579
-#EXTINF:0,NBR
-http://streamtv.com.br:80/rodolfo/1234/1578
-#EXTINF:0,NICK JR
-http://streamtv.com.br:80/rodolfo/1234/1577
-#EXTINF:0,NICK JR HD
-http://streamtv.com.br:80/rodolfo/1234/153
-#EXTINF:0,NICKELODEN
-http://streamtv.com.br:80/rodolfo/1234/1576
-#EXTINF:0,NICKELODEON HD
-http://streamtv.com.br:80/rodolfo/1234/152
-#EXTINF:0,OFF
-http://streamtv.com.br:80/rodolfo/1234/1575
-#EXTINF:0,OFF HD
-http://streamtv.com.br:80/rodolfo/1234/151
-#EXTINF:0,PARAMOUNT CHANNEL
-http://streamtv.com.br:80/rodolfo/1234/1574
-#EXTINF:0,PARAMOUNT CHANNEL HD
-http://streamtv.com.br:80/rodolfo/1234/150
-#EXTINF:0,PREMIERE CLUBES
-http://streamtv.com.br:80/rodolfo/1234/1567
-#EXTINF:0,PREMIERE CLUBES HD
-http://streamtv.com.br:80/rodolfo/1234/143
-#EXTINF:0,PREMIERE CLUBES HD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/19983
-#EXTINF:0,PREMIERE CLUBES 1 FHD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/19984
-#EXTINF:0,PREMIERE 2
-http://streamtv.com.br:80/rodolfo/1234/1573
-#EXTINF:0,PREMIERE 2 HD
-http://streamtv.com.br:80/rodolfo/1234/149
-#EXTINF:0,PREMIERE HD 2 ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/19982
-#EXTINF:0,PREMIERE 2 FHD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/19987
-#EXTINF:0,PREMIERE 3
-http://streamtv.com.br:80/rodolfo/1234/1572
-#EXTINF:0,PREMIERE 3 HD
-http://streamtv.com.br:80/rodolfo/1234/148
-#EXTINF:0,PREMIERE HD 3 ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/19981
-#EXTINF:0,PREMIERE 3 FHD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/19986
-#EXTINF:0,PREMIERE 4
-http://streamtv.com.br:80/rodolfo/1234/1571
-#EXTINF:0,PREMIERE 4 HD
-http://streamtv.com.br:80/rodolfo/1234/147
-#EXTINF:0,PREMIERE HD 4 ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/19980
-#EXTINF:0,PREMIERE 4 FHD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/19985
-#EXTINF:0,PREMIERE 5
-http://streamtv.com.br:80/rodolfo/1234/1570
-#EXTINF:0,PREMIERE 5 HD
-http://streamtv.com.br:80/rodolfo/1234/146
-#EXTINF:0,PREMIERE 6
-http://streamtv.com.br:80/rodolfo/1234/1569
-#EXTINF:0,PREMIERE 6 HD
-http://streamtv.com.br:80/rodolfo/1234/145
-#EXTINF:0,PREMIERE 7
-http://streamtv.com.br:80/rodolfo/1234/1568
-#EXTINF:0,PREMIERE 7 HD
-http://streamtv.com.br:80/rodolfo/1234/144
-#EXTINF:0,PRIME BOX BRASIL
-http://streamtv.com.br:80/rodolfo/1234/1566
-#EXTINF:0,PRIME BOX BRASIL HD
-http://streamtv.com.br:80/rodolfo/1234/142
-#EXTINF:0,RECORD
-http://streamtv.com.br:80/rodolfo/1234/1565
-#EXTINF:0,RECORD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/19978
-#EXTINF:0,RECORD HD
-http://streamtv.com.br:80/rodolfo/1234/141
-#EXTINF:0,RECORD FHD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/19979
-#EXTINF:0,RECORDTV BAHIA
-http://streamtv.com.br:80/rodolfo/1234/13432
-#EXTINF:0,RECORDTV BAHIA HD
-http://streamtv.com.br:80/rodolfo/1234/13433
-#EXTINF:0,RECORDTV BRASILIA
-http://streamtv.com.br:80/rodolfo/1234/13430
-#EXTINF:0,RECORDTV BRASILIA HD
-http://streamtv.com.br:80/rodolfo/1234/13431
-#EXTINF:0,RECORDTV MG SD
-http://streamtv.com.br:80/rodolfo/1234/4342
-#EXTINF:0,RECORDTV RIO SD
-http://streamtv.com.br:80/rodolfo/1234/4340
-#EXTINF:0,RECORDTV RIO HD
-http://streamtv.com.br:80/rodolfo/1234/4339
-#EXTINF:0,RECORDTV MG HD
-http://streamtv.com.br:80/rodolfo/1234/4341
-#EXTINF:0,RECORD NEWS
-http://streamtv.com.br:80/rodolfo/1234/1564
-#EXTINF:0,RECORD NEWS HD
-http://streamtv.com.br:80/rodolfo/1234/1052
-#EXTINF:0,RECORD NEWS SP
-http://streamtv.com.br:80/rodolfo/1234/20046
-#EXTINF:0,RECORDTV RS
-http://streamtv.com.br:80/rodolfo/1234/13428
-#EXTINF:0,RECORDTV RS HD
-http://streamtv.com.br:80/rodolfo/1234/13429
-#EXTINF:0,RECORD SP
-http://streamtv.com.br:80/rodolfo/1234/1563
-#EXTINF:0,REDE BRASIL
-http://streamtv.com.br:80/rodolfo/1234/1562
-#EXTINF:0,REDE TV
-http://streamtv.com.br:80/rodolfo/1234/1561
-#EXTINF:0,REDE TV HD
-http://streamtv.com.br:80/rodolfo/1234/139
-#EXTINF:0,REDE VIDA HD
-http://streamtv.com.br:80/rodolfo/1234/3951
-#EXTINF:0,SBT
-http://streamtv.com.br:80/rodolfo/1234/1559
-#EXTINF:0,SBT HD
-http://streamtv.com.br:80/rodolfo/1234/138
-#EXTINF:0,SBT HD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/19976
-#EXTINF:0,SBT FHD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/19977
-#EXTINF:0,SBT SP INTERIOR
-http://streamtv.com.br:80/rodolfo/1234/1558
-#EXTINF:0,SPACE
-http://streamtv.com.br:80/rodolfo/1234/1556
-#EXTINF:0,SPACE HD
-http://streamtv.com.br:80/rodolfo/1234/137
-#EXTINF:0,SPACE FHD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/19973
-#EXTINF:0,SPORTV
-http://streamtv.com.br:80/rodolfo/1234/1555
-#EXTINF:0,SPORTV HD
-http://streamtv.com.br:80/rodolfo/1234/134
-#EXTINF:0,SPORTV HD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/19967
-#EXTINF:0,SPORTV FHD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/19970
-#EXTINF:0,SPORTV 2
-http://streamtv.com.br:80/rodolfo/1234/1554
-#EXTINF:0,SPORTV 2 HD
-http://streamtv.com.br:80/rodolfo/1234/136
-#EXTINF:0,SPORTV 2 HD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/19972
-#EXTINF:0,SPORTV FHD 2 ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/19969
-#EXTINF:0,SPORTV 3
-http://streamtv.com.br:80/rodolfo/1234/1553
-#EXTINF:0,SPORTV 3 HD
-http://streamtv.com.br:80/rodolfo/1234/135
-#EXTINF:0,SPORTV 3 HD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/19971
-#EXTINF:0,SPORTV FHD 3 ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/19968
-#EXTINF:0,STUDIO UNIVERSAL
-http://streamtv.com.br:80/rodolfo/1234/1552
-#EXTINF:0,STUDIO UNIVERSAL HD
-http://streamtv.com.br:80/rodolfo/1234/133
-#EXTINF:0,SYFY
-http://streamtv.com.br:80/rodolfo/1234/1557
-#EXTINF:0,SYFY HD
-http://streamtv.com.br:80/rodolfo/1234/132
-#EXTINF:0,TBS
-http://streamtv.com.br:80/rodolfo/1234/1550
-#EXTINF:0,TBS  ALTERNATIVA
-http://streamtv.com.br:80/rodolfo/1234/19965
-#EXTINF:0,TBS HD
-http://streamtv.com.br:80/rodolfo/1234/131
-#EXTINF:0,TBS FHD
-http://streamtv.com.br:80/rodolfo/1234/19966
-#EXTINF:0,TCM
-http://streamtv.com.br:80/rodolfo/1234/1549
-#EXTINF:0,TELECINE ACTION
-http://streamtv.com.br:80/rodolfo/1234/1548
-#EXTINF:0,TELECINE ACTION HD
-http://streamtv.com.br:80/rodolfo/1234/130
-#EXTINF:0,TELECINE ACTION HD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/19963
-#EXTINF:0,TELECINE ACTION FHD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/19964
-#EXTINF:0,TELECINE CULT
-http://streamtv.com.br:80/rodolfo/1234/1547
-#EXTINF:0,TELECINE CULT HD
-http://streamtv.com.br:80/rodolfo/1234/129
-#EXTINF:0,TELECINE FUN
-http://streamtv.com.br:80/rodolfo/1234/1546
-#EXTINF:0,TELECINE FUN HD
-http://streamtv.com.br:80/rodolfo/1234/128
-#EXTINF:0,TELECINE FUN HD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/19961
-#EXTINF:0,TELECINE FUN FHD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/19962
-#EXTINF:0,TELECINE PIPOCA
-http://streamtv.com.br:80/rodolfo/1234/1545
-#EXTINF:0,TELECINE PIPOCA HD
-http://streamtv.com.br:80/rodolfo/1234/127
-#EXTINF:0,TELECINE PIPOCA HD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/19959
-#EXTINF:0,TELECINE PIPOCA FHD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/19960
-#EXTINF:0,TELECINE PREMIUM
-http://streamtv.com.br:80/rodolfo/1234/1544
-#EXTINF:0,TELECINE PREMIUM HD
-http://streamtv.com.br:80/rodolfo/1234/126
-#EXTINF:0,TELECINE PREMIUM HD II
-http://streamtv.com.br:80/rodolfo/1234/19957
-#EXTINF:0,TELECINE PREMIUM FHD
-http://streamtv.com.br:80/rodolfo/1234/19958
-#EXTINF:0,TELECINE TOUCH
-http://streamtv.com.br:80/rodolfo/1234/1543
-#EXTINF:0,TELECINE TOUCH HD
-http://streamtv.com.br:80/rodolfo/1234/125
-#EXTINF:0,TELECINE Touch HD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/19955
-#EXTINF:0,TELECINE Touch FHD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/19956
-#EXTINF:0,TLC
-http://streamtv.com.br:80/rodolfo/1234/1541
-#EXTINF:0,TLC HD
-http://streamtv.com.br:80/rodolfo/1234/124
-#EXTINF:0,TLC HD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/19954
-#EXTINF:0,TNT
-http://streamtv.com.br:80/rodolfo/1234/1540
-#EXTINF:0,TNT HD
-http://streamtv.com.br:80/rodolfo/1234/123
-#EXTINF:0,TNT SERIES
-http://streamtv.com.br:80/rodolfo/1234/1539
-#EXTINF:0,TNT SERIES ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/19952
-#EXTINF:0,TNT SERIES HD
-http://streamtv.com.br:80/rodolfo/1234/122
-#EXTINF:0,TNT SERIES FHD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/19953
-#EXTINF:0,TOONCAST
-http://streamtv.com.br:80/rodolfo/1234/1538
-#EXTINF:0,TV APARECIDA
-http://streamtv.com.br:80/rodolfo/1234/3167
-#EXTINF:0,TruTV
-http://streamtv.com.br:80/rodolfo/1234/1530
-#EXTINF:0,TRUTV HD
-http://streamtv.com.br:80/rodolfo/1234/274
-#EXTINF:0,TV GAZETA SP HD
-http://streamtv.com.br:80/rodolfo/1234/3952
-#EXTINF:0,TV RA TIM BUM
-http://streamtv.com.br:80/rodolfo/1234/1531
-#EXTINF:0,TV RA TIM BUM HD
-http://streamtv.com.br:80/rodolfo/1234/119
-#EXTINF:0,UNIVERSAL CHANNEL
-http://streamtv.com.br:80/rodolfo/1234/1529
-#EXTINF:0,UNIVERSAL CHANNEL HD
-http://streamtv.com.br:80/rodolfo/1234/118
-#EXTINF:0,UNIVERSAL CHANNEL FHD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/19951
-#EXTINF:0,WARNER CHANNEL
-http://streamtv.com.br:80/rodolfo/1234/1525
-#EXTINF:0,WARNER ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/19947
-#EXTINF:0,WARNER CHANNEL HD
-http://streamtv.com.br:80/rodolfo/1234/115
-#EXTINF:0,WARNER CHANNEL FHD ALTERNATIVO
-http://streamtv.com.br:80/rodolfo/1234/19948
-#EXTINF:0,WOOHOO
-http://streamtv.com.br:80/rodolfo/1234/1524
-#EXTINF:0,WOOHOO HD
-http://streamtv.com.br:80/rodolfo/1234/114
-#EXTINF:0,ABC NEWS HD ~
-http://streamtv.com.br:80/rodolfo/1234/20043
-#EXTINF:0,NAT GEO PT HD
-http://streamtv.com.br:80/rodolfo/1234/20047
-#EXTINF:0,TRAVEL CHANNEL PT HD
-http://streamtv.com.br:80/rodolfo/1234/20045
+#EXTINF:-1,A&E HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/66059
+#EXTINF:-1,ALADIN 24HRS
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/163969
+#EXTINF:-1,All Sports
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/66050
+#EXTINF:-1,AMC FHD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/100805
+#EXTINF:-1,ANIMAL PLANET Brasil
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/206328
+#EXTINF:-1,ANIMAL PLANET HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/68999
+#EXTINF:-1,Anime Cartoon
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/66019
+#EXTINF:-1,Aparceida
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/159051
+#EXTINF:-1,ARTE 1 HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/156983
+#EXTINF:-1,AXN FHD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/66021
+#EXTINF:-1,BABY TV HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/157962
+#EXTINF:-1,Band Campinas
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/196241
+#EXTINF:-1,BAND News HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/66056
+#EXTINF:-1,BAND PARANA
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/124369
+#EXTINF:-1,BAND SPORT HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/66054
+#EXTINF:-1,BBB 2019 AQUECIMENTO
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/163991
+#EXTINF:-1,beIN SPORTS
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/163992
+#EXTINF:-1,BIS FHD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/95823
+#EXTINF:-1,BOB ESPONJA 24h
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/124342
+#EXTINF:-1,Boomerang FHD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/66065
+#EXTINF:-1,CANAL 26
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/134957
+#EXTINF:-1,Canal Brasil
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/156999
+#EXTINF:-1,CANAL DO BOI
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/93196
+#EXTINF:-1,CANAL FUTEBOL
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/124187
+#EXTINF:-1,CANAL RURAL
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/124371
+#EXTINF:-1,Canal Sony HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/157000
+#EXTINF:-1,CANCAO NOVA
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/148680
+#EXTINF:-1,CAPELINHA Fatima
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/135021
+#EXTINF:-1,Cartoon Network FHD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/139121
+#EXTINF:-1,CAVALHEIROS DO ZODIACOS
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/163975
+#EXTINF:-1,CAVERNA DO DRAGAO 24hrs
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/163952
+#EXTINF:-1,CHAVES 24h
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/124354
+#EXTINF:-1,Cine 1
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/125480
+#EXTINF:-1,Cinemax FHD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/100801
+#EXTINF:-1,CNN INTERNACIONAL
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/124193
+#EXTINF:-1,Combate FHD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/156819
+#EXTINF:-1,COMEDY CENTRAL HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/163287
+#EXTINF:-1,CURTA! HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/123157
+#EXTINF:-1,Discovery Channel FHD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/157944
+#EXTINF:-1,Discovery Civilization FHD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/66062
+#EXTINF:-1,Discovery Home & Health HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/146294
+#EXTINF:-1,Discovery ID
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/175466
+#EXTINF:-1,Discovery Kids FHD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/157961
+#EXTINF:-1,Discovery Science FHD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/94188
+#EXTINF:-1,Discovery Theater FHD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/88099
+#EXTINF:-1,Discovery Turbo FHD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/139128
+#EXTINF:-1,Discovery World FHD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/100091
+#EXTINF:-1,Disney Channel FHD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/116367
+#EXTINF:-1,Disney Junior
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/196318
+#EXTINF:-1,DISNEY XD HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/68980
+#EXTINF:-1,DOIS HOMENS E MEIO 24HRS
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/163976
+#EXTINF:-1,DRAGON BALL 24h
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/124344
+#EXTINF:-1,DRAGON BALL SUPER 24hrs
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/163955
+#EXTINF:-1,E! HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/88100
+#EXTINF:-1,E! Maxx Brasil
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/68978
+#EXTINF:-1,EITB
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/134955
+#EXTINF:-1,ESPN + HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/100804
+#EXTINF:-1,ESPN 2 HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/130202
+#EXTINF:-1,Espn Brasil FHD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/68955
+#EXTINF:-1,ESPN EXTRA HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/156829
+#EXTINF:-1,ESPN FHD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/66036
+#EXTINF:-1,EUROSPORT
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/163853
+#EXTINF:-1,FILM & ARTS
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/163854
+#EXTINF:-1,Fish TV HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/68974
+#EXTINF:-1,Food Network FHD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/88095
+#EXTINF:-1,Fox HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/196292
+#EXTINF:-1,FOX LIFE HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/156831
+#EXTINF:-1,Fox Premium 1 FHD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/88101
+#EXTINF:-1,FOX PREMIUM 2 HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/163856
+#EXTINF:-1,Fox Sport 2
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/68970
+#EXTINF:-1,FOX SPORTS 1 HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/88071
+#EXTINF:-1,FOX SPORTS HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/156834
+#EXTINF:-1,FOX USA
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/124217
+#EXTINF:-1,Futura HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/66041
+#EXTINF:-1,FX HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/156832
+#EXTINF:-1,GAZETA SP HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/163863
+#EXTINF:-1,Globo
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/199296
+#EXTINF:-1,Globo Amazonas
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/123089
+#EXTINF:-1,GLOBO BRASILIA HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/112287
+#EXTINF:-1,Globo EPTV Campinas
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/149694
+#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/123093
+#EXTINF:-1,Globo EPTV S
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/123095
+#EXTINF:-1,Globo ES HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/136658
+#EXTINF:-1,GLOBO FORTALEZA
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/124244
+#EXTINF:-1,Globo Minas
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/199306
+#EXTINF:-1,Globo NE
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/136662
+#EXTINF:-1,GLOBO NEWS HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/156984
+#EXTINF:-1,GLOBO NORDESTE HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/109201
+#EXTINF:-1,GLOBO PARANA HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/163866
+#EXTINF:-1,GLOBO PORTUGAL
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/124231
+#EXTINF:-1,Globo Premium
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/88051
+#EXTINF:-1,GLOBO RBS TV PORTO ALEGRE
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/163872
+#EXTINF:-1,GLOBO RJ HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/110340
+#EXTINF:-1,GLOBO RN HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/124245
+#EXTINF:-1,Globo SP
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/196249
+#EXTINF:-1,GLOBO TV ANHANGUERA HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/163980
+#EXTINF:-1,Globo Tv Tem Bauru HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/149697
+#EXTINF:-1,Globo Tv Verdes Mares Fortaleza
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/139137
+#EXTINF:-1,Globosat HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/102991
+#EXTINF:-1,GLOOB HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/156987
+#EXTINF:-1,Gloobinho
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/136680
+#EXTINF:-1,GNT HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/88049
+#EXTINF:-1,GOSPEL CARTOON
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/163954
+#EXTINF:-1,H2 Brasil
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/110344
+#EXTINF:-1,H2 HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/139141
+#EXTINF:-1,HBO 2 HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/156835
+#EXTINF:-1,HBO FAMILY HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/156836
+#EXTINF:-1,HBO HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/156837
+#EXTINF:-1,HBO PLUS E
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/68962
+#EXTINF:-1,HBO Signature FHD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/68961
+#EXTINF:-1,History Channel HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/66051
+#EXTINF:-1,Hit TV
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/136697
+#EXTINF:-1,HOMEM ARANHA 24 hrs
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/163968
+#EXTINF:-1,HOT MUSIC
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/124252
+#EXTINF:-1,ID: Investigação Discovery HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/149711
+#EXTINF:-1,Lifetime FHD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/66068
+#EXTINF:-1,Mais Globo Sa
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/114019
+#EXTINF:-1,Mana Sat
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/66072
+#EXTINF:-1,MASCARA 24 HRS
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/163974
+#EXTINF:-1,MASTER TV
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/105229
+#EXTINF:-1,Max FHD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/139147
+#EXTINF:-1,Max Prime HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/157007
+#EXTINF:-1,Max Up HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/157008
+#EXTINF:-1,Megapix FHD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/156842
+#EXTINF:-1,MTV FHD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/104797
+#EXTINF:-1,MTV PORTUGAL
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/124268
+#EXTINF:-1,MULTISHOW HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/156844
+#EXTINF:-1,Music Box Brazil
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/104799
+#EXTINF:-1,NAT GEO FHD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/66048
+#EXTINF:-1,NAT GEO Kids FHD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/109218
+#EXTINF:-1,NATGEO WILD HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/163892
+#EXTINF:-1,NBR
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/124375
+#EXTINF:-1,NHK
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/163894
+#EXTINF:-1,Nick Junior HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/100803
+#EXTINF:-1,Nickelodeon
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/196323
+#EXTINF:-1,O INSPETOR 24hrs
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/163967
+#EXTINF:-1,OFF HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/104801
+#EXTINF:-1,OS SIMPSON 24hr
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/163965
+#EXTINF:-1,Paramount Channel FHD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/68947
+#EXTINF:-1,PERNALONGA 24hrs
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/163960
+#EXTINF:-1,PFC 1 FHD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/136728
+#EXTINF:-1,PFC 4 FHD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/136737
+#EXTINF:-1,PFC 7 FHD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/136747
+#EXTINF:-1,PFC HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/88065
+#EXTINF:-1,Phineas e Ferb 24h
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/124353
+#EXTINF:-1,PLAY TV
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/68946
+#EXTINF:-1,PREMIER 2 HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/156993
+#EXTINF:-1,PREMIER 3 HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/68943
+#EXTINF:-1,PREMIER 6 HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/163900
+#EXTINF:-1,PREMIER 7 HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/68939
+#EXTINF:-1,PREMIER 24HS HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/124282
+#EXTINF:-1,Premiere 1 HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/104803
+#EXTINF:-1,Premiere 4 HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/68942
+#EXTINF:-1,Premiere 5 HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/164324
+#EXTINF:-1,Premiere 8
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/163902
+#EXTINF:-1,Premiere 9
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/196269
+#EXTINF:-1,Premiere Clubes
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/156848
+#EXTINF:-1,Premiere Coubes HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/199310
+#EXTINF:-1,PRIME BOX BRASIL
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/124288
+#EXTINF:-1,Proyecto 40
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/135023
+#EXTINF:-1,RAMBO 24HRS
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/163953
+#EXTINF:-1,REAL MADRID TV
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/124294
+#EXTINF:-1,Record Campinas HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/123123
+#EXTINF:-1,Record FHD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/68934
+#EXTINF:-1,RECORD INTERNACIONAL
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/124290
+#EXTINF:-1,Record News FHD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/66031
+#EXTINF:-1,Record SP HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/109214
+#EXTINF:-1,REDE TV HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/93190
+#EXTINF:-1,SBT BRASIL
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/111836
+#EXTINF:-1,SBT HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/139151
+#EXTINF:-1,SCOOBY DOO 24hrs
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/163964
+#EXTINF:-1,SIC
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/163907
+#EXTINF:-1,SKY CINEMA HD UNO
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/66080
+#EXTINF:-1,Sony FHD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/110357
+#EXTINF:-1,Space FHD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/139152
+#EXTINF:-1,SPORTV 1 HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/88062
+#EXTINF:-1,SPORTV 2 HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/139153
+#EXTINF:-1,SPORTV 3 HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/139154
+#EXTINF:-1,SPORTV HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/149745
+#EXTINF:-1,STB
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/68909
+#EXTINF:-1,Studio Universal HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/157009
+#EXTINF:-1,SUPER SHOCK 24HRS
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/163971
+#EXTINF:-1,SYFY HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/156852
+#EXTINF:-1,TARTARUGAS NINJAS 24HRS
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/163951
+#EXTINF:-1,TBS HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/88081
+#EXTINF:-1,TC Action FHD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/136774
+#EXTINF:-1,TC Cult
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/206439
+#EXTINF:-1,TC Fun FHD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/136780
+#EXTINF:-1,TC Premium FHD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/136785
+#EXTINF:-1,TCM
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/157011
+#EXTINF:-1,TELECINE ACTION HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/157013
+#EXTINF:-1,TELECINE CULT HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/157014
+#EXTINF:-1,TELECINE FUN HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/156970
+#EXTINF:-1,TELECINE PIPOCA HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/156969
+#EXTINF:-1,TELECINE PREMIUM HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/157016
+#EXTINF:-1,TELECINE TOUCH HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/157012
+#EXTINF:-1,TERRA VIVA
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/124379
+#EXTINF:-1,TESOURO DA DISNEY 24hrs
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/163959
+#EXTINF:-1,THE HISTORY CHANNEL HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/163882
+#EXTINF:-1,THUNDERCATS 24hrs
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/163972
+#EXTINF:-1,TLC HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/88079
+#EXTINF:-1,TNT FHD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/139155
+#EXTINF:-1,TNT SERIES HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/157018
+#EXTINF:-1,Tom & Jerry 24h
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/124357
+#EXTINF:-1,TOONCAST HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/163823
+#EXTINF:-1,TRU TV
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/163928
+#EXTINF:-1,TV APARECIDA HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/68905
+#EXTINF:-1,TV BRASIL
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/66028
+#EXTINF:-1,TV CINE 1 HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/124324
+#EXTINF:-1,TV CINE 3 FHD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/124325
+#EXTINF:-1,TV CINE 4 HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/163934
+#EXTINF:-1,TV Cultura HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/123144
+#EXTINF:-1,TV Diario
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/66076
+#EXTINF:-1,TV Escola
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/66018
+#EXTINF:-1,TV Evangelizar
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/135006
+#EXTINF:-1,TV Faap
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/66058
+#EXTINF:-1,Tv Gazeta
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/139156
+#EXTINF:-1,TV Geral
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/95859
+#EXTINF:-1,TV GLOBO CAMPINAS
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/124243
+#EXTINF:-1,TV Globo HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/89540
+#EXTINF:-1,TV GLOBO PREMIUM HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/66024
+#EXTINF:-1,TV Ideal
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/136799
+#EXTINF:-1,TV JUSTICA H264
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/163929
+#EXTINF:-1,TV LIBERAL BELEM
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/163871
+#EXTINF:-1,TV MAN FRANCE
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/135025
+#EXTINF:-1,TV NBR
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/133582
+#EXTINF:-1,TV NOVO TEMPO
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/163932
+#EXTINF:-1,TV RA TIM BUM
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/124328
+#EXTINF:-1,TV Record
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/66023
+#EXTINF:-1,TVE
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/136630
+#EXTINF:-1,TVN Brasil
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/68828
+#EXTINF:-1,UM MALUCO NO PEDACO 24hrs
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/163961
+#EXTINF:-1,Universal Channel FHD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/157019
+#EXTINF:-1,VH1
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/163938
+#EXTINF:-1,VH1 Mega Hits
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/206449
+#EXTINF:-1,Viva FHD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/104817
+#EXTINF:-1,Warner Bros HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/104818
+#EXTINF:-1,WEB TV MINAS
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/175463
+#EXTINF:-1,Woohoo Brasil
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/163312
+#EXTINF:-1,Woohoo HD
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/146621
+#EXTINF:-1,ZOOMOO
+http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/164348
