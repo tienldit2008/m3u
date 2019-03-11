@@ -1,70 +1,457 @@
 #EXTM3U
-#EXTINF:0,|AR| BeIN Sports NEWS HD
-http://51.75.93.11:8000/live/iwcfdjg/iwcfdjg/1.ts
-#EXTINF:0,AR: BeIN Sports 1 HD
-http://51.75.93.11:8000/live/iwcfdjg/iwcfdjg/2.ts
-#EXTINF:0,AR: BeIN Sports 1 SD
-http://51.75.93.11:8000/live/iwcfdjg/iwcfdjg/3.ts
-#EXTINF:0,AR: BeIN Sports 2 HD
-http://51.75.93.11:8000/live/iwcfdjg/iwcfdjg/4.ts
-#EXTINF:0,AR: BeIN Sports 2 SD
-http://51.75.93.11:8000/live/iwcfdjg/iwcfdjg/5.ts
-#EXTINF:0,AR: BeIN Sports 3 HD
-http://51.75.93.11:8000/live/iwcfdjg/iwcfdjg/6.ts
-#EXTINF:0,AR: BeIN Sports 3 SD
-http://51.75.93.11:8000/live/iwcfdjg/iwcfdjg/7.ts
-#EXTINF:0,AR: BeIN Sports 4 HD
-http://51.75.93.11:8000/live/iwcfdjg/iwcfdjg/8.ts
-#EXTINF:0,AR: BeIN Sports 4 SD
-http://51.75.93.11:8000/live/iwcfdjg/iwcfdjg/9.ts
-#EXTINF:0,AR: BeIN Sports 5 HD
-http://51.75.93.11:8000/live/iwcfdjg/iwcfdjg/10.ts
-#EXTINF:0,AR: BeIN Sports 5 SD
-http://51.75.93.11:8000/live/iwcfdjg/iwcfdjg/11.ts
-#EXTINF:0,AR: BeIN Sports 6 HD
-http://51.75.93.11:8000/live/iwcfdjg/iwcfdjg/12.ts
-#EXTINF:0,AR: BeIN Sports 6 SD
-http://51.75.93.11:8000/live/iwcfdjg/iwcfdjg/13.ts
-#EXTINF:0,AR: BeIN Sports 7 HD
-http://51.75.93.11:8000/live/iwcfdjg/iwcfdjg/14.ts
-#EXTINF:0,AR: BeIN Sports 7 SD
-http://51.75.93.11:8000/live/iwcfdjg/iwcfdjg/15.ts
-#EXTINF:0,AR: BeIN Sports 8 HD
-http://51.75.93.11:8000/live/iwcfdjg/iwcfdjg/16.ts
-#EXTINF:0,AR: BeIN Sports 8 SD
-http://51.75.93.11:8000/live/iwcfdjg/iwcfdjg/17.ts
-#EXTINF:0,AR: BeIN Sports 9 HD
-http://51.75.93.11:8000/live/iwcfdjg/iwcfdjg/18.ts
-#EXTINF:0,AR: BeIN Sports 9 SD
-http://51.75.93.11:8000/live/iwcfdjg/iwcfdjg/19.ts
-#EXTINF:0,AR: BeIN Sports 10 HD
-http://51.75.93.11:8000/live/iwcfdjg/iwcfdjg/20.ts
-#EXTINF:0,AR: BeIN Sports 10 SD
-http://51.75.93.11:8000/live/iwcfdjg/iwcfdjg/21.ts
-#EXTINF:0,AR: BeIN Sports 11 FHD
-http://51.75.93.11:8000/live/iwcfdjg/iwcfdjg/22.ts
-#EXTINF:0,AR: BeIN Sports 12 FHD
-http://51.75.93.11:8000/live/iwcfdjg/iwcfdjg/23.ts
-#EXTINF:0,AR: BeoutQ SPORTS 1 HD
-http://51.75.93.11:8000/live/iwcfdjg/iwcfdjg/24.ts
-#EXTINF:0,AR: BeoutQ SPORTS 2 HD
-http://51.75.93.11:8000/live/iwcfdjg/iwcfdjg/25.ts
-#EXTINF:0,AR: BeoutQ SPORTS 3 HD
-http://51.75.93.11:8000/live/iwcfdjg/iwcfdjg/26.ts
-#EXTINF:0,AR: BeoutQ SPORTS 4 HD
-http://51.75.93.11:8000/live/iwcfdjg/iwcfdjg/27.ts
-#EXTINF:0,AR: BeoutQ SPORTS 5 HD
-http://51.75.93.11:8000/live/iwcfdjg/iwcfdjg/28.ts
-#EXTINF:0,AR: BeoutQ SPORTS 6 HD
-http://51.75.93.11:8000/live/iwcfdjg/iwcfdjg/29.ts
-#EXTINF:0,AR: BeoutQ SPORTS 7 HD
-http://51.75.93.11:8000/live/iwcfdjg/iwcfdjg/30.ts
-#EXTINF:0,|AR| BeIN MOVIES 1 HD
-http://51.75.93.11:8000/live/iwcfdjg/iwcfdjg/31.ts
-#EXTINF:0,|AR| BeIN MOVIES 2 HD
-http://51.75.93.11:8000/live/iwcfdjg/iwcfdjg/32.ts
-#EXTINF:0,|AR| BeIN MOVIES 3 HD
-http://51.75.93.11:8000/live/iwcfdjg/iwcfdjg/33.ts
-#EXTINF:0,|AR| BeIN MOVIES 4 HD
-http://51.75.93.11:8000/live/iwcfdjg/iwcfdjg/34.ts
-#EXTINF:0,|AR| http://51.75.93.11:8000/live/iwcfdjg/iwcfdjg/35.ts
+#EXTINF:-1,BEIN_SPORT1
+http://2111.space:25461/live/admin_571497/mtorQy3F/1336.m3u8
+#EXTINF:-1,BEIN_SPORT2
+http://2111.space:25461/live/admin_571497/mtorQy3F/1335.m3u8
+#EXTINF:-1,BEIN_SPORT3
+http://2111.space:25461/live/admin_571497/mtorQy3F/1334.m3u8
+#EXTINF:-1,BEIN_SPORT4
+http://2111.space:25461/live/admin_571497/mtorQy3F/1333.m3u8
+#EXTINF:-1,BEIN_SPORT5
+http://2111.space:25461/live/admin_571497/mtorQy3F/1332.m3u8
+#EXTINF:-1,BEIN_SPORT6
+http://2111.space:25461/live/admin_571497/mtorQy3F/1331.m3u8
+#EXTINF:-1,BEIN_SPORT7
+http://2111.space:25461/live/admin_571497/mtorQy3F/1330.m3u8
+#EXTINF:-1,BEIN_SPORT8
+http://2111.space:25461/live/admin_571497/mtorQy3F/1329.m3u8
+#EXTINF:-1,BEIN_SPORT9
+http://2111.space:25461/live/admin_571497/mtorQy3F/1328.m3u8
+#EXTINF:-1,BEIN_SPORT10
+http://2111.space:25461/live/admin_571497/mtorQy3F/1327.m3u8
+#EXTINF:-1,BEIN_SPORT 1
+http://2111.space:25461/live/admin_571497/mtorQy3F/1356.m3u8
+#EXTINF:-1,BEIN_SPORT 2
+http://2111.space:25461/live/admin_571497/mtorQy3F/1355.m3u8
+#EXTINF:-1,BEIN_SPORT 3
+http://2111.space:25461/live/admin_571497/mtorQy3F/1354.m3u8
+#EXTINF:-1,BEIN_SPORT 4
+http://2111.space:25461/live/admin_571497/mtorQy3F/1353.m3u8
+#EXTINF:-1,BEIN_SPORT 5
+http://2111.space:25461/live/admin_571497/mtorQy3F/1352.m3u8
+#EXTINF:-1,BEIN_SPORT 6
+http://2111.space:25461/live/admin_571497/mtorQy3F/1351.m3u8
+#EXTINF:-1,BEIN_SPORT 7
+http://2111.space:25461/live/admin_571497/mtorQy3F/1350.m3u8
+#EXTINF:-1,BEIN_SPORT 8
+http://2111.space:25461/live/admin_571497/mtorQy3F/1349.m3u8
+#EXTINF:-1,BEIN_SPORT 9
+http://2111.space:25461/live/admin_571497/mtorQy3F/1348.m3u8
+#EXTINF:-1,BEIN_SPORT 10
+http://2111.space:25461/live/admin_571497/mtorQy3F/1347.m3u8
+#EXTINF:-1,Bein__Sport1
+http://2111.space:25461/live/admin_571497/mtorQy3F/1326.m3u8
+#EXTINF:-1,BEIN__SPORT2
+http://2111.space:25461/live/admin_571497/mtorQy3F/1325.m3u8
+#EXTINF:-1,BEIN__SPORT3
+http://2111.space:25461/live/admin_571497/mtorQy3F/1324.m3u8
+#EXTINF:-1,BEIN__SPORT4
+http://2111.space:25461/live/admin_571497/mtorQy3F/1323.m3u8
+#EXTINF:-1,BEIN__SPORT5
+http://2111.space:25461/live/admin_571497/mtorQy3F/1322.m3u8
+#EXTINF:-1,BEIN__SPORT6
+http://2111.space:25461/live/admin_571497/mtorQy3F/1321.m3u8
+#EXTINF:-1,BEIN__SPORT7
+http://2111.space:25461/live/admin_571497/mtorQy3F/1320.m3u8
+#EXTINF:-1,BEIN__SPORT8
+http://2111.space:25461/live/admin_571497/mtorQy3F/1319.m3u8
+#EXTINF:-1,BEIN__SPORT9
+http://2111.space:25461/live/admin_571497/mtorQy3F/1318.m3u8
+#EXTINF:-1,BEIN__SPORT10
+http://2111.space:25461/live/admin_571497/mtorQy3F/1317.m3u8
+#EXTINF:-1,BEIN_SPORT__1
+http://2111.space:25461/live/admin_571497/mtorQy3F/1346.m3u8
+#EXTINF:-1,BEIN_SPORT__2
+http://2111.space:25461/live/admin_571497/mtorQy3F/1345.m3u8
+#EXTINF:-1,BEIN_SPORT__3
+http://2111.space:25461/live/admin_571497/mtorQy3F/1344.m3u8
+#EXTINF:-1,BEIN_SPORTS__4
+http://2111.space:25461/live/admin_571497/mtorQy3F/1343.m3u8
+#EXTINF:-1,BEIN_SPORT__5
+http://2111.space:25461/live/admin_571497/mtorQy3F/1342.m3u8
+#EXTINF:-1,BEIN_SPORT__6
+http://2111.space:25461/live/admin_571497/mtorQy3F/1341.m3u8
+#EXTINF:-1,BEIN_SPORT__7
+http://2111.space:25461/live/admin_571497/mtorQy3F/1340.m3u8
+#EXTINF:-1,BEIN_SPORT__8
+http://2111.space:25461/live/admin_571497/mtorQy3F/1339.m3u8
+#EXTINF:-1,BEIN_SPORT__9
+http://2111.space:25461/live/admin_571497/mtorQy3F/1338.m3u8
+#EXTINF:-1,BEIN_SPORT__10
+http://2111.space:25461/live/admin_571497/mtorQy3F/1337.m3u8
+#EXTINF:-1,BeinSport1 FULL HD
+http://2111.space:25461/live/admin_571497/mtorQy3F/1316.m3u8
+#EXTINF:-1,BeinSport2 FULL HD
+http://2111.space:25461/live/admin_571497/mtorQy3F/1315.m3u8
+#EXTINF:-1,BeinSport3 FULL HD
+http://2111.space:25461/live/admin_571497/mtorQy3F/1314.m3u8
+#EXTINF:-1,BeinSport4 FULL HD
+http://2111.space:25461/live/admin_571497/mtorQy3F/1313.m3u8
+#EXTINF:-1,BeinSport5 FULL HD
+http://2111.space:25461/live/admin_571497/mtorQy3F/1312.m3u8
+#EXTINF:-1,BeinSport6 FULL HD
+http://2111.space:25461/live/admin_571497/mtorQy3F/1311.m3u8
+#EXTINF:-1,BeinSport7 FULL HD
+http://2111.space:25461/live/admin_571497/mtorQy3F/1310.m3u8
+#EXTINF:-1,BeinSport8 FULL HD
+http://2111.space:25461/live/admin_571497/mtorQy3F/1309.m3u8
+#EXTINF:-1,BeinSport9 FULL HD
+http://2111.space:25461/live/admin_571497/mtorQy3F/1308.m3u8
+#EXTINF:-1,BeinSport10 FULL HD
+http://2111.space:25461/live/admin_571497/mtorQy3F/1307.m3u8
+#EXTINF:-1,BeinSport1 4KB PLUSE
+http://2111.space:25461/live/admin_571497/mtorQy3F/1306.m3u8
+#EXTINF:-1,BeinSport2 4KB PLUSE
+http://2111.space:25461/live/admin_571497/mtorQy3F/1305.m3u8
+#EXTINF:-1,BeinSport3 4KB PLUSE
+http://2111.space:25461/live/admin_571497/mtorQy3F/1304.m3u8
+#EXTINF:-1,BeinSport4 4KB PLUSE
+http://2111.space:25461/live/admin_571497/mtorQy3F/1303.m3u8
+#EXTINF:-1,BeinSport5 4KB PLUSE
+http://2111.space:25461/live/admin_571497/mtorQy3F/1302.m3u8
+#EXTINF:-1,BeinSport6 4KB PLUSE
+http://2111.space:25461/live/admin_571497/mtorQy3F/1301.m3u8
+#EXTINF:-1,BeinSport7 4KB PLUSE
+http://2111.space:25461/live/admin_571497/mtorQy3F/1300.m3u8
+#EXTINF:-1,BeinSport8 4KB PLUSE
+http://2111.space:25461/live/admin_571497/mtorQy3F/1299.m3u8
+#EXTINF:-1,BeinSport9 4KB PLUSE
+http://2111.space:25461/live/admin_571497/mtorQy3F/1298.m3u8
+#EXTINF:-1,BeinSport10 4KB PLUSE
+http://2111.space:25461/live/admin_571497/mtorQy3F/1297.m3u8
+#EXTINF:-1,Bein Sports1 EX
+http://2111.space:25461/live/admin_571497/mtorQy3F/1276.m3u8
+#EXTINF:-1,Bein Sports2 EX
+http://2111.space:25461/live/admin_571497/mtorQy3F/1275.m3u8
+#EXTINF:-1,Bein Sports3 EX
+http://2111.space:25461/live/admin_571497/mtorQy3F/1274.m3u8
+#EXTINF:-1,Bein Sports4 EX
+http://2111.space:25461/live/admin_571497/mtorQy3F/1273.m3u8
+#EXTINF:-1,Bein Sports5 EX
+http://2111.space:25461/live/admin_571497/mtorQy3F/1272.m3u8
+#EXTINF:-1,Bein Sports6 EX
+http://2111.space:25461/live/admin_571497/mtorQy3F/1271.m3u8
+#EXTINF:-1,Bein Sports7 EX
+http://2111.space:25461/live/admin_571497/mtorQy3F/1270.m3u8
+#EXTINF:-1,Bein Sports8 EX
+http://2111.space:25461/live/admin_571497/mtorQy3F/1269.m3u8
+#EXTINF:-1,Bein Sports9 EX
+http://2111.space:25461/live/admin_571497/mtorQy3F/1268.m3u8
+#EXTINF:-1,Bein Sports10 EX
+http://2111.space:25461/live/admin_571497/mtorQy3F/1267.m3u8
+#EXTINF:-1,Bein_1 LOW
+http://2111.space:25461/live/admin_571497/mtorQy3F/943.m3u8
+#EXTINF:-1,Bein_2 LOW
+http://2111.space:25461/live/admin_571497/mtorQy3F/942.m3u8
+#EXTINF:-1,Bein_3 LOW
+http://2111.space:25461/live/admin_571497/mtorQy3F/941.m3u8
+#EXTINF:-1,Bein_4 LOW
+http://2111.space:25461/live/admin_571497/mtorQy3F/940.m3u8
+#EXTINF:-1,Bein_5 LOW
+http://2111.space:25461/live/admin_571497/mtorQy3F/939.m3u8
+#EXTINF:-1,Bein_6 LOW
+http://2111.space:25461/live/admin_571497/mtorQy3F/938.m3u8
+#EXTINF:-1,Bein_7 LOW
+http://2111.space:25461/live/admin_571497/mtorQy3F/937.m3u8
+#EXTINF:-1,Bein_8 LOW
+http://2111.space:25461/live/admin_571497/mtorQy3F/936.m3u8
+#EXTINF:-1,Bein_9 LOW
+http://2111.space:25461/live/admin_571497/mtorQy3F/935.m3u8
+#EXTINF:-1,Bein_10 LOW
+http://2111.space:25461/live/admin_571497/mtorQy3F/934.m3u8
+#EXTINF:-1,Bein_2_720P
+http://2111.space:25461/live/admin_571497/mtorQy3F/1814.m3u8
+#EXTINF:-1,Bein_4_720P
+http://2111.space:25461/live/admin_571497/mtorQy3F/1816.m3u8
+#EXTINF:-1,BEIN1_720P
+http://2111.space:25461/live/admin_571497/mtorQy3F/1813.m3u8
+#EXTINF:-1,Bein10_720P
+http://2111.space:25461/live/admin_571497/mtorQy3F/1822.m3u8
+#EXTINF:-1,BEIN3_720P
+http://2111.space:25461/live/admin_571497/mtorQy3F/1815.m3u8
+#EXTINF:-1,Bein5_720P
+http://2111.space:25461/live/admin_571497/mtorQy3F/1817.m3u8
+#EXTINF:-1,Bein6_720P
+http://2111.space:25461/live/admin_571497/mtorQy3F/1818.m3u8
+#EXTINF:-1,Bein7_720P
+http://2111.space:25461/live/admin_571497/mtorQy3F/1819.m3u8
+#EXTINF:-1,Bein8_720P
+http://2111.space:25461/live/admin_571497/mtorQy3F/1820.m3u8
+#EXTINF:-1,Bein9_720P
+http://2111.space:25461/live/admin_571497/mtorQy3F/1821.m3u8
+#EXTINF:-1,BEIN_SPORT_1
+http://2111.space:25461/live/admin_571497/mtorQy3F/1825.m3u8
+#EXTINF:-1,BEIN_SPORT_2
+http://2111.space:25461/live/admin_571497/mtorQy3F/1826.m3u8
+#EXTINF:-1,BEIN_SPORT_3
+http://2111.space:25461/live/admin_571497/mtorQy3F/1827.m3u8
+#EXTINF:-1,BEIN_SPORT_4
+http://2111.space:25461/live/admin_571497/mtorQy3F/1828.m3u8
+#EXTINF:-1,BEIN_SPORT_5
+http://2111.space:25461/live/admin_571497/mtorQy3F/1829.m3u8
+#EXTINF:-1,BEIN_SPORT_6
+http://2111.space:25461/live/admin_571497/mtorQy3F/1831.m3u8
+#EXTINF:-1,BEIN_SPORT_7
+http://2111.space:25461/live/admin_571497/mtorQy3F/1830.m3u8
+#EXTINF:-1,BEIN_SPORT_8
+http://2111.space:25461/live/admin_571497/mtorQy3F/1832.m3u8
+#EXTINF:-1,BEIN_SPORT_9
+http://2111.space:25461/live/admin_571497/mtorQy3F/1833.m3u8
+#EXTINF:-1,BEIN_SPORT_10
+http://2111.space:25461/live/admin_571497/mtorQy3F/1834.m3u8
+#EXTINF:-1,vip:WWE
+http://2111.space:25461/live/admin_571497/mtorQy3F/4668.m3u8
+#EXTINF:-1,Eng:BT_SPORT_1
+http://2111.space:25461/live/admin_571497/mtorQy3F/4891.m3u8
+#EXTINF:-1,Eng:BT_SPORT_2
+http://2111.space:25461/live/admin_571497/mtorQy3F/4890.m3u8
+#EXTINF:-1,Eng:BT_SPORT_3
+http://2111.space:25461/live/admin_571497/mtorQy3F/4889.m3u8
+#EXTINF:-1,IT:Rai_Sport_1
+http://2111.space:25461/live/admin_571497/mtorQy3F/4904.m3u8
+#EXTINF:-1,IT:Rai_Sport_2
+http://2111.space:25461/live/admin_571497/mtorQy3F/4903.m3u8
+#EXTINF:-1,IT:Sky.Cinema 1
+http://2111.space:25461/live/admin_571497/mtorQy3F/4902.m3u8
+#EXTINF:-1,IT:Sky.Cinema Family
+http://2111.space:25461/live/admin_571497/mtorQy3F/4901.m3u8
+#EXTINF:-1,IT:Sky.Cinema Hits
+http://2111.space:25461/live/admin_571497/mtorQy3F/4900.m3u8
+#EXTINF:-1,IT:Sky.Cinema Max
+http://2111.space:25461/live/admin_571497/mtorQy3F/4899.m3u8
+#EXTINF:-1,IT:Sky.Cinema Passion
+http://2111.space:25461/live/admin_571497/mtorQy3F/4898.m3u8
+#EXTINF:-1,IT:Sky.Sport F1
+http://2111.space:25461/live/admin_571497/mtorQy3F/4897.m3u8
+#EXTINF:-1,IT:Sky.Sport.1
+http://2111.space:25461/live/admin_571497/mtorQy3F/4896.m3u8
+#EXTINF:-1,IT:Sky.Sport.2
+http://2111.space:25461/live/admin_571497/mtorQy3F/4895.m3u8
+#EXTINF:-1,IT:Sky.Sport.24
+http://2111.space:25461/live/admin_571497/mtorQy3F/4894.m3u8
+#EXTINF:-1,IT:Sky.Sport.3
+http://2111.space:25461/live/admin_571497/mtorQy3F/4893.m3u8
+
+#EXTINF:-1,Bein-1-512KB
+http://roseflo.com:25461/live/bff912bcc9/bff912bd00/1735.m3u8
+#EXTINF:-1,Bein-2-512KB
+http://roseflo.com:25461/live/bff912bcc9/bff912bd00/1734.m3u8
+#EXTINF:-1,Bein-3-512KB
+http://roseflo.com:25461/live/bff912bcc9/bff912bd00/1733.m3u8
+#EXTINF:-1,Bein-4-512KB
+http://roseflo.com:25461/live/bff912bcc9/bff912bd00/1732.m3u8
+#EXTINF:-1,Bein-5-512KB
+http://roseflo.com:25461/live/bff912bcc9/bff912bd00/1731.m3u8
+#EXTINF:-1,Bein-6-512KB
+http://roseflo.com:25461/live/bff912bcc9/bff912bd00/1730.m3u8
+#EXTINF:-1,Bein-7-512KB
+http://roseflo.com:25461/live/bff912bcc9/bff912bd00/1729.m3u8
+#EXTINF:-1,Bein-8-512KB
+http://roseflo.com:25461/live/bff912bcc9/bff912bd00/1728.m3u8
+#EXTINF:-1,Bein-9-512KB
+http://roseflo.com:25461/live/bff912bcc9/bff912bd00/1727.m3u8
+#EXTINF:-1,lBein-10-512KB
+http://roseflo.com:25461/live/bff912bcc9/bff912bd00/1726.m3u8
+#EXTINF:-1,Bein-1-SD
+http://roseflo.com:25461/live/bff912bcc9/bff912bd00/1725.m3u8
+#EXTINF:-1,Bein-2-SD
+http://roseflo.com:25461/live/bff912bcc9/bff912bd00/1724.m3u8
+#EXTINF:-1,Bein-3-SD
+http://roseflo.com:25461/live/bff912bcc9/bff912bd00/1723.m3u8
+#EXTINF:-1,Bein-4-SD
+http://roseflo.com:25461/live/bff912bcc9/bff912bd00/1722.m3u8
+#EXTINF:-1,Bein-5-SD
+http://roseflo.com:25461/live/bff912bcc9/bff912bd00/1721.m3u8
+#EXTINF:-1,Bein-6-SD
+http://roseflo.com:25461/live/bff912bcc9/bff912bd00/1720.m3u8
+#EXTINF:-1,Bein-7-SD
+http://roseflo.com:25461/live/bff912bcc9/bff912bd00/1719.m3u8
+#EXTINF:-1,Bein-8-SD
+http://roseflo.com:25461/live/bff912bcc9/bff912bd00/1718.m3u8
+#EXTINF:-1,Bein-9-SD
+http://roseflo.com:25461/live/bff912bcc9/bff912bd00/1717.m3u8
+#EXTINF:-1,lBein-10-SD
+http://roseflo.com:25461/live/bff912bcc9/bff912bd00/1716.m3u8
+#EXTINF:-1,Bein-1-HD
+http://roseflo.com:25461/live/bff912bcc9/bff912bd00/1715.m3u8
+#EXTINF:-1,Bein-2-HD
+http://roseflo.com:25461/live/bff912bcc9/bff912bd00/1714.m3u8
+#EXTINF:-1,Bein-3-HD
+http://roseflo.com:25461/live/bff912bcc9/bff912bd00/1713.m3u8
+#EXTINF:-1,Bein-4-HD
+http://roseflo.com:25461/live/bff912bcc9/bff912bd00/1712.m3u8
+#EXTINF:-1,Bein-5-HD
+http://roseflo.com:25461/live/bff912bcc9/bff912bd00/1711.m3u8
+#EXTINF:-1,Bein-6-HD
+http://roseflo.com:25461/live/bff912bcc9/bff912bd00/1710.m3u8
+#EXTINF:-1,Bein-7-HD
+http://roseflo.com:25461/live/bff912bcc9/bff912bd00/1709.m3u8
+#EXTINF:-1,Bein-8-HD
+http://roseflo.com:25461/live/bff912bcc9/bff912bd00/1708.m3u8
+#EXTINF:-1,Bein-9-HD
+http://roseflo.com:25461/live/bff912bcc9/bff912bd00/1707.m3u8
+#EXTINF:-1,lBein-10-HD
+http://roseflo.com:25461/live/bff912bcc9/bff912bd00/1706.m3u8
+#EXTINF:-1,Bein-1-4KHD
+http://roseflo.com:25461/live/bff912bcc9/bff912bd00/1705.m3u8
+#EXTINF:-1,Bein-2-4KHD
+http://roseflo.com:25461/live/bff912bcc9/bff912bd00/1704.m3u8
+#EXTINF:-1,Bein-3-4KHD
+http://roseflo.com:25461/live/bff912bcc9/bff912bd00/1703.m3u8
+#EXTINF:-1,Bein-4-4KHD
+http://roseflo.com:25461/live/bff912bcc9/bff912bd00/1702.m3u8
+#EXTINF:-1,Bein-5-4KHD
+http://roseflo.com:25461/live/bff912bcc9/bff912bd00/1701.m3u8
+#EXTINF:-1,Bein-6-4KHD
+http://roseflo.com:25461/live/bff912bcc9/bff912bd00/1700.m3u8
+#EXTINF:-1,Bein-7-4KHD
+http://roseflo.com:25461/live/bff912bcc9/bff912bd00/1699.m3u8
+#EXTINF:-1,Bein-8-4KHD
+http://roseflo.com:25461/live/bff912bcc9/bff912bd00/1698.m3u8
+#EXTINF:-1,Bein-9-4KHD
+http://roseflo.com:25461/live/bff912bcc9/bff912bd00/1697.m3u8
+#EXTINF:-1,lBein-10-4KHD
+http://roseflo.com:25461/live/bff912bcc9/bff912bd00/1696.m3u8
+#EXTINF:-1,5OSN 5OSN SPORT FIGHTNETWORK
+http://roseflo.com:25461/live/bff912bcc9/bff912bd00/1108.m3u8
+#EXTINF:-1,5OSN Alkass Sport 1
+http://roseflo.com:25461/live/bff912bcc9/bff912bd00/1107.m3u8
+#EXTINF:-1,5OSN Alkass Sport 2
+http://roseflo.com:25461/live/bff912bcc9/bff912bd00/1106.m3u8
+#EXTINF:-1,5OSN Alkass Sport 3
+http://roseflo.com:25461/live/bff912bcc9/bff912bd00/1105.m3u8
+#EXTINF:-1,5OSN Alkass Sport 4
+http://roseflo.com:25461/live/bff912bcc9/bff912bd00/1104.m3u8
+#EXTINF:-1,5OSN Alkass Sport 5
+http://roseflo.com:25461/live/bff912bcc9/bff912bd00/1103.m3u8
+#EXTINF:-1,5OSN Sports 1
+http://roseflo.com:25461/live/bff912bcc9/bff912bd00/1086.m3u8
+#EXTINF:-1,5OSN Sports 1 HD
+http://roseflo.com:25461/live/bff912bcc9/bff912bd00/1085.m3u8
+#EXTINF:-1,5OSN Sports 2
+http://roseflo.com:25461/live/bff912bcc9/bff912bd00/1084.m3u8
+#EXTINF:-1,5OSN Sports 2 HD
+http://roseflo.com:25461/live/bff912bcc9/bff912bd00/1083.m3u8
+#EXTINF:-1,5OSN Sports 3
+http://roseflo.com:25461/live/bff912bcc9/bff912bd00/1082.m3u8
+#EXTINF:-1,5OSN Sports 3 HD
+http://roseflo.com:25461/live/bff912bcc9/bff912bd00/1081.m3u8
+#EXTINF:-1,5OSN Sports 4
+http://roseflo.com:25461/live/bff912bcc9/bff912bd00/1080.m3u8
+#EXTINF:-1,5OSN Sports 4 HD
+http://roseflo.com:25461/live/bff912bcc9/bff912bd00/1079.m3u8
+#EXTINF:-1,5OSN Sports Cricket HD
+http://roseflo.com:25461/live/bff912bcc9/bff912bd00/1078.m3u8
+
+#EXTINF:-1,BeinSport_1_HD_FULL_1
+http://163.172.82.81:50100/www.drsharing.com/drsharing/36
+#EXTINF:-1,BeinSport_2_HD_FULL_1
+http://163.172.82.81:50100/www.drsharing.com/drsharing/37
+#EXTINF:-1,BeinSport_3_HD_FULL_1
+http://163.172.82.81:50100/www.drsharing.com/drsharing/38
+#EXTINF:-1,BeinSport_4_HD_FULL_1
+http://163.172.82.81:50100/www.drsharing.com/drsharing/39
+#EXTINF:-1,BeinSport_5_HD_FULL_1
+http://163.172.82.81:50100/www.drsharing.com/drsharing/40
+#EXTINF:-1,BeinSport_6_HD_FULL_1
+http://163.172.82.81:50100/www.drsharing.com/drsharing/41
+#EXTINF:-1,BeinSport_7_HD_FULL_1
+http://163.172.82.81:50100/www.drsharing.com/drsharing/42
+#EXTINF:-1,BeinSport_8_HD_FULL_1
+http://163.172.82.81:50100/www.drsharing.com/drsharing/43
+#EXTINF:-1,BeinSport_9_HD_FULL_1
+http://163.172.82.81:50100/www.drsharing.com/drsharing/44
+#EXTINF:-1,BeinSport_10_HD_FULL_1
+http://163.172.82.81:50100/www.drsharing.com/drsharing/45
+#EXTINF:-1,FR=Equidia-Live-HD
+http://163.172.82.81:50100/www.drsharing.com/drsharing/2855
+#EXTINF:-1,FR=EuroNews
+http://163.172.82.81:50100/www.drsharing.com/drsharing/3173
+#EXTINF:-1,FR=EuroSport-1-HD
+http://163.172.82.81:50100/www.drsharing.com/drsharing/1148
+#EXTINF:-1,FR=EuroSport-2-HD
+http://163.172.82.81:50100/www.drsharing.com/drsharing/1149
+#EXTINF:-1,FR=SFR-Sport-1-HD
+http://163.172.82.81:50100/www.drsharing.com/drsharing/2819
+#EXTINF:-1,FR=SFR-Sport-2-HD
+http://163.172.82.81:50100/www.drsharing.com/drsharing/2818
+#EXTINF:-1,FR=SFR-Sport-3-HD
+http://163.172.82.81:50100/www.drsharing.com/drsharing/2817
+#EXTINF:-1,UK=Sky_Sports_Action_HD
+http://163.172.82.81:50100/www.drsharing.com/drsharing/270
+#EXTINF:-1,UK=Sky_Sports_Arena_HD
+http://163.172.82.81:50100/www.drsharing.com/drsharing/871
+#EXTINF:-1,UK=Sky_Sports_Cricket_HD
+http://163.172.82.81:50100/www.drsharing.com/drsharing/269
+#EXTINF:-1,UK=Sky_Sports_F1_HD
+http://163.172.82.81:50100/www.drsharing.com/drsharing/422
+#EXTINF:-1,UK=Sky_Sports_Football_HD
+http://163.172.82.81:50100/www.drsharing.com/drsharing/803
+#EXTINF:-1,UK=Sky_Sports_Golf_HD
+http://163.172.82.81:50100/www.drsharing.com/drsharing/425
+#EXTINF:-1,UK=Sky_Sports_Main_Event_HD
+http://163.172.82.81:50100/www.drsharing.com/drsharing/268
+#EXTINF:-1,UK=Sky_Sports_Mix_HD
+http://163.172.82.81:50100/www.drsharing.com/drsharing/2261
+#EXTINF:-1,UK=Sky_Sports_News_HD
+http://163.172.82.81:50100/www.drsharing.com/drsharing/802
+#EXTINF:-1,UK=Sky_Sports_Premier_League_HD
+http://163.172.82.81:50100/www.drsharing.com/drsharing/271
+#EXTINF:-1,UK=SkyNet-Sports-1
+http://163.172.82.81:50100/www.drsharing.com/drsharing/2277
+#EXTINF:-1,UK=SkyNet-Sports-2
+http://163.172.82.81:50100/www.drsharing.com/drsharing/2276
+#EXTINF:-1,UK=SkyNet-Sports-3
+http://163.172.82.81:50100/www.drsharing.com/drsharing/2278
+#EXTINF:-1,UK=SkyNet-Sports-4
+http://163.172.82.81:50100/www.drsharing.com/drsharing/2275
+#EXTINF:-1,UK=SkyNet-Sports-5
+http://163.172.82.81:50100/www.drsharing.com/drsharing/2274
+#EXTINF:-1,UK=SkyNet-Sports-6
+http://163.172.82.81:50100/www.drsharing.com/drsharing/2273
+#EXTINF:-1,USA=BeinSport-HD
+http://163.172.82.81:50100/www.drsharing.com/drsharing/1465
+#EXTINF:-1,USA=BLOOMBERG-TV
+http://163.172.82.81:50100/www.drsharing.com/drsharing/2663
+#EXTINF:-1,USA=Bravo-HD
+http://163.172.82.81:50100/www.drsharing.com/drsharing/2093
+#EXTINF:-1,USA=BT-Sport-ESPN-HD
+http://163.172.82.81:50100/www.drsharing.com/drsharing/2341
+#EXTINF:-1,USA=C-SPAN-1-HD
+http://163.172.82.81:50100/www.drsharing.com/drsharing/2646
+#EXTINF:-1,USA=C-SPAN-2-HD
+http://163.172.82.81:50100/www.drsharing.com/drsharing/2645
+#EXTINF:-1,USA=C-SPAN-3-HD
+http://163.172.82.81:50100/www.drsharing.com/drsharing/2644
+#EXTINF:-1,USA=CBN-News-HD
+http://163.172.82.81:50100/www.drsharing.com/drsharing/1450
+#EXTINF:-1,USA=CBS Sports HD
+http://163.172.82.81:50100/www.drsharing.com/drsharing/4029
+#EXTINF:-1,USA=CBSN-News
+http://163.172.82.81:50100/www.drsharing.com/drsharing/2649
+#EXTINF:-1,USA=ESPN_U_HD
+http://163.172.82.81:50100/www.drsharing.com/drsharing/2656
+#EXTINF:-1,USA=ESPN-2
+http://163.172.82.81:50100/www.drsharing.com/drsharing/5228
+#EXTINF:-1,USA=ESPN-HD
+http://163.172.82.81:50100/www.drsharing.com/drsharing/1297
+#EXTINF:-1,USA=Fight Sports HD
+http://163.172.82.81:50100/www.drsharing.com/drsharing/4027
+#EXTINF:-1,USA=Fight-Sport-1
+http://163.172.82.81:50100/www.drsharing.com/drsharing/2653
+#EXTINF:-1,USA=Food-Network-HD
+http://163.172.82.81:50100/www.drsharing.com/drsharing/2329
+#EXTINF:-1,USA=Fox-News-HD
+http://163.172.82.81:50100/www.drsharing.com/drsharing/1645
+#EXTINF:-1,USA=FS1-Fox-Sports-1-HD
+http://163.172.82.81:50100/www.drsharing.com/drsharing/1288
+#EXTINF:-1,USA=FS1-Fox-Sports-2-HD
+http://163.172.82.81:50100/www.drsharing.com/drsharing/1323
+#EXTINF:-1,USA=Sports Net 360 HD
+http://163.172.82.81:50100/www.drsharing.com/drsharing/4016
+#EXTINF:-1,USA=SPORTSMAN CHANNEL HD
+http://163.172.82.81:50100/www.drsharing.com/drsharing/4014
+#EXTINF:-1,USA=SportsNet-One-HD
+http://163.172.82.81:50100/www.drsharing.com/drsharing/1281
+#EXTINF:-1,USA=SportsNet-Ontorio-HD
+http://163.172.82.81:50100/www.drsharing.com/drsharing/1493
